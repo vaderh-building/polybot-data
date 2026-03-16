@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-16T23:15:37.304303+00:00",
+  "generated_at_utc": "2026-03-16T23:17:46.108054+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 152.5,
-      "attention_focus_score": 149.0,
-      "item_count": 37,
+      "topic_score": 149.84,
+      "attention_focus_score": 146.34,
+      "item_count": 36,
       "source_count": 8,
       "platform_count": 7,
       "sources": [
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 13,956 upvotes · 💬 1,326 comments · r/politics",
+          "summary": "⬆ 13,976 upvotes · 💬 1,326 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 3,027 upvotes · 💬 604 comments · r/news",
+          "summary": "⬆ 3,035 upvotes · 💬 603 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -108,7 +108,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,857 upvotes · 💬 294 comments · r/worldnews",
+          "summary": "⬆ 4,858 upvotes · 💬 294 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -118,7 +118,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 26,512 upvotes · 💬 2,003 comments · r/worldnews",
+          "summary": "⬆ 26,515 upvotes · 💬 2,004 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -128,7 +128,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 18,368 upvotes · 💬 3,435 comments · r/worldnews",
+          "summary": "⬆ 18,360 upvotes · 💬 3,439 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -138,7 +138,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 11,552 upvotes · 💬 454 comments · r/news",
+          "summary": "⬆ 11,557 upvotes · 💬 455 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -148,7 +148,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 4,704 upvotes · 💬 842 comments · r/worldnews",
+          "summary": "⬆ 4,718 upvotes · 💬 844 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -158,8 +158,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 81.5,
-      "attention_focus_score": 81.5,
+      "topic_score": 81.0,
+      "attention_focus_score": 81.0,
       "item_count": 22,
       "source_count": 1,
       "platform_count": 1,
@@ -192,22 +192,22 @@
         },
         {
           "source": "coindesk",
-          "title": "OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
-          "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
-          "summary": "The platform will end its rewards waves, offer optional fee refunds for certain traders and introduce 0% token trading fees for 60 days starting March 31 as it promotes its revamped marketplace.",
-          "published_at": "2026-03-16 21:17:18+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 5.5
-        },
-        {
-          "source": "coindesk",
           "title": "AI-linked crypto tokens surge as Nvidia's Jensen Huang touts agentic future",
           "url": "https://www.coindesk.com/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
           "summary": "CEO Jensen Huang predicted $1 trillion in chip demand through 2027 and praised OpenClaw and the rapid rise of agentic AI systems.",
           "published_at": "2026-03-16 22:20:35+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
+          "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
+          "summary": "The platform will end its rewards waves, offer optional fee refunds for certain traders and introduce 0% token trading fees for 60 days starting March 31 as it promotes its revamped marketplace.",
+          "published_at": "2026-03-16 21:17:18+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
           "gravity_score": 5.0
         },
         {
@@ -242,7 +242,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 808 upvotes · 💬 61 comments · r/worldnews",
+          "summary": "⬆ 811 upvotes · 💬 61 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -773,14 +773,6 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
-        "score": 5.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
-        "source_label": "CoinDesk"
-      },
-      {
         "topic": "politics",
         "title": "[The Hill] House Republicans ramp up pressure on Senate to pass SAVE America Act",
         "score": 5.5,
@@ -794,6 +786,14 @@
         "score": 5.0,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+        "score": 5.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
         "source_label": "CNBC"
       }
     ]
