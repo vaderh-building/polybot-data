@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-16T21:27:44.300473+00:00",
+  "generated_at_utc": "2026-03-16T21:29:51.362697+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 147.18,
-      "attention_focus_score": 143.68,
+      "topic_score": 146.11,
+      "attention_focus_score": 142.61,
       "item_count": 36,
       "source_count": 8,
       "platform_count": 7,
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 12,521 upvotes · 💬 1,231 comments · r/politics",
+          "summary": "⬆ 12,556 upvotes · 💬 1,235 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,21 +42,11 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 2,344 upvotes · 💬 503 comments · r/news",
+          "summary": "⬆ 2,364 upvotes · 💬 508 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.75
-        },
-        {
-          "source": "cnbc",
-          "title": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
-          "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
-          "summary": "Gurley's VC firm Benchmark was an early Uber investor, and he helped oust then-CEO Travis Kalanick in 2017.",
-          "published_at": "2026-03-16 20:57:57+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
         },
         {
           "source": "cnbc",
@@ -70,6 +60,16 @@
         },
         {
           "source": "cnbc",
+          "title": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+          "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+          "summary": "Gurley's VC firm Benchmark was an early Uber investor, and he helped oust then-CEO Travis Kalanick in 2017.",
+          "published_at": "2026-03-16 20:57:57+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "cnbc",
           "title": "Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
           "url": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
           "summary": "Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know.",
@@ -77,82 +77,6 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 4.5
-        }
-      ]
-    },
-    {
-      "topic": "geopolitics",
-      "topic_score": 116.16,
-      "attention_focus_score": 113.16,
-      "item_count": 25,
-      "source_count": 7,
-      "platform_count": 5,
-      "sources": [
-        "bbc_top",
-        "bbc_world",
-        "cnbc",
-        "npr_news",
-        "reddit_news",
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,547 upvotes · 💬 287 comments · r/worldnews",
-          "published_at": "2026-03-16 10:38:53+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 2,
-          "gravity_score": 7.25
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 25,784 upvotes · 💬 1,956 comments · r/worldnews",
-          "published_at": "2026-03-16 04:44:55+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 18,124 upvotes · 💬 3,394 comments · r/worldnews",
-          "published_at": "2026-03-16 00:19:32+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
-          "source": "reddit_news",
-          "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
-          "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 10,992 upvotes · 💬 442 comments · r/news",
-          "published_at": "2026-03-16 12:46:46+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Australia rejects role in Strait of Hormuz amid ship strikes",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ruusfj/australia_rejects_role_in_strait_of_hormuz_amid/",
-          "summary": "⬆ 5,572 upvotes · 💬 371 comments · r/worldnews",
-          "published_at": "2026-03-16 00:30:44+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
         }
       ]
     },
@@ -223,6 +147,81 @@
       ]
     },
     {
+      "topic": "geopolitics",
+      "topic_score": 64.51,
+      "attention_focus_score": 62.01,
+      "item_count": 16,
+      "source_count": 6,
+      "platform_count": 5,
+      "sources": [
+        "bbc_top",
+        "bbc_world",
+        "cnbc",
+        "npr_news",
+        "reddit_news",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_news",
+          "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
+          "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
+          "summary": "⬆ 11,006 upvotes · 💬 442 comments · r/news",
+          "published_at": "2026-03-16 12:46:46+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
+        },
+        {
+          "source": "reddit_news",
+          "title": "Flights suspended after drone strike near Dubai International Airport",
+          "url": "https://www.reddit.com/r/news/comments/1rux20h/flights_suspended_after_drone_strike_near_dubai/",
+          "summary": "⬆ 4,327 upvotes · 💬 269 comments · r/news",
+          "published_at": "2026-03-16 02:12:59+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
+        },
+        {
+          "source": "cnbc",
+          "title": "UAE’s Fujairah oil trading hub targeted by a drone attack, causing large fire",
+          "url": "https://www.cnbc.com/2026/03/16/uae-fujairah-oil-hub-drone-fire-iran-war-us-israel-middle-east.html",
+          "summary": "It comes after a separate drone strike at Fujairah on Saturday, underlining the vulnerability of the UAE's only export route that bypasses the Strait of Hormuz.",
+          "published_at": "2026-03-16 09:06:47+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "cnbc",
+          "title": "Trump signals coalition to force open Strait of Hormuz is not ready yet: 'Some are less than enthusiastic'",
+          "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html",
+          "summary": "President Donald Trump said Monday that some U.S. allies are not willing to join a coalition to protect tankers in the Strait of Hormuz.",
+          "published_at": "2026-03-16 19:44:15+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
+        },
+        {
+          "source": "cnbc",
+          "title": "U.S. is allowing Iranian oil tankers through Strait of Hormuz, says Bessent",
+          "url": "https://www.cnbc.com/2026/03/16/us-is-allowing-iranian-tankers-through-strait-of-hormuz-says-bessent.html",
+          "summary": "The White House believes tanker traffic through the Strait of Hormuz will increase before Navy escorts are deployed, Treasury Secretary Scott Bessent said.",
+          "published_at": "2026-03-16 15:36:49+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 3.5
+        }
+      ]
+    },
+    {
       "topic": "social_virality",
       "topic_score": 11.21,
       "attention_focus_score": 10.71,
@@ -242,7 +241,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 432 upvotes · 💬 23 comments · r/news",
+          "summary": "⬆ 427 upvotes · 💬 23 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -257,44 +256,6 @@
           "topic": "social_virality",
           "keyword_hits": 1,
           "gravity_score": 3.6
-        }
-      ]
-    },
-    {
-      "topic": "everyday_economy",
-      "topic_score": 10.63,
-      "attention_focus_score": 10.13,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
-      "sources": [
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 494 upvotes · 💬 46 comments · r/worldnews",
-          "published_at": "2026-03-16 17:54:20+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.53
-        },
-        {
-          "source": "thehill",
-          "title": "Judge temporarily halts Trump demand for race-based admissions data from universities",
-          "url": "https://thehill.com/homenews/education/5786403-race-college-admissions/",
-          "summary": "A judge ruled on Friday to temporarily stall efforts by the Trump administrations demanding race-based admissions data from universities. U.S. District Judge F. Dennis Saylor ruled in favor of the 17 blue states that challenged the administration’s new reporting requirements, arguing they were costly and burdensome to universities.&#160;&#160; The Trump administration wants to implement the&#160;“Admissions and Consumer&#8230;",
-          "published_at": "2026-03-16 18:20:14+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 2.6
         }
       ]
     },
@@ -343,6 +304,32 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.03
+        }
+      ]
+    },
+    {
+      "topic": "everyday_economy",
+      "topic_score": 2.6,
+      "attention_focus_score": 2.6,
+      "item_count": 1,
+      "source_count": 1,
+      "platform_count": 1,
+      "sources": [
+        "thehill"
+      ],
+      "platforms": [
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "thehill",
+          "title": "Judge temporarily halts Trump demand for race-based admissions data from universities",
+          "url": "https://thehill.com/homenews/education/5786403-race-college-admissions/",
+          "summary": "A judge ruled on Friday to temporarily stall efforts by the Trump administrations demanding race-based admissions data from universities. U.S. District Judge F. Dennis Saylor ruled in favor of the 17 blue states that challenged the administration’s new reporting requirements, arguing they were costly and burdensome to universities.&#160;&#160; The Trump administration wants to implement the&#160;“Admissions and Consumer&#8230;",
+          "published_at": "2026-03-16 18:20:14+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 2.6
         }
       ]
     }
@@ -398,12 +385,12 @@
     },
     {
       "topic": "politics",
-      "event": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
-      "gravity_score": 6.0,
-      "priority_score": 18.0,
+      "event": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+      "gravity_score": 5.5,
+      "priority_score": 17.5,
       "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+      "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -414,19 +401,21 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?",
+        "Will this person step down from their role within 30 days?",
+        "Will this trigger a formal succession/replacement announcement?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "geopolitics",
-      "event": "German foreign minister does not see role for NATO in Strait of Hormuz",
-      "gravity_score": 7.25,
-      "priority_score": 15.25,
-      "source_platform": "reddit_worldnews",
+      "event": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
+      "gravity_score": 6.75,
+      "priority_score": 14.75,
+      "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
+      "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -435,21 +424,19 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?",
-        "Will a specific member state publicly commit troops or assets?"
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
-      "event": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
+      "event": "Flights suspended after drone strike near Dubai International Airport",
+      "gravity_score": 4.75,
+      "priority_score": 12.75,
+      "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
+      "url": "https://www.reddit.com/r/news/comments/1rux20h/flights_suspended_after_drone_strike_near_dubai/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -458,21 +445,19 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?",
-        "Will the SEC approve or reject the filing by the stated deadline?"
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
-      "event": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
+      "event": "UAE’s Fujairah oil trading hub targeted by a drone attack, causing large fire",
+      "gravity_score": 4.5,
+      "priority_score": 12.5,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
+      "url": "https://www.cnbc.com/2026/03/16/uae-fujairah-oil-hub-drone-fire-iran-war-us-israel-middle-east.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -481,10 +466,8 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?"
+        "Will crude oil close above/below a specific price within 14 days?",
+        "Will OPEC announce production changes in response?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -605,31 +588,31 @@
       },
       {
         "topic": "geopolitics",
-        "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
-        "score": 7.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
-        "score": 6.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
-        "score": 6.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/"
-      },
-      {
-        "topic": "geopolitics",
         "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
         "score": 6.75,
         "source": "reddit_news",
         "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/"
+      },
+      {
+        "topic": "politics",
+        "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
+        "score": 6.75,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/"
+      },
+      {
+        "topic": "social_virality",
+        "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+        "score": 5.1,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "Flights suspended after drone strike near Dubai International Airport",
+        "score": 4.75,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rux20h/flights_suspended_after_drone_strike_near_dubai/"
       }
     ],
     "X": [
@@ -794,18 +777,18 @@
       },
       {
         "topic": "politics",
-        "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
         "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
         "score": 5.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+        "score": 5.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
         "source_label": "CNBC"
       }
     ]
