@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-16T19:22:32.379658+00:00",
+  "generated_at_utc": "2026-03-16T19:24:38.916215+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -14,8 +14,8 @@
         "coindesk",
         "npr_news",
         "politico",
-        "reddit_all",
         "reddit_news",
+        "reddit_politics",
         "thehill"
       ],
       "platforms": [
@@ -29,10 +29,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 9,351 upvotes · 💬 919 comments · r/all",
+          "summary": "⬆ 9,439 upvotes · 💬 923 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -62,7 +62,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 1,133 upvotes · 💬 306 comments · r/news",
+          "summary": "⬆ 1,154 upvotes · 💬 311 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -108,7 +108,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 24,415 upvotes · 💬 1,916 comments · r/worldnews",
+          "summary": "⬆ 24,438 upvotes · 💬 1,916 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -118,7 +118,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,703 upvotes · 💬 3,316 comments · r/worldnews",
+          "summary": "⬆ 17,714 upvotes · 💬 3,319 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -128,7 +128,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 9,820 upvotes · 💬 393 comments · r/news",
+          "summary": "⬆ 9,865 upvotes · 💬 393 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -138,7 +138,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,162 upvotes · 💬 274 comments · r/worldnews",
+          "summary": "⬆ 4,163 upvotes · 💬 274 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -158,8 +158,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 73.0,
-      "attention_focus_score": 73.0,
+      "topic_score": 79.0,
+      "attention_focus_score": 79.0,
       "item_count": 22,
       "source_count": 1,
       "platform_count": 1,
@@ -170,6 +170,16 @@
         "coindesk"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Ether surges 10%, leading crypto rebound as ETF demand, Bitmine buying pick up",
+          "url": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
+          "summary": "Fresh ETF inflows, digital asset treasury buying and a shift away from bitcoin to altcoins are helping lift the second-largest cryptocurrency.",
+          "published_at": "2026-03-16 19:23:48+00:00",
+          "topic": "crypto",
+          "keyword_hits": 3,
+          "gravity_score": 9.0
+        },
         {
           "source": "coindesk",
           "title": "Bitcoin eyes $75,000, nearing 25% bounce from February bottom",
@@ -206,16 +216,6 @@
           "url": "https://www.coindesk.com/tech/2026/03/16/ethereum-foundation-s-new-mandate-sparks-debate-about-its-role-priorities",
           "summary": "The document quickly sparked debate across the Ethereum community, with supporters saying it reinforces the network’s core principles. Critics, however, argue the mandate signals the foundation intends to take a backseat just as institutional interest in blockchain is accelerating.",
           "published_at": "2026-03-16 16:22:18+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
-        },
-        {
-          "source": "coindesk",
-          "title": "Circle is up 100% in a month: Why this boring stablecoin stock is suddenly the hottest trade in crypto",
-          "url": "https://www.coindesk.com/markets/2026/03/16/circle-is-up-100-in-a-month-why-this-boring-stablecoin-is-suddenly-the-hottest-trade-in-crypto",
-          "summary": "The stablecoin issuer has rallied as analysts point to growing demand for USDC, a higher interest-rate environment and the rapid expansion of tokenized assets.",
-          "published_at": "2026-03-16 16:15:58+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 3.5
@@ -290,7 +290,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 381 upvotes · 💬 21 comments · r/news",
+          "summary": "⬆ 382 upvotes · 💬 21 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -328,7 +328,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 183 upvotes · 💬 22 comments · r/worldnews",
+          "summary": "⬆ 189 upvotes · 💬 22 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -353,7 +353,7 @@
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 8.75,
       "priority_score": 20.75,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
       "platforms_discussing": [
@@ -505,6 +505,23 @@
       "verifiable_via": "Google Trends / Platform public APIs"
     },
     {
+      "topic": "crypto",
+      "event": "Ether surges 10%, leading crypto rebound as ETF demand, Bitmine buying pick up",
+      "gravity_score": 9.0,
+      "priority_score": 9.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
+      "platforms_discussing": [
+        "coindesk"
+      ],
+      "debatable_angles": [
+        "Will the ETF be approved by the regulatory deadline?",
+        "Will first-day trading volume exceed a specific threshold?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
       "topic": "music_charts",
       "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
       "gravity_score": 8.8,
@@ -573,24 +590,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "fashion",
-      "event": "\"Mori girl\" aesthetic revival surging — linen layers, cottagecore accessories trending among Gen Z",
-      "gravity_score": 8.3,
-      "priority_score": 8.3,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Fashion industry reports / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -599,7 +598,7 @@
         "topic": "politics",
         "title": "Major White House Split Leaks as Trump’s War Spirals",
         "score": 8.75,
-        "source": "reddit_all",
+        "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
       },
       {
@@ -732,7 +731,28 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "xrp",
+        "title": "brentford vs wolves",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "rayo vallecano - levante",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "cremonese vs fiorentina",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "united states park police",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -743,30 +763,17 @@
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "neymar",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "cuba",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "dlss 5",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Ether surges 10%, leading crypto rebound as ETF demand, Bitmine buying pick up",
+        "score": 9.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
+        "source_label": "CoinDesk"
+      },
       {
         "topic": "politics",
         "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
@@ -797,14 +804,6 @@
         "score": 6.0,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "[CNBC] Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
         "source_label": "CNBC"
       }
     ]
