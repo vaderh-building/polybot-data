@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-16T19:09:30.824075+00:00",
+  "generated_at_utc": "2026-03-16T19:11:45.060285+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_all",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 8,791 upvotes · 💬 859 comments · r/all",
+          "summary": "⬆ 8,903 upvotes · 💬 871 comments · r/all",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -62,7 +62,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 1,007 upvotes · 💬 289 comments · r/news",
+          "summary": "⬆ 1,028 upvotes · 💬 289 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,8 +82,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 131.26,
-      "attention_focus_score": 128.26,
+      "topic_score": 132.32,
+      "attention_focus_score": 129.32,
       "item_count": 28,
       "source_count": 7,
       "platform_count": 5,
@@ -108,7 +108,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 24,314 upvotes · 💬 1,908 comments · r/worldnews",
+          "summary": "⬆ 24,325 upvotes · 💬 1,910 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -118,7 +118,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,655 upvotes · 💬 3,306 comments · r/worldnews",
+          "summary": "⬆ 17,670 upvotes · 💬 3,309 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -128,7 +128,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 9,639 upvotes · 💬 391 comments · r/news",
+          "summary": "⬆ 9,666 upvotes · 💬 391 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -138,7 +138,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,120 upvotes · 💬 270 comments · r/worldnews",
+          "summary": "⬆ 4,132 upvotes · 💬 271 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -223,83 +223,31 @@
       ]
     },
     {
-      "topic": "social_virality",
-      "topic_score": 11.21,
-      "attention_focus_score": 10.71,
-      "item_count": 2,
+      "topic": "reality_tv",
+      "topic_score": 12.39,
+      "attention_focus_score": 11.89,
+      "item_count": 3,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
-        "bbc_world",
-        "reddit_news"
+        "bbc_top",
+        "thehill"
       ],
       "platforms": [
         "bbc",
-        "reddit"
+        "thehill"
       ],
       "top_items": [
         {
-          "source": "reddit_news",
-          "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
-          "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 376 upvotes · 💬 21 comments · r/news",
-          "published_at": "2026-03-16 10:16:07+00:00",
-          "topic": "social_virality",
+          "source": "bbc_top",
+          "title": "From Bodo to Brentford - ranking this season's biggest overachievers",
+          "url": "https://www.bbc.com/sport/football/articles/cd6z8713w1no?at_medium=RSS&at_campaign=rss",
+          "summary": "Bodo/Glimt must be the most romantic story in European football in decades but are they the team that has defied the odds the most this season? Here are all 10 contenders...",
+          "published_at": "2026-03-16 19:06:45+00:00",
+          "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 5.1
+          "gravity_score": 6.08
         },
-        {
-          "source": "bbc_world",
-          "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
-          "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
-          "summary": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears.",
-          "published_at": "2026-03-16 06:10:55+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 3.6
-        }
-      ]
-    },
-    {
-      "topic": "everyday_economy",
-      "topic_score": 4.55,
-      "attention_focus_score": 4.55,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "thehill"
-      ],
-      "platforms": [
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "thehill",
-          "title": "Judge temporarily halts Trump demand for race-based admissions data from universities",
-          "url": "https://thehill.com/homenews/education/5786403-race-college-admissions/",
-          "summary": "A judge ruled on Friday to temporarily stall efforts by the Trump administrations demanding race-based admissions data from universities. U.S. District Judge F. Dennis Saylor ruled in favor of the 17 blue states that challenged the administration’s new reporting requirements, arguing they were costly and burdensome to universities.&#160;&#160; The Trump administration wants to implement the&#160;“Admissions and Consumer&#8230;",
-          "published_at": "2026-03-16 18:20:14+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
-        }
-      ]
-    },
-    {
-      "topic": "reality_tv",
-      "topic_score": 4.06,
-      "attention_focus_score": 4.06,
-      "item_count": 2,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "thehill"
-      ],
-      "platforms": [
-        "thehill"
-      ],
-      "top_items": [
         {
           "source": "thehill",
           "title": "The Fed cannot fix what it did not break",
@@ -319,6 +267,82 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.03
+        }
+      ]
+    },
+    {
+      "topic": "everyday_economy",
+      "topic_score": 11.96,
+      "attention_focus_score": 11.46,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
+          "summary": "⬆ 165 upvotes · 💬 21 comments · r/worldnews",
+          "published_at": "2026-03-16 17:54:20+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.88
+        },
+        {
+          "source": "thehill",
+          "title": "Judge temporarily halts Trump demand for race-based admissions data from universities",
+          "url": "https://thehill.com/homenews/education/5786403-race-college-admissions/",
+          "summary": "A judge ruled on Friday to temporarily stall efforts by the Trump administrations demanding race-based admissions data from universities. U.S. District Judge F. Dennis Saylor ruled in favor of the 17 blue states that challenged the administration’s new reporting requirements, arguing they were costly and burdensome to universities.&#160;&#160; The Trump administration wants to implement the&#160;“Admissions and Consumer&#8230;",
+          "published_at": "2026-03-16 18:20:14+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
+        }
+      ]
+    },
+    {
+      "topic": "social_virality",
+      "topic_score": 11.21,
+      "attention_focus_score": 10.71,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "bbc_world",
+        "reddit_news"
+      ],
+      "platforms": [
+        "bbc",
+        "reddit"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_news",
+          "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+          "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
+          "summary": "⬆ 378 upvotes · 💬 21 comments · r/news",
+          "published_at": "2026-03-16 10:16:07+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 5.1
+        },
+        {
+          "source": "bbc_world",
+          "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
+          "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
+          "summary": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears.",
+          "published_at": "2026-03-16 06:10:55+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 3.6
         }
       ]
     }
@@ -751,6 +775,14 @@
         "source_label": "CNBC"
       },
       {
+        "topic": "reality_tv",
+        "title": "[BBC] From Bodo to Brentford - ranking this season's biggest overachievers",
+        "score": 6.08,
+        "source": "bbc_top",
+        "url": "https://www.bbc.com/sport/football/articles/cd6z8713w1no?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
+      },
+      {
         "topic": "politics",
         "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
         "score": 6.0,
@@ -773,14 +805,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-eyes-usd75-000-nearing-25-bounce-from-february-bottom",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Trump says Israel won’t use a nuclear weapon in Iran",
-        "score": 5.0,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/administration/5786393-israel-iran-nuclear-risk/",
-        "source_label": "The Hill"
       }
     ]
   }
