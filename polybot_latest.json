@@ -1,16 +1,15 @@
 {
-  "generated_at_utc": "2026-03-16T17:49:05.453581+00:00",
+  "generated_at_utc": "2026-03-16T17:49:28.765336+00:00",
   "top_topics": [
     {
       "topic": "geopolitics",
-      "topic_score": 96.59,
-      "attention_focus_score": 94.59,
-      "item_count": 15,
-      "source_count": 5,
+      "topic_score": 102.99,
+      "attention_focus_score": 101.49,
+      "item_count": 16,
+      "source_count": 4,
       "platform_count": 2,
       "sources": [
         "cnbc",
-        "reddit_all",
         "reddit_news",
         "reddit_politics",
         "reddit_worldnews"
@@ -24,7 +23,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 23,277 upvotes · 💬 1,855 comments · r/worldnews",
+          "summary": "⬆ 23,272 upvotes · 💬 1,855 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -34,17 +33,17 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,249 upvotes · 💬 3,212 comments · r/worldnews",
+          "summary": "⬆ 17,244 upvotes · 💬 3,212 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
-          "source": "reddit_all",
+          "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 8,335 upvotes · 💬 343 comments · r/all",
+          "summary": "⬆ 8,338 upvotes · 💬 343 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -54,33 +53,34 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 3,771 upvotes · 💬 256 comments · r/worldnews",
+          "summary": "⬆ 3,775 upvotes · 💬 256 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
           "gravity_score": 6.25
         },
         {
-          "source": "reddit_worldnews",
-          "title": "Iran threatens to escalate war after Trump says ‘many countries’ will send warships to strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ruo8hz/iran_threatens_to_escalate_war_after_trump_says/",
-          "summary": "⬆ 6,703 upvotes · 💬 667 comments · r/worldnews",
-          "published_at": "2026-03-15 20:07:13+00:00",
+          "source": "cnbc",
+          "title": "Strait of Hormuz standoff puts supply of America's generic drug prescriptions at risk",
+          "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-closure-generic-drug-prescriptions.html",
+          "summary": "Half of US generic drugs are made in India and transit the Strait of Hormuz. Supply chains prepare for emergencies, but prescription stockpiles are limited.",
+          "published_at": "2026-03-16 17:48:59+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.75
+          "gravity_score": 6.0
         }
       ]
     },
     {
       "topic": "politics",
-      "topic_score": 33.2,
+      "topic_score": 33.7,
       "attention_focus_score": 32.2,
       "item_count": 4,
-      "source_count": 3,
+      "source_count": 4,
       "platform_count": 2,
       "sources": [
         "cnbc",
+        "reddit_all",
         "reddit_news",
         "reddit_politics"
       ],
@@ -90,10 +90,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 4,763 upvotes · 💬 455 comments · r/politics",
+          "summary": "⬆ 4,797 upvotes · 💬 457 comments · r/all",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -113,7 +113,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 422 upvotes · 💬 170 comments · r/news",
+          "summary": "⬆ 432 upvotes · 💬 169 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -123,7 +123,7 @@
           "source": "reddit_politics",
           "title": "Trump allies plan Senate floor takeover to pass SAVE America Act",
           "url": "https://www.reddit.com/r/politics/comments/1rv5juu/trump_allies_plan_senate_floor_takeover_to_pass/",
-          "summary": "⬆ 4,318 upvotes · 💬 734 comments · r/politics",
+          "summary": "⬆ 4,318 upvotes · 💬 735 comments · r/politics",
           "published_at": "2026-03-16 10:14:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -164,7 +164,7 @@
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 7.75,
       "priority_score": 9.75,
-      "source_platform": "reddit_politics",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
       "platforms_discussing": [
@@ -347,7 +347,7 @@
       "event": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
       "gravity_score": 6.25,
       "priority_score": 8.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_news",
       "source_label": "",
       "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
       "platforms_discussing": [
@@ -387,7 +387,7 @@
         "topic": "politics",
         "title": "Major White House Split Leaks as Trump’s War Spirals",
         "score": 7.75,
-        "source": "reddit_politics",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
       },
       {
@@ -408,7 +408,7 @@
         "topic": "geopolitics",
         "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
         "score": 6.25,
-        "source": "reddit_all",
+        "source": "reddit_news",
         "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/"
       },
       {
@@ -547,6 +547,14 @@
         "score": 6.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "[CNBC] Strait of Hormuz standoff puts supply of America's generic drug prescriptions at risk",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-closure-generic-drug-prescriptions.html",
         "source_label": "CNBC"
       },
       {
