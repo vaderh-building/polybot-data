@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-16T19:46:16.228246+00:00",
+  "generated_at_utc": "2026-03-16T19:48:24.347628+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 157.29,
-      "attention_focus_score": 153.79,
+      "topic_score": 155.69,
+      "attention_focus_score": 152.19,
       "item_count": 38,
       "source_count": 8,
       "platform_count": 7,
@@ -14,8 +14,8 @@
         "coindesk",
         "npr_news",
         "politico",
-        "reddit_all",
         "reddit_news",
+        "reddit_politics",
         "thehill"
       ],
       "platforms": [
@@ -29,10 +29,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 10,193 upvotes · 💬 1,016 comments · r/all",
+          "summary": "⬆ 10,260 upvotes · 💬 1,024 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 1,341 upvotes · 💬 341 comments · r/news",
+          "summary": "⬆ 1,363 upvotes · 💬 349 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -70,21 +70,21 @@
         },
         {
           "source": "cnbc",
-          "title": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
-          "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
-          "summary": "Gurley's VC firm Benchmark was an early Uber investor, and he helped oust then-CEO Travis Kalanick in 2017.",
-          "published_at": "2026-03-16 18:46:53+00:00",
+          "title": "Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
+          "url": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
+          "summary": "Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know.",
+          "published_at": "2026-03-15 21:37:47+00:00",
           "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 133.91,
-      "attention_focus_score": 130.91,
-      "item_count": 29,
+      "topic_score": 137.89,
+      "attention_focus_score": 134.89,
+      "item_count": 30,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -108,7 +108,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 24,632 upvotes · 💬 1,919 comments · r/worldnews",
+          "summary": "⬆ 24,656 upvotes · 💬 1,919 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -118,7 +118,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,782 upvotes · 💬 3,334 comments · r/worldnews",
+          "summary": "⬆ 17,793 upvotes · 💬 3,335 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -128,7 +128,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 10,139 upvotes · 💬 401 comments · r/news",
+          "summary": "⬆ 10,173 upvotes · 💬 401 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -138,7 +138,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,216 upvotes · 💬 274 comments · r/worldnews",
+          "summary": "⬆ 4,218 upvotes · 💬 274 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -242,7 +242,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 400 upvotes · 💬 22 comments · r/news",
+          "summary": "⬆ 394 upvotes · 💬 22 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -328,7 +328,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 219 upvotes · 💬 26 comments · r/worldnews",
+          "summary": "⬆ 222 upvotes · 💬 26 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -364,7 +364,7 @@
           "source": "reddit_all",
           "title": "TIL Kelly Clarkson lost “hundreds of thousands of dollars” when she declined a co-writing credit on her 2009 number-one single \"My Life Would Suck Without You\" because she refused to have her name associated with Dr. Luke, the producer and primary writer of the song.",
           "url": "https://www.reddit.com/r/todayilearned/comments/1rvfjcz/til_kelly_clarkson_lost_hundreds_of_thousands_of/",
-          "summary": "⬆ 5,456 upvotes · 💬 291 comments · r/all",
+          "summary": "⬆ 5,521 upvotes · 💬 294 comments · r/all",
           "published_at": "2026-03-16 17:11:30+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -379,7 +379,7 @@
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 8.75,
       "priority_score": 20.75,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
       "platforms_discussing": [
@@ -632,7 +632,7 @@
         "topic": "politics",
         "title": "Major White House Split Leaks as Trump’s War Spirals",
         "score": 8.75,
-        "source": "reddit_all",
+        "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
       },
       {
@@ -826,11 +826,11 @@
         "source_label": "NPR"
       },
       {
-        "topic": "politics",
-        "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+        "topic": "geopolitics",
+        "title": "[CNBC] Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
         "score": 5.0,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+        "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
         "source_label": "CNBC"
       }
     ]
