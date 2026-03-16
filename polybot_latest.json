@@ -1,17 +1,16 @@
 {
-  "generated_at_utc": "2026-03-16T17:55:50.969476+00:00",
+  "generated_at_utc": "2026-03-16T17:57:34.279045+00:00",
   "top_topics": [
     {
       "topic": "geopolitics",
-      "topic_score": 102.99,
-      "attention_focus_score": 101.49,
-      "item_count": 16,
-      "source_count": 4,
+      "topic_score": 107.09,
+      "attention_focus_score": 106.09,
+      "item_count": 18,
+      "source_count": 3,
       "platform_count": 2,
       "sources": [
         "cnbc",
         "reddit_news",
-        "reddit_politics",
         "reddit_worldnews"
       ],
       "platforms": [
@@ -23,7 +22,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 23,401 upvotes · 💬 1,863 comments · r/worldnews",
+          "summary": "⬆ 23,431 upvotes · 💬 1,866 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -33,7 +32,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,290 upvotes · 💬 3,221 comments · r/worldnews",
+          "summary": "⬆ 17,317 upvotes · 💬 3,223 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -43,7 +42,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 8,484 upvotes · 💬 349 comments · r/news",
+          "summary": "⬆ 8,524 upvotes · 💬 350 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -53,7 +52,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 3,806 upvotes · 💬 256 comments · r/worldnews",
+          "summary": "⬆ 3,819 upvotes · 💬 256 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -73,19 +72,23 @@
     },
     {
       "topic": "politics",
-      "topic_score": 33.7,
-      "attention_focus_score": 32.2,
-      "item_count": 4,
-      "source_count": 4,
-      "platform_count": 2,
+      "topic_score": 94.28,
+      "attention_focus_score": 91.78,
+      "item_count": 19,
+      "source_count": 6,
+      "platform_count": 4,
       "sources": [
         "cnbc",
+        "coindesk",
+        "politico",
         "reddit_all",
         "reddit_news",
         "reddit_politics"
       ],
       "platforms": [
         "cnbc",
+        "coindesk",
+        "politico",
         "reddit"
       ],
       "top_items": [
@@ -93,7 +96,7 @@
           "source": "reddit_all",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 5,157 upvotes · 💬 497 comments · r/all",
+          "summary": "⬆ 5,275 upvotes · 💬 506 comments · r/all",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -113,21 +116,97 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 489 upvotes · 💬 180 comments · r/news",
+          "summary": "⬆ 504 upvotes · 💬 184 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.25
         },
         {
+          "source": "cnbc",
+          "title": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+          "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+          "summary": "Gurley's VC firm Benchmark was an early Uber investor, and he helped oust then-CEO Travis Kalanick in 2017.",
+          "published_at": "2026-03-16 17:35:50+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
           "source": "reddit_politics",
           "title": "Trump allies plan Senate floor takeover to pass SAVE America Act",
           "url": "https://www.reddit.com/r/politics/comments/1rv5juu/trump_allies_plan_senate_floor_takeover_to_pass/",
-          "summary": "⬆ 4,394 upvotes · 💬 741 comments · r/politics",
+          "summary": "⬆ 4,408 upvotes · 💬 744 comments · r/politics",
           "published_at": "2026-03-16 10:14:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.75
+        }
+      ]
+    },
+    {
+      "topic": "crypto",
+      "topic_score": 77.5,
+      "attention_focus_score": 77.5,
+      "item_count": 22,
+      "source_count": 1,
+      "platform_count": 1,
+      "sources": [
+        "coindesk"
+      ],
+      "platforms": [
+        "coindesk"
+      ],
+      "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Bitcoin eyes $75,000, nearing 25% bounce from February bottom",
+          "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-eyes-usd75-000-nearing-25-bounce-from-february-bottom",
+          "summary": "Gains came for crypto and stocks as tensions around the Strait of Hormuz appeared to ease slightly, sending oil prices lower.",
+          "published_at": "2026-03-16 14:26:41+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "SEC drops lawsuit against BitClout’s Nader Al-Naji",
+          "url": "https://www.coindesk.com/policy/2026/03/16/sec-drops-case-against-bitclout-s-nader-al-naji",
+          "summary": "The regulator ended its civil enforcement case accusing the DeSo creator of wire fraud and selling unregistered crypto securities.",
+          "published_at": "2026-03-16 12:05:55+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "The SEC and CFTC join hands: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/03/15/the-sec-and-cftc-join-hands-state-of-crypto",
+          "summary": "The SEC and CFTC signed a memorandum of understanding to do a better job providing a combined regulatory approach to the digital asset sector.",
+          "published_at": "2026-03-15 19:33:07+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "coindesk",
+          "title": "Ethereum Foundation’s new mandate sparks debate about its role, priorities",
+          "url": "https://www.coindesk.com/tech/2026/03/16/ethereum-foundation-s-new-mandate-sparks-debate-about-its-role-priorities",
+          "summary": "The document quickly sparked debate across the Ethereum community, with supporters saying it reinforces the network’s core principles. Critics, however, argue the mandate signals the foundation intends to take a backseat just as institutional interest in blockchain is accelerating.",
+          "published_at": "2026-03-16 16:22:18+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Circle is up 100% in a month: Why this boring stablecoin stock is suddenly the hottest trade in crypto",
+          "url": "https://www.coindesk.com/markets/2026/03/16/circle-is-up-100-in-a-month-why-this-boring-stablecoin-is-suddenly-the-hottest-trade-in-crypto",
+          "summary": "The stablecoin issuer has rallied as analysts point to growing demand for USDC, a higher interest-rate environment and the rapid expansion of tokenized assets.",
+          "published_at": "2026-03-16 16:15:58+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
         }
       ]
     },
@@ -163,17 +242,63 @@
       "topic": "politics",
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 7.75,
-      "priority_score": 9.75,
+      "priority_score": 13.75,
       "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
       "platforms_discussing": [
         "cnbc",
+        "coindesk",
+        "politico",
         "reddit"
       ],
       "debatable_angles": [
         "Will this lead to a formal policy change or executive action?",
         "Will a resignation or staffing change follow within 30 days?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+      "gravity_score": 6.5,
+      "priority_score": 12.5,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?",
+        "Will this person step down from their role within 30 days?",
+        "Will this trigger a formal succession/replacement announcement?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
+      "gravity_score": 6.25,
+      "priority_score": 12.25,
+      "source_platform": "reddit_news",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?",
+        "Will this person step down from their role within 30 days?",
+        "Will this trigger a formal succession/replacement announcement?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -268,26 +393,6 @@
       "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
     },
     {
-      "topic": "politics",
-      "event": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
-      "gravity_score": 6.5,
-      "priority_score": 8.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
-      "platforms_discussing": [
-        "cnbc",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will this person step down from their role within 30 days?",
-        "Will this trigger a formal succession/replacement announcement?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
       "topic": "geopolitics",
       "event": "Trump threatens 500% tariffs on Russia if no Ukraine deal within 50 days",
       "gravity_score": 8.5,
@@ -359,26 +464,6 @@
         "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "politics",
-      "event": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
-      "gravity_score": 6.25,
-      "priority_score": 8.25,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-      "platforms_discussing": [
-        "cnbc",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will this person step down from their role within 30 days?",
-        "Will this trigger a formal succession/replacement announcement?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     }
   ],
   "platform_snapshots": {
@@ -538,6 +623,20 @@
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "neal dunn",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "segun olubi",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
@@ -547,6 +646,14 @@
         "score": 6.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
         "source_label": "CNBC"
       },
       {
@@ -564,6 +671,14 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Bitcoin eyes $75,000, nearing 25% bounce from February bottom",
+        "score": 5.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-eyes-usd75-000-nearing-25-bounce-from-february-bottom",
+        "source_label": "CoinDesk"
       }
     ]
   }
