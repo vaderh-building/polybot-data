@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-16T18:37:00.737864+00:00",
+  "generated_at_utc": "2026-03-16T18:39:13.194112+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -14,8 +14,8 @@
         "coindesk",
         "npr_news",
         "politico",
+        "reddit_all",
         "reddit_news",
-        "reddit_politics",
         "thehill"
       ],
       "platforms": [
@@ -29,10 +29,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 7,437 upvotes · 💬 731 comments · r/politics",
+          "summary": "⬆ 7,517 upvotes · 💬 737 comments · r/all",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -52,7 +52,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 696 upvotes · 💬 235 comments · r/news",
+          "summary": "⬆ 706 upvotes · 💬 238 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,9 +82,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 124.67,
-      "attention_focus_score": 122.17,
-      "item_count": 26,
+      "topic_score": 130.76,
+      "attention_focus_score": 128.26,
+      "item_count": 27,
       "source_count": 6,
       "platform_count": 5,
       "sources": [
@@ -104,10 +104,20 @@
       ],
       "top_items": [
         {
+          "source": "reddit_news",
+          "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
+          "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
+          "summary": "⬆ 9,249 upvotes · 💬 379 comments · r/news",
+          "published_at": "2026-03-16 12:46:46+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 7.25
+        },
+        {
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 24,001 upvotes · 💬 1,890 comments · r/worldnews",
+          "summary": "⬆ 24,024 upvotes · 💬 1,890 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -117,27 +127,17 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,508 upvotes · 💬 3,275 comments · r/worldnews",
+          "summary": "⬆ 17,522 upvotes · 💬 3,276 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
-          "source": "reddit_news",
-          "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
-          "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 9,220 upvotes · 💬 379 comments · r/news",
-          "published_at": "2026-03-16 12:46:46+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.25
-        },
-        {
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,023 upvotes · 💬 264 comments · r/worldnews",
+          "summary": "⬆ 4,041 upvotes · 💬 264 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -147,7 +147,7 @@
           "source": "reddit_worldnews",
           "title": "Iran threatens to escalate war after Trump says ‘many countries’ will send warships to strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruo8hz/iran_threatens_to_escalate_war_after_trump_says/",
-          "summary": "⬆ 6,729 upvotes · 💬 672 comments · r/worldnews",
+          "summary": "⬆ 6,725 upvotes · 💬 672 comments · r/worldnews",
           "published_at": "2026-03-15 20:07:13+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -241,7 +241,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 359 upvotes · 💬 19 comments · r/news",
+          "summary": "⬆ 360 upvotes · 💬 20 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -328,7 +328,7 @@
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 7.75,
       "priority_score": 19.75,
-      "source_platform": "reddit_politics",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
       "platforms_discussing": [
@@ -397,6 +397,27 @@
     },
     {
       "topic": "geopolitics",
+      "event": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
+      "gravity_score": 7.25,
+      "priority_score": 15.25,
+      "source_platform": "reddit_news",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
       "event": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
       "gravity_score": 6.75,
       "priority_score": 14.75,
@@ -438,27 +459,6 @@
         "Will an emergency NATO summit be convened within 30 days?",
         "Will the US or allies conduct a military strike?",
         "Will Iran close or restrict passage through the Strait of Hormuz?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
-      "gravity_score": 6.25,
-      "priority_score": 14.25,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -574,8 +574,15 @@
         "topic": "politics",
         "title": "Major White House Split Leaks as Trump’s War Spirals",
         "score": 7.75,
-        "source": "reddit_politics",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
+        "score": 7.25,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/"
       },
       {
         "topic": "geopolitics",
@@ -590,13 +597,6 @@
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
-        "score": 6.25,
-        "source": "reddit_news",
-        "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/"
       },
       {
         "topic": "geopolitics",
