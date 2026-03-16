@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-16T18:03:55.497665+00:00",
+  "generated_at_utc": "2026-03-16T18:04:23.031048+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 155.69,
-      "attention_focus_score": 152.19,
+      "topic_score": 154.63,
+      "attention_focus_score": 151.13,
       "item_count": 36,
       "source_count": 8,
       "platform_count": 7,
@@ -14,8 +14,8 @@
         "coindesk",
         "npr_news",
         "politico",
+        "reddit_all",
         "reddit_news",
-        "reddit_politics",
         "thehill"
       ],
       "platforms": [
@@ -29,10 +29,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 5,716 upvotes · 💬 559 comments · r/politics",
+          "summary": "⬆ 5,744 upvotes · 💬 559 comments · r/all",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -52,7 +52,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 536 upvotes · 💬 196 comments · r/news",
+          "summary": "⬆ 546 upvotes · 💬 197 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,8 +82,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 141.89,
-      "attention_focus_score": 139.39,
+      "topic_score": 140.83,
+      "attention_focus_score": 138.33,
       "item_count": 29,
       "source_count": 6,
       "platform_count": 5,
@@ -107,7 +107,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 23,533 upvotes · 💬 1,874 comments · r/worldnews",
+          "summary": "⬆ 23,530 upvotes · 💬 1,874 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -117,7 +117,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,355 upvotes · 💬 3,236 comments · r/worldnews",
+          "summary": "⬆ 17,352 upvotes · 💬 3,236 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 8,672 upvotes · 💬 357 comments · r/news",
+          "summary": "⬆ 8,690 upvotes · 💬 359 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -137,7 +137,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 3,868 upvotes · 💬 257 comments · r/worldnews",
+          "summary": "⬆ 3,876 upvotes · 💬 257 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -148,7 +148,7 @@
           "title": "Strait of Hormuz standoff puts supply of America's generic drug prescriptions at risk",
           "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-closure-generic-drug-prescriptions.html",
           "summary": "Half of US generic drugs are made in India and transit the Strait of Hormuz. Supply chains prepare for emergencies, but prescription stockpiles are limited.",
-          "published_at": "2026-03-16 17:49:22+00:00",
+          "published_at": "2026-03-16 18:04:04+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -241,7 +241,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 330 upvotes · 💬 18 comments · r/news",
+          "summary": "⬆ 338 upvotes · 💬 18 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -328,7 +328,7 @@
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 7.75,
       "priority_score": 19.75,
-      "source_platform": "reddit_politics",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
       "platforms_discussing": [
@@ -575,7 +575,7 @@
         "topic": "politics",
         "title": "Major White House Split Leaks as Trump’s War Spirals",
         "score": 7.75,
-        "source": "reddit_politics",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
       },
       {
