@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-16T20:55:30.205257+00:00",
+  "generated_at_utc": "2026-03-16T20:57:39.421281+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 146.11,
-      "attention_focus_score": 142.61,
+      "topic_score": 148.78,
+      "attention_focus_score": 145.28,
       "item_count": 36,
       "source_count": 8,
       "platform_count": 7,
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 11,930 upvotes · 💬 1,187 comments · r/politics",
+          "summary": "⬆ 11,967 upvotes · 💬 1,192 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 2,059 upvotes · 💬 467 comments · r/news",
+          "summary": "⬆ 2,081 upvotes · 💬 471 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -60,20 +60,20 @@
         },
         {
           "source": "cnbc",
+          "title": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+          "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+          "summary": "Gurley's VC firm Benchmark was an early Uber investor, and he helped oust then-CEO Travis Kalanick in 2017.",
+          "published_at": "2026-03-16 20:55:52+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "cnbc",
           "title": "Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
           "url": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
           "summary": "Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know.",
           "published_at": "2026-03-15 21:37:47+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
-        },
-        {
-          "source": "politico",
-          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
-          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
-          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
-          "published_at": "2026-03-12 08:45:00+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 4.5
@@ -118,7 +118,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 25,419 upvotes · 💬 1,946 comments · r/worldnews",
+          "summary": "⬆ 25,432 upvotes · 💬 1,946 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -128,7 +128,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 18,004 upvotes · 💬 3,379 comments · r/worldnews",
+          "summary": "⬆ 18,018 upvotes · 💬 3,379 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -138,7 +138,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 10,791 upvotes · 💬 427 comments · r/news",
+          "summary": "⬆ 10,812 upvotes · 💬 430 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -148,7 +148,7 @@
           "source": "reddit_worldnews",
           "title": "Australia rejects role in Strait of Hormuz amid ship strikes",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruusfj/australia_rejects_role_in_strait_of_hormuz_amid/",
-          "summary": "⬆ 5,540 upvotes · 💬 371 comments · r/worldnews",
+          "summary": "⬆ 5,545 upvotes · 💬 371 comments · r/worldnews",
           "published_at": "2026-03-16 00:30:44+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -328,7 +328,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 395 upvotes · 💬 42 comments · r/worldnews",
+          "summary": "⬆ 406 upvotes · 💬 42 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -796,18 +796,18 @@
       },
       {
         "topic": "politics",
+        "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
         "title": "[CNBC] Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
         "score": 4.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "[CNBC] UAE’s Fujairah oil trading hub targeted by a drone attack, causing large fire",
-        "score": 4.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/16/uae-fujairah-oil-hub-drone-fire-iran-war-us-israel-middle-east.html",
         "source_label": "CNBC"
       }
     ]
