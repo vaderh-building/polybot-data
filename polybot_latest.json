@@ -1,19 +1,21 @@
 {
-  "generated_at_utc": "2026-03-16T16:46:35.428932+00:00",
+  "generated_at_utc": "2026-03-16T17:08:27.470831+00:00",
   "top_topics": [
     {
       "topic": "geopolitics",
-      "topic_score": 77.12,
-      "attention_focus_score": 76.12,
-      "item_count": 14,
-      "source_count": 3,
-      "platform_count": 1,
+      "topic_score": 94.94,
+      "attention_focus_score": 93.44,
+      "item_count": 15,
+      "source_count": 4,
+      "platform_count": 2,
       "sources": [
+        "cnbc",
         "reddit_news",
         "reddit_politics",
         "reddit_worldnews"
       ],
       "platforms": [
+        "cnbc",
         "reddit"
       ],
       "top_items": [
@@ -21,7 +23,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 22,088 upvotes · 💬 1,812 comments · r/worldnews",
+          "summary": "⬆ 22,528 upvotes · 💬 1,827 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -31,7 +33,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 16,772 upvotes · 💬 3,125 comments · r/worldnews",
+          "summary": "⬆ 16,963 upvotes · 💬 3,152 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -41,7 +43,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 6,546 upvotes · 💬 268 comments · r/news",
+          "summary": "⬆ 7,231 upvotes · 💬 296 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -51,33 +53,34 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 3,442 upvotes · 💬 229 comments · r/worldnews",
+          "summary": "⬆ 3,549 upvotes · 💬 236 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
           "gravity_score": 6.25
         },
         {
-          "source": "reddit_worldnews",
-          "title": "Iran threatens to escalate war after Trump says ‘many countries’ will send warships to strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ruo8hz/iran_threatens_to_escalate_war_after_trump_says/",
-          "summary": "⬆ 6,648 upvotes · 💬 663 comments · r/worldnews",
-          "published_at": "2026-03-15 20:07:13+00:00",
+          "source": "cnbc",
+          "title": "Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
+          "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
+          "summary": "The U.S. strikes on Kharg Island and Trump's threat to hit Iran's oil infrastructure mark a major escalation in the war, according to JPMorgan.",
+          "published_at": "2026-03-16 17:04:09+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.75
+          "gravity_score": 6.0
         }
       ]
     },
     {
       "topic": "politics",
-      "topic_score": 23.79,
-      "attention_focus_score": 23.29,
-      "item_count": 3,
-      "source_count": 2,
+      "topic_score": 33.77,
+      "attention_focus_score": 32.77,
+      "item_count": 4,
+      "source_count": 3,
       "platform_count": 2,
       "sources": [
         "cnbc",
+        "reddit_news",
         "reddit_politics"
       ],
       "platforms": [
@@ -90,7 +93,7 @@
           "title": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
           "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
           "summary": "Wiles \"will be spending virtually full time at the White House\" while being treated for breast cancer, President Donald Trump said Monday.",
-          "published_at": "2026-03-16 16:36:13+00:00",
+          "published_at": "2026-03-16 17:00:54+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.5
@@ -99,8 +102,18 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 1,128 upvotes · 💬 171 comments · r/politics",
+          "summary": "⬆ 2,302 upvotes · 💬 260 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 7.25
+        },
+        {
+          "source": "reddit_news",
+          "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
+          "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
+          "summary": "⬆ 102 upvotes · 💬 59 comments · r/news",
+          "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.25
@@ -109,55 +122,18 @@
           "source": "reddit_politics",
           "title": "Trump allies plan Senate floor takeover to pass SAVE America Act",
           "url": "https://www.reddit.com/r/politics/comments/1rv5juu/trump_allies_plan_senate_floor_takeover_to_pass/",
-          "summary": "⬆ 3,423 upvotes · 💬 608 comments · r/politics",
+          "summary": "⬆ 3,817 upvotes · 💬 659 comments · r/politics",
           "published_at": "2026-03-16 10:14:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
-          "gravity_score": 4.75
-        }
-      ]
-    },
-    {
-      "topic": "social_virality",
-      "topic_score": 12.47,
-      "attention_focus_score": 11.97,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 1,
-      "sources": [
-        "reddit_news",
-        "reddit_worldnews"
-      ],
-      "platforms": [
-        "reddit"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rvclq5/meta_and_tiktok_let_harmful_content_rise_after/",
-          "summary": "⬆ 157 upvotes · 💬 13 comments · r/worldnews",
-          "published_at": "2026-03-16 15:28:26+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 6.3
-        },
-        {
-          "source": "reddit_news",
-          "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
-          "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 286 upvotes · 💬 18 comments · r/news",
-          "published_at": "2026-03-16 10:16:07+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 5.1
+          "gravity_score": 5.75
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 11.0,
-      "attention_focus_score": 11.0,
+      "topic_score": 10.0,
+      "attention_focus_score": 10.0,
       "item_count": 2,
       "source_count": 1,
       "platform_count": 1,
@@ -176,7 +152,7 @@
           "published_at": "2026-03-16 16:22:18+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
-          "gravity_score": 6.0
+          "gravity_score": 5.0
         },
         {
           "source": "coindesk",
@@ -189,6 +165,32 @@
           "gravity_score": 5.0
         }
       ]
+    },
+    {
+      "topic": "social_virality",
+      "topic_score": 5.35,
+      "attention_focus_score": 5.35,
+      "item_count": 1,
+      "source_count": 1,
+      "platform_count": 1,
+      "sources": [
+        "reddit_news"
+      ],
+      "platforms": [
+        "reddit"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_news",
+          "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+          "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
+          "summary": "⬆ 301 upvotes · 💬 18 comments · r/news",
+          "published_at": "2026-03-16 10:16:07+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 5.1
+        }
+      ]
     }
   ],
   "market_suggestions": [
@@ -197,6 +199,15 @@
       "seed_headline": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
       "gravity_score": 7.5,
       "market_question_draft": "By 2026-03-30 (UTC), will an official source confirm the event described in: \"White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump\"?",
+      "resolution_rule": "Resolves YES based on official government statement/vote/record by deadline.",
+      "source": "Official government release + AP/Reuters consensus",
+      "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
+    },
+    {
+      "topic": "politics",
+      "seed_headline": "Major White House Split Leaks as Trump’s War Spirals",
+      "gravity_score": 7.25,
+      "market_question_draft": "By 2026-03-30 (UTC), will an official source confirm the event described in: \"Major White House Split Leaks as Trump’s War Spirals\"?",
       "resolution_rule": "Resolves YES based on official government statement/vote/record by deadline.",
       "source": "Official government release + AP/Reuters consensus",
       "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
@@ -221,38 +232,20 @@
     },
     {
       "topic": "social_virality",
-      "seed_headline": "Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers",
-      "gravity_score": 6.3,
-      "market_question_draft": "By 2026-03-30 (UTC), will this topic enter Google Trends US Top 10: \"Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers\"?",
-      "resolution_rule": "Resolves YES if topic appears in predefined public trend list threshold before deadline.",
-      "source": "Google Trends (US) / YouTube Trending",
-      "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
-    },
-    {
-      "topic": "politics",
-      "seed_headline": "Major White House Split Leaks as Trump’s War Spirals",
-      "gravity_score": 6.25,
-      "market_question_draft": "By 2026-03-30 (UTC), will an official source confirm the event described in: \"Major White House Split Leaks as Trump’s War Spirals\"?",
-      "resolution_rule": "Resolves YES based on official government statement/vote/record by deadline.",
-      "source": "Official government release + AP/Reuters consensus",
-      "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
-    },
-    {
-      "topic": "crypto",
-      "seed_headline": "Ethereum Foundation’s new mandate sparks debate about its role, priorities",
-      "gravity_score": 6.0,
-      "market_question_draft": "By 2026-03-30 (UTC), will a regulator/exchange/issuer filing confirm the event in: \"Ethereum Foundation’s new mandate sparks debate about its role, priorities\"?",
-      "resolution_rule": "Resolves YES based on official SEC/issuer/exchange filing or release by deadline.",
-      "source": "SEC filings + issuer statement",
-      "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
-    },
-    {
-      "topic": "social_virality",
       "seed_headline": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
       "gravity_score": 5.1,
       "market_question_draft": "By 2026-03-30 (UTC), will this topic enter Google Trends US Top 10: \"TikTok and Meta risked safety to win algorithm arms race, whistleblowers say\"?",
       "resolution_rule": "Resolves YES if topic appears in predefined public trend list threshold before deadline.",
       "source": "Google Trends (US) / YouTube Trending",
+      "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
+    },
+    {
+      "topic": "crypto",
+      "seed_headline": "Ethereum Foundation’s new mandate sparks debate about its role, priorities",
+      "gravity_score": 5.0,
+      "market_question_draft": "By 2026-03-30 (UTC), will a regulator/exchange/issuer filing confirm the event in: \"Ethereum Foundation’s new mandate sparks debate about its role, priorities\"?",
+      "resolution_rule": "Resolves YES based on official SEC/issuer/exchange filing or release by deadline.",
+      "source": "SEC filings + issuer statement",
       "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
     },
     {
@@ -268,34 +261,39 @@
   "platform_snapshots": {
     "Reddit": [
       {
+        "topic": "politics",
+        "title": "Major White House Split Leaks as Trump’s War Spirals",
+        "score": 7.25,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
+      },
+      {
         "topic": "geopolitics",
         "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
         "score": 6.75,
-        "source": "reddit_worldnews"
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/"
       },
       {
         "topic": "geopolitics",
         "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
         "score": 6.75,
-        "source": "reddit_worldnews"
-      },
-      {
-        "topic": "social_virality",
-        "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers",
-        "score": 6.3,
-        "source": "reddit_worldnews"
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/"
       },
       {
         "topic": "geopolitics",
         "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
         "score": 6.25,
-        "source": "reddit_news"
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/"
       },
       {
         "topic": "geopolitics",
         "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
         "score": 6.25,
-        "source": "reddit_worldnews"
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/"
       }
     ],
     "X": [
@@ -363,7 +361,73 @@
       }
     ],
     "Weibo": [],
-    "Xiaohongshu": [],
-    "Instagram + Threads": []
+    "Xiaohongshu": [
+      {
+        "topic": "beauty",
+        "title": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
+        "score": 8.7,
+        "source": "xiaohongshu_trending"
+      },
+      {
+        "topic": "fashion",
+        "title": "\"Mori girl\" aesthetic revival surging — linen layers, cottagecore accessories trending among Gen Z",
+        "score": 8.3,
+        "source": "xiaohongshu_trending"
+      },
+      {
+        "topic": "food",
+        "title": "Japanese convenience store dupe recipes go viral — homemade onigiri and matcha lattes flood feeds",
+        "score": 7.9,
+        "source": "xiaohongshu_trending"
+      },
+      {
+        "topic": "travel",
+        "title": "Yunnan spring blossom season: Luoping canola flower fields trending as top March travel destination",
+        "score": 7.5,
+        "source": "xiaohongshu_trending"
+      },
+      {
+        "topic": "lifestyle",
+        "title": "\"Slow living\" morning routine content spikes — journaling, analog photography, no-phone mornings viral",
+        "score": 7.1,
+        "source": "xiaohongshu_trending"
+      }
+    ],
+    "Instagram + Threads": [],
+    "Google Trends": [],
+    "Major News Headlines": [
+      {
+        "topic": "politics",
+        "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+        "score": 7.5,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "[CNBC] Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Ethereum Foundation’s new mandate sparks debate about its role, priorities",
+        "score": 5.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/tech/2026/03/16/ethereum-foundation-s-new-mandate-sparks-debate-about-its-role-priorities",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Circle is up 100% in a month: Why this boring stablecoin stock is suddenly the hottest trade in crypto",
+        "score": 5.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/16/circle-is-up-100-in-a-month-why-this-boring-stablecoin-is-suddenly-the-hottest-trade-in-crypto",
+        "source_label": "CoinDesk"
+      }
+    ]
   }
 }
