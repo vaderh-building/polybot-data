@@ -1,21 +1,19 @@
 {
-  "generated_at_utc": "2026-03-16T16:42:52.321204+00:00",
+  "generated_at_utc": "2026-03-16T16:46:35.428932+00:00",
   "top_topics": [
     {
       "topic": "geopolitics",
-      "topic_score": 86.43,
-      "attention_focus_score": 84.93,
-      "item_count": 15,
-      "source_count": 4,
-      "platform_count": 2,
+      "topic_score": 77.12,
+      "attention_focus_score": 76.12,
+      "item_count": 14,
+      "source_count": 3,
+      "platform_count": 1,
       "sources": [
-        "google_trends_us_daily",
         "reddit_news",
         "reddit_politics",
         "reddit_worldnews"
       ],
       "platforms": [
-        "google_trends",
         "reddit"
       ],
       "top_items": [
@@ -23,7 +21,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 22,015 upvotes · 💬 1,809 comments · r/worldnews",
+          "summary": "⬆ 22,088 upvotes · 💬 1,812 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -33,7 +31,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 16,751 upvotes · 💬 3,119 comments · r/worldnews",
+          "summary": "⬆ 16,772 upvotes · 💬 3,125 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -43,7 +41,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 6,450 upvotes · 💬 260 comments · r/news",
+          "summary": "⬆ 6,546 upvotes · 💬 268 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -53,7 +51,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 3,404 upvotes · 💬 228 comments · r/worldnews",
+          "summary": "⬆ 3,442 upvotes · 💬 229 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -63,7 +61,7 @@
           "source": "reddit_worldnews",
           "title": "Iran threatens to escalate war after Trump says ‘many countries’ will send warships to strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruo8hz/iran_threatens_to_escalate_war_after_trump_says/",
-          "summary": "⬆ 6,637 upvotes · 💬 662 comments · r/worldnews",
+          "summary": "⬆ 6,648 upvotes · 💬 663 comments · r/worldnews",
           "published_at": "2026-03-15 20:07:13+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -101,7 +99,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 951 upvotes · 💬 152 comments · r/politics",
+          "summary": "⬆ 1,128 upvotes · 💬 171 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -111,7 +109,7 @@
           "source": "reddit_politics",
           "title": "Trump allies plan Senate floor takeover to pass SAVE America Act",
           "url": "https://www.reddit.com/r/politics/comments/1rv5juu/trump_allies_plan_senate_floor_takeover_to_pass/",
-          "summary": "⬆ 3,340 upvotes · 💬 604 comments · r/politics",
+          "summary": "⬆ 3,423 upvotes · 💬 608 comments · r/politics",
           "published_at": "2026-03-16 10:14:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -121,14 +119,13 @@
     },
     {
       "topic": "social_virality",
-      "topic_score": 22.11,
-      "attention_focus_score": 21.11,
-      "item_count": 3,
-      "source_count": 3,
+      "topic_score": 12.47,
+      "attention_focus_score": 11.97,
+      "item_count": 2,
+      "source_count": 2,
       "platform_count": 1,
       "sources": [
         "reddit_news",
-        "reddit_popculturechat",
         "reddit_worldnews"
       ],
       "platforms": [
@@ -136,20 +133,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_popculturechat",
-          "title": "Zara Larsson performing Lush Life with a fan at her Denver tour stop goes viral and gains over 6 million likes and 30 million views",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ruiy2p/zara_larsson_performing_lush_life_with_a_fan_at/",
-          "summary": "⬆ 9,210 upvotes · 💬 303 comments · r/popculturechat",
-          "published_at": "2026-03-15 16:46:17+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 8.7
-        },
-        {
           "source": "reddit_worldnews",
           "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvclq5/meta_and_tiktok_let_harmful_content_rise_after/",
-          "summary": "⬆ 153 upvotes · 💬 13 comments · r/worldnews",
+          "summary": "⬆ 157 upvotes · 💬 13 comments · r/worldnews",
           "published_at": "2026-03-16 15:28:26+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -159,7 +146,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 284 upvotes · 💬 18 comments · r/news",
+          "summary": "⬆ 286 upvotes · 💬 18 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -169,8 +156,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 12.0,
-      "attention_focus_score": 12.0,
+      "topic_score": 11.0,
+      "attention_focus_score": 11.0,
       "item_count": 2,
       "source_count": 1,
       "platform_count": 1,
@@ -199,21 +186,12 @@
           "published_at": "2026-03-16 16:15:58+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
-          "gravity_score": 6.0
+          "gravity_score": 5.0
         }
       ]
     }
   ],
   "market_suggestions": [
-    {
-      "topic": "social_virality",
-      "seed_headline": "Zara Larsson performing Lush Life with a fan at her Denver tour stop goes viral and gains over 6 million likes and 30 million views",
-      "gravity_score": 8.7,
-      "market_question_draft": "By 2026-03-30 (UTC), will this topic enter Google Trends US Top 10: \"Zara Larsson performing Lush Life with a fan at her Denver tour stop goes viral and gains over 6 million like…\"?",
-      "resolution_rule": "Resolves YES if topic appears in predefined public trend list threshold before deadline.",
-      "source": "Google Trends (US) / YouTube Trending",
-      "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
-    },
     {
       "topic": "politics",
       "seed_headline": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
@@ -269,9 +247,18 @@
       "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
     },
     {
+      "topic": "social_virality",
+      "seed_headline": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+      "gravity_score": 5.1,
+      "market_question_draft": "By 2026-03-30 (UTC), will this topic enter Google Trends US Top 10: \"TikTok and Meta risked safety to win algorithm arms race, whistleblowers say\"?",
+      "resolution_rule": "Resolves YES if topic appears in predefined public trend list threshold before deadline.",
+      "source": "Google Trends (US) / YouTube Trending",
+      "notes": "Selected by objective+fast standards: verifiable, binary, short-cycle, and conversation gravity."
+    },
+    {
       "topic": "crypto",
       "seed_headline": "Circle is up 100% in a month: Why this boring stablecoin stock is suddenly the hottest trade in crypto",
-      "gravity_score": 6.0,
+      "gravity_score": 5.0,
       "market_question_draft": "By 2026-03-30 (UTC), will a regulator/exchange/issuer filing confirm the event in: \"Circle is up 100% in a month: Why this boring stablecoin stock is suddenly the hottest trade in crypto\"?",
       "resolution_rule": "Resolves YES based on official SEC/issuer/exchange filing or release by deadline.",
       "source": "SEC filings + issuer statement",
@@ -280,12 +267,6 @@
   ],
   "platform_snapshots": {
     "Reddit": [
-      {
-        "topic": "social_virality",
-        "title": "Zara Larsson performing Lush Life with a fan at her Denver tour stop goes viral and gains over 6 million likes and 30 million views",
-        "score": 8.7,
-        "source": "reddit_popculturechat"
-      },
       {
         "topic": "geopolitics",
         "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
@@ -309,6 +290,12 @@
         "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
         "score": 6.25,
         "source": "reddit_news"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
+        "score": 6.25,
+        "source": "reddit_worldnews"
       }
     ],
     "X": [
@@ -343,7 +330,38 @@
         "source": "x_trending"
       }
     ],
-    "TikTok + Douyin": [],
+    "TikTok + Douyin": [
+      {
+        "topic": "social_virality",
+        "title": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
+        "score": 9.2,
+        "source": "tiktok_trending"
+      },
+      {
+        "topic": "music_charts",
+        "title": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
+        "score": 8.8,
+        "source": "tiktok_trending"
+      },
+      {
+        "topic": "social_virality",
+        "title": "Nicki Minaj \"Want Some More\" freeze-frame reveal format sweeps fashion and lifestyle creators",
+        "score": 8.3,
+        "source": "tiktok_trending"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "Bachelorette Season 22 with Taylor Frankie Paul premieres March 22 — contestant rankings trending",
+        "score": 7.9,
+        "source": "tiktok_trending"
+      },
+      {
+        "topic": "social_virality",
+        "title": "Pickle dip goes viral globally — cream cheese dill pickle snack trend spreading outside US",
+        "score": 7.5,
+        "source": "tiktok_trending"
+      }
+    ],
     "Weibo": [],
     "Xiaohongshu": [],
     "Instagram + Threads": []
