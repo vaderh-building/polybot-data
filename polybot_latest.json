@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-16T18:32:10.473658+00:00",
+  "generated_at_utc": "2026-03-16T18:34:45.991485+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -14,8 +14,8 @@
         "coindesk",
         "npr_news",
         "politico",
+        "reddit_all",
         "reddit_news",
-        "reddit_politics",
         "thehill"
       ],
       "platforms": [
@@ -29,10 +29,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 7,198 upvotes · 💬 703 comments · r/politics",
+          "summary": "⬆ 7,341 upvotes · 💬 722 comments · r/all",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -52,7 +52,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 674 upvotes · 💬 231 comments · r/news",
+          "summary": "⬆ 691 upvotes · 💬 234 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,8 +82,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 126.79,
-      "attention_focus_score": 124.29,
+      "topic_score": 124.67,
+      "attention_focus_score": 122.17,
       "item_count": 26,
       "source_count": 6,
       "platform_count": 5,
@@ -107,7 +107,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 23,934 upvotes · 💬 1,888 comments · r/worldnews",
+          "summary": "⬆ 23,971 upvotes · 💬 1,888 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -117,7 +117,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,485 upvotes · 💬 3,272 comments · r/worldnews",
+          "summary": "⬆ 17,498 upvotes · 💬 3,273 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 9,143 upvotes · 💬 379 comments · r/news",
+          "summary": "⬆ 9,184 upvotes · 💬 379 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -137,21 +137,21 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,001 upvotes · 💬 261 comments · r/worldnews",
+          "summary": "⬆ 4,028 upvotes · 💬 263 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
           "gravity_score": 6.25
         },
         {
-          "source": "cnbc",
-          "title": "Strait of Hormuz standoff puts supply of America's generic drug prescriptions at risk",
-          "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-closure-generic-drug-prescriptions.html",
-          "summary": "Half of US generic drugs are made in India and transit the Strait of Hormuz. Supply chains prepare for emergencies, but prescription stockpiles are limited.",
-          "published_at": "2026-03-16 18:04:17+00:00",
+          "source": "reddit_worldnews",
+          "title": "Iran threatens to escalate war after Trump says ‘many countries’ will send warships to strait of Hormuz",
+          "url": "https://www.reddit.com/r/worldnews/comments/1ruo8hz/iran_threatens_to_escalate_war_after_trump_says/",
+          "summary": "⬆ 6,733 upvotes · 💬 671 comments · r/worldnews",
+          "published_at": "2026-03-15 20:07:13+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 6.0
+          "gravity_score": 5.75
         }
       ]
     },
@@ -328,7 +328,7 @@
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 7.75,
       "priority_score": 19.75,
-      "source_platform": "reddit_politics",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
       "platforms_discussing": [
@@ -574,7 +574,7 @@
         "topic": "politics",
         "title": "Major White House Split Leaks as Trump’s War Spirals",
         "score": 7.75,
-        "source": "reddit_politics",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
       },
       {
@@ -728,28 +728,20 @@
       },
       {
         "topic": "trending",
-        "title": "nba expansion",
+        "title": "matt clark actor",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "matt clark actor",
+        "title": "alabama",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
-      {
-        "topic": "geopolitics",
-        "title": "[CNBC] Strait of Hormuz standoff puts supply of America's generic drug prescriptions at risk",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-closure-generic-drug-prescriptions.html",
-        "source_label": "CNBC"
-      },
       {
         "topic": "politics",
         "title": "[The Hill] Trump says Israel won’t use a nuclear weapon in Iran",
@@ -781,6 +773,18 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "[CNBC] Strait of Hormuz standoff puts supply of America's generic drug prescriptions at risk",
+        "score": 5.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-closure-generic-drug-prescriptions.html",
+        "source_label": "CNBC"
+      }
+    ]
+  }
+}CNBC"
       }
     ]
   }
