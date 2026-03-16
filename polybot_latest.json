@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-16T19:16:07.088001+00:00",
+  "generated_at_utc": "2026-03-16T19:18:15.317821+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 159.42,
-      "attention_focus_score": 155.92,
+      "topic_score": 157.29,
+      "attention_focus_score": 153.79,
       "item_count": 38,
       "source_count": 8,
       "platform_count": 7,
@@ -32,7 +32,7 @@
           "source": "reddit_all",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 9,081 upvotes · 💬 896 comments · r/all",
+          "summary": "⬆ 9,178 upvotes · 💬 903 comments · r/all",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -49,6 +49,16 @@
           "gravity_score": 7.5
         },
         {
+          "source": "reddit_news",
+          "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
+          "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
+          "summary": "⬆ 1,095 upvotes · 💬 302 comments · r/news",
+          "published_at": "2026-03-16 16:16:42+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 5.75
+        },
+        {
           "source": "cnbc",
           "title": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
           "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
@@ -56,17 +66,7 @@
           "published_at": "2026-03-16 18:46:53+00:00",
           "topic": "politics",
           "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "reddit_news",
-          "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
-          "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 1,073 upvotes · 💬 297 comments · r/news",
-          "published_at": "2026-03-16 16:16:42+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.75
+          "gravity_score": 5.0
         },
         {
           "source": "thehill",
@@ -108,7 +108,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 24,361 upvotes · 💬 1,911 comments · r/worldnews",
+          "summary": "⬆ 24,376 upvotes · 💬 1,913 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -118,7 +118,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,682 upvotes · 💬 3,306 comments · r/worldnews",
+          "summary": "⬆ 17,692 upvotes · 💬 3,307 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -128,7 +128,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 9,718 upvotes · 💬 391 comments · r/news",
+          "summary": "⬆ 9,750 upvotes · 💬 391 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -138,7 +138,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,150 upvotes · 💬 272 comments · r/worldnews",
+          "summary": "⬆ 4,150 upvotes · 💬 273 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -158,8 +158,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 73.5,
-      "attention_focus_score": 73.5,
+      "topic_score": 73.0,
+      "attention_focus_score": 73.0,
       "item_count": 22,
       "source_count": 1,
       "platform_count": 1,
@@ -290,7 +290,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 174 upvotes · 💬 21 comments · r/worldnews",
+          "summary": "⬆ 176 upvotes · 💬 21 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -328,7 +328,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 376 upvotes · 💬 21 comments · r/news",
+          "summary": "⬆ 383 upvotes · 💬 21 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -398,12 +398,12 @@
     },
     {
       "topic": "politics",
-      "event": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
-      "gravity_score": 6.0,
-      "priority_score": 18.0,
-      "source_platform": "cnbc",
+      "event": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
+      "gravity_score": 5.75,
+      "priority_score": 17.75,
+      "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+      "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -414,8 +414,10 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?",
+        "Will this person step down from their role within 30 days?",
+        "Will this trigger a formal succession/replacement announcement?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -783,19 +785,19 @@
         "source_label": "BBC"
       },
       {
-        "topic": "politics",
-        "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "geopolitics",
         "title": "[CNBC] Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
         "score": 6.0,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+        "score": 5.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
         "source_label": "CNBC"
       },
       {
