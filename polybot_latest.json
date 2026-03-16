@@ -1,15 +1,16 @@
 {
-  "generated_at_utc": "2026-03-16T17:46:56.030765+00:00",
+  "generated_at_utc": "2026-03-16T17:49:05.453581+00:00",
   "top_topics": [
     {
       "topic": "geopolitics",
-      "topic_score": 94.94,
-      "attention_focus_score": 93.44,
+      "topic_score": 96.59,
+      "attention_focus_score": 94.59,
       "item_count": 15,
-      "source_count": 4,
+      "source_count": 5,
       "platform_count": 2,
       "sources": [
         "cnbc",
+        "reddit_all",
         "reddit_news",
         "reddit_politics",
         "reddit_worldnews"
@@ -23,7 +24,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 23,235 upvotes · 💬 1,854 comments · r/worldnews",
+          "summary": "⬆ 23,277 upvotes · 💬 1,855 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -33,17 +34,17 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,220 upvotes · 💬 3,211 comments · r/worldnews",
+          "summary": "⬆ 17,249 upvotes · 💬 3,212 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
-          "source": "reddit_news",
+          "source": "reddit_all",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 8,286 upvotes · 💬 341 comments · r/news",
+          "summary": "⬆ 8,335 upvotes · 💬 343 comments · r/all",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -53,7 +54,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 3,760 upvotes · 💬 255 comments · r/worldnews",
+          "summary": "⬆ 3,771 upvotes · 💬 256 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -73,8 +74,8 @@
     },
     {
       "topic": "politics",
-      "topic_score": 34.35,
-      "attention_focus_score": 33.35,
+      "topic_score": 33.2,
+      "attention_focus_score": 32.2,
       "item_count": 4,
       "source_count": 3,
       "platform_count": 2,
@@ -92,7 +93,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 4,660 upvotes · 💬 446 comments · r/politics",
+          "summary": "⬆ 4,763 upvotes · 💬 455 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -106,13 +107,13 @@
           "published_at": "2026-03-16 17:19:01+00:00",
           "topic": "politics",
           "keyword_hits": 2,
-          "gravity_score": 7.5
+          "gravity_score": 6.5
         },
         {
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 409 upvotes · 💬 166 comments · r/news",
+          "summary": "⬆ 422 upvotes · 💬 170 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -122,7 +123,7 @@
           "source": "reddit_politics",
           "title": "Trump allies plan Senate floor takeover to pass SAVE America Act",
           "url": "https://www.reddit.com/r/politics/comments/1rv5juu/trump_allies_plan_senate_floor_takeover_to_pass/",
-          "summary": "⬆ 4,286 upvotes · 💬 733 comments · r/politics",
+          "summary": "⬆ 4,318 upvotes · 💬 734 comments · r/politics",
           "published_at": "2026-03-16 10:14:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -148,7 +149,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 324 upvotes · 💬 18 comments · r/news",
+          "summary": "⬆ 326 upvotes · 💬 18 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -173,26 +174,6 @@
       "debatable_angles": [
         "Will this lead to a formal policy change or executive action?",
         "Will a resignation or staffing change follow within 30 days?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
-      "gravity_score": 7.5,
-      "priority_score": 9.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
-      "platforms_discussing": [
-        "cnbc",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will this person step down from their role within 30 days?",
-        "Will this trigger a formal succession/replacement announcement?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -287,6 +268,26 @@
       "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
     },
     {
+      "topic": "politics",
+      "event": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+      "gravity_score": 6.5,
+      "priority_score": 8.5,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+      "platforms_discussing": [
+        "cnbc",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?",
+        "Will this person step down from their role within 30 days?",
+        "Will this trigger a formal succession/replacement announcement?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
       "topic": "geopolitics",
       "event": "Trump threatens 500% tariffs on Russia if no Ukraine deal within 50 days",
       "gravity_score": 8.5,
@@ -346,7 +347,7 @@
       "event": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
       "gravity_score": 6.25,
       "priority_score": 8.25,
-      "source_platform": "reddit_news",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
       "platforms_discussing": [
@@ -407,7 +408,7 @@
         "topic": "geopolitics",
         "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
         "score": 6.25,
-        "source": "reddit_news",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/"
       },
       {
@@ -543,7 +544,7 @@
       {
         "topic": "politics",
         "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
-        "score": 7.5,
+        "score": 6.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
         "source_label": "CNBC"
