@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-16T23:30:50.432935+00:00",
+  "generated_at_utc": "2026-03-16T23:33:04.179798+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 148.78,
-      "attention_focus_score": 145.28,
+      "topic_score": 148.24,
+      "attention_focus_score": 144.74,
       "item_count": 36,
       "source_count": 8,
       "platform_count": 7,
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 14,116 upvotes · 💬 1,335 comments · r/politics",
+          "summary": "⬆ 14,149 upvotes · 💬 1,336 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,21 +42,11 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 3,120 upvotes · 💬 611 comments · r/news",
+          "summary": "⬆ 3,147 upvotes · 💬 612 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.25
-        },
-        {
-          "source": "thehill",
-          "title": "House Republicans ramp up pressure on Senate to pass SAVE America Act",
-          "url": "https://thehill.com/homenews/house/5786734-house-republicans-save-america-act-senate-pressure/",
-          "summary": "Conservatives in the House are ratcheting up pressure on the Senate to pass the Safeguard American Voter Eligibility (SAVE America) Act, threatening to block other legislation until the measure becomes law — a move that would add to the growing stalemate on Capitol Hill. The upper chamber is expected to take up the bill this&#8230;",
-          "published_at": "2026-03-16 21:31:53+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 5.5
         },
         {
           "source": "cnbc",
@@ -77,14 +67,24 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.0
+        },
+        {
+          "source": "thehill",
+          "title": "House Republicans ramp up pressure on Senate to pass SAVE America Act",
+          "url": "https://thehill.com/homenews/house/5786734-house-republicans-save-america-act-senate-pressure/",
+          "summary": "Conservatives in the House are ratcheting up pressure on the Senate to pass the Safeguard American Voter Eligibility (SAVE America) Act, threatening to block other legislation until the measure becomes law — a move that would add to the growing stalemate on Capitol Hill. The upper chamber is expected to take up the bill this&#8230;",
+          "published_at": "2026-03-16 21:31:53+00:00",
+          "topic": "politics",
+          "keyword_hits": 3,
+          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 120.13,
-      "attention_focus_score": 117.13,
-      "item_count": 27,
+      "topic_score": 116.16,
+      "attention_focus_score": 113.16,
+      "item_count": 26,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -108,7 +108,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,908 upvotes · 💬 294 comments · r/worldnews",
+          "summary": "⬆ 4,922 upvotes · 💬 294 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -118,7 +118,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 26,602 upvotes · 💬 2,005 comments · r/worldnews",
+          "summary": "⬆ 26,618 upvotes · 💬 2,005 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -128,7 +128,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 18,393 upvotes · 💬 3,448 comments · r/worldnews",
+          "summary": "⬆ 18,389 upvotes · 💬 3,448 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -138,7 +138,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 11,630 upvotes · 💬 456 comments · r/news",
+          "summary": "⬆ 11,647 upvotes · 💬 456 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -148,7 +148,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 4,796 upvotes · 💬 848 comments · r/worldnews",
+          "summary": "⬆ 4,814 upvotes · 💬 848 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -242,7 +242,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 885 upvotes · 💬 65 comments · r/worldnews",
+          "summary": "⬆ 882 upvotes · 💬 65 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -386,12 +386,12 @@
     },
     {
       "topic": "politics",
-      "event": "House Republicans ramp up pressure on Senate to pass SAVE America Act",
-      "gravity_score": 5.5,
-      "priority_score": 17.5,
-      "source_platform": "thehill",
+      "event": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+      "gravity_score": 5.0,
+      "priority_score": 17.0,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://thehill.com/homenews/house/5786734-house-republicans-save-america-act-senate-pressure/",
+      "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -402,8 +402,8 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?"
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -728,14 +728,14 @@
       },
       {
         "topic": "trending",
-        "title": "bachelorette 2026",
+        "title": "mavericks vs pelicans",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "mavericks vs pelicans",
+        "title": "bachelorette 2026",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -774,14 +774,6 @@
       },
       {
         "topic": "politics",
-        "title": "[The Hill] House Republicans ramp up pressure on Senate to pass SAVE America Act",
-        "score": 5.5,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/house/5786734-house-republicans-save-america-act-senate-pressure/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "politics",
         "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
         "score": 5.0,
         "source": "cnbc",
@@ -795,6 +787,14 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
+        "score": 5.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
+        "source_label": "CoinDesk"
       }
     ]
   }
