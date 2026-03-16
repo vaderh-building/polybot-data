@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-16T19:18:15.317821+00:00",
+  "generated_at_utc": "2026-03-16T19:20:24.786456+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 157.29,
-      "attention_focus_score": 153.79,
-      "item_count": 38,
+      "topic_score": 162.61,
+      "attention_focus_score": 159.11,
+      "item_count": 39,
       "source_count": 8,
       "platform_count": 7,
       "sources": [
@@ -32,7 +32,7 @@
           "source": "reddit_all",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 9,178 upvotes · 💬 903 comments · r/all",
+          "summary": "⬆ 9,280 upvotes · 💬 911 comments · r/all",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -46,13 +46,23 @@
           "published_at": "2026-03-16 18:49:07+00:00",
           "topic": "politics",
           "keyword_hits": 2,
-          "gravity_score": 7.5
+          "gravity_score": 6.5
+        },
+        {
+          "source": "npr_news",
+          "title": "Vaccine critics keep the pressure on, even as RFK Jr. shifts focus",
+          "url": "https://www.npr.org/2026/03/16/nx-s1-5739183/maha-vaccine-safety-kennedy",
+          "summary": "Anti-vaccine activists rally supporters to try to keep the momentum going on changing federal vaccine policies. This comes even as the White House tries to tamp down attention to the unpopular issue ahead of the midterm elections, and a powerful federal advisory committee plans to meet to consider even more moves.",
+          "published_at": "2026-03-16 19:11:41+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
         },
         {
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 1,095 upvotes · 💬 302 comments · r/news",
+          "summary": "⬆ 1,119 upvotes · 💬 304 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -67,24 +77,14 @@
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.0
-        },
-        {
-          "source": "thehill",
-          "title": "Trump says Israel won’t use a nuclear weapon in Iran",
-          "url": "https://thehill.com/homenews/administration/5786393-israel-iran-nuclear-risk/",
-          "summary": "President Trump insisted on Monday that Israel would not use a nuclear weapon in Iran after he was asked about one his advisers warning of such a potential risk. “Israel wouldn’t do that. Israel would never do that,” Trump told reporters in the White House East Room on Monday. Trump was asked about recent comments&#8230;",
-          "published_at": "2026-03-16 18:25:42+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 132.32,
-      "attention_focus_score": 129.32,
-      "item_count": 28,
+      "topic_score": 138.68,
+      "attention_focus_score": 135.68,
+      "item_count": 29,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -108,7 +108,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 24,376 upvotes · 💬 1,913 comments · r/worldnews",
+          "summary": "⬆ 24,399 upvotes · 💬 1,916 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -118,7 +118,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,692 upvotes · 💬 3,307 comments · r/worldnews",
+          "summary": "⬆ 17,691 upvotes · 💬 3,311 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -128,7 +128,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 9,750 upvotes · 💬 391 comments · r/news",
+          "summary": "⬆ 9,775 upvotes · 💬 393 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -138,7 +138,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,150 upvotes · 💬 273 comments · r/worldnews",
+          "summary": "⬆ 4,153 upvotes · 💬 273 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -146,10 +146,10 @@
         },
         {
           "source": "cnbc",
-          "title": "Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
-          "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
-          "summary": "The U.S. strikes on Kharg Island and Trump's threat to hit Iran's oil infrastructure mark a major escalation in the war, according to JPMorgan.",
-          "published_at": "2026-03-16 19:05:01+00:00",
+          "title": "Trump signals coalition to force open Strait of Hormuz is not ready yet: 'Some are less than enthusiastic'",
+          "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html",
+          "summary": "President Donald Trump said Monday that some U.S. allies are not willing to join a coalition to protect tankers in the Strait of Hormuz.",
+          "published_at": "2026-03-16 19:07:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -271,44 +271,6 @@
       ]
     },
     {
-      "topic": "everyday_economy",
-      "topic_score": 11.96,
-      "attention_focus_score": 11.46,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
-      "sources": [
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 176 upvotes · 💬 21 comments · r/worldnews",
-          "published_at": "2026-03-16 17:54:20+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.88
-        },
-        {
-          "source": "thehill",
-          "title": "Judge temporarily halts Trump demand for race-based admissions data from universities",
-          "url": "https://thehill.com/homenews/education/5786403-race-college-admissions/",
-          "summary": "A judge ruled on Friday to temporarily stall efforts by the Trump administrations demanding race-based admissions data from universities. U.S. District Judge F. Dennis Saylor ruled in favor of the 17 blue states that challenged the administration’s new reporting requirements, arguing they were costly and burdensome to universities.&#160;&#160; The Trump administration wants to implement the&#160;“Admissions and Consumer&#8230;",
-          "published_at": "2026-03-16 18:20:14+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
-        }
-      ]
-    },
-    {
       "topic": "social_virality",
       "topic_score": 11.21,
       "attention_focus_score": 10.71,
@@ -328,7 +290,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 383 upvotes · 💬 21 comments · r/news",
+          "summary": "⬆ 377 upvotes · 💬 21 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -343,6 +305,44 @@
           "topic": "social_virality",
           "keyword_hits": 1,
           "gravity_score": 3.6
+        }
+      ]
+    },
+    {
+      "topic": "everyday_economy",
+      "topic_score": 10.63,
+      "attention_focus_score": 10.13,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
+          "summary": "⬆ 181 upvotes · 💬 21 comments · r/worldnews",
+          "published_at": "2026-03-16 17:54:20+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.88
+        },
+        {
+          "source": "thehill",
+          "title": "Judge temporarily halts Trump demand for race-based admissions data from universities",
+          "url": "https://thehill.com/homenews/education/5786403-race-college-admissions/",
+          "summary": "A judge ruled on Friday to temporarily stall efforts by the Trump administrations demanding race-based admissions data from universities. U.S. District Judge F. Dennis Saylor ruled in favor of the 17 blue states that challenged the administration’s new reporting requirements, arguing they were costly and burdensome to universities.&#160;&#160; The Trump administration wants to implement the&#160;“Admissions and Consumer&#8230;",
+          "published_at": "2026-03-16 18:20:14+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 3.25
         }
       ]
     }
@@ -374,8 +374,8 @@
     {
       "topic": "politics",
       "event": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
-      "gravity_score": 7.5,
-      "priority_score": 19.5,
+      "gravity_score": 6.5,
+      "priority_score": 18.5,
       "source_platform": "cnbc",
       "source_label": "",
       "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
@@ -398,12 +398,12 @@
     },
     {
       "topic": "politics",
-      "event": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
-      "gravity_score": 5.75,
-      "priority_score": 17.75,
-      "source_platform": "reddit_news",
+      "event": "Vaccine critics keep the pressure on, even as RFK Jr. shifts focus",
+      "gravity_score": 6.0,
+      "priority_score": 18.0,
+      "source_platform": "npr_news",
       "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
+      "url": "https://www.npr.org/2026/03/16/nx-s1-5739183/maha-vaccine-safety-kennedy",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -414,10 +414,9 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will this person step down from their role within 30 days?",
-        "Will this trigger a formal succession/replacement announcement?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -771,7 +770,7 @@
       {
         "topic": "politics",
         "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
-        "score": 7.5,
+        "score": 6.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
         "source_label": "CNBC"
@@ -785,28 +784,28 @@
         "source_label": "BBC"
       },
       {
+        "topic": "politics",
+        "title": "[NPR] Vaccine critics keep the pressure on, even as RFK Jr. shifts focus",
+        "score": 6.0,
+        "source": "npr_news",
+        "url": "https://www.npr.org/2026/03/16/nx-s1-5739183/maha-vaccine-safety-kennedy",
+        "source_label": "NPR"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "[CNBC] Trump signals coalition to force open Strait of Hormuz is not ready yet: 'Some are less than enthusiastic'",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html",
+        "source_label": "CNBC"
+      },
+      {
         "topic": "geopolitics",
         "title": "[CNBC] Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
         "score": 6.0,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
         "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[CNBC] Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
-        "score": 5.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] Bitcoin eyes $75,000, nearing 25% bounce from February bottom",
-        "score": 5.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-eyes-usd75-000-nearing-25-bounce-from-february-bottom",
-        "source_label": "CoinDesk"
       }
     ]
   }
