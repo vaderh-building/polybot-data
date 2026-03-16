@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-16T19:05:16.767411+00:00",
+  "generated_at_utc": "2026-03-16T19:07:24.048638+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_all",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 8,677 upvotes · 💬 846 comments · r/all",
+          "summary": "⬆ 8,734 upvotes · 💬 851 comments · r/all",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -62,7 +62,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 973 upvotes · 💬 285 comments · r/news",
+          "summary": "⬆ 985 upvotes · 💬 289 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,10 +82,10 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 131.26,
-      "attention_focus_score": 128.26,
-      "item_count": 28,
-      "source_count": 7,
+      "topic_score": 80.15,
+      "attention_focus_score": 77.65,
+      "item_count": 19,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "bbc_top",
@@ -93,7 +93,6 @@
         "cnbc",
         "npr_news",
         "reddit_news",
-        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -105,44 +104,14 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
-          "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 24,285 upvotes · 💬 1,904 comments · r/worldnews",
-          "published_at": "2026-03-16 04:44:55+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,638 upvotes · 💬 3,302 comments · r/worldnews",
-          "published_at": "2026-03-16 00:19:32+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 9,596 upvotes · 💬 391 comments · r/news",
+          "summary": "⬆ 9,618 upvotes · 💬 391 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,114 upvotes · 💬 271 comments · r/worldnews",
-          "published_at": "2026-03-16 10:38:53+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 2,
-          "gravity_score": 6.25
         },
         {
           "source": "cnbc",
@@ -153,6 +122,36 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.0
+        },
+        {
+          "source": "reddit_news",
+          "title": "Flights suspended after drone strike near Dubai International Airport",
+          "url": "https://www.reddit.com/r/news/comments/1rux20h/flights_suspended_after_drone_strike_near_dubai/",
+          "summary": "⬆ 4,191 upvotes · 💬 266 comments · r/news",
+          "published_at": "2026-03-16 02:12:59+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
+        },
+        {
+          "source": "bbc_top",
+          "title": "How might the UK support shipping in the Strait of Hormuz?",
+          "url": "https://www.bbc.com/news/videos/cvgj29dgrxwo?at_medium=RSS&at_campaign=rss",
+          "summary": "Ben Chu from BBC Verify has been looking at what role the Royal Navy could play in the Strait of Hormuz.",
+          "published_at": "2026-03-16 18:52:34+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "cnbc",
+          "title": "UAE’s Fujairah oil trading hub targeted by a drone attack, causing large fire",
+          "url": "https://www.cnbc.com/2026/03/16/uae-fujairah-oil-hub-drone-fire-iran-war-us-israel-middle-east.html",
+          "summary": "It comes after a separate drone strike at Fujairah on Saturday, underlining the vulnerability of the UAE's only export route that bypasses the Strait of Hormuz.",
+          "published_at": "2026-03-16 09:06:47+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
@@ -242,7 +241,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 379 upvotes · 💬 20 comments · r/news",
+          "summary": "⬆ 375 upvotes · 💬 20 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -397,12 +396,33 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
+      "event": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
       "gravity_score": 6.75,
       "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
+      "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -414,41 +434,18 @@
         "Will any NATO ally actually send warships within 30 days?",
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
         "Will Iran follow through and restrict shipping in the strait?",
-        "Will the SEC approve or reject the filing by the stated deadline?"
+        "Will crude oil close above/below a specific price within 14 days?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
-      "event": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
+      "event": "Flights suspended after drone strike near Dubai International Airport",
+      "gravity_score": 4.75,
+      "priority_score": 12.75,
       "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
+      "url": "https://www.reddit.com/r/news/comments/1rux20h/flights_suspended_after_drone_strike_near_dubai/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -579,31 +576,31 @@
       },
       {
         "topic": "geopolitics",
-        "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
-        "score": 6.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
-        "score": 6.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/"
-      },
-      {
-        "topic": "geopolitics",
         "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
         "score": 6.75,
         "source": "reddit_news",
         "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/"
       },
       {
+        "topic": "politics",
+        "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
+        "score": 5.75,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/"
+      },
+      {
+        "topic": "social_virality",
+        "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+        "score": 5.1,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/"
+      },
+      {
         "topic": "geopolitics",
-        "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
-        "score": 6.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/"
+        "title": "Flights suspended after drone strike near Dubai International Airport",
+        "score": 4.75,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rux20h/flights_suspended_after_drone_strike_near_dubai/"
       }
     ],
     "X": [
