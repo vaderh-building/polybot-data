@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-16T20:10:02.081716+00:00",
+  "generated_at_utc": "2026-03-16T20:12:13.429518+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 154.63,
-      "attention_focus_score": 151.13,
+      "topic_score": 153.56,
+      "attention_focus_score": 150.06,
       "item_count": 38,
       "source_count": 8,
       "platform_count": 7,
@@ -14,8 +14,8 @@
         "coindesk",
         "npr_news",
         "politico",
-        "reddit_all",
         "reddit_news",
+        "reddit_politics",
         "thehill"
       ],
       "platforms": [
@@ -29,10 +29,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 10,946 upvotes · 💬 1,101 comments · r/all",
+          "summary": "⬆ 11,014 upvotes · 💬 1,105 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 1,614 upvotes · 💬 388 comments · r/news",
+          "summary": "⬆ 1,632 upvotes · 💬 390 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -59,21 +59,21 @@
           "gravity_score": 5.5
         },
         {
-          "source": "npr_news",
-          "title": "Vaccine critics keep the pressure on, even as RFK Jr. shifts focus",
-          "url": "https://www.npr.org/2026/03/16/nx-s1-5739183/maha-vaccine-safety-kennedy",
-          "summary": "Anti-vaccine activists rally supporters to try to keep the momentum going on changing federal vaccine policies. This comes even as the White House tries to tamp down attention to the unpopular issue ahead of the midterm elections, and a powerful federal advisory committee plans to meet to consider even more moves.",
-          "published_at": "2026-03-16 19:11:41+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
-        },
-        {
           "source": "cnbc",
           "title": "Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
           "url": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
           "summary": "Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know.",
           "published_at": "2026-03-15 21:37:47+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "politico",
+          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
+          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
+          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
+          "published_at": "2026-03-12 08:45:00+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 4.5
@@ -108,7 +108,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 24,858 upvotes · 💬 1,927 comments · r/worldnews",
+          "summary": "⬆ 24,892 upvotes · 💬 1,929 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -118,7 +118,7 @@
           "source": "reddit_worldnews",
           "title": "Trump warns NATO faces a “bad future” if allies fail to help US in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/",
-          "summary": "⬆ 17,855 upvotes · 💬 3,352 comments · r/worldnews",
+          "summary": "⬆ 17,864 upvotes · 💬 3,352 comments · r/worldnews",
           "published_at": "2026-03-16 00:19:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -128,7 +128,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 10,406 upvotes · 💬 412 comments · r/news",
+          "summary": "⬆ 10,428 upvotes · 💬 412 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -138,7 +138,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 4,281 upvotes · 💬 281 comments · r/worldnews",
+          "summary": "⬆ 4,283 upvotes · 💬 281 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -242,7 +242,7 @@
           "source": "reddit_news",
           "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
           "url": "https://www.reddit.com/r/news/comments/1rv5knw/tiktok_and_meta_risked_safety_to_win_algorithm/",
-          "summary": "⬆ 405 upvotes · 💬 22 comments · r/news",
+          "summary": "⬆ 412 upvotes · 💬 22 comments · r/news",
           "published_at": "2026-03-16 10:16:07+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -280,7 +280,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 266 upvotes · 💬 32 comments · r/worldnews",
+          "summary": "⬆ 271 upvotes · 💬 32 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -364,7 +364,7 @@
           "source": "reddit_all",
           "title": "TIL Kelly Clarkson lost “hundreds of thousands of dollars” when she declined a co-writing credit on her 2009 number-one single \"My Life Would Suck Without You\" because she refused to have her name associated with Dr. Luke, the producer and primary writer of the song.",
           "url": "https://www.reddit.com/r/todayilearned/comments/1rvfjcz/til_kelly_clarkson_lost_hundreds_of_thousands_of/",
-          "summary": "⬆ 6,130 upvotes · 💬 319 comments · r/all",
+          "summary": "⬆ 6,175 upvotes · 💬 323 comments · r/all",
           "published_at": "2026-03-16 17:11:30+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -379,7 +379,7 @@
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 8.75,
       "priority_score": 20.75,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
       "platforms_discussing": [
@@ -632,7 +632,7 @@
         "topic": "politics",
         "title": "Major White House Split Leaks as Trump’s War Spirals",
         "score": 8.75,
-        "source": "reddit_all",
+        "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
       },
       {
@@ -826,12 +826,12 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "politics",
-        "title": "[NPR] Vaccine critics keep the pressure on, even as RFK Jr. shifts focus",
+        "topic": "crypto",
+        "title": "[CoinDesk] Bitcoin eyes $75,000, nearing 25% bounce from February bottom",
         "score": 5.0,
-        "source": "npr_news",
-        "url": "https://www.npr.org/2026/03/16/nx-s1-5739183/maha-vaccine-safety-kennedy",
-        "source_label": "NPR"
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-eyes-usd75-000-nearing-25-bounce-from-february-bottom",
+        "source_label": "CoinDesk"
       }
     ]
   }
