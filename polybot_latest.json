@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T03:30:57.384846+00:00",
+  "generated_at_utc": "2026-03-17T03:33:06.286617+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 148.24,
-      "attention_focus_score": 144.74,
+      "topic_score": 147.71,
+      "attention_focus_score": 144.21,
       "item_count": 36,
       "source_count": 8,
       "platform_count": 7,
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 16,183 upvotes · 💬 1,436 comments · r/politics",
+          "summary": "⬆ 16,200 upvotes · 💬 1,437 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,21 +42,11 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,420 upvotes · 💬 770 comments · r/news",
+          "summary": "⬆ 4,433 upvotes · 💬 771 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
-        },
-        {
-          "source": "thehill",
-          "title": "House Republicans ramp up pressure on Senate to pass SAVE America Act",
-          "url": "https://thehill.com/homenews/house/5786734-house-republicans-save-america-act-senate-pressure/",
-          "summary": "Conservatives in the House are ratcheting up pressure on the Senate to pass the Safeguard American Voter Eligibility (SAVE America) Act, threatening to block other legislation until the measure becomes law — a move that would add to the growing stalemate on Capitol Hill. The upper chamber is expected to take up the bill this&#8230;",
-          "published_at": "2026-03-16 21:31:53+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 5.0
         },
         {
           "source": "cnbc",
@@ -74,6 +64,16 @@
           "url": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
           "summary": "Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know.",
           "published_at": "2026-03-15 21:37:47+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "politico",
+          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
+          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
+          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
+          "published_at": "2026-03-12 08:45:00+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 4.5
@@ -107,7 +107,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,372 upvotes · 💬 297 comments · r/worldnews",
+          "summary": "⬆ 5,375 upvotes · 💬 297 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -117,7 +117,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 27,536 upvotes · 💬 2,050 comments · r/worldnews",
+          "summary": "⬆ 27,547 upvotes · 💬 2,051 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 12,747 upvotes · 💬 466 comments · r/news",
+          "summary": "⬆ 12,761 upvotes · 💬 466 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -137,7 +137,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 5,934 upvotes · 💬 927 comments · r/worldnews",
+          "summary": "⬆ 5,944 upvotes · 💬 929 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -147,7 +147,7 @@
           "source": "reddit_worldnews",
           "title": "Greece will not engage in military operations at Hormuz Strait, says government official",
           "url": "https://www.reddit.com/r/worldnews/comments/1rva1lh/greece_will_not_engage_in_military_operations_at/",
-          "summary": "⬆ 2,241 upvotes · 💬 81 comments · r/worldnews",
+          "summary": "⬆ 2,242 upvotes · 💬 81 comments · r/worldnews",
           "published_at": "2026-03-16 13:52:40+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -239,7 +239,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 2,036 upvotes · 💬 97 comments · r/worldnews",
+          "summary": "⬆ 2,042 upvotes · 💬 97 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -351,12 +351,12 @@
     },
     {
       "topic": "politics",
-      "event": "House Republicans ramp up pressure on Senate to pass SAVE America Act",
-      "gravity_score": 5.0,
-      "priority_score": 17.0,
-      "source_platform": "thehill",
+      "event": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+      "gravity_score": 4.5,
+      "priority_score": 16.5,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://thehill.com/homenews/house/5786734-house-republicans-save-america-act-senate-pressure/",
+      "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -367,8 +367,10 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?"
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?",
+        "Will this person step down from their role within 30 days?",
+        "Will this trigger a formal succession/replacement announcement?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -555,18 +557,18 @@
         "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
       },
       {
-        "topic": "geopolitics",
-        "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
-        "score": 7.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/"
-      },
-      {
         "topic": "politics",
         "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
         "score": 7.25,
         "source": "reddit_news",
         "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
+        "score": 7.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/"
       },
       {
         "topic": "geopolitics",
@@ -684,7 +686,21 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "kevin durant",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "victor wembanyama",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "david ortiz",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -699,20 +715,6 @@
       {
         "topic": "trending",
         "title": "alex rodriguez",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "stephon castle",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "tari eason",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -744,20 +746,20 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "politics",
-        "title": "[The Hill] House Republicans ramp up pressure on Senate to pass SAVE America Act",
-        "score": 5.0,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/house/5786734-house-republicans-save-america-act-senate-pressure/",
-        "source_label": "The Hill"
-      },
-      {
         "topic": "geopolitics",
         "title": "[BBC] Afghanistan accuses Pakistan of killing hundreds in hospital strike",
         "score": 4.5,
         "source": "bbc_world",
         "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
         "source_label": "BBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+        "score": 4.5,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+        "source_label": "CNBC"
       }
     ]
   }
