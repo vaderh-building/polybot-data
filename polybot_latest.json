@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T14:04:39.481197+00:00",
+  "generated_at_utc": "2026-03-17T14:21:37.680626+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 169.36,
-      "attention_focus_score": 166.36,
+      "topic_score": 166.94,
+      "attention_focus_score": 163.94,
       "item_count": 39,
       "source_count": 7,
       "platform_count": 6,
@@ -40,7 +40,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 17,581 upvotes · 💬 1,493 comments · r/politics",
+          "summary": "⬆ 17,603 upvotes · 💬 1,493 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -50,7 +50,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 5,136 upvotes · 💬 834 comments · r/news",
+          "summary": "⬆ 5,158 upvotes · 💬 835 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -74,90 +74,14 @@
           "published_at": "2026-03-17 13:15:01+00:00",
           "topic": "politics",
           "keyword_hits": 3,
-          "gravity_score": 6.5
-        }
-      ]
-    },
-    {
-      "topic": "geopolitics",
-      "topic_score": 85.68,
-      "attention_focus_score": 82.68,
-      "item_count": 20,
-      "source_count": 7,
-      "platform_count": 5,
-      "sources": [
-        "bbc_top",
-        "bbc_world",
-        "cnbc",
-        "npr_news",
-        "reddit_news",
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "Italian President Meloni has excluded any Italian contribution to assist the US in the Strait of Hormuz.",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw30lo/italian_president_meloni_has_excluded_any_italian/",
-          "summary": "⬆ 7,359 upvotes · 💬 319 comments · r/worldnews",
-          "published_at": "2026-03-17 10:42:36+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.25
-        },
-        {
-          "source": "cnbc",
-          "title": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
-          "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
-          "summary": "Fuel prices are likely to keep rising until crude oil flows through the Strait of Hormuz return to normal.",
-          "published_at": "2026-03-17 13:49:11+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "cnbc",
-          "title": "Oil pares gains as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
-          "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
-          "summary": "Oil prices pared gains on Tuesday as uncertainty lingered over a U.S.-led coalition to protect shipping through the Strait of Hormuz.",
-          "published_at": "2026-03-17 14:01:26+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 199 upvotes · 💬 12 comments · r/worldnews",
-          "published_at": "2026-03-17 13:18:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
-        },
-        {
-          "source": "reddit_news",
-          "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
-          "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
-          "summary": "⬆ 146 upvotes · 💬 8 comments · r/news",
-          "published_at": "2026-03-17 13:14:15+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
+          "gravity_score": 5.5
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 84.0,
-      "attention_focus_score": 84.0,
+      "topic_score": 87.5,
+      "attention_focus_score": 87.5,
       "item_count": 21,
       "source_count": 1,
       "platform_count": 1,
@@ -168,6 +92,16 @@
         "coindesk"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
+          "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
+          "summary": "The firm, best known for being one of the oldest crypto market makers, acquired Autonomous and Architech to combine token launch services, trading and treasury management tools.",
+          "published_at": "2026-03-17 14:15:09+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 7.5
+        },
         {
           "source": "coindesk",
           "title": "T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
@@ -200,16 +134,6 @@
         },
         {
           "source": "coindesk",
-          "title": "Ripple looks to expand crypto and payment services in Brazil",
-          "url": "https://www.coindesk.com/business/2026/03/17/ripple-looks-to-expand-crypto-and-payment-services-in-brazil",
-          "summary": "The blockchain firm is adding custody, payments and brokerage tools for digital asset management and tokenization as it plans to apply for regulatory approval from the central bank.",
-          "published_at": "2026-03-17 13:06:52+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
           "title": "Bitcoin consolidation seen with BTC remaining 'overbought' after pullback",
           "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-consolidation-seen-with-btc-remaining-overbought-after-pullback",
           "summary": "Crypto markets cooled after Monday's rally, with bitcoin eyeing support near $72,000–$74,000 even as derivatives positioning remains broadly bullish and altcoins see deeper profit-taking.",
@@ -217,6 +141,83 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 5.0
+        }
+      ]
+    },
+    {
+      "topic": "geopolitics",
+      "topic_score": 86.18,
+      "attention_focus_score": 82.68,
+      "item_count": 20,
+      "source_count": 8,
+      "platform_count": 5,
+      "sources": [
+        "bbc_top",
+        "bbc_world",
+        "cnbc",
+        "npr_news",
+        "reddit_all",
+        "reddit_news",
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_all",
+          "title": "Italian President Meloni has excluded any Italian contribution to assist the US in the Strait of Hormuz.",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw30lo/italian_president_meloni_has_excluded_any_italian/",
+          "summary": "⬆ 8,208 upvotes · 💬 345 comments · r/all",
+          "published_at": "2026-03-17 10:42:36+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.25
+        },
+        {
+          "source": "cnbc",
+          "title": "Oil pares gains as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
+          "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+          "summary": "Oil prices pared gains on Tuesday as uncertainty lingered over a U.S.-led coalition to protect shipping through the Strait of Hormuz.",
+          "published_at": "2026-03-17 14:01:26+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "thehill",
+          "title": "Watch live: Trump meets with Irish leader, participates in Friends of Ireland event",
+          "url": "https://thehill.com/video-clips/5787467-watch-live-donald-trump-micheal-martin-white-house-st-patricks-day/",
+          "summary": "President Trump will meet with Ireland&#8217;s Taoiseach Micheál Martin on Tuesday morning in honor of St. Patrick&#8217;s Day. The event comes as many European leaders have balked at Trump&#8217;s request for help in the Strait of Hormuz amid the ongoing Iran conflict. Martin has thus far tried to strike a careful balance ahead of the&#8230;",
+          "published_at": "2026-03-17 14:03:48+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "cnbc",
+          "title": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
+          "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
+          "summary": "Fuel prices are likely to keep rising until crude oil flows through the Strait of Hormuz return to normal.",
+          "published_at": "2026-03-17 13:49:11+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "cnbc",
+          "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+          "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
+          "summary": "Oil prices advanced on Tuesday as energy market participants monitored Middle East supply disruptions.",
+          "published_at": "2026-03-17 12:48:36+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
         }
       ]
     },
@@ -278,7 +279,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 2,308 upvotes · 💬 237 comments · r/worldnews",
+          "summary": "⬆ 2,505 upvotes · 💬 256 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -372,7 +373,7 @@
       "event": "Italian President Meloni has excluded any Italian contribution to assist the US in the Strait of Hormuz.",
       "gravity_score": 6.25,
       "priority_score": 14.25,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw30lo/italian_president_meloni_has_excluded_any_italian/",
       "platforms_discussing": [
@@ -386,29 +387,6 @@
         "Will any NATO ally actually send warships within 30 days?",
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
         "Will Iran follow through and restrict shipping in the strait?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will crude oil close above/below a specific price within 14 days?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -432,6 +410,28 @@
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
         "Will Iran follow through and restrict shipping in the strait?",
         "Will crude oil close above/below a specific price within 14 days?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Watch live: Trump meets with Irish leader, participates in Friends of Ireland event",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/video-clips/5787467-watch-live-donald-trump-micheal-martin-white-house-st-patricks-day/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -571,15 +571,15 @@
         "topic": "geopolitics",
         "title": "Italian President Meloni has excluded any Italian contribution to assist the US in the Strait of Hormuz.",
         "score": 6.25,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw30lo/italian_president_meloni_has_excluded_any_italian/"
       },
       {
-        "topic": "politics",
-        "title": "Trump Forces Senate Voter ID Showdown Ahead of Midterms",
-        "score": 4.75,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rvqtgm/trump_forces_senate_voter_id_showdown_ahead_of/"
+        "topic": "geopolitics",
+        "title": "Drones, rockets fired at US embassy in Baghdad, security sources say",
+        "score": 3.75,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rvz5f8/drones_rockets_fired_at_us_embassy_in_baghdad/"
       }
     ],
     "X": [
@@ -683,6 +683,20 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "meteor shower",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "nyc fire",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "joe kent",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -690,28 +704,14 @@
       },
       {
         "topic": "trending",
+        "title": "wews",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "meteor strike",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "ohio",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "riz ahmed",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "ubs",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -735,6 +735,14 @@
         "source_label": "CNBC"
       },
       {
+        "topic": "crypto",
+        "title": "[CoinDesk] Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
+        "score": 7.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
+        "source_label": "CoinDesk"
+      },
+      {
         "topic": "politics",
         "title": "[The Hill] Trump says he’ll never endorse anyone who votes against SAVE Act",
         "score": 6.5,
@@ -743,19 +751,11 @@
         "source_label": "The Hill"
       },
       {
-        "topic": "politics",
-        "title": "[The Hill] Watch live: House Republicans give remarks as Trump pushes SAVE America Act",
-        "score": 6.5,
-        "source": "thehill",
-        "url": "https://thehill.com/video-clips/5787335-watch-live-mike-johnson-house-gop-press-conference-save-america-act/",
-        "source_label": "The Hill"
-      },
-      {
         "topic": "geopolitics",
-        "title": "[CNBC] Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
+        "title": "[CNBC] Oil pares gains as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
         "score": 6.0,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
+        "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
         "source_label": "CNBC"
       }
     ]
