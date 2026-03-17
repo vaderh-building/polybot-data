@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T07:52:03.861336+00:00",
+  "generated_at_utc": "2026-03-17T07:54:11.146361+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 16,998 upvotes · 💬 1,468 comments · r/politics",
+          "summary": "⬆ 16,999 upvotes · 💬 1,468 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,846 upvotes · 💬 802 comments · r/news",
+          "summary": "⬆ 4,841 upvotes · 💬 802 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,8 +82,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 86.0,
-      "attention_focus_score": 86.0,
+      "topic_score": 85.5,
+      "attention_focus_score": 85.5,
       "item_count": 23,
       "source_count": 1,
       "platform_count": 1,
@@ -132,7 +132,7 @@
           "published_at": "2026-03-17 01:53:36+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 5.0
+          "gravity_score": 4.5
         },
         {
           "source": "coindesk",
@@ -169,7 +169,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,541 upvotes · 💬 300 comments · r/worldnews",
+          "summary": "⬆ 5,538 upvotes · 💬 300 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -179,7 +179,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 13,171 upvotes · 💬 470 comments · r/news",
+          "summary": "⬆ 13,174 upvotes · 💬 470 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -189,7 +189,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 6,345 upvotes · 💬 955 comments · r/worldnews",
+          "summary": "⬆ 6,349 upvotes · 💬 955 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -199,7 +199,7 @@
           "source": "reddit_worldnews",
           "title": "400 Killed, Around 250 Injured In Pakistan Strike On Kabul Hospital",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvrgkk/400_killed_around_250_injured_in_pakistan_strike/",
-          "summary": "⬆ 3,835 upvotes · 💬 243 comments · r/worldnews",
+          "summary": "⬆ 3,861 upvotes · 💬 245 comments · r/worldnews",
           "published_at": "2026-03-17 00:25:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -209,11 +209,59 @@
           "source": "reddit_worldnews",
           "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvi4hz/european_countries_reject_trumps_call_for_help_to/",
-          "summary": "⬆ 1,770 upvotes · 💬 232 comments · r/worldnews",
+          "summary": "⬆ 1,765 upvotes · 💬 232 comments · r/worldnews",
           "published_at": "2026-03-16 18:41:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.75
+        }
+      ]
+    },
+    {
+      "topic": "reality_tv",
+      "topic_score": 20.77,
+      "attention_focus_score": 20.27,
+      "item_count": 3,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "bbc_top",
+        "google_trends_us_daily"
+      ],
+      "platforms": [
+        "bbc",
+        "google_trends"
+      ],
+      "top_items": [
+        {
+          "source": "google_trends_us_daily",
+          "title": "landman season 3",
+          "url": "https://trends.google.com/trending/rss?geo=US",
+          "summary": "",
+          "published_at": "2026-03-17 07:40:00+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
+        {
+          "source": "google_trends_us_daily",
+          "title": "daredevil born again season 2",
+          "url": "https://trends.google.com/trending/rss?geo=US",
+          "summary": "",
+          "published_at": "2026-03-17 07:40:00+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
+        {
+          "source": "bbc_top",
+          "title": "Tina Fey, Riz Ahmed and Jamie Dornan named Saturday Night Live UK hosts",
+          "url": "https://www.bbc.com/news/articles/cy57xqrx3zno?at_medium=RSS&at_campaign=rss",
+          "summary": "The six-episode series, based on the long-running US variety show, will launch on 21 March.",
+          "published_at": "2026-03-16 21:57:56+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.03
         }
       ]
     },
@@ -237,7 +285,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 2,479 upvotes · 💬 102 comments · r/worldnews",
+          "summary": "⬆ 2,486 upvotes · 💬 102 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -273,7 +321,7 @@
           "source": "reddit_all",
           "title": "Punch found a girlfriend and you’re still single.",
           "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/",
-          "summary": "⬆ 10,701 upvotes · 💬 202 comments · r/all",
+          "summary": "⬆ 10,806 upvotes · 💬 203 comments · r/all",
           "published_at": "2026-03-17 04:07:41+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -304,32 +352,6 @@
           "topic": "social_virality",
           "keyword_hits": 1,
           "gravity_score": 3.6
-        }
-      ]
-    },
-    {
-      "topic": "reality_tv",
-      "topic_score": 2.03,
-      "attention_focus_score": 2.03,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "bbc_top"
-      ],
-      "platforms": [
-        "bbc"
-      ],
-      "top_items": [
-        {
-          "source": "bbc_top",
-          "title": "Tina Fey, Riz Ahmed and Jamie Dornan named Saturday Night Live UK hosts",
-          "url": "https://www.bbc.com/news/articles/cy57xqrx3zno?at_medium=RSS&at_campaign=rss",
-          "summary": "The six-episode series, based on the long-running US variety show, will launch on 21 March.",
-          "published_at": "2026-03-16 21:57:56+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
         }
       ]
     }
@@ -453,11 +475,11 @@
       "event": "Punch found a girlfriend and you’re still single.",
       "gravity_score": 10.51,
       "priority_score": 10.51,
-      "source_platform": "reddit_all",
+      "source_platform": "Reddit",
       "source_label": "",
       "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/",
       "platforms_discussing": [
-        "reddit"
+        "Reddit"
       ],
       "debatable_angles": [
         "Is there a specific deadline, vote, or official decision embedded in this story?",
@@ -465,6 +487,44 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "landman season 3",
+      "gravity_score": 7.76,
+      "priority_score": 9.76,
+      "source_platform": "google_trends_us_daily",
+      "source_label": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "platforms_discussing": [
+        "bbc",
+        "google_trends"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "daredevil born again season 2",
+      "gravity_score": 7.76,
+      "priority_score": 9.76,
+      "source_platform": "google_trends_us_daily",
+      "source_label": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "platforms_discussing": [
+        "bbc",
+        "google_trends"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "geopolitics",
@@ -536,43 +596,6 @@
         "Will the trending product see measurable sales spike on Amazon/Ulta?"
       ],
       "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Trump threatens 500% tariffs on Russia if no Ukraine deal within 50 days",
-      "gravity_score": 8.5,
-      "priority_score": 8.5,
-      "source_platform": "X",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "X"
-      ],
-      "debatable_angles": [
-        "Will tariffs actually be imposed by the stated deadline?",
-        "Will the target country retaliate with counter-tariffs within 30 days?",
-        "Will a specific trade metric (imports/exports volume) shift measurably?",
-        "Will a formal peace deal or ceasefire be signed within the stated timeframe?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "social_virality",
-      "event": "Nicki Minaj \"Want Some More\" freeze-frame reveal format sweeps fashion and lifestyle creators",
-      "gravity_score": 8.3,
-      "priority_score": 8.3,
-      "source_platform": "TikTok",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "TikTok"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Google Trends / Platform public APIs"
     }
   ],
   "platform_snapshots": {
@@ -714,6 +737,27 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "uofa",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "landman season 3",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "daredevil born again season 2",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "storm warning",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -722,27 +766,6 @@
       {
         "topic": "trending",
         "title": "fort lauderdale airport",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "costco recalls",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "ri energy",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "spiderman brand new day",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -774,19 +797,19 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] Bitcoin just surged past $75,000. Derivatives seem to be driving the rally.",
-        "score": 5.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move",
-        "source_label": "CoinDesk"
-      },
-      {
         "topic": "everyday_economy",
         "title": "[CNBC] Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
         "score": 4.55,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+        "score": 4.5,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
         "source_label": "CNBC"
       }
     ]
