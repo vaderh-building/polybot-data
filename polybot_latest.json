@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T19:30:44.519597+00:00",
+  "generated_at_utc": "2026-03-17T19:33:06.084089+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 151.51,
-      "attention_focus_score": 148.51,
+      "topic_score": 149.33,
+      "attention_focus_score": 146.33,
       "item_count": 35,
       "source_count": 7,
       "platform_count": 5,
@@ -29,21 +29,11 @@
           "source": "reddit_all",
           "title": "Afroman defending himself today in court when the cops sued him for making a song about their raid on his house.",
           "url": "https://www.reddit.com/r/law/comments/1rwf2y7/afroman_defending_himself_today_in_court_when_the/",
-          "summary": "⬆ 8,285 upvotes · 💬 329 comments · r/all",
+          "summary": "⬆ 8,777 upvotes · 💬 341 comments · r/all",
           "published_at": "2026-03-17 18:33:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 7.75
-        },
-        {
-          "source": "reddit_news",
-          "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
-          "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 4,552 upvotes · 💬 102 comments · r/news",
-          "published_at": "2026-03-17 18:31:22+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
         },
         {
           "source": "coindesk",
@@ -56,10 +46,20 @@
           "gravity_score": 6.5
         },
         {
+          "source": "reddit_news",
+          "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
+          "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
+          "summary": "⬆ 4,710 upvotes · 💬 108 comments · r/news",
+          "published_at": "2026-03-17 18:31:22+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 5.75
+        },
+        {
           "source": "reddit_politics",
           "title": "Idaho Republicans pass bill making it a felony for transgender people to use public bathrooms",
           "url": "https://www.reddit.com/r/politics/comments/1rw948c/idaho_republicans_pass_bill_making_it_a_felony/",
-          "summary": "⬆ 1,530 upvotes · 💬 320 comments · r/politics",
+          "summary": "⬆ 1,551 upvotes · 💬 322 comments · r/politics",
           "published_at": "2026-03-17 15:06:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,16 +79,15 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 85.68,
-      "attention_focus_score": 82.68,
-      "item_count": 20,
-      "source_count": 7,
+      "topic_score": 95.78,
+      "attention_focus_score": 93.28,
+      "item_count": 22,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
-        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -102,10 +101,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 15,459 upvotes · 💬 895 comments · r/all",
+          "summary": "⬆ 15,552 upvotes · 💬 898 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -115,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 4,598 upvotes · 💬 810 comments · r/worldnews",
+          "summary": "⬆ 4,642 upvotes · 💬 817 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -123,9 +122,19 @@
         },
         {
           "source": "reddit_worldnews",
+          "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
+          "summary": "⬆ 147 upvotes · 💬 62 comments · r/worldnews",
+          "published_at": "2026-03-17 18:48:08+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 6.25
+        },
+        {
+          "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 3,061 upvotes · 💬 98 comments · r/worldnews",
+          "summary": "⬆ 3,085 upvotes · 💬 98 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -140,16 +149,6 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.5
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "European Union rejects Trump's calls for military deployments to reopen Strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwa9fm/european_union_rejects_trumps_calls_for_military/",
-          "summary": "⬆ 497 upvotes · 💬 71 comments · r/worldnews",
-          "published_at": "2026-03-17 15:47:24+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.25
         }
       ]
     },
@@ -245,7 +244,7 @@
           "source": "reddit_all",
           "title": "Kid has the survival instincts of a kid, and the mom got a reality check.",
           "url": "https://www.reddit.com/r/SipsTea/comments/1rwcjj6/kid_has_the_survival_instincts_of_a_kid_and_the/",
-          "summary": "⬆ 6,681 upvotes · 💬 337 comments · r/all",
+          "summary": "⬆ 6,784 upvotes · 💬 342 comments · r/all",
           "published_at": "2026-03-17 17:07:13+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -255,7 +254,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,865 upvotes · 💬 513 comments · r/worldnews",
+          "summary": "⬆ 4,879 upvotes · 💬 513 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -265,7 +264,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 321 upvotes · 💬 19 comments · r/popculturechat",
+          "summary": "⬆ 315 upvotes · 💬 19 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -364,7 +363,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -380,28 +379,6 @@
         "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "politics",
-      "event": "US House panel subpoenas Attorney General Bondi in Epstein probe",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "politics",
@@ -450,12 +427,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-      "gravity_score": 4.75,
-      "priority_score": 12.75,
+      "event": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
+      "gravity_score": 6.25,
+      "priority_score": 14.25,
       "source_platform": "reddit_worldnews",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -464,12 +441,34 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will a formal peace deal or ceasefire be signed within the stated timeframe?",
-        "Will any new country formally commit military aid?",
-        "Will the SEC approve or reject the filing by the stated deadline?",
-        "Will this trigger a measurable price move (>5%) in the related asset?"
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?",
+        "Will a specific member state publicly commit troops or assets?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "politics",
+      "event": "US House panel subpoenas Attorney General Bondi in Epstein probe",
+      "gravity_score": 5.75,
+      "priority_score": 13.75,
+      "source_platform": "reddit_news",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "reality_tv",
@@ -612,15 +611,15 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_all",
+        "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
-        "topic": "politics",
-        "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
-        "score": 6.75,
-        "source": "reddit_news",
-        "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/"
+        "topic": "geopolitics",
+        "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+        "score": 6.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
       }
     ],
     "X": [
@@ -724,6 +723,20 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "luis suárez",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "derek hough",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "manchester city - real madrid",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -739,20 +752,6 @@
       {
         "topic": "trending",
         "title": "chelsea vs psg",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "chelsea - psg",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "coachella",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
