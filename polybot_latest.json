@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T18:38:31.590080+00:00",
+  "generated_at_utc": "2026-03-17T18:40:45.156097+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 170.04,
-      "attention_focus_score": 167.04,
+      "topic_score": 169.5,
+      "attention_focus_score": 166.5,
       "item_count": 41,
       "source_count": 7,
       "platform_count": 5,
@@ -29,7 +29,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 10,433 upvotes · 💬 1,088 comments · r/all",
+          "summary": "⬆ 10,477 upvotes · 💬 1,090 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -59,7 +59,7 @@
           "source": "reddit_news",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 87 upvotes · 💬 8 comments · r/news",
+          "summary": "⬆ 188 upvotes · 💬 10 comments · r/news",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,15 +79,16 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 91.81,
-      "attention_focus_score": 89.31,
-      "item_count": 21,
-      "source_count": 6,
+      "topic_score": 89.12,
+      "attention_focus_score": 86.12,
+      "item_count": 20,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -101,30 +102,20 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 13,010 upvotes · 💬 793 comments · r/worldnews",
+          "summary": "⬆ 13,141 upvotes · 💬 799 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 7.25
         },
         {
-          "source": "cnbc",
-          "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
-          "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
-          "summary": "Oil prices advanced on Tuesday as energy market participants monitored Middle East supply disruptions.",
-          "published_at": "2026-03-17 18:09:31+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 3,463 upvotes · 💬 677 comments · r/worldnews",
+          "summary": "⬆ 3,516 upvotes · 💬 683 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -134,11 +125,21 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,685 upvotes · 💬 94 comments · r/worldnews",
+          "summary": "⬆ 2,712 upvotes · 💬 94 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.25
+        },
+        {
+          "source": "cnbc",
+          "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+          "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
+          "summary": "Oil prices advanced on Tuesday as energy market participants monitored Middle East supply disruptions.",
+          "published_at": "2026-03-17 18:09:31+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
         },
         {
           "source": "cnbc",
@@ -224,8 +225,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 28.92,
-      "attention_focus_score": 27.42,
+      "topic_score": 27.5,
+      "attention_focus_score": 26.0,
       "item_count": 4,
       "source_count": 4,
       "platform_count": 3,
@@ -242,6 +243,16 @@
       ],
       "top_items": [
         {
+          "source": "reddit_worldnews",
+          "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
+          "summary": "⬆ 4,678 upvotes · 💬 502 comments · r/worldnews",
+          "published_at": "2026-03-17 09:55:18+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
+        {
           "source": "google_trends_us_daily",
           "title": "white lotus season 4",
           "url": "https://trends.google.com/trending/rss?geo=US",
@@ -249,23 +260,13 @@
           "published_at": "2026-03-17 18:10:00+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 7.76
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,660 upvotes · 💬 500 comments · r/worldnews",
-          "published_at": "2026-03-17 09:55:18+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 7.76
+          "gravity_score": 6.41
         },
         {
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 299 upvotes · 💬 16 comments · r/popculturechat",
+          "summary": "⬆ 296 upvotes · 💬 16 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -364,7 +365,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -427,29 +428,6 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?",
-        "Will the US or allies conduct a military strike?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
       "event": "NATO countries don't want to get involved in Iran operation, Trump says",
       "gravity_score": 5.25,
       "priority_score": 13.25,
@@ -472,13 +450,36 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "geopolitics",
+      "event": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+      "gravity_score": 5.25,
+      "priority_score": 13.25,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a formal peace deal or ceasefire be signed within the stated timeframe?",
+        "Will any new country formally commit military aid?",
+        "Will the SEC approve or reject the filing by the stated deadline?",
+        "Will this trigger a measurable price move (>5%) in the related asset?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
       "topic": "reality_tv",
-      "event": "white lotus season 4",
+      "event": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
       "gravity_score": 7.76,
       "priority_score": 11.76,
-      "source_platform": "google_trends_us_daily",
+      "source_platform": "reddit_worldnews",
       "source_label": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
       "platforms_discussing": [
         "google_trends",
         "reddit",
@@ -493,12 +494,12 @@
     },
     {
       "topic": "reality_tv",
-      "event": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
-      "gravity_score": 7.76,
-      "priority_score": 11.76,
-      "source_platform": "reddit_worldnews",
+      "event": "white lotus season 4",
+      "gravity_score": 6.41,
+      "priority_score": 10.41,
+      "source_platform": "google_trends_us_daily",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
+      "url": "https://trends.google.com/trending/rss?geo=US",
       "platforms_discussing": [
         "google_trends",
         "reddit",
@@ -601,7 +602,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -771,14 +772,6 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "geopolitics",
-        "title": "[CNBC] Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "politics",
         "title": "[CNBC] Epstein files: House panel subpoenas AG Pam Bondi to appear for deposition",
         "score": 6.0,
@@ -792,6 +785,14 @@
         "score": 5.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "[CNBC] Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+        "score": 5.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
         "source_label": "CNBC"
       },
       {
