@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T04:50:23.723481+00:00",
+  "generated_at_utc": "2026-03-17T04:52:31.646545+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 16,574 upvotes · 💬 1,459 comments · r/politics",
+          "summary": "⬆ 16,585 upvotes · 💬 1,460 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,602 upvotes · 💬 785 comments · r/news",
+          "summary": "⬆ 4,604 upvotes · 💬 785 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -107,7 +107,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,425 upvotes · 💬 299 comments · r/worldnews",
+          "summary": "⬆ 5,431 upvotes · 💬 299 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -117,7 +117,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 12,934 upvotes · 💬 469 comments · r/news",
+          "summary": "⬆ 12,943 upvotes · 💬 469 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 6,172 upvotes · 💬 942 comments · r/worldnews",
+          "summary": "⬆ 6,174 upvotes · 💬 942 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -137,7 +137,7 @@
           "source": "reddit_worldnews",
           "title": "Greece will not engage in military operations at Hormuz Strait, says government official",
           "url": "https://www.reddit.com/r/worldnews/comments/1rva1lh/greece_will_not_engage_in_military_operations_at/",
-          "summary": "⬆ 2,297 upvotes · 💬 82 comments · r/worldnews",
+          "summary": "⬆ 2,302 upvotes · 💬 82 comments · r/worldnews",
           "published_at": "2026-03-16 13:52:40+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -147,7 +147,7 @@
           "source": "reddit_worldnews",
           "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvi4hz/european_countries_reject_trumps_call_for_help_to/",
-          "summary": "⬆ 1,621 upvotes · 💬 219 comments · r/worldnews",
+          "summary": "⬆ 1,634 upvotes · 💬 219 comments · r/worldnews",
           "published_at": "2026-03-16 18:41:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -157,8 +157,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 78.5,
-      "attention_focus_score": 78.5,
+      "topic_score": 81.5,
+      "attention_focus_score": 81.5,
       "item_count": 22,
       "source_count": 1,
       "platform_count": 1,
@@ -169,6 +169,16 @@
         "coindesk"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Bitcoin’s derivatives-led rally is already unraveling. Prices are back below $75,000",
+          "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-s-derivatives-led-rally-is-already-unraveling-prices-are-back-below-usd75-000",
+          "summary": "Bitcoin briefly surged to a six-week high above $75,000 before quickly retreating, underscoring the fragility of the latest rally.",
+          "published_at": "2026-03-17 04:52:00+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
         {
           "source": "coindesk",
           "title": "T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
@@ -208,16 +218,6 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin eyes $75,000, nearing 25% bounce from February bottom",
-          "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-eyes-usd75-000-nearing-25-bounce-from-february-bottom",
-          "summary": "Gains came for crypto and stocks as tensions around the Strait of Hormuz appeared to ease slightly, sending oil prices lower.",
-          "published_at": "2026-03-16 14:26:41+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
@@ -251,7 +251,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 2,216 upvotes · 💬 97 comments · r/worldnews",
+          "summary": "⬆ 2,214 upvotes · 💬 97 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -745,6 +745,14 @@
       },
       {
         "topic": "crypto",
+        "title": "[CoinDesk] Bitcoin’s derivatives-led rally is already unraveling. Prices are back below $75,000",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-s-derivatives-led-rally-is-already-unraveling-prices-are-back-below-usd75-000",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "crypto",
         "title": "[CoinDesk] T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
         "score": 6.0,
         "source": "coindesk",
@@ -766,14 +774,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "politics",
-        "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
-        "score": 4.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
-        "source_label": "CNBC"
       }
     ]
   }
