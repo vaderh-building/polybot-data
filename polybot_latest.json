@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T19:15:29.545763+00:00",
+  "generated_at_utc": "2026-03-17T19:17:40.031799+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -29,7 +29,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 11,366 upvotes · 💬 1,167 comments · r/all",
+          "summary": "⬆ 11,429 upvotes · 💬 1,171 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -39,7 +39,7 @@
           "source": "reddit_news",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 3,431 upvotes · 💬 88 comments · r/news",
+          "summary": "⬆ 3,569 upvotes · 💬 91 comments · r/news",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -59,7 +59,7 @@
           "source": "reddit_politics",
           "title": "Idaho Republicans pass bill making it a felony for transgender people to use public bathrooms",
           "url": "https://www.reddit.com/r/politics/comments/1rw948c/idaho_republicans_pass_bill_making_it_a_felony/",
-          "summary": "⬆ 1,388 upvotes · 💬 309 comments · r/politics",
+          "summary": "⬆ 1,414 upvotes · 💬 310 comments · r/politics",
           "published_at": "2026-03-17 15:06:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,16 +79,15 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 88.86,
-      "attention_focus_score": 85.86,
+      "topic_score": 85.71,
+      "attention_focus_score": 83.21,
       "item_count": 20,
-      "source_count": 7,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
-        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -102,10 +101,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 14,804 upvotes · 💬 868 comments · r/all",
+          "summary": "⬆ 14,877 upvotes · 💬 873 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -115,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 4,254 upvotes · 💬 781 comments · r/worldnews",
+          "summary": "⬆ 4,318 upvotes · 💬 787 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -125,21 +124,11 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,962 upvotes · 💬 96 comments · r/worldnews",
+          "summary": "⬆ 2,977 upvotes · 💬 97 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.25
-        },
-        {
-          "source": "bbc_world",
-          "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
-          "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
-          "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
-          "published_at": "2026-03-17 18:45:54+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.5
         },
         {
           "source": "bbc_world",
@@ -150,6 +139,16 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.5
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "European Union rejects Trump's calls for military deployments to reopen Strait of Hormuz",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwa9fm/european_union_rejects_trumps_calls_for_military/",
+          "summary": "⬆ 461 upvotes · 💬 71 comments · r/worldnews",
+          "published_at": "2026-03-17 15:47:24+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.25
         }
       ]
     },
@@ -245,7 +244,7 @@
           "source": "reddit_all",
           "title": "Kid has the survival instincts of a kid, and the mom got a reality check.",
           "url": "https://www.reddit.com/r/SipsTea/comments/1rwcjj6/kid_has_the_survival_instincts_of_a_kid_and_the/",
-          "summary": "⬆ 5,872 upvotes · 💬 311 comments · r/all",
+          "summary": "⬆ 6,004 upvotes · 💬 313 comments · r/all",
           "published_at": "2026-03-17 17:07:13+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -255,7 +254,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,819 upvotes · 💬 511 comments · r/worldnews",
+          "summary": "⬆ 4,824 upvotes · 💬 512 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -265,7 +264,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 309 upvotes · 💬 19 comments · r/popculturechat",
+          "summary": "⬆ 311 upvotes · 💬 19 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -364,7 +363,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -605,7 +604,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_all",
+        "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
