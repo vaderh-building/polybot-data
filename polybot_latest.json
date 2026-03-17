@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T16:59:30.190039+00:00",
+  "generated_at_utc": "2026-03-17T17:01:43.235094+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -38,7 +38,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 7,717 upvotes · 💬 833 comments · r/all",
+          "summary": "⬆ 7,806 upvotes · 💬 839 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -78,8 +78,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 87.41,
-      "attention_focus_score": 86.91,
+      "topic_score": 85.72,
+      "attention_focus_score": 85.22,
       "item_count": 19,
       "source_count": 2,
       "platform_count": 2,
@@ -100,7 +100,7 @@
           "published_at": "2026-03-17 16:30:00+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 7.5
+          "gravity_score": 6.5
         },
         {
           "source": "coindesk",
@@ -172,7 +172,7 @@
           "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 7,478 upvotes · 💬 521 comments · r/all",
+          "summary": "⬆ 7,656 upvotes · 💬 530 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -182,7 +182,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 1,110 upvotes · 💬 279 comments · r/worldnews",
+          "summary": "⬆ 1,215 upvotes · 💬 293 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -192,7 +192,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 1,957 upvotes · 💬 66 comments · r/worldnews",
+          "summary": "⬆ 1,976 upvotes · 💬 66 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -241,7 +241,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,224 upvotes · 💬 454 comments · r/worldnews",
+          "summary": "⬆ 4,247 upvotes · 💬 455 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -251,7 +251,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 216 upvotes · 💬 15 comments · r/popculturechat",
+          "summary": "⬆ 219 upvotes · 💬 15 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -498,24 +498,6 @@
       "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
-      "topic": "crypto",
-      "event": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
-      "gravity_score": 7.5,
-      "priority_score": 9.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -564,6 +546,24 @@
         "Will the trending product see measurable sales spike on Amazon/Ulta?"
       ],
       "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
+    },
+    {
+      "topic": "crypto",
+      "event": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
+      "gravity_score": 6.5,
+      "priority_score": 8.5,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk"
+      ],
+      "debatable_angles": [
+        "Will BTC close above/below a specific price level within 14 days?",
+        "Will institutional inflows (ETF) exceed a measurable threshold?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "geopolitics",
@@ -762,7 +762,7 @@
       {
         "topic": "crypto",
         "title": "[CoinDesk] Facing a crisis, Bitcoin treasury companies need to pivot to survive",
-        "score": 7.5,
+        "score": 6.5,
         "source": "coindesk",
         "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
         "source_label": "CoinDesk"
