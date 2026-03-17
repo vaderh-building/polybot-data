@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T16:35:19.189503+00:00",
+  "generated_at_utc": "2026-03-17T16:41:59.697442+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 147.47,
-      "attention_focus_score": 144.97,
+      "topic_score": 146.38,
+      "attention_focus_score": 143.88,
       "item_count": 36,
       "source_count": 6,
       "platform_count": 5,
@@ -35,20 +35,10 @@
           "gravity_score": 6.5
         },
         {
-          "source": "thehill",
-          "title": "White House reviews Democratic offer to reopen Homeland Security",
-          "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
-          "summary": "White House negotiators are reviewing a Democratic proposal to fund and reopen the Department of Homeland Security,&#160;but the talks are inching along and Senate Majority Leader John Thune (R-S.D.) said Democrats aren’t serious about getting a deal soon. The White House submitted its last offer to Senate Democrats more than two weeks ago,&#160;and Democrats didn’t&#8230;",
-          "published_at": "2026-03-17 15:38:08+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 6.5
-        },
-        {
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 6,985 upvotes · 💬 762 comments · r/all",
+          "summary": "⬆ 7,075 upvotes · 💬 777 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -73,13 +63,23 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.0
+        },
+        {
+          "source": "thehill",
+          "title": "White House reviews Democratic offer to reopen Homeland Security",
+          "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
+          "summary": "White House negotiators are reviewing a Democratic proposal to fund and reopen the Department of Homeland Security,&#160;but the talks are inching along and Senate Majority Leader John Thune (R-S.D.) said Democrats aren’t serious about getting a deal soon. The White House submitted its last offer to Senate Democrats more than two weeks ago,&#160;and Democrats didn’t&#8230;",
+          "published_at": "2026-03-17 15:38:08+00:00",
+          "topic": "politics",
+          "keyword_hits": 3,
+          "gravity_score": 5.5
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 90.22,
-      "attention_focus_score": 89.72,
+      "topic_score": 89.66,
+      "attention_focus_score": 89.16,
       "item_count": 19,
       "source_count": 2,
       "platform_count": 2,
@@ -146,8 +146,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 85.42,
-      "attention_focus_score": 82.42,
+      "topic_score": 83.3,
+      "attention_focus_score": 80.3,
       "item_count": 18,
       "source_count": 7,
       "platform_count": 5,
@@ -172,7 +172,7 @@
           "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 5,857 upvotes · 💬 424 comments · r/all",
+          "summary": "⬆ 6,074 upvotes · 💬 433 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -182,31 +182,21 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 371 upvotes · 💬 119 comments · r/worldnews",
+          "summary": "⬆ 431 upvotes · 💬 141 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 6.75
+          "gravity_score": 5.75
         },
         {
           "source": "reddit_worldnews",
           "title": "European Union rejects Trump's calls for military deployments to reopen Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwa9fm/european_union_rejects_trumps_calls_for_military/",
-          "summary": "⬆ 156 upvotes · 💬 39 comments · r/worldnews",
+          "summary": "⬆ 165 upvotes · 💬 42 comments · r/worldnews",
           "published_at": "2026-03-17 15:47:24+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.75
-        },
-        {
-          "source": "bbc_world",
-          "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
-          "url": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
-          "summary": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution.",
-          "published_at": "2026-03-17 16:10:06+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.5
         },
         {
           "source": "bbc_world",
@@ -217,13 +207,23 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.5
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+          "summary": "⬆ 1,798 upvotes · 💬 62 comments · r/worldnews",
+          "published_at": "2026-03-17 13:18:21+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.25
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 17.32,
-      "attention_focus_score": 16.32,
+      "topic_score": 18.7,
+      "attention_focus_score": 17.7,
       "item_count": 3,
       "source_count": 3,
       "platform_count": 2,
@@ -241,17 +241,17 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,119 upvotes · 💬 438 comments · r/worldnews",
+          "summary": "⬆ 4,146 upvotes · 💬 440 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 6.41
+          "gravity_score": 7.76
         },
         {
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 186 upvotes · 💬 14 comments · r/popculturechat",
+          "summary": "⬆ 189 upvotes · 💬 14 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -368,29 +368,6 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "geopolitics",
-      "event": "NATO countries don't want to get involved in Iran operation, Trump says",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
       "topic": "politics",
       "event": "U.S. Democrats target government officials gaming prediction markets on war action",
       "gravity_score": 6.5,
@@ -409,29 +386,6 @@
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "White House reviews Democratic offer to reopen Homeland Security",
-      "gravity_score": 6.5,
-      "priority_score": 14.5,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will the SEC approve or reject the filing by the stated deadline?",
-        "Will this trigger a measurable price move (>5%) in the related asset?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -458,6 +412,50 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
+      "topic": "politics",
+      "event": "Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "NATO countries don't want to get involved in Iran operation, Trump says",
+      "gravity_score": 5.75,
+      "priority_score": 13.75,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a specific member state publicly commit troops or assets?",
+        "Will an emergency NATO summit be convened within 30 days?",
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
       "topic": "geopolitics",
       "event": "European Union rejects Trump's calls for military deployments to reopen Strait of Hormuz",
       "gravity_score": 4.75,
@@ -478,6 +476,25 @@
         "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
+      "gravity_score": 7.76,
+      "priority_score": 9.76,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
+      "platforms_discussing": [
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "crypto",
@@ -565,29 +582,17 @@
         "Will a formal peace deal or ceasefire be signed within the stated timeframe?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
-      "gravity_score": 6.41,
-      "priority_score": 8.41,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-      "platforms_discussing": [
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
     }
   ],
   "platform_snapshots": {
     "Reddit": [
+      {
+        "topic": "reality_tv",
+        "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
+        "score": 7.76,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/"
+      },
       {
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
@@ -596,25 +601,18 @@
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
-        "topic": "geopolitics",
-        "title": "NATO countries don't want to get involved in Iran operation, Trump says",
-        "score": 6.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
-      },
-      {
-        "topic": "reality_tv",
-        "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
-        "score": 6.41,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/"
-      },
-      {
         "topic": "politics",
         "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
         "score": 6.25,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+        "score": 5.75,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
       },
       {
         "topic": "reality_tv",
@@ -778,14 +776,6 @@
       },
       {
         "topic": "politics",
-        "title": "[The Hill] White House reviews Democratic offer to reopen Homeland Security",
-        "score": 6.5,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "politics",
         "title": "[CNBC] Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
         "score": 6.0,
         "source": "cnbc",
@@ -798,6 +788,14 @@
         "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/homenews/house/5787816-lieu-trump-kevin-hassett-economy/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] White House reviews Democratic offer to reopen Homeland Security",
+        "score": 5.5,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
         "source_label": "The Hill"
       }
     ]
