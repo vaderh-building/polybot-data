@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T18:12:18.748767+00:00",
+  "generated_at_utc": "2026-03-17T18:14:31.257097+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 165.46,
-      "attention_focus_score": 162.96,
+      "topic_score": 164.37,
+      "attention_focus_score": 161.87,
       "item_count": 39,
       "source_count": 6,
       "platform_count": 5,
@@ -28,21 +28,11 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 9,848 upvotes · 💬 1,032 comments · r/all",
+          "summary": "⬆ 9,901 upvotes · 💬 1,034 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 7.25
-        },
-        {
-          "source": "cnbc",
-          "title": "Everything to know about the SAVE America Act voter ID-bill",
-          "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
-          "summary": "President Donald Trump has been pushing Congress to approve the SAVE America Act to require ID at the polls and proof of U.S. citizenship to register to vote.",
-          "published_at": "2026-03-17 17:14:26+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.5
         },
         {
           "source": "coindesk",
@@ -72,6 +62,16 @@
           "published_at": "2026-03-17 17:49:19+00:00",
           "topic": "politics",
           "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "thehill",
+          "title": "Sanders presses Cassidy for hearing on RFK Jr. vaccine claims",
+          "url": "https://thehill.com/homenews/5787632-sanders-calls-hearing-kennedy-vaccine/",
+          "summary": "Sen. Bernie Sanders (I-Vt.) is calling on Sen. Bill Cassidy (R-La.), chair of the Senate Health, Education, Labor and Pensions (HELP) Committee, to hold a hearing on the &#8220;dangerous misinformation campaign&#8221; Health and Human Services Secretary Robert F. Kennedy Jr. has led in linking vaccines to autism. &#8220;The reality is that since Secretary Kennedy has&#8230;",
+          "published_at": "2026-03-17 17:55:18+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
           "gravity_score": 6.0
         }
       ]
@@ -104,7 +104,7 @@
           "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 12,041 upvotes · 💬 742 comments · r/all",
+          "summary": "⬆ 12,153 upvotes · 💬 751 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -134,7 +134,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 3,084 upvotes · 💬 608 comments · r/worldnews",
+          "summary": "⬆ 3,110 upvotes · 💬 614 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -144,7 +144,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,541 upvotes · 💬 86 comments · r/worldnews",
+          "summary": "⬆ 2,553 upvotes · 💬 86 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -371,12 +371,12 @@
     },
     {
       "topic": "politics",
-      "event": "Everything to know about the SAVE America Act voter ID-bill",
+      "event": "U.S. Democrats target government officials gaming prediction markets on war action",
       "gravity_score": 6.5,
       "priority_score": 14.5,
-      "source_platform": "cnbc",
+      "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
+      "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
@@ -385,21 +385,20 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?",
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "politics",
-      "event": "U.S. Democrats target government officials gaming prediction markets on war action",
-      "gravity_score": 6.5,
-      "priority_score": 14.5,
-      "source_platform": "coindesk",
+      "event": "Epstein files: House panel subpoenas AG Pam Bondi to appear for deposition",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
+      "url": "https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
@@ -749,14 +748,6 @@
     "Major News Headlines": [
       {
         "topic": "politics",
-        "title": "[CNBC] Everything to know about the SAVE America Act voter ID-bill",
-        "score": 6.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
         "title": "[CoinDesk] U.S. Democrats target government officials gaming prediction markets on war action",
         "score": 6.5,
         "source": "coindesk",
@@ -786,6 +777,14 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CoinDesk] Arizona Attorney General files criminal charges against prediction market Kalshi",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/policy/2026/03/17/arizona-attorney-general-charges-kalshi-with-illegal-gambling-election-betting",
+        "source_label": "CoinDesk"
       }
     ]
   }
