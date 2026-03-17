@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T17:03:56.650068+00:00",
+  "generated_at_utc": "2026-03-17T17:06:06.667628+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 144.75,
-      "attention_focus_score": 142.25,
+      "topic_score": 143.66,
+      "attention_focus_score": 141.16,
       "item_count": 36,
       "source_count": 6,
       "platform_count": 5,
@@ -38,7 +38,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 7,879 upvotes · 💬 847 comments · r/all",
+          "summary": "⬆ 7,944 upvotes · 💬 854 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -56,16 +56,6 @@
         },
         {
           "source": "thehill",
-          "title": "Lieu wants Trump to send Hassett to every swing district to talk economy",
-          "url": "https://thehill.com/homenews/house/5787816-lieu-trump-kevin-hassett-economy/",
-          "summary": "A top House Democrat is calling on the White House to send National Economic Council Director Kevin Hassett to swing districts around the country to talk about the administration’s approach to consumer prices.&#160; Hassett on Tuesday made waves when&#160;he told CNBC&#160;that the economic squeeze on consumers caused by the U.S.-Israel attacks on Iran is “the&#8230;",
-          "published_at": "2026-03-17 16:35:24+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "thehill",
           "title": "White House reviews Democratic offer to reopen Homeland Security",
           "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
           "summary": "White House negotiators are reviewing a Democratic proposal to fund and reopen the Department of Homeland Security,&#160;but the talks are inching along and Senate Majority Leader John Thune (R-S.D.) said Democrats aren’t serious about getting a deal soon. The White House submitted its last offer to Senate Democrats more than two weeks ago,&#160;and Democrats didn’t&#8230;",
@@ -73,6 +63,16 @@
           "topic": "politics",
           "keyword_hits": 3,
           "gravity_score": 5.5
+        },
+        {
+          "source": "thehill",
+          "title": "Lieu wants Trump to send Hassett to every swing district to talk economy",
+          "url": "https://thehill.com/homenews/house/5787816-lieu-trump-kevin-hassett-economy/",
+          "summary": "A top House Democrat is calling on the White House to send National Economic Council Director Kevin Hassett to swing districts around the country to talk about the administration’s approach to consumer prices.&#160; Hassett on Tuesday made waves when&#160;he told CNBC&#160;that the economic squeeze on consumers caused by the U.S.-Israel attacks on Iran is “the&#8230;",
+          "published_at": "2026-03-17 16:35:24+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 5.0
         }
       ]
     },
@@ -146,16 +146,15 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 84.89,
-      "attention_focus_score": 81.89,
+      "topic_score": 83.86,
+      "attention_focus_score": 81.36,
       "item_count": 18,
-      "source_count": 7,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
-        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -169,10 +168,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 7,836 upvotes · 💬 545 comments · r/all",
+          "summary": "⬆ 7,986 upvotes · 💬 548 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -182,31 +181,21 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 1,312 upvotes · 💬 314 comments · r/worldnews",
+          "summary": "⬆ 1,400 upvotes · 💬 333 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.75
+          "gravity_score": 6.75
         },
         {
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 1,996 upvotes · 💬 68 comments · r/worldnews",
+          "summary": "⬆ 2,015 upvotes · 💬 69 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.25
-        },
-        {
-          "source": "bbc_world",
-          "title": "What have US allies and China said about sending ships to the Strait of Hormuz?",
-          "url": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
-          "summary": "US allies have either pushed back or remained cautious on Trump's initial request to send ships to the crucial oil route.",
-          "published_at": "2026-03-17 16:35:29+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.5
         },
         {
           "source": "thehill",
@@ -217,6 +206,16 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.5
+        },
+        {
+          "source": "reddit_news",
+          "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
+          "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
+          "summary": "⬆ 718 upvotes · 💬 47 comments · r/news",
+          "published_at": "2026-03-17 13:14:15+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.25
         }
       ]
     },
@@ -241,7 +240,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,257 upvotes · 💬 457 comments · r/worldnews",
+          "summary": "⬆ 4,260 upvotes · 💬 459 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -251,7 +250,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 222 upvotes · 💬 15 comments · r/popculturechat",
+          "summary": "⬆ 224 upvotes · 💬 15 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -340,7 +339,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 6.75,
       "priority_score": 14.75,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -354,6 +353,29 @@
         "Will any NATO ally actually send warships within 30 days?",
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
         "Will Iran follow through and restrict shipping in the strait?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "NATO countries don't want to get involved in Iran operation, Trump says",
+      "gravity_score": 6.75,
+      "priority_score": 14.75,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a specific member state publicly commit troops or assets?",
+        "Will an emergency NATO summit be convened within 30 days?",
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -421,29 +443,6 @@
         "Will the vote happen before a specific procedural deadline?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "NATO countries don't want to get involved in Iran operation, Trump says",
-      "gravity_score": 5.75,
-      "priority_score": 13.75,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
@@ -588,8 +587,15 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 6.75,
-        "source": "reddit_all",
+        "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+        "score": 6.75,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
       },
       {
         "topic": "politics",
@@ -597,13 +603,6 @@
         "score": 6.25,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "NATO countries don't want to get involved in Iran operation, Trump says",
-        "score": 5.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
       },
       {
         "topic": "geopolitics",
@@ -775,19 +774,19 @@
       },
       {
         "topic": "politics",
-        "title": "[The Hill] Lieu wants Trump to send Hassett to every swing district to talk economy",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/house/5787816-lieu-trump-kevin-hassett-economy/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "politics",
         "title": "[The Hill] White House reviews Democratic offer to reopen Homeland Security",
         "score": 5.5,
         "source": "thehill",
         "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
         "source_label": "The Hill"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
+        "score": 5.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
+        "source_label": "CoinDesk"
       }
     ]
   }
