@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T17:19:19.320220+00:00",
+  "generated_at_utc": "2026-03-17T17:21:33.032877+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -28,7 +28,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 8,376 upvotes · 💬 901 comments · r/all",
+          "summary": "⬆ 8,460 upvotes · 💬 917 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -148,15 +148,16 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 85.98,
+      "topic_score": 86.48,
       "attention_focus_score": 83.48,
       "item_count": 19,
-      "source_count": 6,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -170,10 +171,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 8,968 upvotes · 💬 582 comments · r/worldnews",
+          "summary": "⬆ 9,136 upvotes · 💬 591 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -183,7 +184,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 1,951 upvotes · 💬 424 comments · r/worldnews",
+          "summary": "⬆ 2,022 upvotes · 💬 431 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -193,7 +194,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,130 upvotes · 💬 73 comments · r/worldnews",
+          "summary": "⬆ 2,147 upvotes · 💬 73 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,7 +214,7 @@
           "source": "reddit_news",
           "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
           "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
-          "summary": "⬆ 763 upvotes · 💬 50 comments · r/news",
+          "summary": "⬆ 767 upvotes · 💬 50 comments · r/news",
           "published_at": "2026-03-17 13:14:15+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -242,7 +243,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,350 upvotes · 💬 466 comments · r/worldnews",
+          "summary": "⬆ 4,354 upvotes · 💬 467 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -252,7 +253,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 235 upvotes · 💬 15 comments · r/popculturechat",
+          "summary": "⬆ 237 upvotes · 💬 15 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -363,7 +364,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -593,18 +594,18 @@
         "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/"
       },
       {
+        "topic": "geopolitics",
+        "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
+        "score": 7.25,
+        "source": "reddit_all",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
+      },
+      {
         "topic": "politics",
         "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
         "score": 7.25,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-        "score": 7.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
         "topic": "geopolitics",
