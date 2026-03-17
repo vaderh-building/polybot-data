@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T17:21:33.032877+00:00",
+  "generated_at_utc": "2026-03-17T17:23:44.448274+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 146.38,
-      "attention_focus_score": 143.88,
+      "topic_score": 149.65,
+      "attention_focus_score": 147.15,
       "item_count": 36,
       "source_count": 6,
       "platform_count": 5,
@@ -25,10 +25,20 @@
       ],
       "top_items": [
         {
+          "source": "cnbc",
+          "title": "Everything to know about the SAVE America Act voter ID-bill",
+          "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
+          "summary": "President Donald Trump has been pushing Congress to approve the SAVE America Act to require ID at the polls and proof of U.S. citizenship to register to vote.",
+          "published_at": "2026-03-17 17:14:26+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 7.5
+        },
+        {
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 8,460 upvotes · 💬 917 comments · r/all",
+          "summary": "⬆ 8,537 upvotes · 💬 922 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -63,23 +73,13 @@
           "topic": "politics",
           "keyword_hits": 3,
           "gravity_score": 5.5
-        },
-        {
-          "source": "cnbc",
-          "title": "Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
-          "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
-          "summary": "The Department of Homeland Security shutdown has caused pileups in airport security lines across the country.",
-          "published_at": "2026-03-17 16:38:55+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 89.83,
-      "attention_focus_score": 88.83,
+      "topic_score": 89.29,
+      "attention_focus_score": 88.29,
       "item_count": 20,
       "source_count": 3,
       "platform_count": 3,
@@ -148,16 +148,15 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 86.48,
+      "topic_score": 85.98,
       "attention_focus_score": 83.48,
       "item_count": 19,
-      "source_count": 7,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
-        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -171,10 +170,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 9,136 upvotes · 💬 591 comments · r/all",
+          "summary": "⬆ 9,273 upvotes · 💬 603 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -184,7 +183,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 2,022 upvotes · 💬 431 comments · r/worldnews",
+          "summary": "⬆ 2,105 upvotes · 💬 447 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -194,7 +193,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,147 upvotes · 💬 73 comments · r/worldnews",
+          "summary": "⬆ 2,177 upvotes · 💬 73 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -214,7 +213,7 @@
           "source": "reddit_news",
           "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
           "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
-          "summary": "⬆ 767 upvotes · 💬 50 comments · r/news",
+          "summary": "⬆ 771 upvotes · 💬 50 comments · r/news",
           "published_at": "2026-03-17 13:14:15+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -243,7 +242,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,354 upvotes · 💬 467 comments · r/worldnews",
+          "summary": "⬆ 4,379 upvotes · 💬 468 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -253,7 +252,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 237 upvotes · 💬 15 comments · r/popculturechat",
+          "summary": "⬆ 239 upvotes · 💬 15 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -339,6 +338,29 @@
   "market_suggestions": [
     {
       "topic": "politics",
+      "event": "Everything to know about the SAVE America Act voter ID-bill",
+      "gravity_score": 7.5,
+      "priority_score": 15.5,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?",
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are…",
       "gravity_score": 7.25,
       "priority_score": 15.25,
@@ -364,7 +386,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -400,28 +422,6 @@
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Trump, Leavitt dismiss Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/homenews/administration/5787821-trump-criticizes-kent-iran-threat/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -597,7 +597,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_all",
+        "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -723,6 +723,13 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "aipac",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "sporting vs bodø/glimt",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -748,16 +755,17 @@
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "nato",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
+      {
+        "topic": "politics",
+        "title": "[CNBC] Everything to know about the SAVE America Act voter ID-bill",
+        "score": 7.5,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
+        "source_label": "CNBC"
+      },
       {
         "topic": "crypto",
         "title": "[CoinDesk] Facing a crisis, Bitcoin treasury companies need to pivot to survive",
@@ -789,14 +797,6 @@
         "source": "thehill",
         "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
         "source_label": "The Hill"
-      },
-      {
-        "topic": "politics",
-        "title": "[CNBC] Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
-        "score": 5.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
-        "source_label": "CNBC"
       }
     ]
   }
