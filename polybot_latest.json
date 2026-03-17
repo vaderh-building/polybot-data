@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T00:51:40.067050+00:00",
+  "generated_at_utc": "2026-03-17T00:53:47.945784+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 14,945 upvotes · 💬 1,383 comments · r/politics",
+          "summary": "⬆ 14,956 upvotes · 💬 1,384 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 3,720 upvotes · 💬 681 comments · r/news",
+          "summary": "⬆ 3,734 upvotes · 💬 684 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,9 +82,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 103.2,
-      "attention_focus_score": 100.7,
-      "item_count": 22,
+      "topic_score": 101.08,
+      "attention_focus_score": 98.58,
+      "item_count": 21,
       "source_count": 6,
       "platform_count": 5,
       "sources": [
@@ -107,7 +107,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,149 upvotes · 💬 296 comments · r/worldnews",
+          "summary": "⬆ 5,151 upvotes · 💬 296 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -117,7 +117,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 27,049 upvotes · 💬 2,028 comments · r/worldnews",
+          "summary": "⬆ 27,052 upvotes · 💬 2,028 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 12,167 upvotes · 💬 457 comments · r/news",
+          "summary": "⬆ 12,177 upvotes · 💬 457 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -137,7 +137,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 5,246 upvotes · 💬 887 comments · r/worldnews",
+          "summary": "⬆ 5,247 upvotes · 💬 888 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -147,7 +147,7 @@
           "source": "reddit_news",
           "title": "Flights suspended after drone strike near Dubai International Airport",
           "url": "https://www.reddit.com/r/news/comments/1rux20h/flights_suspended_after_drone_strike_near_dubai/",
-          "summary": "⬆ 4,487 upvotes · 💬 273 comments · r/news",
+          "summary": "⬆ 4,505 upvotes · 💬 273 comments · r/news",
           "published_at": "2026-03-16 02:12:59+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -223,20 +223,32 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 6.98,
-      "attention_focus_score": 6.48,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
+      "topic_score": 17.52,
+      "attention_focus_score": 16.52,
+      "item_count": 3,
+      "source_count": 3,
+      "platform_count": 3,
       "sources": [
         "bbc_top",
+        "google_trends_us_daily",
         "thehill"
       ],
       "platforms": [
         "bbc",
+        "google_trends",
         "thehill"
       ],
       "top_items": [
+        {
+          "source": "google_trends_us_daily",
+          "title": "tekken 8 season 3 patch notes",
+          "url": "https://trends.google.com/trending/rss?geo=US",
+          "summary": "",
+          "published_at": "2026-03-17 00:40:00+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
         {
           "source": "bbc_top",
           "title": "Tina Fey, Riz Ahmed and Jamie Dornan named Saturday Night Live UK hosts",
@@ -277,7 +289,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 1,258 upvotes · 💬 81 comments · r/worldnews",
+          "summary": "⬆ 1,280 upvotes · 💬 81 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -454,6 +466,26 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "reality_tv",
+      "event": "tekken 8 season 3 patch notes",
+      "gravity_score": 7.76,
+      "priority_score": 11.76,
+      "source_platform": "google_trends_us_daily",
+      "source_label": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "platforms_discussing": [
+        "bbc",
+        "google_trends",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -539,24 +571,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "fashion",
-      "event": "\"Mori girl\" aesthetic revival surging — linen layers, cottagecore accessories trending among Gen Z",
-      "gravity_score": 8.3,
-      "priority_score": 8.3,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Fashion industry reports / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -698,35 +712,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "jac caglianone",
+        "title": "sam antonacci",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "andrew fischer",
+        "title": "love story jfk",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "gleyber torres",
+        "title": "luke bryan",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "chappell roan",
+        "title": "american idol winners",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "tornado warning richmond va",
+        "title": "tekken 8 season 3 patch notes",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
