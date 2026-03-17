@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T17:23:44.448274+00:00",
+  "generated_at_utc": "2026-03-17T17:26:00.296164+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -38,7 +38,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 8,537 upvotes · 💬 922 comments · r/all",
+          "summary": "⬆ 8,600 upvotes · 💬 927 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -58,7 +58,7 @@
           "source": "thehill",
           "title": "Trump, Leavitt dismiss Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
           "url": "https://thehill.com/homenews/administration/5787821-trump-criticizes-kent-iran-threat/",
-          "summary": "President Trump and White House press secretary Karoline Leavitt on Tuesday railed against Joe Kent after he resigned from his post as Director of the National Counterterrorism Center. “I read his statement. I always thought he was a nice guy, but I always thought he was weak on security, very weak on security. I didn&#8217;t&#8230;",
+          "summary": "President Trump and White House press secretary Karoline Leavitt on Tuesday railed against Joe Kent after he resigned from his post as director of the National Counterterrorism Center. “I read his statement. I always thought he was a nice guy, but I always thought he was weak on security, very weak on security. I didn&#8217;t&#8230;",
           "published_at": "2026-03-17 17:02:50+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -78,19 +78,21 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 89.29,
-      "attention_focus_score": 88.29,
-      "item_count": 20,
-      "source_count": 3,
-      "platform_count": 3,
+      "topic_score": 97.71,
+      "attention_focus_score": 96.21,
+      "item_count": 21,
+      "source_count": 4,
+      "platform_count": 4,
       "sources": [
         "cnbc",
         "coindesk",
+        "reddit_all",
         "thehill"
       ],
       "platforms": [
         "cnbc",
         "coindesk",
+        "reddit",
         "thehill"
       ],
       "top_items": [
@@ -103,6 +105,16 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 6.5
+        },
+        {
+          "source": "reddit_all",
+          "title": "Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse",
+          "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1rw8mtk/farm_in_the_netherlands_uses_bitcoin_mining_to/",
+          "summary": "⬆ 8,466 upvotes · 💬 230 comments · r/all",
+          "published_at": "2026-03-17 14:48:50+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 6.25
         },
         {
           "source": "coindesk",
@@ -133,30 +145,21 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin consolidation seen with BTC remaining 'overbought' after pullback",
-          "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-consolidation-seen-with-btc-remaining-overbought-after-pullback",
-          "summary": "Crypto markets cooled after Monday's rally, with bitcoin eyeing support near $72,000–$74,000 even as derivatives positioning remains broadly bullish and altcoins see deeper profit-taking.",
-          "published_at": "2026-03-17 10:44:59+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 85.98,
+      "topic_score": 86.48,
       "attention_focus_score": 83.48,
       "item_count": 19,
-      "source_count": 6,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -170,10 +173,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 9,273 upvotes · 💬 603 comments · r/worldnews",
+          "summary": "⬆ 9,377 upvotes · 💬 607 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -183,7 +186,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 2,105 upvotes · 💬 447 comments · r/worldnews",
+          "summary": "⬆ 2,180 upvotes · 💬 451 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -193,7 +196,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,177 upvotes · 💬 73 comments · r/worldnews",
+          "summary": "⬆ 2,198 upvotes · 💬 73 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,7 +216,7 @@
           "source": "reddit_news",
           "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
           "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
-          "summary": "⬆ 771 upvotes · 💬 50 comments · r/news",
+          "summary": "⬆ 773 upvotes · 💬 51 comments · r/news",
           "published_at": "2026-03-17 13:14:15+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -242,7 +245,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,379 upvotes · 💬 468 comments · r/worldnews",
+          "summary": "⬆ 4,386 upvotes · 💬 468 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -252,7 +255,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 239 upvotes · 💬 15 comments · r/popculturechat",
+          "summary": "⬆ 242 upvotes · 💬 15 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -386,7 +389,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -475,18 +478,60 @@
       "topic": "crypto",
       "event": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
       "gravity_score": 6.5,
-      "priority_score": 10.5,
+      "priority_score": 12.5,
       "source_platform": "coindesk",
       "source_label": "",
       "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
+        "reddit",
         "thehill"
       ],
       "debatable_angles": [
         "Will BTC close above/below a specific price level within 14 days?",
         "Will institutional inflows (ETF) exceed a measurable threshold?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "crypto",
+      "event": "Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse",
+      "gravity_score": 6.25,
+      "priority_score": 12.25,
+      "source_platform": "reddit_all",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1rw8mtk/farm_in_the_netherlands_uses_bitcoin_mining_to/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will BTC close above/below a specific price level within 14 days?",
+        "Will institutional inflows (ETF) exceed a measurable threshold?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "crypto",
+      "event": "Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
+      "gravity_score": 5.0,
+      "priority_score": 11.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
@@ -527,46 +572,6 @@
       "verifiable_via": "Google Trends / Platform public APIs"
     },
     {
-      "topic": "crypto",
-      "event": "Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
-      "gravity_score": 5.0,
-      "priority_score": 9.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
-      "topic": "crypto",
-      "event": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
-      "gravity_score": 5.0,
-      "priority_score": 9.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
       "topic": "music_charts",
       "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
       "gravity_score": 8.8,
@@ -597,7 +602,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -608,18 +613,18 @@
         "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/"
       },
       {
+        "topic": "crypto",
+        "title": "Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse",
+        "score": 6.25,
+        "source": "reddit_all",
+        "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1rw8mtk/farm_in_the_netherlands_uses_bitcoin_mining_to/"
+      },
+      {
         "topic": "geopolitics",
         "title": "NATO countries don't want to get involved in Iran operation, Trump says",
         "score": 5.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-        "score": 5.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/"
       }
     ],
     "X": [
