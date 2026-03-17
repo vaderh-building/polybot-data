@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-03-17T14:41:32.902490+00:00",
+  "generated_at_utc": "2026-03-17T15:22:35.822598+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 151.35,
-      "attention_focus_score": 148.35,
-      "item_count": 37,
-      "source_count": 7,
+      "topic_score": 133.11,
+      "attention_focus_score": 130.61,
+      "item_count": 35,
+      "source_count": 6,
       "platform_count": 6,
       "sources": [
         "bbc_top",
@@ -14,7 +14,6 @@
         "coindesk",
         "politico",
         "reddit_news",
-        "reddit_politics",
         "thehill"
       ],
       "platforms": [
@@ -27,14 +26,14 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
-          "title": "Major White House Split Leaks as Trump’s War Spirals",
-          "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 17,616 upvotes · 💬 1,492 comments · r/politics",
-          "published_at": "2026-03-16 15:32:47+00:00",
+          "source": "reddit_news",
+          "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
+          "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
+          "summary": "⬆ 5,172 upvotes · 💬 844 comments · r/news",
+          "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
-          "gravity_score": 8.25
+          "gravity_score": 7.25
         },
         {
           "source": "coindesk",
@@ -44,17 +43,7 @@
           "published_at": "2026-03-17 14:00:00+00:00",
           "topic": "politics",
           "keyword_hits": 3,
-          "gravity_score": 8.0
-        },
-        {
-          "source": "reddit_news",
-          "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
-          "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 5,157 upvotes · 💬 840 comments · r/news",
-          "published_at": "2026-03-16 16:16:42+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 7.25
+          "gravity_score": 7.0
         },
         {
           "source": "thehill",
@@ -74,24 +63,46 @@
           "published_at": "2026-03-17 13:15:01+00:00",
           "topic": "politics",
           "keyword_hits": 3,
-          "gravity_score": 5.5
+          "gravity_score": 5.0
+        },
+        {
+          "source": "politico",
+          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
+          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
+          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
+          "published_at": "2026-03-12 08:45:00+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 87.0,
-      "attention_focus_score": 87.0,
+      "topic_score": 95.28,
+      "attention_focus_score": 94.78,
       "item_count": 20,
-      "source_count": 1,
-      "platform_count": 1,
+      "source_count": 2,
+      "platform_count": 2,
       "sources": [
+        "cnbc",
         "coindesk"
       ],
       "platforms": [
+        "cnbc",
         "coindesk"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Phantom wins CFTC no-action relief, clearing path for crypto wallet access to regulated derivatives markets",
+          "url": "https://www.coindesk.com/policy/2026/03/17/phantom-wins-cftc-no-action-relief-clearing-path-for-crypto-wallet-access-to-regulated-derivatives-markets",
+          "summary": "This means Phantom can act as a non-custodial interface connecting users to registered derivatives platforms, removing the need for broker registration under specific conditions.",
+          "published_at": "2026-03-17 15:06:21+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
         {
           "source": "coindesk",
           "title": "Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
@@ -100,7 +111,27 @@
           "published_at": "2026-03-17 14:15:09+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 7.5
+          "gravity_score": 5.5
+        },
+        {
+          "source": "cnbc",
+          "title": "Mastercard says it's acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
+          "url": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html",
+          "summary": "Stablecoin startups have been a hot commodity since the reelection of President Donald Trump in late 2024 ushered in a new era of crypto-friendly regulation.",
+          "published_at": "2026-03-17 14:40:39+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Vietnam pushes local crypto exchanges as Hanoi moves to block offshore trading: Reuters",
+          "url": "https://www.coindesk.com/policy/2026/03/17/vietnam-pushes-local-crypto-exchanges-as-hanoi-moves-to-block-offshore-trading-reuters",
+          "summary": "The move aims to regulate the country's growing crypto market and restrict trading on foreign platforms.",
+          "published_at": "2026-03-17 14:45:13+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
         },
         {
           "source": "coindesk",
@@ -110,45 +141,15 @@
           "published_at": "2026-03-17 14:30:00+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
-          "title": "T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
-          "url": "https://www.coindesk.com/markets/2026/03/16/t-rowe-price-a-usd1-8-trillion-asset-manager-is-ready-to-put-dogecoin-and-shiba-inu-in-its-new-crypto-etf",
-          "summary": "The amended SEC filing details the assets, custody arrangements and potential staking plans for the actively managed crypto fund.",
-          "published_at": "2026-03-16 19:49:09+00:00",
-          "topic": "crypto",
-          "keyword_hits": 3,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Ether surges 10%, leading crypto rebound as ETF demand, Bitmine buying pick up",
-          "url": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
-          "summary": "Fresh ETF inflows, digital asset treasury buying and a shift away from bitcoin to altcoins are helping lift the second-largest cryptocurrency.",
-          "published_at": "2026-03-16 19:23:48+00:00",
-          "topic": "crypto",
-          "keyword_hits": 3,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
-          "url": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
-          "summary": "The Wall Street investment bank cited slower ETF flows, weak network activity and a narrowing window for U.S. regulatory catalysts.",
-          "published_at": "2026-03-17 12:49:20+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 5.5
+          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 77.47,
-      "attention_focus_score": 74.47,
-      "item_count": 18,
+      "topic_score": 66.34,
+      "attention_focus_score": 63.34,
+      "item_count": 15,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -170,23 +171,33 @@
       "top_items": [
         {
           "source": "cnbc",
-          "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
-          "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
-          "summary": "Oil prices advanced on Tuesday as energy market participants monitored Middle East supply disruptions.",
-          "published_at": "2026-03-17 14:28:31+00:00",
+          "title": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
+          "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
+          "summary": "Fuel prices are likely to keep rising until crude oil flows through the Strait of Hormuz return to normal.",
+          "published_at": "2026-03-17 15:04:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.0
         },
         {
           "source": "cnbc",
-          "title": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
-          "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
-          "summary": "Fuel prices are likely to keep rising until crude oil flows through the Strait of Hormuz return to normal.",
-          "published_at": "2026-03-17 13:49:11+00:00",
+          "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+          "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
+          "summary": "Oil prices advanced on Tuesday as energy market participants monitored Middle East supply disruptions.",
+          "published_at": "2026-03-17 14:28:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.0
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+          "summary": "⬆ 942 upvotes · 💬 39 comments · r/worldnews",
+          "published_at": "2026-03-17 13:18:21+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.25
         },
         {
           "source": "cnbc",
@@ -196,7 +207,7 @@
           "published_at": "2026-03-17 14:01:26+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.0
+          "gravity_score": 4.0
         },
         {
           "source": "thehill",
@@ -206,63 +217,15 @@
           "published_at": "2026-03-17 14:03:48+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 469 upvotes · 💬 16 comments · r/worldnews",
-          "published_at": "2026-03-17 13:18:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
-        }
-      ]
-    },
-    {
-      "topic": "reality_tv",
-      "topic_score": 13.03,
-      "attention_focus_score": 12.53,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
-      "sources": [
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 2,776 upvotes · 💬 287 comments · r/worldnews",
-          "published_at": "2026-03-17 09:55:18+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 7.09
-        },
-        {
-          "source": "thehill",
-          "title": "AI is making the one-person creative studio a reality",
-          "url": "https://thehill.com/opinion/technology/5786426-generative-ai-creative-work/",
-          "summary": "Generative AI now beats the average person on certain creativity tests. The implication for creative work feels immediate.",
-          "published_at": "2026-03-17 13:00:00+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 3.38
+          "gravity_score": 4.0
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 12.71,
-      "attention_focus_score": 12.21,
-      "item_count": 2,
+      "topic_score": 16.36,
+      "attention_focus_score": 15.86,
+      "item_count": 3,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -282,7 +245,17 @@
           "published_at": "2026-03-17 14:02:42+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 6.5
+          "gravity_score": 5.2
+        },
+        {
+          "source": "thehill",
+          "title": "Hassett says consumer pain over Iran war ‘the last of our concerns right now’",
+          "url": "https://thehill.com/homenews/administration/5787473-kevin-hassett-iran-war-consumer-pain/",
+          "summary": "National Economic Council Director Kevin Hassett on Tuesday said that the economic toll that American consumers are feeling as a result of the U.S.-Israeli conflict with Iran is &#8220;the last of our concerns right now.&#8221; &#8220;The fact is that the U.S. economy is fundamentally sound and that if it were to be extended, it wouldn&#8217;t&#8230;",
+          "published_at": "2026-03-17 14:51:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
         },
         {
           "source": "thehill",
@@ -297,9 +270,47 @@
       ]
     },
     {
+      "topic": "reality_tv",
+      "topic_score": 12.33,
+      "attention_focus_score": 11.83,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
+          "summary": "⬆ 3,348 upvotes · 💬 359 comments · r/worldnews",
+          "published_at": "2026-03-17 09:55:18+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.09
+        },
+        {
+          "source": "thehill",
+          "title": "AI is making the one-person creative studio a reality",
+          "url": "https://thehill.com/opinion/technology/5786426-generative-ai-creative-work/",
+          "summary": "Generative AI now beats the average person on certain creativity tests. The implication for creative work feels immediate.",
+          "published_at": "2026-03-17 13:00:00+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.7
+        }
+      ]
+    },
+    {
       "topic": "social_virality",
-      "topic_score": 7.2,
-      "attention_focus_score": 7.2,
+      "topic_score": 6.0,
+      "attention_focus_score": 6.0,
       "item_count": 1,
       "source_count": 1,
       "platform_count": 1,
@@ -318,57 +329,12 @@
           "published_at": "2026-03-17 14:29:29+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
-          "gravity_score": 7.2
+          "gravity_score": 6.0
         }
       ]
     }
   ],
   "market_suggestions": [
-    {
-      "topic": "politics",
-      "event": "Major White House Split Leaks as Trump’s War Spirals",
-      "gravity_score": 8.25,
-      "priority_score": 18.25,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "U.S. Democrats target government officials gaming prediction markets on war action",
-      "gravity_score": 8.0,
-      "priority_score": 18.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
     {
       "topic": "politics",
       "event": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
@@ -394,33 +360,55 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "geopolitics",
-      "event": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "cnbc",
+      "topic": "politics",
+      "event": "U.S. Democrats target government officials gaming prediction markets on war action",
+      "gravity_score": 7.0,
+      "priority_score": 17.0,
+      "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
+      "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
       "platforms_discussing": [
         "bbc",
         "cnbc",
-        "npr",
+        "coindesk",
+        "politico",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?",
-        "Will the US or allies conduct a military strike?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "Trump says he’ll never endorse anyone who votes against SAVE Act",
+      "gravity_score": 5.5,
+      "priority_score": 15.5,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/homenews/administration/5787459-trump-pressures-republicans-vote/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "geopolitics",
       "event": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
-      "gravity_score": 5.0,
-      "priority_score": 13.0,
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
       "source_platform": "cnbc",
       "source_label": "",
       "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
@@ -441,12 +429,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Oil pares gains as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
+      "event": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
       "gravity_score": 5.0,
       "priority_score": 13.0,
       "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+      "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -458,7 +446,30 @@
         "Will any NATO ally actually send warships within 30 days?",
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
         "Will Iran follow through and restrict shipping in the strait?",
-        "Will crude oil close above/below a specific price within 14 days?"
+        "Will the US or allies conduct a military strike?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+      "gravity_score": 4.25,
+      "priority_score": 12.25,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a formal peace deal or ceasefire be signed within the stated timeframe?",
+        "Will any new country formally commit military aid?",
+        "Will the SEC approve or reject the filing by the stated deadline?",
+        "Will this trigger a measurable price move (>5%) in the related asset?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -532,26 +543,6 @@
       "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
-      "gravity_score": 6.5,
-      "priority_score": 8.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
-      "platforms_discussing": [
-        "cnbc",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
       "topic": "geopolitics",
       "event": "Trump threatens 500% tariffs on Russia if no Ukraine deal within 50 days",
       "gravity_score": 8.5,
@@ -569,17 +560,28 @@
         "Will a formal peace deal or ceasefire be signed within the stated timeframe?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "social_virality",
+      "event": "Nicki Minaj \"Want Some More\" freeze-frame reveal format sweeps fashion and lifestyle creators",
+      "gravity_score": 8.3,
+      "priority_score": 8.3,
+      "source_platform": "TikTok",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "TikTok"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Google Trends / Platform public APIs"
     }
   ],
   "platform_snapshots": {
     "Reddit": [
-      {
-        "topic": "politics",
-        "title": "Major White House Split Leaks as Trump’s War Spirals",
-        "score": 8.25,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
-      },
       {
         "topic": "politics",
         "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
@@ -597,7 +599,7 @@
       {
         "topic": "geopolitics",
         "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-        "score": 4.75,
+        "score": 4.25,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/"
       },
@@ -607,6 +609,13 @@
         "score": 3.75,
         "source": "reddit_news",
         "url": "https://www.reddit.com/r/news/comments/1rvz5f8/drones_rockets_fired_at_us_embassy_in_baghdad/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital. Islamabad denies claim",
+        "score": 3.75,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rvwhmh/afghanistan_says_400_people_killed_in_pakistan/"
       }
     ],
     "X": [
@@ -710,6 +719,27 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "lil wayne tour",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "kohls stores closing",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "djo",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "marathon patch notes",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -717,28 +747,7 @@
       },
       {
         "topic": "trending",
-        "title": "billy corgan",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "ihg",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "rklb stock",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "confluent",
+        "title": "espn tc",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -748,42 +757,42 @@
       {
         "topic": "politics",
         "title": "[CoinDesk] U.S. Democrats target government officials gaming prediction markets on war action",
-        "score": 8.0,
+        "score": 7.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
         "source_label": "CoinDesk"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
-        "score": 7.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
-        "source_label": "CoinDesk"
-      },
-      {
         "topic": "social_virality",
         "title": "[BBC] 'Many people fooled' by AI wedding pics, says Zendaya",
-        "score": 7.2,
+        "score": 6.0,
         "source": "bbc_top",
         "url": "https://www.bbc.com/news/articles/clyz7llp4k2o?at_medium=RSS&at_campaign=rss",
         "source_label": "BBC"
       },
       {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
-        "score": 6.5,
+        "topic": "geopolitics",
+        "title": "[CNBC] Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
+        "score": 6.0,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
+        "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
         "source_label": "CNBC"
       },
       {
-        "topic": "geopolitics",
-        "title": "[CNBC] Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+        "topic": "crypto",
+        "title": "[CoinDesk] Phantom wins CFTC no-action relief, clearing path for crypto wallet access to regulated derivatives markets",
         "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
-        "source_label": "CNBC"
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/policy/2026/03/17/phantom-wins-cftc-no-action-relief-clearing-path-for-crypto-wallet-access-to-regulated-derivatives-markets",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
+        "score": 5.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
+        "source_label": "CoinDesk"
       }
     ]
   }
