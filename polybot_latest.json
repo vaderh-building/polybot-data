@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T17:17:04.618080+00:00",
+  "generated_at_utc": "2026-03-17T17:19:19.320220+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -28,7 +28,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 8,308 upvotes · 💬 890 comments · r/all",
+          "summary": "⬆ 8,376 upvotes · 💬 901 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -46,7 +46,7 @@
         },
         {
           "source": "thehill",
-          "title": "Trump, Leavitt dismisses Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
+          "title": "Trump, Leavitt dismiss Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
           "url": "https://thehill.com/homenews/administration/5787821-trump-criticizes-kent-iran-threat/",
           "summary": "President Trump and White House press secretary Karoline Leavitt on Tuesday railed against Joe Kent after he resigned from his post as Director of the National Counterterrorism Center. “I read his statement. I always thought he was a nice guy, but I always thought he was weak on security, very weak on security. I didn&#8217;t&#8230;",
           "published_at": "2026-03-17 17:02:50+00:00",
@@ -77,95 +77,21 @@
       ]
     },
     {
-      "topic": "geopolitics",
-      "topic_score": 85.95,
-      "attention_focus_score": 82.95,
-      "item_count": 19,
-      "source_count": 7,
-      "platform_count": 5,
-      "sources": [
-        "bbc_world",
-        "cnbc",
-        "npr_news",
-        "reddit_all",
-        "reddit_news",
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_all",
-          "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 8,804 upvotes · 💬 578 comments · r/all",
-          "published_at": "2026-03-17 15:17:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 1,874 upvotes · 💬 409 comments · r/worldnews",
-          "published_at": "2026-03-17 16:10:33+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,111 upvotes · 💬 72 comments · r/worldnews",
-          "published_at": "2026-03-17 13:18:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.25
-        },
-        {
-          "source": "thehill",
-          "title": "Graham tears into European allies over Strait of Hormuz reluctance",
-          "url": "https://thehill.com/homenews/senate/5787883-lindsey-graham-trump-european-allies/",
-          "summary": "Sen. Lindsey Graham (R-S.C.) on Tuesday lambasted European allies over their reluctance to send military assets to reopen the Strait of Hormuz, threatening “wide and deep” repercussions for alliances.&#160;&#160; In a post to social media, Graham said he had spoken with President Trump “about our European allies’ unwillingness to provide assets to keep the Strait&#8230;",
-          "published_at": "2026-03-17 16:58:30+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.5
-        },
-        {
-          "source": "reddit_news",
-          "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
-          "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
-          "summary": "⬆ 752 upvotes · 💬 49 comments · r/news",
-          "published_at": "2026-03-17 13:14:15+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.25
-        }
-      ]
-    },
-    {
       "topic": "crypto",
-      "topic_score": 85.72,
-      "attention_focus_score": 85.22,
-      "item_count": 19,
-      "source_count": 2,
-      "platform_count": 2,
+      "topic_score": 89.83,
+      "attention_focus_score": 88.83,
+      "item_count": 20,
+      "source_count": 3,
+      "platform_count": 3,
       "sources": [
         "cnbc",
-        "coindesk"
+        "coindesk",
+        "thehill"
       ],
       "platforms": [
         "cnbc",
-        "coindesk"
+        "coindesk",
+        "thehill"
       ],
       "top_items": [
         {
@@ -221,6 +147,81 @@
       ]
     },
     {
+      "topic": "geopolitics",
+      "topic_score": 85.98,
+      "attention_focus_score": 83.48,
+      "item_count": 19,
+      "source_count": 6,
+      "platform_count": 5,
+      "sources": [
+        "bbc_world",
+        "cnbc",
+        "npr_news",
+        "reddit_news",
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
+          "summary": "⬆ 8,968 upvotes · 💬 582 comments · r/worldnews",
+          "published_at": "2026-03-17 15:17:21+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 7.25
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+          "summary": "⬆ 1,951 upvotes · 💬 424 comments · r/worldnews",
+          "published_at": "2026-03-17 16:10:33+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+          "summary": "⬆ 2,130 upvotes · 💬 73 comments · r/worldnews",
+          "published_at": "2026-03-17 13:18:21+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.25
+        },
+        {
+          "source": "thehill",
+          "title": "Graham tears into European allies over Strait of Hormuz reluctance",
+          "url": "https://thehill.com/homenews/senate/5787883-lindsey-graham-trump-european-allies/",
+          "summary": "Sen. Lindsey Graham (R-S.C.) on Tuesday lambasted European allies over their reluctance to send military assets to reopen the Strait of Hormuz, threatening “wide and deep” repercussions for alliances.&#160;&#160; In a post to social media, Graham said he had spoken with President Trump “about our European allies’ unwillingness to provide assets to keep the Strait&#8230;",
+          "published_at": "2026-03-17 16:58:30+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "reddit_news",
+          "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
+          "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
+          "summary": "⬆ 763 upvotes · 💬 50 comments · r/news",
+          "published_at": "2026-03-17 13:14:15+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.25
+        }
+      ]
+    },
+    {
       "topic": "reality_tv",
       "topic_score": 18.02,
       "attention_focus_score": 17.02,
@@ -241,7 +242,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,343 upvotes · 💬 463 comments · r/worldnews",
+          "summary": "⬆ 4,350 upvotes · 💬 466 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -251,7 +252,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 238 upvotes · 💬 15 comments · r/popculturechat",
+          "summary": "⬆ 235 upvotes · 💬 15 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -360,9 +361,9 @@
     {
       "topic": "geopolitics",
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_all",
+      "gravity_score": 7.25,
+      "priority_score": 15.25,
+      "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -403,7 +404,7 @@
     },
     {
       "topic": "politics",
-      "event": "Trump, Leavitt dismisses Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
+      "event": "Trump, Leavitt dismiss Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
       "gravity_score": 6.0,
       "priority_score": 14.0,
       "source_platform": "thehill",
@@ -470,6 +471,25 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "crypto",
+      "event": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
+      "gravity_score": 6.5,
+      "priority_score": 10.5,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will BTC close above/below a specific price level within 14 days?",
+        "Will institutional inflows (ETF) exceed a measurable threshold?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
       "topic": "reality_tv",
       "event": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
       "gravity_score": 7.76,
@@ -506,6 +526,46 @@
       "verifiable_via": "Google Trends / Platform public APIs"
     },
     {
+      "topic": "crypto",
+      "event": "Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
+      "gravity_score": 5.0,
+      "priority_score": 9.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "crypto",
+      "event": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
+      "gravity_score": 5.0,
+      "priority_score": 9.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
       "topic": "music_charts",
       "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
       "gravity_score": 8.8,
@@ -521,59 +581,6 @@
         "Will first-week streaming numbers exceed a specific threshold?"
       ],
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "beauty",
-      "event": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
-      "gravity_score": 8.7,
-      "priority_score": 8.7,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Will the trending product see measurable sales spike on Amazon/Ulta?"
-      ],
-      "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
-    },
-    {
-      "topic": "crypto",
-      "event": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
-      "gravity_score": 6.5,
-      "priority_score": 8.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Trump threatens 500% tariffs on Russia if no Ukraine deal within 50 days",
-      "gravity_score": 8.5,
-      "priority_score": 8.5,
-      "source_platform": "X",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "X"
-      ],
-      "debatable_angles": [
-        "Will tariffs actually be imposed by the stated deadline?",
-        "Will the target country retaliate with counter-tariffs within 30 days?",
-        "Will a specific trade metric (imports/exports volume) shift measurably?",
-        "Will a formal peace deal or ceasefire be signed within the stated timeframe?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     }
   ],
   "platform_snapshots": {
@@ -595,8 +602,8 @@
       {
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-        "score": 6.75,
-        "source": "reddit_all",
+        "score": 7.25,
+        "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -768,7 +775,7 @@
       },
       {
         "topic": "politics",
-        "title": "[The Hill] Trump, Leavitt dismisses Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
+        "title": "[The Hill] Trump, Leavitt dismiss Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
         "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/homenews/administration/5787821-trump-criticizes-kent-iran-threat/",
