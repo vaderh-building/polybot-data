@@ -1,18 +1,17 @@
 {
-  "generated_at_utc": "2026-03-17T19:19:50.880554+00:00",
+  "generated_at_utc": "2026-03-17T19:22:00.511768+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 158.05,
-      "attention_focus_score": 155.05,
-      "item_count": 38,
-      "source_count": 7,
+      "topic_score": 149.65,
+      "attention_focus_score": 147.15,
+      "item_count": 37,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "politico",
-        "reddit_all",
         "reddit_news",
         "reddit_politics",
         "thehill"
@@ -26,20 +25,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
-          "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
-          "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 11,474 upvotes · 💬 1,175 comments · r/all",
-          "published_at": "2026-03-17 13:52:14+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 7.25
-        },
-        {
           "source": "reddit_news",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 3,748 upvotes · 💬 92 comments · r/news",
+          "summary": "⬆ 3,866 upvotes · 💬 93 comments · r/news",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -59,7 +48,7 @@
           "source": "reddit_politics",
           "title": "Idaho Republicans pass bill making it a felony for transgender people to use public bathrooms",
           "url": "https://www.reddit.com/r/politics/comments/1rw948c/idaho_republicans_pass_bill_making_it_a_felony/",
-          "summary": "⬆ 1,431 upvotes · 💬 310 comments · r/politics",
+          "summary": "⬆ 1,450 upvotes · 💬 311 comments · r/politics",
           "published_at": "2026-03-17 15:06:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -73,6 +62,16 @@
           "published_at": "2026-03-17 18:40:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "cnbc",
+          "title": "Everything to know about the SAVE America Act voter ID-bill",
+          "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
+          "summary": "President Donald Trump has been pushing Congress to approve the SAVE America Act to require ID at the polls and proof of U.S. citizenship to register to vote.",
+          "published_at": "2026-03-17 17:14:26+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
           "gravity_score": 5.0
         }
       ]
@@ -104,7 +103,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 14,976 upvotes · 💬 882 comments · r/worldnews",
+          "summary": "⬆ 15,089 upvotes · 💬 884 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -114,7 +113,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 4,349 upvotes · 💬 790 comments · r/worldnews",
+          "summary": "⬆ 4,400 upvotes · 💬 797 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -124,7 +123,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,999 upvotes · 💬 97 comments · r/worldnews",
+          "summary": "⬆ 3,008 upvotes · 💬 98 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -144,7 +143,7 @@
           "source": "reddit_worldnews",
           "title": "European Union rejects Trump's calls for military deployments to reopen Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwa9fm/european_union_rejects_trumps_calls_for_military/",
-          "summary": "⬆ 467 upvotes · 💬 71 comments · r/worldnews",
+          "summary": "⬆ 478 upvotes · 💬 71 comments · r/worldnews",
           "published_at": "2026-03-17 15:47:24+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -244,7 +243,7 @@
           "source": "reddit_all",
           "title": "Kid has the survival instincts of a kid, and the mom got a reality check.",
           "url": "https://www.reddit.com/r/SipsTea/comments/1rwcjj6/kid_has_the_survival_instincts_of_a_kid_and_the/",
-          "summary": "⬆ 6,097 upvotes · 💬 319 comments · r/all",
+          "summary": "⬆ 6,228 upvotes · 💬 321 comments · r/all",
           "published_at": "2026-03-17 17:07:13+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -254,7 +253,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,829 upvotes · 💬 512 comments · r/worldnews",
+          "summary": "⬆ 4,843 upvotes · 💬 514 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -264,7 +263,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 312 upvotes · 💬 19 comments · r/popculturechat",
+          "summary": "⬆ 313 upvotes · 💬 19 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -336,28 +335,6 @@
     }
   ],
   "market_suggestions": [
-    {
-      "topic": "politics",
-      "event": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are…",
-      "gravity_score": 7.25,
-      "priority_score": 15.25,
-      "source_platform": "reddit_all",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
     {
       "topic": "geopolitics",
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
@@ -446,6 +423,27 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "politics",
+      "event": "Idaho Republicans pass bill making it a felony for transgender people to use public bathrooms",
+      "gravity_score": 5.25,
+      "priority_score": 13.25,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rw948c/idaho_republicans_pass_bill_making_it_a_felony/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "geopolitics",
@@ -609,17 +607,17 @@
       },
       {
         "topic": "politics",
-        "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
-        "score": 7.25,
-        "source": "reddit_all",
-        "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/"
-      },
-      {
-        "topic": "politics",
         "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
         "score": 6.75,
         "source": "reddit_news",
         "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+        "score": 6.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
       }
     ],
     "X": [
