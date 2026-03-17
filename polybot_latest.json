@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T16:50:43.397171+00:00",
+  "generated_at_utc": "2026-03-17T16:52:54.948079+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 145.84,
-      "attention_focus_score": 143.34,
+      "topic_score": 144.75,
+      "attention_focus_score": 142.25,
       "item_count": 36,
       "source_count": 6,
       "platform_count": 5,
@@ -38,7 +38,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 7,392 upvotes · 💬 805 comments · r/all",
+          "summary": "⬆ 7,468 upvotes · 💬 811 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -146,15 +146,16 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 84.39,
-      "attention_focus_score": 81.89,
+      "topic_score": 85.95,
+      "attention_focus_score": 82.95,
       "item_count": 18,
-      "source_count": 6,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -168,10 +169,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 6,752 upvotes · 💬 474 comments · r/worldnews",
+          "summary": "⬆ 6,948 upvotes · 💬 486 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -181,11 +182,21 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 750 upvotes · 💬 211 comments · r/worldnews",
+          "summary": "⬆ 870 upvotes · 💬 228 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+          "summary": "⬆ 1,887 upvotes · 💬 65 comments · r/worldnews",
+          "published_at": "2026-03-17 13:18:21+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.25
         },
         {
           "source": "bbc_world",
@@ -206,16 +217,6 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.5
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 1,869 upvotes · 💬 65 comments · r/worldnews",
-          "published_at": "2026-03-17 13:18:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.25
         }
       ]
     },
@@ -240,7 +241,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,173 upvotes · 💬 450 comments · r/worldnews",
+          "summary": "⬆ 4,182 upvotes · 💬 450 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -250,7 +251,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 205 upvotes · 💬 15 comments · r/popculturechat",
+          "summary": "⬆ 210 upvotes · 💬 15 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -270,8 +271,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 14.17,
-      "attention_focus_score": 13.67,
+      "topic_score": 13.44,
+      "attention_focus_score": 12.94,
       "item_count": 3,
       "source_count": 2,
       "platform_count": 2,
@@ -302,7 +303,7 @@
           "published_at": "2026-03-17 14:51:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 3.25
+          "gravity_score": 2.6
         },
         {
           "source": "thehill",
@@ -349,7 +350,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 6.75,
       "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -456,12 +457,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "What have US allies and China said about sending ships to the Strait of Hormuz?",
-      "gravity_score": 4.5,
-      "priority_score": 12.5,
-      "source_platform": "bbc_world",
+      "event": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+      "gravity_score": 5.25,
+      "priority_score": 13.25,
+      "source_platform": "reddit_worldnews",
       "source_label": "",
-      "url": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -470,9 +471,10 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?"
+        "Will a formal peace deal or ceasefire be signed within the stated timeframe?",
+        "Will any new country formally commit military aid?",
+        "Will the SEC approve or reject the filing by the stated deadline?",
+        "Will this trigger a measurable price move (>5%) in the related asset?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -596,7 +598,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 6.75,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -614,11 +616,11 @@
         "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
       },
       {
-        "topic": "reality_tv",
-        "title": "Ejae's looks through the award season",
-        "score": 5.06,
-        "source": "reddit_popculturechat",
-        "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/"
+        "topic": "geopolitics",
+        "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+        "score": 5.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/"
       }
     ],
     "X": [
