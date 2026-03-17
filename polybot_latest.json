@@ -1,17 +1,16 @@
 {
-  "generated_at_utc": "2026-03-17T09:11:58.142403+00:00",
+  "generated_at_utc": "2026-03-17T10:55:03.818492+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 134.96,
-      "attention_focus_score": 131.96,
-      "item_count": 31,
-      "source_count": 7,
-      "platform_count": 6,
+      "topic_score": 128.94,
+      "attention_focus_score": 126.44,
+      "item_count": 30,
+      "source_count": 6,
+      "platform_count": 5,
       "sources": [
         "bbc_top",
         "cnbc",
-        "coindesk",
         "politico",
         "reddit_news",
         "reddit_politics",
@@ -20,7 +19,6 @@
       "platforms": [
         "bbc",
         "cnbc",
-        "coindesk",
         "politico",
         "reddit",
         "thehill"
@@ -30,7 +28,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 17,098 upvotes · 💬 1,471 comments · r/politics",
+          "summary": "⬆ 17,247 upvotes · 💬 1,482 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,21 +38,21 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,916 upvotes · 💬 804 comments · r/news",
+          "summary": "⬆ 4,981 upvotes · 💬 816 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
         },
         {
-          "source": "politico",
-          "title": "AIPAC faces its biggest test this year in Illinois",
-          "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
-          "summary": "The group has taken a sharp tactical shift in several House races as it weathers Democrats’ souring views of Israel — and of AIPAC itself.",
-          "published_at": "2026-03-17 08:45:00+00:00",
+          "source": "reddit_politics",
+          "title": "Trump Forces Senate Voter ID Showdown Ahead of Midterms",
+          "url": "https://www.reddit.com/r/politics/comments/1rvqtgm/trump_forces_senate_voter_id_showdown_ahead_of/",
+          "summary": "⬆ 1,486 upvotes · 💬 280 comments · r/politics",
+          "published_at": "2026-03-16 23:58:47+00:00",
           "topic": "politics",
           "keyword_hits": 1,
-          "gravity_score": 6.0
+          "gravity_score": 4.75
         },
         {
           "source": "cnbc",
@@ -67,11 +65,11 @@
           "gravity_score": 4.5
         },
         {
-          "source": "cnbc",
-          "title": "Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
-          "url": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
-          "summary": "Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know.",
-          "published_at": "2026-03-15 21:37:47+00:00",
+          "source": "politico",
+          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
+          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
+          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
+          "published_at": "2026-03-12 08:45:00+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 4.5
@@ -80,9 +78,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 84.5,
-      "attention_focus_score": 84.5,
-      "item_count": 23,
+      "topic_score": 93.5,
+      "attention_focus_score": 93.5,
+      "item_count": 24,
       "source_count": 1,
       "platform_count": 1,
       "sources": [
@@ -92,6 +90,16 @@
         "coindesk"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Bitcoin consolidation seen with BTC remaining 'overbought' after pullback",
+          "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-consolidation-seen-with-btc-remaining-overbought-after-pullback",
+          "summary": "Crypto markets cooled after Monday's rally, with bitcoin eyeing support near $72,000–$74,000 even as derivatives positioning remains broadly bullish and altcoins see deeper profit-taking.",
+          "published_at": "2026-03-17 10:44:59+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 7.5
+        },
         {
           "source": "coindesk",
           "title": "T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
@@ -131,28 +139,19 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
-        },
-        {
-          "source": "coindesk",
-          "title": "OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
-          "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
-          "summary": "The platform will end its rewards waves, offer optional fee refunds for certain traders and introduce 0% token trading fees for 60 days starting March 31 as it promotes its revamped marketplace.",
-          "published_at": "2026-03-16 21:17:18+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 74.31,
+      "topic_score": 74.81,
       "attention_focus_score": 71.81,
-      "item_count": 14,
-      "source_count": 6,
+      "item_count": 16,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_top",
+        "bbc_world",
         "cnbc",
         "npr_news",
         "reddit_news",
@@ -168,20 +167,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
-          "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,590 upvotes · 💬 304 comments · r/worldnews",
-          "published_at": "2026-03-16 10:38:53+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 2,
-          "gravity_score": 7.25
-        },
-        {
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 13,251 upvotes · 💬 470 comments · r/news",
+          "summary": "⬆ 13,342 upvotes · 💬 472 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -189,10 +178,20 @@
         },
         {
           "source": "cnbc",
-          "title": "Oil jumps 4% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
-          "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
-          "summary": "Oil prices jumped 4% on Tuesday as uncertainty lingered over a U.S.-led coalition to protect shipping through the Strait of Hormuz.",
-          "published_at": "2026-03-17 08:44:48+00:00",
+          "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+          "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
+          "summary": "Oil prices advanced on Tuesday as energy market participants monitored Middle East supply disruptions.",
+          "published_at": "2026-03-17 10:28:10+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "cnbc",
+          "title": "Israel says Iran’s security chief, Ali Larijani, has been killed in a strike",
+          "url": "https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html",
+          "summary": "Iran has not yet confirmed the report.",
+          "published_at": "2026-03-17 10:44:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -201,28 +200,28 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 6,399 upvotes · 💬 958 comments · r/worldnews",
+          "summary": "⬆ 6,444 upvotes · 💬 969 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.75
         },
         {
-          "source": "reddit_worldnews",
-          "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rvi4hz/european_countries_reject_trumps_call_for_help_to/",
-          "summary": "⬆ 1,823 upvotes · 💬 235 comments · r/worldnews",
-          "published_at": "2026-03-16 18:41:16+00:00",
+          "source": "thehill",
+          "title": "Divides on display in Illinois Democratic primaries",
+          "url": "https://thehill.com/newsletters/morning-report/5787236-illinois-democrats-primary-battle/",
+          "summary": "Morning Report is The Hill&#8217;s a.m. newsletter. Subscribe here. In today&#8217;s issue: ▪&#160;Democrats go to the polls in Illinois ▪ Israel says it killed top Iranian security official ▪ Trump struggles to get help on Strait of Hormuz ▪&#160;Federal Reserve in difficult spot The battles between competing wings of the Democratic Party will take center&#8230;",
+          "published_at": "2026-03-17 10:48:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 4.75
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 14.84,
-      "attention_focus_score": 14.34,
+      "topic_score": 14.09,
+      "attention_focus_score": 13.59,
       "item_count": 2,
       "source_count": 2,
       "platform_count": 2,
@@ -239,7 +238,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 2,560 upvotes · 💬 106 comments · r/worldnews",
+          "summary": "⬆ 2,646 upvotes · 💬 111 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -253,14 +252,14 @@
           "published_at": "2026-03-17 04:29:28+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 4.55
+          "gravity_score": 3.9
         }
       ]
     },
     {
       "topic": "music_charts",
-      "topic_score": 11.04,
-      "attention_focus_score": 11.04,
+      "topic_score": 10.28,
+      "attention_focus_score": 10.28,
       "item_count": 1,
       "source_count": 1,
       "platform_count": 1,
@@ -275,11 +274,37 @@
           "source": "reddit_all",
           "title": "Punch found a girlfriend and you’re still single.",
           "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/",
-          "summary": "⬆ 13,781 upvotes · 💬 243 comments · r/all",
+          "summary": "⬆ 19,394 upvotes · 💬 306 comments · r/all",
           "published_at": "2026-03-17 04:07:41+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
-          "gravity_score": 10.51
+          "gravity_score": 9.79
+        }
+      ]
+    },
+    {
+      "topic": "reality_tv",
+      "topic_score": 6.73,
+      "attention_focus_score": 6.73,
+      "item_count": 1,
+      "source_count": 1,
+      "platform_count": 1,
+      "sources": [
+        "reddit_worldnews"
+      ],
+      "platforms": [
+        "reddit"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
+          "summary": "⬆ 224 upvotes · 💬 38 comments · r/worldnews",
+          "published_at": "2026-03-17 09:55:18+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 6.41
         }
       ]
     }
@@ -289,14 +314,13 @@
       "topic": "politics",
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 8.25,
-      "priority_score": 18.25,
+      "priority_score": 16.25,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
-        "coindesk",
         "politico",
         "reddit",
         "thehill"
@@ -311,14 +335,13 @@
       "topic": "politics",
       "event": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
       "gravity_score": 7.25,
-      "priority_score": 17.25,
+      "priority_score": 15.25,
       "source_platform": "reddit_news",
       "source_label": "",
       "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
-        "coindesk",
         "politico",
         "reddit",
         "thehill"
@@ -330,52 +353,6 @@
         "Will this trigger a formal succession/replacement announcement?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "AIPAC faces its biggest test this year in Illinois",
-      "gravity_score": 6.0,
-      "priority_score": 16.0,
-      "source_platform": "politico",
-      "source_label": "",
-      "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "German foreign minister does not see role for NATO in Strait of Hormuz",
-      "gravity_score": 7.25,
-      "priority_score": 15.25,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?",
-        "Will a specific member state publicly commit troops or assets?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
@@ -400,12 +377,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Oil jumps 4% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
+      "event": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
       "gravity_score": 6.0,
       "priority_score": 14.0,
       "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+      "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -417,15 +394,61 @@
         "Will any NATO ally actually send warships within 30 days?",
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
         "Will Iran follow through and restrict shipping in the strait?",
-        "Will crude oil close above/below a specific price within 14 days?"
+        "Will the US or allies conduct a military strike?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "geopolitics",
+      "event": "Israel says Iran’s security chief, Ali Larijani, has been killed in a strike",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the SEC approve or reject the filing by the stated deadline?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "politics",
+      "event": "Trump Forces Senate Voter ID Showdown Ahead of Midterms",
+      "gravity_score": 4.75,
+      "priority_score": 12.75,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rvqtgm/trump_forces_senate_voter_id_showdown_ahead_of/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?",
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
       "topic": "music_charts",
       "event": "Punch found a girlfriend and you’re still single.",
-      "gravity_score": 10.51,
-      "priority_score": 10.51,
+      "gravity_score": 9.79,
+      "priority_score": 9.79,
       "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/",
@@ -532,7 +555,7 @@
       {
         "topic": "music_charts",
         "title": "Punch found a girlfriend and you’re still single.",
-        "score": 10.51,
+        "score": 9.79,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/"
       },
@@ -552,17 +575,17 @@
       },
       {
         "topic": "geopolitics",
-        "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
-        "score": 7.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/"
-      },
-      {
-        "topic": "geopolitics",
         "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
         "score": 6.75,
         "source": "reddit_news",
         "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
+        "score": 6.41,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/"
       }
     ],
     "X": [
@@ -666,35 +689,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "ali larijani",
+        "title": "gale warning",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "closings and delays",
+        "title": "pittsburgh weather",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "school closing and delays",
+        "title": "st pattys day",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "1",
+        "title": "6abc",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "bronny james",
+        "title": "today weather",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -702,20 +725,28 @@
     ],
     "Major News Headlines": [
       {
+        "topic": "crypto",
+        "title": "[CoinDesk] Bitcoin consolidation seen with BTC remaining 'overbought' after pullback",
+        "score": 7.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-consolidation-seen-with-btc-remaining-overbought-after-pullback",
+        "source_label": "CoinDesk"
+      },
+      {
         "topic": "geopolitics",
-        "title": "[CNBC] Oil jumps 4% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
+        "title": "[CNBC] Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
         "score": 6.0,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+        "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
         "source_label": "CNBC"
       },
       {
-        "topic": "politics",
-        "title": "[Politico] AIPAC faces its biggest test this year in Illinois",
+        "topic": "geopolitics",
+        "title": "[CNBC] Israel says Iran’s security chief, Ali Larijani, has been killed in a strike",
         "score": 6.0,
-        "source": "politico",
-        "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
-        "source_label": "Politico"
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html",
+        "source_label": "CNBC"
       },
       {
         "topic": "crypto",
@@ -731,14 +762,6 @@
         "score": 6.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
-        "source_label": "CoinDesk"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
-        "score": 5.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
         "source_label": "CoinDesk"
       }
     ]
