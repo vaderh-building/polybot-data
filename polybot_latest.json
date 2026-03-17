@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-17T17:39:14.345416+00:00",
+  "generated_at_utc": "2026-03-17T17:41:29.726771+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 150.74,
-      "attention_focus_score": 148.24,
-      "item_count": 37,
+      "topic_score": 157.28,
+      "attention_focus_score": 154.78,
+      "item_count": 38,
       "source_count": 6,
       "platform_count": 5,
       "sources": [
@@ -38,7 +38,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 8,988 upvotes · 💬 957 comments · r/all",
+          "summary": "⬆ 9,048 upvotes · 💬 962 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -55,6 +55,16 @@
           "gravity_score": 6.5
         },
         {
+          "source": "cnbc",
+          "title": "Epstein files: House panel subpoenas AG Pam Bondi to appear for deposition",
+          "url": "https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html",
+          "summary": "",
+          "published_at": "2026-03-17 17:40:36+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
           "source": "thehill",
           "title": "Trump, Leavitt dismiss Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
           "url": "https://thehill.com/homenews/administration/5787821-trump-criticizes-kent-iran-threat/",
@@ -63,49 +73,102 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.0
-        },
-        {
-          "source": "thehill",
-          "title": "White House reviews Democratic offer to reopen Homeland Security",
-          "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
-          "summary": "White House negotiators are reviewing a Democratic proposal to fund and reopen the Department of Homeland Security, but the talks are inching along and Senate Majority Leader John Thune (R-S.D.) said Democrats aren’t serious about getting a deal soon. The White House submitted its last offer to Senate Democrats more than two weeks ago,&#160;and Democrats didn’t&#8230;",
-          "published_at": "2026-03-17 15:38:08+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 5.0
         }
       ]
     },
     {
-      "topic": "crypto",
-      "topic_score": 95.56,
-      "attention_focus_score": 94.06,
-      "item_count": 21,
-      "source_count": 4,
-      "platform_count": 4,
+      "topic": "geopolitics",
+      "topic_score": 89.16,
+      "attention_focus_score": 86.66,
+      "item_count": 20,
+      "source_count": 6,
+      "platform_count": 5,
       "sources": [
+        "bbc_world",
         "cnbc",
-        "coindesk",
-        "reddit_all",
+        "npr_news",
+        "reddit_news",
+        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
+        "bbc",
         "cnbc",
-        "coindesk",
+        "npr",
         "reddit",
         "thehill"
       ],
       "top_items": [
         {
-          "source": "reddit_all",
-          "title": "Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse",
-          "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1rw8mtk/farm_in_the_netherlands_uses_bitcoin_mining_to/",
-          "summary": "⬆ 9,468 upvotes · 💬 262 comments · r/all",
-          "published_at": "2026-03-17 14:48:50+00:00",
-          "topic": "crypto",
+          "source": "reddit_worldnews",
+          "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
+          "summary": "⬆ 10,422 upvotes · 💬 667 comments · r/worldnews",
+          "published_at": "2026-03-17 15:17:21+00:00",
+          "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 6.25
+          "gravity_score": 7.25
         },
+        {
+          "source": "cnbc",
+          "title": "Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
+          "url": "https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html",
+          "summary": "Trump, a longtime NATO critic, said he sees the alliance as a \"one way street — We will protect them, but they will do nothing for us.\"",
+          "published_at": "2026-03-17 17:26:03+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+          "summary": "⬆ 2,581 upvotes · 💬 511 comments · r/worldnews",
+          "published_at": "2026-03-17 16:10:33+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+          "summary": "⬆ 2,328 upvotes · 💬 76 comments · r/worldnews",
+          "published_at": "2026-03-17 13:18:21+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.25
+        },
+        {
+          "source": "reddit_news",
+          "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
+          "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
+          "summary": "⬆ 813 upvotes · 💬 53 comments · r/news",
+          "published_at": "2026-03-17 13:14:15+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.25
+        }
+      ]
+    },
+    {
+      "topic": "crypto",
+      "topic_score": 87.12,
+      "attention_focus_score": 86.12,
+      "item_count": 20,
+      "source_count": 3,
+      "platform_count": 3,
+      "sources": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "platforms": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "top_items": [
         {
           "source": "coindesk",
           "title": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
@@ -145,82 +208,16 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 5.0
-        }
-      ]
-    },
-    {
-      "topic": "geopolitics",
-      "topic_score": 89.66,
-      "attention_focus_score": 86.66,
-      "item_count": 20,
-      "source_count": 7,
-      "platform_count": 5,
-      "sources": [
-        "bbc_world",
-        "cnbc",
-        "npr_news",
-        "reddit_all",
-        "reddit_news",
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_all",
-          "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 10,318 upvotes · 💬 660 comments · r/all",
-          "published_at": "2026-03-17 15:17:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 7.25
         },
         {
-          "source": "cnbc",
-          "title": "Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
-          "url": "https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html",
-          "summary": "Trump, a longtime NATO critic, said he sees the alliance as a \"one way street — We will protect them, but they will do nothing for us.\"",
-          "published_at": "2026-03-17 17:26:03+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 2,549 upvotes · 💬 502 comments · r/worldnews",
-          "published_at": "2026-03-17 16:10:33+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,315 upvotes · 💬 75 comments · r/worldnews",
-          "published_at": "2026-03-17 13:18:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.25
-        },
-        {
-          "source": "reddit_news",
-          "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
-          "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
-          "summary": "⬆ 809 upvotes · 💬 53 comments · r/news",
-          "published_at": "2026-03-17 13:14:15+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.25
+          "source": "coindesk",
+          "title": "Bitcoin consolidation seen with BTC remaining 'overbought' after pullback",
+          "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-consolidation-seen-with-btc-remaining-overbought-after-pullback",
+          "summary": "Crypto markets cooled after Monday's rally, with bitcoin eyeing support near $72,000–$74,000 even as derivatives positioning remains broadly bullish and altcoins see deeper profit-taking.",
+          "published_at": "2026-03-17 10:44:59+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
@@ -245,7 +242,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,455 upvotes · 💬 476 comments · r/worldnews",
+          "summary": "⬆ 4,468 upvotes · 💬 482 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -274,44 +271,6 @@
       ]
     },
     {
-      "topic": "everyday_economy",
-      "topic_score": 10.51,
-      "attention_focus_score": 10.01,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
-      "sources": [
-        "cnbc",
-        "thehill"
-      ],
-      "platforms": [
-        "cnbc",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "cnbc",
-          "title": "Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
-          "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
-          "summary": "The 25 basis points hike was in line with expectations from analysts polled by Reuters",
-          "published_at": "2026-03-17 14:02:42+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
-        },
-        {
-          "source": "thehill",
-          "title": "Hassett says consumer pain over Iran war ‘the last of our concerns right now’",
-          "url": "https://thehill.com/homenews/administration/5787473-kevin-hassett-iran-war-consumer-pain/",
-          "summary": "National Economic Council Director Kevin Hassett on Tuesday said that the economic toll that American consumers are feeling as a result of the U.S.-Israeli conflict with Iran is &#8220;the last of our concerns right now.&#8221; &#8220;The fact is that the U.S. economy is fundamentally sound and that if it were to be extended, it wouldn&#8217;t&#8230;",
-          "published_at": "2026-03-17 14:51:46+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 2.6
-        }
-      ]
-    },
-    {
       "topic": "social_virality",
       "topic_score": 4.2,
       "attention_focus_score": 4.2,
@@ -334,6 +293,32 @@
           "topic": "social_virality",
           "keyword_hits": 1,
           "gravity_score": 4.2
+        }
+      ]
+    },
+    {
+      "topic": "everyday_economy",
+      "topic_score": 2.6,
+      "attention_focus_score": 2.6,
+      "item_count": 1,
+      "source_count": 1,
+      "platform_count": 1,
+      "sources": [
+        "thehill"
+      ],
+      "platforms": [
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "thehill",
+          "title": "Hassett says consumer pain over Iran war ‘the last of our concerns right now’",
+          "url": "https://thehill.com/homenews/administration/5787473-kevin-hassett-iran-war-consumer-pain/",
+          "summary": "National Economic Council Director Kevin Hassett on Tuesday said that the economic toll that American consumers are feeling as a result of the U.S.-Israeli conflict with Iran is &#8220;the last of our concerns right now.&#8221; &#8220;The fact is that the U.S. economy is fundamentally sound and that if it were to be extended, it wouldn&#8217;t&#8230;",
+          "published_at": "2026-03-17 14:51:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 2.6
         }
       ]
     }
@@ -389,7 +374,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -475,67 +460,6 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "crypto",
-      "event": "Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse",
-      "gravity_score": 6.25,
-      "priority_score": 12.25,
-      "source_platform": "reddit_all",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1rw8mtk/farm_in_the_netherlands_uses_bitcoin_mining_to/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
-      "topic": "crypto",
-      "event": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
-      "gravity_score": 5.5,
-      "priority_score": 11.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
-      "topic": "crypto",
-      "event": "Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
-      "gravity_score": 5.0,
-      "priority_score": 11.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
       "topic": "reality_tv",
       "event": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
       "gravity_score": 7.76,
@@ -555,6 +479,25 @@
       "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
+      "topic": "crypto",
+      "event": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
+      "gravity_score": 5.5,
+      "priority_score": 9.5,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will BTC close above/below a specific price level within 14 days?",
+        "Will institutional inflows (ETF) exceed a measurable threshold?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -570,6 +513,46 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "crypto",
+      "event": "Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
+      "gravity_score": 5.0,
+      "priority_score": 9.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "crypto",
+      "event": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
+      "gravity_score": 5.0,
+      "priority_score": 9.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "music_charts",
@@ -602,7 +585,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_all",
+        "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -613,18 +596,18 @@
         "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/"
       },
       {
-        "topic": "crypto",
-        "title": "Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse",
-        "score": 6.25,
-        "source": "reddit_all",
-        "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1rw8mtk/farm_in_the_netherlands_uses_bitcoin_mining_to/"
-      },
-      {
         "topic": "geopolitics",
         "title": "NATO countries don't want to get involved in Iran operation, Trump says",
         "score": 5.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+        "score": 5.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/"
       }
     ],
     "X": [
@@ -780,6 +763,14 @@
         "source_label": "CoinDesk"
       },
       {
+        "topic": "politics",
+        "title": "[CNBC] Epstein files: House panel subpoenas AG Pam Bondi to appear for deposition",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html",
+        "source_label": "CNBC"
+      },
+      {
         "topic": "geopolitics",
         "title": "[CNBC] Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
         "score": 6.0,
@@ -793,14 +784,6 @@
         "score": 5.5,
         "source": "coindesk",
         "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
-        "source_label": "CoinDesk"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
-        "score": 5.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
         "source_label": "CoinDesk"
       }
     ]
