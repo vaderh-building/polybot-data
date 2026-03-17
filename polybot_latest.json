@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T17:12:40.212866+00:00",
+  "generated_at_utc": "2026-03-17T17:14:53.736682+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -38,7 +38,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 8,167 upvotes · 💬 873 comments · r/all",
+          "summary": "⬆ 8,226 upvotes · 💬 884 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -78,8 +78,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 87.01,
-      "attention_focus_score": 84.01,
+      "topic_score": 85.95,
+      "attention_focus_score": 82.95,
       "item_count": 19,
       "source_count": 7,
       "platform_count": 5,
@@ -104,7 +104,7 @@
           "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 8,495 upvotes · 💬 564 comments · r/all",
+          "summary": "⬆ 8,651 upvotes · 💬 568 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -114,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 1,681 upvotes · 💬 375 comments · r/worldnews",
+          "summary": "⬆ 1,791 upvotes · 💬 396 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -124,7 +124,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,074 upvotes · 💬 71 comments · r/worldnews",
+          "summary": "⬆ 2,091 upvotes · 💬 71 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -141,14 +141,14 @@
           "gravity_score": 4.5
         },
         {
-          "source": "thehill",
-          "title": "Live updates: Trump says NATO is making ‘very foolish mistake’ on Iran",
-          "url": "https://thehill.com/homenews/administration/5786437-live-updates-donald-trump-iran-save-act-illinois-primary/",
-          "summary": "President Trump, hosting Ireland&#8217;s Taoiseach Micheál Martin at the White House, said NATO is making a &#8220;very foolish mistake&#8221; in Iran, saying he&#8217;s &#8220;disappointed&#8221; in the alliance. &#8220;Everyone agrees with us but they don&#8217;t want to help,&#8221; he said, noting American allies agreed there was a nuclear threat but isn&#8217;t helping in the Strait of&#8230;",
-          "published_at": "2026-03-17 16:43:31+00:00",
+          "source": "reddit_news",
+          "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
+          "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
+          "summary": "⬆ 753 upvotes · 💬 49 comments · r/news",
+          "published_at": "2026-03-17 13:14:15+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 4.5
+          "gravity_score": 4.25
         }
       ]
     },
@@ -241,7 +241,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,302 upvotes · 💬 463 comments · r/worldnews",
+          "summary": "⬆ 4,318 upvotes · 💬 463 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -729,6 +729,13 @@
       },
       {
         "topic": "trending",
+        "title": "matt hinkin",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "disney plus",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -737,13 +744,6 @@
       {
         "topic": "trending",
         "title": "nato",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "disneyplus",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
