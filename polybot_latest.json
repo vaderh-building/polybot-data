@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-03-17T07:45:24.898524+00:00",
+  "generated_at_utc": "2026-03-17T07:47:47.979617+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 120.6,
-      "attention_focus_score": 117.6,
-      "item_count": 29,
-      "source_count": 7,
+      "topic_score": 133.88,
+      "attention_focus_score": 130.38,
+      "item_count": 31,
+      "source_count": 8,
       "platform_count": 7,
       "sources": [
         "bbc_top",
@@ -15,6 +15,7 @@
         "npr_news",
         "politico",
         "reddit_news",
+        "reddit_politics",
         "thehill"
       ],
       "platforms": [
@@ -28,10 +29,20 @@
       ],
       "top_items": [
         {
+          "source": "reddit_politics",
+          "title": "Major White House Split Leaks as Trump’s War Spirals",
+          "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
+          "summary": "⬆ 16,996 upvotes · 💬 1,468 comments · r/politics",
+          "published_at": "2026-03-16 15:32:47+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 8.25
+        },
+        {
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,840 upvotes · 💬 802 comments · r/news",
+          "summary": "⬆ 4,841 upvotes · 💬 802 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -65,16 +76,6 @@
           "published_at": "2026-03-12 08:45:00+00:00",
           "topic": "politics",
           "keyword_hits": 2,
-          "gravity_score": 4.5
-        },
-        {
-          "source": "thehill",
-          "title": "House Republicans ramp up pressure on Senate to pass SAVE America Act",
-          "url": "https://thehill.com/homenews/house/5786734-house-republicans-save-america-act-senate-pressure/",
-          "summary": "Conservatives in the House are ratcheting up pressure on the Senate to pass the Safeguard American Voter Eligibility (SAVE America) Act, threatening to block other legislation until the measure becomes law — a move that would add to the growing stalemate on Capitol Hill. The upper chamber is expected to take up the bill this&#8230;",
-          "published_at": "2026-03-16 21:31:53+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
           "gravity_score": 4.5
         }
       ]
@@ -147,8 +148,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 76.02,
-      "attention_focus_score": 74.52,
+      "topic_score": 74.92,
+      "attention_focus_score": 73.42,
       "item_count": 15,
       "source_count": 4,
       "platform_count": 3,
@@ -168,7 +169,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,546 upvotes · 💬 300 comments · r/worldnews",
+          "summary": "⬆ 5,542 upvotes · 💬 300 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -178,7 +179,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 13,160 upvotes · 💬 470 comments · r/news",
+          "summary": "⬆ 13,163 upvotes · 💬 470 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -188,28 +189,28 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 6,343 upvotes · 💬 955 comments · r/worldnews",
+          "summary": "⬆ 6,336 upvotes · 💬 955 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.75
         },
         {
-          "source": "cnbc",
-          "title": "Oil jumps over 3% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
-          "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
-          "summary": "Oil prices jumped over 3% on Tuesday as uncertainty lingered over a U.S.-led coalition to protect shipping through the Strait of Hormuz.",
-          "published_at": "2026-03-17 06:47:24+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
           "source": "reddit_worldnews",
           "title": "400 Killed, Around 250 Injured In Pakistan Strike On Kabul Hospital",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvrgkk/400_killed_around_250_injured_in_pakistan_strike/",
-          "summary": "⬆ 3,767 upvotes · 💬 241 comments · r/worldnews",
+          "summary": "⬆ 3,785 upvotes · 💬 243 comments · r/worldnews",
           "published_at": "2026-03-17 00:25:16+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rvi4hz/european_countries_reject_trumps_call_for_help_to/",
+          "summary": "⬆ 1,767 upvotes · 💬 232 comments · r/worldnews",
+          "published_at": "2026-03-16 18:41:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.75
@@ -236,7 +237,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 2,480 upvotes · 💬 102 comments · r/worldnews",
+          "summary": "⬆ 2,477 upvotes · 💬 102 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -272,7 +273,7 @@
           "source": "reddit_all",
           "title": "Punch found a girlfriend and you’re still single.",
           "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/",
-          "summary": "⬆ 10,408 upvotes · 💬 199 comments · r/all",
+          "summary": "⬆ 10,495 upvotes · 💬 200 comments · r/all",
           "published_at": "2026-03-17 04:07:41+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -336,6 +337,29 @@
   "market_suggestions": [
     {
       "topic": "politics",
+      "event": "Major White House Split Leaks as Trump’s War Spirals",
+      "gravity_score": 8.25,
+      "priority_score": 20.25,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
       "gravity_score": 7.25,
       "priority_score": 19.25,
@@ -381,31 +405,6 @@
         "Will a resignation or staffing change follow within 30 days?",
         "Will this person step down from their role within 30 days?",
         "Will this trigger a formal succession/replacement announcement?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
-      "gravity_score": 4.5,
-      "priority_score": 16.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?",
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -587,6 +586,13 @@
       },
       {
         "topic": "politics",
+        "title": "Major White House Split Leaks as Trump’s War Spirals",
+        "score": 8.25,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/"
+      },
+      {
+        "topic": "politics",
         "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
         "score": 7.25,
         "source": "reddit_news",
@@ -605,13 +611,6 @@
         "score": 6.75,
         "source": "reddit_news",
         "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
-        "score": 6.17,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/"
       }
     ],
     "X": [
@@ -775,20 +774,20 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "geopolitics",
-        "title": "[CNBC] Oil jumps over 3% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
-        "score": 5.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "crypto",
         "title": "[CoinDesk] Bitcoin just surged past $75,000. Derivatives seem to be driving the rally.",
         "score": 5.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move",
         "source_label": "CoinDesk"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "[CNBC] Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
+        "score": 4.55,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
+        "source_label": "CNBC"
       }
     ]
   }
