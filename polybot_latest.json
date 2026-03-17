@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T18:18:51.060500+00:00",
+  "generated_at_utc": "2026-03-17T18:21:00.531657+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 164.37,
-      "attention_focus_score": 161.87,
+      "topic_score": 163.28,
+      "attention_focus_score": 160.78,
       "item_count": 39,
       "source_count": 6,
       "platform_count": 5,
@@ -28,7 +28,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 9,999 upvotes · 💬 1,041 comments · r/all",
+          "summary": "⬆ 10,049 upvotes · 💬 1,047 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -49,17 +49,7 @@
           "title": "Epstein files: House panel subpoenas AG Pam Bondi to appear for deposition",
           "url": "https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html",
           "summary": "The House panel wants to question Bondi about the DOJ's compliance with the Epstein Files Transparency Act, which President Donald Trump signed into law.",
-          "published_at": "2026-03-17 18:01:22+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Arizona Attorney General files criminal charges against prediction market Kalshi",
-          "url": "https://www.coindesk.com/policy/2026/03/17/arizona-attorney-general-charges-kalshi-with-illegal-gambling-election-betting",
-          "summary": "Kris Mayes filed 20 criminal counts against the prediction market operator, escalating a multi-state legal clash over sports and election predictions markets.",
-          "published_at": "2026-03-17 17:49:19+00:00",
+          "published_at": "2026-03-17 18:20:40+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -73,14 +63,24 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.0
+        },
+        {
+          "source": "cnbc",
+          "title": "Everything to know about the SAVE America Act voter ID-bill",
+          "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
+          "summary": "President Donald Trump has been pushing Congress to approve the SAVE America Act to require ID at the polls and proof of U.S. citizenship to register to vote.",
+          "published_at": "2026-03-17 17:14:26+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 5.5
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 87.56,
-      "attention_focus_score": 85.06,
-      "item_count": 20,
+      "topic_score": 92.34,
+      "attention_focus_score": 89.84,
+      "item_count": 21,
       "source_count": 6,
       "platform_count": 5,
       "sources": [
@@ -103,7 +103,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 12,295 upvotes · 💬 757 comments · r/worldnews",
+          "summary": "⬆ 12,384 upvotes · 💬 760 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -133,7 +133,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 3,168 upvotes · 💬 623 comments · r/worldnews",
+          "summary": "⬆ 3,188 upvotes · 💬 632 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -143,7 +143,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,580 upvotes · 💬 89 comments · r/worldnews",
+          "summary": "⬆ 2,587 upvotes · 💬 90 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -242,7 +242,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,588 upvotes · 💬 494 comments · r/worldnews",
+          "summary": "⬆ 4,596 upvotes · 💬 494 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -779,11 +779,11 @@
       },
       {
         "topic": "politics",
-        "title": "[CoinDesk] Arizona Attorney General files criminal charges against prediction market Kalshi",
+        "title": "[The Hill] Sanders presses Cassidy for hearing on RFK Jr. vaccine claims",
         "score": 6.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/policy/2026/03/17/arizona-attorney-general-charges-kalshi-with-illegal-gambling-election-betting",
-        "source_label": "CoinDesk"
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/5787632-sanders-calls-hearing-kennedy-vaccine/",
+        "source_label": "The Hill"
       }
     ]
   }
