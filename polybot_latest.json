@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T20:38:36.855143+00:00",
+  "generated_at_utc": "2026-03-17T20:40:46.110521+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 169.05,
-      "attention_focus_score": 165.55,
+      "topic_score": 170.12,
+      "attention_focus_score": 166.62,
       "item_count": 38,
       "source_count": 8,
       "platform_count": 6,
@@ -29,33 +29,33 @@
       "top_items": [
         {
           "source": "reddit_all",
+          "title": "Bernie Sanders is suggesting the Epstein files be read during the filibuster on the SAVE ACT this week. Do you support reading the Epstein files on the Senate floor? 👍",
+          "url": "https://www.reddit.com/r/AskSocialists/comments/1rwhjqg/bernie_sanders_is_suggesting_the_epstein_files_be/",
+          "summary": "⬆ 4,861 upvotes · 💬 128 comments · r/all",
+          "published_at": "2026-03-17 19:58:56+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 7.75
+        },
+        {
+          "source": "reddit_all",
           "title": "Afroman defending himself today in court when the cops sued him for making a song about their raid on his house.",
           "url": "https://www.reddit.com/r/law/comments/1rwf2y7/afroman_defending_himself_today_in_court_when_the/",
-          "summary": "⬆ 19,747 upvotes · 💬 848 comments · r/all",
+          "summary": "⬆ 20,047 upvotes · 💬 852 comments · r/all",
           "published_at": "2026-03-17 18:33:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 7.25
         },
         {
-          "source": "reddit_all",
+          "source": "reddit_news",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 9,761 upvotes · 💬 209 comments · r/all",
+          "summary": "⬆ 9,921 upvotes · 💬 212 comments · r/news",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 7.25
-        },
-        {
-          "source": "reddit_all",
-          "title": "Bernie Sanders is suggesting the Epstein files be read during the filibuster on the SAVE ACT this week. Do you support reading the Epstein files on the Senate floor? 👍",
-          "url": "https://www.reddit.com/r/AskSocialists/comments/1rwhjqg/bernie_sanders_is_suggesting_the_epstein_files_be/",
-          "summary": "⬆ 4,416 upvotes · 💬 117 comments · r/all",
-          "published_at": "2026-03-17 19:58:56+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
         },
         {
           "source": "thehill",
@@ -81,8 +81,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 92.84,
-      "attention_focus_score": 89.84,
+      "topic_score": 91.78,
+      "attention_focus_score": 88.78,
       "item_count": 22,
       "source_count": 7,
       "platform_count": 5,
@@ -107,7 +107,7 @@
           "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 18,065 upvotes · 💬 990 comments · r/all",
+          "summary": "⬆ 18,154 upvotes · 💬 994 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -117,7 +117,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 5,718 upvotes · 💬 946 comments · r/worldnews",
+          "summary": "⬆ 5,755 upvotes · 💬 950 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 742 upvotes · 💬 182 comments · r/worldnews",
+          "summary": "⬆ 764 upvotes · 💬 188 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -137,28 +137,28 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 3,688 upvotes · 💬 109 comments · r/worldnews",
+          "summary": "⬆ 3,711 upvotes · 💬 110 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.75
         },
         {
-          "source": "bbc_world",
-          "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
-          "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-          "summary": "Iran's Revolutionary Guards confirmed the death of a different commander, but did not comment on Larijani.",
-          "published_at": "2026-03-17 20:08:51+00:00",
+          "source": "reddit_worldnews",
+          "title": "European Union rejects Trump's calls for military deployments to reopen Strait of Hormuz",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwa9fm/european_union_rejects_trumps_calls_for_military/",
+          "summary": "⬆ 636 upvotes · 💬 76 comments · r/worldnews",
+          "published_at": "2026-03-17 15:47:24+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 4.5
+          "gravity_score": 4.25
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 86.58,
-      "attention_focus_score": 85.58,
+      "topic_score": 86.04,
+      "attention_focus_score": 85.04,
       "item_count": 19,
       "source_count": 3,
       "platform_count": 3,
@@ -247,7 +247,7 @@
           "source": "reddit_all",
           "title": "Kid has the survival instincts of a kid, and the mom got a reality check.",
           "url": "https://www.reddit.com/r/SipsTea/comments/1rwcjj6/kid_has_the_survival_instincts_of_a_kid_and_the/",
-          "summary": "⬆ 10,090 upvotes · 💬 469 comments · r/all",
+          "summary": "⬆ 10,193 upvotes · 💬 470 comments · r/all",
           "published_at": "2026-03-17 17:07:13+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -257,7 +257,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 5,130 upvotes · 💬 535 comments · r/worldnews",
+          "summary": "⬆ 5,149 upvotes · 💬 535 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -267,7 +267,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 324 upvotes · 💬 19 comments · r/popculturechat",
+          "summary": "⬆ 325 upvotes · 💬 19 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -341,6 +341,28 @@
   "market_suggestions": [
     {
       "topic": "politics",
+      "event": "Bernie Sanders is suggesting the Epstein files be read during the filibuster on the SAVE ACT this week. Do you support reading the Epstein…",
+      "gravity_score": 7.75,
+      "priority_score": 17.75,
+      "source_platform": "reddit_all",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/AskSocialists/comments/1rwhjqg/bernie_sanders_is_suggesting_the_epstein_files_be/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "Afroman defending himself today in court when the cops sued him for making a song about their raid on his house.",
       "gravity_score": 7.25,
       "priority_score": 17.25,
@@ -367,7 +389,7 @@
       "event": "US House panel subpoenas Attorney General Bondi in Epstein probe",
       "gravity_score": 7.25,
       "priority_score": 17.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_news",
       "source_label": "",
       "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
       "platforms_discussing": [
@@ -382,28 +404,6 @@
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Bernie Sanders is suggesting the Epstein files be read during the filibuster on the SAVE ACT this week. Do you support reading the Epstein…",
-      "gravity_score": 6.75,
-      "priority_score": 16.75,
-      "source_platform": "reddit_all",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/AskSocialists/comments/1rwhjqg/bernie_sanders_is_suggesting_the_epstein_files_be/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -606,6 +606,13 @@
       },
       {
         "topic": "politics",
+        "title": "Bernie Sanders is suggesting the Epstein files be read during the filibuster on the SAVE ACT this week. Do you support reading the Epstein files on the Senate floor? 👍",
+        "score": 7.75,
+        "source": "reddit_all",
+        "url": "https://www.reddit.com/r/AskSocialists/comments/1rwhjqg/bernie_sanders_is_suggesting_the_epstein_files_be/"
+      },
+      {
+        "topic": "politics",
         "title": "Afroman defending himself today in court when the cops sued him for making a song about their raid on his house.",
         "score": 7.25,
         "source": "reddit_all",
@@ -617,13 +624,6 @@
         "score": 7.25,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
-      },
-      {
-        "topic": "politics",
-        "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
-        "score": 7.25,
-        "source": "reddit_all",
-        "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/"
       }
     ],
     "X": [
