@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T18:21:00.531657+00:00",
+  "generated_at_utc": "2026-03-17T18:23:11.535463+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 163.28,
-      "attention_focus_score": 160.78,
+      "topic_score": 161.64,
+      "attention_focus_score": 159.14,
       "item_count": 39,
       "source_count": 6,
       "platform_count": 5,
@@ -28,7 +28,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 10,049 upvotes · 💬 1,047 comments · r/all",
+          "summary": "⬆ 10,091 upvotes · 💬 1,055 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -57,7 +57,7 @@
         {
           "source": "thehill",
           "title": "Sanders presses Cassidy for hearing on RFK Jr. vaccine claims",
-          "url": "https://thehill.com/homenews/5787632-sanders-calls-hearing-kennedy-vaccine/",
+          "url": "https://thehill.com/policy/healthcare/5787632-sanders-calls-hearing-kennedy-vaccine/",
           "summary": "Sen. Bernie Sanders (I-Vt.) is calling on Sen. Bill Cassidy (R-La.), chair of the Senate Health, Education, Labor and Pensions (HELP) Committee, to hold a hearing on the &#8220;dangerous misinformation campaign&#8221; Health and Human Services Secretary Robert F. Kennedy Jr. has led in linking vaccines to autism. &#8220;The reality is that since Secretary Kennedy has&#8230;",
           "published_at": "2026-03-17 17:55:18+00:00",
           "topic": "politics",
@@ -78,15 +78,16 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 92.34,
+      "topic_score": 92.84,
       "attention_focus_score": 89.84,
       "item_count": 21,
-      "source_count": 6,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -100,10 +101,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 12,384 upvotes · 💬 760 comments · r/worldnews",
+          "summary": "⬆ 12,465 upvotes · 💬 762 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -133,7 +134,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 3,188 upvotes · 💬 632 comments · r/worldnews",
+          "summary": "⬆ 3,217 upvotes · 💬 639 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -143,7 +144,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,587 upvotes · 💬 90 comments · r/worldnews",
+          "summary": "⬆ 2,594 upvotes · 💬 90 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -153,8 +154,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 80.08,
-      "attention_focus_score": 79.08,
+      "topic_score": 79.54,
+      "attention_focus_score": 78.54,
       "item_count": 19,
       "source_count": 3,
       "platform_count": 3,
@@ -242,7 +243,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,596 upvotes · 💬 494 comments · r/worldnews",
+          "summary": "⬆ 4,602 upvotes · 💬 495 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -252,7 +253,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 292 upvotes · 💬 16 comments · r/popculturechat",
+          "summary": "⬆ 290 upvotes · 💬 16 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -351,7 +352,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -584,7 +585,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -782,7 +783,7 @@
         "title": "[The Hill] Sanders presses Cassidy for hearing on RFK Jr. vaccine claims",
         "score": 6.0,
         "source": "thehill",
-        "url": "https://thehill.com/homenews/5787632-sanders-calls-hearing-kennedy-vaccine/",
+        "url": "https://thehill.com/policy/healthcare/5787632-sanders-calls-hearing-kennedy-vaccine/",
         "source_label": "The Hill"
       }
     ]
