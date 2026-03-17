@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T08:20:17.432650+00:00",
+  "generated_at_utc": "2026-03-17T08:22:26.766631+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 17,030 upvotes · 💬 1,469 comments · r/politics",
+          "summary": "⬆ 17,025 upvotes · 💬 1,469 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,876 upvotes · 💬 802 comments · r/news",
+          "summary": "⬆ 4,888 upvotes · 💬 802 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,8 +82,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 85.5,
-      "attention_focus_score": 85.5,
+      "topic_score": 85.0,
+      "attention_focus_score": 85.0,
       "item_count": 23,
       "source_count": 1,
       "platform_count": 1,
@@ -94,16 +94,6 @@
         "coindesk"
       ],
       "top_items": [
-        {
-          "source": "coindesk",
-          "title": "Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
-          "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
-          "summary": "Ether jumped 13%, XRP surged 11%, and solana gained 9.7% over seven days as $767 million in ETF inflows and ceasefire speculation fueled the broadest rally since before the war.",
-          "published_at": "2026-03-17 06:21:09+00:00",
-          "topic": "crypto",
-          "keyword_hits": 3,
-          "gravity_score": 6.0
-        },
         {
           "source": "coindesk",
           "title": "T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
@@ -123,6 +113,16 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
+          "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
+          "summary": "Ether jumped 13%, XRP surged 11%, and solana gained 9.7% over seven days as $767 million in ETF inflows and ceasefire speculation fueled the broadest rally since before the war.",
+          "published_at": "2026-03-17 06:21:09+00:00",
+          "topic": "crypto",
+          "keyword_hits": 3,
+          "gravity_score": 5.5
         },
         {
           "source": "coindesk",
@@ -169,7 +169,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 13,192 upvotes · 💬 470 comments · r/news",
+          "summary": "⬆ 13,206 upvotes · 💬 470 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -179,7 +179,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 6,362 upvotes · 💬 956 comments · r/worldnews",
+          "summary": "⬆ 6,363 upvotes · 💬 956 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -189,7 +189,7 @@
           "source": "reddit_worldnews",
           "title": "Iran demands yuan payments for oil to transit Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvwwdh/iran_demands_yuan_payments_for_oil_to_transit/",
-          "summary": "⬆ 1,641 upvotes · 💬 307 comments · r/worldnews",
+          "summary": "⬆ 1,659 upvotes · 💬 307 comments · r/worldnews",
           "published_at": "2026-03-17 04:33:57+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -199,7 +199,7 @@
           "source": "reddit_worldnews",
           "title": "400 Killed, Around 250 Injured In Pakistan Strike On Kabul Hospital",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvrgkk/400_killed_around_250_injured_in_pakistan_strike/",
-          "summary": "⬆ 4,162 upvotes · 💬 264 comments · r/worldnews",
+          "summary": "⬆ 4,190 upvotes · 💬 265 comments · r/worldnews",
           "published_at": "2026-03-17 00:25:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -309,7 +309,7 @@
           "source": "reddit_all",
           "title": "Punch found a girlfriend and you’re still single.",
           "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/",
-          "summary": "⬆ 11,847 upvotes · 💬 217 comments · r/all",
+          "summary": "⬆ 11,927 upvotes · 💬 219 comments · r/all",
           "published_at": "2026-03-17 04:07:41+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -735,14 +735,6 @@
     "Major News Headlines": [
       {
         "topic": "crypto",
-        "title": "[CoinDesk] Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
-        "score": 6.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
-        "source_label": "CoinDesk"
-      },
-      {
-        "topic": "crypto",
         "title": "[CoinDesk] T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
         "score": 6.0,
         "source": "coindesk",
@@ -755,6 +747,14 @@
         "score": 6.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
+        "score": 5.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
         "source_label": "CoinDesk"
       },
       {
