@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T06:40:12.503147+00:00",
+  "generated_at_utc": "2026-03-17T06:42:25.979995+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 16,869 upvotes · 💬 1,468 comments · r/politics",
+          "summary": "⬆ 16,877 upvotes · 💬 1,468 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,775 upvotes · 💬 796 comments · r/news",
+          "summary": "⬆ 4,774 upvotes · 💬 796 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,8 +82,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 87.5,
-      "attention_focus_score": 87.5,
+      "topic_score": 90.5,
+      "attention_focus_score": 90.5,
       "item_count": 23,
       "source_count": 1,
       "platform_count": 1,
@@ -103,6 +103,16 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 8.0
+        },
+        {
+          "source": "coindesk",
+          "title": "XRP flips BNB as open interest builds back toward pre-crash levels",
+          "url": "https://www.coindesk.com/markets/2026/03/17/xrp-flips-bnb-as-open-interest-builds-back-toward-pre-crash-levels",
+          "summary": "The token broke through $1.50 resistance on a 125% volume spike, pushing its market cap to $93.4 billion. Binance futures open interest has climbed 59% since October even as the price remains 58% below its high.",
+          "published_at": "2026-03-17 06:40:09+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
         },
         {
           "source": "coindesk",
@@ -133,16 +143,6 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
-          "title": "OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
-          "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
-          "summary": "The platform will end its rewards waves, offer optional fee refunds for certain traders and introduce 0% token trading fees for 60 days starting March 31 as it promotes its revamped marketplace.",
-          "published_at": "2026-03-16 21:17:18+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
@@ -169,7 +169,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,504 upvotes · 💬 299 comments · r/worldnews",
+          "summary": "⬆ 5,506 upvotes · 💬 299 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -179,7 +179,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 13,100 upvotes · 💬 470 comments · r/news",
+          "summary": "⬆ 13,101 upvotes · 💬 470 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -189,7 +189,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 6,296 upvotes · 💬 953 comments · r/worldnews",
+          "summary": "⬆ 6,301 upvotes · 💬 953 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -199,7 +199,7 @@
           "source": "reddit_worldnews",
           "title": "400 Killed, Around 250 Injured In Pakistan Strike On Kabul Hospital",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvrgkk/400_killed_around_250_injured_in_pakistan_strike/",
-          "summary": "⬆ 3,001 upvotes · 💬 213 comments · r/worldnews",
+          "summary": "⬆ 3,016 upvotes · 💬 214 comments · r/worldnews",
           "published_at": "2026-03-17 00:25:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -209,7 +209,7 @@
           "source": "reddit_worldnews",
           "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvi4hz/european_countries_reject_trumps_call_for_help_to/",
-          "summary": "⬆ 1,724 upvotes · 💬 228 comments · r/worldnews",
+          "summary": "⬆ 1,723 upvotes · 💬 228 comments · r/worldnews",
           "published_at": "2026-03-16 18:41:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -237,7 +237,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 2,390 upvotes · 💬 98 comments · r/worldnews",
+          "summary": "⬆ 2,399 upvotes · 💬 98 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -273,7 +273,7 @@
           "source": "reddit_all",
           "title": "Punch found a girlfriend and you’re still single.",
           "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/",
-          "summary": "⬆ 7,476 upvotes · 💬 147 comments · r/all",
+          "summary": "⬆ 7,582 upvotes · 💬 149 comments · r/all",
           "published_at": "2026-03-17 04:07:41+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -766,6 +766,14 @@
       },
       {
         "topic": "crypto",
+        "title": "[CoinDesk] XRP flips BNB as open interest builds back toward pre-crash levels",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/17/xrp-flips-bnb-as-open-interest-builds-back-toward-pre-crash-levels",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "crypto",
         "title": "[CoinDesk] T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
         "score": 6.0,
         "source": "coindesk",
@@ -778,14 +786,6 @@
         "score": 6.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
-        "source_label": "CoinDesk"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] Bitcoin just surged past $75,000. Derivatives seem to be driving the rally.",
-        "score": 5.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move",
         "source_label": "CoinDesk"
       }
     ]
