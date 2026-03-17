@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T02:19:36.361070+00:00",
+  "generated_at_utc": "2026-03-17T02:21:45.103263+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 140.79,
-      "attention_focus_score": 137.29,
+      "topic_score": 140.26,
+      "attention_focus_score": 136.76,
       "item_count": 34,
       "source_count": 8,
       "platform_count": 7,
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 15,624 upvotes · 💬 1,413 comments · r/politics",
+          "summary": "⬆ 15,638 upvotes · 💬 1,413 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,21 +42,11 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,202 upvotes · 💬 734 comments · r/news",
+          "summary": "⬆ 4,200 upvotes · 💬 734 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
-        },
-        {
-          "source": "cnbc",
-          "title": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
-          "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
-          "summary": "Wiles \"will be spending virtually full time at the White House\" while being treated for breast cancer, President Donald Trump said.",
-          "published_at": "2026-03-16 20:20:44+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
         },
         {
           "source": "thehill",
@@ -67,6 +57,16 @@
           "topic": "politics",
           "keyword_hits": 3,
           "gravity_score": 5.0
+        },
+        {
+          "source": "cnbc",
+          "title": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+          "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+          "summary": "Wiles \"will be spending virtually full time at the White House\" while being treated for breast cancer, President Donald Trump said.",
+          "published_at": "2026-03-16 20:20:44+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         },
         {
           "source": "cnbc",
@@ -107,7 +107,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,307 upvotes · 💬 297 comments · r/worldnews",
+          "summary": "⬆ 5,302 upvotes · 💬 297 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -117,7 +117,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 27,374 upvotes · 💬 2,047 comments · r/worldnews",
+          "summary": "⬆ 27,383 upvotes · 💬 2,047 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 12,552 upvotes · 💬 462 comments · r/news",
+          "summary": "⬆ 12,558 upvotes · 💬 463 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -147,7 +147,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 5,620 upvotes · 💬 913 comments · r/worldnews",
+          "summary": "⬆ 5,633 upvotes · 💬 914 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -277,7 +277,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 1,700 upvotes · 💬 90 comments · r/worldnews",
+          "summary": "⬆ 1,713 upvotes · 💬 90 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -363,12 +363,12 @@
     },
     {
       "topic": "politics",
-      "event": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+      "event": "House Republicans ramp up pressure on Senate to pass SAVE America Act",
       "gravity_score": 5.0,
       "priority_score": 17.0,
-      "source_platform": "cnbc",
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+      "url": "https://thehill.com/homenews/house/5786734-house-republicans-save-america-act-senate-pressure/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -379,10 +379,8 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will this person step down from their role within 30 days?",
-        "Will this trigger a formal succession/replacement announcement?"
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -766,12 +764,12 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "politics",
-        "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+        "topic": "crypto",
+        "title": "[CoinDesk] OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
         "score": 5.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
-        "source_label": "CNBC"
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
+        "source_label": "CoinDesk"
       }
     ]
   }
