@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T05:29:09.738372+00:00",
+  "generated_at_utc": "2026-03-17T05:31:20.353355+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 16,729 upvotes · 💬 1,464 comments · r/politics",
+          "summary": "⬆ 16,725 upvotes · 💬 1,465 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,687 upvotes · 💬 791 comments · r/news",
+          "summary": "⬆ 4,686 upvotes · 💬 791 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -107,7 +107,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,450 upvotes · 💬 299 comments · r/worldnews",
+          "summary": "⬆ 5,460 upvotes · 💬 299 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -117,7 +117,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 13,008 upvotes · 💬 470 comments · r/news",
+          "summary": "⬆ 13,013 upvotes · 💬 470 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 6,238 upvotes · 💬 948 comments · r/worldnews",
+          "summary": "⬆ 6,240 upvotes · 💬 948 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -137,7 +137,7 @@
           "source": "reddit_worldnews",
           "title": "400 Killed, Around 250 Injured In Pakistan Strike On Kabul Hospital",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvrgkk/400_killed_around_250_injured_in_pakistan_strike/",
-          "summary": "⬆ 2,063 upvotes · 💬 152 comments · r/worldnews",
+          "summary": "⬆ 2,103 upvotes · 💬 154 comments · r/worldnews",
           "published_at": "2026-03-17 00:25:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -223,8 +223,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 17.08,
-      "attention_focus_score": 16.58,
+      "topic_score": 15.59,
+      "attention_focus_score": 15.09,
       "item_count": 2,
       "source_count": 2,
       "platform_count": 2,
@@ -238,6 +238,16 @@
       ],
       "top_items": [
         {
+          "source": "reddit_worldnews",
+          "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
+          "summary": "⬆ 2,289 upvotes · 💬 97 comments · r/worldnews",
+          "published_at": "2026-03-16 17:54:20+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.17
+        },
+        {
           "source": "cnbc",
           "title": "Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
           "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
@@ -245,17 +255,7 @@
           "published_at": "2026-03-17 04:29:28+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 6.5
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 2,286 upvotes · 💬 97 comments · r/worldnews",
-          "published_at": "2026-03-16 17:54:20+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.17
+          "gravity_score": 5.2
         }
       ]
     },
@@ -277,7 +277,7 @@
           "source": "reddit_all",
           "title": "Punch found a girlfriend and you’re still single.",
           "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/",
-          "summary": "⬆ 3,483 upvotes · 💬 91 comments · r/all",
+          "summary": "⬆ 3,624 upvotes · 💬 92 comments · r/all",
           "published_at": "2026-03-17 04:07:41+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -530,26 +530,6 @@
       "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
-      "gravity_score": 6.5,
-      "priority_score": 8.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
-      "platforms_discussing": [
-        "cnbc",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
       "topic": "geopolitics",
       "event": "Trump threatens 500% tariffs on Russia if no Ukraine deal within 50 days",
       "gravity_score": 8.5,
@@ -585,6 +565,24 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
+      "topic": "social_virality",
+      "event": "Nicki Minaj \"Want Some More\" freeze-frame reveal format sweeps fashion and lifestyle creators",
+      "gravity_score": 8.3,
+      "priority_score": 8.3,
+      "source_platform": "TikTok",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "TikTok"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Google Trends / Platform public APIs"
     }
   ],
   "platform_snapshots": {
@@ -762,14 +760,6 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
-        "score": 6.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "crypto",
         "title": "[CoinDesk] T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
         "score": 6.0,
@@ -784,6 +774,14 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
         "source_label": "CoinDesk"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "[CNBC] Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
+        "score": 5.2,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
+        "source_label": "CNBC"
       },
       {
         "topic": "crypto",
