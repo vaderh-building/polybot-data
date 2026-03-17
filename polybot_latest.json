@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T17:08:16.690469+00:00",
+  "generated_at_utc": "2026-03-17T17:10:29.409177+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 146.38,
-      "attention_focus_score": 143.88,
+      "topic_score": 145.29,
+      "attention_focus_score": 142.79,
       "item_count": 36,
       "source_count": 6,
       "platform_count": 5,
@@ -38,21 +38,11 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 8,020 upvotes · 💬 862 comments · r/all",
+          "summary": "⬆ 8,100 upvotes · 💬 867 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.25
-        },
-        {
-          "source": "cnbc",
-          "title": "Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
-          "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
-          "summary": "The Department of Homeland Security shutdown has caused pileups in airport security lines across the country.",
-          "published_at": "2026-03-17 16:38:55+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
         },
         {
           "source": "thehill",
@@ -68,25 +58,36 @@
           "source": "thehill",
           "title": "White House reviews Democratic offer to reopen Homeland Security",
           "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
-          "summary": "White House negotiators are reviewing a Democratic proposal to fund and reopen the Department of Homeland Security,&#160;but the talks are inching along and Senate Majority Leader John Thune (R-S.D.) said Democrats aren’t serious about getting a deal soon. The White House submitted its last offer to Senate Democrats more than two weeks ago,&#160;and Democrats didn’t&#8230;",
+          "summary": "White House negotiators are reviewing a Democratic proposal to fund and reopen the Department of Homeland Security, but the talks are inching along and Senate Majority Leader John Thune (R-S.D.) said Democrats aren’t serious about getting a deal soon. The White House submitted its last offer to Senate Democrats more than two weeks ago,&#160;and Democrats didn’t&#8230;",
           "published_at": "2026-03-17 15:38:08+00:00",
           "topic": "politics",
           "keyword_hits": 3,
           "gravity_score": 5.5
+        },
+        {
+          "source": "cnbc",
+          "title": "Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
+          "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
+          "summary": "The Department of Homeland Security shutdown has caused pileups in airport security lines across the country.",
+          "published_at": "2026-03-17 16:38:55+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 88.62,
-      "attention_focus_score": 86.12,
+      "topic_score": 88.06,
+      "attention_focus_score": 85.06,
       "item_count": 19,
-      "source_count": 6,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -100,10 +101,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 8,170 upvotes · 💬 551 comments · r/worldnews",
+          "summary": "⬆ 8,335 upvotes · 💬 558 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -113,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 1,506 upvotes · 💬 346 comments · r/worldnews",
+          "summary": "⬆ 1,605 upvotes · 💬 362 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -123,7 +124,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,035 upvotes · 💬 70 comments · r/worldnews",
+          "summary": "⬆ 2,045 upvotes · 💬 70 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -221,8 +222,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 18.7,
-      "attention_focus_score": 17.7,
+      "topic_score": 18.02,
+      "attention_focus_score": 17.02,
       "item_count": 3,
       "source_count": 3,
       "platform_count": 2,
@@ -240,7 +241,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,275 upvotes · 💬 460 comments · r/worldnews",
+          "summary": "⬆ 4,283 upvotes · 💬 461 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -250,11 +251,11 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 226 upvotes · 💬 15 comments · r/popculturechat",
+          "summary": "⬆ 227 upvotes · 💬 15 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 5.06
+          "gravity_score": 4.39
         },
         {
           "source": "thehill",
@@ -339,7 +340,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 6.75,
       "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -425,12 +426,12 @@
     },
     {
       "topic": "politics",
-      "event": "Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
+      "event": "Trump, Leavitt dismisses Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
       "gravity_score": 6.0,
       "priority_score": 14.0,
-      "source_platform": "cnbc",
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
+      "url": "https://thehill.com/homenews/administration/5787821-trump-criticizes-kent-iran-threat/",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
@@ -439,8 +440,9 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?"
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -587,7 +589,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 6.75,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -766,14 +768,6 @@
       },
       {
         "topic": "politics",
-        "title": "[CNBC] Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
         "title": "[The Hill] Trump, Leavitt dismisses Kent’s allegations on Iran war as ‘false’ and ‘absurd’",
         "score": 6.0,
         "source": "thehill",
@@ -787,6 +781,14 @@
         "source": "thehill",
         "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
         "source_label": "The Hill"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
+        "score": 5.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
+        "source_label": "CNBC"
       }
     ]
   }
