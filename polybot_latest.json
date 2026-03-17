@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T01:53:49.339780+00:00",
+  "generated_at_utc": "2026-03-17T01:55:58.681792+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 15,409 upvotes · 💬 1,404 comments · r/politics",
+          "summary": "⬆ 15,431 upvotes · 💬 1,404 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,076 upvotes · 💬 719 comments · r/news",
+          "summary": "⬆ 4,083 upvotes · 💬 722 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -107,7 +107,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,262 upvotes · 💬 296 comments · r/worldnews",
+          "summary": "⬆ 5,268 upvotes · 💬 296 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -117,7 +117,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 27,295 upvotes · 💬 2,039 comments · r/worldnews",
+          "summary": "⬆ 27,297 upvotes · 💬 2,039 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 12,447 upvotes · 💬 461 comments · r/news",
+          "summary": "⬆ 12,457 upvotes · 💬 461 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -137,7 +137,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 5,527 upvotes · 💬 903 comments · r/worldnews",
+          "summary": "⬆ 5,535 upvotes · 💬 904 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -157,8 +157,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 78.0,
-      "attention_focus_score": 78.0,
+      "topic_score": 82.5,
+      "attention_focus_score": 82.5,
       "item_count": 22,
       "source_count": 1,
       "platform_count": 1,
@@ -169,6 +169,16 @@
         "coindesk"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Bitcoin just surged past $75,000. Derivatives seem to be driving the rally.",
+          "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move",
+          "summary": "Bitcoin's move, led by unwinding of shorts, has lifted the broader crypto market, with the CoinDesk 20 Index up 5%.",
+          "published_at": "2026-03-17 01:53:36+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 7.5
+        },
         {
           "source": "coindesk",
           "title": "T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
@@ -208,35 +218,37 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
-        },
-        {
-          "source": "coindesk",
-          "title": "SEC drops lawsuit against BitClout’s Nader Al-Naji",
-          "url": "https://www.coindesk.com/policy/2026/03/16/sec-drops-case-against-bitclout-s-nader-al-naji",
-          "summary": "The regulator ended its civil enforcement case accusing the DeSo creator of wire fraud and selling unregistered crypto securities.",
-          "published_at": "2026-03-16 12:05:55+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 6.98,
-      "attention_focus_score": 6.48,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
+      "topic_score": 17.52,
+      "attention_focus_score": 16.52,
+      "item_count": 3,
+      "source_count": 3,
+      "platform_count": 3,
       "sources": [
         "bbc_top",
+        "google_trends_us_daily",
         "thehill"
       ],
       "platforms": [
         "bbc",
+        "google_trends",
         "thehill"
       ],
       "top_items": [
+        {
+          "source": "google_trends_us_daily",
+          "title": "virgin river season 8",
+          "url": "https://trends.google.com/trending/rss?geo=US",
+          "summary": "",
+          "published_at": "2026-03-17 01:40:00+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
         {
           "source": "bbc_top",
           "title": "Tina Fey, Riz Ahmed and Jamie Dornan named Saturday Night Live UK hosts",
@@ -277,7 +289,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 1,562 upvotes · 💬 87 comments · r/worldnews",
+          "summary": "⬆ 1,576 upvotes · 💬 87 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -454,6 +466,26 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "reality_tv",
+      "event": "virgin river season 8",
+      "gravity_score": 7.76,
+      "priority_score": 11.76,
+      "source_platform": "google_trends_us_daily",
+      "source_label": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "platforms_discussing": [
+        "bbc",
+        "google_trends",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -539,24 +571,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "fashion",
-      "event": "\"Mori girl\" aesthetic revival surging — linen layers, cottagecore accessories trending among Gen Z",
-      "gravity_score": 8.3,
-      "priority_score": 8.3,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Fashion industry reports / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -698,41 +712,49 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "hannah harper american idol",
+        "title": "luis arraez",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "carrie underwood",
+        "title": "virgin river season 8",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "will richard",
+        "title": "maxxine dupri",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "timothy busfield",
+        "title": "clint capela",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "dyson daniels",
+        "title": "el salvador",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Bitcoin just surged past $75,000. Derivatives seem to be driving the rally.",
+        "score": 7.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move",
+        "source_label": "CoinDesk"
+      },
       {
         "topic": "crypto",
         "title": "[CoinDesk] T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
@@ -764,14 +786,6 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
         "source_label": "CNBC"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
-        "score": 5.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
-        "source_label": "CoinDesk"
       }
     ]
   }
