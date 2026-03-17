@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T03:37:27.917503+00:00",
+  "generated_at_utc": "2026-03-17T03:43:59.894038+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 16,215 upvotes · 💬 1,438 comments · r/politics",
+          "summary": "⬆ 16,265 upvotes · 💬 1,438 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,7 +42,7 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,448 upvotes · 💬 773 comments · r/news",
+          "summary": "⬆ 4,458 upvotes · 💬 773 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -82,9 +82,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 93.93,
-      "attention_focus_score": 91.43,
-      "item_count": 19,
+      "topic_score": 91.81,
+      "attention_focus_score": 89.31,
+      "item_count": 18,
       "source_count": 6,
       "platform_count": 5,
       "sources": [
@@ -107,7 +107,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,384 upvotes · 💬 297 comments · r/worldnews",
+          "summary": "⬆ 5,386 upvotes · 💬 297 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -117,7 +117,7 @@
           "source": "reddit_worldnews",
           "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv048l/trump_demands_others_help_secure_strait_of_hormuz/",
-          "summary": "⬆ 27,550 upvotes · 💬 2,053 comments · r/worldnews",
+          "summary": "⬆ 27,561 upvotes · 💬 2,054 comments · r/worldnews",
           "published_at": "2026-03-16 04:44:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -127,7 +127,7 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 12,777 upvotes · 💬 466 comments · r/news",
+          "summary": "⬆ 12,795 upvotes · 💬 466 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -137,7 +137,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 5,964 upvotes · 💬 930 comments · r/worldnews",
+          "summary": "⬆ 5,980 upvotes · 💬 931 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -147,7 +147,7 @@
           "source": "reddit_worldnews",
           "title": "Greece will not engage in military operations at Hormuz Strait, says government official",
           "url": "https://www.reddit.com/r/worldnews/comments/1rva1lh/greece_will_not_engage_in_military_operations_at/",
-          "summary": "⬆ 2,249 upvotes · 💬 81 comments · r/worldnews",
+          "summary": "⬆ 2,250 upvotes · 💬 81 comments · r/worldnews",
           "published_at": "2026-03-16 13:52:40+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -223,23 +223,35 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 6.48,
-      "attention_focus_score": 6.48,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
+      "topic_score": 18.58,
+      "attention_focus_score": 18.08,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
       "sources": [
+        "cnbc",
         "reddit_worldnews"
       ],
       "platforms": [
+        "cnbc",
         "reddit"
       ],
       "top_items": [
         {
+          "source": "cnbc",
+          "title": "Australia central bank raises rates to a near 1-year high as inflation stays elevated",
+          "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
+          "summary": "The 25 basis points hike was in line with expectations from analysts polled by Reuters",
+          "published_at": "2026-03-17 03:42:56+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.8
+        },
+        {
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 2,057 upvotes · 💬 97 comments · r/worldnews",
+          "summary": "⬆ 2,083 upvotes · 💬 97 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -442,6 +454,23 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "everyday_economy",
+      "event": "Australia central bank raises rates to a near 1-year high as inflation stays elevated",
+      "gravity_score": 7.8,
+      "priority_score": 9.8,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
+      "platforms_discussing": [
+        "cnbc",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -527,24 +556,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "fashion",
-      "event": "\"Mori girl\" aesthetic revival surging — linen layers, cottagecore accessories trending among Gen Z",
-      "gravity_score": 8.3,
-      "priority_score": 8.3,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Fashion industry reports / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -686,6 +697,20 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "lakers score",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "prisoners",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "kevin durant",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -700,27 +725,21 @@
       },
       {
         "topic": "trending",
-        "title": "victor wembanyama",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
         "title": "carter bryant",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "alex rodriguez",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
+      {
+        "topic": "everyday_economy",
+        "title": "[CNBC] Australia central bank raises rates to a near 1-year high as inflation stays elevated",
+        "score": 7.8,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
+        "source_label": "CNBC"
+      },
       {
         "topic": "crypto",
         "title": "[CoinDesk] T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
@@ -752,14 +771,6 @@
         "source": "bbc_world",
         "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
         "source_label": "BBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[CNBC] White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
-        "score": 4.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
-        "source_label": "CNBC"
       }
     ]
   }
