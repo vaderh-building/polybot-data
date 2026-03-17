@@ -1,18 +1,17 @@
 {
-  "generated_at_utc": "2026-03-17T08:39:35.591618+00:00",
+  "generated_at_utc": "2026-03-17T09:11:58.142403+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 132.81,
-      "attention_focus_score": 129.31,
+      "topic_score": 134.96,
+      "attention_focus_score": 131.96,
       "item_count": 31,
-      "source_count": 8,
-      "platform_count": 7,
+      "source_count": 7,
+      "platform_count": 6,
       "sources": [
         "bbc_top",
         "cnbc",
         "coindesk",
-        "npr_news",
         "politico",
         "reddit_news",
         "reddit_politics",
@@ -22,7 +21,6 @@
         "bbc",
         "cnbc",
         "coindesk",
-        "npr",
         "politico",
         "reddit",
         "thehill"
@@ -32,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Major White House Split Leaks as Trump’s War Spirals",
           "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
-          "summary": "⬆ 17,053 upvotes · 💬 1,470 comments · r/politics",
+          "summary": "⬆ 17,098 upvotes · 💬 1,471 comments · r/politics",
           "published_at": "2026-03-16 15:32:47+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -42,11 +40,21 @@
           "source": "reddit_news",
           "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
           "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 4,898 upvotes · 💬 804 comments · r/news",
+          "summary": "⬆ 4,916 upvotes · 💬 804 comments · r/news",
           "published_at": "2026-03-16 16:16:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
+        },
+        {
+          "source": "politico",
+          "title": "AIPAC faces its biggest test this year in Illinois",
+          "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
+          "summary": "The group has taken a sharp tactical shift in several House races as it weathers Democrats’ souring views of Israel — and of AIPAC itself.",
+          "published_at": "2026-03-17 08:45:00+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
         },
         {
           "source": "cnbc",
@@ -67,23 +75,13 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 4.5
-        },
-        {
-          "source": "politico",
-          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
-          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
-          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
-          "published_at": "2026-03-12 08:45:00+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 85.0,
-      "attention_focus_score": 85.0,
+      "topic_score": 84.5,
+      "attention_focus_score": 84.5,
       "item_count": 23,
       "source_count": 1,
       "platform_count": 1,
@@ -148,14 +146,15 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 74.83,
-      "attention_focus_score": 72.83,
-      "item_count": 15,
-      "source_count": 5,
-      "platform_count": 4,
+      "topic_score": 74.31,
+      "attention_focus_score": 71.81,
+      "item_count": 14,
+      "source_count": 6,
+      "platform_count": 5,
       "sources": [
         "bbc_top",
         "cnbc",
+        "npr_news",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -163,6 +162,7 @@
       "platforms": [
         "bbc",
         "cnbc",
+        "npr",
         "reddit",
         "thehill"
       ],
@@ -171,7 +171,7 @@
           "source": "reddit_worldnews",
           "title": "German foreign minister does not see role for NATO in Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
-          "summary": "⬆ 5,580 upvotes · 💬 302 comments · r/worldnews",
+          "summary": "⬆ 5,590 upvotes · 💬 304 comments · r/worldnews",
           "published_at": "2026-03-16 10:38:53+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -181,17 +181,27 @@
           "source": "reddit_news",
           "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
           "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
-          "summary": "⬆ 13,221 upvotes · 💬 470 comments · r/news",
+          "summary": "⬆ 13,251 upvotes · 💬 470 comments · r/news",
           "published_at": "2026-03-16 12:46:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
+          "source": "cnbc",
+          "title": "Oil jumps 4% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
+          "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+          "summary": "Oil prices jumped 4% on Tuesday as uncertainty lingered over a U.S.-led coalition to protect shipping through the Strait of Hormuz.",
+          "published_at": "2026-03-17 08:44:48+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
           "source": "reddit_worldnews",
           "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
           "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
-          "summary": "⬆ 6,380 upvotes · 💬 957 comments · r/worldnews",
+          "summary": "⬆ 6,399 upvotes · 💬 958 comments · r/worldnews",
           "published_at": "2026-03-16 12:53:02+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -201,21 +211,11 @@
           "source": "reddit_worldnews",
           "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvi4hz/european_countries_reject_trumps_call_for_help_to/",
-          "summary": "⬆ 1,796 upvotes · 💬 234 comments · r/worldnews",
+          "summary": "⬆ 1,823 upvotes · 💬 235 comments · r/worldnews",
           "published_at": "2026-03-16 18:41:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.75
-        },
-        {
-          "source": "bbc_top",
-          "title": "Trump 'not happy' with UK response to Iran conflict",
-          "url": "https://www.bbc.com/news/articles/cp816jwg411o?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes after Sir Keir Starmer said the UK was working with allies on a plan to protect the Strait of Hormuz.",
-          "published_at": "2026-03-17 08:25:53+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.5
         }
       ]
     },
@@ -239,7 +239,7 @@
           "source": "reddit_worldnews",
           "title": "Venezuela’s 600% inflation undercuts Trump’s boasts of revival",
           "url": "https://www.reddit.com/r/worldnews/comments/1rvgs6n/venezuelas_600_inflation_undercuts_trumps_boasts/",
-          "summary": "⬆ 2,538 upvotes · 💬 105 comments · r/worldnews",
+          "summary": "⬆ 2,560 upvotes · 💬 106 comments · r/worldnews",
           "published_at": "2026-03-16 17:54:20+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -275,37 +275,11 @@
           "source": "reddit_all",
           "title": "Punch found a girlfriend and you’re still single.",
           "url": "https://www.reddit.com/r/funny/comments/1rvwe3b/punch_found_a_girlfriend_and_youre_still_single/",
-          "summary": "⬆ 12,613 upvotes · 💬 232 comments · r/all",
+          "summary": "⬆ 13,781 upvotes · 💬 243 comments · r/all",
           "published_at": "2026-03-17 04:07:41+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
           "gravity_score": 10.51
-        }
-      ]
-    },
-    {
-      "topic": "reality_tv",
-      "topic_score": 7.05,
-      "attention_focus_score": 7.05,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "google_trends_us_daily"
-      ],
-      "platforms": [
-        "google_trends"
-      ],
-      "top_items": [
-        {
-          "source": "google_trends_us_daily",
-          "title": "landman season 3",
-          "url": "https://trends.google.com/trending/rss?geo=US",
-          "summary": "",
-          "published_at": "2026-03-17 07:40:00+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 6.41
         }
       ]
     }
@@ -315,7 +289,7 @@
       "topic": "politics",
       "event": "Major White House Split Leaks as Trump’s War Spirals",
       "gravity_score": 8.25,
-      "priority_score": 20.25,
+      "priority_score": 18.25,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rvcq2b/major_white_house_split_leaks_as_trumps_war/",
@@ -323,7 +297,6 @@
         "bbc",
         "cnbc",
         "coindesk",
-        "npr",
         "politico",
         "reddit",
         "thehill"
@@ -338,7 +311,7 @@
       "topic": "politics",
       "event": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
       "gravity_score": 7.25,
-      "priority_score": 19.25,
+      "priority_score": 17.25,
       "source_platform": "reddit_news",
       "source_label": "",
       "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
@@ -346,7 +319,6 @@
         "bbc",
         "cnbc",
         "coindesk",
-        "npr",
         "politico",
         "reddit",
         "thehill"
@@ -361,26 +333,24 @@
     },
     {
       "topic": "politics",
-      "event": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
-      "gravity_score": 4.5,
-      "priority_score": 16.5,
-      "source_platform": "cnbc",
+      "event": "AIPAC faces its biggest test this year in Illinois",
+      "gravity_score": 6.0,
+      "priority_score": 16.0,
+      "source_platform": "politico",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+      "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
       "platforms_discussing": [
         "bbc",
         "cnbc",
         "coindesk",
-        "npr",
         "politico",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will this person step down from their role within 30 days?",
-        "Will this trigger a formal succession/replacement announcement?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -388,13 +358,14 @@
       "topic": "geopolitics",
       "event": "German foreign minister does not see role for NATO in Strait of Hormuz",
       "gravity_score": 7.25,
-      "priority_score": 13.25,
+      "priority_score": 15.25,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rv5yru/german_foreign_minister_does_not_see_role_for/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
+        "npr",
         "reddit",
         "thehill"
       ],
@@ -410,13 +381,14 @@
       "topic": "geopolitics",
       "event": "3,800 workers are on strike at one of the largest meatpacking plants in the US",
       "gravity_score": 6.75,
-      "priority_score": 12.75,
+      "priority_score": 14.75,
       "source_platform": "reddit_news",
       "source_label": "",
       "url": "https://www.reddit.com/r/news/comments/1rv8gnr/3800_workers_are_on_strike_at_one_of_the_largest/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
+        "npr",
         "reddit",
         "thehill"
       ],
@@ -428,15 +400,16 @@
     },
     {
       "topic": "geopolitics",
-      "event": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent",
-      "gravity_score": 5.75,
-      "priority_score": 11.75,
-      "source_platform": "reddit_worldnews",
+      "event": "Oil jumps 4% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rv8ln1/us_is_allowing_iranian_tankers_through_strait_of/",
+      "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
+        "npr",
         "reddit",
         "thehill"
       ],
@@ -444,7 +417,7 @@
         "Will any NATO ally actually send warships within 30 days?",
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
         "Will Iran follow through and restrict shipping in the strait?",
-        "Will the US or allies conduct a military strike?"
+        "Will crude oil close above/below a specific price within 14 days?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -693,41 +666,57 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "insurance",
+        "title": "ali larijani",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "power outage near me",
+        "title": "closings and delays",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "arc raiders",
+        "title": "school closing and delays",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "criminal defense lawyer",
+        "title": "1",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "latest news",
+        "title": "bronny james",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
+      {
+        "topic": "geopolitics",
+        "title": "[CNBC] Oil jumps 4% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[Politico] AIPAC faces its biggest test this year in Illinois",
+        "score": 6.0,
+        "source": "politico",
+        "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
+        "source_label": "Politico"
+      },
       {
         "topic": "crypto",
         "title": "[CoinDesk] T. Rowe Price is ready to put dogecoin, shiba inu among tokens in its new crypto ETF",
@@ -751,22 +740,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
-        "score": 4.55,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "[BBC] Trump 'not happy' with UK response to Iran conflict",
-        "score": 4.5,
-        "source": "bbc_top",
-        "url": "https://www.bbc.com/news/articles/cp816jwg411o?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
       }
     ]
   }
