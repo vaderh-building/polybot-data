@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T19:00:15.866310+00:00",
+  "generated_at_utc": "2026-03-17T19:02:23.874107+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 161.87,
-      "attention_focus_score": 158.87,
+      "topic_score": 160.78,
+      "attention_focus_score": 157.78,
       "item_count": 38,
       "source_count": 7,
       "platform_count": 5,
@@ -26,24 +26,24 @@
       ],
       "top_items": [
         {
-          "source": "reddit_news",
-          "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
-          "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 2,224 upvotes · 💬 69 comments · r/news",
-          "published_at": "2026-03-17 18:31:22+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 7.75
-        },
-        {
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 11,006 upvotes · 💬 1,135 comments · r/all",
+          "summary": "⬆ 11,073 upvotes · 💬 1,143 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 7.25
+        },
+        {
+          "source": "reddit_news",
+          "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
+          "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
+          "summary": "⬆ 2,379 upvotes · 💬 71 comments · r/news",
+          "published_at": "2026-03-17 18:31:22+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
         },
         {
           "source": "coindesk",
@@ -79,16 +79,15 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 92.84,
-      "attention_focus_score": 89.84,
+      "topic_score": 91.28,
+      "attention_focus_score": 88.78,
       "item_count": 21,
-      "source_count": 7,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
-        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -102,10 +101,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 14,079 upvotes · 💬 838 comments · r/all",
+          "summary": "⬆ 14,176 upvotes · 💬 844 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -115,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 3,965 upvotes · 💬 746 comments · r/worldnews",
+          "summary": "⬆ 4,006 upvotes · 💬 748 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -125,7 +124,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,844 upvotes · 💬 95 comments · r/worldnews",
+          "summary": "⬆ 2,861 upvotes · 💬 96 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -142,22 +141,22 @@
           "gravity_score": 5.0
         },
         {
-          "source": "cnbc",
-          "title": "Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
-          "url": "https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html",
-          "summary": "Trump, a longtime NATO critic, said he sees the alliance as a \"one way street — We will protect them, but they will do nothing for us.\"",
-          "published_at": "2026-03-17 18:01:11+00:00",
+          "source": "bbc_world",
+          "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+          "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+          "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
+          "published_at": "2026-03-17 18:45:54+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.0
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 78.46,
-      "attention_focus_score": 77.46,
-      "item_count": 19,
+      "topic_score": 75.21,
+      "attention_focus_score": 74.21,
+      "item_count": 18,
       "source_count": 3,
       "platform_count": 3,
       "sources": [
@@ -225,13 +224,14 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 26.79,
-      "attention_focus_score": 25.29,
-      "item_count": 4,
-      "source_count": 4,
+      "topic_score": 36.86,
+      "attention_focus_score": 34.86,
+      "item_count": 5,
+      "source_count": 5,
       "platform_count": 3,
       "sources": [
         "google_trends_us_daily",
+        "reddit_all",
         "reddit_popculturechat",
         "reddit_worldnews",
         "thehill"
@@ -243,10 +243,20 @@
       ],
       "top_items": [
         {
+          "source": "reddit_all",
+          "title": "Kid has the survival instincts of a kid, and the mom got a reality check.",
+          "url": "https://www.reddit.com/r/SipsTea/comments/1rwcjj6/kid_has_the_survival_instincts_of_a_kid_and_the/",
+          "summary": "⬆ 5,165 upvotes · 💬 279 comments · r/all",
+          "published_at": "2026-03-17 17:07:13+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 9.11
+        },
+        {
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,741 upvotes · 💬 508 comments · r/worldnews",
+          "summary": "⬆ 4,753 upvotes · 💬 509 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -340,28 +350,6 @@
   "market_suggestions": [
     {
       "topic": "politics",
-      "event": "US House panel subpoenas Attorney General Bondi in Epstein probe",
-      "gravity_score": 7.75,
-      "priority_score": 15.75,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
       "event": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are…",
       "gravity_score": 7.25,
       "priority_score": 15.25,
@@ -387,7 +375,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -403,6 +391,28 @@
         "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "politics",
+      "event": "US House panel subpoenas Attorney General Bondi in Epstein probe",
+      "gravity_score": 6.75,
+      "priority_score": 14.75,
+      "source_platform": "reddit_news",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "politics",
@@ -471,6 +481,26 @@
         "Will this trigger a measurable price move (>5%) in the related asset?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Kid has the survival instincts of a kid, and the mom got a reality check.",
+      "gravity_score": 9.11,
+      "priority_score": 13.11,
+      "source_platform": "reddit_all",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/SipsTea/comments/1rwcjj6/kid_has_the_survival_instincts_of_a_kid_and_the/",
+      "platforms_discussing": [
+        "google_trends",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "reality_tv",
@@ -567,29 +597,17 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
-      "topic": "crypto",
-      "event": "Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
-      "gravity_score": 5.0,
-      "priority_score": 9.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     }
   ],
   "platform_snapshots": {
     "Reddit": [
+      {
+        "topic": "reality_tv",
+        "title": "Kid has the survival instincts of a kid, and the mom got a reality check.",
+        "score": 9.11,
+        "source": "reddit_all",
+        "url": "https://www.reddit.com/r/SipsTea/comments/1rwcjj6/kid_has_the_survival_instincts_of_a_kid_and_the/"
+      },
       {
         "topic": "reality_tv",
         "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
@@ -598,17 +616,10 @@
         "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/"
       },
       {
-        "topic": "politics",
-        "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
-        "score": 7.75,
-        "source": "reddit_news",
-        "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/"
-      },
-      {
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_all",
+        "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -619,11 +630,11 @@
         "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/"
       },
       {
-        "topic": "geopolitics",
-        "title": "NATO countries don't want to get involved in Iran operation, Trump says",
-        "score": 6.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
+        "topic": "politics",
+        "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
+        "score": 6.75,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/"
       }
     ],
     "X": [
@@ -795,12 +806,12 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "geopolitics",
-        "title": "[CNBC] Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
+        "topic": "crypto",
+        "title": "[CoinDesk] Facing a crisis, Bitcoin treasury companies need to pivot to survive",
         "score": 5.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html",
-        "source_label": "CNBC"
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
+        "source_label": "CoinDesk"
       }
     ]
   }
