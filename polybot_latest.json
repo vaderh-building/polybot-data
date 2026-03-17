@@ -1,24 +1,22 @@
 {
-  "generated_at_utc": "2026-03-17T16:02:17.582501+00:00",
+  "generated_at_utc": "2026-03-17T16:35:19.189503+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 140.33,
-      "attention_focus_score": 137.33,
-      "item_count": 35,
-      "source_count": 7,
-      "platform_count": 6,
+      "topic_score": 147.47,
+      "attention_focus_score": 144.97,
+      "item_count": 36,
+      "source_count": 6,
+      "platform_count": 5,
       "sources": [
-        "bbc_top",
         "cnbc",
         "coindesk",
         "politico",
         "reddit_all",
-        "reddit_news",
+        "reddit_politics",
         "thehill"
       ],
       "platforms": [
-        "bbc",
         "cnbc",
         "coindesk",
         "politico",
@@ -26,26 +24,6 @@
         "thehill"
       ],
       "top_items": [
-        {
-          "source": "thehill",
-          "title": "White House reviews Democratic offer to reopen Homeland Security",
-          "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
-          "summary": "White House negotiators are reviewing a Democratic proposal to fund and reopen the Department of Homeland Security,&#160;but the talks are inching along and Senate Majority Leader John Thune (R-S.D.) said Democrats aren’t serious about getting a deal soon. The White House submitted its last offer to Senate Democrats more than two weeks ago,&#160;and Democrats didn’t&#8230;",
-          "published_at": "2026-03-17 15:38:08+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 7.5
-        },
-        {
-          "source": "reddit_news",
-          "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
-          "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-          "summary": "⬆ 5,174 upvotes · 💬 845 comments · r/news",
-          "published_at": "2026-03-16 16:16:42+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 7.25
-        },
         {
           "source": "coindesk",
           "title": "U.S. Democrats target government officials gaming prediction markets on war action",
@@ -57,31 +35,51 @@
           "gravity_score": 6.5
         },
         {
+          "source": "thehill",
+          "title": "White House reviews Democratic offer to reopen Homeland Security",
+          "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
+          "summary": "White House negotiators are reviewing a Democratic proposal to fund and reopen the Department of Homeland Security,&#160;but the talks are inching along and Senate Majority Leader John Thune (R-S.D.) said Democrats aren’t serious about getting a deal soon. The White House submitted its last offer to Senate Democrats more than two weeks ago,&#160;and Democrats didn’t&#8230;",
+          "published_at": "2026-03-17 15:38:08+00:00",
+          "topic": "politics",
+          "keyword_hits": 3,
+          "gravity_score": 6.5
+        },
+        {
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 5,541 upvotes · 💬 632 comments · r/all",
+          "summary": "⬆ 6,985 upvotes · 💬 762 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.25
         },
         {
-          "source": "thehill",
-          "title": "Trump says he’ll never endorse anyone who votes against SAVE Act",
-          "url": "https://thehill.com/homenews/administration/5787459-trump-pressures-republicans-vote/",
-          "summary": "President Trump vowed to withhold his endorsement from any lawmakers who do not vote for the Safeguard American Voter Eligibility Act (SAVE) Act ahead of a Senate procedural vote on the legislation on Tuesday. “Only sick, demented, or deranged people in the House or Senate could vote against THE SAVE AMERICA ACT,” Trump wrote in&#8230;",
-          "published_at": "2026-03-17 13:33:02+00:00",
+          "source": "cnbc",
+          "title": "Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
+          "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
+          "summary": "The Department of Homeland Security shutdown has caused pileups in airport security lines across the country.",
+          "published_at": "2026-03-17 16:38:55+00:00",
           "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 5.0
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "thehill",
+          "title": "Lieu wants Trump to send Hassett to every swing district to talk economy",
+          "url": "https://thehill.com/homenews/house/5787816-lieu-trump-kevin-hassett-economy/",
+          "summary": "A top House Democrat is calling on the White House to send National Economic Council Director Kevin Hassett to swing districts around the country to talk about the administration’s approach to consumer prices.&#160; Hassett on Tuesday made waves when&#160;he told CNBC&#160;that the economic squeeze on consumers caused by the U.S.-Israel attacks on Iran is “the&#8230;",
+          "published_at": "2026-03-17 16:35:24+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 87.41,
-      "attention_focus_score": 86.91,
+      "topic_score": 90.22,
+      "attention_focus_score": 89.72,
       "item_count": 19,
       "source_count": 2,
       "platform_count": 2,
@@ -96,13 +94,23 @@
       "top_items": [
         {
           "source": "coindesk",
+          "title": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
+          "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
+          "summary": "Here, Wellener offers tactics that firms must use to prove they’re more than just a crypto play.",
+          "published_at": "2026-03-17 16:30:00+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 7.5
+        },
+        {
+          "source": "coindesk",
           "title": "Strategy’s latest massive bitcoin purchase offers insight into its evolving funding model",
           "url": "https://www.coindesk.com/markets/2026/03/17/strategy-s-massive-bitcoin-purchase-offers-insight-into-its-evolving-funding-model",
           "summary": "A $1.18 billion preferred stock raise, roughly equivalent to 16,800 BTC, signals a shift away from common stock as dividend obligations top $1 billion.",
           "published_at": "2026-03-17 15:44:01+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
-          "gravity_score": 6.0
+          "gravity_score": 5.0
         },
         {
           "source": "coindesk",
@@ -112,7 +120,7 @@
           "published_at": "2026-03-17 14:15:09+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 5.5
+          "gravity_score": 5.0
         },
         {
           "source": "coindesk",
@@ -133,31 +141,21 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
-          "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
-          "summary": "Ether jumped 13%, XRP surged 11%, and solana gained 9.7% over seven days as $767 million in ETF inflows and ceasefire speculation fueled the broadest rally since before the war.",
-          "published_at": "2026-03-17 06:21:09+00:00",
-          "topic": "crypto",
-          "keyword_hits": 3,
-          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 67.92,
-      "attention_focus_score": 64.92,
-      "item_count": 14,
+      "topic_score": 85.42,
+      "attention_focus_score": 82.42,
+      "item_count": 18,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
-        "bbc_top",
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -171,61 +169,61 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,514 upvotes · 💬 233 comments · r/worldnews",
+          "summary": "⬆ 5,857 upvotes · 💬 424 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
-          "source": "cnbc",
-          "title": "Oil prices top $102 as U.S. allies reluctant to escort tankers in Strait of Hormuz",
-          "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
-          "summary": "Oil prices pared gains on Tuesday as uncertainty lingered over a U.S.-led coalition to protect shipping through the Strait of Hormuz.",
-          "published_at": "2026-03-17 15:59:49+00:00",
+          "source": "reddit_worldnews",
+          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+          "summary": "⬆ 371 upvotes · 💬 119 comments · r/worldnews",
+          "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "cnbc",
-          "title": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
-          "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
-          "summary": "Fuel prices are likely to keep rising until crude oil flows through the Strait of Hormuz return to normal.",
-          "published_at": "2026-03-17 15:04:07+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
+          "gravity_score": 6.75
         },
         {
           "source": "reddit_worldnews",
-          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 1,420 upvotes · 💬 52 comments · r/worldnews",
-          "published_at": "2026-03-17 13:18:21+00:00",
+          "title": "European Union rejects Trump's calls for military deployments to reopen Strait of Hormuz",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwa9fm/european_union_rejects_trumps_calls_for_military/",
+          "summary": "⬆ 156 upvotes · 💬 39 comments · r/worldnews",
+          "published_at": "2026-03-17 15:47:24+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 4.25
+          "gravity_score": 4.75
         },
         {
-          "source": "reddit_news",
-          "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
-          "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
-          "summary": "⬆ 543 upvotes · 💬 38 comments · r/news",
-          "published_at": "2026-03-17 13:14:15+00:00",
+          "source": "bbc_world",
+          "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
+          "url": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
+          "summary": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution.",
+          "published_at": "2026-03-17 16:10:06+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 4.25
+          "gravity_score": 4.5
+        },
+        {
+          "source": "bbc_world",
+          "title": "What have US allies and China said about sending ships to the Strait of Hormuz?",
+          "url": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
+          "summary": "US allies have either pushed back or remained cautious on Trump's initial request to send ships to the crucial oil route.",
+          "published_at": "2026-03-17 16:35:29+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 18.7,
-      "attention_focus_score": 17.7,
+      "topic_score": 17.32,
+      "attention_focus_score": 16.32,
       "item_count": 3,
       "source_count": 3,
       "platform_count": 2,
@@ -243,7 +241,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 3,834 upvotes · 💬 414 comments · r/worldnews",
+          "summary": "⬆ 4,119 upvotes · 💬 438 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -253,11 +251,11 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 129 upvotes · 💬 12 comments · r/popculturechat",
+          "summary": "⬆ 186 upvotes · 💬 14 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 6.41
+          "gravity_score": 5.06
         },
         {
           "source": "thehill",
@@ -273,8 +271,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 14.9,
-      "attention_focus_score": 14.4,
+      "topic_score": 14.17,
+      "attention_focus_score": 13.67,
       "item_count": 3,
       "source_count": 2,
       "platform_count": 2,
@@ -295,7 +293,7 @@
           "published_at": "2026-03-17 14:02:42+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 5.2
+          "gravity_score": 4.55
         },
         {
           "source": "thehill",
@@ -320,35 +318,9 @@
       ]
     },
     {
-      "topic": "music_charts",
-      "topic_score": 7.58,
-      "attention_focus_score": 7.58,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "google_trends_us_daily"
-      ],
-      "platforms": [
-        "google_trends"
-      ],
-      "top_items": [
-        {
-          "source": "google_trends_us_daily",
-          "title": "broncos depth chart",
-          "url": "https://trends.google.com/trending/rss?geo=US",
-          "summary": "",
-          "published_at": "2026-03-17 15:20:00+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 6.89
-        }
-      ]
-    },
-    {
       "topic": "social_virality",
-      "topic_score": 4.8,
-      "attention_focus_score": 4.8,
+      "topic_score": 4.2,
+      "attention_focus_score": 4.2,
       "item_count": 1,
       "source_count": 1,
       "platform_count": 1,
@@ -367,89 +339,18 @@
           "published_at": "2026-03-17 14:29:29+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
-          "gravity_score": 4.8
+          "gravity_score": 4.2
         }
       ]
     }
   ],
   "market_suggestions": [
     {
-      "topic": "politics",
-      "event": "White House reviews Democratic offer to reopen Homeland Security",
-      "gravity_score": 7.5,
-      "priority_score": 17.5,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will the SEC approve or reject the filing by the stated deadline?",
-        "Will this trigger a measurable price move (>5%) in the related asset?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
-      "gravity_score": 7.25,
-      "priority_score": 17.25,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will this person step down from their role within 30 days?",
-        "Will this trigger a formal succession/replacement announcement?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "U.S. Democrats target government officials gaming prediction markets on war action",
-      "gravity_score": 6.5,
-      "priority_score": 16.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
       "topic": "geopolitics",
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 6.75,
       "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -468,12 +369,102 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Oil prices top $102 as U.S. allies reluctant to escort tankers in Strait of Hormuz",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "cnbc",
+      "event": "NATO countries don't want to get involved in Iran operation, Trump says",
+      "gravity_score": 6.75,
+      "priority_score": 14.75,
+      "source_platform": "reddit_worldnews",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a specific member state publicly commit troops or assets?",
+        "Will an emergency NATO summit be convened within 30 days?",
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "politics",
+      "event": "U.S. Democrats target government officials gaming prediction markets on war action",
+      "gravity_score": 6.5,
+      "priority_score": 14.5,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "White House reviews Democratic offer to reopen Homeland Security",
+      "gravity_score": 6.5,
+      "priority_score": 14.5,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?",
+        "Will the SEC approve or reject the filing by the stated deadline?",
+        "Will this trigger a measurable price move (>5%) in the related asset?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are…",
+      "gravity_score": 6.25,
+      "priority_score": 14.25,
+      "source_platform": "reddit_all",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "European Union rejects Trump's calls for military deployments to reopen Strait of Hormuz",
+      "gravity_score": 4.75,
+      "priority_score": 12.75,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rwa9fm/european_union_rejects_trumps_calls_for_military/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -484,33 +475,27 @@
       "debatable_angles": [
         "Will any NATO ally actually send warships within 30 days?",
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?",
-        "Will crude oil close above/below a specific price within 14 days?"
+        "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "geopolitics",
-      "event": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
-      "gravity_score": 5.0,
-      "priority_score": 13.0,
-      "source_platform": "cnbc",
+      "topic": "crypto",
+      "event": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
+      "gravity_score": 7.5,
+      "priority_score": 9.5,
+      "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
+      "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
       "platforms_discussing": [
-        "bbc",
         "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
+        "coindesk"
       ],
       "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will crude oil close above/below a specific price within 14 days?"
+        "Will BTC close above/below a specific price level within 14 days?",
+        "Will institutional inflows (ETF) exceed a measurable threshold?"
       ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "social_virality",
@@ -599,42 +584,23 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "Ejae's looks through the award season",
-      "gravity_score": 6.41,
-      "priority_score": 8.41,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-      "platforms_discussing": [
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
     }
   ],
   "platform_snapshots": {
     "Reddit": [
       {
-        "topic": "politics",
-        "title": "White House chief of staff Susie Wiles diagnosed with breast cancer, Trump says",
-        "score": 7.25,
-        "source": "reddit_news",
-        "url": "https://www.reddit.com/r/news/comments/1rvdyg9/white_house_chief_of_staff_susie_wiles_diagnosed/"
-      },
-      {
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 6.75,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+        "score": 6.75,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
       },
       {
         "topic": "reality_tv",
@@ -644,18 +610,18 @@
         "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/"
       },
       {
-        "topic": "reality_tv",
-        "title": "Ejae's looks through the award season",
-        "score": 6.41,
-        "source": "reddit_popculturechat",
-        "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/"
-      },
-      {
         "topic": "politics",
         "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
         "score": 6.25,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "Ejae's looks through the award season",
+        "score": 5.06,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/"
       }
     ],
     "X": [
@@ -759,35 +725,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "aj brown",
+        "title": "fenerbahçe vs gaziantep",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "bo nix",
+        "title": "hollywood brown",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "malik willis contract",
+        "title": "taoiseach",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "luca van assche",
+        "title": "usmnt",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "devon achane",
+        "title": "yannick hanfmann",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -795,12 +761,12 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "politics",
-        "title": "[The Hill] White House reviews Democratic offer to reopen Homeland Security",
+        "topic": "crypto",
+        "title": "[CoinDesk] Facing a crisis, Bitcoin treasury companies need to pivot to survive",
         "score": 7.5,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
-        "source_label": "The Hill"
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
+        "source_label": "CoinDesk"
       },
       {
         "topic": "politics",
@@ -811,28 +777,28 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "geopolitics",
-        "title": "[CNBC] Oil prices top $102 as U.S. allies reluctant to escort tankers in Strait of Hormuz",
+        "topic": "politics",
+        "title": "[The Hill] White House reviews Democratic offer to reopen Homeland Security",
+        "score": 6.5,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/senate/5787712-white-house-homeland-security-democrats/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
         "score": 6.0,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+        "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
         "source_label": "CNBC"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] Strategy’s latest massive bitcoin purchase offers insight into its evolving funding model",
+        "topic": "politics",
+        "title": "[The Hill] Lieu wants Trump to send Hassett to every swing district to talk economy",
         "score": 6.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/17/strategy-s-massive-bitcoin-purchase-offers-insight-into-its-evolving-funding-model",
-        "source_label": "CoinDesk"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
-        "score": 5.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
-        "source_label": "CoinDesk"
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/house/5787816-lieu-trump-kevin-hassett-economy/",
+        "source_label": "The Hill"
       }
     ]
   }
