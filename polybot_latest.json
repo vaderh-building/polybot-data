@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T23:24:00.310954+00:00",
+  "generated_at_utc": "2026-03-17T23:26:08.347594+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 199.92,
-      "attention_focus_score": 195.92,
+      "topic_score": 199.38,
+      "attention_focus_score": 195.38,
       "item_count": 45,
       "source_count": 9,
       "platform_count": 6,
@@ -32,7 +32,7 @@
           "source": "reddit_all",
           "title": "Bernie Sanders is suggesting the Epstein files be read during the filibuster on the SAVE ACT this week. Do you support reading the Epstein files on the Senate floor? 👍",
           "url": "https://www.reddit.com/r/AskSocialists/comments/1rwhjqg/bernie_sanders_is_suggesting_the_epstein_files_be/",
-          "summary": "⬆ 39,006 upvotes · 💬 812 comments · r/all",
+          "summary": "⬆ 39,366 upvotes · 💬 819 comments · r/all",
           "published_at": "2026-03-17 19:58:56+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -42,17 +42,17 @@
           "source": "reddit_all",
           "title": "Afroman defending himself today in court when the cops sued him for making a song about their raid on his house.",
           "url": "https://www.reddit.com/r/law/comments/1rwf2y7/afroman_defending_himself_today_in_court_when_the/",
-          "summary": "⬆ 34,014 upvotes · 💬 1,272 comments · r/all",
+          "summary": "⬆ 34,168 upvotes · 💬 1,274 comments · r/all",
           "published_at": "2026-03-17 18:33:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 7.25
         },
         {
-          "source": "reddit_all",
+          "source": "reddit_news",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 18,005 upvotes · 💬 371 comments · r/all",
+          "summary": "⬆ 18,100 upvotes · 💬 372 comments · r/news",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -62,7 +62,7 @@
           "source": "reddit_all",
           "title": "BREAKING: House Oversight Committee subpoenas AG Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/videos/comments/1rwh5tb/breaking_house_oversight_committee_subpoenas_ag/",
-          "summary": "⬆ 10,081 upvotes · 💬 263 comments · r/all",
+          "summary": "⬆ 10,151 upvotes · 💬 263 comments · r/all",
           "published_at": "2026-03-17 19:45:34+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -82,8 +82,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 81.73,
-      "attention_focus_score": 79.23,
+      "topic_score": 82.8,
+      "attention_focus_score": 80.3,
       "item_count": 18,
       "source_count": 6,
       "platform_count": 5,
@@ -107,8 +107,18 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 22,410 upvotes · 💬 1,186 comments · r/worldnews",
+          "summary": "⬆ 22,452 upvotes · 💬 1,187 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+          "summary": "⬆ 7,823 upvotes · 💬 1,101 comments · r/worldnews",
+          "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
@@ -117,7 +127,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 2,019 upvotes · 💬 320 comments · r/worldnews",
+          "summary": "⬆ 2,038 upvotes · 💬 321 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -125,19 +135,9 @@
         },
         {
           "source": "reddit_worldnews",
-          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 7,794 upvotes · 💬 1,101 comments · r/worldnews",
-          "published_at": "2026-03-17 16:10:33+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
-        },
-        {
-          "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 5,022 upvotes · 💬 132 comments · r/worldnews",
+          "summary": "⬆ 5,041 upvotes · 💬 132 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -147,7 +147,7 @@
           "source": "reddit_news",
           "title": "Oil prices jump as Iran warns Strait of Hormuz ‘cannot be the same’ | CNN Business",
           "url": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
-          "summary": "⬆ 1,381 upvotes · 💬 90 comments · r/news",
+          "summary": "⬆ 1,371 upvotes · 💬 90 comments · r/news",
           "published_at": "2026-03-17 13:14:15+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -247,7 +247,7 @@
           "source": "reddit_all",
           "title": "Kid has the survival instincts of a kid, and the mom got a reality check.",
           "url": "https://www.reddit.com/r/SipsTea/comments/1rwcjj6/kid_has_the_survival_instincts_of_a_kid_and_the/",
-          "summary": "⬆ 18,897 upvotes · 💬 739 comments · r/all",
+          "summary": "⬆ 18,990 upvotes · 💬 742 comments · r/all",
           "published_at": "2026-03-17 17:07:13+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -257,7 +257,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 5,610 upvotes · 💬 573 comments · r/worldnews",
+          "summary": "⬆ 5,618 upvotes · 💬 573 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -277,7 +277,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 362 upvotes · 💬 22 comments · r/popculturechat",
+          "summary": "⬆ 364 upvotes · 💬 22 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -292,32 +292,6 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.03
-        }
-      ]
-    },
-    {
-      "topic": "music_charts",
-      "topic_score": 3.62,
-      "attention_focus_score": 3.62,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "thehill"
-      ],
-      "platforms": [
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "thehill",
-          "title": "Retired general: Trump ‘completely mismanaged’ Iran war",
-          "url": "https://thehill.com/national-security/5788438-retired-general-slams-trump-iran/",
-          "summary": "A retired general on Monday accused President Trump of having &#8220;completely mismanaged&#8221; the U.S. conflict in Iran. Brig. Gen. Steven Anderson, in a guest appearance on &#8220;The Weeknight&#8221; on MS NOW, slammed the president for &#8220;single-handedly bringing about a new era in which American stature and influence is greatly reduced.&#8221; &#8220;He has completely mismanaged this&#8230;",
-          "published_at": "2026-03-17 21:25:34+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 3.62
         }
       ]
     },
@@ -344,6 +318,32 @@
           "topic": "social_virality",
           "keyword_hits": 1,
           "gravity_score": 3.6
+        }
+      ]
+    },
+    {
+      "topic": "music_charts",
+      "topic_score": 2.9,
+      "attention_focus_score": 2.9,
+      "item_count": 1,
+      "source_count": 1,
+      "platform_count": 1,
+      "sources": [
+        "thehill"
+      ],
+      "platforms": [
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "thehill",
+          "title": "Retired general: Trump ‘completely mismanaged’ Iran war",
+          "url": "https://thehill.com/national-security/5788438-retired-general-slams-trump-iran/",
+          "summary": "A retired general on Monday accused President Trump of having &#8220;completely mismanaged&#8221; the U.S. conflict in Iran. Brig. Gen. Steven Anderson, in a guest appearance on &#8220;The Weeknight&#8221; on MS NOW, slammed the president for &#8220;single-handedly bringing about a new era in which American stature and influence is greatly reduced.&#8221; &#8220;He has completely mismanaged this&#8230;",
+          "published_at": "2026-03-17 21:25:34+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 2.9
         }
       ]
     }
@@ -399,7 +399,7 @@
       "event": "US House panel subpoenas Attorney General Bondi in Epstein probe",
       "gravity_score": 7.25,
       "priority_score": 17.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_news",
       "source_label": "",
       "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
       "platforms_discussing": [
@@ -441,6 +441,29 @@
     },
     {
       "topic": "geopolitics",
+      "event": "NATO countries don't want to get involved in Iran operation, Trump says",
+      "gravity_score": 6.75,
+      "priority_score": 14.75,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a specific member state publicly commit troops or assets?",
+        "Will an emergency NATO summit be convened within 30 days?",
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
       "event": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
       "gravity_score": 6.75,
       "priority_score": 14.75,
@@ -459,29 +482,6 @@
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
         "Will Iran follow through and restrict shipping in the strait?",
         "Will a specific member state publicly commit troops or assets?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "NATO countries don't want to get involved in Iran operation, Trump says",
-      "gravity_score": 5.75,
-      "priority_score": 13.75,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -630,7 +630,7 @@
         "topic": "politics",
         "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
         "score": 7.25,
-        "source": "reddit_all",
+        "source": "reddit_news",
         "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/"
       }
     ],
