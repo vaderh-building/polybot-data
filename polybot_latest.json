@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-17T19:08:57.457340+00:00",
+  "generated_at_utc": "2026-03-17T19:11:07.617763+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 160.23,
-      "attention_focus_score": 157.23,
+      "topic_score": 159.14,
+      "attention_focus_score": 156.14,
       "item_count": 38,
       "source_count": 7,
       "platform_count": 5,
@@ -29,7 +29,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 11,218 upvotes · 💬 1,155 comments · r/all",
+          "summary": "⬆ 11,276 upvotes · 💬 1,159 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -39,7 +39,7 @@
           "source": "reddit_news",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 2,888 upvotes · 💬 79 comments · r/news",
+          "summary": "⬆ 3,042 upvotes · 💬 81 comments · r/news",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -57,16 +57,6 @@
         },
         {
           "source": "cnbc",
-          "title": "Epstein files: House panel subpoenas AG Pam Bondi for April 14 deposition",
-          "url": "https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html",
-          "summary": "The House panel wants to question Bondi about the DOJ's compliance with the Epstein Files Transparency Act, which President Donald Trump signed into law.",
-          "published_at": "2026-03-17 18:40:52+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "cnbc",
           "title": "Everything to know about the SAVE America Act voter ID-bill",
           "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
           "summary": "President Donald Trump has been pushing Congress to approve the SAVE America Act to require ID at the polls and proof of U.S. citizenship to register to vote.",
@@ -74,20 +64,31 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.5
+        },
+        {
+          "source": "cnbc",
+          "title": "Epstein files: House panel subpoenas AG Pam Bondi for April 14 deposition",
+          "url": "https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html",
+          "summary": "The House panel wants to question Bondi about the DOJ's compliance with the Epstein Files Transparency Act, which President Donald Trump signed into law.",
+          "published_at": "2026-03-17 18:40:52+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 93.93,
-      "attention_focus_score": 91.43,
-      "item_count": 21,
-      "source_count": 6,
+      "topic_score": 89.39,
+      "attention_focus_score": 86.39,
+      "item_count": 20,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -101,10 +102,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 14,467 upvotes · 💬 854 comments · r/worldnews",
+          "summary": "⬆ 14,574 upvotes · 💬 859 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -114,7 +115,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 4,139 upvotes · 💬 761 comments · r/worldnews",
+          "summary": "⬆ 4,175 upvotes · 💬 769 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -124,21 +125,11 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,917 upvotes · 💬 96 comments · r/worldnews",
+          "summary": "⬆ 2,933 upvotes · 💬 96 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.25
-        },
-        {
-          "source": "cnbc",
-          "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
-          "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
-          "summary": "Oil prices advanced on Tuesday as energy market participants monitored Middle East supply disruptions.",
-          "published_at": "2026-03-17 18:09:31+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
         },
         {
           "source": "bbc_world",
@@ -146,6 +137,16 @@
           "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
           "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
           "published_at": "2026-03-17 18:45:54+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "bbc_world",
+          "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
+          "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+          "summary": "The deaths of Larijani and the head of the paramilitary Basij force have not been confirmed by Iranian authorities.",
+          "published_at": "2026-03-17 19:07:04+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.5
@@ -224,8 +225,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 36.16,
-      "attention_focus_score": 34.16,
+      "topic_score": 34.74,
+      "attention_focus_score": 32.74,
       "item_count": 5,
       "source_count": 5,
       "platform_count": 3,
@@ -246,7 +247,7 @@
           "source": "reddit_all",
           "title": "Kid has the survival instincts of a kid, and the mom got a reality check.",
           "url": "https://www.reddit.com/r/SipsTea/comments/1rwcjj6/kid_has_the_survival_instincts_of_a_kid_and_the/",
-          "summary": "⬆ 5,503 upvotes · 💬 297 comments · r/all",
+          "summary": "⬆ 5,633 upvotes · 💬 299 comments · r/all",
           "published_at": "2026-03-17 17:07:13+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -256,7 +257,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,780 upvotes · 💬 508 comments · r/worldnews",
+          "summary": "⬆ 4,790 upvotes · 💬 509 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -270,7 +271,7 @@
           "published_at": "2026-03-17 18:10:00+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 6.41
+          "gravity_score": 5.06
         },
         {
           "source": "reddit_popculturechat",
@@ -375,7 +376,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -523,26 +524,6 @@
       "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
-      "topic": "reality_tv",
-      "event": "white lotus season 4",
-      "gravity_score": 6.41,
-      "priority_score": 10.41,
-      "source_platform": "google_trends_us_daily",
-      "source_label": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "platforms_discussing": [
-        "google_trends",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -558,6 +539,26 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "white lotus season 4",
+      "gravity_score": 5.06,
+      "priority_score": 9.06,
+      "source_platform": "google_trends_us_daily",
+      "source_label": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "platforms_discussing": [
+        "google_trends",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "crypto",
@@ -619,7 +620,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -783,14 +784,6 @@
       },
       {
         "topic": "politics",
-        "title": "[CNBC] Epstein files: House panel subpoenas AG Pam Bondi for April 14 deposition",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
         "title": "[CNBC] Everything to know about the SAVE America Act voter ID-bill",
         "score": 5.5,
         "source": "cnbc",
@@ -798,11 +791,11 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "geopolitics",
-        "title": "[CNBC] Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+        "topic": "politics",
+        "title": "[CNBC] Epstein files: House panel subpoenas AG Pam Bondi for April 14 deposition",
         "score": 5.0,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
+        "url": "https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html",
         "source_label": "CNBC"
       },
       {
@@ -811,6 +804,14 @@
         "score": 5.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
+        "score": 5.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
         "source_label": "CoinDesk"
       }
     ]
