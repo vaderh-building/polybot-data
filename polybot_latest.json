@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-17T17:54:48.364964+00:00",
+  "generated_at_utc": "2026-03-17T17:57:00.811025+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -28,7 +28,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 9,444 upvotes · 💬 996 comments · r/all",
+          "summary": "⬆ 9,504 upvotes · 💬 1,002 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -59,7 +59,7 @@
           "title": "Epstein files: House panel subpoenas AG Pam Bondi to appear for deposition",
           "url": "https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html",
           "summary": "The House panel wants to question Bondi about the DOJ's compliance with the Epstein Files Transparency Act, which President Donald Trump signed into law.",
-          "published_at": "2026-03-17 17:45:29+00:00",
+          "published_at": "2026-03-17 17:55:17+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -78,15 +78,16 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 88.62,
-      "attention_focus_score": 86.12,
+      "topic_score": 88.06,
+      "attention_focus_score": 85.06,
       "item_count": 20,
-      "source_count": 6,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -100,30 +101,20 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 11,154 upvotes · 💬 706 comments · r/worldnews",
+          "summary": "⬆ 11,292 upvotes · 💬 711 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 7.25
         },
         {
-          "source": "cnbc",
-          "title": "Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
-          "url": "https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html",
-          "summary": "Trump, a longtime NATO critic, said he sees the alliance as a \"one way street — We will protect them, but they will do nothing for us.\"",
-          "published_at": "2026-03-17 17:26:03+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 2,807 upvotes · 💬 555 comments · r/worldnews",
+          "summary": "⬆ 2,861 upvotes · 💬 561 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -133,17 +124,27 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,427 upvotes · 💬 80 comments · r/worldnews",
+          "summary": "⬆ 2,438 upvotes · 💬 82 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.25
         },
         {
+          "source": "cnbc",
+          "title": "Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
+          "url": "https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html",
+          "summary": "Trump, a longtime NATO critic, said he sees the alliance as a \"one way street — We will protect them, but they will do nothing for us.\"",
+          "published_at": "2026-03-17 17:26:03+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
+        },
+        {
           "source": "reddit_news",
           "title": "Rocket and drone attacks resume on US embassy and diplomatic facility in Baghdad, sources say",
           "url": "https://www.reddit.com/r/news/comments/1rwcswt/rocket_and_drone_attacks_resume_on_us_embassy_and/",
-          "summary": "⬆ 84 upvotes · 💬 8 comments · r/news",
+          "summary": "⬆ 86 upvotes · 💬 8 comments · r/news",
           "published_at": "2026-03-17 17:16:13+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -242,7 +243,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,520 upvotes · 💬 488 comments · r/worldnews",
+          "summary": "⬆ 4,521 upvotes · 💬 488 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -252,7 +253,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 274 upvotes · 💬 16 comments · r/popculturechat",
+          "summary": "⬆ 272 upvotes · 💬 16 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -351,7 +352,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -415,29 +416,6 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
       "event": "NATO countries don't want to get involved in Iran operation, Trump says",
       "gravity_score": 5.75,
       "priority_score": 13.75,
@@ -456,6 +434,29 @@
         "Will an emergency NATO summit be convened within 30 days?",
         "Will the US or allies conduct a military strike?",
         "Will Iran close or restrict passage through the Strait of Hormuz?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+      "gravity_score": 5.25,
+      "priority_score": 13.25,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a formal peace deal or ceasefire be signed within the stated timeframe?",
+        "Will any new country formally commit military aid?",
+        "Will the SEC approve or reject the filing by the stated deadline?",
+        "Will this trigger a measurable price move (>5%) in the related asset?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -585,7 +586,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
@@ -771,19 +772,19 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "geopolitics",
-        "title": "[CNBC] Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "politics",
         "title": "[CoinDesk] Arizona Attorney General files criminal charges against prediction market Kalshi",
         "score": 6.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/17/arizona-attorney-general-charges-kalshi-with-illegal-gambling-election-betting",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Facing a crisis, Bitcoin treasury companies need to pivot to survive",
+        "score": 5.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
         "source_label": "CoinDesk"
       }
     ]
