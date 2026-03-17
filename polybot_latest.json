@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-03-17T18:51:29.915735+00:00",
+  "generated_at_utc": "2026-03-17T18:53:37.611030+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 173.0,
-      "attention_focus_score": 169.5,
-      "item_count": 41,
-      "source_count": 8,
+      "topic_score": 166.23,
+      "attention_focus_score": 163.23,
+      "item_count": 40,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "cnbc",
@@ -15,7 +15,6 @@
         "reddit_all",
         "reddit_news",
         "reddit_politics",
-        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -30,7 +29,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 10,759 upvotes · 💬 1,118 comments · r/all",
+          "summary": "⬆ 10,824 upvotes · 💬 1,123 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -40,7 +39,7 @@
           "source": "reddit_news",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 1,367 upvotes · 💬 51 comments · r/news",
+          "summary": "⬆ 1,622 upvotes · 💬 58 comments · r/news",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -67,28 +66,29 @@
           "gravity_score": 6.0
         },
         {
-          "source": "reddit_worldnews",
-          "title": "Pyongyang elections sees 99.99% turnout as ruling party PTC wins all 687 assembly seats with 99.93% of the vote",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwf1dk/pyongyang_elections_sees_9999_turnout_as_ruling/",
-          "summary": "⬆ 163 upvotes · 💬 35 comments · r/worldnews",
-          "published_at": "2026-03-17 18:32:20+00:00",
+          "source": "cnbc",
+          "title": "Everything to know about the SAVE America Act voter ID-bill",
+          "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
+          "summary": "President Donald Trump has been pushing Congress to approve the SAVE America Act to require ID at the polls and proof of U.S. citizenship to register to vote.",
+          "published_at": "2026-03-17 17:14:26+00:00",
           "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
+          "keyword_hits": 2,
+          "gravity_score": 5.5
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 88.09,
+      "topic_score": 88.59,
       "attention_focus_score": 85.59,
       "item_count": 20,
-      "source_count": 6,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -102,10 +102,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
+          "source": "reddit_all",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 13,658 upvotes · 💬 824 comments · r/worldnews",
+          "summary": "⬆ 13,752 upvotes · 💬 829 comments · r/all",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -115,7 +115,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 3,759 upvotes · 💬 721 comments · r/worldnews",
+          "summary": "⬆ 3,820 upvotes · 💬 731 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -125,7 +125,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,779 upvotes · 💬 94 comments · r/worldnews",
+          "summary": "⬆ 2,791 upvotes · 💬 94 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -246,7 +246,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,710 upvotes · 💬 508 comments · r/worldnews",
+          "summary": "⬆ 4,724 upvotes · 💬 508 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -266,7 +266,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 301 upvotes · 💬 17 comments · r/popculturechat",
+          "summary": "⬆ 302 upvotes · 💬 17 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -365,7 +365,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -601,7 +601,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_worldnews",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
