@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-03-17T18:47:11.652449+00:00",
+  "generated_at_utc": "2026-03-17T18:49:20.213141+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 170.59,
-      "attention_focus_score": 167.59,
+      "topic_score": 174.09,
+      "attention_focus_score": 170.59,
       "item_count": 41,
-      "source_count": 7,
+      "source_count": 8,
       "platform_count": 5,
       "sources": [
         "cnbc",
@@ -15,6 +15,7 @@
         "reddit_all",
         "reddit_news",
         "reddit_politics",
+        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -29,7 +30,7 @@
           "source": "reddit_all",
           "title": "Someone brought up that one of the reasons why things like house parties and block parties went away was other than lack of time people are afraid to let their guard because cameras are everywhere.",
           "url": "https://www.reddit.com/r/Millennials/comments/1rw74pz/someone_brought_up_that_one_of_the_reasons_why/",
-          "summary": "⬆ 10,647 upvotes · 💬 1,104 comments · r/all",
+          "summary": "⬆ 10,700 upvotes · 💬 1,112 comments · r/all",
           "published_at": "2026-03-17 13:52:14+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -39,7 +40,7 @@
           "source": "reddit_news",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 856 upvotes · 💬 32 comments · r/news",
+          "summary": "⬆ 1,111 upvotes · 💬 42 comments · r/news",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -66,29 +67,28 @@
           "gravity_score": 6.0
         },
         {
-          "source": "cnbc",
-          "title": "Everything to know about the SAVE America Act voter ID-bill",
-          "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
-          "summary": "President Donald Trump has been pushing Congress to approve the SAVE America Act to require ID at the polls and proof of U.S. citizenship to register to vote.",
-          "published_at": "2026-03-17 17:14:26+00:00",
+          "source": "reddit_worldnews",
+          "title": "Pyongyang elections sees 99.99% turnout as ruling party PTC wins all 687 assembly seats with 99.93% of the vote",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwf1dk/pyongyang_elections_sees_9999_turnout_as_ruling/",
+          "summary": "⬆ 102 upvotes · 💬 26 comments · r/worldnews",
+          "published_at": "2026-03-17 18:32:20+00:00",
           "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.5
+          "keyword_hits": 1,
+          "gravity_score": 5.75
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 89.66,
-      "attention_focus_score": 86.66,
+      "topic_score": 88.09,
+      "attention_focus_score": 85.59,
       "item_count": 20,
-      "source_count": 7,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
-        "reddit_all",
         "reddit_news",
         "reddit_worldnews",
         "thehill"
@@ -102,10 +102,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 13,459 upvotes · 💬 816 comments · r/all",
+          "summary": "⬆ 13,557 upvotes · 💬 821 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -115,7 +115,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 3,668 upvotes · 💬 703 comments · r/worldnews",
+          "summary": "⬆ 3,720 upvotes · 💬 711 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -125,7 +125,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 2,751 upvotes · 💬 94 comments · r/worldnews",
+          "summary": "⬆ 2,771 upvotes · 💬 94 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -155,8 +155,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 79.0,
-      "attention_focus_score": 78.0,
+      "topic_score": 78.46,
+      "attention_focus_score": 77.46,
       "item_count": 19,
       "source_count": 3,
       "platform_count": 3,
@@ -193,16 +193,6 @@
         },
         {
           "source": "coindesk",
-          "title": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
-          "url": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
-          "summary": "The Wall Street investment bank cited slower ETF flows, weak network activity and a narrowing window for U.S. regulatory catalysts.",
-          "published_at": "2026-03-17 12:49:20+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
           "title": "Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
           "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
           "summary": "Ether jumped 13%, XRP surged 11%, and solana gained 9.7% over seven days as $767 million in ETF inflows and ceasefire speculation fueled the broadest rally since before the war.",
@@ -210,6 +200,16 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
+          "url": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
+          "summary": "The Wall Street investment bank cited slower ETF flows, weak network activity and a narrowing window for U.S. regulatory catalysts.",
+          "published_at": "2026-03-17 12:49:20+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         },
         {
           "source": "coindesk",
@@ -246,7 +246,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 4,704 upvotes · 💬 505 comments · r/worldnews",
+          "summary": "⬆ 4,706 upvotes · 💬 506 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -266,7 +266,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 302 upvotes · 💬 16 comments · r/popculturechat",
+          "summary": "⬆ 305 upvotes · 💬 17 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -365,7 +365,7 @@
       "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
       "platforms_discussing": [
@@ -570,21 +570,20 @@
     },
     {
       "topic": "crypto",
-      "event": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
+      "event": "Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
       "gravity_score": 5.0,
       "priority_score": 9.0,
       "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
+      "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will BTC close above/below a specific price level within 14 days?",
+        "Will institutional inflows (ETF) exceed a measurable threshold?"
       ],
       "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     }
@@ -602,7 +601,7 @@
         "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 7.25,
-        "source": "reddit_all",
+        "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
       },
       {
