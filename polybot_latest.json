@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T17:16:33.225455+00:00",
+  "generated_at_utc": "2026-03-18T17:18:48.800138+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 186.04,
-      "attention_focus_score": 183.04,
+      "topic_score": 187.6,
+      "attention_focus_score": 184.6,
       "item_count": 52,
       "source_count": 7,
       "platform_count": 5,
@@ -39,8 +39,18 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,250 upvotes · 💬 122 comments · r/worldnews",
+          "summary": "⬆ 4,267 upvotes · 💬 122 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.25
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
+          "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
+          "summary": "⬆ 195 upvotes · 💬 25 comments · r/politics",
+          "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.25
@@ -59,18 +69,8 @@
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,696 upvotes · 💬 394 comments · r/news",
+          "summary": "⬆ 3,695 upvotes · 💬 394 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Kim Jong-Un’s Workers' Party of Korea Wins In North Korea Election 2026 With 99.93% securing all seats in the 2026 parliamentary elections. Official figures reported that 99.99% of registered voters took part.",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwqbyg/kim_jonguns_workers_party_of_korea_wins_in_north/",
-          "summary": "⬆ 2,619 upvotes · 💬 215 comments · r/worldnews",
-          "published_at": "2026-03-18 01:35:40+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 4.75
@@ -79,8 +79,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 77.28,
-      "attention_focus_score": 76.78,
+      "topic_score": 76.16,
+      "attention_focus_score": 75.66,
       "item_count": 16,
       "source_count": 2,
       "platform_count": 2,
@@ -93,16 +93,6 @@
         "coindesk"
       ],
       "top_items": [
-        {
-          "source": "coindesk",
-          "title": "Crypto Long & Short: When price stops working, yield starts mattering",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-long-and-short-when-price-stops-working-yield-starts-mattering",
-          "summary": "In this week’s Crypto Long & Short Newsletter, Ruchir Gupta writes on how we’re moving toward a true fixed-income market for crypto-native yield. Then, Clara García Prieto on bitcoin becoming mainstream collateral, but most are not prepared for its risks.",
-          "published_at": "2026-03-18 16:17:13+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 6.5
-        },
         {
           "source": "coindesk",
           "title": "Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
@@ -122,6 +112,16 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Crypto Long & Short: When price stops working, yield starts mattering",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-long-and-short-when-price-stops-working-yield-starts-mattering",
+          "summary": "In this week’s Crypto Long & Short Newsletter, Ruchir Gupta writes on how we’re moving toward a true fixed-income market for crypto-native yield. Then, Clara García Prieto on bitcoin becoming mainstream collateral, but most are not prepared for its risks.",
+          "published_at": "2026-03-18 16:17:13+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.5
         },
         {
           "source": "coindesk",
@@ -147,8 +147,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 70.39,
-      "attention_focus_score": 68.39,
+      "topic_score": 71.78,
+      "attention_focus_score": 69.78,
       "item_count": 11,
       "source_count": 5,
       "platform_count": 5,
@@ -171,7 +171,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 7,810 upvotes · 💬 555 comments · r/politics",
+          "summary": "⬆ 7,896 upvotes · 💬 562 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -189,23 +189,23 @@
         },
         {
           "source": "reddit_politics",
+          "title": "Fox Hosts Freak Out On Air Over Trump’s Disastrous Inflation: ‘Inflation has jumped significantly under Donald Trump’",
+          "url": "https://www.reddit.com/r/politics/comments/1rx7p33/fox_hosts_freak_out_on_air_over_trumps_disastrous/",
+          "summary": "⬆ 1,826 upvotes · 💬 90 comments · r/politics",
+          "published_at": "2026-03-18 15:54:44+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.48
+        },
+        {
+          "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 2,499 upvotes · 💬 122 comments · r/politics",
+          "summary": "⬆ 2,558 upvotes · 💬 123 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 6.83
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Fox Hosts Freak Out On Air Over Trump’s Disastrous Inflation: ‘Inflation has jumped significantly under Donald Trump’",
-          "url": "https://www.reddit.com/r/politics/comments/1rx7p33/fox_hosts_freak_out_on_air_over_trumps_disastrous/",
-          "summary": "⬆ 1,709 upvotes · 💬 87 comments · r/politics",
-          "published_at": "2026-03-18 15:54:44+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.17
         },
         {
           "source": "cnbc",
@@ -244,7 +244,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,325 upvotes · 💬 368 comments · r/worldnews",
+          "summary": "⬆ 4,328 upvotes · 💬 368 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -254,7 +254,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,200 upvotes · 💬 351 comments · r/worldnews",
+          "summary": "⬆ 2,211 upvotes · 💬 351 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -314,7 +314,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,442 upvotes · 💬 476 comments · r/popculturechat",
+          "summary": "⬆ 4,441 upvotes · 💬 476 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -476,12 +476,12 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-      "gravity_score": 6.83,
-      "priority_score": 14.83,
+      "event": "Fox Hosts Freak Out On Air Over Trump’s Disastrous Inflation: ‘Inflation has jumped significantly under Donald Trump’",
+      "gravity_score": 7.48,
+      "priority_score": 15.48,
       "source_platform": "reddit_politics",
       "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
+      "url": "https://www.reddit.com/r/politics/comments/1rx7p33/fox_hosts_freak_out_on_air_over_trumps_disastrous/",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
@@ -490,8 +490,7 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
+        "Will the next CPI reading come in above/below consensus?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -557,28 +556,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "politics",
-      "event": "Watch live: The Gavel with Zach Schonfeld, Ella Lee",
-      "gravity_score": 5.0,
-      "priority_score": 13.0,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/video-clips/5789689-trump-judges-justice-department-probe/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "reality_tv",
@@ -684,6 +661,23 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "social_virality",
+      "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
+      "gravity_score": 9.2,
+      "priority_score": 9.2,
+      "source_platform": "TikTok",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "TikTok"
+      ],
+      "debatable_angles": [
+        "Will the predicted frontrunner actually win?",
+        "Will viewership exceed last year's numbers?"
+      ],
+      "verifiable_via": "Google Trends / Platform public APIs"
     }
   ],
   "platform_snapshots": {
@@ -704,6 +698,13 @@
       },
       {
         "topic": "everyday_economy",
+        "title": "Fox Hosts Freak Out On Air Over Trump’s Disastrous Inflation: ‘Inflation has jumped significantly under Donald Trump’",
+        "score": 7.48,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx7p33/fox_hosts_freak_out_on_air_over_trumps_disastrous/"
+      },
+      {
+        "topic": "everyday_economy",
         "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
         "score": 6.83,
         "source": "reddit_politics",
@@ -715,13 +716,6 @@
         "score": 6.25,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "Fox Hosts Freak Out On Air Over Trump’s Disastrous Inflation: ‘Inflation has jumped significantly under Donald Trump’",
-        "score": 6.17,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx7p33/fox_hosts_freak_out_on_air_over_trumps_disastrous/"
       }
     ],
     "X": [
@@ -886,19 +880,19 @@
       },
       {
         "topic": "crypto",
-        "title": "[CoinDesk] Crypto Long & Short: When price stops working, yield starts mattering",
-        "score": 6.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-long-and-short-when-price-stops-working-yield-starts-mattering",
-        "source_label": "CoinDesk"
-      },
-      {
-        "topic": "crypto",
         "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
         "score": 6.5,
         "source": "coindesk",
         "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
         "source_label": "CoinDesk"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
+        "score": 6.5,
+        "source": "thehill",
+        "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+        "source_label": "The Hill"
       }
     ]
   }
