@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T15:46:36.022145+00:00",
+  "generated_at_utc": "2026-03-18T15:48:46.197440+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 191.24,
-      "attention_focus_score": 188.24,
+      "topic_score": 190.72,
+      "attention_focus_score": 187.72,
       "item_count": 52,
       "source_count": 7,
       "platform_count": 5,
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,351 upvotes · 💬 109 comments · r/worldnews",
+          "summary": "⬆ 3,381 upvotes · 💬 110 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -69,7 +69,7 @@
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,611 upvotes · 💬 387 comments · r/news",
+          "summary": "⬆ 3,618 upvotes · 💬 387 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,8 +79,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 81.78,
-      "attention_focus_score": 81.28,
+      "topic_score": 83.47,
+      "attention_focus_score": 82.97,
       "item_count": 15,
       "source_count": 2,
       "platform_count": 2,
@@ -115,6 +115,16 @@
         },
         {
           "source": "coindesk",
+          "title": "Former Binance CEO CZ waves off accusations on Iran, terror ties",
+          "url": "https://www.coindesk.com/policy/2026/03/18/former-binance-ceo-cz-waves-off-accusations-on-iran-terror-ties",
+          "summary": "The founder of the world's largest exchange distanced himself from reports about Binance activity that reports had recently suggested aided terrorism.",
+          "published_at": "2026-03-18 15:48:29+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
           "title": "Trump-linked American Bitcoin's BTC holdings overtake Mike Novogratz’s Galaxy Digital",
           "url": "https://www.coindesk.com/business/2026/03/18/trump-linked-american-bitcoin-just-overtook-mike-novogratz-s-galaxy-digital-in-the-bitcoin-rankings",
           "summary": "American Bitcoin (ABTC) has climbed to become the 16th-largest bitcoin holder, with 6,899 BTC, as firms compete to build bitcoin treasuries.",
@@ -132,23 +142,13 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
-          "title": "U.S. SEC issues first-ever definitions for what crypto assets are securities",
-          "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
-          "summary": "The U.S. Securities and Exchange Commission shared the informal guidance it'll use to classify crypto securities alongside its sister agency overseeing commodities.",
-          "published_at": "2026-03-17 20:28:11+00:00",
-          "topic": "crypto",
-          "keyword_hits": 3,
-          "gravity_score": 6.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 69.78,
-      "attention_focus_score": 66.78,
+      "topic_score": 70.84,
+      "attention_focus_score": 67.84,
       "item_count": 14,
       "source_count": 7,
       "platform_count": 5,
@@ -173,7 +173,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,747 upvotes · 💬 1,459 comments · r/worldnews",
+          "summary": "⬆ 11,750 upvotes · 💬 1,461 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -191,9 +191,19 @@
         },
         {
           "source": "reddit_worldnews",
+          "title": "Strike hits South Pars, world’s largest gas field, in Iran",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
+          "summary": "⬆ 1,450 upvotes · 💬 281 comments · r/worldnews",
+          "published_at": "2026-03-18 13:09:20+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.25
+        },
+        {
+          "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,437 upvotes · 💬 173 comments · r/worldnews",
+          "summary": "⬆ 1,442 upvotes · 💬 174 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -203,18 +213,8 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 3,887 upvotes · 💬 359 comments · r/worldnews",
+          "summary": "⬆ 3,896 upvotes · 💬 359 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
-        },
-        {
-          "source": "reddit_news",
-          "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-          "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,416 upvotes · 💬 97 comments · r/news",
-          "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.75
@@ -257,7 +257,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 452 upvotes · 💬 36 comments · r/politics",
+          "summary": "⬆ 508 upvotes · 💬 39 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -267,7 +267,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 4,029 upvotes · 💬 279 comments · r/politics",
+          "summary": "⬆ 4,168 upvotes · 💬 290 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -627,12 +627,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
+      "event": "Strike hits South Pars, world’s largest gas field, in Iran",
       "gravity_score": 5.25,
       "priority_score": 13.25,
       "source_platform": "reddit_worldnews",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -641,10 +641,10 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?",
-        "Will a specific member state publicly commit troops or assets?"
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the strike last more than 14 days?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
