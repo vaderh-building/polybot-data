@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T14:51:41.174178+00:00",
+  "generated_at_utc": "2026-03-18T14:53:48.701770+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 186.04,
-      "attention_focus_score": 183.04,
-      "item_count": 49,
+      "topic_score": 190.72,
+      "attention_focus_score": 187.72,
+      "item_count": 50,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -29,7 +29,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 2,700 upvotes · 💬 101 comments · r/worldnews",
+          "summary": "⬆ 2,718 upvotes · 💬 101 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -104,7 +104,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 4,551 upvotes · 💬 501 comments · r/worldnews",
+          "summary": "⬆ 4,550 upvotes · 💬 501 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -114,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 28,003 upvotes · 💬 1,365 comments · r/worldnews",
+          "summary": "⬆ 28,009 upvotes · 💬 1,365 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -124,7 +124,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,679 upvotes · 💬 1,451 comments · r/worldnews",
+          "summary": "⬆ 11,689 upvotes · 💬 1,451 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -134,7 +134,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,414 upvotes · 💬 160 comments · r/worldnews",
+          "summary": "⬆ 1,417 upvotes · 💬 161 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -154,9 +154,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 62.09,
-      "attention_focus_score": 61.59,
-      "item_count": 13,
+      "topic_score": 68.84,
+      "attention_focus_score": 68.34,
+      "item_count": 14,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -177,6 +177,16 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 6.5
+        },
+        {
+          "source": "coindesk",
+          "title": "Bitcoin hash rate is tumbling as Iran war lifts energy prices",
+          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-hash-rate-is-tumbling-as-iran-war-lifts-energy-prices",
+          "summary": "A falling hash rate and the resultant pressure on miners could signal another potential capitulation phase, which could push prices down further",
+          "published_at": "2026-03-18 14:53:08+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
         },
         {
           "source": "coindesk",
@@ -207,23 +217,13 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
-        },
-        {
-          "source": "coindesk",
-          "title": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
-          "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
-          "summary": "Here, Wellener offers tactics that firms must use to prove they’re more than just a crypto play.",
-          "published_at": "2026-03-17 16:30:00+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 55.92,
-      "attention_focus_score": 53.92,
+      "topic_score": 57.31,
+      "attention_focus_score": 55.31,
       "item_count": 8,
       "source_count": 5,
       "platform_count": 5,
@@ -256,11 +256,11 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 1,641 upvotes · 💬 140 comments · r/politics",
+          "summary": "⬆ 1,737 upvotes · 💬 146 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 6.17
+          "gravity_score": 7.48
         },
         {
           "source": "npr_news",
@@ -316,7 +316,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,220 upvotes · 💬 461 comments · r/popculturechat",
+          "summary": "⬆ 4,227 upvotes · 💬 462 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -336,7 +336,7 @@
           "source": "reddit_popculturechat",
           "title": "Happy 32nd anniversary to The Simpsons episode ‘Homer Loves Flanders’, aka the ‘Homer disappearing into the bushes’ meme.",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwrbp7/happy_32nd_anniversary_to_the_simpsons_episode/",
-          "summary": "⬆ 357 upvotes · 💬 8 comments · r/popculturechat",
+          "summary": "⬆ 355 upvotes · 💬 8 comments · r/popculturechat",
           "published_at": "2026-03-18 02:19:36+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -429,6 +429,27 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
+      "topic": "everyday_economy",
+      "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
+      "gravity_score": 7.48,
+      "priority_score": 15.48,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
       "topic": "geopolitics",
       "event": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
       "gravity_score": 7.25,
@@ -516,27 +537,6 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-      "gravity_score": 6.17,
-      "priority_score": 14.17,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "politics",
@@ -672,6 +672,13 @@
         "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/"
       },
       {
+        "topic": "everyday_economy",
+        "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
+        "score": 7.48,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
+      },
+      {
         "topic": "geopolitics",
         "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
         "score": 7.25,
@@ -691,13 +698,6 @@
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
-      },
-      {
-        "topic": "politics",
-        "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-        "score": 6.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
       }
     ],
     "X": [
@@ -829,7 +829,7 @@
       },
       {
         "topic": "trending",
-        "title": "lite stock",
+        "title": "espn march madness",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -862,19 +862,19 @@
       },
       {
         "topic": "crypto",
+        "title": "[CoinDesk] Bitcoin hash rate is tumbling as Iran war lifts energy prices",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-hash-rate-is-tumbling-as-iran-war-lifts-energy-prices",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "crypto",
         "title": "[CoinDesk] U.S. SEC issues first-ever definitions for what crypto assets are securities",
         "score": 6.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] White House offers body camera expansion, immigration enforcement limitations in DHS reopening bid",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/administration/5789534-white-house-body-cameras-immigration-enforcement-limits-dhs-shutdown/",
-        "source_label": "The Hill"
       }
     ]
   }
