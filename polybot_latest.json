@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T18:00:04.148371+00:00",
+  "generated_at_utc": "2026-03-18T18:02:14.204344+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 196.46,
-      "attention_focus_score": 192.96,
-      "item_count": 52,
+      "topic_score": 214.2,
+      "attention_focus_score": 210.7,
+      "item_count": 55,
       "source_count": 8,
       "platform_count": 6,
       "sources": [
@@ -51,7 +51,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,663 upvotes · 💬 124 comments · r/worldnews",
+          "summary": "⬆ 4,679 upvotes · 💬 124 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -61,7 +61,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 845 upvotes · 💬 58 comments · r/politics",
+          "summary": "⬆ 902 upvotes · 💬 60 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -69,10 +69,10 @@
         },
         {
           "source": "thehill",
-          "title": "Jim Jordan reverses long-held position on spy powers, says he will back Trump extension of FISA 702",
-          "url": "https://thehill.com/homenews/house/5789874-jim-jordan-fisa-702-spy-powers/",
-          "summary": "Rep. Jim Jordan (R-Ohio), the chair of the powerful House Judiciary Committee, said he plans to support a clean extension of the nation’s warrantless surveillance powers, a reversal after he voted against the bill when it last came before Congress. Jordan in 2024 voted against reauthorization of Section 702 of the Foreign Intelligence Surveillance Act&#8230;",
-          "published_at": "2026-03-18 17:35:35+00:00",
+          "title": "Rand Paul says he’s a ‘no’ vote on Mullin for DHS secretary",
+          "url": "https://thehill.com/homenews/senate/5790090-rand-paul-markwayne-mullin-dhs-secretary/",
+          "summary": "Senate Homeland Security and Governmental Affairs Committee Chair Rand Paul (R-Ky.) said he does not plan to back Sen. Markwayne Mullin (R-Okla.) to lead the Department of Homeland Security. His remarks came after a blow up between the two during Mullin’s confirmation hearing in which Paul confronted Mullin for calling him a “snake” and saying he understood&#8230;",
+          "published_at": "2026-03-18 17:47:12+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.0
@@ -81,9 +81,9 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 63.67,
-      "attention_focus_score": 61.17,
-      "item_count": 10,
+      "topic_score": 71.94,
+      "attention_focus_score": 69.44,
+      "item_count": 11,
       "source_count": 6,
       "platform_count": 5,
       "sources": [
@@ -106,17 +106,27 @@
           "source": "reddit_all",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 9,246 upvotes · 💬 633 comments · r/all",
+          "summary": "⬆ 9,295 upvotes · 💬 637 comments · r/all",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 9.43
         },
         {
+          "source": "coindesk",
+          "title": "Federal Reserve holds policy steady as it balances growth and inflation concerns",
+          "url": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
+          "summary": "Bitcoin remained sharply lower for the session following the expected decision by the U.S. central bank.",
+          "published_at": "2026-03-18 17:59:47+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.8
+        },
+        {
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 3,712 upvotes · 💬 148 comments · r/politics",
+          "summary": "⬆ 3,770 upvotes · 💬 149 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -141,16 +151,6 @@
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.85
-        },
-        {
-          "source": "cnbc",
-          "title": "Fed to still cut rates this year, even as high oil prices spark an uptick in inflation: CNBC Fed Survey",
-          "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
-          "summary": "The 32 respondents, including fund managers, analysts and economists, see oil prices on average at $88 a barrel six months from now.",
-          "published_at": "2026-03-18 12:34:56+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
         }
       ]
     },
@@ -179,7 +179,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,480 upvotes · 💬 377 comments · r/worldnews",
+          "summary": "⬆ 4,475 upvotes · 💬 377 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -189,7 +189,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,468 upvotes · 💬 366 comments · r/worldnews",
+          "summary": "⬆ 2,482 upvotes · 💬 366 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -219,7 +219,7 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 516 upvotes · 💬 194 comments · r/popculturechat",
+          "summary": "⬆ 520 upvotes · 💬 194 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -229,9 +229,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 60.5,
-      "attention_focus_score": 60.5,
-      "item_count": 15,
+      "topic_score": 56.0,
+      "attention_focus_score": 56.0,
+      "item_count": 14,
       "source_count": 1,
       "platform_count": 1,
       "sources": [
@@ -283,13 +283,13 @@
         },
         {
           "source": "coindesk",
-          "title": "Bitcoin's rally faces key hurdle with Wednesday's Fed meeting",
-          "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-s-rally-faces-key-hurdle-with-wednesday-s-fed-meeting",
-          "summary": "Hot PPI inflation data in the morning and hawkish remarks by Powell in the afternoon would be the most damaging combination for risk assets, including crypto, Bitfinex analysts said.",
-          "published_at": "2026-03-17 20:30:27+00:00",
+          "title": "The Protocol: Ethereum community debates foundation’s new mandate document",
+          "url": "https://www.coindesk.com/tech/2026/03/18/the-protocol-ethereum-community-debates-foundation-s-new-mandate-document",
+          "summary": "Also: World’s AgentKit, Visa and Coinbase on AI agents, and prediction markets + AI.",
+          "published_at": "2026-03-18 15:52:37+00:00",
           "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
+          "keyword_hits": 1,
+          "gravity_score": 3.5
         }
       ]
     },
@@ -315,7 +315,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,493 upvotes · 💬 479 comments · r/popculturechat",
+          "summary": "⬆ 4,494 upvotes · 💬 479 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -523,6 +523,26 @@
     },
     {
       "topic": "everyday_economy",
+      "event": "Federal Reserve holds policy steady as it balances growth and inflation concerns",
+      "gravity_score": 7.8,
+      "priority_score": 15.8,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
       "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
       "gravity_score": 6.83,
       "priority_score": 14.83,
@@ -539,29 +559,6 @@
       "debatable_angles": [
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "The era of cheap money is over as the Iran war creates a permanent 'inflation floor'",
-      "gravity_score": 6.5,
-      "priority_score": 14.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the next CPI reading come in above/below consensus?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -866,6 +863,14 @@
     ],
     "Major News Headlines": [
       {
+        "topic": "everyday_economy",
+        "title": "[CoinDesk] Federal Reserve holds policy steady as it balances growth and inflation concerns",
+        "score": 7.8,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
+        "source_label": "CoinDesk"
+      },
+      {
         "topic": "reality_tv",
         "title": "[CNBC] WNBA and players' union reach verbal agreement on landmark new CBA deal",
         "score": 6.75,
@@ -896,14 +901,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
-        "score": 6.5,
-        "source": "thehill",
-        "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
-        "source_label": "The Hill"
       }
     ]
   }
