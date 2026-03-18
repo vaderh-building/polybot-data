@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-18T14:49:15.366107+00:00",
+  "generated_at_utc": "2026-03-18T14:51:41.174178+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -29,7 +29,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 2,674 upvotes · 💬 101 comments · r/worldnews",
+          "summary": "⬆ 2,700 upvotes · 💬 101 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -79,8 +79,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 78.56,
-      "attention_focus_score": 76.06,
+      "topic_score": 76.97,
+      "attention_focus_score": 74.47,
       "item_count": 15,
       "source_count": 6,
       "platform_count": 5,
@@ -104,7 +104,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 4,555 upvotes · 💬 501 comments · r/worldnews",
+          "summary": "⬆ 4,551 upvotes · 💬 501 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -114,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 27,999 upvotes · 💬 1,365 comments · r/worldnews",
+          "summary": "⬆ 28,003 upvotes · 💬 1,365 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -124,11 +124,21 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,678 upvotes · 💬 1,451 comments · r/worldnews",
+          "summary": "⬆ 11,679 upvotes · 💬 1,451 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
+          "summary": "⬆ 1,414 upvotes · 💬 160 comments · r/worldnews",
+          "published_at": "2026-03-18 01:22:32+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 5.25
         },
         {
           "source": "cnbc",
@@ -138,17 +148,7 @@
           "published_at": "2026-03-18 14:21:25+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,412 upvotes · 💬 160 comments · r/worldnews",
-          "published_at": "2026-03-18 01:22:32+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 2,
-          "gravity_score": 5.25
+          "gravity_score": 5.0
         }
       ]
     },
@@ -222,20 +222,22 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 48.71,
-      "attention_focus_score": 47.21,
-      "item_count": 7,
-      "source_count": 4,
-      "platform_count": 4,
+      "topic_score": 55.92,
+      "attention_focus_score": 53.92,
+      "item_count": 8,
+      "source_count": 5,
+      "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
+        "npr_news",
         "reddit_politics",
         "thehill"
       ],
       "platforms": [
         "cnbc",
         "coindesk",
+        "npr",
         "reddit",
         "thehill"
       ],
@@ -254,11 +256,21 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 1,559 upvotes · 💬 139 comments · r/politics",
+          "summary": "⬆ 1,641 upvotes · 💬 140 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 6.17
+        },
+        {
+          "source": "npr_news",
+          "title": "Trump temporarily waives the Jones Act to try to lower gas prices",
+          "url": "https://www.npr.org/2026/03/18/nx-s1-5751854/gas-prices-trump-jones-act-iran",
+          "summary": "Experts say waiving the act will do little to dramatically lower gas prices.",
+          "published_at": "2026-03-18 14:49:07+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.85
         },
         {
           "source": "thehill",
@@ -269,16 +281,6 @@
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.85
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin quickly pulls back to $72,300 as Iran fears team up with poor U.S. inflation data",
-          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-quickly-pulls-back-to-usd72-300-as-iran-fears-team-up-with-poor-u-s-inflation-data",
-          "summary": "The price of oil moved higher after reported attacks against Iran's South Pars gas field.",
-          "published_at": "2026-03-18 12:50:43+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.2
         },
         {
           "source": "cnbc",
@@ -314,7 +316,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,221 upvotes · 💬 459 comments · r/popculturechat",
+          "summary": "⬆ 4,220 upvotes · 💬 461 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -334,7 +336,7 @@
           "source": "reddit_popculturechat",
           "title": "Happy 32nd anniversary to The Simpsons episode ‘Homer Loves Flanders’, aka the ‘Homer disappearing into the bushes’ meme.",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwrbp7/happy_32nd_anniversary_to_the_simpsons_episode/",
-          "summary": "⬆ 355 upvotes · 💬 8 comments · r/popculturechat",
+          "summary": "⬆ 357 upvotes · 💬 8 comments · r/popculturechat",
           "published_at": "2026-03-18 02:19:36+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -349,44 +351,6 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.7
-        }
-      ]
-    },
-    {
-      "topic": "music_charts",
-      "topic_score": 7.32,
-      "attention_focus_score": 6.82,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
-      "sources": [
-        "npr_news",
-        "thehill"
-      ],
-      "platforms": [
-        "npr",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "npr_news",
-          "title": "Do you understand this billboard? If not, that's the whole point",
-          "url": "https://www.npr.org/2026/03/18/nx-s1-5746115/billboards-san-francisco-tech-ai-advertising-marketing",
-          "summary": "San Francisco's streets are plastered with cryptic ads from AI startups. The strategy is intentional — but it's not without cost.",
-          "published_at": "2026-03-18 09:00:00+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 2.9
-        },
-        {
-          "source": "thehill",
-          "title": "Retired general: Trump ‘completely mismanaged’ Iran war",
-          "url": "https://thehill.com/national-security/5788438-retired-general-slams-trump-iran/",
-          "summary": "A retired general on Monday accused President Trump of having &#8220;completely mismanaged&#8221; the U.S. conflict in Iran. Brig. Gen. Steven Anderson, in a guest appearance on &#8220;The Weeknight&#8221; on MS NOW, slammed the president for &#8220;single-handedly bringing about a new era in which American stature and influence is greatly reduced.&#8221; &#8220;He has completely mismanaged this&#8230;",
-          "published_at": "2026-03-17 21:25:34+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 2.17
         }
       ]
     },
@@ -415,9 +379,55 @@
           "gravity_score": 7.2
         }
       ]
+    },
+    {
+      "topic": "music_charts",
+      "topic_score": 2.17,
+      "attention_focus_score": 2.17,
+      "item_count": 1,
+      "source_count": 1,
+      "platform_count": 1,
+      "sources": [
+        "thehill"
+      ],
+      "platforms": [
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "thehill",
+          "title": "Retired general: Trump ‘completely mismanaged’ Iran war",
+          "url": "https://thehill.com/national-security/5788438-retired-general-slams-trump-iran/",
+          "summary": "A retired general on Monday accused President Trump of having &#8220;completely mismanaged&#8221; the U.S. conflict in Iran. Brig. Gen. Steven Anderson, in a guest appearance on &#8220;The Weeknight&#8221; on MS NOW, slammed the president for &#8220;single-handedly bringing about a new era in which American stature and influence is greatly reduced.&#8221; &#8220;He has completely mismanaged this&#8230;",
+          "published_at": "2026-03-17 21:25:34+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 2.17
+        }
+      ]
     }
   ],
   "market_suggestions": [
+    {
+      "topic": "everyday_economy",
+      "event": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
+      "gravity_score": 7.8,
+      "priority_score": 15.8,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
     {
       "topic": "geopolitics",
       "event": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
@@ -508,6 +518,27 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "everyday_economy",
+      "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
+      "gravity_score": 6.17,
+      "priority_score": 14.17,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
       "topic": "politics",
       "event": "White House offers body camera expansion, immigration enforcement limitations in DHS reopening bid",
       "gravity_score": 6.0,
@@ -553,20 +584,23 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
-      "gravity_score": 7.8,
-      "priority_score": 13.8,
-      "source_platform": "cnbc",
+      "event": "Trump temporarily waives the Jones Act to try to lower gas prices",
+      "gravity_score": 5.85,
+      "priority_score": 13.85,
+      "source_platform": "npr_news",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
+      "url": "https://www.npr.org/2026/03/18/nx-s1-5751854/gas-prices-trump-jones-act-iran",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
+        "npr",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Will the next CPI reading come in above/below consensus?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -589,47 +623,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-      "gravity_score": 6.17,
-      "priority_score": 12.17,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Trump temporarily loosening shipping rules in bid to lower gas prices",
-      "gravity_score": 5.85,
-      "priority_score": 11.85,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/policy/energy-environment/5789557-iran-war-jones-act-gas-prices/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "reality_tv",
@@ -868,20 +861,20 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "geopolitics",
-        "title": "[CNBC] Israel says it has killed Iran’s intelligence minister in third assassination in two days",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "crypto",
         "title": "[CoinDesk] U.S. SEC issues first-ever definitions for what crypto assets are securities",
         "score": 6.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
         "source_label": "CoinDesk"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] White House offers body camera expansion, immigration enforcement limitations in DHS reopening bid",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/administration/5789534-white-house-body-cameras-immigration-enforcement-limits-dhs-shutdown/",
+        "source_label": "The Hill"
       }
     ]
   }
