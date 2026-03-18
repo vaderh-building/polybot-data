@@ -1,19 +1,18 @@
 {
-  "generated_at_utc": "2026-03-18T18:32:34.286919+00:00",
+  "generated_at_utc": "2026-03-18T19:09:27.562060+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 224.41,
-      "attention_focus_score": 220.91,
-      "item_count": 57,
-      "source_count": 8,
+      "topic_score": 207.52,
+      "attention_focus_score": 204.52,
+      "item_count": 55,
+      "source_count": 7,
       "platform_count": 6,
       "sources": [
         "bbc_top",
         "cnbc",
         "coindesk",
         "politico",
-        "reddit_news",
         "reddit_politics",
         "reddit_worldnews",
         "thehill"
@@ -31,11 +30,21 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,999 upvotes · 💬 127 comments · r/worldnews",
+          "summary": "⬆ 5,284 upvotes · 💬 130 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
+          "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
+          "summary": "⬆ 2,731 upvotes · 💬 123 comments · r/politics",
+          "published_at": "2026-03-18 16:24:21+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.75
         },
         {
           "source": "thehill",
@@ -48,6 +57,16 @@
           "gravity_score": 6.5
         },
         {
+          "source": "cnbc",
+          "title": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
+          "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
+          "summary": "Consumers are seeing fuel prices rapidly rise as the Iran war has triggered the biggest oil supply disruption in history.",
+          "published_at": "2026-03-18 17:17:38+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 5.5
+        },
+        {
           "source": "coindesk",
           "title": "Kalshi co-founder fights back against Arizona’s ‘overstep’ in what a lawyer calls a federal-state turf war",
           "url": "https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war",
@@ -55,34 +74,82 @@
           "published_at": "2026-03-18 18:19:24+00:00",
           "topic": "politics",
           "keyword_hits": 1,
+          "gravity_score": 5.0
+        }
+      ]
+    },
+    {
+      "topic": "crypto",
+      "topic_score": 74.47,
+      "attention_focus_score": 73.97,
+      "item_count": 15,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "cnbc",
+        "coindesk"
+      ],
+      "platforms": [
+        "cnbc",
+        "coindesk"
+      ],
+      "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
+          "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
+          "summary": "Kraken's parent company filed a draft S-1 registration statement with the SEC in November regarding the proposed initial public offering of its common stock.",
+          "published_at": "2026-03-18 15:14:18+00:00",
+          "topic": "crypto",
+          "keyword_hits": 3,
+          "gravity_score": 6.5
+        },
+        {
+          "source": "cnbc",
+          "title": "AI, crypto industries dump millions into Illinois primaries to mixed results",
+          "url": "https://www.cnbc.com/2026/03/18/ai-crpyto-illinois-primaries-2026-elections.html",
+          "summary": "Illinois' early primary shows the limits of the AI and cryptocurrency industries' spending power on shaping Congress.",
+          "published_at": "2026-03-18 18:53:21+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
           "gravity_score": 6.0
         },
         {
-          "source": "thehill",
-          "title": "Gabbard fends off questions about Fulton County election raid",
-          "url": "https://thehill.com/homenews/senate/5790176-tulsi-gabbard-fbi-raid-georgia/",
-          "summary": "Director of National Intelligence (DNI) Tulsi Gabbard deflected criticism Wednesday about her presence at an FBI raid at a Georgia election office earlier this year. Gabbard was pressed by Sen. Mark Warner (D-Va.) during questioning from the Senate Select Committee on Intelligence. Gabbard was photographed outside of the facility in Fulton County, Ga., next to&#8230;",
-          "published_at": "2026-03-18 18:18:48+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
+          "source": "coindesk",
+          "title": "Sam Bankman-Fried's bankrupt exchange FTX set to repay creditors $2.2 billion this month",
+          "url": "https://www.coindesk.com/business/2026/03/18/sam-bankman-fried-s-bankrupt-exchange-ftx-set-to-repay-creditors-usd2-2-billion-this-month",
+          "summary": "The trust handling the bankruptcy proceedings detailed how much will be distributed to creditors and claimants at the end of March.",
+          "published_at": "2026-03-18 19:06:59+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
           "gravity_score": 6.0
         },
         {
-          "source": "reddit_politics",
-          "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
-          "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 1,682 upvotes · 💬 87 comments · r/politics",
-          "published_at": "2026-03-18 16:24:21+00:00",
-          "topic": "politics",
+          "source": "coindesk",
+          "title": "Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
+          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
+          "summary": "Bitcoin remains stuck near key resistance around $75,000, leaving the broader market in limbo.",
+          "published_at": "2026-03-18 09:29:00+00:00",
+          "topic": "crypto",
+          "keyword_hits": 3,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Crypto Long & Short: When price stops working, yield starts mattering",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-long-and-short-when-price-stops-working-yield-starts-mattering",
+          "summary": "In this week’s Crypto Long & Short Newsletter, Ruchir Gupta writes on how we’re moving toward a true fixed-income market for crypto-native yield. Then, Clara García Prieto on bitcoin becoming mainstream collateral, but most are not prepared for its risks.",
+          "published_at": "2026-03-18 16:17:13+00:00",
+          "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 5.75
+          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 67.31,
-      "attention_focus_score": 65.31,
+      "topic_score": 63.85,
+      "attention_focus_score": 61.85,
       "item_count": 11,
       "source_count": 5,
       "platform_count": 5,
@@ -105,7 +172,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 10,246 upvotes · 💬 690 comments · r/politics",
+          "summary": "⬆ 11,339 upvotes · 💬 754 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -115,11 +182,11 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 4,615 upvotes · 💬 171 comments · r/politics",
+          "summary": "⬆ 5,474 upvotes · 💬 189 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 6.83
+          "gravity_score": 8.12
         },
         {
           "source": "coindesk",
@@ -129,7 +196,7 @@
           "published_at": "2026-03-18 17:59:47+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 6.5
+          "gravity_score": 5.2
         },
         {
           "source": "coindesk",
@@ -139,7 +206,7 @@
           "published_at": "2026-03-18 17:09:02+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 5.2
+          "gravity_score": 4.55
         },
         {
           "source": "cnbc",
@@ -149,15 +216,15 @@
           "published_at": "2026-03-18 12:34:56+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 4.55
+          "gravity_score": 3.9
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 57.09,
-      "attention_focus_score": 55.09,
-      "item_count": 15,
+      "topic_score": 54.14,
+      "attention_focus_score": 52.14,
+      "item_count": 14,
       "source_count": 5,
       "platform_count": 4,
       "sources": [
@@ -178,7 +245,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,572 upvotes · 💬 384 comments · r/worldnews",
+          "summary": "⬆ 4,655 upvotes · 💬 389 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -188,31 +255,31 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,630 upvotes · 💬 383 comments · r/worldnews",
+          "summary": "⬆ 2,756 upvotes · 💬 402 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.25
+          "gravity_score": 4.75
+        },
+        {
+          "source": "thehill",
+          "title": "Iran threatens strikes on oil and gas targets after South Pars gas field hit",
+          "url": "https://thehill.com/policy/international/5790164-iran-threats-oil-gas-targets-south-pars/",
+          "summary": "The Iranian government threatened to strike oil and gas facilities in Qatar, Saudi Arabia and the United Arab Emirates (UAE) on Wednesday, in response to an attack on its South Pars natural gas field. Iranian state media warned the country would target Saudi Arabia’s Samref Refiney and its Jubail Petrochemical Complex, as well as the&#8230;",
+          "published_at": "2026-03-18 18:43:35+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
         },
         {
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 551 upvotes · 💬 199 comments · r/popculturechat",
+          "summary": "⬆ 584 upvotes · 💬 204 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.75
-        },
-        {
-          "source": "bbc_world",
-          "title": "Oil nears $110 a barrel after gas field strike",
-          "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-          "summary": "Iran's military warned it would take \"decisive action\" in response to the strike on its energy infrastructure.",
-          "published_at": "2026-03-18 17:41:23+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
         },
         {
           "source": "cnbc",
@@ -221,72 +288,6 @@
           "summary": "Israel's Defense Forces said Wednesday that Iran's intelligence minister, Esmail Khatib, had been killed in a \"targeted strike\" in Tehran.",
           "published_at": "2026-03-18 16:16:09+00:00",
           "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
-        }
-      ]
-    },
-    {
-      "topic": "crypto",
-      "topic_score": 55.5,
-      "attention_focus_score": 55.5,
-      "item_count": 14,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "coindesk"
-      ],
-      "platforms": [
-        "coindesk"
-      ],
-      "top_items": [
-        {
-          "source": "coindesk",
-          "title": "Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
-          "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
-          "summary": "Kraken's parent company filed a draft S-1 registration statement with the SEC in November regarding the proposed initial public offering of its common stock.",
-          "published_at": "2026-03-18 15:14:18+00:00",
-          "topic": "crypto",
-          "keyword_hits": 3,
-          "gravity_score": 6.5
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
-          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
-          "summary": "Bitcoin remains stuck near key resistance around $75,000, leaving the broader market in limbo.",
-          "published_at": "2026-03-18 09:29:00+00:00",
-          "topic": "crypto",
-          "keyword_hits": 3,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Crypto Long & Short: When price stops working, yield starts mattering",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-long-and-short-when-price-stops-working-yield-starts-mattering",
-          "summary": "In this week’s Crypto Long & Short Newsletter, Ruchir Gupta writes on how we’re moving toward a true fixed-income market for crypto-native yield. Then, Clara García Prieto on bitcoin becoming mainstream collateral, but most are not prepared for its risks.",
-          "published_at": "2026-03-18 16:17:13+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Traders can now bet on the S&P 500 around the clock without ever touching a traditional stock exchange",
-          "url": "https://www.coindesk.com/markets/2026/03/18/traders-can-now-bet-on-the-s-and-p-500-around-the-clock-without-ever-touching-a-traditional-stock-exchange",
-          "summary": "S&P Dow Jones Indices licenses its flagship index for crypto trading on Hyperliquid, as perpetual futures gain traction beyond traditional markets.",
-          "published_at": "2026-03-18 15:13:09+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
-          "title": "The Protocol: Ethereum community debates foundation’s new mandate document",
-          "url": "https://www.coindesk.com/tech/2026/03/18/the-protocol-ethereum-community-debates-foundation-s-new-mandate-document",
-          "summary": "Also: World’s AgentKit, Visa and Coinbase on AI agents, and prediction markets + AI.",
-          "published_at": "2026-03-18 15:52:37+00:00",
-          "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 3.5
         }
@@ -314,7 +315,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,526 upvotes · 💬 480 comments · r/popculturechat",
+          "summary": "⬆ 4,568 upvotes · 💬 480 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -404,27 +405,27 @@
     },
     {
       "topic": "music_charts",
-      "topic_score": 2.17,
-      "attention_focus_score": 2.17,
+      "topic_score": 7.23,
+      "attention_focus_score": 7.23,
       "item_count": 1,
       "source_count": 1,
       "platform_count": 1,
       "sources": [
-        "thehill"
+        "reddit_news"
       ],
       "platforms": [
-        "thehill"
+        "reddit"
       ],
       "top_items": [
         {
-          "source": "thehill",
-          "title": "Retired general: Trump ‘completely mismanaged’ Iran war",
-          "url": "https://thehill.com/national-security/5788438-retired-general-slams-trump-iran/",
-          "summary": "A retired general on Monday accused President Trump of having &#8220;completely mismanaged&#8221; the U.S. conflict in Iran. Brig. Gen. Steven Anderson, in a guest appearance on &#8220;The Weeknight&#8221; on MS NOW, slammed the president for &#8220;single-handedly bringing about a new era in which American stature and influence is greatly reduced.&#8221; &#8220;He has completely mismanaged this&#8230;",
-          "published_at": "2026-03-17 21:25:34+00:00",
+          "source": "reddit_news",
+          "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
+          "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
+          "summary": "⬆ 292 upvotes · 💬 31 comments · r/news",
+          "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
-          "gravity_score": 2.17
+          "gravity_score": 6.89
         }
       ]
     }
@@ -497,33 +498,10 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "politics",
-      "event": "Kalshi co-founder fights back against Arizona’s ‘overstep’ in what a lawyer calls a federal-state turf war",
-      "gravity_score": 6.0,
-      "priority_score": 16.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
       "topic": "everyday_economy",
       "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-      "gravity_score": 6.83,
-      "priority_score": 14.83,
+      "gravity_score": 8.12,
+      "priority_score": 16.12,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
@@ -537,29 +515,6 @@
       "debatable_angles": [
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Federal Reserve holds policy steady as Iran war adds to growth and inflation concerns",
-      "gravity_score": 6.5,
-      "priority_score": 14.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the next CPI reading come in above/below consensus?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -582,6 +537,29 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Federal Reserve holds policy steady as Iran war adds to growth and inflation concerns",
+      "gravity_score": 5.2,
+      "priority_score": 13.2,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "geopolitics",
@@ -607,8 +585,8 @@
     {
       "topic": "geopolitics",
       "event": "Strike hits South Pars, world’s largest gas field, in Iran",
-      "gravity_score": 5.25,
-      "priority_score": 11.25,
+      "gravity_score": 4.75,
+      "priority_score": 10.75,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
@@ -628,12 +606,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
-      "gravity_score": 3.75,
-      "priority_score": 9.75,
-      "source_platform": "reddit_popculturechat",
+      "event": "Iran threatens strikes on oil and gas targets after South Pars gas field hit",
+      "gravity_score": 4.5,
+      "priority_score": 10.5,
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
+      "url": "https://thehill.com/policy/international/5790164-iran-threats-oil-gas-targets-south-pars/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -641,9 +619,10 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will crude oil close above/below a specific price within 14 days?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -683,6 +662,23 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
+      "gravity_score": 8.8,
+      "priority_score": 8.8,
+      "source_platform": "TikTok",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "TikTok"
+      ],
+      "debatable_angles": [
+        "Will it debut at #1 on Billboard 200?",
+        "Will first-week streaming numbers exceed a specific threshold?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     }
   ],
   "platform_snapshots": {
@@ -702,6 +698,13 @@
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
       {
+        "topic": "everyday_economy",
+        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+        "score": 8.12,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
+      },
+      {
         "topic": "politics",
         "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
         "score": 7.25,
@@ -709,18 +712,11 @@
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
       },
       {
-        "topic": "everyday_economy",
-        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-        "score": 6.83,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
-        "score": 5.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/"
+        "topic": "music_charts",
+        "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
+        "score": 6.89,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/"
       }
     ],
     "X": [
@@ -824,49 +820,41 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "liverpool vs galatasaray",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "bayern vs atalanta",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "billy porter",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "lewis hall",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "joelinton",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "eric garcía",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "incredibles 3",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "barca game",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "raphinha",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
-      {
-        "topic": "everyday_economy",
-        "title": "[CoinDesk] Federal Reserve holds policy steady as Iran war adds to growth and inflation concerns",
-        "score": 6.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
-        "source_label": "CoinDesk"
-      },
       {
         "topic": "crypto",
         "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
@@ -884,6 +872,14 @@
         "source_label": "The Hill"
       },
       {
+        "topic": "crypto",
+        "title": "[CNBC] AI, crypto industries dump millions into Illinois primaries to mixed results",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/18/ai-crpyto-illinois-primaries-2026-elections.html",
+        "source_label": "CNBC"
+      },
+      {
         "topic": "social_virality",
         "title": "[CNBC] Meta will pay Instagram, TikTok and YouTube creators with big followings to post on Facebook",
         "score": 6.0,
@@ -892,11 +888,11 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "politics",
-        "title": "[CoinDesk] Kalshi co-founder fights back against Arizona’s ‘overstep’ in what a lawyer calls a federal-state turf war",
+        "topic": "crypto",
+        "title": "[CoinDesk] Sam Bankman-Fried's bankrupt exchange FTX set to repay creditors $2.2 billion this month",
         "score": 6.0,
         "source": "coindesk",
-        "url": "https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war",
+        "url": "https://www.coindesk.com/business/2026/03/18/sam-bankman-fried-s-bankrupt-exchange-ftx-set-to-repay-creditors-usd2-2-billion-this-month",
         "source_label": "CoinDesk"
       }
     ]
