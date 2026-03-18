@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-18T21:42:52.632019+00:00",
+  "generated_at_utc": "2026-03-18T21:45:01.941325+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -30,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 7,169 upvotes · 💬 280 comments · r/politics",
+          "summary": "⬆ 7,227 upvotes · 💬 283 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,7 +40,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 6,301 upvotes · 💬 144 comments · r/worldnews",
+          "summary": "⬆ 6,300 upvotes · 💬 144 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -103,7 +103,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 14,643 upvotes · 💬 870 comments · r/politics",
+          "summary": "⬆ 14,684 upvotes · 💬 869 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -113,7 +113,7 @@
           "source": "reddit_news",
           "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
           "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/",
-          "summary": "⬆ 6,035 upvotes · 💬 288 comments · r/news",
+          "summary": "⬆ 6,153 upvotes · 💬 293 comments · r/news",
           "published_at": "2026-03-18 19:40:59+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -123,7 +123,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 8,017 upvotes · 💬 265 comments · r/politics",
+          "summary": "⬆ 8,040 upvotes · 💬 266 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -133,7 +133,7 @@
           "source": "reddit_politics",
           "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
           "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 564 upvotes · 💬 206 comments · r/politics",
+          "summary": "⬆ 580 upvotes · 💬 214 comments · r/politics",
           "published_at": "2026-03-18 19:31:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -153,8 +153,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 71.09,
-      "attention_focus_score": 70.59,
+      "topic_score": 69.41,
+      "attention_focus_score": 68.91,
       "item_count": 16,
       "source_count": 2,
       "platform_count": 2,
@@ -179,16 +179,6 @@
         },
         {
           "source": "coindesk",
-          "title": "SEC approves Nasdaq's move to support tokenized securities trading",
-          "url": "https://www.coindesk.com/policy/2026/03/18/sec-approves-nasdaq-s-move-to-allow-tokenized-securities-trading",
-          "summary": "The SEC’s approval lets Nasdaq test blockchain-based versions of stocks that trade and settle like traditional shares.",
-          "published_at": "2026-03-18 20:44:02+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
           "title": "Crypto Long & Short: When price stops working, yield starts mattering",
           "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-long-and-short-when-price-stops-working-yield-starts-mattering",
           "summary": "In this week’s Crypto Long & Short Newsletter, Ruchir Gupta writes on how we’re moving toward a true fixed-income market for crypto-native yield. Then, Clara García Prieto on bitcoin becoming mainstream collateral, but most are not prepared for its risks.",
@@ -206,6 +196,16 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
+        },
+        {
+          "source": "coindesk",
+          "title": "SEC approves Nasdaq's move to support tokenized securities trading",
+          "url": "https://www.coindesk.com/policy/2026/03/18/sec-approves-nasdaq-s-move-to-allow-tokenized-securities-trading",
+          "summary": "The SEC’s approval lets Nasdaq test blockchain-based versions of stocks that trade and settle like traditional shares.",
+          "published_at": "2026-03-18 20:44:02+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
         },
         {
           "source": "coindesk",
@@ -244,7 +244,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,941 upvotes · 💬 401 comments · r/worldnews",
+          "summary": "⬆ 4,944 upvotes · 💬 401 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -254,7 +254,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 3,280 upvotes · 💬 442 comments · r/worldnews",
+          "summary": "⬆ 3,288 upvotes · 💬 442 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -264,7 +264,7 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 681 upvotes · 💬 218 comments · r/popculturechat",
+          "summary": "⬆ 677 upvotes · 💬 218 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -316,7 +316,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,654 upvotes · 💬 489 comments · r/popculturechat",
+          "summary": "⬆ 4,657 upvotes · 💬 489 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -433,7 +433,7 @@
           "source": "reddit_popculturechat",
           "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 227 upvotes · 💬 37 comments · r/popculturechat",
+          "summary": "⬆ 233 upvotes · 💬 37 comments · r/popculturechat",
           "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -841,6 +841,20 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "cristiano ronaldo",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "smu vs miami ohio",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "greg dortch",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -855,21 +869,7 @@
       },
       {
         "topic": "trending",
-        "title": "xavi simons",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "uğurcan çakır",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "elissa slotkin",
+        "title": "salah",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
