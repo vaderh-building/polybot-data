@@ -1,27 +1,24 @@
 {
-  "generated_at_utc": "2026-03-18T04:48:31.257097+00:00",
+  "generated_at_utc": "2026-03-18T08:35:35.255148+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 187.29,
-      "attention_focus_score": 182.79,
-      "item_count": 47,
-      "source_count": 10,
-      "platform_count": 7,
+      "topic_score": 160.72,
+      "attention_focus_score": 157.22,
+      "item_count": 40,
+      "source_count": 8,
+      "platform_count": 6,
       "sources": [
-        "bbc_top",
         "cnbc",
         "coindesk",
         "npr_news",
         "politico",
-        "reddit_all",
         "reddit_news",
         "reddit_politics",
         "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
-        "bbc",
         "cnbc",
         "coindesk",
         "npr",
@@ -30,16 +27,6 @@
         "thehill"
       ],
       "top_items": [
-        {
-          "source": "reddit_all",
-          "title": "asked for an itemized hospital bill on a whim and found out they charged me for stuff that literally never happened",
-          "url": "https://www.reddit.com/r/povertyfinance/comments/1rwkwq7/asked_for_an_itemized_hospital_bill_on_a_whim_and/",
-          "summary": "⬆ 13,978 upvotes · 💬 536 comments · r/all",
-          "published_at": "2026-03-17 22:00:31+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
         {
           "source": "coindesk",
           "title": "U.S. Democrats target government officials gaming prediction markets on war action",
@@ -54,39 +41,122 @@
           "source": "reddit_politics",
           "title": "Idaho Republicans pass bill making it a felony for transgender people to use public bathrooms",
           "url": "https://www.reddit.com/r/politics/comments/1rw948c/idaho_republicans_pass_bill_making_it_a_felony/",
-          "summary": "⬆ 4,029 upvotes · 💬 577 comments · r/politics",
+          "summary": "⬆ 4,240 upvotes · 💬 605 comments · r/politics",
           "published_at": "2026-03-17 15:06:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.75
         },
         {
-          "source": "politico",
-          "title": "King of Illinois: Pritzker swings Senate race as he targets Trump",
-          "url": "https://www.politico.com/news/2026/03/18/pritzker-kingmaker-illinois-senate-stratton-00833545",
-          "summary": "Juliana Stratton’s victory in a heated Senate primary vindicates the governor’s political operation heading into 2028.",
-          "published_at": "2026-03-18 04:16:13+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 2,363 upvotes · 💬 318 comments · r/news",
+          "summary": "⬆ 2,785 upvotes · 💬 337 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 4.75
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Democrats promise to give SAVE America Act ‘death it deserves’ in Senate",
+          "url": "https://www.reddit.com/r/politics/comments/1rwf9l1/democrats_promise_to_give_save_america_act_death/",
+          "summary": "⬆ 2,704 upvotes · 💬 208 comments · r/politics",
+          "published_at": "2026-03-17 18:40:08+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
+        },
+        {
+          "source": "cnbc",
+          "title": "Everything to know about the SAVE America Act voter ID-bill",
+          "url": "https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html",
+          "summary": "President Donald Trump has been pushing Congress to approve the SAVE America Act to require ID at the polls and proof of U.S. citizenship to register to vote.",
+          "published_at": "2026-03-17 17:14:26+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        }
+      ]
+    },
+    {
+      "topic": "geopolitics",
+      "topic_score": 64.89,
+      "attention_focus_score": 62.89,
+      "item_count": 11,
+      "source_count": 5,
+      "platform_count": 4,
+      "sources": [
+        "bbc_top",
+        "cnbc",
+        "reddit_news",
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
+          "summary": "⬆ 4,169 upvotes · 💬 471 comments · r/worldnews",
+          "published_at": "2026-03-17 18:48:08+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 7.25
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
+          "summary": "⬆ 27,105 upvotes · 💬 1,339 comments · r/worldnews",
+          "published_at": "2026-03-17 15:17:21+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+          "summary": "⬆ 10,828 upvotes · 💬 1,362 comments · r/worldnews",
+          "published_at": "2026-03-17 16:10:33+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
+          "summary": "⬆ 7,080 upvotes · 💬 150 comments · r/worldnews",
+          "published_at": "2026-03-17 13:18:21+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
+          "summary": "⬆ 1,028 upvotes · 💬 130 comments · r/worldnews",
+          "published_at": "2026-03-18 01:22:32+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 5.25
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 72.78,
-      "attention_focus_score": 72.28,
-      "item_count": 17,
+      "topic_score": 60.41,
+      "attention_focus_score": 59.91,
+      "item_count": 14,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -151,93 +221,18 @@
       ]
     },
     {
-      "topic": "geopolitics",
-      "topic_score": 66.77,
-      "attention_focus_score": 64.77,
-      "item_count": 12,
-      "source_count": 5,
-      "platform_count": 4,
-      "sources": [
-        "bbc_world",
-        "cnbc",
-        "reddit_news",
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 26,132 upvotes · 💬 1,316 comments · r/worldnews",
-          "published_at": "2026-03-17 15:17:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 10,037 upvotes · 💬 1,293 comments · r/worldnews",
-          "published_at": "2026-03-17 16:10:33+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 3,725 upvotes · 💬 436 comments · r/worldnews",
-          "published_at": "2026-03-17 18:48:08+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 2,
-          "gravity_score": 6.25
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 6,639 upvotes · 💬 149 comments · r/worldnews",
-          "published_at": "2026-03-17 13:18:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 641 upvotes · 💬 95 comments · r/worldnews",
-          "published_at": "2026-03-18 01:22:32+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 2,
-          "gravity_score": 5.75
-        }
-      ]
-    },
-    {
       "topic": "reality_tv",
-      "topic_score": 29.08,
-      "attention_focus_score": 27.58,
-      "item_count": 5,
-      "source_count": 4,
-      "platform_count": 3,
+      "topic_score": 25.28,
+      "attention_focus_score": 24.28,
+      "item_count": 4,
+      "source_count": 3,
+      "platform_count": 2,
       "sources": [
-        "bbc_top",
         "reddit_popculturechat",
         "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
-        "bbc",
         "reddit",
         "thehill"
       ],
@@ -246,41 +241,31 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 2,481 upvotes · 💬 318 comments · r/popculturechat",
+          "summary": "⬆ 3,288 upvotes · 💬 388 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 9.11
+          "gravity_score": 8.44
         },
         {
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 5,989 upvotes · 💬 590 comments · r/worldnews",
+          "summary": "⬆ 6,118 upvotes · 💬 605 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 7.76
         },
         {
-          "source": "bbc_top",
-          "title": "Real Madrid defeat leaves Man City with season-defining run",
-          "url": "https://www.bbc.com/sport/football/articles/c3636e11y2yo?at_medium=RSS&at_campaign=rss",
-          "summary": "Manchester City's season stands on the brink following a demoralising Champions League exit at the hands of familiar foes Real Madrid.",
-          "published_at": "2026-03-17 23:52:37+00:00",
+          "source": "reddit_popculturechat",
+          "title": "Happy 32nd anniversary to The Simpsons episode ‘Homer Loves Flanders’, aka the ‘Homer disappearing into the bushes’ meme.",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rwrbp7/happy_32nd_anniversary_to_the_simpsons_episode/",
+          "summary": "⬆ 173 upvotes · 💬 5 comments · r/popculturechat",
+          "published_at": "2026-03-18 02:19:36+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 2.7
-        },
-        {
-          "source": "bbc_top",
-          "title": "Bodo/Glimt's fairytale run comes to crashing halt",
-          "url": "https://www.bbc.com/sport/football/articles/cvg12g8ld2zo?at_medium=RSS&at_campaign=rss",
-          "summary": "Bodo/Glimt's dream run in this season's Champions League may be over, but they bow out with their heads held high after making history.",
-          "published_at": "2026-03-17 22:30:38+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
+          "gravity_score": 3.71
         },
         {
           "source": "thehill",
@@ -324,37 +309,13 @@
   "market_suggestions": [
     {
       "topic": "politics",
-      "event": "asked for an itemized hospital bill on a whim and found out they charged me for stuff that literally never happened",
-      "gravity_score": 6.75,
-      "priority_score": 18.75,
-      "source_platform": "reddit_all",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1rwkwq7/asked_for_an_itemized_hospital_bill_on_a_whim_and/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
       "event": "U.S. Democrats target government officials gaming prediction markets on war action",
       "gravity_score": 6.0,
-      "priority_score": 18.0,
+      "priority_score": 16.0,
       "source_platform": "coindesk",
       "source_label": "",
       "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
       "platforms_discussing": [
-        "bbc",
         "cnbc",
         "coindesk",
         "npr",
@@ -373,12 +334,11 @@
       "topic": "politics",
       "event": "Idaho Republicans pass bill making it a felony for transgender people to use public bathrooms",
       "gravity_score": 5.75,
-      "priority_score": 17.75,
+      "priority_score": 15.75,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rw948c/idaho_republicans_pass_bill_making_it_a_felony/",
       "platforms_discussing": [
-        "bbc",
         "cnbc",
         "coindesk",
         "npr",
@@ -393,24 +353,48 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "reality_tv",
-      "event": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
-      "gravity_score": 9.11,
-      "priority_score": 13.11,
-      "source_platform": "reddit_popculturechat",
+      "topic": "politics",
+      "event": "Florida bill against marrying your first cousin fails",
+      "gravity_score": 4.75,
+      "priority_score": 14.75,
+      "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
+      "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
       "platforms_discussing": [
-        "bbc",
+        "cnbc",
+        "coindesk",
+        "npr",
+        "politico",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
       ],
-      "verifiable_via": "Network broadcast / Official show accounts"
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
+      "gravity_score": 7.25,
+      "priority_score": 13.25,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?",
+        "Will a specific member state publicly commit troops or assets?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
@@ -456,37 +440,33 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "geopolitics",
-      "event": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
-      "gravity_score": 6.25,
-      "priority_score": 12.25,
-      "source_platform": "reddit_worldnews",
+      "topic": "reality_tv",
+      "event": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
+      "gravity_score": 8.44,
+      "priority_score": 10.44,
+      "source_platform": "reddit_popculturechat",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
       "platforms_discussing": [
-        "bbc",
-        "cnbc",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?",
-        "Will a specific member state publicly commit troops or assets?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "reality_tv",
       "event": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
       "gravity_score": 7.76,
-      "priority_score": 11.76,
+      "priority_score": 9.76,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
       "platforms_discussing": [
-        "bbc",
         "reddit",
         "thehill"
       ],
@@ -572,7 +552,7 @@
       {
         "topic": "reality_tv",
         "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
-        "score": 9.11,
+        "score": 8.44,
         "source": "reddit_popculturechat",
         "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/"
       },
@@ -585,17 +565,17 @@
       },
       {
         "topic": "geopolitics",
+        "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
+        "score": 7.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/"
+      },
+      {
+        "topic": "geopolitics",
         "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
-      },
-      {
-        "topic": "politics",
-        "title": "asked for an itemized hospital bill on a whim and found out they charged me for stuff that literally never happened",
-        "score": 6.75,
-        "source": "reddit_all",
-        "url": "https://www.reddit.com/r/povertyfinance/comments/1rwkwq7/asked_for_an_itemized_hospital_bill_on_a_whim_and/"
       },
       {
         "topic": "geopolitics",
@@ -706,35 +686,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "dhurandhar 2",
+        "title": "true detective",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "lea michele",
+        "title": "patch",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "marjon beauchamp",
+        "title": "the chi",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "iditarod 2026",
+        "title": "kenyon martin",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "keldon johnson",
+        "title": "melanie curtin",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -759,14 +739,6 @@
       },
       {
         "topic": "politics",
-        "title": "[Politico] King of Illinois: Pritzker swings Senate race as he targets Trump",
-        "score": 5.0,
-        "source": "politico",
-        "url": "https://www.politico.com/news/2026/03/18/pritzker-kingmaker-illinois-senate-stratton-00833545",
-        "source_label": "Politico"
-      },
-      {
-        "topic": "politics",
         "title": "[CNBC] Everything to know about the SAVE America Act voter ID-bill",
         "score": 4.5,
         "source": "cnbc",
@@ -780,6 +752,14 @@
         "source": "politico",
         "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
         "source_label": "Politico"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Bitcoin's rally faces key hurdle with Wednesday's Fed meeting",
+        "score": 4.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-s-rally-faces-key-hurdle-with-wednesday-s-fed-meeting",
+        "source_label": "CoinDesk"
       }
     ]
   }
