@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T18:23:48.479871+00:00",
+  "generated_at_utc": "2026-03-18T18:26:03.315507+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 223.61,
-      "attention_focus_score": 220.11,
+      "topic_score": 223.07,
+      "attention_focus_score": 219.57,
       "item_count": 57,
       "source_count": 8,
       "platform_count": 6,
@@ -31,7 +31,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,922 upvotes · 💬 125 comments · r/worldnews",
+          "summary": "⬆ 4,939 upvotes · 💬 125 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -48,16 +48,6 @@
           "gravity_score": 6.5
         },
         {
-          "source": "reddit_politics",
-          "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
-          "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 1,447 upvotes · 💬 78 comments · r/politics",
-          "published_at": "2026-03-18 16:24:21+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.25
-        },
-        {
           "source": "coindesk",
           "title": "Kalshi co-founder fights back against Arizona’s ‘overstep’ in what a lawyer calls a federal-state turf war",
           "url": "https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war",
@@ -66,6 +56,16 @@
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.0
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
+          "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
+          "summary": "⬆ 1,532 upvotes · 💬 79 comments · r/politics",
+          "published_at": "2026-03-18 16:24:21+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 5.75
         },
         {
           "source": "cnbc",
@@ -81,15 +81,16 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 68.68,
+      "topic_score": 69.18,
       "attention_focus_score": 66.68,
       "item_count": 11,
-      "source_count": 5,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "npr_news",
+        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -102,10 +103,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 9,987 upvotes · 💬 674 comments · r/politics",
+          "summary": "⬆ 10,050 upvotes · 💬 679 comments · r/all",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -125,7 +126,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 4,429 upvotes · 💬 167 comments · r/politics",
+          "summary": "⬆ 4,477 upvotes · 💬 170 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -178,7 +179,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,551 upvotes · 💬 381 comments · r/worldnews",
+          "summary": "⬆ 4,566 upvotes · 💬 381 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -188,7 +189,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,586 upvotes · 💬 381 comments · r/worldnews",
+          "summary": "⬆ 2,592 upvotes · 💬 381 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -198,7 +199,7 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 545 upvotes · 💬 197 comments · r/popculturechat",
+          "summary": "⬆ 541 upvotes · 💬 197 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -314,7 +315,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,506 upvotes · 💬 480 comments · r/popculturechat",
+          "summary": "⬆ 4,521 upvotes · 💬 480 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -435,7 +436,7 @@
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 9.43,
       "priority_score": 17.43,
-      "source_platform": "reddit_politics",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
@@ -481,6 +482,29 @@
       "source_platform": "thehill",
       "source_label": "",
       "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "Kalshi co-founder fights back against Arizona’s ‘overstep’ in what a lawyer calls a federal-state turf war",
+      "gravity_score": 6.0,
+      "priority_score": 16.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -660,23 +684,6 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "music_charts",
-      "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
-      "gravity_score": 8.8,
-      "priority_score": 8.8,
-      "source_platform": "TikTok",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "TikTok"
-      ],
-      "debatable_angles": [
-        "Will it debut at #1 on Billboard 200?",
-        "Will first-week streaming numbers exceed a specific threshold?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     }
   ],
   "platform_snapshots": {
@@ -692,7 +699,7 @@
         "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
         "score": 9.43,
-        "source": "reddit_politics",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
       {
@@ -710,11 +717,11 @@
         "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
       },
       {
-        "topic": "politics",
-        "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
-        "score": 6.25,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/"
+        "topic": "geopolitics",
+        "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
+        "score": 5.75,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/"
       }
     ],
     "X": [
