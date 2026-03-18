@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T15:44:23.225593+00:00",
+  "generated_at_utc": "2026-03-18T15:46:36.022145+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 191.76,
-      "attention_focus_score": 188.76,
+      "topic_score": 191.24,
+      "attention_focus_score": 188.24,
       "item_count": 52,
       "source_count": 7,
       "platform_count": 5,
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,316 upvotes · 💬 109 comments · r/worldnews",
+          "summary": "⬆ 3,351 upvotes · 💬 109 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -69,7 +69,7 @@
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,604 upvotes · 💬 387 comments · r/news",
+          "summary": "⬆ 3,611 upvotes · 💬 387 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,8 +79,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 78.41,
-      "attention_focus_score": 77.91,
+      "topic_score": 81.78,
+      "attention_focus_score": 81.28,
       "item_count": 15,
       "source_count": 2,
       "platform_count": 2,
@@ -115,6 +115,16 @@
         },
         {
           "source": "coindesk",
+          "title": "Trump-linked American Bitcoin's BTC holdings overtake Mike Novogratz’s Galaxy Digital",
+          "url": "https://www.coindesk.com/business/2026/03/18/trump-linked-american-bitcoin-just-overtook-mike-novogratz-s-galaxy-digital-in-the-bitcoin-rankings",
+          "summary": "American Bitcoin (ABTC) has climbed to become the 16th-largest bitcoin holder, with 6,899 BTC, as firms compete to build bitcoin treasuries.",
+          "published_at": "2026-03-18 15:44:32+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
           "title": "Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
           "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
           "summary": "Bitcoin remains stuck near key resistance around $75,000, leaving the broader market in limbo.",
@@ -132,23 +142,13 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin hash rate is tumbling as Iran war lifts energy prices",
-          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-hash-rate-is-tumbling-as-iran-war-lifts-energy-prices",
-          "summary": "A falling hash rate and the resultant pressure on miners could signal another potential capitulation phase, which could push prices down further",
-          "published_at": "2026-03-18 14:53:08+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 70.84,
-      "attention_focus_score": 67.84,
+      "topic_score": 69.78,
+      "attention_focus_score": 66.78,
       "item_count": 14,
       "source_count": 7,
       "platform_count": 5,
@@ -173,7 +173,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,750 upvotes · 💬 1,459 comments · r/worldnews",
+          "summary": "⬆ 11,747 upvotes · 💬 1,459 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -193,7 +193,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,440 upvotes · 💬 173 comments · r/worldnews",
+          "summary": "⬆ 1,437 upvotes · 💬 173 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -203,7 +203,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 3,871 upvotes · 💬 359 comments · r/worldnews",
+          "summary": "⬆ 3,887 upvotes · 💬 359 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,7 +213,7 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,412 upvotes · 💬 97 comments · r/news",
+          "summary": "⬆ 2,416 upvotes · 💬 97 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -223,8 +223,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 59.03,
-      "attention_focus_score": 57.03,
+      "topic_score": 60.42,
+      "attention_focus_score": 58.42,
       "item_count": 9,
       "source_count": 5,
       "platform_count": 5,
@@ -255,23 +255,23 @@
         },
         {
           "source": "reddit_politics",
+          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
+          "summary": "⬆ 452 upvotes · 💬 36 comments · r/politics",
+          "published_at": "2026-03-18 15:09:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.48
+        },
+        {
+          "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 3,961 upvotes · 💬 271 comments · r/politics",
+          "summary": "⬆ 4,029 upvotes · 💬 279 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 6.83
-        },
-        {
-          "source": "reddit_politics",
-          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 379 upvotes · 💬 32 comments · r/politics",
-          "published_at": "2026-03-18 15:09:46+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.17
         },
         {
           "source": "npr_news",
@@ -319,7 +319,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,333 upvotes · 💬 469 comments · r/popculturechat",
+          "summary": "⬆ 4,336 upvotes · 💬 469 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -498,6 +498,27 @@
     },
     {
       "topic": "everyday_economy",
+      "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+      "gravity_score": 7.48,
+      "priority_score": 15.48,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 6.83,
       "priority_score": 14.83,
@@ -560,27 +581,6 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-      "gravity_score": 6.17,
-      "priority_score": 14.17,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "reality_tv",
@@ -704,6 +704,13 @@
       },
       {
         "topic": "everyday_economy",
+        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+        "score": 7.48,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
+      },
+      {
+        "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
         "score": 6.83,
         "source": "reddit_politics",
@@ -722,13 +729,6 @@
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-        "score": 6.17,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
       }
     ],
     "X": [
