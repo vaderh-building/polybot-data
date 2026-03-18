@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T15:09:13.113751+00:00",
+  "generated_at_utc": "2026-03-18T15:11:26.080751+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 189.68,
-      "attention_focus_score": 186.68,
-      "item_count": 50,
+      "topic_score": 195.92,
+      "attention_focus_score": 192.92,
+      "item_count": 51,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -39,11 +39,21 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 2,903 upvotes · 💬 102 comments · r/worldnews",
+          "summary": "⬆ 2,928 upvotes · 💬 103 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.75
+        },
+        {
+          "source": "coindesk",
+          "title": "Key U.S. senator on crypto market structure bill negotiation: 'We think we've got it\"",
+          "url": "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it",
+          "summary": "Senator Cynthia Lummis, at the center of legislative talks, said the discussion is down to nuance and the bill will finally emerge from her committee in April.",
+          "published_at": "2026-03-18 15:10:40+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
         },
         {
           "source": "thehill",
@@ -64,23 +74,13 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.0
-        },
-        {
-          "source": "thehill",
-          "title": "Housing bill backed by Senate GOP, Trump hits roadblocks with House Republicans",
-          "url": "https://thehill.com/homenews/house/5788573-housing-affordability-bill-house/",
-          "summary": "A sweeping bipartisan housing affordability package that overwhelmingly cleared the Senate faces a tough road in the House, where conservatives are signaling they plan to oppose the legislation. The 21st Century ROAD to Housing Act, spearheaded by Senate Banking Committee Chair Tim Scott (R-S.C.) and ranking member Elizabeth Warren (D-Mass.), would approve incentives to build&#8230;",
-          "published_at": "2026-03-18 10:00:00+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 76.44,
-      "attention_focus_score": 73.94,
+      "topic_score": 75.91,
+      "attention_focus_score": 73.41,
       "item_count": 15,
       "source_count": 6,
       "platform_count": 5,
@@ -104,7 +104,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 4,559 upvotes · 💬 501 comments · r/worldnews",
+          "summary": "⬆ 4,558 upvotes · 💬 501 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -114,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 28,020 upvotes · 💬 1,365 comments · r/worldnews",
+          "summary": "⬆ 28,025 upvotes · 💬 1,365 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -124,7 +124,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,710 upvotes · 💬 1,454 comments · r/worldnews",
+          "summary": "⬆ 11,711 upvotes · 💬 1,454 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -134,7 +134,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,427 upvotes · 💬 161 comments · r/worldnews",
+          "summary": "⬆ 1,425 upvotes · 💬 162 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -154,9 +154,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 67.16,
-      "attention_focus_score": 66.66,
-      "item_count": 14,
+      "topic_score": 63.78,
+      "attention_focus_score": 63.28,
+      "item_count": 13,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -256,7 +256,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 2,327 upvotes · 💬 178 comments · r/politics",
+          "summary": "⬆ 2,401 upvotes · 💬 182 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -316,7 +316,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,270 upvotes · 💬 463 comments · r/popculturechat",
+          "summary": "⬆ 4,263 upvotes · 💬 464 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -575,6 +575,29 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "politics",
+      "event": "Key U.S. senator on crypto market structure bill negotiation: 'We think we've got it\"",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a specific member state publicly commit troops or assets?",
+        "Will an emergency NATO summit be convened within 30 days?",
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
       "topic": "everyday_economy",
       "event": "Trump temporarily waives the Jones Act to try to lower gas prices",
       "gravity_score": 5.85,
@@ -615,27 +638,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "politics",
-      "event": "White House offers body camera expansion, immigration enforcement limitations in DHS reopening bid",
-      "gravity_score": 5.0,
-      "priority_score": 13.0,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/homenews/administration/5789534-white-house-body-cameras-immigration-enforcement-limits-dhs-shutdown/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "reality_tv",
@@ -874,19 +876,19 @@
         "source_label": "CoinDesk"
       },
       {
+        "topic": "politics",
+        "title": "[CoinDesk] Key U.S. senator on crypto market structure bill negotiation: 'We think we've got it\"",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it",
+        "source_label": "CoinDesk"
+      },
+      {
         "topic": "crypto",
         "title": "[CoinDesk] Bitcoin hash rate is tumbling as Iran war lifts energy prices",
         "score": 6.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-hash-rate-is-tumbling-as-iran-war-lifts-energy-prices",
-        "source_label": "CoinDesk"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] U.S. SEC issues first-ever definitions for what crypto assets are securities",
-        "score": 6.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
         "source_label": "CoinDesk"
       }
     ]
