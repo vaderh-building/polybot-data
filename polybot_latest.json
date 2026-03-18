@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-18T17:42:45.544966+00:00",
+  "generated_at_utc": "2026-03-18T17:44:54.677447+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -51,7 +51,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,516 upvotes · 💬 122 comments · r/worldnews",
+          "summary": "⬆ 4,527 upvotes · 💬 122 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -61,7 +61,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 463 upvotes · 💬 43 comments · r/politics",
+          "summary": "⬆ 520 upvotes · 💬 46 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -71,7 +71,7 @@
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,715 upvotes · 💬 394 comments · r/news",
+          "summary": "⬆ 3,713 upvotes · 💬 394 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -104,7 +104,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,426 upvotes · 💬 374 comments · r/worldnews",
+          "summary": "⬆ 4,426 upvotes · 💬 375 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -114,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,368 upvotes · 💬 357 comments · r/worldnews",
+          "summary": "⬆ 2,377 upvotes · 💬 358 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -154,8 +154,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 62.5,
-      "attention_focus_score": 62.5,
+      "topic_score": 62.0,
+      "attention_focus_score": 62.0,
       "item_count": 15,
       "source_count": 1,
       "platform_count": 1,
@@ -220,15 +220,16 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 61.78,
-      "attention_focus_score": 59.78,
-      "item_count": 10,
-      "source_count": 5,
+      "topic_score": 56.77,
+      "attention_focus_score": 54.27,
+      "item_count": 9,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "npr_news",
+        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -241,10 +242,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 8,701 upvotes · 💬 597 comments · r/politics",
+          "summary": "⬆ 8,754 upvotes · 💬 601 comments · r/all",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -254,7 +255,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 3,185 upvotes · 💬 135 comments · r/politics",
+          "summary": "⬆ 3,250 upvotes · 💬 137 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -272,20 +273,20 @@
         },
         {
           "source": "cnbc",
-          "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
-          "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
-          "summary": "Futures markets took any realistic chance of a cut off the table until at least December.",
-          "published_at": "2026-03-18 16:01:33+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.2
-        },
-        {
-          "source": "cnbc",
           "title": "Fed to still cut rates this year, even as high oil prices spark an uptick in inflation: CNBC Fed Survey",
           "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
           "summary": "The 32 respondents, including fund managers, analysts and economists, see oil prices on average at $88 a barrel six months from now.",
           "published_at": "2026-03-18 12:34:56+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
+        },
+        {
+          "source": "cnbc",
+          "title": "Mortgage refinance demand plunges 19% after interest rates shoot higher",
+          "url": "https://www.cnbc.com/2026/03/18/mortgage-refinance-demand-plunges-19percent-after-interest-rates-shoot-higher.html",
+          "summary": "Mortgage rates shot higher last week, as the war with Iran stoked fears over inflation. That caused a major drop in refinance demand, but buyer demand improved.",
+          "published_at": "2026-03-18 11:54:27+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 4.55
@@ -314,7 +315,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,473 upvotes · 💬 478 comments · r/popculturechat",
+          "summary": "⬆ 4,481 upvotes · 💬 478 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -504,7 +505,7 @@
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 8.12,
       "priority_score": 16.12,
-      "source_platform": "reddit_politics",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
@@ -703,7 +704,7 @@
         "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
         "score": 8.12,
-        "source": "reddit_politics",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
       {
@@ -829,7 +830,7 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "fc barcelona",
+        "title": "barcelona",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
