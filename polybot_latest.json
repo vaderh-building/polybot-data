@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T22:42:58.015022+00:00",
+  "generated_at_utc": "2026-03-18T22:45:16.026169+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 134.3,
-      "attention_focus_score": 132.3,
+      "topic_score": 133.22,
+      "attention_focus_score": 131.22,
       "item_count": 36,
       "source_count": 5,
       "platform_count": 5,
@@ -25,16 +25,6 @@
       "top_items": [
         {
           "source": "thehill",
-          "title": "Murphy: ‘Somebody becoming a millionaire’ in White House ‘grift operation’",
-          "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
-          "summary": "Sen. Chris Murphy (D-Conn.) on Tuesday accused the White House of running a “24/7 grift operation” that has allowed officials in President Trump’s orbit to personally profit off public donations. &#160; Trump has faced backlash after a political action committee tied to him sent out a fundraising email last week that included an image of&#8230;",
-          "published_at": "2026-03-18 22:14:40+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "thehill",
           "title": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
           "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
           "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) and Sen. Alex Padilla (D-Calif.) will speak with reporters Wednesday morning to voice their opposition to the GOP-led Safeguard American Voter Eligibility (SAVE) America Act. The election reform bill, backed by President Trump, would require Americans to show proof of citizenship when registering to vote and to bring a&#8230;",
@@ -49,6 +39,16 @@
           "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
           "summary": "Consumers are seeing fuel prices rapidly rise as the Iran war has triggered the biggest oil supply disruption in history.",
           "published_at": "2026-03-18 20:11:57+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "thehill",
+          "title": "Murphy: ‘Somebody becoming a millionaire’ in White House ‘grift operation’",
+          "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
+          "summary": "Sen. Chris Murphy (D-Conn.) on Tuesday accused the White House of running a “24/7 grift operation” that has allowed officials in President Trump’s orbit to personally profit off public donations. &#160; Trump has faced backlash after a political action committee tied to him sent out a fundraising email last week that included an image of&#8230;",
+          "published_at": "2026-03-18 22:14:40+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.0
@@ -77,8 +77,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 66.59,
-      "attention_focus_score": 66.09,
+      "topic_score": 66.03,
+      "attention_focus_score": 65.53,
       "item_count": 16,
       "source_count": 2,
       "platform_count": 2,
@@ -122,21 +122,21 @@
           "gravity_score": 4.5
         },
         {
-          "source": "coindesk",
-          "title": "SEC approves Nasdaq's move to support tokenized securities trading",
-          "url": "https://www.coindesk.com/policy/2026/03/18/sec-approves-nasdaq-s-move-to-allow-tokenized-securities-trading",
-          "summary": "The SEC’s approval lets Nasdaq test blockchain-based versions of stocks that trade and settle like traditional shares.",
-          "published_at": "2026-03-18 20:44:02+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 4.0
-        },
-        {
           "source": "cnbc",
           "title": "AI, crypto industries dump millions into Illinois primaries to mixed results",
           "url": "https://www.cnbc.com/2026/03/18/ai-crpyto-illinois-primaries-2026-elections.html",
           "summary": "Illinois' early primary shows the limits of the AI and cryptocurrency industries' spending power on shaping Congress.",
           "published_at": "2026-03-18 18:53:21+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 3.5
+        },
+        {
+          "source": "coindesk",
+          "title": "SEC approves Nasdaq's move to support tokenized securities trading",
+          "url": "https://www.coindesk.com/policy/2026/03/18/sec-approves-nasdaq-s-move-to-allow-tokenized-securities-trading",
+          "summary": "The SEC’s approval lets Nasdaq test blockchain-based versions of stocks that trade and settle like traditional shares.",
+          "published_at": "2026-03-18 20:44:02+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 3.5
@@ -215,8 +215,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 34.8,
-      "attention_focus_score": 33.8,
+      "topic_score": 33.34,
+      "attention_focus_score": 32.34,
       "item_count": 7,
       "source_count": 3,
       "platform_count": 3,
@@ -232,21 +232,21 @@
       ],
       "top_items": [
         {
-          "source": "thehill",
-          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
-          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
-          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
-          "published_at": "2026-03-18 22:13:52+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 6.08
-        },
-        {
           "source": "cnbc",
           "title": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
           "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
           "summary": "The verbal agreement marks the end of a prolonged and often contentious battle that threatened the start of the WNBA season.",
           "published_at": "2026-03-18 17:10:13+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.73
+        },
+        {
+          "source": "thehill",
+          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
+          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
+          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
+          "published_at": "2026-03-18 22:13:52+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 4.73
@@ -407,27 +407,6 @@
   "market_suggestions": [
     {
       "topic": "politics",
-      "event": "Murphy: ‘Somebody becoming a millionaire’ in White House ‘grift operation’",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
       "event": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
       "gravity_score": 6.0,
       "priority_score": 14.0,
@@ -472,24 +451,25 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "reality_tv",
-      "event": "Fetterman says Democrats governed by Trump Derangement Syndrome",
-      "gravity_score": 6.08,
-      "priority_score": 10.08,
+      "topic": "politics",
+      "event": "Murphy: ‘Somebody becoming a millionaire’ in White House ‘grift operation’",
+      "gravity_score": 5.0,
+      "priority_score": 13.0,
       "source_platform": "thehill",
       "source_label": "",
-      "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
+      "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
+        "coindesk",
+        "politico",
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?"
       ],
-      "verifiable_via": "Network broadcast / Official show accounts"
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "social_virality",
@@ -533,6 +513,26 @@
       "source_platform": "cnbc",
       "source_label": "",
       "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Fetterman says Democrats governed by Trump Derangement Syndrome",
+      "gravity_score": 4.73,
+      "priority_score": 8.73,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -781,28 +781,12 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "reality_tv",
-        "title": "[The Hill] Fetterman says Democrats governed by Trump Derangement Syndrome",
-        "score": 6.08,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
-        "source_label": "The Hill"
-      },
-      {
         "topic": "crypto",
         "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
         "score": 6.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Murphy: ‘Somebody becoming a millionaire’ in White House ‘grift operation’",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
-        "source_label": "The Hill"
       },
       {
         "topic": "politics",
@@ -819,6 +803,22 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
+        "score": 5.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] Murphy: ‘Somebody becoming a millionaire’ in White House ‘grift operation’",
+        "score": 5.0,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
+        "source_label": "The Hill"
       }
     ]
   }
