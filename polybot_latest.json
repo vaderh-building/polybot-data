@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T16:09:23.621501+00:00",
+  "generated_at_utc": "2026-03-18T16:11:30.641496+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 181.36,
-      "attention_focus_score": 178.36,
+      "topic_score": 180.32,
+      "attention_focus_score": 177.32,
       "item_count": 49,
       "source_count": 7,
       "platform_count": 5,
@@ -39,27 +39,17 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,590 upvotes · 💬 111 comments · r/worldnews",
+          "summary": "⬆ 3,623 upvotes · 💬 111 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.75
         },
         {
-          "source": "coindesk",
-          "title": "Key U.S. senator on crypto market structure bill negotiation: 'We think we've got it'",
-          "url": "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it",
-          "summary": "Senator Cynthia Lummis, at the center of legislative talks, said the discussion is down to nuance and the bill will finally emerge from her committee in April.",
-          "published_at": "2026-03-18 15:10:40+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,645 upvotes · 💬 388 comments · r/news",
+          "summary": "⬆ 3,643 upvotes · 💬 389 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -69,11 +59,21 @@
           "source": "reddit_worldnews",
           "title": "Kim Jong-Un’s Workers' Party of Korea Wins In North Korea Election 2026 With 99.93% securing all seats in the 2026 parliamentary elections. Official figures reported that 99.99% of registered voters took part.",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwqbyg/kim_jonguns_workers_party_of_korea_wins_in_north/",
-          "summary": "⬆ 2,534 upvotes · 💬 210 comments · r/worldnews",
+          "summary": "⬆ 2,536 upvotes · 💬 210 comments · r/worldnews",
           "published_at": "2026-03-18 01:35:40+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 4.75
+        },
+        {
+          "source": "politico",
+          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
+          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
+          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
+          "published_at": "2026-03-12 08:45:00+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
@@ -147,9 +147,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 78.53,
-      "attention_focus_score": 75.53,
-      "item_count": 16,
+      "topic_score": 71.37,
+      "attention_focus_score": 68.37,
+      "item_count": 15,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -170,16 +170,6 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
-          "title": "NATO countries don't want to get involved in Iran operation, Trump says",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,778 upvotes · 💬 1,461 comments · r/worldnews",
-          "published_at": "2026-03-17 16:10:33+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
           "source": "cnbc",
           "title": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
           "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
@@ -193,7 +183,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 1,644 upvotes · 💬 293 comments · r/worldnews",
+          "summary": "⬆ 1,666 upvotes · 💬 294 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -203,7 +193,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 3,985 upvotes · 💬 360 comments · r/worldnews",
+          "summary": "⬆ 4,009 upvotes · 💬 360 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,18 +203,28 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,417 upvotes · 💬 97 comments · r/news",
+          "summary": "⬆ 2,427 upvotes · 💬 97 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.75
+        },
+        {
+          "source": "bbc_top",
+          "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
+          "url": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
+          "summary": "An elderly couple was killed after a bomb flew into their apartment in central Israel and exploded.",
+          "published_at": "2026-03-18 16:04:29+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 60.41,
-      "attention_focus_score": 58.41,
+      "topic_score": 59.02,
+      "attention_focus_score": 57.02,
       "item_count": 9,
       "source_count": 5,
       "platform_count": 5,
@@ -247,7 +247,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 5,017 upvotes · 💬 355 comments · r/politics",
+          "summary": "⬆ 5,127 upvotes · 💬 364 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -267,11 +267,11 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 1,002 upvotes · 💬 65 comments · r/politics",
+          "summary": "⬆ 1,055 upvotes · 💬 67 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 7.48
+          "gravity_score": 6.17
         },
         {
           "source": "cnbc",
@@ -319,7 +319,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,359 upvotes · 💬 471 comments · r/popculturechat",
+          "summary": "⬆ 4,360 upvotes · 💬 471 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -508,27 +508,6 @@
       "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
-      "topic": "everyday_economy",
-      "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-      "gravity_score": 7.48,
-      "priority_score": 15.48,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
       "topic": "politics",
       "event": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
       "gravity_score": 7.0,
@@ -572,27 +551,25 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "geopolitics",
-      "event": "NATO countries don't want to get involved in Iran operation, Trump says",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
+      "topic": "everyday_economy",
+      "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+      "gravity_score": 6.17,
+      "priority_score": 14.17,
+      "source_platform": "reddit_politics",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
+      "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
       "platforms_discussing": [
-        "bbc",
         "cnbc",
+        "coindesk",
         "npr",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?"
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
       ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "geopolitics",
@@ -641,12 +618,12 @@
     },
     {
       "topic": "politics",
-      "event": "Key U.S. senator on crypto market structure bill negotiation: 'We think we've got it'",
-      "gravity_score": 5.0,
-      "priority_score": 13.0,
-      "source_platform": "coindesk",
+      "event": "Florida bill against marrying your first cousin fails",
+      "gravity_score": 4.75,
+      "priority_score": 12.75,
+      "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it",
+      "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
       "platforms_discussing": [
         "bbc",
         "coindesk",
@@ -655,12 +632,32 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
         "Will this bill pass committee/floor vote by a specific date?",
         "Will the president sign or veto it?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
+      "gravity_score": 4.75,
+      "priority_score": 12.75,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "reality_tv",
@@ -722,25 +719,25 @@
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
       {
-        "topic": "everyday_economy",
-        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-        "score": 7.48,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "NATO countries don't want to get involved in Iran operation, Trump says",
-        "score": 6.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
-      },
-      {
         "topic": "politics",
         "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+        "score": 6.17,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "Strike hits South Pars, world’s largest gas field, in Iran",
+        "score": 5.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/"
       }
     ],
     "X": [
