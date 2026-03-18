@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T14:58:18.690874+00:00",
+  "generated_at_utc": "2026-03-18T15:00:32.128160+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 189.68,
-      "attention_focus_score": 186.68,
+      "topic_score": 187.6,
+      "attention_focus_score": 184.6,
       "item_count": 50,
       "source_count": 7,
       "platform_count": 5,
@@ -29,7 +29,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 2,757 upvotes · 💬 101 comments · r/worldnews",
+          "summary": "⬆ 2,793 upvotes · 💬 102 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -66,14 +66,14 @@
           "gravity_score": 5.0
         },
         {
-          "source": "thehill",
-          "title": "House Democrats unveil energy policy priorities as Senate talks resume",
-          "url": "https://thehill.com/policy/energy-environment/5788583-democrats-green-energy-talks/",
-          "summary": "House Democrats are putting their energy policy priorities forward in a new bill that’s being co-sponsored by more than half of their caucus. The measure, led by Democratic Reps. Sean Casten (Ill.) and Mike Levin (Calif.) would restore climate-friendly energy tax credits repealed by Republicans and prevent the Trump administration from imposing burdens on renewables.&#8230;",
-          "published_at": "2026-03-18 09:00:00+00:00",
+          "source": "reddit_news",
+          "title": "Florida bill against marrying your first cousin fails",
+          "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
+          "summary": "⬆ 3,545 upvotes · 💬 383 comments · r/news",
+          "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 5.0
+          "keyword_hits": 1,
+          "gravity_score": 4.75
         }
       ]
     },
@@ -104,7 +104,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 4,557 upvotes · 💬 501 comments · r/worldnews",
+          "summary": "⬆ 4,551 upvotes · 💬 501 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -114,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 28,008 upvotes · 💬 1,365 comments · r/worldnews",
+          "summary": "⬆ 28,017 upvotes · 💬 1,365 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -124,7 +124,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,689 upvotes · 💬 1,451 comments · r/worldnews",
+          "summary": "⬆ 11,691 upvotes · 💬 1,454 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -154,8 +154,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 68.84,
-      "attention_focus_score": 68.34,
+      "topic_score": 67.72,
+      "attention_focus_score": 67.22,
       "item_count": 14,
       "source_count": 2,
       "platform_count": 2,
@@ -200,20 +200,20 @@
         },
         {
           "source": "coindesk",
-          "title": "Large investors are doubling down on crypto, but getting a lot pickier about risk",
-          "url": "https://www.coindesk.com/business/2026/03/18/large-investors-are-doubling-down-on-crypto-but-getting-a-lot-pickier-about-risk",
-          "summary": "Most institutional investors plan to increase allocations even as concerns around regulation and risk management continue to grow.",
-          "published_at": "2026-03-18 14:00:00+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
           "title": "Bitcoin's rally faces key hurdle with Wednesday's Fed meeting",
           "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-s-rally-faces-key-hurdle-with-wednesday-s-fed-meeting",
           "summary": "Hot PPI inflation data in the morning and hawkish remarks by Powell in the afternoon would be the most damaging combination for risk assets, including crypto, Bitfinex analysts said.",
           "published_at": "2026-03-17 20:30:27+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "coindesk",
+          "title": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
+          "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
+          "summary": "Here, Wellener offers tactics that firms must use to prove they’re more than just a crypto play.",
+          "published_at": "2026-03-17 16:30:00+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
@@ -222,8 +222,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 57.31,
-      "attention_focus_score": 55.31,
+      "topic_score": 55.93,
+      "attention_focus_score": 53.93,
       "item_count": 8,
       "source_count": 5,
       "platform_count": 5,
@@ -256,7 +256,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 1,893 upvotes · 💬 160 comments · r/politics",
+          "summary": "⬆ 1,983 upvotes · 💬 163 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -273,21 +273,21 @@
           "gravity_score": 5.85
         },
         {
-          "source": "thehill",
-          "title": "Trump temporarily loosening shipping rules in bid to lower gas prices",
-          "url": "https://thehill.com/policy/energy-environment/5789557-iran-war-jones-act-gas-prices/",
-          "summary": "The Trump administration is temporarily loosening shipping laws as part of an effort to lower gasoline and other commodity prices amid the conflict with Iran, though the effort may only have a small impact. The administration is issuing a 60-day waiver of the&#160;Jones Act, according to a Wednesday post&#160;from White House press secretary Karoline Leavitt.&#8230;",
-          "published_at": "2026-03-18 14:29:55+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.85
-        },
-        {
           "source": "cnbc",
           "title": "Fed to still cut rates this year, even as high oil prices spark an uptick in inflation: CNBC Fed Survey",
           "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
           "summary": "The 32 respondents, including fund managers, analysts and economists, see oil prices on average at $88 a barrel six months from now.",
           "published_at": "2026-03-18 12:34:56+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
+        },
+        {
+          "source": "cnbc",
+          "title": "Mortgage refinance demand plunges 19% after interest rates shoot higher",
+          "url": "https://www.cnbc.com/2026/03/18/mortgage-refinance-demand-plunges-19percent-after-interest-rates-shoot-higher.html",
+          "summary": "Mortgage rates shot higher last week, as the war with Iran stoked fears over inflation. That caused a major drop in refinance demand, but buyer demand improved.",
+          "published_at": "2026-03-18 11:54:27+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 4.55
@@ -316,7 +316,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,240 upvotes · 💬 462 comments · r/popculturechat",
+          "summary": "⬆ 4,236 upvotes · 💬 463 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -345,9 +345,47 @@
       ]
     },
     {
+      "topic": "music_charts",
+      "topic_score": 6.59,
+      "attention_focus_score": 6.09,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "npr_news",
+        "thehill"
+      ],
+      "platforms": [
+        "npr",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "npr_news",
+          "title": "Do you understand this billboard? If not, that's the whole point",
+          "url": "https://www.npr.org/2026/03/18/nx-s1-5746115/billboards-san-francisco-tech-ai-advertising-marketing",
+          "summary": "San Francisco's streets are plastered with cryptic ads from AI startups. The strategy is intentional — but it's not without cost.",
+          "published_at": "2026-03-18 09:00:00+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 2.17
+        },
+        {
+          "source": "thehill",
+          "title": "Retired general: Trump ‘completely mismanaged’ Iran war",
+          "url": "https://thehill.com/national-security/5788438-retired-general-slams-trump-iran/",
+          "summary": "A retired general on Monday accused President Trump of having &#8220;completely mismanaged&#8221; the U.S. conflict in Iran. Brig. Gen. Steven Anderson, in a guest appearance on &#8220;The Weeknight&#8221; on MS NOW, slammed the president for &#8220;single-handedly bringing about a new era in which American stature and influence is greatly reduced.&#8221; &#8220;He has completely mismanaged this&#8230;",
+          "published_at": "2026-03-17 21:25:34+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 2.17
+        }
+      ]
+    },
+    {
       "topic": "social_virality",
-      "topic_score": 7.2,
-      "attention_focus_score": 7.2,
+      "topic_score": 6.0,
+      "attention_focus_score": 6.0,
       "item_count": 1,
       "source_count": 1,
       "platform_count": 1,
@@ -366,33 +404,7 @@
           "published_at": "2026-03-18 14:30:00+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
-          "gravity_score": 7.2
-        }
-      ]
-    },
-    {
-      "topic": "music_charts",
-      "topic_score": 2.17,
-      "attention_focus_score": 2.17,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "thehill"
-      ],
-      "platforms": [
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "thehill",
-          "title": "Retired general: Trump ‘completely mismanaged’ Iran war",
-          "url": "https://thehill.com/national-security/5788438-retired-general-slams-trump-iran/",
-          "summary": "A retired general on Monday accused President Trump of having &#8220;completely mismanaged&#8221; the U.S. conflict in Iran. Brig. Gen. Steven Anderson, in a guest appearance on &#8220;The Weeknight&#8221; on MS NOW, slammed the president for &#8220;single-handedly bringing about a new era in which American stature and influence is greatly reduced.&#8221; &#8220;He has completely mismanaged this&#8230;",
-          "published_at": "2026-03-17 21:25:34+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 2.17
+          "gravity_score": 6.0
         }
       ]
     }
@@ -835,14 +847,6 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "social_virality",
-        "title": "[The Hill] Trump’s $10 billion TikTok ‘brokerage fee’ is just the tip of the iceberg",
-        "score": 7.2,
-        "source": "thehill",
-        "url": "https://thehill.com/opinion/white-house/5787721-trump-equity-stakes-companies/",
-        "source_label": "The Hill"
-      },
-      {
         "topic": "crypto",
         "title": "[CoinDesk] Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
         "score": 6.5,
@@ -865,6 +869,14 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
         "source_label": "CoinDesk"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] White House offers body camera expansion, immigration enforcement limitations in DHS reopening bid",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/administration/5789534-white-house-body-cameras-immigration-enforcement-limits-dhs-shutdown/",
+        "source_label": "The Hill"
       }
     ]
   }
