@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T16:13:46.535784+00:00",
+  "generated_at_utc": "2026-03-18T16:16:07.753268+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 180.32,
-      "attention_focus_score": 177.32,
-      "item_count": 49,
+      "topic_score": 185.0,
+      "attention_focus_score": 182.0,
+      "item_count": 50,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,648 upvotes · 💬 112 comments · r/worldnews",
+          "summary": "⬆ 3,669 upvotes · 💬 113 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -49,7 +49,7 @@
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,643 upvotes · 💬 389 comments · r/news",
+          "summary": "⬆ 3,649 upvotes · 💬 389 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -59,7 +59,7 @@
           "source": "reddit_worldnews",
           "title": "Kim Jong-Un’s Workers' Party of Korea Wins In North Korea Election 2026 With 99.93% securing all seats in the 2026 parliamentary elections. Official figures reported that 99.99% of registered voters took part.",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwqbyg/kim_jonguns_workers_party_of_korea_wins_in_north/",
-          "summary": "⬆ 2,541 upvotes · 💬 210 comments · r/worldnews",
+          "summary": "⬆ 2,543 upvotes · 💬 210 comments · r/worldnews",
           "published_at": "2026-03-18 01:35:40+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,8 +79,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 87.41,
-      "attention_focus_score": 86.91,
+      "topic_score": 85.16,
+      "attention_focus_score": 84.66,
       "item_count": 16,
       "source_count": 2,
       "platform_count": 2,
@@ -101,7 +101,7 @@
           "published_at": "2026-03-18 15:14:18+00:00",
           "topic": "crypto",
           "keyword_hits": 3,
-          "gravity_score": 8.0
+          "gravity_score": 7.0
         },
         {
           "source": "coindesk",
@@ -125,20 +125,20 @@
         },
         {
           "source": "coindesk",
-          "title": "Trump-linked American Bitcoin's BTC holdings overtake Mike Novogratz’s Galaxy Digital",
-          "url": "https://www.coindesk.com/business/2026/03/18/trump-linked-american-bitcoin-just-overtook-mike-novogratz-s-galaxy-digital-in-the-bitcoin-rankings",
-          "summary": "American Bitcoin (ABTC) has climbed to become the 16th-largest bitcoin holder, with 6,899 BTC, as firms compete to build bitcoin treasuries.",
-          "published_at": "2026-03-18 15:44:32+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
           "title": "Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
           "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
           "summary": "Bitcoin remains stuck near key resistance around $75,000, leaving the broader market in limbo.",
           "published_at": "2026-03-18 09:29:00+00:00",
+          "topic": "crypto",
+          "keyword_hits": 3,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "U.S. SEC issues first-ever definitions for what crypto assets are securities",
+          "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
+          "summary": "The U.S. Securities and Exchange Commission shared the informal guidance it'll use to classify crypto securities alongside its sister agency overseeing commodities.",
+          "published_at": "2026-03-17 20:28:11+00:00",
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 6.0
@@ -147,15 +147,14 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 75.08,
-      "attention_focus_score": 72.08,
+      "topic_score": 75.33,
+      "attention_focus_score": 72.83,
       "item_count": 15,
-      "source_count": 7,
-      "platform_count": 5,
+      "source_count": 6,
+      "platform_count": 4,
       "sources": [
         "bbc_top",
         "cnbc",
-        "npr_news",
         "reddit_news",
         "reddit_popculturechat",
         "reddit_worldnews",
@@ -164,7 +163,6 @@
       "platforms": [
         "bbc",
         "cnbc",
-        "npr",
         "reddit",
         "thehill"
       ],
@@ -193,7 +191,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 1,700 upvotes · 💬 297 comments · r/worldnews",
+          "summary": "⬆ 1,709 upvotes · 💬 298 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -203,7 +201,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,010 upvotes · 💬 360 comments · r/worldnews",
+          "summary": "⬆ 4,023 upvotes · 💬 360 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,7 +211,7 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,420 upvotes · 💬 97 comments · r/news",
+          "summary": "⬆ 2,420 upvotes · 💬 99 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -247,7 +245,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 5,207 upvotes · 💬 367 comments · r/politics",
+          "summary": "⬆ 5,302 upvotes · 💬 371 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -267,7 +265,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 1,127 upvotes · 💬 70 comments · r/politics",
+          "summary": "⬆ 1,158 upvotes · 💬 72 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -319,7 +317,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,369 upvotes · 💬 471 comments · r/popculturechat",
+          "summary": "⬆ 4,370 upvotes · 💬 472 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -605,73 +603,6 @@
       "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
-      "topic": "geopolitics",
-      "event": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Strike hits South Pars, world’s largest gas field, in Iran",
-      "gravity_score": 5.25,
-      "priority_score": 13.25,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the strike last more than 14 days?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
       "topic": "politics",
       "event": "Florida bill against marrying your first cousin fails",
       "gravity_score": 4.75,
@@ -691,6 +622,70 @@
         "Will the president sign or veto it?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
+      "gravity_score": 6.0,
+      "priority_score": 12.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
+      "gravity_score": 6.0,
+      "priority_score": 12.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Strike hits South Pars, world’s largest gas field, in Iran",
+      "gravity_score": 5.25,
+      "priority_score": 11.25,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the strike last more than 14 days?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "reality_tv",
@@ -905,20 +900,20 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
-        "score": 8.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
-        "source_label": "CoinDesk"
-      },
-      {
         "topic": "everyday_economy",
         "title": "[CNBC] Expectations for the next Fed rate cut get pushed back after hot inflation report",
         "score": 7.8,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
+        "score": 7.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
+        "source_label": "CoinDesk"
       },
       {
         "topic": "politics",
