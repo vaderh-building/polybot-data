@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T15:37:48.995996+00:00",
+  "generated_at_utc": "2026-03-18T15:40:00.750468+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 193.84,
-      "attention_focus_score": 190.84,
+      "topic_score": 192.8,
+      "attention_focus_score": 189.8,
       "item_count": 52,
       "source_count": 7,
       "platform_count": 5,
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,231 upvotes · 💬 109 comments · r/worldnews",
+          "summary": "⬆ 3,268 upvotes · 💬 109 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -57,16 +57,6 @@
         },
         {
           "source": "thehill",
-          "title": "White House offers body camera expansion, immigration enforcement limitations in DHS reopening bid",
-          "url": "https://thehill.com/homenews/administration/5789534-white-house-body-cameras-immigration-enforcement-limits-dhs-shutdown/",
-          "summary": "The White House this week unveiled a fresh counteroffer in a bid to reopen the Department of Homeland Security (DHS), which remains shut down as airport security lines grow and tensions escalate in the Middle East. In a letter outlining the status of negotiations with Democratic leaders on Capitol Hill, the White House agreed to&#8230;",
-          "published_at": "2026-03-18 14:38:04+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "thehill",
           "title": "Housing bill backed by Senate GOP, Trump hits roadblocks with House Republicans",
           "url": "https://thehill.com/homenews/house/5788573-housing-affordability-bill-house/",
           "summary": "A sweeping bipartisan housing affordability package that overwhelmingly cleared the Senate faces a tough road in the House, where conservatives are signaling they plan to oppose the legislation. The 21st Century ROAD to Housing Act, spearheaded by Senate Banking Committee Chair Tim Scott (R-S.C.) and ranking member Elizabeth Warren (D-Mass.), would approve incentives to build&#8230;",
@@ -74,6 +64,16 @@
           "topic": "politics",
           "keyword_hits": 3,
           "gravity_score": 5.0
+        },
+        {
+          "source": "reddit_news",
+          "title": "Florida bill against marrying your first cousin fails",
+          "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
+          "summary": "⬆ 3,603 upvotes · 💬 387 comments · r/news",
+          "published_at": "2026-03-17 19:26:22+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
         }
       ]
     },
@@ -173,7 +173,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,738 upvotes · 💬 1,458 comments · r/worldnews",
+          "summary": "⬆ 11,736 upvotes · 💬 1,459 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -193,7 +193,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,439 upvotes · 💬 172 comments · r/worldnews",
+          "summary": "⬆ 1,432 upvotes · 💬 172 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -203,7 +203,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 3,845 upvotes · 💬 358 comments · r/worldnews",
+          "summary": "⬆ 3,850 upvotes · 💬 359 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,7 +213,7 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,412 upvotes · 💬 96 comments · r/news",
+          "summary": "⬆ 2,411 upvotes · 💬 97 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -223,8 +223,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 59.04,
-      "attention_focus_score": 57.04,
+      "topic_score": 57.65,
+      "attention_focus_score": 55.65,
       "item_count": 9,
       "source_count": 5,
       "platform_count": 5,
@@ -245,19 +245,9 @@
       "top_items": [
         {
           "source": "reddit_politics",
-          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 215 upvotes · 💬 26 comments · r/politics",
-          "published_at": "2026-03-18 15:09:46+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 7.48
-        },
-        {
-          "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 3,664 upvotes · 💬 252 comments · r/politics",
+          "summary": "⬆ 3,760 upvotes · 💬 259 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -272,6 +262,16 @@
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 6.5
+        },
+        {
+          "source": "reddit_politics",
+          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
+          "summary": "⬆ 262 upvotes · 💬 28 comments · r/politics",
+          "published_at": "2026-03-18 15:09:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.17
         },
         {
           "source": "npr_news",
@@ -445,27 +445,6 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-      "gravity_score": 7.48,
-      "priority_score": 15.48,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 6.83,
       "priority_score": 14.83,
@@ -546,6 +525,27 @@
       ],
       "debatable_angles": [
         "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+      "gravity_score": 6.17,
+      "priority_score": 14.17,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -687,13 +687,6 @@
       },
       {
         "topic": "everyday_economy",
-        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-        "score": 7.48,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
-      },
-      {
-        "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
         "score": 6.83,
         "source": "reddit_politics",
@@ -712,6 +705,13 @@
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+        "score": 6.17,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
       }
     ],
     "X": [
