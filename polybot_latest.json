@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T17:38:22.559174+00:00",
+  "generated_at_utc": "2026-03-18T17:40:32.563720+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 190.01,
-      "attention_focus_score": 186.51,
+      "topic_score": 191.09,
+      "attention_focus_score": 187.59,
       "item_count": 51,
       "source_count": 8,
       "platform_count": 6,
@@ -51,7 +51,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,471 upvotes · 💬 122 comments · r/worldnews",
+          "summary": "⬆ 4,500 upvotes · 💬 122 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -61,17 +61,17 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 386 upvotes · 💬 40 comments · r/politics",
+          "summary": "⬆ 419 upvotes · 💬 42 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
-          "gravity_score": 5.25
+          "gravity_score": 6.25
         },
         {
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,708 upvotes · 💬 394 comments · r/news",
+          "summary": "⬆ 3,703 upvotes · 💬 394 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -81,8 +81,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 64.62,
-      "attention_focus_score": 62.62,
+      "topic_score": 63.54,
+      "attention_focus_score": 61.54,
       "item_count": 16,
       "source_count": 5,
       "platform_count": 4,
@@ -104,7 +104,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,393 upvotes · 💬 372 comments · r/worldnews",
+          "summary": "⬆ 4,405 upvotes · 💬 372 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -114,21 +114,11 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,331 upvotes · 💬 355 comments · r/worldnews",
+          "summary": "⬆ 2,347 upvotes · 💬 356 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.25
-        },
-        {
-          "source": "bbc_world",
-          "title": "Oil nears $110 a barrel after gas field strike",
-          "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-          "summary": "Iran's military warned it would take \"decisive action\" in response to the strike on its energy infrastructure.",
-          "published_at": "2026-03-18 17:10:08+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.5
         },
         {
           "source": "cnbc",
@@ -149,80 +139,16 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.0
-        }
-      ]
-    },
-    {
-      "topic": "everyday_economy",
-      "topic_score": 63.16,
-      "attention_focus_score": 61.16,
-      "item_count": 10,
-      "source_count": 5,
-      "platform_count": 5,
-      "sources": [
-        "cnbc",
-        "coindesk",
-        "npr_news",
-        "reddit_politics",
-        "thehill"
-      ],
-      "platforms": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_politics",
-          "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-          "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 8,568 upvotes · 💬 595 comments · r/politics",
-          "published_at": "2026-03-18 13:23:30+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 8.12
         },
         {
-          "source": "coindesk",
-          "title": "The era of cheap money is over as the Iran war creates a permanent 'inflation floor'",
-          "url": "https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor",
-          "summary": "The Iran war is creating a permanent inflation floor that could end the era of cheap money and expose the fragility of global energy markets.",
-          "published_at": "2026-03-18 17:09:02+00:00",
-          "topic": "everyday_economy",
+          "source": "reddit_popculturechat",
+          "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
+          "summary": "⬆ 496 upvotes · 💬 191 comments · r/popculturechat",
+          "published_at": "2026-03-18 10:06:47+00:00",
+          "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 7.8
-        },
-        {
-          "source": "reddit_politics",
-          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 3,031 upvotes · 💬 135 comments · r/politics",
-          "published_at": "2026-03-18 15:09:46+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.83
-        },
-        {
-          "source": "cnbc",
-          "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
-          "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
-          "summary": "Futures markets took any realistic chance of a cut off the table until at least December.",
-          "published_at": "2026-03-18 16:01:33+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.2
-        },
-        {
-          "source": "cnbc",
-          "title": "Fed to still cut rates this year, even as high oil prices spark an uptick in inflation: CNBC Fed Survey",
-          "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
-          "summary": "The 32 respondents, including fund managers, analysts and economists, see oil prices on average at $88 a barrel six months from now.",
-          "published_at": "2026-03-18 12:34:56+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
+          "gravity_score": 3.75
         }
       ]
     },
@@ -293,9 +219,83 @@
       ]
     },
     {
+      "topic": "everyday_economy",
+      "topic_score": 61.78,
+      "attention_focus_score": 59.78,
+      "item_count": 10,
+      "source_count": 5,
+      "platform_count": 5,
+      "sources": [
+        "cnbc",
+        "coindesk",
+        "npr_news",
+        "reddit_politics",
+        "thehill"
+      ],
+      "platforms": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_politics",
+          "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
+          "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
+          "summary": "⬆ 8,642 upvotes · 💬 596 comments · r/politics",
+          "published_at": "2026-03-18 13:23:30+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 8.12
+        },
+        {
+          "source": "reddit_politics",
+          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
+          "summary": "⬆ 3,125 upvotes · 💬 135 comments · r/politics",
+          "published_at": "2026-03-18 15:09:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.83
+        },
+        {
+          "source": "coindesk",
+          "title": "The era of cheap money is over as the Iran war creates a permanent 'inflation floor'",
+          "url": "https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor",
+          "summary": "The Iran war is creating a permanent inflation floor that could end the era of cheap money and expose the fragility of global energy markets.",
+          "published_at": "2026-03-18 17:09:02+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.5
+        },
+        {
+          "source": "cnbc",
+          "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
+          "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
+          "summary": "Futures markets took any realistic chance of a cut off the table until at least December.",
+          "published_at": "2026-03-18 16:01:33+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.2
+        },
+        {
+          "source": "cnbc",
+          "title": "Fed to still cut rates this year, even as high oil prices spark an uptick in inflation: CNBC Fed Survey",
+          "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
+          "summary": "The 32 respondents, including fund managers, analysts and economists, see oil prices on average at $88 a barrel six months from now.",
+          "published_at": "2026-03-18 12:34:56+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
+        }
+      ]
+    },
+    {
       "topic": "reality_tv",
-      "topic_score": 34.19,
-      "attention_focus_score": 33.19,
+      "topic_score": 31.95,
+      "attention_focus_score": 30.95,
       "item_count": 4,
       "source_count": 3,
       "platform_count": 3,
@@ -314,7 +314,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,468 upvotes · 💬 478 comments · r/popculturechat",
+          "summary": "⬆ 4,477 upvotes · 💬 478 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -328,7 +328,7 @@
           "published_at": "2026-03-18 17:10:13+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 8.1
+          "gravity_score": 6.75
         },
         {
           "source": "cnbc",
@@ -348,7 +348,7 @@
           "published_at": "2026-03-18 15:39:11+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 3.38
+          "gravity_score": 2.7
         }
       ]
     },
@@ -522,29 +522,6 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "The era of cheap money is over as the Iran war creates a permanent 'inflation floor'",
-      "gravity_score": 7.8,
-      "priority_score": 15.8,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
       "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
       "gravity_score": 6.83,
       "priority_score": 14.83,
@@ -565,6 +542,29 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
+      "topic": "everyday_economy",
+      "event": "The era of cheap money is over as the Iran war creates a permanent 'inflation floor'",
+      "gravity_score": 6.5,
+      "priority_score": 14.5,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
       "topic": "reality_tv",
       "event": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
       "gravity_score": 9.79,
@@ -572,26 +572,6 @@
       "source_platform": "reddit_popculturechat",
       "source_label": "",
       "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-      "platforms_discussing": [
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
-      "gravity_score": 8.1,
-      "priority_score": 12.1,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
       "platforms_discussing": [
         "cnbc",
         "reddit",
@@ -648,13 +628,33 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "geopolitics",
-      "event": "Oil nears $110 a barrel after gas field strike",
-      "gravity_score": 4.5,
-      "priority_score": 10.5,
-      "source_platform": "bbc_world",
+      "topic": "reality_tv",
+      "event": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
+      "gravity_score": 6.75,
+      "priority_score": 10.75,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
+      "platforms_discussing": [
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
+      "gravity_score": 4.0,
+      "priority_score": 10.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -662,10 +662,9 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will crude oil close above/below a specific price within 14 days?",
-        "Will OPEC announce production changes in response?",
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -721,11 +720,11 @@
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
       },
       {
-        "topic": "geopolitics",
-        "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
-        "score": 5.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/"
+        "topic": "politics",
+        "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
+        "score": 6.25,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/"
       }
     ],
     "X": [
@@ -865,27 +864,19 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "reality_tv",
-        "title": "[CNBC] WNBA and players' union reach verbal agreement on landmark new CBA deal",
-        "score": 8.1,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[CoinDesk] The era of cheap money is over as the Iran war creates a permanent 'inflation floor'",
-        "score": 7.8,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor",
-        "source_label": "CoinDesk"
-      },
-      {
         "topic": "politics",
         "title": "[CNBC] Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
         "score": 7.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "[CNBC] WNBA and players' union reach verbal agreement on landmark new CBA deal",
+        "score": 6.75,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
         "source_label": "CNBC"
       },
       {
@@ -895,6 +886,14 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "[CoinDesk] The era of cheap money is over as the Iran war creates a permanent 'inflation floor'",
+        "score": 6.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor",
+        "source_label": "CoinDesk"
       },
       {
         "topic": "crypto",
