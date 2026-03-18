@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T12:00:03.535134+00:00",
+  "generated_at_utc": "2026-03-18T14:04:15.752087+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 173.89,
-      "attention_focus_score": 170.39,
-      "item_count": 42,
+      "topic_score": 190.28,
+      "attention_focus_score": 186.78,
+      "item_count": 47,
       "source_count": 8,
       "platform_count": 6,
       "sources": [
@@ -31,35 +31,15 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 539 upvotes · 💬 48 comments · r/worldnews",
+          "summary": "⬆ 2,140 upvotes · 💬 91 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
-          "gravity_score": 6.25
-        },
-        {
-          "source": "coindesk",
-          "title": "U.S. Democrats target government officials gaming prediction markets on war action",
-          "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
-          "summary": "Potential indicators of prior-knowledge bets on U.S. military action spurred Democrats from the Senate and House of Representatives to introduce a new bill.",
-          "published_at": "2026-03-17 14:00:00+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 6.0
+          "gravity_score": 6.75
         },
         {
           "source": "thehill",
-          "title": "Thune: Republicans will use SAVE Act in midterms if Democrats don’t get ‘on board’",
-          "url": "https://thehill.com/homenews/senate/5789239-save-america-act-john-thune-democrats/",
-          "summary": "Senate Majority Leader John Thune (R-S.D.) says Republicans will attack Democrats in the fall elections for failing to enact the SAVE America Act if they don’t “get on board” with the voting reform bill, which is now on the Senate floor. Thune says the legislation, which would require documented proof of citizenship, such as passports&#8230;",
-          "published_at": "2026-03-18 11:35:20+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "thehill",
-          "title": "Bipartisan housing affordability bill faces tough road in House",
+          "title": "Housing bill backed by Senate GOP, Trump hits roadblocks with House Republicans",
           "url": "https://thehill.com/homenews/house/5788573-housing-affordability-bill-house/",
           "summary": "A sweeping bipartisan housing affordability package that overwhelmingly cleared the Senate faces a tough road in the House, where conservatives are signaling they plan to oppose the legislation. The 21st Century ROAD to Housing Act, spearheaded by Senate Banking Committee Chair Tim Scott (R-S.C.) and ranking member Elizabeth Warren (D-Mass.), would approve incentives to build&#8230;",
           "published_at": "2026-03-18 10:00:00+00:00",
@@ -76,21 +56,41 @@
           "topic": "politics",
           "keyword_hits": 3,
           "gravity_score": 5.0
+        },
+        {
+          "source": "reddit_news",
+          "title": "Florida bill against marrying your first cousin fails",
+          "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
+          "summary": "⬆ 3,467 upvotes · 💬 380 comments · r/news",
+          "published_at": "2026-03-17 19:26:22+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Kim Jong-Un’s Workers' Party of Korea Wins In North Korea Election 2026 With 99.93% securing all seats in the 2026 parliamentary elections. Official figures reported that 99.99% of registered voters took part.",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwqbyg/kim_jonguns_workers_party_of_korea_wins_in_north/",
+          "summary": "⬆ 2,389 upvotes · 💬 200 comments · r/worldnews",
+          "published_at": "2026-03-18 01:35:40+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 72.2,
-      "attention_focus_score": 69.7,
-      "item_count": 13,
+      "topic_score": 79.09,
+      "attention_focus_score": 76.59,
+      "item_count": 15,
       "source_count": 6,
       "platform_count": 5,
       "sources": [
         "bbc_top",
         "cnbc",
         "npr_news",
-        "reddit_news",
+        "reddit_popculturechat",
         "reddit_worldnews",
         "thehill"
       ],
@@ -106,7 +106,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 4,437 upvotes · 💬 487 comments · r/worldnews",
+          "summary": "⬆ 4,534 upvotes · 💬 501 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -116,7 +116,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 27,667 upvotes · 💬 1,357 comments · r/worldnews",
+          "summary": "⬆ 27,934 upvotes · 💬 1,363 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -126,39 +126,39 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,368 upvotes · 💬 1,430 comments · r/worldnews",
+          "summary": "⬆ 11,608 upvotes · 💬 1,445 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
-          "source": "reddit_worldnews",
-          "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 7,351 upvotes · 💬 151 comments · r/worldnews",
-          "published_at": "2026-03-17 13:18:21+00:00",
+          "source": "cnbc",
+          "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
+          "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
+          "summary": "Israel's Defense Forces said Wednesday that Iran's Intelligence Minister Esmail Khatib had been killed in a \"targeted strike\" in Tehran.",
+          "published_at": "2026-03-18 13:55:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.75
+          "gravity_score": 6.0
         },
         {
           "source": "reddit_worldnews",
-          "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 2,334 upvotes · 💬 266 comments · r/worldnews",
-          "published_at": "2026-03-18 06:01:31+00:00",
+          "title": "Strike hits South Pars, world’s largest gas field, in Iran",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
+          "summary": "⬆ 523 upvotes · 💬 147 comments · r/worldnews",
+          "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.25
+          "gravity_score": 5.75
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 67.72,
-      "attention_focus_score": 67.22,
-      "item_count": 14,
+      "topic_score": 71.66,
+      "attention_focus_score": 71.16,
+      "item_count": 15,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -182,10 +182,10 @@
         },
         {
           "source": "coindesk",
-          "title": "UK lawmakers urge ‘immediate moratorium’ on crypto political donations",
-          "url": "https://www.coindesk.com/policy/2026/03/18/uk-lawmakers-urge-immediate-moratorium-on-crypto-political-donations",
-          "summary": "The committee highlighted that the fast payment traits of crypto, along with tools like mixers, tumblers, and AI-assisted splitting of payments below the £500 reporting threshold.",
-          "published_at": "2026-03-18 11:57:12+00:00",
+          "title": "Large investors are doubling down on crypto, but getting a lot pickier about risk",
+          "url": "https://www.coindesk.com/business/2026/03/18/large-investors-are-doubling-down-on-crypto-but-getting-a-lot-pickier-about-risk",
+          "summary": "Most institutional investors plan to increase allocations even as concerns around regulation and risk management continue to grow.",
+          "published_at": "2026-03-18 14:00:00+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -224,20 +224,62 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 18.56,
-      "attention_focus_score": 18.06,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
+      "topic_score": 41.68,
+      "attention_focus_score": 40.68,
+      "item_count": 6,
+      "source_count": 3,
+      "platform_count": 3,
       "sources": [
         "cnbc",
-        "coindesk"
+        "coindesk",
+        "reddit_politics"
       ],
       "platforms": [
         "cnbc",
-        "coindesk"
+        "coindesk",
+        "reddit"
       ],
       "top_items": [
+        {
+          "source": "reddit_politics",
+          "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
+          "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
+          "summary": "⬆ 396 upvotes · 💬 53 comments · r/politics",
+          "published_at": "2026-03-18 13:23:30+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.48
+        },
+        {
+          "source": "cnbc",
+          "title": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
+          "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html",
+          "summary": "Wholesale prices rose sharply in February, providing another sign that inflation continues to percolate even aside from rising energy prices.",
+          "published_at": "2026-03-18 13:13:09+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.5
+        },
+        {
+          "source": "cnbc",
+          "title": "Fed to still cut rates this year, even as high oil prices spark an uptick in inflation: CNBC Fed Survey",
+          "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
+          "summary": "The 32 respondents, including fund managers, analysts and economists, see oil prices on average at $88 a barrel six months from now.",
+          "published_at": "2026-03-18 12:34:56+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.2
+        },
+        {
+          "source": "coindesk",
+          "title": "Bitcoin quickly pulls back to $72,300 as Iran fears team up with poor U.S. inflation data",
+          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-quickly-pulls-back-to-usd72-300-as-iran-fears-team-up-with-poor-u-s-inflation-data",
+          "summary": "The price of oil moved higher after reported attacks against Iran's South Pars gas field.",
+          "published_at": "2026-03-18 12:50:43+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.2
+        },
         {
           "source": "cnbc",
           "title": "Mortgage refinance demand plunges 19% after interest rates shoot higher",
@@ -246,33 +288,25 @@
           "published_at": "2026-03-18 11:54:27+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 7.8
-        },
-        {
-          "source": "coindesk",
-          "title": "Powell's comments on oil, inflation are likely to guide bitcoin traders",
-          "url": "https://www.coindesk.com/daybook-us/2026/03/18/powell-s-comments-on-oil-inflation-are-likely-to-guide-bitcoin-traders",
-          "summary": "Your day-ahead look for March 18, 2026",
-          "published_at": "2026-03-18 11:25:38+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.5
+          "gravity_score": 4.55
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 18.21,
-      "attention_focus_score": 17.71,
-      "item_count": 3,
-      "source_count": 2,
-      "platform_count": 2,
+      "topic_score": 30.09,
+      "attention_focus_score": 29.09,
+      "item_count": 4,
+      "source_count": 3,
+      "platform_count": 3,
       "sources": [
         "bbc_top",
+        "cnbc",
         "reddit_popculturechat"
       ],
       "platforms": [
         "bbc",
+        "cnbc",
         "reddit"
       ],
       "top_items": [
@@ -280,17 +314,27 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 3,818 upvotes · 💬 423 comments · r/popculturechat",
+          "summary": "⬆ 4,115 upvotes · 💬 447 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 8.44
+          "gravity_score": 9.79
+        },
+        {
+          "source": "cnbc",
+          "title": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
+          "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
+          "summary": "The verbal agreement marks the end of a prolonged and often contentious battle that threatened the start of the WNBA season.",
+          "published_at": "2026-03-18 13:15:01+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
         },
         {
           "source": "reddit_popculturechat",
           "title": "Happy 32nd anniversary to The Simpsons episode ‘Homer Loves Flanders’, aka the ‘Homer disappearing into the bushes’ meme.",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwrbp7/happy_32nd_anniversary_to_the_simpsons_episode/",
-          "summary": "⬆ 276 upvotes · 💬 8 comments · r/popculturechat",
+          "summary": "⬆ 343 upvotes · 💬 8 comments · r/popculturechat",
           "published_at": "2026-03-18 02:19:36+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -304,7 +348,7 @@
           "published_at": "2026-03-18 10:26:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 3.38
+          "gravity_score": 2.7
         }
       ]
     },
@@ -351,8 +395,8 @@
     {
       "topic": "politics",
       "event": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-      "gravity_score": 6.25,
-      "priority_score": 16.25,
+      "gravity_score": 6.75,
+      "priority_score": 16.75,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
@@ -367,52 +411,6 @@
       "debatable_angles": [
         "Will this lead to a formal policy change or executive action?",
         "Will a resignation or staffing change follow within 30 days?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "U.S. Democrats target government officials gaming prediction markets on war action",
-      "gravity_score": 6.0,
-      "priority_score": 16.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Thune: Republicans will use SAVE Act in midterms if Democrats don’t get ‘on board’",
-      "gravity_score": 6.0,
-      "priority_score": 16.0,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/homenews/senate/5789239-save-america-act-john-thune-democrats/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -438,6 +436,52 @@
         "Will a specific member state publicly commit troops or assets?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "politics",
+      "event": "Housing bill backed by Senate GOP, Trump hits roadblocks with House Republicans",
+      "gravity_score": 5.0,
+      "priority_score": 15.0,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/homenews/house/5788573-housing-affordability-bill-house/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?",
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "House Democrats unveil energy policy priorities as Senate talks resume",
+      "gravity_score": 5.0,
+      "priority_score": 15.0,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/policy/energy-environment/5788583-democrats-green-energy-talks/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "geopolitics",
@@ -487,13 +531,14 @@
     {
       "topic": "reality_tv",
       "event": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
-      "gravity_score": 8.44,
-      "priority_score": 10.44,
+      "gravity_score": 9.79,
+      "priority_score": 13.79,
       "source_platform": "reddit_popculturechat",
       "source_label": "",
       "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
       "platforms_discussing": [
         "bbc",
+        "cnbc",
         "reddit"
       ],
       "debatable_angles": [
@@ -505,20 +550,80 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "Mortgage refinance demand plunges 19% after interest rates shoot higher",
-      "gravity_score": 7.8,
-      "priority_score": 9.8,
-      "source_platform": "cnbc",
+      "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
+      "gravity_score": 7.48,
+      "priority_score": 11.48,
+      "source_platform": "reddit_politics",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/mortgage-refinance-demand-plunges-19percent-after-interest-rates-shoot-higher.html",
+      "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
         "cnbc",
-        "coindesk"
+        "coindesk",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
+      "gravity_score": 6.75,
+      "priority_score": 10.75,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit"
       ],
       "debatable_angles": [
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
+      "gravity_score": 6.5,
+      "priority_score": 10.5,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Fed to still cut rates this year, even as high oil prices spark an uptick in inflation: CNBC Fed Survey",
+      "gravity_score": 5.2,
+      "priority_score": 9.2,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will crude oil close above/below a specific price within 14 days?",
+        "Will OPEC announce production changes in response?",
+        "Will the next CPI reading come in above/below consensus?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -538,59 +643,6 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "music_charts",
-      "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
-      "gravity_score": 8.8,
-      "priority_score": 8.8,
-      "source_platform": "TikTok",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "TikTok"
-      ],
-      "debatable_angles": [
-        "Will it debut at #1 on Billboard 200?",
-        "Will first-week streaming numbers exceed a specific threshold?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "beauty",
-      "event": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
-      "gravity_score": 8.7,
-      "priority_score": 8.7,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Will the trending product see measurable sales spike on Amazon/Ulta?"
-      ],
-      "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
-    },
-    {
-      "topic": "crypto",
-      "event": "Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
-      "gravity_score": 6.5,
-      "priority_score": 8.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?",
-        "Will the SEC approve or reject the filing by the stated deadline?",
-        "Will this trigger a measurable price move (>5%) in the related asset?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     }
   ],
   "platform_snapshots": {
@@ -598,9 +650,16 @@
       {
         "topic": "reality_tv",
         "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
-        "score": 8.44,
+        "score": 9.79,
         "source": "reddit_popculturechat",
         "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
+        "score": 7.48,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
       {
         "topic": "geopolitics",
@@ -622,13 +681,6 @@
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
-      },
-      {
-        "topic": "politics",
-        "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-        "score": 6.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
       }
     ],
     "X": [
@@ -732,35 +784,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "mu stock",
+        "title": "tornado columbus ohio",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "voice of america",
+        "title": "geico insurance",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "jessie holmes",
+        "title": "rand paul",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "nhl playoff standings",
+        "title": "el salvador",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "bmw i3",
+        "title": "openclaw ai",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -768,20 +820,20 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Mortgage refinance demand plunges 19% after interest rates shoot higher",
-        "score": 7.8,
+        "topic": "reality_tv",
+        "title": "[CNBC] WNBA and players' union reach verbal agreement on landmark new CBA deal",
+        "score": 6.75,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/mortgage-refinance-demand-plunges-19percent-after-interest-rates-shoot-higher.html",
+        "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
         "source_label": "CNBC"
       },
       {
         "topic": "everyday_economy",
-        "title": "[CoinDesk] Powell's comments on oil, inflation are likely to guide bitcoin traders",
+        "title": "[CNBC] Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
         "score": 6.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/daybook-us/2026/03/18/powell-s-comments-on-oil-inflation-are-likely-to-guide-bitcoin-traders",
-        "source_label": "CoinDesk"
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html",
+        "source_label": "CNBC"
       },
       {
         "topic": "crypto",
@@ -792,19 +844,19 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] UK lawmakers urge ‘immediate moratorium’ on crypto political donations",
+        "topic": "geopolitics",
+        "title": "[CNBC] Israel says it has killed Iran’s intelligence minister in third assassination in two days",
         "score": 6.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/policy/2026/03/18/uk-lawmakers-urge-immediate-moratorium-on-crypto-political-donations",
-        "source_label": "CoinDesk"
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
+        "source_label": "CNBC"
       },
       {
         "topic": "crypto",
-        "title": "[CoinDesk] U.S. SEC issues first-ever definitions for what crypto assets are securities",
+        "title": "[CoinDesk] Large investors are doubling down on crypto, but getting a lot pickier about risk",
         "score": 6.0,
         "source": "coindesk",
-        "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
+        "url": "https://www.coindesk.com/business/2026/03/18/large-investors-are-doubling-down-on-crypto-but-getting-a-lot-pickier-about-risk",
         "source_label": "CoinDesk"
       }
     ]
