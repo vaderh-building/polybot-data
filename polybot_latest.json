@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T03:06:07.783944+00:00",
+  "generated_at_utc": "2026-03-18T03:08:15.171060+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 202.72,
-      "attention_focus_score": 198.22,
-      "item_count": 46,
+      "topic_score": 211.24,
+      "attention_focus_score": 206.74,
+      "item_count": 48,
       "source_count": 10,
       "platform_count": 7,
       "sources": [
@@ -34,7 +34,7 @@
           "source": "reddit_all",
           "title": "asked for an itemized hospital bill on a whim and found out they charged me for stuff that literally never happened",
           "url": "https://www.reddit.com/r/povertyfinance/comments/1rwkwq7/asked_for_an_itemized_hospital_bill_on_a_whim_and/",
-          "summary": "⬆ 10,258 upvotes · 💬 378 comments · r/all",
+          "summary": "⬆ 10,348 upvotes · 💬 380 comments · r/all",
           "published_at": "2026-03-17 22:00:31+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -44,7 +44,7 @@
           "source": "reddit_all",
           "title": "Afroman defending himself today in court when the cops sued him for making a song about their raid on his house.",
           "url": "https://www.reddit.com/r/law/comments/1rwf2y7/afroman_defending_himself_today_in_court_when_the/",
-          "summary": "⬆ 43,966 upvotes · 💬 1,565 comments · r/all",
+          "summary": "⬆ 44,030 upvotes · 💬 1,566 comments · r/all",
           "published_at": "2026-03-17 18:33:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -54,21 +54,11 @@
           "source": "reddit_news",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 23,320 upvotes · 💬 433 comments · r/news",
+          "summary": "⬆ 23,342 upvotes · 💬 433 comments · r/news",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.75
-        },
-        {
-          "source": "politico",
-          "title": "AIPAC attacks fall flat as Democrat Daniel Biss wins Illinois House primary",
-          "url": "https://www.politico.com/news/2026/03/17/daniel-biss-wins-illinois-democratic-primary-00833490",
-          "summary": "The suburban Chicago mayor, who has criticized Israel, will succeed retiring Rep. Jan Schakowsky.",
-          "published_at": "2026-03-18 02:36:56+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
         },
         {
           "source": "coindesk",
@@ -79,6 +69,16 @@
           "topic": "politics",
           "keyword_hits": 3,
           "gravity_score": 6.0
+        },
+        {
+          "source": "politico",
+          "title": "AIPAC attacks fall flat as Democrat Daniel Biss wins Illinois House primary",
+          "url": "https://www.politico.com/news/2026/03/17/daniel-biss-wins-illinois-democratic-primary-00833490",
+          "summary": "The suburban Chicago mayor, who has criticized Israel, will succeed retiring Rep. Jan Schakowsky.",
+          "published_at": "2026-03-18 02:36:56+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
         }
       ]
     },
@@ -177,7 +177,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 25,371 upvotes · 💬 1,294 comments · r/worldnews",
+          "summary": "⬆ 25,379 upvotes · 💬 1,297 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -187,7 +187,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 9,557 upvotes · 💬 1,233 comments · r/worldnews",
+          "summary": "⬆ 9,568 upvotes · 💬 1,233 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -197,7 +197,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 3,388 upvotes · 💬 423 comments · r/worldnews",
+          "summary": "⬆ 3,390 upvotes · 💬 423 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -207,7 +207,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 6,326 upvotes · 💬 147 comments · r/worldnews",
+          "summary": "⬆ 6,335 upvotes · 💬 147 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -217,7 +217,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 343 upvotes · 💬 60 comments · r/worldnews",
+          "summary": "⬆ 350 upvotes · 💬 61 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -248,7 +248,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 1,810 upvotes · 💬 255 comments · r/popculturechat",
+          "summary": "⬆ 1,828 upvotes · 💬 256 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -258,7 +258,7 @@
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 5,899 upvotes · 💬 588 comments · r/worldnews",
+          "summary": "⬆ 5,915 upvotes · 💬 588 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -774,14 +774,6 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "politics",
-        "title": "[Politico] AIPAC attacks fall flat as Democrat Daniel Biss wins Illinois House primary",
-        "score": 6.0,
-        "source": "politico",
-        "url": "https://www.politico.com/news/2026/03/17/daniel-biss-wins-illinois-democratic-primary-00833490",
-        "source_label": "Politico"
-      },
-      {
         "topic": "crypto",
         "title": "[CoinDesk] Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi",
         "score": 6.0,
@@ -804,6 +796,14 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/17/u-s-democrats-target-government-officials-gaming-prediction-markets-on-war-action",
         "source_label": "CoinDesk"
+      },
+      {
+        "topic": "politics",
+        "title": "[Politico] AIPAC attacks fall flat as Democrat Daniel Biss wins Illinois House primary",
+        "score": 5.0,
+        "source": "politico",
+        "url": "https://www.politico.com/news/2026/03/17/daniel-biss-wins-illinois-democratic-primary-00833490",
+        "source_label": "Politico"
       },
       {
         "topic": "politics",
