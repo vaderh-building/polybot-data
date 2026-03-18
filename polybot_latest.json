@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T16:33:39.078072+00:00",
+  "generated_at_utc": "2026-03-18T16:35:49.954659+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 182.4,
-      "attention_focus_score": 179.4,
-      "item_count": 50,
+      "topic_score": 188.12,
+      "attention_focus_score": 185.12,
+      "item_count": 51,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -39,17 +39,27 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,861 upvotes · 💬 119 comments · r/worldnews",
+          "summary": "⬆ 3,881 upvotes · 💬 120 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.25
         },
         {
+          "source": "thehill",
+          "title": "Watch live: The Gavel with Zach Schonfeld, Ella Lee",
+          "url": "https://thehill.com/video-clips/5789689-trump-judges-justice-department-probe/",
+          "summary": "The Hill’s court and legal affairs reporters Zach Schonfeld and Ella Lee will be live Wednesday afternoon to talk about key stories in the legal affairs realm. Will judges stop President Trump&#8217;s naming spree or his White House ballroom? What&#8217;s next for the Justice Department&#8217;s probe of the Federal Reserve? And how does foreign-inspired terrorism&#8230;",
+          "published_at": "2026-03-18 16:28:22+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
+        },
+        {
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,665 upvotes · 💬 393 comments · r/news",
+          "summary": "⬆ 3,670 upvotes · 💬 393 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -59,18 +69,8 @@
           "source": "reddit_worldnews",
           "title": "Kim Jong-Un’s Workers' Party of Korea Wins In North Korea Election 2026 With 99.93% securing all seats in the 2026 parliamentary elections. Official figures reported that 99.99% of registered voters took part.",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwqbyg/kim_jonguns_workers_party_of_korea_wins_in_north/",
-          "summary": "⬆ 2,566 upvotes · 💬 210 comments · r/worldnews",
+          "summary": "⬆ 2,563 upvotes · 💬 210 comments · r/worldnews",
           "published_at": "2026-03-18 01:35:40+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
-        },
-        {
-          "source": "reddit_politics",
-          "title": "JB Pritzker’s Preferred Candidate Who Ran ‘F*ck Trump’ Ad Wins Democrat Senate Primary",
-          "url": "https://www.reddit.com/r/politics/comments/1rwt07w/jb_pritzkers_preferred_candidate_who_ran_fck/",
-          "summary": "⬆ 1,886 upvotes · 💬 57 comments · r/politics",
-          "published_at": "2026-03-18 03:36:13+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 4.75
@@ -147,8 +147,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 72.11,
-      "attention_focus_score": 69.61,
+      "topic_score": 71.03,
+      "attention_focus_score": 68.53,
       "item_count": 15,
       "source_count": 6,
       "platform_count": 4,
@@ -181,7 +181,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 1,845 upvotes · 💬 319 comments · r/worldnews",
+          "summary": "⬆ 1,858 upvotes · 💬 319 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -201,7 +201,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,120 upvotes · 💬 366 comments · r/worldnews",
+          "summary": "⬆ 4,131 upvotes · 💬 366 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -211,7 +211,7 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,419 upvotes · 💬 100 comments · r/news",
+          "summary": "⬆ 2,431 upvotes · 💬 100 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -221,16 +221,15 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 57.45,
-      "attention_focus_score": 54.95,
-      "item_count": 9,
-      "source_count": 6,
+      "topic_score": 63.49,
+      "attention_focus_score": 61.49,
+      "item_count": 10,
+      "source_count": 5,
       "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "npr_news",
-        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -243,10 +242,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 6,064 upvotes · 💬 435 comments · r/all",
+          "summary": "⬆ 6,147 upvotes · 💬 445 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -266,8 +265,18 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 1,554 upvotes · 💬 94 comments · r/politics",
+          "summary": "⬆ 1,595 upvotes · 💬 97 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.17
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Fox Hosts Freak Out On Air Over Trump’s Disastrous Inflation: ‘Inflation has jumped significantly under Donald Trump’",
+          "url": "https://www.reddit.com/r/politics/comments/1rx7p33/fox_hosts_freak_out_on_air_over_trumps_disastrous/",
+          "summary": "⬆ 215 upvotes · 💬 21 comments · r/politics",
+          "published_at": "2026-03-18 15:54:44+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 6.17
@@ -278,16 +287,6 @@
           "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
           "summary": "The 32 respondents, including fund managers, analysts and economists, see oil prices on average at $88 a barrel six months from now.",
           "published_at": "2026-03-18 12:34:56+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
-        },
-        {
-          "source": "cnbc",
-          "title": "Mortgage refinance demand plunges 19% after interest rates shoot higher",
-          "url": "https://www.cnbc.com/2026/03/18/mortgage-refinance-demand-plunges-19percent-after-interest-rates-shoot-higher.html",
-          "summary": "Mortgage rates shot higher last week, as the war with Iran stoked fears over inflation. That caused a major drop in refinance demand, but buyer demand improved.",
-          "published_at": "2026-03-18 11:54:27+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 4.55
@@ -318,7 +317,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,394 upvotes · 💬 474 comments · r/popculturechat",
+          "summary": "⬆ 4,388 upvotes · 💬 475 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -418,18 +417,30 @@
     },
     {
       "topic": "music_charts",
-      "topic_score": 2.17,
-      "attention_focus_score": 2.17,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
+      "topic_score": 6.59,
+      "attention_focus_score": 6.09,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
       "sources": [
+        "npr_news",
         "thehill"
       ],
       "platforms": [
+        "npr",
         "thehill"
       ],
       "top_items": [
+        {
+          "source": "npr_news",
+          "title": "Do you understand this billboard? If not, that's the whole point",
+          "url": "https://www.npr.org/2026/03/18/nx-s1-5746115/billboards-san-francisco-tech-ai-advertising-marketing",
+          "summary": "San Francisco's streets are plastered with cryptic ads from AI startups. The strategy is intentional — but it's not without cost.",
+          "published_at": "2026-03-18 09:00:00+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 2.17
+        },
         {
           "source": "thehill",
           "title": "Retired general: Trump ‘completely mismanaged’ Iran war",
@@ -449,7 +460,7 @@
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 8.12,
       "priority_score": 16.12,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
@@ -593,12 +604,12 @@
     },
     {
       "topic": "politics",
-      "event": "Florida bill against marrying your first cousin fails",
-      "gravity_score": 4.75,
-      "priority_score": 12.75,
-      "source_platform": "reddit_news",
+      "event": "Watch live: The Gavel with Zach Schonfeld, Ella Lee",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
+      "url": "https://thehill.com/video-clips/5789689-trump-judges-justice-department-probe/",
       "platforms_discussing": [
         "bbc",
         "coindesk",
@@ -607,8 +618,9 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -711,7 +723,7 @@
         "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
         "score": 8.12,
-        "source": "reddit_all",
+        "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
       {
@@ -729,11 +741,11 @@
         "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
       },
       {
-        "topic": "geopolitics",
-        "title": "Strike hits South Pars, world’s largest gas field, in Iran",
-        "score": 5.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/"
+        "topic": "everyday_economy",
+        "title": "Fox Hosts Freak Out On Air Over Trump’s Disastrous Inflation: ‘Inflation has jumped significantly under Donald Trump’",
+        "score": 6.17,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx7p33/fox_hosts_freak_out_on_air_over_trumps_disastrous/"
       }
     ],
     "X": [
