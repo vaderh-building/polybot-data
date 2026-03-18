@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T18:17:16.553315+00:00",
+  "generated_at_utc": "2026-03-18T18:19:27.093565+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 213.12,
-      "attention_focus_score": 209.62,
-      "item_count": 55,
+      "topic_score": 217.16,
+      "attention_focus_score": 213.66,
+      "item_count": 56,
       "source_count": 8,
       "platform_count": 6,
       "sources": [
@@ -31,21 +31,11 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,850 upvotes · 💬 124 comments · r/worldnews",
+          "summary": "⬆ 4,874 upvotes · 💬 125 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
-        },
-        {
-          "source": "cnbc",
-          "title": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
-          "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
-          "summary": "Consumers are seeing fuel prices rapidly rise as the Iran war has triggered the biggest oil supply disruption in history.",
-          "published_at": "2026-03-18 17:17:38+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.5
         },
         {
           "source": "thehill",
@@ -61,11 +51,21 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 1,274 upvotes · 💬 71 comments · r/politics",
+          "summary": "⬆ 1,341 upvotes · 💬 73 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.25
+        },
+        {
+          "source": "cnbc",
+          "title": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
+          "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
+          "summary": "Consumers are seeing fuel prices rapidly rise as the Iran war has triggered the biggest oil supply disruption in history.",
+          "published_at": "2026-03-18 17:17:38+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 5.5
         },
         {
           "source": "thehill",
@@ -81,15 +81,16 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 68.68,
+      "topic_score": 69.18,
       "attention_focus_score": 66.68,
       "item_count": 11,
-      "source_count": 5,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "npr_news",
+        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -102,10 +103,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 9,769 upvotes · 💬 662 comments · r/politics",
+          "summary": "⬆ 9,837 upvotes · 💬 665 comments · r/all",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -125,7 +126,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 4,259 upvotes · 💬 162 comments · r/politics",
+          "summary": "⬆ 4,316 upvotes · 💬 164 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -178,7 +179,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,521 upvotes · 💬 379 comments · r/worldnews",
+          "summary": "⬆ 4,546 upvotes · 💬 381 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -188,7 +189,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,569 upvotes · 💬 373 comments · r/worldnews",
+          "summary": "⬆ 2,577 upvotes · 💬 376 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -198,7 +199,7 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 539 upvotes · 💬 195 comments · r/popculturechat",
+          "summary": "⬆ 539 upvotes · 💬 196 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -314,7 +315,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,505 upvotes · 💬 480 comments · r/popculturechat",
+          "summary": "⬆ 4,508 upvotes · 💬 480 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -435,7 +436,7 @@
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 9.43,
       "priority_score": 17.43,
-      "source_platform": "reddit_politics",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
@@ -470,30 +471,6 @@
       "debatable_angles": [
         "Will this lead to a formal policy change or executive action?",
         "Will a resignation or staffing change follow within 30 days?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
-      "gravity_score": 6.5,
-      "priority_score": 16.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?",
-        "Will crude oil close above/below a specific price within 14 days?",
-        "Will OPEC announce production changes in response?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -684,6 +661,23 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
+      "gravity_score": 8.8,
+      "priority_score": 8.8,
+      "source_platform": "TikTok",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "TikTok"
+      ],
+      "debatable_angles": [
+        "Will it debut at #1 on Billboard 200?",
+        "Will first-week streaming numbers exceed a specific threshold?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     }
   ],
   "platform_snapshots": {
@@ -699,7 +693,7 @@
         "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
         "score": 9.43,
-        "source": "reddit_politics",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
       {
@@ -869,14 +863,6 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "politics",
-        "title": "[CNBC] Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
-        "score": 6.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "crypto",
         "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
         "score": 6.5,
@@ -899,6 +885,14 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
+        "source_label": "CoinDesk"
       }
     ]
   }
