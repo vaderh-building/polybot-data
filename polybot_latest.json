@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T19:56:23.636814+00:00",
+  "generated_at_utc": "2026-03-18T20:35:27.975719+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 189.51,
-      "attention_focus_score": 186.51,
-      "item_count": 50,
+      "topic_score": 180.91,
+      "attention_focus_score": 177.91,
+      "item_count": 47,
       "source_count": 7,
       "platform_count": 6,
       "sources": [
@@ -27,24 +27,34 @@
       ],
       "top_items": [
         {
+          "source": "reddit_politics",
+          "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
+          "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
+          "summary": "⬆ 5,206 upvotes · 💬 209 comments · r/politics",
+          "published_at": "2026-03-18 16:24:21+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 7.75
+        },
+        {
+          "source": "cnbc",
+          "title": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
+          "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
+          "summary": "Consumers are seeing fuel prices rapidly rise as the Iran war has triggered the biggest oil supply disruption in history.",
+          "published_at": "2026-03-18 20:11:57+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 7.5
+        },
+        {
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 5,652 upvotes · 💬 137 comments · r/worldnews",
+          "summary": "⬆ 5,921 upvotes · 💬 141 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
-          "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 4,053 upvotes · 💬 164 comments · r/politics",
-          "published_at": "2026-03-18 16:24:21+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.75
         },
         {
           "source": "thehill",
@@ -55,16 +65,6 @@
           "topic": "politics",
           "keyword_hits": 4,
           "gravity_score": 6.5
-        },
-        {
-          "source": "cnbc",
-          "title": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
-          "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
-          "summary": "Consumers are seeing fuel prices rapidly rise as the Iran war has triggered the biggest oil supply disruption in history.",
-          "published_at": "2026-03-18 17:17:38+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
         },
         {
           "source": "politico",
@@ -79,85 +79,10 @@
       ]
     },
     {
-      "topic": "everyday_economy",
-      "topic_score": 88.48,
-      "attention_focus_score": 85.98,
-      "item_count": 15,
-      "source_count": 6,
-      "platform_count": 5,
-      "sources": [
-        "cnbc",
-        "coindesk",
-        "npr_news",
-        "reddit_news",
-        "reddit_politics",
-        "thehill"
-      ],
-      "platforms": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_politics",
-          "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-          "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 12,627 upvotes · 💬 803 comments · r/politics",
-          "published_at": "2026-03-18 13:23:30+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 8.78
-        },
-        {
-          "source": "reddit_politics",
-          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 6,453 upvotes · 💬 212 comments · r/politics",
-          "published_at": "2026-03-18 15:09:46+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 8.12
-        },
-        {
-          "source": "reddit_news",
-          "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
-          "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/",
-          "summary": "⬆ 101 upvotes · 💬 8 comments · r/news",
-          "published_at": "2026-03-18 19:40:59+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 7.48
-        },
-        {
-          "source": "cnbc",
-          "title": "Inflation dominates Powell's remarks, pressures stocks. Plus, big earnings tonight",
-          "url": "https://www.cnbc.com/2026/03/18/inflation-dominates-powells-remarks-pressures-stocks-plus-big-earnings-tonight.html",
-          "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-          "published_at": "2026-03-18 19:25:46+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.5
-        },
-        {
-          "source": "thehill",
-          "title": "Gas prices highest since 2023: AAA",
-          "url": "https://thehill.com/policy/energy-environment/5790374-iran-strait-of-hormuz-oil/",
-          "summary": "Regular gas prices are at their highest since 2023 amid the U.S. and Israeli conflict against Iran, according to AAA, The Associated Press reported. On Wednesday, according to AAA, the average price of a gallon of regular gasoline nationally hit over $3.84, with gas prices not being this high since September 2023, the AP reported.&#8230;",
-          "published_at": "2026-03-18 19:36:38+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.85
-        }
-      ]
-    },
-    {
       "topic": "crypto",
-      "topic_score": 71.09,
-      "attention_focus_score": 70.59,
-      "item_count": 15,
+      "topic_score": 76.16,
+      "attention_focus_score": 75.66,
+      "item_count": 16,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -181,23 +106,23 @@
         },
         {
           "source": "coindesk",
-          "title": "Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
-          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
-          "summary": "Bitcoin remains stuck near key resistance around $75,000, leaving the broader market in limbo.",
-          "published_at": "2026-03-18 09:29:00+00:00",
+          "title": "Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge",
+          "url": "https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge",
+          "summary": "The crypto sector's leading political action committee devoted more than 5% of its war chest trying to defeat a Senate candidate who just won her primary.",
+          "published_at": "2026-03-18 20:31:18+00:00",
           "topic": "crypto",
-          "keyword_hits": 3,
+          "keyword_hits": 1,
           "gravity_score": 6.0
         },
         {
           "source": "coindesk",
-          "title": "Sam Bankman-Fried's bankrupt exchange FTX set to repay creditors $2.2 billion this month",
-          "url": "https://www.coindesk.com/business/2026/03/18/sam-bankman-fried-s-bankrupt-exchange-ftx-set-to-repay-creditors-usd2-2-billion-this-month",
-          "summary": "The trust handling the bankruptcy proceedings detailed how much will be distributed to creditors and claimants at the end of March.",
-          "published_at": "2026-03-18 19:06:59+00:00",
+          "title": "Bitcoin sinks below $71,000, stocks close at session lows, as 2026 Fed rate cut hopes fade further",
+          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-sinks-below-usd71-000-stocks-close-at-session-lows-as-2026-rate-cut-hopes-fade-further",
+          "summary": "Fed chair Jerome Powell said rising energy prices are feeding into the inflation outlook, but \"nobody knows\" yet how lasting the impact will be.",
+          "published_at": "2026-03-18 20:19:04+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
-          "gravity_score": 5.0
+          "gravity_score": 6.0
         },
         {
           "source": "coindesk",
@@ -222,9 +147,84 @@
       ]
     },
     {
+      "topic": "everyday_economy",
+      "topic_score": 75.04,
+      "attention_focus_score": 72.54,
+      "item_count": 12,
+      "source_count": 6,
+      "platform_count": 5,
+      "sources": [
+        "cnbc",
+        "coindesk",
+        "npr_news",
+        "reddit_news",
+        "reddit_politics",
+        "thehill"
+      ],
+      "platforms": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_politics",
+          "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
+          "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
+          "summary": "⬆ 13,567 upvotes · 💬 826 comments · r/politics",
+          "published_at": "2026-03-18 13:23:30+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 8.78
+        },
+        {
+          "source": "reddit_news",
+          "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
+          "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/",
+          "summary": "⬆ 1,839 upvotes · 💬 101 comments · r/news",
+          "published_at": "2026-03-18 19:40:59+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 8.78
+        },
+        {
+          "source": "reddit_politics",
+          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
+          "summary": "⬆ 7,104 upvotes · 💬 229 comments · r/politics",
+          "published_at": "2026-03-18 15:09:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 8.12
+        },
+        {
+          "source": "cnbc",
+          "title": "Inflation dominates Powell's remarks, pressures stocks. Plus, big earnings tonight",
+          "url": "https://www.cnbc.com/2026/03/18/inflation-dominates-powells-remarks-pressures-stocks-plus-big-earnings-tonight.html",
+          "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+          "published_at": "2026-03-18 19:25:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.2
+        },
+        {
+          "source": "coindesk",
+          "title": "Federal Reserve holds policy steady as Iran war adds to growth and inflation concerns",
+          "url": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
+          "summary": "Bitcoin remained sharply lower for the session following the expected decision by the U.S. central bank.",
+          "published_at": "2026-03-18 17:59:47+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
+        }
+      ]
+    },
+    {
       "topic": "geopolitics",
-      "topic_score": 54.14,
-      "attention_focus_score": 52.14,
+      "topic_score": 53.06,
+      "attention_focus_score": 51.06,
       "item_count": 14,
       "source_count": 5,
       "platform_count": 4,
@@ -246,7 +246,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,764 upvotes · 💬 394 comments · r/worldnews",
+          "summary": "⬆ 4,827 upvotes · 💬 395 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -256,11 +256,21 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,965 upvotes · 💬 417 comments · r/worldnews",
+          "summary": "⬆ 3,092 upvotes · 💬 425 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.75
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
+          "summary": "⬆ 637 upvotes · 💬 214 comments · r/popculturechat",
+          "published_at": "2026-03-18 10:06:47+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 3.75
         },
         {
           "source": "bbc_world",
@@ -270,17 +280,7 @@
           "published_at": "2026-03-18 19:53:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 4.5
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 618 upvotes · 💬 207 comments · r/popculturechat",
-          "published_at": "2026-03-18 10:06:47+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.75
+          "gravity_score": 3.5
         },
         {
           "source": "cnbc",
@@ -318,7 +318,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,601 upvotes · 💬 483 comments · r/popculturechat",
+          "summary": "⬆ 4,623 upvotes · 💬 486 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -368,8 +368,8 @@
     },
     {
       "topic": "social_virality",
-      "topic_score": 20.39,
-      "attention_focus_score": 19.39,
+      "topic_score": 19.09,
+      "attention_focus_score": 18.09,
       "item_count": 3,
       "source_count": 3,
       "platform_count": 3,
@@ -402,7 +402,7 @@
           "published_at": "2026-03-18 13:57:26+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
-          "gravity_score": 4.2
+          "gravity_score": 3.6
         },
         {
           "source": "thehill",
@@ -412,38 +412,73 @@
           "published_at": "2026-03-18 14:30:00+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
-          "gravity_score": 4.2
+          "gravity_score": 3.6
         }
       ]
     },
     {
       "topic": "music_charts",
-      "topic_score": 7.23,
-      "attention_focus_score": 7.23,
-      "item_count": 1,
-      "source_count": 1,
+      "topic_score": 14.2,
+      "attention_focus_score": 13.7,
+      "item_count": 2,
+      "source_count": 2,
       "platform_count": 1,
       "sources": [
-        "reddit_news"
+        "reddit_news",
+        "reddit_popculturechat"
       ],
       "platforms": [
         "reddit"
       ],
       "top_items": [
         {
-          "source": "reddit_news",
-          "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
-          "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 776 upvotes · 💬 57 comments · r/news",
-          "published_at": "2026-03-18 18:33:59+00:00",
+          "source": "reddit_popculturechat",
+          "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
+          "summary": "⬆ 152 upvotes · 💬 29 comments · r/popculturechat",
+          "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
           "gravity_score": 6.89
+        },
+        {
+          "source": "reddit_news",
+          "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
+          "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
+          "summary": "⬆ 1,050 upvotes · 💬 63 comments · r/news",
+          "published_at": "2026-03-18 18:33:59+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 6.16
         }
       ]
     }
   ],
   "market_suggestions": [
+    {
+      "topic": "politics",
+      "event": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
+      "gravity_score": 7.5,
+      "priority_score": 17.5,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?",
+        "Will crude oil close above/below a specific price within 14 days?",
+        "Will OPEC announce production changes in response?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
     {
       "topic": "politics",
       "event": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
@@ -488,27 +523,24 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "politics",
-      "event": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
-      "gravity_score": 6.5,
-      "priority_score": 16.5,
-      "source_platform": "thehill",
+      "topic": "everyday_economy",
+      "event": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
+      "gravity_score": 8.78,
+      "priority_score": 16.78,
+      "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+      "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/",
       "platforms_discussing": [
-        "bbc",
         "cnbc",
         "coindesk",
-        "politico",
+        "npr",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will the next CPI reading come in above/below consensus?"
       ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "everyday_economy",
@@ -551,26 +583,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
-      "gravity_score": 7.48,
-      "priority_score": 15.48,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "geopolitics",
@@ -659,12 +671,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Oil nears $110 a barrel after gas field strike",
-      "gravity_score": 4.5,
-      "priority_score": 10.5,
-      "source_platform": "bbc_world",
+      "event": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
+      "gravity_score": 3.75,
+      "priority_score": 9.75,
+      "source_platform": "reddit_popculturechat",
       "source_label": "",
-      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -672,10 +684,9 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will crude oil close above/below a specific price within 14 days?",
-        "Will OPEC announce production changes in response?",
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -715,24 +726,24 @@
       },
       {
         "topic": "everyday_economy",
+        "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
+        "score": 8.78,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/"
+      },
+      {
+        "topic": "everyday_economy",
         "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
         "score": 8.12,
         "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
       },
       {
-        "topic": "everyday_economy",
-        "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
-        "score": 7.48,
-        "source": "reddit_news",
-        "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/"
-      },
-      {
         "topic": "politics",
-        "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-        "score": 7.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
+        "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
+        "score": 7.75,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/"
       }
     ],
     "X": [
@@ -836,35 +847,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "atletico de madrid",
+        "title": "logan wilson",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "kasper schmeichel",
+        "title": "jay z yankee stadium",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "champions league games",
+        "title": "jay z",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "criminal defense attorney",
+        "title": "victor osimhen",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "metaverse",
+        "title": "sndk stock",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -872,11 +883,11 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Inflation dominates Powell's remarks, pressures stocks. Plus, big earnings tonight",
-        "score": 6.5,
+        "topic": "politics",
+        "title": "[CNBC] Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
+        "score": 7.5,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/inflation-dominates-powells-remarks-pressures-stocks-plus-big-earnings-tonight.html",
+        "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
         "source_label": "CNBC"
       },
       {
@@ -905,10 +916,10 @@
       },
       {
         "topic": "crypto",
-        "title": "[CoinDesk] Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
+        "title": "[CoinDesk] Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge",
         "score": 6.0,
         "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
+        "url": "https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge",
         "source_label": "CoinDesk"
       }
     ]
