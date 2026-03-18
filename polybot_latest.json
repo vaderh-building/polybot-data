@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T15:15:56.318045+00:00",
+  "generated_at_utc": "2026-03-18T15:18:04.750925+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 194.88,
-      "attention_focus_score": 191.88,
+      "topic_score": 194.36,
+      "attention_focus_score": 191.36,
       "item_count": 51,
       "source_count": 7,
       "platform_count": 5,
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 2,978 upvotes · 💬 105 comments · r/worldnews",
+          "summary": "⬆ 3,001 upvotes · 💬 105 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -147,15 +147,16 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 66.1,
-      "attention_focus_score": 63.6,
+      "topic_score": 64.48,
+      "attention_focus_score": 61.48,
       "item_count": 13,
-      "source_count": 6,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_top",
         "cnbc",
         "npr_news",
+        "reddit_news",
         "reddit_popculturechat",
         "reddit_worldnews",
         "thehill"
@@ -170,19 +171,9 @@
       "top_items": [
         {
           "source": "reddit_worldnews",
-          "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 28,031 upvotes · 💬 1,365 comments · r/worldnews",
-          "published_at": "2026-03-17 15:17:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
-        {
-          "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,707 upvotes · 💬 1,454 comments · r/worldnews",
+          "summary": "⬆ 11,704 upvotes · 💬 1,454 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -192,7 +183,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,430 upvotes · 💬 162 comments · r/worldnews",
+          "summary": "⬆ 1,426 upvotes · 💬 162 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -212,8 +203,18 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 3,737 upvotes · 💬 349 comments · r/worldnews",
+          "summary": "⬆ 3,748 upvotes · 💬 350 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
+        },
+        {
+          "source": "reddit_news",
+          "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
+          "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
+          "summary": "⬆ 2,403 upvotes · 💬 96 comments · r/news",
+          "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.75
@@ -246,7 +247,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 2,606 upvotes · 💬 195 comments · r/politics",
+          "summary": "⬆ 2,707 upvotes · 💬 200 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -316,7 +317,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,274 upvotes · 💬 466 comments · r/popculturechat",
+          "summary": "⬆ 4,280 upvotes · 💬 466 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -488,28 +489,6 @@
     },
     {
       "topic": "geopolitics",
-      "event": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
       "event": "NATO countries don't want to get involved in Iran operation, Trump says",
       "gravity_score": 6.75,
       "priority_score": 14.75,
@@ -640,6 +619,28 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "geopolitics",
+      "event": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
+      "gravity_score": 5.0,
+      "priority_score": 13.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
       "topic": "crypto",
       "event": "Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
       "gravity_score": 9.0,
@@ -695,13 +696,6 @@
       },
       {
         "topic": "geopolitics",
-        "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
-        "score": 6.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/"
-      },
-      {
-        "topic": "geopolitics",
         "title": "NATO countries don't want to get involved in Iran operation, Trump says",
         "score": 6.75,
         "source": "reddit_worldnews",
@@ -713,6 +707,13 @@
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
+        "score": 5.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/"
       }
     ],
     "X": [
