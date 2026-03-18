@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T18:19:27.093565+00:00",
+  "generated_at_utc": "2026-03-18T18:21:40.878576+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 217.16,
-      "attention_focus_score": 213.66,
-      "item_count": 56,
+      "topic_score": 223.61,
+      "attention_focus_score": 220.11,
+      "item_count": 57,
       "source_count": 8,
       "platform_count": 6,
       "sources": [
@@ -31,7 +31,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,874 upvotes · 💬 125 comments · r/worldnews",
+          "summary": "⬆ 4,897 upvotes · 💬 125 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -51,11 +51,21 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 1,341 upvotes · 💬 73 comments · r/politics",
+          "summary": "⬆ 1,403 upvotes · 💬 77 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.25
+        },
+        {
+          "source": "coindesk",
+          "title": "Kalshi co-founder fights back against Arizona’s ‘overstep’ in what a lawyer calls a federal-state turf war",
+          "url": "https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war",
+          "summary": "Arizona has filed 20 criminal counts against Kalshi, a prediction market platform, accusing it of operating an illegal gambling business and offering election wagering in the state.",
+          "published_at": "2026-03-18 18:19:24+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
         },
         {
           "source": "cnbc",
@@ -66,16 +76,6 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.5
-        },
-        {
-          "source": "thehill",
-          "title": "Rand Paul says he’s a ‘no’ vote on Mullin for DHS secretary",
-          "url": "https://thehill.com/homenews/senate/5790090-rand-paul-markwayne-mullin-dhs-secretary/",
-          "summary": "Senate Homeland Security and Governmental Affairs Committee Chair Rand Paul (R-Ky.) said he does not plan to back Sen. Markwayne Mullin (R-Okla.) to lead the Department of Homeland Security. His remarks came after a blow up between the two during Mullin’s confirmation hearing in which Paul confronted Mullin for calling him a “snake” and saying he understood&#8230;",
-          "published_at": "2026-03-18 17:47:12+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
         }
       ]
     },
@@ -106,7 +106,7 @@
           "source": "reddit_all",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 9,837 upvotes · 💬 665 comments · r/all",
+          "summary": "⬆ 9,901 upvotes · 💬 670 comments · r/all",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -126,7 +126,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 4,316 upvotes · 💬 164 comments · r/politics",
+          "summary": "⬆ 4,384 upvotes · 💬 165 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -179,7 +179,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,546 upvotes · 💬 381 comments · r/worldnews",
+          "summary": "⬆ 4,545 upvotes · 💬 381 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -189,7 +189,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,577 upvotes · 💬 376 comments · r/worldnews",
+          "summary": "⬆ 2,581 upvotes · 💬 379 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -199,7 +199,7 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 539 upvotes · 💬 196 comments · r/popculturechat",
+          "summary": "⬆ 536 upvotes · 💬 196 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -887,11 +887,11 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
+        "topic": "politics",
+        "title": "[CoinDesk] Kalshi co-founder fights back against Arizona’s ‘overstep’ in what a lawyer calls a federal-state turf war",
         "score": 6.0,
         "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
+        "url": "https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war",
         "source_label": "CoinDesk"
       }
     ]
