@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-18T23:51:17.620448+00:00",
+  "generated_at_utc": "2026-03-18T23:53:34.575055+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -47,7 +47,7 @@
           "source": "thehill",
           "title": "Democrats brush off latest DHS counteroffer from White House: ‘Wholly inadequate’",
           "url": "https://thehill.com/homenews/house/5790771-democrats-dhs-white-house-offer/",
-          "summary": "Democrats on Wednesday sharply criticized the White House’s latest counter-proposal aimed at ending the Department of Homeland Security (DHS) shutdown, arguing that it falls short of sufficiently addressing their concerns about the administration’s immigration crackdown. The counterproposal, outlined in a letter by border czar Tom Homan and White House legislative affairs director James Braid, is&#8230;",
+          "summary": "Democrats on Wednesday sharply criticized the White House’s latest counterproposal aimed at ending the Department of Homeland Security (DHS) shutdown, arguing that it falls short of sufficiently addressing their concerns about the administration’s immigration crackdown. The counterproposal, outlined in a letter by border czar Tom Homan and James Braid, the White House legislative affairs director,&#8230;",
           "published_at": "2026-03-18 23:09:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -144,6 +144,77 @@
       ]
     },
     {
+      "topic": "reality_tv",
+      "topic_score": 36.03,
+      "attention_focus_score": 34.53,
+      "item_count": 8,
+      "source_count": 4,
+      "platform_count": 3,
+      "sources": [
+        "bbc_top",
+        "bbc_world",
+        "cnbc",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "bbc_top",
+          "title": "Even when they win it still ends in defeat - Spurs' season summed up",
+          "url": "https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&at_campaign=rss",
+          "summary": "Tottenham can take encouragement in their battle for Premier League survival despite a Champions League exit, writes Phil McNulty.",
+          "published_at": "2026-03-18 23:42:25+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 6.08
+        },
+        {
+          "source": "cnbc",
+          "title": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
+          "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
+          "summary": "Meta is scaling back its metaverse focus, cutting studios and head count at Reality Labs to prioritize artificial intelligence.",
+          "published_at": "2026-03-18 16:12:05+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.05
+        },
+        {
+          "source": "cnbc",
+          "title": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
+          "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
+          "summary": "The verbal agreement marks the end of a prolonged and often contentious battle that threatened the start of the WNBA season.",
+          "published_at": "2026-03-18 17:10:13+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.05
+        },
+        {
+          "source": "thehill",
+          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
+          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
+          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
+          "published_at": "2026-03-18 22:13:52+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 3.38
+        },
+        {
+          "source": "thehill",
+          "title": "IAEA chief skeptical Iran’s nuclear program can be eliminated with just military action",
+          "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
+          "summary": "The International Atomic Energy Agency (IAEA) Director General, Rafael Mariano Grossi, said that he does not believe that Iran’s nuclear program can be eliminated solely by military action.&#160; “I would agree with that. Because this program is a very vast program. It’s a program that has been built throughout the years, decades of efforts, and&#8230;",
+          "published_at": "2026-03-18 22:07:26+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 3.38
+        }
+      ]
+    },
+    {
       "topic": "everyday_economy",
       "topic_score": 34.37,
       "attention_focus_score": 33.37,
@@ -210,76 +281,6 @@
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 3.9
-        }
-      ]
-    },
-    {
-      "topic": "reality_tv",
-      "topic_score": 28.94,
-      "attention_focus_score": 27.94,
-      "item_count": 7,
-      "source_count": 3,
-      "platform_count": 3,
-      "sources": [
-        "bbc_world",
-        "cnbc",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "cnbc",
-          "title": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
-          "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
-          "summary": "Meta is scaling back its metaverse focus, cutting studios and head count at Reality Labs to prioritize artificial intelligence.",
-          "published_at": "2026-03-18 16:12:05+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 4.05
-        },
-        {
-          "source": "cnbc",
-          "title": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
-          "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
-          "summary": "The verbal agreement marks the end of a prolonged and often contentious battle that threatened the start of the WNBA season.",
-          "published_at": "2026-03-18 17:10:13+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 4.05
-        },
-        {
-          "source": "thehill",
-          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
-          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
-          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
-          "published_at": "2026-03-18 22:13:52+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 3.38
-        },
-        {
-          "source": "thehill",
-          "title": "IAEA chief skeptical Iran’s nuclear program can be eliminated with just military action",
-          "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
-          "summary": "The International Atomic Energy Agency (IAEA) Director General, Rafael Mariano Grossi, said that he does not believe that Iran’s nuclear program can be eliminated solely by military action.&#160; “I would agree with that. Because this program is a very vast program. It’s a program that has been built throughout the years, decades of efforts, and&#8230;",
-          "published_at": "2026-03-18 22:07:26+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 3.38
-        },
-        {
-          "source": "bbc_world",
-          "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
-          "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
-          "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
-          "published_at": "2026-03-18 17:54:14+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.7
         }
       ]
     },
@@ -498,6 +499,26 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
+      "topic": "reality_tv",
+      "event": "Even when they win it still ends in defeat - Spurs' season summed up",
+      "gravity_score": 6.08,
+      "priority_score": 10.08,
+      "source_platform": "bbc_top",
+      "source_label": "",
+      "url": "https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -643,24 +664,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "fashion",
-      "event": "\"Mori girl\" aesthetic revival surging — linen layers, cottagecore accessories trending among Gen Z",
-      "gravity_score": 8.3,
-      "priority_score": 8.3,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Fashion industry reports / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -766,35 +769,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "libertad fc - barcelona sc",
+        "title": "nuggets vs grizzlies",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "kristaps porziņģis",
+        "title": "hawks vs mavericks",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "navy vs wake forest",
+        "title": "santos vs internacional",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "dp world tour",
+        "title": "bj edwards",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "cole hutson",
+        "title": "steph curry injury",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -807,6 +810,14 @@
         "score": 6.52,
         "source": "bbc_top",
         "url": "https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "[BBC] Even when they win it still ends in defeat - Spurs' season summed up",
+        "score": 6.08,
+        "source": "bbc_top",
+        "url": "https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&at_campaign=rss",
         "source_label": "BBC"
       },
       {
@@ -831,14 +842,6 @@
         "score": 5.4,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[CNBC] Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
-        "score": 5.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
         "source_label": "CNBC"
       }
     ]
