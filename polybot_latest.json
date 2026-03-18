@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T15:00:32.128160+00:00",
+  "generated_at_utc": "2026-03-18T15:02:42.468116+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 187.6,
-      "attention_focus_score": 184.6,
+      "topic_score": 193.84,
+      "attention_focus_score": 190.84,
       "item_count": 50,
       "source_count": 7,
       "platform_count": 5,
@@ -26,10 +26,20 @@
       ],
       "top_items": [
         {
+          "source": "thehill",
+          "title": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
+          "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+          "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) and Sen. Alex Padilla (D-Calif.) will speak with reporters Wednesday morning to voice their opposition to the GOP-led Safeguard American Voter Eligibility (SAVE) America Act. The election reform bill, backed by President Trump, would require Americans to show proof of citizenship when registering to vote and to bring a&#8230;",
+          "published_at": "2026-03-18 14:55:22+00:00",
+          "topic": "politics",
+          "keyword_hits": 4,
+          "gravity_score": 9.0
+        },
+        {
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 2,793 upvotes · 💬 102 comments · r/worldnews",
+          "summary": "⬆ 2,828 upvotes · 💬 102 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -64,23 +74,13 @@
           "topic": "politics",
           "keyword_hits": 3,
           "gravity_score": 5.0
-        },
-        {
-          "source": "reddit_news",
-          "title": "Florida bill against marrying your first cousin fails",
-          "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,545 upvotes · 💬 383 comments · r/news",
-          "published_at": "2026-03-17 19:26:22+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 76.97,
-      "attention_focus_score": 74.47,
+      "topic_score": 76.44,
+      "attention_focus_score": 73.94,
       "item_count": 15,
       "source_count": 6,
       "platform_count": 5,
@@ -104,7 +104,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 4,551 upvotes · 💬 501 comments · r/worldnews",
+          "summary": "⬆ 4,550 upvotes · 💬 501 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -114,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 28,017 upvotes · 💬 1,365 comments · r/worldnews",
+          "summary": "⬆ 28,016 upvotes · 💬 1,365 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -124,7 +124,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,691 upvotes · 💬 1,454 comments · r/worldnews",
+          "summary": "⬆ 11,694 upvotes · 💬 1,454 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -134,7 +134,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,423 upvotes · 💬 161 comments · r/worldnews",
+          "summary": "⬆ 1,419 upvotes · 💬 161 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -154,8 +154,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 67.72,
-      "attention_focus_score": 67.22,
+      "topic_score": 67.16,
+      "attention_focus_score": 66.66,
       "item_count": 14,
       "source_count": 2,
       "platform_count": 2,
@@ -256,7 +256,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 1,983 upvotes · 💬 163 comments · r/politics",
+          "summary": "⬆ 2,077 upvotes · 💬 166 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -316,7 +316,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,236 upvotes · 💬 463 comments · r/popculturechat",
+          "summary": "⬆ 4,241 upvotes · 💬 463 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -341,6 +341,44 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.7
+        }
+      ]
+    },
+    {
+      "topic": "social_virality",
+      "topic_score": 13.05,
+      "attention_focus_score": 12.55,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "bbc_world",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "thehill",
+          "title": "Trump’s $10 billion TikTok ‘brokerage fee’ is just the tip of the iceberg",
+          "url": "https://thehill.com/opinion/white-house/5787721-trump-equity-stakes-companies/",
+          "summary": "Not only is this pay-to-play arrangement with the federal government unprecedented; it also smacks of possible corruption.",
+          "published_at": "2026-03-18 14:30:00+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "bbc_world",
+          "title": "Hittler faces Zielinski as French town's election contest goes viral",
+          "url": "https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Charles Hittler, mayor of Arcis-sur-Aube, has always faced jokes about his name but now he faces a rival with another unlikely name.",
+          "published_at": "2026-03-18 13:57:26+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 4.8
         }
       ]
     },
@@ -381,35 +419,31 @@
           "gravity_score": 2.17
         }
       ]
-    },
-    {
-      "topic": "social_virality",
-      "topic_score": 6.0,
-      "attention_focus_score": 6.0,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "thehill"
-      ],
-      "platforms": [
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "thehill",
-          "title": "Trump’s $10 billion TikTok ‘brokerage fee’ is just the tip of the iceberg",
-          "url": "https://thehill.com/opinion/white-house/5787721-trump-equity-stakes-companies/",
-          "summary": "Not only is this pay-to-play arrangement with the federal government unprecedented; it also smacks of possible corruption.",
-          "published_at": "2026-03-18 14:30:00+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        }
-      ]
     }
   ],
   "market_suggestions": [
+    {
+      "topic": "politics",
+      "event": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
+      "gravity_score": 9.0,
+      "priority_score": 17.0,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
     {
       "topic": "everyday_economy",
       "event": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
@@ -558,29 +592,6 @@
       "debatable_angles": [
         "Will this lead to a formal policy change or executive action?",
         "Will a resignation or staffing change follow within 30 days?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Leavitt: Trump has full confidence in Gabbard after top aide’s resignation over Iran",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/homenews/5789585-trump-gabbard-kent-resignation-iran/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the resignation be formalized within 7 days?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -839,6 +850,14 @@
     ],
     "Major News Headlines": [
       {
+        "topic": "politics",
+        "title": "[The Hill] Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
+        "score": 9.0,
+        "source": "thehill",
+        "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+        "source_label": "The Hill"
+      },
+      {
         "topic": "everyday_economy",
         "title": "[CNBC] Expectations for the next Fed rate cut get pushed back after hot inflation report",
         "score": 7.8,
@@ -869,14 +888,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] White House offers body camera expansion, immigration enforcement limitations in DHS reopening bid",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/administration/5789534-white-house-body-cameras-immigration-enforcement-limits-dhs-shutdown/",
-        "source_label": "The Hill"
       }
     ]
   }
