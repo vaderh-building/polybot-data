@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-18T15:22:29.639837+00:00",
+  "generated_at_utc": "2026-03-18T15:24:36.700740+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,051 upvotes · 💬 106 comments · r/worldnews",
+          "summary": "⬆ 3,076 upvotes · 💬 107 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -79,8 +79,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 82.34,
-      "attention_focus_score": 81.84,
+      "topic_score": 81.22,
+      "attention_focus_score": 80.72,
       "item_count": 15,
       "source_count": 2,
       "platform_count": 2,
@@ -125,16 +125,6 @@
         },
         {
           "source": "coindesk",
-          "title": "Bitcoin hash rate is tumbling as Iran war lifts energy prices",
-          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-hash-rate-is-tumbling-as-iran-war-lifts-energy-prices",
-          "summary": "A falling hash rate and the resultant pressure on miners could signal another potential capitulation phase, which could push prices down further",
-          "published_at": "2026-03-18 14:53:08+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
           "title": "U.S. SEC issues first-ever definitions for what crypto assets are securities",
           "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
           "summary": "The U.S. Securities and Exchange Commission shared the informal guidance it'll use to classify crypto securities alongside its sister agency overseeing commodities.",
@@ -142,14 +132,24 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Bitcoin hash rate is tumbling as Iran war lifts energy prices",
+          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-hash-rate-is-tumbling-as-iran-war-lifts-energy-prices",
+          "summary": "A falling hash rate and the resultant pressure on miners could signal another potential capitulation phase, which could push prices down further",
+          "published_at": "2026-03-18 14:53:08+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 66.07,
-      "attention_focus_score": 63.07,
-      "item_count": 13,
+      "topic_score": 70.84,
+      "attention_focus_score": 67.84,
+      "item_count": 14,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -173,7 +173,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,715 upvotes · 💬 1,455 comments · r/worldnews",
+          "summary": "⬆ 11,719 upvotes · 💬 1,456 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -184,7 +184,7 @@
           "title": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
           "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
           "summary": "Iran has scared off most ships from the Strait of Hormuz, leaving some ships to pass through, while most continued to wait outside the Gulf.",
-          "published_at": "2026-03-18 15:20:50+00:00",
+          "published_at": "2026-03-18 15:23:03+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -193,7 +193,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,429 upvotes · 💬 164 comments · r/worldnews",
+          "summary": "⬆ 1,437 upvotes · 💬 166 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -203,7 +203,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 3,767 upvotes · 💬 350 comments · r/worldnews",
+          "summary": "⬆ 3,778 upvotes · 💬 350 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,7 +213,7 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,398 upvotes · 💬 96 comments · r/news",
+          "summary": "⬆ 2,410 upvotes · 💬 96 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -223,8 +223,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 53.18,
-      "attention_focus_score": 51.18,
+      "topic_score": 52.49,
+      "attention_focus_score": 50.49,
       "item_count": 8,
       "source_count": 5,
       "platform_count": 5,
@@ -247,11 +247,11 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 2,922 upvotes · 💬 213 comments · r/politics",
+          "summary": "⬆ 3,031 upvotes · 💬 221 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 7.48
+          "gravity_score": 6.83
         },
         {
           "source": "cnbc",
@@ -317,7 +317,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,289 upvotes · 💬 466 comments · r/popculturechat",
+          "summary": "⬆ 4,296 upvotes · 💬 467 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -458,8 +458,8 @@
     {
       "topic": "everyday_economy",
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-      "gravity_score": 7.48,
-      "priority_score": 15.48,
+      "gravity_score": 6.83,
+      "priority_score": 14.83,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
@@ -701,7 +701,7 @@
       {
         "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-        "score": 7.48,
+        "score": 6.83,
         "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
@@ -828,6 +828,27 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "mikel brown jr",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "ron wyden",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "macdill afb",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "susan collins",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -835,28 +856,7 @@
       },
       {
         "topic": "trending",
-        "title": "croatia",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "braga vs ferencváros",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "twitter down",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "doomsday",
+        "title": "x down",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
