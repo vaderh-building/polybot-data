@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T16:20:27.647261+00:00",
+  "generated_at_utc": "2026-03-18T16:22:38.695113+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 185.0,
-      "attention_focus_score": 182.0,
+      "topic_score": 184.48,
+      "attention_focus_score": 181.48,
       "item_count": 50,
       "source_count": 7,
       "platform_count": 5,
@@ -39,17 +39,17 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,702 upvotes · 💬 114 comments · r/worldnews",
+          "summary": "⬆ 3,744 upvotes · 💬 115 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
-          "gravity_score": 6.75
+          "gravity_score": 6.25
         },
         {
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,650 upvotes · 💬 389 comments · r/news",
+          "summary": "⬆ 3,662 upvotes · 💬 389 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -59,7 +59,7 @@
           "source": "reddit_worldnews",
           "title": "Kim Jong-Un’s Workers' Party of Korea Wins In North Korea Election 2026 With 99.93% securing all seats in the 2026 parliamentary elections. Official figures reported that 99.99% of registered voters took part.",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwqbyg/kim_jonguns_workers_party_of_korea_wins_in_north/",
-          "summary": "⬆ 2,548 upvotes · 💬 210 comments · r/worldnews",
+          "summary": "⬆ 2,552 upvotes · 💬 210 comments · r/worldnews",
           "published_at": "2026-03-18 01:35:40+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,8 +79,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 92.47,
-      "attention_focus_score": 91.97,
+      "topic_score": 91.34,
+      "attention_focus_score": 90.84,
       "item_count": 17,
       "source_count": 2,
       "platform_count": 2,
@@ -115,16 +115,6 @@
         },
         {
           "source": "coindesk",
-          "title": "The Protocol: Ethereum community debates foundation’s new mandate document",
-          "url": "https://www.coindesk.com/tech/2026/03/18/the-protocol-ethereum-community-debates-foundation-s-new-mandate-document",
-          "summary": "Also: World’s AgentKit, Visa and Coinbase on AI agents, and prediction markets + AI.",
-          "published_at": "2026-03-18 15:52:37+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
           "title": "Bitcoin is stuck below $75,000 even after landmark SEC, CFTC crypto rules",
           "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
           "summary": "Bitcoin remains stuck near key resistance around $75,000, leaving the broader market in limbo.",
@@ -142,6 +132,16 @@
           "topic": "crypto",
           "keyword_hits": 3,
           "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Traders can now bet on the S&P 500 around the clock without ever touching a traditional stock exchange",
+          "url": "https://www.coindesk.com/markets/2026/03/18/traders-can-now-bet-on-the-s-and-p-500-around-the-clock-without-ever-touching-a-traditional-stock-exchange",
+          "summary": "S&P Dow Jones Indices licenses its flagship index for crypto trading on Hyperliquid, as perpetual futures gain traction beyond traditional markets.",
+          "published_at": "2026-03-18 15:13:09+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.5
         }
       ]
     },
@@ -191,7 +191,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 1,732 upvotes · 💬 305 comments · r/worldnews",
+          "summary": "⬆ 1,752 upvotes · 💬 306 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -201,7 +201,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,041 upvotes · 💬 362 comments · r/worldnews",
+          "summary": "⬆ 4,054 upvotes · 💬 362 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -211,7 +211,7 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,428 upvotes · 💬 100 comments · r/news",
+          "summary": "⬆ 2,426 upvotes · 💬 100 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -245,7 +245,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 5,507 upvotes · 💬 395 comments · r/politics",
+          "summary": "⬆ 5,588 upvotes · 💬 406 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -265,7 +265,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 1,263 upvotes · 💬 78 comments · r/politics",
+          "summary": "⬆ 1,309 upvotes · 💬 81 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -317,7 +317,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,376 upvotes · 💬 472 comments · r/popculturechat",
+          "summary": "⬆ 4,379 upvotes · 💬 472 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -542,8 +542,8 @@
     {
       "topic": "politics",
       "event": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
+      "gravity_score": 6.25,
+      "priority_score": 14.25,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
@@ -728,7 +728,7 @@
       {
         "topic": "politics",
         "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-        "score": 6.75,
+        "score": 6.25,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
       },
