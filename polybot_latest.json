@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T17:33:59.424488+00:00",
+  "generated_at_utc": "2026-03-18T17:36:09.882412+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 197.54,
-      "attention_focus_score": 194.04,
-      "item_count": 52,
+      "topic_score": 191.09,
+      "attention_focus_score": 187.59,
+      "item_count": 51,
       "source_count": 8,
       "platform_count": 6,
       "sources": [
@@ -51,7 +51,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,420 upvotes · 💬 122 comments · r/worldnews",
+          "summary": "⬆ 4,442 upvotes · 💬 122 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -61,7 +61,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 330 upvotes · 💬 35 comments · r/politics",
+          "summary": "⬆ 352 upvotes · 💬 38 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -71,7 +71,7 @@
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,703 upvotes · 💬 394 comments · r/news",
+          "summary": "⬆ 3,706 upvotes · 💬 394 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -81,8 +81,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 65.69,
-      "attention_focus_score": 63.69,
+      "topic_score": 64.62,
+      "attention_focus_score": 62.62,
       "item_count": 16,
       "source_count": 5,
       "platform_count": 4,
@@ -104,7 +104,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,385 upvotes · 💬 372 comments · r/worldnews",
+          "summary": "⬆ 4,397 upvotes · 💬 372 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -114,21 +114,11 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,307 upvotes · 💬 355 comments · r/worldnews",
+          "summary": "⬆ 2,319 upvotes · 💬 355 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.25
-        },
-        {
-          "source": "bbc_world",
-          "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
-          "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
-          "summary": "Israel said it had killed Khatib, whose death was confirmed by Iranian President Masoud Pezeshkian on Wednesday.",
-          "published_at": "2026-03-18 17:05:46+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.5
         },
         {
           "source": "bbc_world",
@@ -149,20 +139,31 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.0
+        },
+        {
+          "source": "cnbc",
+          "title": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
+          "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
+          "summary": "Iran has scared off most ships from the Strait of Hormuz, leaving some ships to pass through, while most continued to wait outside the strait.",
+          "published_at": "2026-03-18 15:56:12+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 63.16,
+      "topic_score": 63.66,
       "attention_focus_score": 61.16,
       "item_count": 10,
-      "source_count": 5,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "npr_news",
+        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -175,10 +176,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 8,441 upvotes · 💬 590 comments · r/politics",
+          "summary": "⬆ 8,503 upvotes · 💬 593 comments · r/all",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -198,7 +199,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 2,906 upvotes · 💬 135 comments · r/politics",
+          "summary": "⬆ 2,978 upvotes · 💬 135 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -314,7 +315,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,455 upvotes · 💬 478 comments · r/popculturechat",
+          "summary": "⬆ 4,472 upvotes · 💬 478 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -504,7 +505,7 @@
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 8.12,
       "priority_score": 16.12,
-      "source_platform": "reddit_politics",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
@@ -649,12 +650,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Iran's intelligence minister Esmail Khatib killed in air strike",
+      "event": "Oil nears $110 a barrel after gas field strike",
       "gravity_score": 4.5,
       "priority_score": 10.5,
       "source_platform": "bbc_world",
       "source_label": "",
-      "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -662,10 +663,10 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the strike last more than 14 days?"
+        "Will crude oil close above/below a specific price within 14 days?",
+        "Will OPEC announce production changes in response?",
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -703,7 +704,7 @@
         "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
         "score": 8.12,
-        "source": "reddit_politics",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
       {
