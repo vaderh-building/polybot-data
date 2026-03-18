@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T22:10:50.324223+00:00",
+  "generated_at_utc": "2026-03-18T22:12:57.545524+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 163.71,
-      "attention_focus_score": 160.71,
+      "topic_score": 163.17,
+      "attention_focus_score": 160.17,
       "item_count": 42,
       "source_count": 7,
       "platform_count": 6,
@@ -30,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 8,042 upvotes · 💬 314 comments · r/politics",
+          "summary": "⬆ 8,110 upvotes · 💬 318 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,7 +40,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 6,426 upvotes · 💬 145 comments · r/worldnews",
+          "summary": "⬆ 6,441 upvotes · 💬 146 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -64,7 +64,7 @@
           "published_at": "2026-03-18 20:11:57+00:00",
           "topic": "politics",
           "keyword_hits": 2,
-          "gravity_score": 5.5
+          "gravity_score": 5.0
         },
         {
           "source": "politico",
@@ -88,7 +88,7 @@
       "sources": [
         "cnbc",
         "coindesk",
-        "reddit_news",
+        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -103,17 +103,17 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 15,021 upvotes · 💬 885 comments · r/politics",
+          "summary": "⬆ 15,055 upvotes · 💬 886 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 8.78
         },
         {
-          "source": "reddit_news",
+          "source": "reddit_all",
           "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
           "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/",
-          "summary": "⬆ 7,528 upvotes · 💬 346 comments · r/news",
+          "summary": "⬆ 7,615 upvotes · 💬 351 comments · r/all",
           "published_at": "2026-03-18 19:40:59+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -123,7 +123,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 8,309 upvotes · 💬 280 comments · r/politics",
+          "summary": "⬆ 8,325 upvotes · 💬 281 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -133,7 +133,7 @@
           "source": "reddit_politics",
           "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
           "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 745 upvotes · 💬 257 comments · r/politics",
+          "summary": "⬆ 772 upvotes · 💬 260 comments · r/politics",
           "published_at": "2026-03-18 19:31:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -244,7 +244,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,975 upvotes · 💬 403 comments · r/worldnews",
+          "summary": "⬆ 4,983 upvotes · 💬 404 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -254,7 +254,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 3,340 upvotes · 💬 444 comments · r/worldnews",
+          "summary": "⬆ 3,337 upvotes · 💬 444 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -264,7 +264,7 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 694 upvotes · 💬 219 comments · r/popculturechat",
+          "summary": "⬆ 696 upvotes · 💬 221 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -294,8 +294,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 38.01,
-      "attention_focus_score": 36.51,
+      "topic_score": 37.28,
+      "attention_focus_score": 35.78,
       "item_count": 6,
       "source_count": 4,
       "platform_count": 4,
@@ -316,21 +316,11 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,673 upvotes · 💬 490 comments · r/popculturechat",
+          "summary": "⬆ 4,666 upvotes · 💬 490 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 9.79
-        },
-        {
-          "source": "cnbc",
-          "title": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
-          "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
-          "summary": "Meta is scaling back its metaverse focus, cutting studios and head count at Reality Labs to prioritize artificial intelligence.",
-          "published_at": "2026-03-18 16:12:05+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 4.73
         },
         {
           "source": "cnbc",
@@ -351,6 +341,16 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 4.73
+        },
+        {
+          "source": "cnbc",
+          "title": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
+          "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
+          "summary": "Meta is scaling back its metaverse focus, cutting studios and head count at Reality Labs to prioritize artificial intelligence.",
+          "published_at": "2026-03-18 16:12:05+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.05
         },
         {
           "source": "bbc_world",
@@ -433,7 +433,7 @@
           "source": "reddit_popculturechat",
           "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 264 upvotes · 💬 39 comments · r/popculturechat",
+          "summary": "⬆ 265 upvotes · 💬 39 comments · r/popculturechat",
           "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -443,7 +443,7 @@
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 1,459 upvotes · 💬 76 comments · r/news",
+          "summary": "⬆ 1,465 upvotes · 💬 76 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -544,7 +544,7 @@
       "event": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
       "gravity_score": 8.12,
       "priority_score": 14.12,
-      "source_platform": "reddit_news",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/",
       "platforms_discussing": [
@@ -623,12 +623,12 @@
     },
     {
       "topic": "reality_tv",
-      "event": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
+      "event": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
       "gravity_score": 4.73,
       "priority_score": 10.73,
       "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
+      "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -644,12 +644,12 @@
     },
     {
       "topic": "reality_tv",
-      "event": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
+      "event": "Mark Cuban says Trump Rx saving people ‘a lot of money’ on some drugs",
       "gravity_score": 4.73,
       "priority_score": 10.73,
-      "source_platform": "cnbc",
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
+      "url": "https://thehill.com/policy/healthcare/5790314-mark-cuban-praises-trump-rx/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -722,7 +722,7 @@
         "topic": "everyday_economy",
         "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
         "score": 8.12,
-        "source": "reddit_news",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/"
       },
       {
@@ -841,35 +841,35 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "counting crows",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "gen z",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "warriors vs celtics",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "ucl fixtures",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "dana perino",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "athletico-pr x cruzeiro",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "jerry oconnell",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "gen z years",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "linda campitelli",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -893,19 +893,19 @@
         "source_label": "The Hill"
       },
       {
-        "topic": "politics",
-        "title": "[CNBC] Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
-        "score": 5.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "social_virality",
         "title": "[CNBC] Meta will pay Instagram, TikTok and YouTube creators with big followings to post on Facebook",
         "score": 5.4,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
+        "score": 5.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
         "source_label": "CNBC"
       },
       {
