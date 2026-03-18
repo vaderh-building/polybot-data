@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T15:40:00.750468+00:00",
+  "generated_at_utc": "2026-03-18T15:42:12.434809+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 192.8,
-      "attention_focus_score": 189.8,
+      "topic_score": 191.76,
+      "attention_focus_score": 188.76,
       "item_count": 52,
       "source_count": 7,
       "platform_count": 5,
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,268 upvotes · 💬 109 comments · r/worldnews",
+          "summary": "⬆ 3,282 upvotes · 💬 109 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -53,7 +53,7 @@
           "published_at": "2026-03-18 15:10:40+00:00",
           "topic": "politics",
           "keyword_hits": 1,
-          "gravity_score": 6.0
+          "gravity_score": 5.0
         },
         {
           "source": "thehill",
@@ -69,7 +69,7 @@
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,603 upvotes · 💬 387 comments · r/news",
+          "summary": "⬆ 3,608 upvotes · 💬 387 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -173,7 +173,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,736 upvotes · 💬 1,459 comments · r/worldnews",
+          "summary": "⬆ 11,740 upvotes · 💬 1,459 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -193,7 +193,7 @@
           "source": "reddit_worldnews",
           "title": "U.S. hasn’t formally asked NATO to help keep Strait of Hormuz open, Anita Anand says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwq17c/us_hasnt_formally_asked_nato_to_help_keep_strait/",
-          "summary": "⬆ 1,432 upvotes · 💬 172 comments · r/worldnews",
+          "summary": "⬆ 1,438 upvotes · 💬 172 comments · r/worldnews",
           "published_at": "2026-03-18 01:22:32+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -203,7 +203,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 3,850 upvotes · 💬 359 comments · r/worldnews",
+          "summary": "⬆ 3,863 upvotes · 💬 359 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,7 +213,7 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,411 upvotes · 💬 97 comments · r/news",
+          "summary": "⬆ 2,415 upvotes · 💬 97 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -247,7 +247,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 3,760 upvotes · 💬 259 comments · r/politics",
+          "summary": "⬆ 3,861 upvotes · 💬 265 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -267,7 +267,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 262 upvotes · 💬 28 comments · r/politics",
+          "summary": "⬆ 329 upvotes · 💬 30 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -550,29 +550,6 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "politics",
-      "event": "Key U.S. senator on crypto market structure bill negotiation: 'We think we've got it'",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
       "topic": "geopolitics",
       "event": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
       "gravity_score": 6.0,
@@ -636,6 +613,29 @@
         "Will a specific member state publicly commit troops or assets?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "politics",
+      "event": "Key U.S. senator on crypto market structure bill negotiation: 'We think we've got it'",
+      "gravity_score": 5.0,
+      "priority_score": 13.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a specific member state publicly commit troops or assets?",
+        "Will an emergency NATO summit be convened within 30 days?",
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "reality_tv",
