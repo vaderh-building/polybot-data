@@ -1,18 +1,17 @@
 {
-  "generated_at_utc": "2026-03-18T01:22:55.030847+00:00",
+  "generated_at_utc": "2026-03-18T01:25:02.436224+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 205.38,
-      "attention_focus_score": 200.88,
-      "item_count": 46,
-      "source_count": 10,
-      "platform_count": 7,
+      "topic_score": 196.16,
+      "attention_focus_score": 192.16,
+      "item_count": 45,
+      "source_count": 9,
+      "platform_count": 6,
       "sources": [
         "bbc_top",
         "cnbc",
         "coindesk",
-        "google_trends_us_daily",
         "politico",
         "reddit_all",
         "reddit_news",
@@ -24,7 +23,6 @@
         "bbc",
         "cnbc",
         "coindesk",
-        "google_trends",
         "politico",
         "reddit",
         "thehill"
@@ -34,7 +32,7 @@
           "source": "reddit_all",
           "title": "Bernie Sanders is suggesting the Epstein files be read during the filibuster on the SAVE ACT this week. Do you support reading the Epstein files on the Senate floor? 👍",
           "url": "https://www.reddit.com/r/AskSocialists/comments/1rwhjqg/bernie_sanders_is_suggesting_the_epstein_files_be/",
-          "summary": "⬆ 57,032 upvotes · 💬 1,143 comments · r/all",
+          "summary": "⬆ 57,311 upvotes · 💬 1,149 comments · r/all",
           "published_at": "2026-03-17 19:58:56+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -44,7 +42,7 @@
           "source": "reddit_all",
           "title": "BREAKING: House Oversight Committee subpoenas AG Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/videos/comments/1rwh5tb/breaking_house_oversight_committee_subpoenas_ag/",
-          "summary": "⬆ 13,417 upvotes · 💬 326 comments · r/all",
+          "summary": "⬆ 13,457 upvotes · 💬 326 comments · r/all",
           "published_at": "2026-03-17 19:45:34+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -54,17 +52,17 @@
           "source": "reddit_all",
           "title": "Afroman defending himself today in court when the cops sued him for making a song about their raid on his house.",
           "url": "https://www.reddit.com/r/law/comments/1rwf2y7/afroman_defending_himself_today_in_court_when_the/",
-          "summary": "⬆ 40,125 upvotes · 💬 1,454 comments · r/all",
+          "summary": "⬆ 40,203 upvotes · 💬 1,456 comments · r/all",
           "published_at": "2026-03-17 18:33:52+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
-          "source": "reddit_news",
+          "source": "reddit_all",
           "title": "US House panel subpoenas Attorney General Bondi in Epstein probe",
           "url": "https://www.reddit.com/r/news/comments/1rwf093/us_house_panel_subpoenas_attorney_general_bondi/",
-          "summary": "⬆ 21,311 upvotes · 💬 409 comments · r/news",
+          "summary": "⬆ 21,370 upvotes · 💬 409 comments · r/all",
           "published_at": "2026-03-17 18:31:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -177,7 +175,7 @@
           "source": "reddit_worldnews",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw9fjg/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 24,153 upvotes · 💬 1,258 comments · r/worldnews",
+          "summary": "⬆ 24,187 upvotes · 💬 1,258 comments · r/worldnews",
           "published_at": "2026-03-17 15:17:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -187,7 +185,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 8,843 upvotes · 💬 1,188 comments · r/worldnews",
+          "summary": "⬆ 8,862 upvotes · 💬 1,190 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -197,7 +195,7 @@
           "source": "reddit_worldnews",
           "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz | US-Israel war on Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwfhz6/trump_says_us_does_not_need_nato_after_being/",
-          "summary": "⬆ 2,789 upvotes · 💬 377 comments · r/worldnews",
+          "summary": "⬆ 2,811 upvotes · 💬 377 comments · r/worldnews",
           "published_at": "2026-03-17 18:48:08+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
@@ -207,7 +205,7 @@
           "source": "reddit_worldnews",
           "title": "Ukraine targets Moscow with drones for 4th consecutive day, launching at least 40 in latest strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw6aih/ukraine_targets_moscow_with_drones_for_4th/",
-          "summary": "⬆ 5,839 upvotes · 💬 141 comments · r/worldnews",
+          "summary": "⬆ 5,846 upvotes · 💬 141 comments · r/worldnews",
           "published_at": "2026-03-17 13:18:21+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -227,8 +225,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 33.55,
-      "attention_focus_score": 32.05,
+      "topic_score": 32.85,
+      "attention_focus_score": 31.35,
       "item_count": 6,
       "source_count": 4,
       "platform_count": 3,
@@ -245,21 +243,21 @@
       ],
       "top_items": [
         {
-          "source": "reddit_popculturechat",
-          "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 575 upvotes · 💬 126 comments · r/popculturechat",
-          "published_at": "2026-03-17 23:24:10+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 8.44
-        },
-        {
           "source": "reddit_worldnews",
           "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
           "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
-          "summary": "⬆ 5,784 upvotes · 💬 584 comments · r/worldnews",
+          "summary": "⬆ 5,796 upvotes · 💬 584 comments · r/worldnews",
           "published_at": "2026-03-17 09:55:18+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
+          "summary": "⬆ 608 upvotes · 💬 128 comments · r/popculturechat",
+          "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 7.76
@@ -268,7 +266,7 @@
           "source": "reddit_popculturechat",
           "title": "Ejae's looks through the award season",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rw97ri/ejaes_looks_through_the_award_season/",
-          "summary": "⬆ 382 upvotes · 💬 26 comments · r/popculturechat",
+          "summary": "⬆ 387 upvotes · 💬 26 comments · r/popculturechat",
           "published_at": "2026-03-17 15:09:44+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -354,7 +352,7 @@
       "topic": "politics",
       "event": "Bernie Sanders is suggesting the Epstein files be read during the filibuster on the SAVE ACT this week. Do you support reading the Epstein…",
       "gravity_score": 7.25,
-      "priority_score": 19.25,
+      "priority_score": 17.25,
       "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/AskSocialists/comments/1rwhjqg/bernie_sanders_is_suggesting_the_epstein_files_be/",
@@ -362,7 +360,6 @@
         "bbc",
         "cnbc",
         "coindesk",
-        "google_trends",
         "politico",
         "reddit",
         "thehill"
@@ -377,7 +374,7 @@
       "topic": "politics",
       "event": "BREAKING: House Oversight Committee subpoenas AG Bondi in Epstein probe",
       "gravity_score": 7.25,
-      "priority_score": 19.25,
+      "priority_score": 17.25,
       "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/videos/comments/1rwh5tb/breaking_house_oversight_committee_subpoenas_ag/",
@@ -385,7 +382,6 @@
         "bbc",
         "cnbc",
         "coindesk",
-        "google_trends",
         "politico",
         "reddit",
         "thehill"
@@ -401,7 +397,7 @@
       "topic": "politics",
       "event": "Afroman defending himself today in court when the cops sued him for making a song about their raid on his house.",
       "gravity_score": 6.75,
-      "priority_score": 18.75,
+      "priority_score": 16.75,
       "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/law/comments/1rwf2y7/afroman_defending_himself_today_in_court_when_the/",
@@ -409,7 +405,6 @@
         "bbc",
         "cnbc",
         "coindesk",
-        "google_trends",
         "politico",
         "reddit",
         "thehill"
@@ -491,12 +486,12 @@
     },
     {
       "topic": "reality_tv",
-      "event": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
-      "gravity_score": 8.44,
-      "priority_score": 12.44,
-      "source_platform": "reddit_popculturechat",
+      "event": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
+      "gravity_score": 7.76,
+      "priority_score": 11.76,
+      "source_platform": "reddit_worldnews",
       "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
       "platforms_discussing": [
         "bbc",
         "reddit",
@@ -511,12 +506,12 @@
     },
     {
       "topic": "reality_tv",
-      "event": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
+      "event": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
       "gravity_score": 7.76,
       "priority_score": 11.76,
-      "source_platform": "reddit_worldnews",
+      "source_platform": "reddit_popculturechat",
       "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
       "platforms_discussing": [
         "bbc",
         "reddit",
@@ -602,17 +597,17 @@
     "Reddit": [
       {
         "topic": "reality_tv",
-        "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
-        "score": 8.44,
-        "source": "reddit_popculturechat",
-        "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/"
-      },
-      {
-        "topic": "reality_tv",
         "title": "Israel confirms Larijani killed in Tehran safe house, Basij chief also eliminated",
         "score": 7.76,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rw26ik/israel_confirms_larijani_killed_in_tehran_safe/"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
+        "score": 7.76,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/"
       },
       {
         "topic": "politics",
@@ -737,35 +732,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "suarez mlb",
+        "title": "76ers vs nuggets",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "uncw vs yale",
+        "title": "spurs vs kings",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "daredevil born again",
+        "title": "wilyer abreu",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "charles barkley",
+        "title": "kyle schwarber",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "booker t",
+        "title": "johnny hekker",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
