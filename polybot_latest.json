@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T15:58:13.913058+00:00",
+  "generated_at_utc": "2026-03-18T16:00:23.589979+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 186.04,
-      "attention_focus_score": 183.04,
-      "item_count": 51,
+      "topic_score": 180.32,
+      "attention_focus_score": 177.32,
+      "item_count": 49,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,466 upvotes · 💬 109 comments · r/worldnews",
+          "summary": "⬆ 3,498 upvotes · 💬 110 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -56,21 +56,21 @@
           "gravity_score": 5.0
         },
         {
-          "source": "thehill",
-          "title": "Housing bill backed by Senate GOP, Trump hits roadblocks with House Republicans",
-          "url": "https://thehill.com/homenews/house/5788573-housing-affordability-bill-house/",
-          "summary": "A sweeping bipartisan housing affordability package that overwhelmingly cleared the Senate faces a tough road in the House, where conservatives are signaling they plan to oppose the legislation. The 21st Century ROAD to Housing Act, spearheaded by Senate Banking Committee Chair Tim Scott (R-S.C.) and ranking member Elizabeth Warren (D-Mass.), would approve incentives to build&#8230;",
-          "published_at": "2026-03-18 10:00:00+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 5.0
-        },
-        {
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,632 upvotes · 💬 387 comments · r/news",
+          "summary": "⬆ 3,634 upvotes · 💬 387 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Kim Jong-Un’s Workers' Party of Korea Wins In North Korea Election 2026 With 99.93% securing all seats in the 2026 parliamentary elections. Official figures reported that 99.99% of registered voters took part.",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwqbyg/kim_jonguns_workers_party_of_korea_wins_in_north/",
+          "summary": "⬆ 2,525 upvotes · 💬 208 comments · r/worldnews",
+          "published_at": "2026-03-18 01:35:40+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 4.75
@@ -79,8 +79,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 89.09,
-      "attention_focus_score": 88.59,
+      "topic_score": 88.53,
+      "attention_focus_score": 88.03,
       "item_count": 16,
       "source_count": 2,
       "platform_count": 2,
@@ -147,8 +147,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 65.28,
-      "attention_focus_score": 62.28,
+      "topic_score": 64.75,
+      "attention_focus_score": 61.75,
       "item_count": 13,
       "source_count": 7,
       "platform_count": 5,
@@ -173,7 +173,7 @@
           "source": "reddit_worldnews",
           "title": "NATO countries don't want to get involved in Iran operation, Trump says",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/",
-          "summary": "⬆ 11,758 upvotes · 💬 1,461 comments · r/worldnews",
+          "summary": "⬆ 11,755 upvotes · 💬 1,461 comments · r/worldnews",
           "published_at": "2026-03-17 16:10:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -193,7 +193,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 1,536 upvotes · 💬 285 comments · r/worldnews",
+          "summary": "⬆ 1,556 upvotes · 💬 288 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -203,7 +203,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 3,934 upvotes · 💬 360 comments · r/worldnews",
+          "summary": "⬆ 3,943 upvotes · 💬 360 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,7 +213,7 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,413 upvotes · 💬 96 comments · r/news",
+          "summary": "⬆ 2,418 upvotes · 💬 96 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -247,7 +247,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 4,572 upvotes · 💬 326 comments · r/politics",
+          "summary": "⬆ 4,656 upvotes · 💬 333 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -267,7 +267,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 729 upvotes · 💬 53 comments · r/politics",
+          "summary": "⬆ 786 upvotes · 💬 54 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -297,8 +297,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 40.9,
-      "attention_focus_score": 39.4,
+      "topic_score": 39.45,
+      "attention_focus_score": 37.95,
       "item_count": 5,
       "source_count": 4,
       "platform_count": 4,
@@ -319,7 +319,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,350 upvotes · 💬 469 comments · r/popculturechat",
+          "summary": "⬆ 4,355 upvotes · 💬 469 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -333,7 +333,7 @@
           "published_at": "2026-03-18 15:29:31+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 8.1
+          "gravity_score": 6.75
         },
         {
           "source": "thehill",
@@ -595,27 +595,6 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "reality_tv",
-      "event": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
-      "gravity_score": 8.1,
-      "priority_score": 14.1,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
       "topic": "geopolitics",
       "event": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
       "gravity_score": 6.0,
@@ -682,6 +661,27 @@
         "Will the president sign or veto it?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
+      "gravity_score": 6.75,
+      "priority_score": 12.75,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "reality_tv",
@@ -880,14 +880,6 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "reality_tv",
-        "title": "[CNBC] Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
-        "score": 8.1,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "crypto",
         "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
         "score": 8.0,
@@ -910,6 +902,14 @@
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
         "source_label": "The Hill"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "[CNBC] Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
+        "score": 6.75,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
+        "source_label": "CNBC"
       },
       {
         "topic": "crypto",
