@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-18T16:44:52.385379+00:00",
+  "generated_at_utc": "2026-03-18T16:47:10.504308+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,958 upvotes · 💬 121 comments · r/worldnews",
+          "summary": "⬆ 3,970 upvotes · 💬 121 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -59,7 +59,7 @@
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,670 upvotes · 💬 393 comments · r/news",
+          "summary": "⬆ 3,674 upvotes · 💬 393 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -69,7 +69,7 @@
           "source": "reddit_worldnews",
           "title": "Kim Jong-Un’s Workers' Party of Korea Wins In North Korea Election 2026 With 99.93% securing all seats in the 2026 parliamentary elections. Official figures reported that 99.99% of registered voters took part.",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwqbyg/kim_jonguns_workers_party_of_korea_wins_in_north/",
-          "summary": "⬆ 2,586 upvotes · 💬 210 comments · r/worldnews",
+          "summary": "⬆ 2,585 upvotes · 💬 210 comments · r/worldnews",
           "published_at": "2026-03-18 01:35:40+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -147,8 +147,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 68.88,
-      "attention_focus_score": 66.38,
+      "topic_score": 67.81,
+      "attention_focus_score": 65.31,
       "item_count": 15,
       "source_count": 6,
       "platform_count": 4,
@@ -168,6 +168,16 @@
       ],
       "top_items": [
         {
+          "source": "reddit_worldnews",
+          "title": "Strike hits South Pars, world’s largest gas field, in Iran",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
+          "summary": "⬆ 1,939 upvotes · 💬 327 comments · r/worldnews",
+          "published_at": "2026-03-18 13:09:20+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.25
+        },
+        {
           "source": "cnbc",
           "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
           "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
@@ -175,17 +185,7 @@
           "published_at": "2026-03-18 16:16:09+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Strike hits South Pars, world’s largest gas field, in Iran",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 1,920 upvotes · 💬 326 comments · r/worldnews",
-          "published_at": "2026-03-18 13:09:20+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.25
+          "gravity_score": 5.0
         },
         {
           "source": "cnbc",
@@ -201,7 +201,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,180 upvotes · 💬 366 comments · r/worldnews",
+          "summary": "⬆ 4,196 upvotes · 💬 366 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -221,16 +221,15 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 65.38,
-      "attention_focus_score": 62.88,
+      "topic_score": 66.27,
+      "attention_focus_score": 64.27,
       "item_count": 10,
-      "source_count": 6,
+      "source_count": 5,
       "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "npr_news",
-        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -243,10 +242,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 6,531 upvotes · 💬 472 comments · r/all",
+          "summary": "⬆ 6,615 upvotes · 💬 481 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -254,9 +253,19 @@
         },
         {
           "source": "reddit_politics",
+          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
+          "summary": "⬆ 1,800 upvotes · 💬 107 comments · r/politics",
+          "published_at": "2026-03-18 15:09:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.48
+        },
+        {
+          "source": "reddit_politics",
           "title": "Fox Hosts Freak Out On Air Over Trump’s Disastrous Inflation: ‘Inflation has jumped significantly under Donald Trump’",
           "url": "https://www.reddit.com/r/politics/comments/1rx7p33/fox_hosts_freak_out_on_air_over_trumps_disastrous/",
-          "summary": "⬆ 462 upvotes · 💬 36 comments · r/politics",
+          "summary": "⬆ 560 upvotes · 💬 40 comments · r/politics",
           "published_at": "2026-03-18 15:54:44+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -271,16 +280,6 @@
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 6.5
-        },
-        {
-          "source": "reddit_politics",
-          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 1,776 upvotes · 💬 104 comments · r/politics",
-          "published_at": "2026-03-18 15:09:46+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.17
         },
         {
           "source": "cnbc",
@@ -318,7 +317,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,401 upvotes · 💬 475 comments · r/popculturechat",
+          "summary": "⬆ 4,398 upvotes · 💬 475 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -449,7 +448,7 @@
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 8.12,
       "priority_score": 16.12,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
@@ -485,6 +484,27 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+      "gravity_score": 7.48,
+      "priority_score": 15.48,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "everyday_economy",
@@ -527,26 +547,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
-      "gravity_score": 6.5,
-      "priority_score": 14.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "politics",
@@ -614,27 +614,6 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
-      "gravity_score": 6.0,
-      "priority_score": 12.0,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
       "event": "Strike hits South Pars, world’s largest gas field, in Iran",
       "gravity_score": 5.25,
       "priority_score": 11.25,
@@ -652,6 +631,27 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?",
         "Will oil prices spike above a specific threshold?",
         "Will the strike last more than 14 days?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
+      "gravity_score": 5.0,
+      "priority_score": 11.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -711,8 +711,15 @@
         "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
         "score": 8.12,
-        "source": "reddit_all",
+        "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
+        "score": 7.48,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
       },
       {
         "topic": "everyday_economy",
@@ -727,13 +734,6 @@
         "score": 6.25,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-        "score": 6.17,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
       }
     ],
     "X": [
