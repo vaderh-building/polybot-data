@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-18T19:52:08.979006+00:00",
+  "generated_at_utc": "2026-03-18T19:54:16.462491+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -30,7 +30,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 5,626 upvotes · 💬 135 comments · r/worldnews",
+          "summary": "⬆ 5,645 upvotes · 💬 136 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,7 +40,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 3,938 upvotes · 💬 162 comments · r/politics",
+          "summary": "⬆ 4,000 upvotes · 💬 163 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -80,15 +80,16 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 81.43,
-      "attention_focus_score": 79.43,
-      "item_count": 14,
-      "source_count": 5,
+      "topic_score": 89.85,
+      "attention_focus_score": 87.35,
+      "item_count": 15,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "npr_news",
+        "reddit_news",
         "reddit_politics",
         "thehill"
       ],
@@ -104,7 +105,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 12,521 upvotes · 💬 797 comments · r/politics",
+          "summary": "⬆ 12,577 upvotes · 💬 798 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -114,7 +115,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 6,364 upvotes · 💬 207 comments · r/politics",
+          "summary": "⬆ 6,403 upvotes · 💬 210 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -131,6 +132,16 @@
           "gravity_score": 7.8
         },
         {
+          "source": "reddit_news",
+          "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
+          "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/",
+          "summary": "⬆ 72 upvotes · 💬 8 comments · r/news",
+          "published_at": "2026-03-18 19:40:59+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.48
+        },
+        {
           "source": "thehill",
           "title": "Gas prices highest since 2023: AAA",
           "url": "https://thehill.com/policy/energy-environment/5790374-iran-strait-of-hormuz-oil/",
@@ -139,23 +150,13 @@
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.85
-        },
-        {
-          "source": "coindesk",
-          "title": "Federal Reserve holds policy steady as Iran war adds to growth and inflation concerns",
-          "url": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
-          "summary": "Bitcoin remained sharply lower for the session following the expected decision by the U.S. central bank.",
-          "published_at": "2026-03-18 17:59:47+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.2
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 72.22,
-      "attention_focus_score": 71.72,
+      "topic_score": 71.09,
+      "attention_focus_score": 70.59,
       "item_count": 15,
       "source_count": 2,
       "platform_count": 2,
@@ -189,16 +190,6 @@
           "gravity_score": 6.0
         },
         {
-          "source": "cnbc",
-          "title": "AI, crypto industries dump millions into Illinois primaries to mixed results",
-          "url": "https://www.cnbc.com/2026/03/18/ai-crpyto-illinois-primaries-2026-elections.html",
-          "summary": "Illinois' early primary shows the limits of the AI and cryptocurrency industries' spending power on shaping Congress.",
-          "published_at": "2026-03-18 18:53:21+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
           "source": "coindesk",
           "title": "Sam Bankman-Fried's bankrupt exchange FTX set to repay creditors $2.2 billion this month",
           "url": "https://www.coindesk.com/business/2026/03/18/sam-bankman-fried-s-bankrupt-exchange-ftx-set-to-repay-creditors-usd2-2-billion-this-month",
@@ -214,6 +205,16 @@
           "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-long-and-short-when-price-stops-working-yield-starts-mattering",
           "summary": "In this week’s Crypto Long & Short Newsletter, Ruchir Gupta writes on how we’re moving toward a true fixed-income market for crypto-native yield. Then, Clara García Prieto on bitcoin becoming mainstream collateral, but most are not prepared for its risks.",
           "published_at": "2026-03-18 16:17:13+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Traders can now bet on the S&P 500 around the clock without ever touching a traditional stock exchange",
+          "url": "https://www.coindesk.com/markets/2026/03/18/traders-can-now-bet-on-the-s-and-p-500-around-the-clock-without-ever-touching-a-traditional-stock-exchange",
+          "summary": "S&P Dow Jones Indices licenses its flagship index for crypto trading on Hyperliquid, as perpetual futures gain traction beyond traditional markets.",
+          "published_at": "2026-03-18 15:13:09+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 5.0
@@ -245,7 +246,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,752 upvotes · 💬 394 comments · r/worldnews",
+          "summary": "⬆ 4,755 upvotes · 💬 394 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -255,7 +256,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,946 upvotes · 💬 414 comments · r/worldnews",
+          "summary": "⬆ 2,958 upvotes · 💬 416 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -275,7 +276,7 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 613 upvotes · 💬 207 comments · r/popculturechat",
+          "summary": "⬆ 621 upvotes · 💬 207 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -295,8 +296,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 34.37,
-      "attention_focus_score": 32.87,
+      "topic_score": 33.64,
+      "attention_focus_score": 32.14,
       "item_count": 5,
       "source_count": 4,
       "platform_count": 4,
@@ -351,7 +352,7 @@
           "published_at": "2026-03-18 17:54:14+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 3.38
+          "gravity_score": 2.7
         },
         {
           "source": "thehill",
@@ -433,7 +434,7 @@
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 745 upvotes · 💬 55 comments · r/news",
+          "summary": "⬆ 755 upvotes · 💬 56 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -720,18 +721,18 @@
         "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
       },
       {
+        "topic": "everyday_economy",
+        "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
+        "score": 7.48,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/"
+      },
+      {
         "topic": "politics",
         "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
         "score": 7.25,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
-      },
-      {
-        "topic": "music_charts",
-        "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
-        "score": 6.89,
-        "source": "reddit_news",
-        "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/"
       }
     ],
     "X": [
@@ -835,6 +836,27 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "atletico de madrid",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "kasper schmeichel",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "champions league games",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "criminal defense attorney",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -843,27 +865,6 @@
       {
         "topic": "trending",
         "title": "metaverse",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "christian collins",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "andy dalton",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "xavi espart",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
