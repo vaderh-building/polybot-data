@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T15:56:03.552490+00:00",
+  "generated_at_utc": "2026-03-18T15:58:13.913058+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 184.48,
-      "attention_focus_score": 181.48,
+      "topic_score": 186.04,
+      "attention_focus_score": 183.04,
       "item_count": 51,
       "source_count": 7,
       "platform_count": 5,
@@ -39,7 +39,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 3,440 upvotes · 💬 109 comments · r/worldnews",
+          "summary": "⬆ 3,466 upvotes · 💬 109 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -69,7 +69,7 @@
           "source": "reddit_news",
           "title": "Florida bill against marrying your first cousin fails",
           "url": "https://www.reddit.com/r/news/comments/1rwgmda/florida_bill_against_marrying_your_first_cousin/",
-          "summary": "⬆ 3,623 upvotes · 💬 387 comments · r/news",
+          "summary": "⬆ 3,632 upvotes · 💬 387 comments · r/news",
           "published_at": "2026-03-17 19:26:22+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -147,8 +147,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 64.22,
-      "attention_focus_score": 61.22,
+      "topic_score": 65.28,
+      "attention_focus_score": 62.28,
       "item_count": 13,
       "source_count": 7,
       "platform_count": 5,
@@ -180,30 +180,30 @@
           "gravity_score": 6.75
         },
         {
+          "source": "cnbc",
+          "title": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
+          "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
+          "summary": "Iran has scared off most ships from the Strait of Hormuz, leaving some ships to pass through, while most continued to wait outside the strait.",
+          "published_at": "2026-03-18 15:56:12+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 1,525 upvotes · 💬 285 comments · r/worldnews",
+          "summary": "⬆ 1,536 upvotes · 💬 285 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.25
         },
         {
-          "source": "cnbc",
-          "title": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
-          "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
-          "summary": "Iran has scared off most ships from the Strait of Hormuz, leaving some ships to pass through, while most continued to wait outside the Gulf.",
-          "published_at": "2026-03-18 15:23:03+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 3,924 upvotes · 💬 360 comments · r/worldnews",
+          "summary": "⬆ 3,934 upvotes · 💬 360 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -213,7 +213,7 @@
           "source": "reddit_news",
           "title": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
           "url": "https://www.reddit.com/r/news/comments/1rwh3ec/france_will_never_take_part_in_operations_to/",
-          "summary": "⬆ 2,414 upvotes · 💬 96 comments · r/news",
+          "summary": "⬆ 2,413 upvotes · 💬 96 comments · r/news",
           "published_at": "2026-03-17 19:43:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -247,7 +247,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 4,472 upvotes · 💬 316 comments · r/politics",
+          "summary": "⬆ 4,572 upvotes · 💬 326 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -267,7 +267,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 686 upvotes · 💬 50 comments · r/politics",
+          "summary": "⬆ 729 upvotes · 💬 53 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -319,7 +319,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,347 upvotes · 💬 469 comments · r/popculturechat",
+          "summary": "⬆ 4,350 upvotes · 💬 469 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -369,8 +369,8 @@
     },
     {
       "topic": "social_virality",
-      "topic_score": 11.85,
-      "attention_focus_score": 11.35,
+      "topic_score": 11.25,
+      "attention_focus_score": 10.75,
       "item_count": 2,
       "source_count": 2,
       "platform_count": 2,
@@ -384,16 +384,6 @@
       ],
       "top_items": [
         {
-          "source": "bbc_world",
-          "title": "Hittler faces Zielinski as French town's election contest goes viral",
-          "url": "https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss",
-          "summary": "Charles Hittler, mayor of Arcis-sur-Aube, has always faced jokes about his name but now he faces a rival with another unlikely name.",
-          "published_at": "2026-03-18 13:57:26+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 4.8
-        },
-        {
           "source": "thehill",
           "title": "Trump’s $10 billion TikTok ‘brokerage fee’ is just the tip of the iceberg",
           "url": "https://thehill.com/opinion/white-house/5787721-trump-equity-stakes-companies/",
@@ -402,6 +392,16 @@
           "topic": "social_virality",
           "keyword_hits": 1,
           "gravity_score": 4.8
+        },
+        {
+          "source": "bbc_world",
+          "title": "Hittler faces Zielinski as French town's election contest goes viral",
+          "url": "https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Charles Hittler, mayor of Arcis-sur-Aube, has always faced jokes about his name but now he faces a rival with another unlikely name.",
+          "published_at": "2026-03-18 13:57:26+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 4.2
         }
       ]
     },
@@ -617,6 +617,28 @@
     },
     {
       "topic": "geopolitics",
+      "event": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
       "event": "Strike hits South Pars, world’s largest gas field, in Iran",
       "gravity_score": 5.25,
       "priority_score": 13.25,
@@ -660,28 +682,6 @@
         "Will the president sign or veto it?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
-      "gravity_score": 5.0,
-      "priority_score": 13.0,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "reality_tv",
