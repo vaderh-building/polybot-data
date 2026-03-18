@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-18T22:32:21.370450+00:00",
+  "generated_at_utc": "2026-03-18T22:34:29.051953+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 159.95,
-      "attention_focus_score": 156.95,
-      "item_count": 41,
+      "topic_score": 158.34,
+      "attention_focus_score": 155.34,
+      "item_count": 40,
       "source_count": 7,
       "platform_count": 6,
       "sources": [
@@ -30,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 8,739 upvotes · 💬 337 comments · r/politics",
+          "summary": "⬆ 8,787 upvotes · 💬 339 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,11 +40,21 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 6,545 upvotes · 💬 147 comments · r/worldnews",
+          "summary": "⬆ 6,562 upvotes · 💬 147 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
+        },
+        {
+          "source": "thehill",
+          "title": "Murphy: ‘Somebody becoming a millionaire’ in White House ‘grift operation’",
+          "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
+          "summary": "Sen. Chris Murphy (D-Conn.) on Tuesday accused the White House of running a “24/7 grift operation” that has allowed officials in President Trump’s orbit to personally profit off public donations. &#160; Trump has faced backlash after a political action committee tied to him sent out a fundraising email last week that included an image of&#8230;",
+          "published_at": "2026-03-18 22:14:40+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
         },
         {
           "source": "thehill",
@@ -65,16 +75,6 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.0
-        },
-        {
-          "source": "politico",
-          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
-          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
-          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
-          "published_at": "2026-03-12 08:45:00+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
@@ -103,7 +103,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 15,300 upvotes · 💬 887 comments · r/politics",
+          "summary": "⬆ 15,325 upvotes · 💬 887 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -113,7 +113,7 @@
           "source": "reddit_all",
           "title": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
           "url": "https://www.reddit.com/r/news/comments/1rxdz9l/dow_falls_700_points_to_new_2026_low_as_inflation/",
-          "summary": "⬆ 8,549 upvotes · 💬 394 comments · r/all",
+          "summary": "⬆ 8,638 upvotes · 💬 404 comments · r/all",
           "published_at": "2026-03-18 19:40:59+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -123,7 +123,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 8,494 upvotes · 💬 287 comments · r/politics",
+          "summary": "⬆ 8,524 upvotes · 💬 287 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -133,7 +133,7 @@
           "source": "reddit_politics",
           "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
           "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 919 upvotes · 💬 290 comments · r/politics",
+          "summary": "⬆ 937 upvotes · 💬 294 comments · r/politics",
           "published_at": "2026-03-18 19:31:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -220,83 +220,10 @@
       ]
     },
     {
-      "topic": "geopolitics",
-      "topic_score": 39.09,
-      "attention_focus_score": 37.09,
-      "item_count": 9,
-      "source_count": 5,
-      "platform_count": 4,
-      "sources": [
-        "bbc_world",
-        "cnbc",
-        "reddit_popculturechat",
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,999 upvotes · 💬 406 comments · r/worldnews",
-          "published_at": "2026-03-18 06:01:31+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Strike hits South Pars, world’s largest gas field, in Iran",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 3,381 upvotes · 💬 451 comments · r/worldnews",
-          "published_at": "2026-03-18 13:09:20+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 707 upvotes · 💬 227 comments · r/popculturechat",
-          "published_at": "2026-03-18 10:06:47+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.75
-        },
-        {
-          "source": "cnbc",
-          "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
-          "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
-          "summary": "Israel's Defense Forces said Wednesday that Iran's intelligence minister, Esmail Khatib, had been killed in a \"targeted strike\" in Tehran.",
-          "published_at": "2026-03-18 16:16:09+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.0
-        },
-        {
-          "source": "cnbc",
-          "title": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
-          "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
-          "summary": "Iran has scared off most ships from the Strait of Hormuz, leaving some ships to pass through, while most continued to wait outside the strait.",
-          "published_at": "2026-03-18 15:56:12+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.0
-        }
-      ]
-    },
-    {
       "topic": "reality_tv",
-      "topic_score": 35.82,
-      "attention_focus_score": 34.32,
-      "item_count": 6,
+      "topic_score": 48.9,
+      "attention_focus_score": 47.4,
+      "item_count": 8,
       "source_count": 4,
       "platform_count": 4,
       "sources": [
@@ -316,11 +243,31 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,675 upvotes · 💬 492 comments · r/popculturechat",
+          "summary": "⬆ 4,682 upvotes · 💬 492 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 9.79
+        },
+        {
+          "source": "thehill",
+          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
+          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
+          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
+          "published_at": "2026-03-18 22:13:52+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 6.08
+        },
+        {
+          "source": "thehill",
+          "title": "IAEA chief skeptical Iran’s nuclear program can be eliminated with just military action",
+          "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
+          "summary": "The International Atomic Energy Agency (IAEA) Director General, Rafael Mariano Grossi, said that he does not believe that Iran’s nuclear program can be eliminated solely by military action.&#160; “I would agree with that. Because this program is a very vast program. It’s a program that has been built throughout the years, decades of efforts, and&#8230;",
+          "published_at": "2026-03-18 22:07:26+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 6.08
         },
         {
           "source": "cnbc",
@@ -341,26 +288,79 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 4.05
+        }
+      ]
+    },
+    {
+      "topic": "geopolitics",
+      "topic_score": 43.92,
+      "attention_focus_score": 41.92,
+      "item_count": 10,
+      "source_count": 5,
+      "platform_count": 4,
+      "sources": [
+        "bbc_world",
+        "cnbc",
+        "reddit_popculturechat",
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
+          "summary": "⬆ 4,997 upvotes · 💬 406 comments · r/worldnews",
+          "published_at": "2026-03-18 06:01:31+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.75
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Strike hits South Pars, world’s largest gas field, in Iran",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
+          "summary": "⬆ 3,379 upvotes · 💬 451 comments · r/worldnews",
+          "published_at": "2026-03-18 13:09:20+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
         },
         {
           "source": "thehill",
-          "title": "Mark Cuban says Trump Rx saving people ‘a lot of money’ on some drugs",
-          "url": "https://thehill.com/policy/healthcare/5790314-mark-cuban-praises-trump-rx/",
-          "summary": "Billionaire enterpreneur Mark Cuban on Wednesday touted the federal government’s TrumpRx drug platform, saying the initiative is saving Americans money.&#160; “Everyone wants me to rip on TrumpRx,” Cuban wrote on the social platform X. “Reality is, it’s saving patients money on IVF and a few other drugs. A lot of money. IMO, anything that saves&#8230;",
-          "published_at": "2026-03-18 21:17:07+00:00",
-          "topic": "reality_tv",
+          "title": "The Memo: Trump fumes as foreign leaders show new willingness to defy him",
+          "url": "https://thehill.com/homenews/administration/5790616-the-memo-trump-fumes-as-foreign-leaders-show-new-willingness-to-defy-him/",
+          "summary": "German Chancellor Friedrich Merz has none of President Trump’s penchant for controversy or headline-grabbing language — but these days, he’s putting emphatic distance between Berlin and Washington all the same. Merz is not only declining to answer Trump’s call for help in reopening the vital Strait of Hormuz. He is being scathing of the president’s&#8230;",
+          "published_at": "2026-03-18 22:27:02+00:00",
+          "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 3.38
+          "gravity_score": 4.5
         },
         {
-          "source": "bbc_world",
-          "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
-          "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
-          "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
-          "published_at": "2026-03-18 17:54:14+00:00",
-          "topic": "reality_tv",
+          "source": "reddit_popculturechat",
+          "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
+          "summary": "⬆ 709 upvotes · 💬 227 comments · r/popculturechat",
+          "published_at": "2026-03-18 10:06:47+00:00",
+          "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 2.7
+          "gravity_score": 3.75
+        },
+        {
+          "source": "cnbc",
+          "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
+          "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
+          "summary": "Israel's Defense Forces said Wednesday that Iran's intelligence minister, Esmail Khatib, had been killed in a \"targeted strike\" in Tehran.",
+          "published_at": "2026-03-18 16:16:09+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 3.0
         }
       ]
     },
@@ -388,7 +388,7 @@
           "source": "reddit_all",
           "title": "Meme evolution",
           "url": "https://www.reddit.com/r/NonPoliticalTwitter/comments/1rxdx8i/meme_evolution/",
-          "summary": "⬆ 5,431 upvotes · 💬 101 comments · r/all",
+          "summary": "⬆ 5,509 upvotes · 💬 102 comments · r/all",
           "published_at": "2026-03-18 19:38:56+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -445,7 +445,7 @@
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 1,557 upvotes · 💬 78 comments · r/news",
+          "summary": "⬆ 1,567 upvotes · 💬 78 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -455,7 +455,7 @@
           "source": "reddit_popculturechat",
           "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 295 upvotes · 💬 41 comments · r/popculturechat",
+          "summary": "⬆ 297 upvotes · 💬 41 comments · r/popculturechat",
           "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -489,12 +489,12 @@
     },
     {
       "topic": "politics",
-      "event": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
+      "event": "Murphy: ‘Somebody becoming a millionaire’ in White House ‘grift operation’",
       "gravity_score": 6.0,
       "priority_score": 16.0,
       "source_platform": "thehill",
       "source_label": "",
-      "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+      "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -504,9 +504,8 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -591,6 +590,48 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
+      "topic": "reality_tv",
+      "event": "Fetterman says Democrats governed by Trump Derangement Syndrome",
+      "gravity_score": 6.08,
+      "priority_score": 12.08,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "IAEA chief skeptical Iran’s nuclear program can be eliminated with just military action",
+      "gravity_score": 6.08,
+      "priority_score": 12.08,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
       "topic": "geopolitics",
       "event": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
       "gravity_score": 5.75,
@@ -634,55 +675,13 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "reality_tv",
-      "event": "WNBA and players' union reach verbal agreement on landmark new CBA deal",
-      "gravity_score": 4.73,
-      "priority_score": 10.73,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
-      "gravity_score": 4.05,
-      "priority_score": 10.05,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
       "topic": "geopolitics",
-      "event": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
-      "gravity_score": 3.75,
-      "priority_score": 9.75,
-      "source_platform": "reddit_popculturechat",
+      "event": "The Memo: Trump fumes as foreign leaders show new willingness to defy him",
+      "gravity_score": 4.5,
+      "priority_score": 10.5,
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
+      "url": "https://thehill.com/homenews/administration/5790616-the-memo-trump-fumes-as-foreign-leaders-show-new-willingness-to-defy-him/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -853,6 +852,27 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "smu basketball",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "premios soberano 2026",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "joseph duggar",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "hugo ekitike",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -864,30 +884,25 @@
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "counting crows",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "gen z",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "ucl fixtures",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
+      {
+        "topic": "reality_tv",
+        "title": "[The Hill] Fetterman says Democrats governed by Trump Derangement Syndrome",
+        "score": 6.08,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "[The Hill] IAEA chief skeptical Iran’s nuclear program can be eliminated with just military action",
+        "score": 6.08,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
+        "source_label": "The Hill"
+      },
       {
         "topic": "crypto",
         "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
@@ -898,35 +913,19 @@
       },
       {
         "topic": "politics",
+        "title": "[The Hill] Murphy: ‘Somebody becoming a millionaire’ in White House ‘grift operation’",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "politics",
         "title": "[The Hill] Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
         "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
         "source_label": "The Hill"
-      },
-      {
-        "topic": "social_virality",
-        "title": "[CNBC] Meta will pay Instagram, TikTok and YouTube creators with big followings to post on Facebook",
-        "score": 5.4,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[CNBC] Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
-        "score": 5.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "reality_tv",
-        "title": "[CNBC] WNBA and players' union reach verbal agreement on landmark new CBA deal",
-        "score": 4.73,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
-        "source_label": "CNBC"
       }
     ]
   }
