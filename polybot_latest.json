@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-18T18:06:32.149174+00:00",
+  "generated_at_utc": "2026-03-18T18:08:41.068020+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 208.82,
-      "attention_focus_score": 205.32,
+      "topic_score": 209.9,
+      "attention_focus_score": 206.4,
       "item_count": 54,
       "source_count": 8,
       "platform_count": 6,
@@ -28,6 +28,16 @@
       ],
       "top_items": [
         {
+          "source": "reddit_worldnews",
+          "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
+          "summary": "⬆ 4,756 upvotes · 💬 124 comments · r/worldnews",
+          "published_at": "2026-03-18 10:21:23+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 7.25
+        },
+        {
           "source": "cnbc",
           "title": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
           "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
@@ -48,20 +58,10 @@
           "gravity_score": 6.5
         },
         {
-          "source": "reddit_worldnews",
-          "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 4,738 upvotes · 💬 124 comments · r/worldnews",
-          "published_at": "2026-03-18 10:21:23+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.25
-        },
-        {
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 1,002 upvotes · 💬 61 comments · r/politics",
+          "summary": "⬆ 1,052 upvotes · 💬 63 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -81,16 +81,15 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 71.94,
+      "topic_score": 71.44,
       "attention_focus_score": 69.44,
       "item_count": 11,
-      "source_count": 6,
+      "source_count": 5,
       "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "npr_news",
-        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -103,10 +102,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 9,444 upvotes · 💬 643 comments · r/all",
+          "summary": "⬆ 9,489 upvotes · 💬 646 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -126,7 +125,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 3,907 upvotes · 💬 150 comments · r/politics",
+          "summary": "⬆ 3,973 upvotes · 💬 152 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -156,8 +155,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 61.39,
-      "attention_focus_score": 59.39,
+      "topic_score": 60.86,
+      "attention_focus_score": 58.86,
       "item_count": 16,
       "source_count": 5,
       "platform_count": 4,
@@ -179,7 +178,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 4,492 upvotes · 💬 377 comments · r/worldnews",
+          "summary": "⬆ 4,498 upvotes · 💬 377 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -189,7 +188,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 2,504 upvotes · 💬 367 comments · r/worldnews",
+          "summary": "⬆ 2,518 upvotes · 💬 367 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -219,7 +218,7 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 526 upvotes · 💬 195 comments · r/popculturechat",
+          "summary": "⬆ 529 upvotes · 💬 195 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -315,7 +314,7 @@
           "source": "reddit_popculturechat",
           "title": "La Isla de las Tentaciones is back at it again with a new Montoya crashing out after seeing his girlfriend kiss another contestant",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwn5d9/la_isla_de_las_tentaciones_is_back_at_it_again/",
-          "summary": "⬆ 4,501 upvotes · 💬 479 comments · r/popculturechat",
+          "summary": "⬆ 4,501 upvotes · 💬 480 comments · r/popculturechat",
           "published_at": "2026-03-17 23:24:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -436,7 +435,7 @@
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 9.43,
       "priority_score": 17.43,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
@@ -451,6 +450,28 @@
         "Will enough members cross party lines to change the expected result?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "politics",
+      "event": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
+      "gravity_score": 7.25,
+      "priority_score": 17.25,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "politics",
@@ -496,28 +517,6 @@
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-      "gravity_score": 6.25,
-      "priority_score": 16.25,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -701,8 +700,15 @@
         "topic": "everyday_economy",
         "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
         "score": 9.43,
-        "source": "reddit_all",
+        "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
+      },
+      {
+        "topic": "politics",
+        "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
+        "score": 7.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
       },
       {
         "topic": "everyday_economy",
@@ -710,13 +716,6 @@
         "score": 6.83,
         "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
-      },
-      {
-        "topic": "politics",
-        "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-        "score": 6.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
       },
       {
         "topic": "politics",
