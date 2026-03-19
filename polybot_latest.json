@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T18:15:33.349149+00:00",
+  "generated_at_utc": "2026-03-19T18:17:40.653153+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 197.23,
-      "attention_focus_score": 193.23,
-      "item_count": 50,
+      "topic_score": 203.68,
+      "attention_focus_score": 199.68,
+      "item_count": 51,
       "source_count": 9,
       "platform_count": 6,
       "sources": [
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,072 upvotes · 💬 533 comments · r/politics",
+          "summary": "⬆ 5,081 upvotes · 💬 534 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -52,11 +52,21 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 3,554 upvotes · 💬 777 comments · r/politics",
+          "summary": "⬆ 3,602 upvotes · 💬 785 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.25
+        },
+        {
+          "source": "thehill",
+          "title": "Trump: ‘I’m not putting troops anywhere’",
+          "url": "https://thehill.com/policy/defense/5792202-trump-no-troops-iran/",
+          "summary": "President Trump on Thursday denied he would deploy additional U.S. troops to aid in his war in Iran, telling reporters he’s not putting forces “anywhere.” “No, I’m not putting troops anywhere,” Trump said at the White House when asked whether he intends to send more service members to the Middle East. “If I were, I&#8230;",
+          "published_at": "2026-03-19 18:11:39+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
         },
         {
           "source": "thehill",
@@ -67,23 +77,13 @@
           "topic": "politics",
           "keyword_hits": 3,
           "gravity_score": 5.5
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
-          "summary": "⬆ 253 upvotes · 💬 28 comments · r/popculturechat",
-          "published_at": "2026-03-19 16:46:42+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.25
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 85.5,
-      "attention_focus_score": 84.5,
+      "topic_score": 83.88,
+      "attention_focus_score": 82.88,
       "item_count": 20,
       "source_count": 3,
       "platform_count": 3,
@@ -106,7 +106,7 @@
           "published_at": "2026-03-19 16:16:26+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 5.5
+          "gravity_score": 5.0
         },
         {
           "source": "coindesk",
@@ -152,9 +152,9 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 69.31,
-      "attention_focus_score": 66.81,
-      "item_count": 11,
+      "topic_score": 75.6,
+      "attention_focus_score": 73.1,
+      "item_count": 12,
       "source_count": 6,
       "platform_count": 4,
       "sources": [
@@ -176,7 +176,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,347 upvotes · 💬 362 comments · r/politics",
+          "summary": "⬆ 17,351 upvotes · 💬 362 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -193,10 +193,20 @@
           "gravity_score": 6.5
         },
         {
+          "source": "thehill",
+          "title": "GOP Senate candidate on rising gas prices: ‘Maybe you take one less trip to Starbucks’",
+          "url": "https://thehill.com/homenews/state-watch/5792145-michele-tafoya-senate-candidate-gas-prices-iran-war/",
+          "summary": "A Republican candidate for U.S. Senate in Minnesota suggested that Americans should cut back on daily costs amid the economic strain caused by the U.S. military operation in Iran. Former NFL reporter Michele Tafoya acknowledged how “frustrating” and “hard” rising gas prices are for consumers during a Wednesday radio interview, but she suggested Americans should&#8230;",
+          "published_at": "2026-03-19 18:14:29+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.85
+        },
+        {
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,234 upvotes · 💬 121 comments · r/worldnews",
+          "summary": "⬆ 1,241 upvotes · 💬 121 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -206,18 +216,8 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 909 upvotes · 💬 19 comments · r/politics",
+          "summary": "⬆ 934 upvotes · 💬 19 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.53
-        },
-        {
-          "source": "reddit_news",
-          "title": "Gas price soars over 20% after strikes on Qatar hub",
-          "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 372 upvotes · 💬 70 comments · r/news",
-          "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.53
@@ -226,8 +226,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 36.94,
-      "attention_focus_score": 35.44,
+      "topic_score": 36.43,
+      "attention_focus_score": 34.93,
       "item_count": 10,
       "source_count": 4,
       "platform_count": 4,
@@ -248,7 +248,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 6,768 upvotes · 💬 1,150 comments · r/worldnews",
+          "summary": "⬆ 6,809 upvotes · 💬 1,153 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -598,26 +598,6 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Gas price soars 25% after strikes on Qatar hub",
-      "gravity_score": 5.53,
-      "priority_score": 11.53,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
       "topic": "geopolitics",
       "event": "Iran conflict looms large over Trump's meeting with Japan PM",
       "gravity_score": 4.5,
@@ -637,26 +617,6 @@
         "Will oil prices spike above a specific threshold?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "crypto",
-      "event": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
-      "gravity_score": 5.5,
-      "priority_score": 9.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "geopolitics",
@@ -696,6 +656,46 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "crypto",
+      "event": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+      "gravity_score": 5.0,
+      "priority_score": 9.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "crypto",
+      "event": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+      "gravity_score": 5.0,
+      "priority_score": 9.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     }
   ],
   "platform_snapshots": {
@@ -889,12 +889,20 @@
         "source_label": "The Hill"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
-        "score": 5.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
-        "source_label": "CoinDesk"
+        "topic": "politics",
+        "title": "[The Hill] Trump: ‘I’m not putting troops anywhere’",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/policy/defense/5792202-trump-no-troops-iran/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "[The Hill] GOP Senate candidate on rising gas prices: ‘Maybe you take one less trip to Starbucks’",
+        "score": 5.85,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/state-watch/5792145-michele-tafoya-senate-candidate-gas-prices-iran-war/",
+        "source_label": "The Hill"
       },
       {
         "topic": "politics",
@@ -903,14 +911,6 @@
         "source": "thehill",
         "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
         "source_label": "The Hill"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
-        "score": 5.2,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
-        "source_label": "CNBC"
       }
     ]
   }
