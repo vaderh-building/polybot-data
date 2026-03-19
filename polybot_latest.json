@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T17:03:03.798211+00:00",
+  "generated_at_utc": "2026-03-19T17:05:15.291252+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 179.26,
-      "attention_focus_score": 175.76,
-      "item_count": 46,
+      "topic_score": 193.78,
+      "attention_focus_score": 190.28,
+      "item_count": 48,
       "source_count": 8,
       "platform_count": 6,
       "sources": [
@@ -28,10 +28,20 @@
       ],
       "top_items": [
         {
+          "source": "thehill",
+          "title": "Jeffries says Democrats will oppose rule governing spy powers bill",
+          "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
+          "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Thursday that Democrats are lining up en masse against helping Republicans advance legislation to a final vote to extend the government’s warrantless surveillance powers. Jeffries acknowledged that the vote on the bill itself will divide Democrats, and he declined to say how he will vote himself. “But what&#8230;",
+          "published_at": "2026-03-19 17:01:17+00:00",
+          "topic": "politics",
+          "keyword_hits": 3,
+          "gravity_score": 7.5
+        },
+        {
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,595 upvotes · 💬 498 comments · r/politics",
+          "summary": "⬆ 4,624 upvotes · 💬 502 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -48,34 +58,24 @@
           "gravity_score": 6.5
         },
         {
+          "source": "thehill",
+          "title": "House passes bill that would deport noncitizens for harming police animals",
+          "url": "https://thehill.com/homenews/house/5791906-house-bill-animal-cruelty-police-animals-noncitizens/",
+          "summary": "The House on Thursday passed a bill that would make foreign nationals and noncitizens inadmissible to the U.S. and subject to deportation if they are convicted of, or admit to, harming animals used in law enforcement. The legislation, dubbed the “Bill to Outlaw Wounding of Official Working Animals&#8221; (BOWOW) Act passed the lower chamber by&#8230;",
+          "published_at": "2026-03-19 16:56:54+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
+        },
+        {
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 2,258 upvotes · 💬 566 comments · r/politics",
+          "summary": "⬆ 2,295 upvotes · 💬 575 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.25
-        },
-        {
-          "source": "cnbc",
-          "title": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
-          "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
-          "summary": "Consumers are seeing fuel prices rapidly rise as the Iran war has triggered the biggest oil supply disruption in history.",
-          "published_at": "2026-03-18 20:11:57+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
-        },
-        {
-          "source": "politico",
-          "title": "Political operatives with Trump ties raked in millions of dollars in commissions from DHS ad campaign",
-          "url": "https://www.politico.com/news/2026/03/19/dhs-ad-money-companies-00834791",
-          "summary": "The ads became a sore spot within the White House over Kristi Noem.",
-          "published_at": "2026-03-19 09:56:00+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
@@ -173,7 +173,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,170 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,174 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -213,7 +213,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 909 upvotes · 💬 100 comments · r/worldnews",
+          "summary": "⬆ 918 upvotes · 💬 104 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -246,7 +246,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 4,981 upvotes · 💬 918 comments · r/worldnews",
+          "summary": "⬆ 5,033 upvotes · 💬 923 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -266,7 +266,7 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 710 upvotes · 💬 233 comments · r/politics",
+          "summary": "⬆ 711 upvotes · 💬 233 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -444,6 +444,28 @@
   "market_suggestions": [
     {
       "topic": "politics",
+      "event": "Jeffries says Democrats will oppose rule governing spy powers bill",
+      "gravity_score": 7.5,
+      "priority_score": 17.5,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
       "gravity_score": 7.25,
       "priority_score": 17.25,
@@ -486,28 +508,6 @@
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
-      "gravity_score": 5.25,
-      "priority_score": 15.25,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -877,6 +877,14 @@
         "source_label": "CNBC"
       },
       {
+        "topic": "politics",
+        "title": "[The Hill] Jeffries says Democrats will oppose rule governing spy powers bill",
+        "score": 7.5,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
+        "source_label": "The Hill"
+      },
+      {
         "topic": "everyday_economy",
         "title": "[CNBC] Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
         "score": 6.5,
@@ -891,14 +899,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Watch live: Q&A with The Hill’s editors",
-        "score": 6.5,
-        "source": "thehill",
-        "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
-        "source_label": "The Hill"
       }
     ]
   }
