@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T15:21:18.126576+00:00",
+  "generated_at_utc": "2026-03-19T15:23:25.526765+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 195.31,
-      "attention_focus_score": 191.31,
-      "item_count": 47,
+      "topic_score": 200.36,
+      "attention_focus_score": 196.36,
+      "item_count": 48,
       "source_count": 9,
       "platform_count": 7,
       "sources": [
@@ -53,7 +53,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 3,672 upvotes · 💬 429 comments · r/politics",
+          "summary": "⬆ 3,693 upvotes · 💬 431 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -110,7 +110,7 @@
           "source": "reddit_all",
           "title": "Rising gas prices",
           "url": "https://www.reddit.com/r/Unexpected/comments/1rxwcop/rising_gas_prices/",
-          "summary": "⬆ 9,707 upvotes · 💬 229 comments · r/all",
+          "summary": "⬆ 9,752 upvotes · 💬 230 comments · r/all",
           "published_at": "2026-03-19 10:03:58+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -120,7 +120,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 16,821 upvotes · 💬 352 comments · r/politics",
+          "summary": "⬆ 16,829 upvotes · 💬 352 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -228,15 +228,14 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 36.42,
-      "attention_focus_score": 33.92,
-      "item_count": 8,
-      "source_count": 6,
+      "topic_score": 32.12,
+      "attention_focus_score": 30.12,
+      "item_count": 7,
+      "source_count": 5,
       "platform_count": 4,
       "sources": [
         "bbc_world",
         "coindesk",
-        "reddit_news",
         "reddit_politics",
         "reddit_worldnews",
         "thehill"
@@ -262,7 +261,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 1,221 upvotes · 💬 333 comments · r/worldnews",
+          "summary": "⬆ 1,305 upvotes · 💬 346 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -282,21 +281,21 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 571 upvotes · 💬 207 comments · r/politics",
+          "summary": "⬆ 567 upvotes · 💬 208 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.25
         },
         {
-          "source": "reddit_news",
-          "title": "Iran's intelligence minister Esmail Khatib killed in air strike.",
-          "url": "https://www.reddit.com/r/news/comments/1rxore4/irans_intelligence_minister_esmail_khatib_killed/",
-          "summary": "⬆ 539 upvotes · 💬 81 comments · r/news",
-          "published_at": "2026-03-19 02:50:18+00:00",
+          "source": "bbc_world",
+          "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+          "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
+          "published_at": "2026-03-19 10:30:42+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 3.75
+          "gravity_score": 2.0
         }
       ]
     },
@@ -322,7 +321,7 @@
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 2,971 upvotes · 💬 123 comments · r/news",
+          "summary": "⬆ 2,972 upvotes · 💬 123 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -845,6 +844,13 @@
       },
       {
         "topic": "trending",
+        "title": "supreme",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "youtubetv",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -860,13 +866,6 @@
       {
         "topic": "trending",
         "title": "lollapalooza tickets",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "paula badosa",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
