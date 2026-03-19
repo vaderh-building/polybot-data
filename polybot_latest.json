@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-03-19T17:23:06.300501+00:00",
+  "generated_at_utc": "2026-03-19T17:27:10.998426+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 201.53,
-      "attention_focus_score": 197.53,
-      "item_count": 49,
-      "source_count": 9,
+      "topic_score": 191.36,
+      "attention_focus_score": 187.86,
+      "item_count": 47,
+      "source_count": 8,
       "platform_count": 6,
       "sources": [
         "bbc_world",
@@ -16,7 +16,6 @@
         "reddit_news",
         "reddit_politics",
         "reddit_popculturechat",
-        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -42,7 +41,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,744 upvotes · 💬 507 comments · r/politics",
+          "summary": "⬆ 4,795 upvotes · 💬 511 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -62,50 +61,42 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
-          "summary": "⬆ 53 upvotes · 💬 9 comments · r/popculturechat",
+          "summary": "⬆ 77 upvotes · 💬 14 comments · r/popculturechat",
           "published_at": "2026-03-19 16:46:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.25
         },
         {
-          "source": "thehill",
-          "title": "House passes bill that would deport noncitizens for harming police animals",
-          "url": "https://thehill.com/homenews/house/5791906-house-bill-animal-cruelty-police-animals-noncitizens/",
-          "summary": "The House on Thursday passed a bill that would make foreign nationals and noncitizens inadmissible to the U.S. and subject to deportation if they are convicted of, or admit to, harming animals used in law enforcement. The legislation, dubbed the Bill to Outlaw Wounding of Official Working Animals (BOWOW) Act, passed the lower chamber by&#8230;",
-          "published_at": "2026-03-19 16:56:54+00:00",
+          "source": "reddit_politics",
+          "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
+          "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
+          "summary": "⬆ 2,791 upvotes · 💬 648 comments · r/politics",
+          "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.0
+          "keyword_hits": 1,
+          "gravity_score": 5.25
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 89.66,
-      "attention_focus_score": 89.16,
-      "item_count": 19,
-      "source_count": 2,
-      "platform_count": 2,
+      "topic_score": 92.54,
+      "attention_focus_score": 91.54,
+      "item_count": 20,
+      "source_count": 3,
+      "platform_count": 3,
       "sources": [
         "cnbc",
-        "coindesk"
+        "coindesk",
+        "thehill"
       ],
       "platforms": [
         "cnbc",
-        "coindesk"
+        "coindesk",
+        "thehill"
       ],
       "top_items": [
-        {
-          "source": "coindesk",
-          "title": "Bitcoin holds $69,000 as gold tumbles, oil spikes, but analyst says stay on sidelines",
-          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines",
-          "summary": "While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off \"dry powder\" while prices swing wildly on headlines, said Wintermute's Bryan Tan.",
-          "published_at": "2026-03-19 16:54:28+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
         {
           "source": "coindesk",
           "title": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
@@ -138,6 +129,16 @@
         },
         {
           "source": "coindesk",
+          "title": "Bitcoin holds $69,000 as gold tumbles, oil spikes, but analyst says stay on sidelines",
+          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines",
+          "summary": "While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off \"dry powder\" while prices swing wildly on headlines, said Wintermute's Bryan Tan.",
+          "published_at": "2026-03-19 16:54:28+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
           "title": "Quadruple witching arrives tomorrow as markets brace for potential bitcoin volatility",
           "url": "https://www.coindesk.com/markets/2026/03/10/quadruple-witching-arrives-tomorrow-as-markets-brace-for-potential-bitcoin-volatility",
           "summary": "Bitcoin tended to show muted performance on quadruple witching days in 2025, followed by weakness in the days to weeks after.",
@@ -150,17 +151,16 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 76.99,
-      "attention_focus_score": 74.49,
-      "item_count": 12,
-      "source_count": 6,
+      "topic_score": 69.14,
+      "attention_focus_score": 67.14,
+      "item_count": 11,
+      "source_count": 5,
       "platform_count": 4,
       "sources": [
         "bbc_top",
         "cnbc",
         "reddit_news",
         "reddit_politics",
-        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -174,7 +174,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,239 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,249 upvotes · 💬 360 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -192,16 +192,6 @@
         },
         {
           "source": "cnbc",
-          "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-          "summary": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
-          "published_at": "2026-03-19 16:55:46+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 7.8
-        },
-        {
-          "source": "cnbc",
           "title": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
           "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
           "summary": "Bond yields have surged as Europe's central banks grapple with new inflation fears.",
@@ -211,10 +201,20 @@
           "gravity_score": 6.5
         },
         {
+          "source": "cnbc",
+          "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+          "summary": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
+          "published_at": "2026-03-19 16:55:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.5
+        },
+        {
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 478 upvotes · 💬 14 comments · r/politics",
+          "summary": "⬆ 530 upvotes · 💬 14 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -224,34 +224,22 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 37.95,
-      "attention_focus_score": 36.45,
-      "item_count": 10,
-      "source_count": 4,
-      "platform_count": 4,
+      "topic_score": 28.5,
+      "attention_focus_score": 27.5,
+      "item_count": 9,
+      "source_count": 3,
+      "platform_count": 3,
       "sources": [
         "bbc_world",
         "coindesk",
-        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
         "bbc",
         "coindesk",
-        "reddit",
         "thehill"
       ],
       "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 5,490 upvotes · 💬 979 comments · r/worldnews",
-          "published_at": "2026-03-19 14:09:16+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.25
-        },
         {
           "source": "coindesk",
           "title": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
@@ -288,6 +276,16 @@
           "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
           "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
           "published_at": "2026-03-19 16:16:05+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 2.5
+        },
+        {
+          "source": "thehill",
+          "title": "Japan, Europeans signal ‘readiness to contribute’ to efforts to keep Strait of Hormuz open",
+          "url": "https://thehill.com/policy/international/5791762-leaders-commit-global-energy-stability/",
+          "summary": "The leaders of Japan and several European nations condemned recent Iranian attacks in the Persian Gulf states and the effective closure of the Strait of Hormuz, a major oil trading channel. “We express our readiness to contribute to appropriate efforts to ensure safe passage through the Strait,” the leaders wrote in a Thursday letter. “We&#8230;",
+          "published_at": "2026-03-19 16:16:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.5
@@ -551,12 +549,12 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-      "gravity_score": 7.8,
-      "priority_score": 13.8,
+      "event": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
+      "gravity_score": 6.5,
+      "priority_score": 12.5,
       "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+      "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -566,66 +564,21 @@
       "debatable_angles": [
         "Will the US or allies conduct a military strike?",
         "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will crude oil close above/below a specific price within 14 days?"
+        "Will oil prices spike above a specific threshold?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "geopolitics",
-      "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-      "gravity_score": 6.25,
-      "priority_score": 12.25,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
-      "gravity_score": 3.5,
+      "topic": "crypto",
+      "event": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+      "gravity_score": 5.5,
       "priority_score": 9.5,
       "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
+      "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
       "platforms_discussing": [
-        "bbc",
+        "cnbc",
         "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?",
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Live updates: Trump says he expects ‘Japan to step up’ on Hormuz; Hegseth blasts Europe, media",
-      "gravity_score": 3.5,
-      "priority_score": 9.5,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
         "thehill"
       ],
       "debatable_angles": [
@@ -633,7 +586,27 @@
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "crypto",
+      "event": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+      "gravity_score": 5.5,
+      "priority_score": 9.5,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "social_virality",
@@ -651,6 +624,26 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "crypto",
+      "event": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
+      "gravity_score": 5.0,
+      "priority_score": 9.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "music_charts",
@@ -703,13 +696,6 @@
         "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/"
       },
       {
-        "topic": "geopolitics",
-        "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-        "score": 6.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
-      },
-      {
         "topic": "politics",
         "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
         "score": 6.25,
@@ -722,6 +708,13 @@
         "score": 6.17,
         "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/"
+      },
+      {
+        "topic": "politics",
+        "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
+        "score": 5.25,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/"
       }
     ],
     "X": [
@@ -869,14 +862,6 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-        "score": 7.8,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "politics",
         "title": "[The Hill] Jeffries says Democrats will oppose rule governing spy powers bill",
         "score": 7.5,
@@ -890,6 +875,14 @@
         "score": 6.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "[CNBC] Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+        "score": 6.5,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
         "source_label": "CNBC"
       },
       {
