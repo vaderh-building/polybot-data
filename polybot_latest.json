@@ -1,16 +1,17 @@
 {
-  "generated_at_utc": "2026-03-19T22:00:41.524197+00:00",
+  "generated_at_utc": "2026-03-19T22:29:06.282887+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 183.29,
-      "attention_focus_score": 179.79,
-      "item_count": 44,
-      "source_count": 8,
-      "platform_count": 6,
+      "topic_score": 205.15,
+      "attention_focus_score": 201.15,
+      "item_count": 47,
+      "source_count": 9,
+      "platform_count": 7,
       "sources": [
         "bbc_world",
         "cnbc",
+        "coindesk",
         "npr_news",
         "politico",
         "reddit_news",
@@ -21,6 +22,7 @@
       "platforms": [
         "bbc",
         "cnbc",
+        "coindesk",
         "npr",
         "politico",
         "reddit",
@@ -28,10 +30,30 @@
       ],
       "top_items": [
         {
+          "source": "coindesk",
+          "title": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
+          "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
+          "summary": "The White House may be reviewing fresh legislative text, and lawmakers are reportedly weighing offers to banks of other, unrelated provisions for their support.",
+          "published_at": "2026-03-19 22:10:45+00:00",
+          "topic": "politics",
+          "keyword_hits": 3,
+          "gravity_score": 9.0
+        },
+        {
+          "source": "thehill",
+          "title": "Watch live: Trump hosts White House dinner with Japanese PM Sanae Takaichi",
+          "url": "https://thehill.com/video-clips/5792427-watch-live-donald-trump-sanae-takaichi-white-house-dinner-japan/",
+          "summary": "President Trump will host Japanese Prime Minister Sanae Takaichi for a White House dinner Thursday evening. The event comes after the world leaders held a bilateral meeting in the afternoon, when Trump ribbed Japan over its bombing of Pearl Harbor in 1941. The president endorsed Takaichi, a staunch conservative, ahead of last month&#8217;s election. Japan’s&#8230;",
+          "published_at": "2026-03-19 22:00:00+00:00",
+          "topic": "politics",
+          "keyword_hits": 3,
+          "gravity_score": 7.5
+        },
+        {
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,495 upvotes · 💬 564 comments · r/politics",
+          "summary": "⬆ 5,523 upvotes · 💬 567 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -56,34 +78,14 @@
           "topic": "politics",
           "keyword_hits": 4,
           "gravity_score": 6.0
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
-          "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 5,637 upvotes · 💬 1,144 comments · r/politics",
-          "published_at": "2026-03-19 14:43:02+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
-          "summary": "⬆ 940 upvotes · 💬 58 comments · r/popculturechat",
-          "published_at": "2026-03-19 16:46:42+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.75
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 90.19,
-      "attention_focus_score": 88.69,
-      "item_count": 21,
+      "topic_score": 84.81,
+      "attention_focus_score": 83.31,
+      "item_count": 20,
       "source_count": 4,
       "platform_count": 4,
       "sources": [
@@ -107,7 +109,7 @@
           "published_at": "2026-03-19 20:12:30+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 5.5
+          "gravity_score": 5.0
         },
         {
           "source": "coindesk",
@@ -117,7 +119,7 @@
           "published_at": "2026-03-19 16:16:26+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 5.0
+          "gravity_score": 4.5
         },
         {
           "source": "coindesk",
@@ -153,9 +155,9 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 46.93,
-      "attention_focus_score": 44.43,
-      "item_count": 8,
+      "topic_score": 51.12,
+      "attention_focus_score": 48.62,
+      "item_count": 9,
       "source_count": 6,
       "platform_count": 4,
       "sources": [
@@ -177,7 +179,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 2,849 upvotes · 💬 54 comments · r/politics",
+          "summary": "⬆ 3,019 upvotes · 💬 54 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -197,7 +199,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,544 upvotes · 💬 146 comments · r/worldnews",
+          "summary": "⬆ 1,566 upvotes · 💬 147 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -207,7 +209,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 592 upvotes · 💬 109 comments · r/news",
+          "summary": "⬆ 610 upvotes · 💬 109 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -227,13 +229,12 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 35.15,
-      "attention_focus_score": 32.65,
-      "item_count": 8,
-      "source_count": 6,
+      "topic_score": 32.63,
+      "attention_focus_score": 30.63,
+      "item_count": 7,
+      "source_count": 5,
       "platform_count": 4,
       "sources": [
-        "bbc_top",
         "bbc_world",
         "coindesk",
         "reddit_all",
@@ -251,7 +252,7 @@
           "source": "reddit_all",
           "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
           "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
-          "summary": "⬆ 10,174 upvotes · 💬 1,266 comments · r/all",
+          "summary": "⬆ 10,586 upvotes · 💬 1,309 comments · r/all",
           "published_at": "2026-03-19 17:12:12+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -261,7 +262,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 9,641 upvotes · 💬 1,394 comments · r/worldnews",
+          "summary": "⬆ 9,898 upvotes · 💬 1,419 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -279,20 +280,20 @@
         },
         {
           "source": "bbc_world",
-          "title": "Iran conflict looms large over Trump's meeting with Japan PM",
-          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
-          "summary": "The meeting with Sanae Takaichi comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
-          "published_at": "2026-03-19 18:06:37+00:00",
+          "title": "US considers lifting sanctions on some Iranian oil",
+          "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+          "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy.",
+          "published_at": "2026-03-19 19:55:51+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.0
         },
         {
-          "source": "bbc_top",
-          "title": "US considers lifting sanctions on some Iranian oil",
-          "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-          "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy.",
-          "published_at": "2026-03-19 19:55:51+00:00",
+          "source": "bbc_world",
+          "title": "Iran conflict looms large over Trump's meeting with Japan PM",
+          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+          "summary": "The meeting with Sanae Takaichi comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
+          "published_at": "2026-03-19 18:06:37+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.0
@@ -301,9 +302,9 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 18.98,
-      "attention_focus_score": 17.98,
-      "item_count": 4,
+      "topic_score": 25.17,
+      "attention_focus_score": 24.17,
+      "item_count": 5,
       "source_count": 3,
       "platform_count": 3,
       "sources": [
@@ -318,10 +319,20 @@
       ],
       "top_items": [
         {
+          "source": "bbc_world",
+          "title": "New season of The Bachelorette cancelled after Taylor Frankie Paul domestic abuse allegations",
+          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+          "summary": "The decision comes after footage emerged appearing to show Taylor Frankie Paul in an altercation with her ex-partner.",
+          "published_at": "2026-03-19 22:24:51+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 6.08
+        },
+        {
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 775 upvotes · 💬 273 comments · r/popculturechat",
+          "summary": "⬆ 1,279 upvotes · 💬 349 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -331,7 +342,7 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 140 upvotes · 💬 22 comments · r/popculturechat",
+          "summary": "⬆ 233 upvotes · 💬 29 comments · r/popculturechat",
           "published_at": "2026-03-19 18:52:40+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -427,15 +438,62 @@
   "market_suggestions": [
     {
       "topic": "politics",
+      "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
+      "gravity_score": 9.0,
+      "priority_score": 21.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "Watch live: Trump hosts White House dinner with Japanese PM Sanae Takaichi",
+      "gravity_score": 7.5,
+      "priority_score": 19.5,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/video-clips/5792427-watch-live-donald-trump-sanae-takaichi-white-house-dinner-japan/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
       "gravity_score": 7.25,
-      "priority_score": 17.25,
+      "priority_score": 19.25,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
+        "coindesk",
         "npr",
         "politico",
         "reddit",
@@ -446,53 +504,6 @@
         "Will the vote happen before a specific procedural deadline?",
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
-      "gravity_score": 6.5,
-      "priority_score": 16.5,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?",
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Watch: Q&A with The Hill’s editors",
-      "gravity_score": 6.0,
-      "priority_score": 16.0,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -561,27 +572,6 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "crypto",
-      "event": "Crypto markets – and the American people – deserve clarity",
-      "gravity_score": 5.5,
-      "priority_score": 11.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
       "topic": "everyday_economy",
       "event": "IMF: Prolonged high gas prices could increase inflation",
       "gravity_score": 5.2,
@@ -602,12 +592,12 @@
     },
     {
       "topic": "crypto",
-      "event": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+      "event": "Crypto markets – and the American people – deserve clarity",
       "gravity_score": 5.0,
       "priority_score": 11.0,
       "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+      "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
@@ -643,6 +633,27 @@
     },
     {
       "topic": "crypto",
+      "event": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+      "gravity_score": 4.5,
+      "priority_score": 10.5,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "crypto",
       "event": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
       "gravity_score": 4.5,
       "priority_score": 10.5,
@@ -664,12 +675,12 @@
     },
     {
       "topic": "reality_tv",
-      "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-      "gravity_score": 5.74,
-      "priority_score": 9.74,
-      "source_platform": "reddit_popculturechat",
+      "event": "New season of The Bachelorette cancelled after Taylor Frankie Paul domestic abuse allegations",
+      "gravity_score": 6.08,
+      "priority_score": 10.08,
+      "source_platform": "bbc_world",
       "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
+      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
       "platforms_discussing": [
         "bbc",
         "reddit",
@@ -822,41 +833,57 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "vcu basketball",
+        "title": "magic vs hornets",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "tom izzo",
+        "title": "irán war",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "what is tds",
+        "title": "trevon brazile",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "lakers injury report",
+        "title": "todd howard",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "aurora - guastatoya",
+        "title": "dj wagner",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
+      {
+        "topic": "politics",
+        "title": "[CoinDesk] Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
+        "score": 9.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] Watch live: Trump hosts White House dinner with Japanese PM Sanae Takaichi",
+        "score": 7.5,
+        "source": "thehill",
+        "url": "https://thehill.com/video-clips/5792427-watch-live-donald-trump-sanae-takaichi-white-house-dinner-japan/",
+        "source_label": "The Hill"
+      },
       {
         "topic": "politics",
         "title": "[The Hill] Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
@@ -866,36 +893,20 @@
         "source_label": "The Hill"
       },
       {
+        "topic": "reality_tv",
+        "title": "[BBC] New season of The Bachelorette cancelled after Taylor Frankie Paul domestic abuse allegations",
+        "score": 6.08,
+        "source": "bbc_world",
+        "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
+      },
+      {
         "topic": "politics",
         "title": "[The Hill] Watch: Q&A with The Hill’s editors",
         "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
         "source_label": "The Hill"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] Crypto markets – and the American people – deserve clarity",
-        "score": 5.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
-        "source_label": "CoinDesk"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[The Hill] IMF: Prolonged high gas prices could increase inflation",
-        "score": 5.2,
-        "source": "thehill",
-        "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
-        "score": 5.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
-        "source_label": "CoinDesk"
       }
     ]
   }
