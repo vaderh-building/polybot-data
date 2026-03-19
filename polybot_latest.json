@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T17:14:11.683644+00:00",
+  "generated_at_utc": "2026-03-19T17:23:06.300501+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 200.99,
-      "attention_focus_score": 196.99,
+      "topic_score": 201.53,
+      "attention_focus_score": 197.53,
       "item_count": 49,
       "source_count": 9,
       "platform_count": 6,
@@ -42,18 +42,8 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,682 upvotes · 💬 506 comments · r/politics",
+          "summary": "⬆ 4,744 upvotes · 💬 507 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 7.25
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
-          "summary": "⬆ 28 upvotes · 💬 7 comments · r/popculturechat",
-          "published_at": "2026-03-19 16:46:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
@@ -69,6 +59,16 @@
           "gravity_score": 6.5
         },
         {
+          "source": "reddit_popculturechat",
+          "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
+          "summary": "⬆ 53 upvotes · 💬 9 comments · r/popculturechat",
+          "published_at": "2026-03-19 16:46:42+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.25
+        },
+        {
           "source": "thehill",
           "title": "House passes bill that would deport noncitizens for harming police animals",
           "url": "https://thehill.com/homenews/house/5791906-house-bill-animal-cruelty-police-animals-noncitizens/",
@@ -82,8 +82,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 91.34,
-      "attention_focus_score": 90.84,
+      "topic_score": 89.66,
+      "attention_focus_score": 89.16,
       "item_count": 19,
       "source_count": 2,
       "platform_count": 2,
@@ -98,16 +98,6 @@
       "top_items": [
         {
           "source": "coindesk",
-          "title": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
-          "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
-          "summary": "The exchange is expanding AI use across surveillance, compliance and trading as machines take over decision-making, leaving humans as the final checkpoint.",
-          "published_at": "2026-03-19 16:16:26+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 6.5
-        },
-        {
-          "source": "coindesk",
           "title": "Bitcoin holds $69,000 as gold tumbles, oil spikes, but analyst says stay on sidelines",
           "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines",
           "summary": "While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off \"dry powder\" while prices swing wildly on headlines, said Wintermute's Bryan Tan.",
@@ -115,6 +105,16 @@
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+          "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+          "summary": "The exchange is expanding AI use across surveillance, compliance and trading as machines take over decision-making, leaving humans as the final checkpoint.",
+          "published_at": "2026-03-19 16:16:26+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.5
         },
         {
           "source": "coindesk",
@@ -150,8 +150,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 75.6,
-      "attention_focus_score": 73.1,
+      "topic_score": 76.99,
+      "attention_focus_score": 74.49,
       "item_count": 12,
       "source_count": 6,
       "platform_count": 4,
@@ -174,7 +174,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,216 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,239 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -211,28 +211,27 @@
           "gravity_score": 6.5
         },
         {
-          "source": "reddit_worldnews",
-          "title": "Gas price soars 25% after strikes on Qatar hub",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 961 upvotes · 💬 104 comments · r/worldnews",
-          "published_at": "2026-03-19 13:04:49+00:00",
+          "source": "reddit_politics",
+          "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
+          "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
+          "summary": "⬆ 478 upvotes · 💬 14 comments · r/politics",
+          "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 5.53
+          "gravity_score": 6.17
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 44.27,
-      "attention_focus_score": 42.27,
-      "item_count": 11,
-      "source_count": 5,
+      "topic_score": 37.95,
+      "attention_focus_score": 36.45,
+      "item_count": 10,
+      "source_count": 4,
       "platform_count": 4,
       "sources": [
         "bbc_world",
         "coindesk",
-        "reddit_politics",
         "reddit_worldnews",
         "thehill"
       ],
@@ -247,31 +246,11 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 5,241 upvotes · 💬 951 comments · r/worldnews",
+          "summary": "⬆ 5,490 upvotes · 💬 979 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.25
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
-          "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 729 upvotes · 💬 235 comments · r/politics",
-          "published_at": "2026-03-19 10:46:50+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.75
-        },
-        {
-          "source": "bbc_world",
-          "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
-          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
-          "published_at": "2026-03-19 16:16:05+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
         },
         {
           "source": "coindesk",
@@ -292,6 +271,26 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.5
+        },
+        {
+          "source": "thehill",
+          "title": "In the strait of Hormuz, where are the allies?",
+          "url": "https://thehill.com/opinion/international/5791008-us-navy-allies-strait-hormuz/",
+          "summary": "The Iranian threat to close the Strait of Hormuz has caused world oil prices to spike, and the US Navy is preparing for mine-countermeasure operations, but needs the help of allies to augment its capabilities and secure the sea lanes.",
+          "published_at": "2026-03-19 16:30:00+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 3.5
+        },
+        {
+          "source": "bbc_world",
+          "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+          "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
+          "published_at": "2026-03-19 16:16:05+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 2.5
         }
       ]
     },
@@ -491,12 +490,12 @@
     },
     {
       "topic": "politics",
-      "event": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
-      "gravity_score": 7.25,
-      "priority_score": 17.25,
-      "source_platform": "reddit_popculturechat",
+      "event": "Watch live: Q&A with The Hill’s editors",
+      "gravity_score": 6.5,
+      "priority_score": 16.5,
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
+      "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -506,8 +505,9 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -594,12 +594,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy f…",
-      "gravity_score": 3.75,
-      "priority_score": 9.75,
-      "source_platform": "reddit_politics",
+      "event": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
+      "gravity_score": 3.5,
+      "priority_score": 9.5,
+      "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
+      "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
       "platforms_discussing": [
         "bbc",
         "coindesk",
@@ -607,21 +607,21 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the strike last more than 14 days?"
+        "Will BTC close above/below a specific price level within 14 days?",
+        "Will institutional inflows (ETF) exceed a measurable threshold?",
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
-      "event": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+      "event": "Live updates: Trump says he expects ‘Japan to step up’ on Hormuz; Hegseth blasts Europe, media",
       "gravity_score": 3.5,
       "priority_score": 9.5,
-      "source_platform": "bbc_world",
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
       "platforms_discussing": [
         "bbc",
         "coindesk",
@@ -629,9 +629,9 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -703,13 +703,6 @@
         "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/"
       },
       {
-        "topic": "politics",
-        "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
-        "score": 7.25,
-        "source": "reddit_popculturechat",
-        "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/"
-      },
-      {
         "topic": "geopolitics",
         "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
         "score": 6.25,
@@ -717,11 +710,18 @@
         "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
       },
       {
+        "topic": "politics",
+        "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
+        "score": 6.25,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/"
+      },
+      {
         "topic": "everyday_economy",
-        "title": "Gas price soars 25% after strikes on Qatar hub",
-        "score": 5.53,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/"
+        "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
+        "score": 6.17,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/"
       }
     ],
     "X": [
@@ -825,6 +825,20 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "ohio",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "trump pearl harbor",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "midtjylland - nottingham forest",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -840,20 +854,6 @@
       {
         "topic": "trending",
         "title": "paul goldschmidt",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "lyon - celta de vigo",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "lyon vs celta vigo",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -893,12 +893,12 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+        "topic": "politics",
+        "title": "[The Hill] Watch live: Q&A with The Hill’s editors",
         "score": 6.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
-        "source_label": "CoinDesk"
+        "source": "thehill",
+        "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
+        "source_label": "The Hill"
       }
     ]
   }
