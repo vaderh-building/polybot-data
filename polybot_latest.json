@@ -1,17 +1,17 @@
 {
-  "generated_at_utc": "2026-03-19T00:44:14.632824+00:00",
+  "generated_at_utc": "2026-03-19T00:47:46.471805+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 135.64,
-      "attention_focus_score": 132.64,
-      "item_count": 32,
+      "topic_score": 134.96,
+      "attention_focus_score": 131.96,
+      "item_count": 33,
       "source_count": 7,
       "platform_count": 6,
       "sources": [
         "bbc_world",
         "cnbc",
-        "google_trends_us_daily",
+        "coindesk",
         "politico",
         "reddit_politics",
         "reddit_worldnews",
@@ -20,7 +20,7 @@
       "platforms": [
         "bbc",
         "cnbc",
-        "google_trends",
+        "coindesk",
         "politico",
         "reddit",
         "thehill"
@@ -30,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 12,138 upvotes · 💬 427 comments · r/politics",
+          "summary": "⬆ 12,193 upvotes · 💬 428 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,7 +40,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 7,280 upvotes · 💬 153 comments · r/worldnews",
+          "summary": "⬆ 7,301 upvotes · 💬 153 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -67,31 +67,33 @@
           "gravity_score": 5.0
         },
         {
-          "source": "google_trends_us_daily",
-          "title": "fear factor house of fear",
-          "url": "https://trends.google.com/trending/rss?geo=US",
-          "summary": "",
-          "published_at": "2026-03-19 00:10:00+00:00",
+          "source": "politico",
+          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
+          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
+          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
+          "published_at": "2026-03-12 08:45:00+00:00",
           "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 52.78,
-      "attention_focus_score": 51.78,
-      "item_count": 7,
-      "source_count": 3,
-      "platform_count": 3,
+      "topic_score": 70.75,
+      "attention_focus_score": 69.25,
+      "item_count": 11,
+      "source_count": 4,
+      "platform_count": 4,
       "sources": [
         "cnbc",
+        "coindesk",
         "reddit_politics",
         "thehill"
       ],
       "platforms": [
         "cnbc",
+        "coindesk",
         "reddit",
         "thehill"
       ],
@@ -100,7 +102,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 16,430 upvotes · 💬 925 comments · r/politics",
+          "summary": "⬆ 16,448 upvotes · 💬 926 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -110,7 +112,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 9,420 upvotes · 💬 342 comments · r/politics",
+          "summary": "⬆ 9,444 upvotes · 💬 345 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -120,7 +122,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 3,669 upvotes · 💬 81 comments · r/politics",
+          "summary": "⬆ 3,826 upvotes · 💬 85 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -130,7 +132,7 @@
           "source": "reddit_politics",
           "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
           "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 1,861 upvotes · 💬 424 comments · r/politics",
+          "summary": "⬆ 1,875 upvotes · 💬 427 comments · r/politics",
           "published_at": "2026-03-18 19:31:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -149,10 +151,78 @@
       ]
     },
     {
+      "topic": "crypto",
+      "topic_score": 66.03,
+      "attention_focus_score": 65.53,
+      "item_count": 16,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "cnbc",
+        "coindesk"
+      ],
+      "platforms": [
+        "cnbc",
+        "coindesk"
+      ],
+      "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
+          "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
+          "summary": "Kraken's parent company filed a draft S-1 registration statement with the SEC in November regarding the proposed initial public offering of its common stock.",
+          "published_at": "2026-03-18 15:14:18+00:00",
+          "topic": "crypto",
+          "keyword_hits": 3,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Crypto Long & Short: When price stops working, yield starts mattering",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-long-and-short-when-price-stops-working-yield-starts-mattering",
+          "summary": "In this week’s Crypto Long & Short Newsletter, Ruchir Gupta writes on how we’re moving toward a true fixed-income market for crypto-native yield. Then, Clara García Prieto on bitcoin becoming mainstream collateral, but most are not prepared for its risks.",
+          "published_at": "2026-03-18 16:17:13+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "coindesk",
+          "title": "Traders can now bet on the S&P 500 around the clock without ever touching a traditional stock exchange",
+          "url": "https://www.coindesk.com/markets/2026/03/18/traders-can-now-bet-on-the-s-and-p-500-around-the-clock-without-ever-touching-a-traditional-stock-exchange",
+          "summary": "S&P Dow Jones Indices licenses its flagship index for crypto trading on Hyperliquid, as perpetual futures gain traction beyond traditional markets.",
+          "published_at": "2026-03-18 15:13:09+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "cnbc",
+          "title": "AI, crypto industries dump millions into Illinois primaries to mixed results",
+          "url": "https://www.cnbc.com/2026/03/18/ai-crpyto-illinois-primaries-2026-elections.html",
+          "summary": "Illinois' early primary shows the limits of the AI and cryptocurrency industries' spending power on shaping Congress.",
+          "published_at": "2026-03-18 18:53:21+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 3.5
+        },
+        {
+          "source": "coindesk",
+          "title": "SEC approves Nasdaq's move to support tokenized securities trading",
+          "url": "https://www.coindesk.com/policy/2026/03/18/sec-approves-nasdaq-s-move-to-allow-tokenized-securities-trading",
+          "summary": "The SEC’s approval lets Nasdaq test blockchain-based versions of stocks that trade and settle like traditional shares.",
+          "published_at": "2026-03-18 20:44:02+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 3.5
+        }
+      ]
+    },
+    {
       "topic": "geopolitics",
-      "topic_score": 39.32,
-      "attention_focus_score": 36.82,
-      "item_count": 8,
+      "topic_score": 41.74,
+      "attention_focus_score": 39.24,
+      "item_count": 9,
       "source_count": 6,
       "platform_count": 4,
       "sources": [
@@ -174,7 +244,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 5,193 upvotes · 💬 417 comments · r/worldnews",
+          "summary": "⬆ 5,194 upvotes · 💬 418 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -184,7 +254,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 3,673 upvotes · 💬 464 comments · r/worldnews",
+          "summary": "⬆ 3,678 upvotes · 💬 465 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -201,20 +271,20 @@
           "gravity_score": 3.75
         },
         {
-          "source": "bbc_world",
-          "title": "Oil nears $110 a barrel after gas field strike",
-          "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-          "summary": "Iran's military warned it would take \"decisive action\" in response to the strike on its energy infrastructure.",
-          "published_at": "2026-03-18 23:45:39+00:00",
+          "source": "reddit_worldnews",
+          "title": "Iran confirms intelligence minister was killed by Israeli strike",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rxeix7/iran_confirms_intelligence_minister_was_killed_by/",
+          "summary": "⬆ 269 upvotes · 💬 73 comments · r/worldnews",
+          "published_at": "2026-03-18 20:00:34+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 3.5
+          "gravity_score": 3.25
         },
         {
           "source": "reddit_news",
           "title": "Qatar orders Iranian Embassy officials out of the country",
           "url": "https://www.reddit.com/r/news/comments/1rxicke/qatar_orders_iranian_embassy_officials_out_of_the/",
-          "summary": "⬆ 290 upvotes · 💬 14 comments · r/news",
+          "summary": "⬆ 296 upvotes · 💬 14 comments · r/news",
           "published_at": "2026-03-18 22:22:58+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -295,8 +365,8 @@
     },
     {
       "topic": "music_charts",
-      "topic_score": 22.86,
-      "attention_focus_score": 21.86,
+      "topic_score": 21.37,
+      "attention_focus_score": 20.37,
       "item_count": 3,
       "source_count": 3,
       "platform_count": 2,
@@ -314,7 +384,7 @@
           "source": "reddit_popculturechat",
           "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 421 upvotes · 💬 53 comments · r/popculturechat",
+          "summary": "⬆ 430 upvotes · 💬 53 comments · r/popculturechat",
           "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -338,7 +408,7 @@
           "published_at": "2026-03-18 23:45:37+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
-          "gravity_score": 5.08
+          "gravity_score": 3.62
         }
       ]
     },
@@ -391,32 +461,6 @@
           "gravity_score": 3.6
         }
       ]
-    },
-    {
-      "topic": "crypto",
-      "topic_score": 4.38,
-      "attention_focus_score": 4.38,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "cnbc"
-      ],
-      "platforms": [
-        "cnbc"
-      ],
-      "top_items": [
-        {
-          "source": "cnbc",
-          "title": "AI, crypto industries dump millions into Illinois primaries to mixed results",
-          "url": "https://www.cnbc.com/2026/03/18/ai-crpyto-illinois-primaries-2026-elections.html",
-          "summary": "Illinois' early primary shows the limits of the AI and cryptocurrency industries' spending power on shaping Congress.",
-          "published_at": "2026-03-18 18:53:21+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
-        }
-      ]
     }
   ],
   "market_suggestions": [
@@ -431,7 +475,7 @@
       "platforms_discussing": [
         "bbc",
         "cnbc",
-        "google_trends",
+        "coindesk",
         "politico",
         "reddit",
         "thehill"
@@ -453,7 +497,7 @@
       "platforms_discussing": [
         "bbc",
         "cnbc",
-        "google_trends",
+        "coindesk",
         "politico",
         "reddit",
         "thehill"
@@ -469,12 +513,13 @@
       "topic": "everyday_economy",
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 8.78,
-      "priority_score": 12.78,
+      "priority_score": 14.78,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
         "cnbc",
+        "coindesk",
         "reddit",
         "thehill"
       ],
@@ -488,18 +533,38 @@
       "topic": "everyday_economy",
       "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
       "gravity_score": 8.78,
-      "priority_score": 12.78,
+      "priority_score": 14.78,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
       "platforms_discussing": [
         "cnbc",
+        "coindesk",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
+      "gravity_score": 7.48,
+      "priority_score": 13.48,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the next CPI reading come in above/below consensus?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -523,24 +588,6 @@
         "Will oil prices spike above a specific threshold?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
-      "gravity_score": 7.48,
-      "priority_score": 11.48,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-      "platforms_discussing": [
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "geopolitics",
@@ -586,24 +633,6 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "music_charts",
-      "event": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
-      "gravity_score": 7.61,
-      "priority_score": 9.61,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will it debut at #1 on Billboard 200?",
-        "Will first-week streaming numbers exceed a specific threshold?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -622,23 +651,6 @@
     },
     {
       "topic": "music_charts",
-      "event": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
-      "gravity_score": 6.89,
-      "priority_score": 8.89,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "music_charts",
       "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
       "gravity_score": 8.8,
       "priority_score": 8.8,
@@ -653,6 +665,42 @@
         "Will first-week streaming numbers exceed a specific threshold?"
       ],
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Slot needed a performance - and Liverpool delivered one",
+      "gravity_score": 4.73,
+      "priority_score": 8.73,
+      "source_platform": "bbc_top",
+      "source_label": "",
+      "url": "https://www.bbc.com/sport/football/articles/c99j92p8n5ro?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "beauty",
+      "event": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
+      "gravity_score": 8.7,
+      "priority_score": 8.7,
+      "source_platform": "Xiaohongshu",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "Xiaohongshu"
+      ],
+      "debatable_angles": [
+        "Will the trending product see measurable sales spike on Amazon/Ulta?"
+      ],
+      "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -791,44 +839,16 @@
       }
     ],
     "Instagram + Threads": [],
-    "Google Trends": [
-      {
-        "topic": "trending",
-        "title": "bucaramanga - once caldas",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "claude down",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "chicago med cast",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "kelsey asbille",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "vasco da gama vs fluminense",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      }
-    ],
+    "Google Trends": [],
     "Major News Headlines": [
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
+        "source_label": "CoinDesk"
+      },
       {
         "topic": "politics",
         "title": "[The Hill] Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
@@ -844,14 +864,6 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
         "source_label": "CNBC"
-      },
-      {
-        "topic": "music_charts",
-        "title": "[BBC] Sadiq Khan says Labour should pledge to rejoin EU",
-        "score": 5.08,
-        "source": "bbc_top",
-        "url": "https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
       },
       {
         "topic": "politics",
