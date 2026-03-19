@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-03-19T17:09:38.134035+00:00",
+  "generated_at_utc": "2026-03-19T17:11:55.706954+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 193.78,
-      "attention_focus_score": 190.28,
-      "item_count": 48,
-      "source_count": 8,
+      "topic_score": 200.99,
+      "attention_focus_score": 196.99,
+      "item_count": 49,
+      "source_count": 9,
       "platform_count": 6,
       "sources": [
         "bbc_world",
@@ -15,6 +15,7 @@
         "politico",
         "reddit_news",
         "reddit_politics",
+        "reddit_popculturechat",
         "reddit_worldnews",
         "thehill"
       ],
@@ -41,8 +42,18 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,661 upvotes · 💬 504 comments · r/politics",
+          "summary": "⬆ 4,678 upvotes · 💬 505 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 7.25
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
+          "summary": "⬆ 23 upvotes · 💬 5 comments · r/popculturechat",
+          "published_at": "2026-03-19 16:46:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
@@ -66,23 +77,13 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.0
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
-          "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 2,407 upvotes · 💬 597 comments · r/politics",
-          "published_at": "2026-03-19 14:43:02+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.25
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 92.47,
-      "attention_focus_score": 91.97,
+      "topic_score": 91.34,
+      "attention_focus_score": 90.84,
       "item_count": 19,
       "source_count": 2,
       "platform_count": 2,
@@ -117,16 +118,6 @@
         },
         {
           "source": "coindesk",
-          "title": "Quadruple witching arrives tomorrow as markets brace for potential bitcoin volatility",
-          "url": "https://www.coindesk.com/markets/2026/03/10/quadruple-witching-arrives-tomorrow-as-markets-brace-for-potential-bitcoin-volatility",
-          "summary": "Bitcoin tended to show muted performance on quadruple witching days in 2025, followed by weakness in the days to weeks after.",
-          "published_at": "2026-03-19 16:40:01+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
           "title": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
           "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
           "summary": "Security researchers said attackers are impersonating OpenClaw on GitHub, luring developers with bogus CLAW token giveaways that trick users into connecting their crypto wallets.",
@@ -141,6 +132,16 @@
           "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
           "summary": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI.",
           "published_at": "2026-03-19 16:32:42+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Quadruple witching arrives tomorrow as markets brace for potential bitcoin volatility",
+          "url": "https://www.coindesk.com/markets/2026/03/10/quadruple-witching-arrives-tomorrow-as-markets-brace-for-potential-bitcoin-volatility",
+          "summary": "Bitcoin tended to show muted performance on quadruple witching days in 2025, followed by weakness in the days to weeks after.",
+          "published_at": "2026-03-19 16:40:01+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 5.0
@@ -173,7 +174,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,197 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,209 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -213,7 +214,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 939 upvotes · 💬 104 comments · r/worldnews",
+          "summary": "⬆ 951 upvotes · 💬 104 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -246,7 +247,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 5,144 upvotes · 💬 937 comments · r/worldnews",
+          "summary": "⬆ 5,201 upvotes · 💬 947 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -256,7 +257,7 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 722 upvotes · 💬 233 comments · r/politics",
+          "summary": "⬆ 723 upvotes · 💬 233 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -490,12 +491,12 @@
     },
     {
       "topic": "politics",
-      "event": "Watch live: Q&A with The Hill’s editors",
-      "gravity_score": 6.5,
-      "priority_score": 16.5,
-      "source_platform": "thehill",
+      "event": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
+      "gravity_score": 7.25,
+      "priority_score": 17.25,
+      "source_platform": "reddit_popculturechat",
       "source_label": "",
-      "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -505,9 +506,8 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -703,6 +703,13 @@
         "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/"
       },
       {
+        "topic": "politics",
+        "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
+        "score": 7.25,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/"
+      },
+      {
         "topic": "geopolitics",
         "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
         "score": 6.25,
@@ -715,13 +722,6 @@
         "score": 5.53,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/"
-      },
-      {
-        "topic": "politics",
-        "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
-        "score": 5.25,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/"
       }
     ],
     "X": [
