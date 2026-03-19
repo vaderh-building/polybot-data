@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T23:24:01.266140+00:00",
+  "generated_at_utc": "2026-03-19T23:26:08.492403+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 190.25,
-      "attention_focus_score": 186.25,
+      "topic_score": 189.19,
+      "attention_focus_score": 185.19,
       "item_count": 43,
       "source_count": 9,
       "platform_count": 7,
@@ -33,7 +33,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,584 upvotes · 💬 571 comments · r/politics",
+          "summary": "⬆ 5,591 upvotes · 💬 571 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -73,7 +73,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,025 upvotes · 💬 1,183 comments · r/politics",
+          "summary": "⬆ 6,044 upvotes · 💬 1,184 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -153,8 +153,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 49.72,
-      "attention_focus_score": 47.22,
+      "topic_score": 49.03,
+      "attention_focus_score": 46.53,
       "item_count": 9,
       "source_count": 6,
       "platform_count": 4,
@@ -177,7 +177,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 3,347 upvotes · 💬 56 comments · r/politics",
+          "summary": "⬆ 3,360 upvotes · 💬 56 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -187,7 +187,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,595 upvotes · 💬 148 comments · r/worldnews",
+          "summary": "⬆ 1,596 upvotes · 💬 148 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -197,21 +197,11 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 647 upvotes · 💬 117 comments · r/news",
+          "summary": "⬆ 650 upvotes · 💬 117 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 4.88
-        },
-        {
-          "source": "cnbc",
-          "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
-          "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
-          "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
-          "published_at": "2026-03-19 17:24:32+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
         },
         {
           "source": "cnbc",
@@ -222,13 +212,23 @@
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 4.55
+        },
+        {
+          "source": "thehill",
+          "title": "IMF: Prolonged high gas prices could increase inflation",
+          "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
+          "summary": "The International Monetary Fund (IMF) warned Thursday that rising energy prices caused by the ongoing conflict with Iran could lead to higher global inflation if prolonged, but it said no nation has yet reached out for emergency financial assistance. IMF communications director Julie Kozack told reporters that the organization was closely monitoring how oil and&#8230;",
+          "published_at": "2026-03-19 20:29:18+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 2,
+          "gravity_score": 4.55
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 32.53,
-      "attention_focus_score": 31.03,
+      "topic_score": 29.78,
+      "attention_focus_score": 28.28,
       "item_count": 6,
       "source_count": 4,
       "platform_count": 3,
@@ -248,7 +248,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 2,267 upvotes · 💬 454 comments · r/popculturechat",
+          "summary": "⬆ 2,293 upvotes · 💬 456 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -262,7 +262,17 @@
           "published_at": "2026-03-19 22:24:51+00:00",
           "topic": "reality_tv",
           "keyword_hits": 2,
-          "gravity_score": 6.75
+          "gravity_score": 5.4
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
+          "summary": "⬆ 334 upvotes · 💬 35 comments · r/popculturechat",
+          "published_at": "2026-03-19 18:52:40+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.39
         },
         {
           "source": "bbc_top",
@@ -272,17 +282,7 @@
           "published_at": "2026-03-19 22:24:51+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 4.73
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 331 upvotes · 💬 35 comments · r/popculturechat",
-          "published_at": "2026-03-19 18:52:40+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 4.39
+          "gravity_score": 3.38
         },
         {
           "source": "bbc_world",
@@ -319,7 +319,7 @@
           "source": "reddit_all",
           "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
           "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
-          "summary": "⬆ 11,104 upvotes · 💬 1,352 comments · r/all",
+          "summary": "⬆ 11,126 upvotes · 💬 1,353 comments · r/all",
           "published_at": "2026-03-19 17:12:12+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -329,7 +329,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 10,292 upvotes · 💬 1,460 comments · r/worldnews",
+          "summary": "⬆ 10,304 upvotes · 💬 1,461 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -578,26 +578,6 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "reality_tv",
-      "event": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-      "gravity_score": 6.75,
-      "priority_score": 10.75,
-      "source_platform": "bbc_world",
-      "source_label": "",
-      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
       "topic": "geopolitics",
       "event": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who kn…",
       "gravity_score": 6.75,
@@ -637,6 +617,26 @@
         "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+      "gravity_score": 5.4,
+      "priority_score": 9.4,
+      "source_platform": "bbc_world",
+      "source_label": "",
+      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "social_virality",
@@ -859,14 +859,6 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "reality_tv",
-        "title": "[BBC] Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-        "score": 6.75,
-        "source": "bbc_world",
-        "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
-      },
-      {
         "topic": "politics",
         "title": "[The Hill] Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
         "score": 6.5,
@@ -889,6 +881,14 @@
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5792427-watch-live-donald-trump-sanae-takaichi-white-house-dinner-japan/",
         "source_label": "The Hill"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "[BBC] Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+        "score": 5.4,
+        "source": "bbc_world",
+        "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
       }
     ]
   }
