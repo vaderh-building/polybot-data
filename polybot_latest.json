@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T23:03:44.371231+00:00",
+  "generated_at_utc": "2026-03-19T23:15:22.924171+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 194.51,
-      "attention_focus_score": 190.51,
-      "item_count": 44,
+      "topic_score": 190.25,
+      "attention_focus_score": 186.25,
+      "item_count": 43,
       "source_count": 9,
       "platform_count": 7,
       "sources": [
@@ -30,6 +30,16 @@
       ],
       "top_items": [
         {
+          "source": "reddit_politics",
+          "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
+          "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
+          "summary": "⬆ 5,578 upvotes · 💬 571 comments · r/politics",
+          "published_at": "2026-03-19 08:06:03+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 7.25
+        },
+        {
           "source": "coindesk",
           "title": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
           "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
@@ -37,17 +47,7 @@
           "published_at": "2026-03-19 22:10:45+00:00",
           "topic": "politics",
           "keyword_hits": 3,
-          "gravity_score": 8.0
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
-          "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,568 upvotes · 💬 570 comments · r/politics",
-          "published_at": "2026-03-19 08:06:03+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 7.25
+          "gravity_score": 7.0
         },
         {
           "source": "thehill",
@@ -60,16 +60,6 @@
           "gravity_score": 6.5
         },
         {
-          "source": "reddit_politics",
-          "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
-          "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 5,034 upvotes · 💬 320 comments · r/politics",
-          "published_at": "2026-03-19 17:07:00+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.25
-        },
-        {
           "source": "thehill",
           "title": "Watch: Q&A with The Hill’s editors",
           "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
@@ -78,6 +68,16 @@
           "topic": "politics",
           "keyword_hits": 4,
           "gravity_score": 6.0
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
+          "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
+          "summary": "⬆ 5,995 upvotes · 💬 1,181 comments · r/politics",
+          "published_at": "2026-03-19 14:43:02+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 5.75
         }
       ]
     },
@@ -179,7 +179,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 3,222 upvotes · 💬 56 comments · r/politics",
+          "summary": "⬆ 3,284 upvotes · 💬 56 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -189,7 +189,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,577 upvotes · 💬 147 comments · r/worldnews",
+          "summary": "⬆ 1,583 upvotes · 💬 147 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -199,7 +199,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 638 upvotes · 💬 115 comments · r/news",
+          "summary": "⬆ 646 upvotes · 💬 116 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -262,7 +262,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 1,896 upvotes · 💬 417 comments · r/popculturechat",
+          "summary": "⬆ 2,126 upvotes · 💬 439 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -292,7 +292,7 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 318 upvotes · 💬 35 comments · r/popculturechat",
+          "summary": "⬆ 328 upvotes · 💬 35 comments · r/popculturechat",
           "published_at": "2026-03-19 18:52:40+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -302,8 +302,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 24.38,
-      "attention_focus_score": 22.88,
+      "topic_score": 23.87,
+      "attention_focus_score": 22.37,
       "item_count": 4,
       "source_count": 4,
       "platform_count": 3,
@@ -323,17 +323,17 @@
           "source": "reddit_all",
           "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
           "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
-          "summary": "⬆ 10,943 upvotes · 💬 1,339 comments · r/all",
+          "summary": "⬆ 11,047 upvotes · 💬 1,345 comments · r/all",
           "published_at": "2026-03-19 17:12:12+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 7.25
+          "gravity_score": 6.75
         },
         {
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 10,174 upvotes · 💬 1,447 comments · r/worldnews",
+          "summary": "⬆ 10,252 upvotes · 💬 1,456 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -429,29 +429,6 @@
   "market_suggestions": [
     {
       "topic": "politics",
-      "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
-      "gravity_score": 8.0,
-      "priority_score": 20.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
       "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
       "gravity_score": 7.25,
       "priority_score": 19.25,
@@ -472,6 +449,29 @@
         "Will the vote happen before a specific procedural deadline?",
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
+      "gravity_score": 7.0,
+      "priority_score": 19.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -585,27 +585,6 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "geopolitics",
-      "event": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who kn…",
-      "gravity_score": 7.25,
-      "priority_score": 11.25,
-      "source_platform": "reddit_all",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the strike last more than 14 days?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
       "topic": "crypto",
       "event": "Crypto markets – and the American people – deserve clarity",
       "gravity_score": 5.0,
@@ -668,6 +647,27 @@
     },
     {
       "topic": "geopolitics",
+      "event": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who kn…",
+      "gravity_score": 6.75,
+      "priority_score": 10.75,
+      "source_platform": "reddit_all",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the strike last more than 14 days?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
       "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
       "gravity_score": 6.75,
       "priority_score": 10.75,
@@ -690,13 +690,6 @@
   "platform_snapshots": {
     "Reddit": [
       {
-        "topic": "geopolitics",
-        "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
-        "score": 7.25,
-        "source": "reddit_all",
-        "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/"
-      },
-      {
         "topic": "politics",
         "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
         "score": 7.25,
@@ -712,17 +705,24 @@
       },
       {
         "topic": "geopolitics",
+        "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
+        "score": 6.75,
+        "source": "reddit_all",
+        "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/"
+      },
+      {
+        "topic": "geopolitics",
         "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
       },
       {
-        "topic": "politics",
-        "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
-        "score": 6.25,
+        "topic": "everyday_economy",
+        "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
+        "score": 6.17,
         "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/"
+        "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/"
       }
     ],
     "X": [
@@ -826,7 +826,21 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "red sox",
+        "title": "charles barkley",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "u of m basketball",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "charles barkley weight loss",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -840,21 +854,7 @@
       },
       {
         "topic": "trending",
-        "title": "north carolina",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "jury duty season 2",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "islanders vs senators",
+        "title": "red sox",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -864,7 +864,7 @@
       {
         "topic": "politics",
         "title": "[CoinDesk] Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
-        "score": 8.0,
+        "score": 7.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
         "source_label": "CoinDesk"
