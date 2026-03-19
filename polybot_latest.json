@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T20:52:02.849279+00:00",
+  "generated_at_utc": "2026-03-19T21:35:45.149726+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 184.91,
-      "attention_focus_score": 181.41,
+      "topic_score": 183.29,
+      "attention_focus_score": 179.79,
       "item_count": 44,
       "source_count": 8,
       "platform_count": 6,
@@ -31,7 +31,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,395 upvotes · 💬 552 comments · r/politics",
+          "summary": "⬆ 5,450 upvotes · 💬 560 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -55,13 +55,13 @@
           "published_at": "2026-03-19 14:54:32+00:00",
           "topic": "politics",
           "keyword_hits": 4,
-          "gravity_score": 6.5
+          "gravity_score": 6.0
         },
         {
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 5,231 upvotes · 💬 1,081 comments · r/politics",
+          "summary": "⬆ 5,506 upvotes · 💬 1,126 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -71,7 +71,7 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
-          "summary": "⬆ 881 upvotes · 💬 56 comments · r/popculturechat",
+          "summary": "⬆ 915 upvotes · 💬 57 comments · r/popculturechat",
           "published_at": "2026-03-19 16:46:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -81,19 +81,21 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 89.83,
-      "attention_focus_score": 88.83,
-      "item_count": 20,
-      "source_count": 3,
-      "platform_count": 3,
+      "topic_score": 91.26,
+      "attention_focus_score": 89.76,
+      "item_count": 21,
+      "source_count": 4,
+      "platform_count": 4,
       "sources": [
         "cnbc",
         "coindesk",
+        "reddit_popculturechat",
         "thehill"
       ],
       "platforms": [
         "cnbc",
         "coindesk",
+        "reddit",
         "thehill"
       ],
       "top_items": [
@@ -105,27 +107,7 @@
           "published_at": "2026-03-19 20:12:30+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 6.5
-        },
-        {
-          "source": "coindesk",
-          "title": "DeFi risk management giant Gauntlet sees $380 million exit as OKX crypto campaign ends",
-          "url": "https://www.coindesk.com/tech/2026/03/19/defi-risk-management-giant-gauntlet-sees-usd380-million-exit-as-okx-crypto-campaign-ends",
-          "summary": "Gauntlet noted that deposits are now back to same levels before the campaign, and has navigated large capital swings before due to incentive campaign endings, airdrops, and shifts in market conditions which regularly produce short-period swings in either direction.",
-          "published_at": "2026-03-19 20:12:45+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Coinbase's bitcoin yield fund goes onchain with Apex's tokenization push",
-          "url": "https://www.coindesk.com/business/2026/03/19/coinbase-s-bitcoin-yield-fund-goes-onchain-with-apex-s-tokenization-push",
-          "summary": "The Coinbase Bitcoin Yield Fund's tokenized share class runs on Base as the $3.5 trillion fund services giant Apex applies tokenization across its business.",
-          "published_at": "2026-03-19 20:09:17+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
+          "gravity_score": 5.5
         },
         {
           "source": "coindesk",
@@ -146,13 +128,33 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Crypto for Advisors: Bitcoin’s price discovery",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
+          "summary": "Bitcoin’s price discovery is increasingly driven by derivatives positioning and institutional synthetics rather than spot demand, signaling a structural shift in how crypto markets move.",
+          "published_at": "2026-03-19 15:00:00+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "coindesk",
+          "title": "Crypto.com cuts 12% of staff as it integrates AI across the business for efficiency",
+          "url": "https://www.coindesk.com/business/2026/03/19/crypto-com-cuts-12-of-staff-as-it-integrates-ai-into-internal-processes",
+          "summary": "The exchange laid off about 180 employees as it restructures and rolls out enterprise-wide AI to drive efficiencies.",
+          "published_at": "2026-03-19 11:44:37+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 52.53,
-      "attention_focus_score": 50.03,
+      "topic_score": 47.64,
+      "attention_focus_score": 45.14,
       "item_count": 8,
       "source_count": 6,
       "platform_count": 4,
@@ -172,6 +174,16 @@
       ],
       "top_items": [
         {
+          "source": "reddit_politics",
+          "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
+          "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
+          "summary": "⬆ 2,706 upvotes · 💬 53 comments · r/politics",
+          "published_at": "2026-03-19 15:48:40+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.83
+        },
+        {
           "source": "thehill",
           "title": "IMF: Prolonged high gas prices could increase inflation",
           "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
@@ -179,44 +191,34 @@
           "published_at": "2026-03-19 20:29:18+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 2,
-          "gravity_score": 7.8
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
-          "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 2,376 upvotes · 💬 51 comments · r/politics",
-          "published_at": "2026-03-19 15:48:40+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.83
-        },
-        {
-          "source": "reddit_news",
-          "title": "Gas price soars over 20% after strikes on Qatar hub",
-          "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 538 upvotes · 💬 95 comments · r/news",
-          "published_at": "2026-03-19 15:08:08+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.53
+          "gravity_score": 5.2
         },
         {
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,503 upvotes · 💬 138 comments · r/worldnews",
+          "summary": "⬆ 1,533 upvotes · 💬 142 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 4.88
         },
         {
-          "source": "bbc_top",
-          "title": "Why are gas prices soaring and how could it affect you?",
-          "url": "https://www.bbc.com/news/articles/cj6d66w0995o?at_medium=RSS&at_campaign=rss",
-          "summary": "Analysts fear the disruption to supply could continue for longer than initially thought.",
-          "published_at": "2026-03-19 20:04:23+00:00",
+          "source": "reddit_news",
+          "title": "Gas price soars over 20% after strikes on Qatar hub",
+          "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
+          "summary": "⬆ 582 upvotes · 💬 100 comments · r/news",
+          "published_at": "2026-03-19 15:08:08+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.88
+        },
+        {
+          "source": "cnbc",
+          "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+          "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+          "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+          "published_at": "2026-03-19 17:24:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 4.55
@@ -225,9 +227,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 42.75,
-      "attention_focus_score": 40.25,
-      "item_count": 11,
+      "topic_score": 37.68,
+      "attention_focus_score": 35.18,
+      "item_count": 9,
       "source_count": 6,
       "platform_count": 4,
       "sources": [
@@ -249,7 +251,7 @@
           "source": "reddit_all",
           "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
           "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
-          "summary": "⬆ 8,738 upvotes · 💬 1,118 comments · r/all",
+          "summary": "⬆ 9,727 upvotes · 💬 1,207 comments · r/all",
           "published_at": "2026-03-19 17:12:12+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -259,21 +261,11 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 9,014 upvotes · 💬 1,355 comments · r/worldnews",
+          "summary": "⬆ 9,393 upvotes · 💬 1,379 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
-        },
-        {
-          "source": "bbc_top",
-          "title": "US considers lifting sanctions on some Iranian oil",
-          "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-          "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy.",
-          "published_at": "2026-03-19 19:55:51+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
         },
         {
           "source": "coindesk",
@@ -286,11 +278,21 @@
           "gravity_score": 3.0
         },
         {
+          "source": "bbc_top",
+          "title": "US considers lifting sanctions on some Iranian oil",
+          "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+          "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy.",
+          "published_at": "2026-03-19 19:55:51+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 2.5
+        },
+        {
           "source": "bbc_world",
-          "title": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
-          "url": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
-          "summary": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
-          "published_at": "2026-03-19 14:57:22+00:00",
+          "title": "Iran conflict looms large over Trump's meeting with Japan PM",
+          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+          "summary": "The meeting with Sanae Takaichi comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
+          "published_at": "2026-03-19 18:06:37+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.0
@@ -299,9 +301,9 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 16.58,
-      "attention_focus_score": 15.58,
-      "item_count": 3,
+      "topic_score": 19.67,
+      "attention_focus_score": 18.67,
+      "item_count": 4,
       "source_count": 3,
       "platform_count": 3,
       "sources": [
@@ -319,11 +321,21 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 514 upvotes · 💬 193 comments · r/popculturechat",
+          "summary": "⬆ 671 upvotes · 💬 254 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 7.76
+          "gravity_score": 6.41
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
+          "summary": "⬆ 68 upvotes · 💬 17 comments · r/popculturechat",
+          "published_at": "2026-03-19 18:52:40+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.39
         },
         {
           "source": "bbc_world",
@@ -349,8 +361,8 @@
     },
     {
       "topic": "social_virality",
-      "topic_score": 10.65,
-      "attention_focus_score": 10.15,
+      "topic_score": 10.05,
+      "attention_focus_score": 9.55,
       "item_count": 2,
       "source_count": 2,
       "platform_count": 2,
@@ -364,16 +376,6 @@
       ],
       "top_items": [
         {
-          "source": "bbc_top",
-          "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
-          "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
-          "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
-          "published_at": "2026-03-19 15:33:22+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 4.2
-        },
-        {
           "source": "npr_news",
           "title": "Afroman prevails in cops' music video defamation suit after a brief but viral trial",
           "url": "https://www.npr.org/2026/03/19/nx-s1-5753563/afroman-lemon-pound-cake-trial",
@@ -382,6 +384,16 @@
           "topic": "social_virality",
           "keyword_hits": 1,
           "gravity_score": 4.2
+        },
+        {
+          "source": "bbc_top",
+          "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+          "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+          "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
+          "published_at": "2026-03-19 15:33:22+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 3.6
         }
       ]
     },
@@ -464,8 +476,8 @@
     {
       "topic": "politics",
       "event": "Watch: Q&A with The Hill’s editors",
-      "gravity_score": 6.5,
-      "priority_score": 16.5,
+      "gravity_score": 6.0,
+      "priority_score": 16.0,
       "source_platform": "thehill",
       "source_label": "",
       "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
@@ -483,25 +495,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "IMF: Prolonged high gas prices could increase inflation",
-      "gravity_score": 7.8,
-      "priority_score": 13.8,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "geopolitics",
@@ -568,10 +561,112 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "crypto",
+      "event": "Crypto markets – and the American people – deserve clarity",
+      "gravity_score": 5.5,
+      "priority_score": 11.5,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "IMF: Prolonged high gas prices could increase inflation",
+      "gravity_score": 5.2,
+      "priority_score": 11.2,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "crypto",
+      "event": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+      "gravity_score": 5.0,
+      "priority_score": 11.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "crypto",
+      "event": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+      "gravity_score": 5.0,
+      "priority_score": 11.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Gas price soars 25% after strikes on Qatar hub",
+      "gravity_score": 4.88,
+      "priority_score": 10.88,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
       "topic": "reality_tv",
       "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-      "gravity_score": 7.76,
-      "priority_score": 11.76,
+      "gravity_score": 6.41,
+      "priority_score": 10.41,
       "source_platform": "reddit_popculturechat",
       "source_label": "",
       "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
@@ -586,96 +681,10 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Gas price soars over 20% after strikes on Qatar hub",
-      "gravity_score": 5.53,
-      "priority_score": 11.53,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "crypto",
-      "event": "Crypto markets – and the American people – deserve clarity",
-      "gravity_score": 6.5,
-      "priority_score": 10.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "US considers lifting sanctions on some Iranian oil",
-      "gravity_score": 3.5,
-      "priority_score": 9.5,
-      "source_platform": "bbc_top",
-      "source_label": "",
-      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will new sanctions be officially enacted by a specific date?",
-        "Will the sanctioned country's currency drop past a measurable threshold?",
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "social_virality",
-      "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
-      "gravity_score": 9.2,
-      "priority_score": 9.2,
-      "source_platform": "TikTok",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "TikTok"
-      ],
-      "debatable_angles": [
-        "Will the predicted frontrunner actually win?",
-        "Will viewership exceed last year's numbers?"
-      ],
-      "verifiable_via": "Google Trends / Platform public APIs"
     }
   ],
   "platform_snapshots": {
     "Reddit": [
-      {
-        "topic": "reality_tv",
-        "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-        "score": 7.76,
-        "source": "reddit_popculturechat",
-        "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/"
-      },
       {
         "topic": "geopolitics",
         "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
@@ -703,6 +712,13 @@
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
+        "score": 6.41,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/"
       }
     ],
     "X": [
@@ -806,57 +822,41 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "women's march madness",
+        "title": "hail mary",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "doug mason",
+        "title": "aurora - guastatoya",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "noah eagle",
+        "title": "vanderbilt university",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "roma",
+        "title": "tyler tanner",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "tmz news",
+        "title": "darius acuff jr.",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
-      {
-        "topic": "everyday_economy",
-        "title": "[The Hill] IMF: Prolonged high gas prices could increase inflation",
-        "score": 7.8,
-        "source": "thehill",
-        "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] Crypto markets – and the American people – deserve clarity",
-        "score": 6.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
-        "source_label": "CoinDesk"
-      },
       {
         "topic": "politics",
         "title": "[The Hill] Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
@@ -868,17 +868,33 @@
       {
         "topic": "politics",
         "title": "[The Hill] Watch: Q&A with The Hill’s editors",
-        "score": 6.5,
+        "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
         "source_label": "The Hill"
       },
       {
         "topic": "crypto",
-        "title": "[CoinDesk] DeFi risk management giant Gauntlet sees $380 million exit as OKX crypto campaign ends",
+        "title": "[CoinDesk] Crypto markets – and the American people – deserve clarity",
+        "score": 5.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "[The Hill] IMF: Prolonged high gas prices could increase inflation",
+        "score": 5.2,
+        "source": "thehill",
+        "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
         "score": 5.0,
         "source": "coindesk",
-        "url": "https://www.coindesk.com/tech/2026/03/19/defi-risk-management-giant-gauntlet-sees-usd380-million-exit-as-okx-crypto-campaign-ends",
+        "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
         "source_label": "CoinDesk"
       }
     ]
