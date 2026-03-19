@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T19:07:19.237093+00:00",
+  "generated_at_utc": "2026-03-19T19:42:37.389841+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 211.78,
-      "attention_focus_score": 208.28,
-      "item_count": 52,
+      "topic_score": 208.56,
+      "attention_focus_score": 205.06,
+      "item_count": 51,
       "source_count": 8,
       "platform_count": 6,
       "sources": [
@@ -28,20 +28,10 @@
       ],
       "top_items": [
         {
-          "source": "thehill",
-          "title": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
-          "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
-          "summary": "Sen. Mike Lee (R-Utah) will give remarks Thursday afternoon on the Safeguard American Voter Eligibility Act, referred to as the SAVE America Act, as the Senate weighs the sweeping election reform bill that would require proof of citizenship to register to vote among other measures. Lee earlier this week suggested that his GOP colleagues who&#8230;",
-          "published_at": "2026-03-19 18:25:27+00:00",
-          "topic": "politics",
-          "keyword_hits": 4,
-          "gravity_score": 8.0
-        },
-        {
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,220 upvotes · 💬 541 comments · r/politics",
+          "summary": "⬆ 5,286 upvotes · 💬 549 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -49,13 +39,13 @@
         },
         {
           "source": "thehill",
-          "title": "White House seeks to circumvent Schumer on potential DHS funding deal",
-          "url": "https://thehill.com/homenews/senate/5792250-dhs-funding-centrist-democrats-schumer/",
-          "summary": "White House border czar Tom Homan met with a group of centrist Democrats at the Capitol on Thursday, circumventing Senate Democratic Leader Chuck Schumer (N.Y.), who didn’t attend the meeting, in hopes of reaching a deal to reopen the Department of Homeland Security (DHS). Homan met for more than an hour with centrist Democrats who&#8230;",
-          "published_at": "2026-03-19 18:27:15+00:00",
+          "title": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
+          "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+          "summary": "Sen. Mike Lee (R-Utah) will give remarks Thursday afternoon on the Safeguard American Voter Eligibility Act, referred to as the SAVE America Act, as the Senate weighs the sweeping election reform bill that would require proof of citizenship to register to vote among other measures. Lee earlier this week suggested that his GOP colleagues who&#8230;",
+          "published_at": "2026-03-19 18:25:27+00:00",
           "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 6.5
+          "keyword_hits": 4,
+          "gravity_score": 7.0
         },
         {
           "source": "thehill",
@@ -71,18 +61,28 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 4,227 upvotes · 💬 918 comments · r/politics",
+          "summary": "⬆ 4,550 upvotes · 💬 970 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.25
+        },
+        {
+          "source": "thehill",
+          "title": "Thune, Tim Scott backing Hern for Mullin’s Senate seat",
+          "url": "https://thehill.com/homenews/campaign/5792363-oklahoma-senate-race-endorsements/",
+          "summary": "Senate Majority Leader John Thune (R-S.D.) and Sen. Tim Scott (R-S.C.) on Thursday endorsed Rep. Kevin Hern (R-Okla.) in the race to succeed outgoing Oklahoma Sen. Markwayne Mullin (R). In a release by the National Republican Senatorial Committee, which Scott chairs, Thune called Hern “a proven conservative leader and fighter for Oklahomans” in the House.&#8230;",
+          "published_at": "2026-03-19 19:17:27+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 84.42,
-      "attention_focus_score": 83.42,
+      "topic_score": 86.04,
+      "attention_focus_score": 85.04,
       "item_count": 20,
       "source_count": 3,
       "platform_count": 3,
@@ -99,13 +99,13 @@
       "top_items": [
         {
           "source": "coindesk",
-          "title": "Market maker IMC Trading hires Alex Casimo as chief commercial officer for its crypto business",
-          "url": "https://www.coindesk.com/business/2026/03/19/market-maker-imc-trading-hires-alex-casimo-as-chief-commercial-officer-for-its-crypto-business",
-          "summary": "Casimo will be responsible for growing the Dutch market maker's institutional crypto offering.",
-          "published_at": "2026-03-19 18:34:40+00:00",
+          "title": "Wall Street heavyweight Cantor among investment banks pitching FalconX for its potential IPO",
+          "url": "https://www.coindesk.com/business/2026/03/18/wall-street-heavyweight-cantor-among-investment-banks-pitching-falconx-for-its-potential-ipo",
+          "summary": "Crypto trading firm FalconX's CEO has previously said it is considering a public listing.",
+          "published_at": "2026-03-19 19:23:09+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
-          "gravity_score": 5.0
+          "gravity_score": 6.0
         },
         {
           "source": "coindesk",
@@ -151,9 +151,9 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 68.96,
-      "attention_focus_score": 66.46,
-      "item_count": 11,
+      "topic_score": 58.48,
+      "attention_focus_score": 55.98,
+      "item_count": 10,
       "source_count": 6,
       "platform_count": 4,
       "sources": [
@@ -175,27 +175,17 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,419 upvotes · 💬 362 comments · r/politics",
+          "summary": "⬆ 17,450 upvotes · 💬 362 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 8.78
         },
         {
-          "source": "cnbc",
-          "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-          "summary": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
-          "published_at": "2026-03-19 19:03:21+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 7.8
-        },
-        {
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 1,396 upvotes · 💬 34 comments · r/politics",
+          "summary": "⬆ 1,665 upvotes · 💬 40 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -205,11 +195,21 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 434 upvotes · 💬 85 comments · r/news",
+          "summary": "⬆ 461 upvotes · 💬 86 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.53
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Gas price soars 25% after strikes on Qatar hub",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
+          "summary": "⬆ 1,409 upvotes · 💬 132 comments · r/worldnews",
+          "published_at": "2026-03-19 13:04:49+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.88
         },
         {
           "source": "cnbc",
@@ -219,19 +219,20 @@
           "published_at": "2026-03-19 17:24:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 5.2
+          "gravity_score": 4.55
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 39.72,
-      "attention_focus_score": 37.72,
-      "item_count": 10,
-      "source_count": 5,
-      "platform_count": 4,
+      "topic_score": 49.67,
+      "attention_focus_score": 47.17,
+      "item_count": 11,
+      "source_count": 6,
+      "platform_count": 5,
       "sources": [
         "bbc_world",
+        "cnbc",
         "coindesk",
         "reddit_all",
         "reddit_worldnews",
@@ -239,6 +240,7 @@
       ],
       "platforms": [
         "bbc",
+        "cnbc",
         "coindesk",
         "reddit",
         "thehill"
@@ -248,7 +250,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 7,651 upvotes · 💬 1,255 comments · r/worldnews",
+          "summary": "⬆ 8,090 upvotes · 💬 1,295 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -258,11 +260,21 @@
           "source": "reddit_all",
           "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
           "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
-          "summary": "⬆ 5,734 upvotes · 💬 781 comments · r/all",
+          "summary": "⬆ 6,739 upvotes · 💬 905 comments · r/all",
           "published_at": "2026-03-19 17:12:12+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 6.75
+          "gravity_score": 6.25
+        },
+        {
+          "source": "cnbc",
+          "title": "Oil prices turn lower after Brent briefly touches $119 as Netanyahu says Israel helping to open Strait of Hormuz",
+          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+          "summary": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
+          "published_at": "2026-03-19 19:38:47+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
         },
         {
           "source": "coindesk",
@@ -283,24 +295,14 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.5
-        },
-        {
-          "source": "bbc_world",
-          "title": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
-          "url": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
-          "summary": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
-          "published_at": "2026-03-19 14:57:22+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 2.0
         }
       ]
     },
     {
       "topic": "social_virality",
-      "topic_score": 16.05,
-      "attention_focus_score": 15.55,
-      "item_count": 3,
+      "topic_score": 11.25,
+      "attention_focus_score": 10.75,
+      "item_count": 2,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -320,7 +322,7 @@
           "published_at": "2026-03-19 18:30:05+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
-          "gravity_score": 6.0
+          "gravity_score": 4.8
         },
         {
           "source": "bbc_top",
@@ -331,24 +333,14 @@
           "topic": "social_virality",
           "keyword_hits": 1,
           "gravity_score": 4.2
-        },
-        {
-          "source": "npr_news",
-          "title": "Cursive is back. But should students be learning the skill?",
-          "url": "https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy",
-          "summary": "A Virginia after-school cursive club went viral. More than two dozen states require cursive in their curriculums. Is it an effective learning tool or just nostalgia?",
-          "published_at": "2026-03-19 09:01:00+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 3.6
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 13.07,
-      "attention_focus_score": 12.57,
-      "item_count": 5,
+      "topic_score": 11.04,
+      "attention_focus_score": 10.54,
+      "item_count": 4,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -399,16 +391,6 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.03
-        },
-        {
-          "source": "thehill",
-          "title": "Mark Cuban says Trump Rx saving people ‘a lot of money’ on some drugs",
-          "url": "https://thehill.com/policy/healthcare/5790314-mark-cuban-praises-trump-rx/",
-          "summary": "Billionaire enterpreneur Mark Cuban on Wednesday touted the federal government’s TrumpRx drug platform, saying the initiative is saving Americans money.&#160; “Everyone wants me to rip on TrumpRx,” Cuban wrote on the social platform X. “Reality is, it’s saving patients money on IVF and a few other drugs. A lot of money. IMO, anything that saves&#8230;",
-          "published_at": "2026-03-18 21:17:07+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
         }
       ]
     },
@@ -442,30 +424,6 @@
   "market_suggestions": [
     {
       "topic": "politics",
-      "event": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
-      "gravity_score": 8.0,
-      "priority_score": 18.0,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?",
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
       "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
       "gravity_score": 7.25,
       "priority_score": 17.25,
@@ -490,12 +448,12 @@
     },
     {
       "topic": "politics",
-      "event": "White House seeks to circumvent Schumer on potential DHS funding deal",
-      "gravity_score": 6.5,
-      "priority_score": 16.5,
+      "event": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
+      "gravity_score": 7.0,
+      "priority_score": 17.0,
       "source_platform": "thehill",
       "source_label": "",
-      "url": "https://thehill.com/homenews/senate/5792250-dhs-funding-centrist-democrats-schumer/",
+      "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -505,10 +463,57 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?"
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?",
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "Watch: Q&A with The Hill’s editors",
+      "gravity_score": 6.5,
+      "priority_score": 16.5,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+      "gravity_score": 7.25,
+      "priority_score": 15.25,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "everyday_economy",
@@ -530,58 +535,16 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-      "gravity_score": 7.8,
-      "priority_score": 13.8,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will crude oil close above/below a specific price within 14 days?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-      "gravity_score": 7.25,
-      "priority_score": 13.25,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
       "topic": "geopolitics",
       "event": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who kn…",
-      "gravity_score": 6.75,
-      "priority_score": 12.75,
+      "gravity_score": 6.25,
+      "priority_score": 14.25,
       "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
       "platforms_discussing": [
         "bbc",
+        "cnbc",
         "coindesk",
         "reddit",
         "thehill"
@@ -591,6 +554,29 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?",
         "Will oil prices spike above a specific threshold?",
         "Will the strike last more than 14 days?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Oil prices turn lower after Brent briefly touches $119 as Netanyahu says Israel helping to open Strait of Hormuz",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?",
+        "Will crude oil close above/below a specific price within 14 days?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -616,26 +602,44 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "geopolitics",
-      "event": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
-      "gravity_score": 3.5,
-      "priority_score": 9.5,
-      "source_platform": "coindesk",
+      "topic": "everyday_economy",
+      "event": "Gas price soars over 20% after strikes on Qatar hub",
+      "gravity_score": 5.53,
+      "priority_score": 11.53,
+      "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
+      "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
       "platforms_discussing": [
         "bbc",
-        "coindesk",
+        "cnbc",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?",
         "Will the strike last more than 14 days?",
         "Will a deal be reached before a specific deadline?"
       ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "crypto",
+      "event": "Wall Street heavyweight Cantor among investment banks pitching FalconX for its potential IPO",
+      "gravity_score": 6.0,
+      "priority_score": 10.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/business/2026/03/18/wall-street-heavyweight-cantor-among-investment-banks-pitching-falconx-for-its-potential-ipo",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "social_virality",
@@ -653,26 +657,6 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "crypto",
-      "event": "Market maker IMC Trading hires Alex Casimo as chief commercial officer for its crypto business",
-      "gravity_score": 5.0,
-      "priority_score": 9.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/business/2026/03/19/market-maker-imc-trading-hires-alex-casimo-as-chief-commercial-officer-for-its-crypto-business",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "crypto",
@@ -721,7 +705,7 @@
       {
         "topic": "geopolitics",
         "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
-        "score": 6.75,
+        "score": 6.25,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/"
       },
@@ -834,35 +818,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "gerry mcnamara",
+        "title": "duke mbb",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "sam hoiberg",
+        "title": "aston villa vs losc",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "john blackwell",
+        "title": "real betis - panathinaikos",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "europa conference league",
+        "title": "roma vs bologna",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "denis shapovalov",
+        "title": "porto vs vfb stuttgart",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -872,25 +856,9 @@
       {
         "topic": "politics",
         "title": "[The Hill] Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
-        "score": 8.0,
+        "score": 7.0,
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-        "score": 7.8,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] White House seeks to circumvent Schumer on potential DHS funding deal",
-        "score": 6.5,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/senate/5792250-dhs-funding-centrist-democrats-schumer/",
         "source_label": "The Hill"
       },
       {
@@ -902,12 +870,28 @@
         "source_label": "The Hill"
       },
       {
-        "topic": "social_virality",
-        "title": "[NPR] Afroman prevails in cops' music video defamation suit after a brief but viral trial",
+        "topic": "geopolitics",
+        "title": "[CNBC] Oil prices turn lower after Brent briefly touches $119 as Netanyahu says Israel helping to open Strait of Hormuz",
         "score": 6.0,
-        "source": "npr_news",
-        "url": "https://www.npr.org/2026/03/19/nx-s1-5753563/afroman-lemon-pound-cake-trial",
-        "source_label": "NPR"
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Wall Street heavyweight Cantor among investment banks pitching FalconX for its potential IPO",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/18/wall-street-heavyweight-cantor-among-investment-banks-pitching-falconx-for-its-potential-ipo",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] Thune, Tim Scott backing Hern for Mullin’s Senate seat",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/campaign/5792363-oklahoma-senate-race-endorsements/",
+        "source_label": "The Hill"
       }
     ]
   }
