@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-03-19T17:27:10.998426+00:00",
+  "generated_at_utc": "2026-03-19T17:47:11.954235+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 191.36,
-      "attention_focus_score": 187.86,
-      "item_count": 47,
-      "source_count": 8,
+      "topic_score": 197.77,
+      "attention_focus_score": 193.77,
+      "item_count": 50,
+      "source_count": 9,
       "platform_count": 6,
       "sources": [
         "bbc_world",
@@ -16,6 +16,7 @@
         "reddit_news",
         "reddit_politics",
         "reddit_popculturechat",
+        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -28,24 +29,24 @@
       ],
       "top_items": [
         {
-          "source": "thehill",
-          "title": "Jeffries says Democrats will oppose rule governing spy powers bill",
-          "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
-          "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Thursday that Democrats are lining up en masse against helping Republicans advance legislation to a final vote to extend the government’s warrantless surveillance powers. Jeffries acknowledged that the vote on the bill itself will divide Democrats, and he declined to say how he will vote himself. “But what&#8230;",
-          "published_at": "2026-03-19 17:01:17+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 7.5
-        },
-        {
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,795 upvotes · 💬 511 comments · r/politics",
+          "summary": "⬆ 4,906 upvotes · 💬 520 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
+        },
+        {
+          "source": "thehill",
+          "title": "Jeffries says Democrats will oppose rule governing spy powers bill",
+          "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
+          "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Thursday that Democrats are lining up en masse against helping Republicans advance legislation to a final vote to extend the government’s warrantless surveillance powers. Jeffries acknowledged that the vote on the bill itself will divide Democrats, and he declined to say how he will vote himself.&#160; “But what&#8230;",
+          "published_at": "2026-03-19 17:01:17+00:00",
+          "topic": "politics",
+          "keyword_hits": 3,
+          "gravity_score": 6.5
         },
         {
           "source": "thehill",
@@ -58,31 +59,31 @@
           "gravity_score": 6.5
         },
         {
-          "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
-          "summary": "⬆ 77 upvotes · 💬 14 comments · r/popculturechat",
-          "published_at": "2026-03-19 16:46:42+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.25
-        },
-        {
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 2,791 upvotes · 💬 648 comments · r/politics",
+          "summary": "⬆ 3,085 upvotes · 💬 707 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
+          "gravity_score": 5.25
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
+          "summary": "⬆ 131 upvotes · 💬 24 comments · r/popculturechat",
+          "published_at": "2026-03-19 16:46:42+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
           "gravity_score": 5.25
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 92.54,
-      "attention_focus_score": 91.54,
+      "topic_score": 87.67,
+      "attention_focus_score": 86.67,
       "item_count": 20,
       "source_count": 3,
       "platform_count": 3,
@@ -109,26 +110,6 @@
         },
         {
           "source": "coindesk",
-          "title": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
-          "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
-          "summary": "Security researchers said attackers are impersonating OpenClaw on GitHub, luring developers with bogus CLAW token giveaways that trick users into connecting their crypto wallets.",
-          "published_at": "2026-03-19 15:45:10+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 5.5
-        },
-        {
-          "source": "cnbc",
-          "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
-          "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
-          "summary": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI.",
-          "published_at": "2026-03-19 16:32:42+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
           "title": "Bitcoin holds $69,000 as gold tumbles, oil spikes, but analyst says stay on sidelines",
           "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines",
           "summary": "While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off \"dry powder\" while prices swing wildly on headlines, said Wintermute's Bryan Tan.",
@@ -139,28 +120,49 @@
         },
         {
           "source": "coindesk",
-          "title": "Quadruple witching arrives tomorrow as markets brace for potential bitcoin volatility",
-          "url": "https://www.coindesk.com/markets/2026/03/10/quadruple-witching-arrives-tomorrow-as-markets-brace-for-potential-bitcoin-volatility",
-          "summary": "Bitcoin tended to show muted performance on quadruple witching days in 2025, followed by weakness in the days to weeks after.",
-          "published_at": "2026-03-19 16:40:01+00:00",
+          "title": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+          "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+          "summary": "Security researchers said attackers are impersonating OpenClaw on GitHub, luring developers with bogus CLAW token giveaways that trick users into connecting their crypto wallets.",
+          "published_at": "2026-03-19 15:45:10+00:00",
           "topic": "crypto",
-          "keyword_hits": 1,
+          "keyword_hits": 2,
           "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Crypto for Advisors: Bitcoin’s price discovery",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
+          "summary": "Bitcoin’s price discovery is increasingly driven by derivatives positioning and institutional synthetics rather than spot demand, signaling a structural shift in how crypto markets move.",
+          "published_at": "2026-03-19 15:00:00+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Crypto.com cuts 12% of staff as it integrates AI across the business for efficiency",
+          "url": "https://www.coindesk.com/business/2026/03/19/crypto-com-cuts-12-of-staff-as-it-integrates-ai-into-internal-processes",
+          "summary": "The exchange laid off about 180 employees as it restructures and rolls out enterprise-wide AI to drive efficiencies.",
+          "published_at": "2026-03-19 11:44:37+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 69.14,
-      "attention_focus_score": 67.14,
+      "topic_score": 70.0,
+      "attention_focus_score": 67.5,
       "item_count": 11,
-      "source_count": 5,
+      "source_count": 6,
       "platform_count": 4,
       "sources": [
         "bbc_top",
         "cnbc",
         "reddit_news",
         "reddit_politics",
+        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -174,7 +176,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,249 upvotes · 💬 360 comments · r/politics",
+          "summary": "⬆ 17,298 upvotes · 💬 362 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -186,16 +188,6 @@
           "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
           "summary": "The metals shed around 5% and 10%, respectively, while mining stocks and ETFs linked to gold and silver also fell.",
           "published_at": "2026-03-19 17:01:52+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 7.8
-        },
-        {
-          "source": "cnbc",
-          "title": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
-          "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
-          "summary": "Bond yields have surged as Europe's central banks grapple with new inflation fears.",
-          "published_at": "2026-03-19 16:30:25+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 6.5
@@ -214,58 +206,60 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 530 upvotes · 💬 14 comments · r/politics",
+          "summary": "⬆ 662 upvotes · 💬 15 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 6.17
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Gas price soars 25% after strikes on Qatar hub",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
+          "summary": "⬆ 1,118 upvotes · 💬 112 comments · r/worldnews",
+          "published_at": "2026-03-19 13:04:49+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.53
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 28.5,
-      "attention_focus_score": 27.5,
-      "item_count": 9,
-      "source_count": 3,
-      "platform_count": 3,
+      "topic_score": 35.42,
+      "attention_focus_score": 33.92,
+      "item_count": 10,
+      "source_count": 4,
+      "platform_count": 4,
       "sources": [
         "bbc_world",
         "coindesk",
+        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
         "bbc",
         "coindesk",
+        "reddit",
         "thehill"
       ],
       "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+          "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
+          "summary": "⬆ 6,124 upvotes · 💬 1,058 comments · r/worldnews",
+          "published_at": "2026-03-19 14:09:16+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.25
+        },
         {
           "source": "coindesk",
           "title": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
           "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
           "summary": "Nearly $600M in deep out-of-the-money puts highlights tail-risk positioning, though flows point more to volatility strategies than to outright bearish bets.",
           "published_at": "2026-03-19 14:34:51+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
-        },
-        {
-          "source": "thehill",
-          "title": "Live updates: Trump says he expects ‘Japan to step up’ on Hormuz; Hegseth blasts Europe, media",
-          "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
-          "summary": "President Trump on Thursday welcomed Japanese Prime Minister Sanae Takaichi to the White House for a day of meetings. Just ahead of the visit, Japan joined several European nations in saying they may be willing to help with a reopening of the Strait of Hormuz. While taking media questions, Trump said Japan should help. “I&#8230;",
-          "published_at": "2026-03-19 16:36:26+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
-        },
-        {
-          "source": "thehill",
-          "title": "In the strait of Hormuz, where are the allies?",
-          "url": "https://thehill.com/opinion/international/5791008-us-navy-allies-strait-hormuz/",
-          "summary": "The Iranian threat to close the Strait of Hormuz has caused world oil prices to spike, and the US Navy is preparing for mine-countermeasure operations, but needs the help of allies to augment its capabilities and secure the sea lanes.",
-          "published_at": "2026-03-19 16:30:00+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.5
@@ -282,10 +276,20 @@
         },
         {
           "source": "thehill",
-          "title": "Japan, Europeans signal ‘readiness to contribute’ to efforts to keep Strait of Hormuz open",
-          "url": "https://thehill.com/policy/international/5791762-leaders-commit-global-energy-stability/",
-          "summary": "The leaders of Japan and several European nations condemned recent Iranian attacks in the Persian Gulf states and the effective closure of the Strait of Hormuz, a major oil trading channel. “We express our readiness to contribute to appropriate efforts to ensure safe passage through the Strait,” the leaders wrote in a Thursday letter. “We&#8230;",
-          "published_at": "2026-03-19 16:16:07+00:00",
+          "title": "Live updates: Trump says he expects ‘Japan to step up’ on Hormuz; Hegseth blasts Europe, media",
+          "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
+          "summary": "President Trump on Thursday welcomed Japanese Prime Minister Sanae Takaichi to the White House for a day of meetings. Just ahead of the visit, Japan joined several European nations in saying they may be willing to help with a reopening of the Strait of Hormuz. While taking media questions, Trump said Japan should help. “I&#8230;",
+          "published_at": "2026-03-19 16:36:26+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 2.5
+        },
+        {
+          "source": "thehill",
+          "title": "In the strait of Hormuz, where are the allies?",
+          "url": "https://thehill.com/opinion/international/5791008-us-navy-allies-strait-hormuz/",
+          "summary": "The Iranian threat to close the Strait of Hormuz has caused world oil prices to spike, and the US Navy is preparing for mine-countermeasure operations, but needs the help of allies to augment its capabilities and secure the sea lanes.",
+          "published_at": "2026-03-19 16:30:00+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.5
@@ -363,44 +367,6 @@
       ]
     },
     {
-      "topic": "social_virality",
-      "topic_score": 10.65,
-      "attention_focus_score": 10.15,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
-      "sources": [
-        "bbc_top",
-        "npr_news"
-      ],
-      "platforms": [
-        "bbc",
-        "npr"
-      ],
-      "top_items": [
-        {
-          "source": "bbc_top",
-          "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
-          "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
-          "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
-          "published_at": "2026-03-19 15:33:22+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 4.8
-        },
-        {
-          "source": "npr_news",
-          "title": "Cursive is back. But should students be learning the skill?",
-          "url": "https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy",
-          "summary": "A Virginia after-school cursive club went viral. More than two dozen states require cursive in their curriculums. Is it an effective learning tool or just nostalgia?",
-          "published_at": "2026-03-19 09:01:00+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 3.6
-        }
-      ]
-    },
-    {
       "topic": "music_charts",
       "topic_score": 10.23,
       "attention_focus_score": 9.73,
@@ -437,31 +403,47 @@
           "gravity_score": 2.9
         }
       ]
+    },
+    {
+      "topic": "social_virality",
+      "topic_score": 10.05,
+      "attention_focus_score": 9.55,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "bbc_top",
+        "npr_news"
+      ],
+      "platforms": [
+        "bbc",
+        "npr"
+      ],
+      "top_items": [
+        {
+          "source": "bbc_top",
+          "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+          "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+          "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
+          "published_at": "2026-03-19 15:33:22+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 4.2
+        },
+        {
+          "source": "npr_news",
+          "title": "Cursive is back. But should students be learning the skill?",
+          "url": "https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy",
+          "summary": "A Virginia after-school cursive club went viral. More than two dozen states require cursive in their curriculums. Is it an effective learning tool or just nostalgia?",
+          "published_at": "2026-03-19 09:01:00+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 3.6
+        }
+      ]
     }
   ],
   "market_suggestions": [
-    {
-      "topic": "politics",
-      "event": "Jeffries says Democrats will oppose rule governing spy powers bill",
-      "gravity_score": 7.5,
-      "priority_score": 17.5,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
     {
       "topic": "politics",
       "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
@@ -483,6 +465,28 @@
         "Will the vote happen before a specific procedural deadline?",
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "Jeffries says Democrats will oppose rule governing spy powers bill",
+      "gravity_score": 6.5,
+      "priority_score": 16.5,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -531,8 +535,8 @@
     {
       "topic": "everyday_economy",
       "event": "Gold and silver sell-off accelerates as inflation fears grip global markets",
-      "gravity_score": 7.8,
-      "priority_score": 13.8,
+      "gravity_score": 6.5,
+      "priority_score": 12.5,
       "source_platform": "cnbc",
       "source_label": "",
       "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
@@ -549,12 +553,12 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
+      "event": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
       "gravity_score": 6.5,
       "priority_score": 12.5,
       "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
+      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -564,9 +568,31 @@
       "debatable_angles": [
         "Will the US or allies conduct a military strike?",
         "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?"
+        "Will oil prices spike above a specific threshold?",
+        "Will crude oil close above/below a specific price within 14 days?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+      "gravity_score": 6.25,
+      "priority_score": 12.25,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "crypto",
@@ -589,24 +615,26 @@
       "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
-      "topic": "crypto",
-      "event": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
-      "gravity_score": 5.5,
+      "topic": "geopolitics",
+      "event": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
+      "gravity_score": 3.5,
       "priority_score": 9.5,
       "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+      "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
       "platforms_discussing": [
-        "cnbc",
+        "bbc",
         "coindesk",
+        "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will BTC close above/below a specific price level within 14 days?",
+        "Will institutional inflows (ETF) exceed a measurable threshold?",
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
       ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "social_virality",
@@ -627,12 +655,33 @@
     },
     {
       "topic": "crypto",
-      "event": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
+      "event": "Bitcoin holds $69,000 as gold tumbles, oil spikes, but analyst says stay on sidelines",
       "gravity_score": 5.0,
       "priority_score": 9.0,
-      "source_platform": "cnbc",
+      "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
+      "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will BTC close above/below a specific price level within 14 days?",
+        "Will institutional inflows (ETF) exceed a measurable threshold?",
+        "Will crude oil close above/below a specific price within 14 days?",
+        "Will OPEC announce production changes in response?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "crypto",
+      "event": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+      "gravity_score": 5.0,
+      "priority_score": 9.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
@@ -644,39 +693,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
-      "topic": "music_charts",
-      "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
-      "gravity_score": 8.8,
-      "priority_score": 8.8,
-      "source_platform": "TikTok",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "TikTok"
-      ],
-      "debatable_angles": [
-        "Will it debut at #1 on Billboard 200?",
-        "Will first-week streaming numbers exceed a specific threshold?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "beauty",
-      "event": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
-      "gravity_score": 8.7,
-      "priority_score": 8.7,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Will the trending product see measurable sales spike on Amazon/Ulta?"
-      ],
-      "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -696,11 +712,11 @@
         "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/"
       },
       {
-        "topic": "politics",
-        "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
+        "topic": "geopolitics",
+        "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
         "score": 6.25,
-        "source": "reddit_popculturechat",
-        "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/"
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
       },
       {
         "topic": "everyday_economy",
@@ -710,11 +726,11 @@
         "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/"
       },
       {
-        "topic": "politics",
-        "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
-        "score": 5.25,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/"
+        "topic": "everyday_economy",
+        "title": "Gas price soars 25% after strikes on Qatar hub",
+        "score": 5.53,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/"
       }
     ],
     "X": [
@@ -818,35 +834,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "ohio",
+        "title": "venus williams",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "trump pearl harbor",
+        "title": "high point vs wisconsin",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "midtjylland - nottingham forest",
+        "title": "hubert hurkacz",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "max",
+        "title": "raków częstochowa vs fiorentina",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "paul goldschmidt",
+        "title": "laura siegemund",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -856,25 +872,9 @@
       {
         "topic": "everyday_economy",
         "title": "[CNBC] Gold and silver sell-off accelerates as inflation fears grip global markets",
-        "score": 7.8,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Jeffries says Democrats will oppose rule governing spy powers bill",
-        "score": 7.5,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
         "score": 6.5,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
+        "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
         "source_label": "CNBC"
       },
       {
@@ -887,11 +887,27 @@
       },
       {
         "topic": "politics",
+        "title": "[The Hill] Jeffries says Democrats will oppose rule governing spy powers bill",
+        "score": 6.5,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "politics",
         "title": "[The Hill] Watch live: Q&A with The Hill’s editors",
         "score": 6.5,
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
         "source_label": "The Hill"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+        "score": 5.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+        "source_label": "CoinDesk"
       }
     ]
   }
