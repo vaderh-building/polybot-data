@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T16:21:48.889222+00:00",
+  "generated_at_utc": "2026-03-19T16:24:00.991827+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 194.21,
-      "attention_focus_score": 189.71,
-      "item_count": 49,
+      "topic_score": 191.02,
+      "attention_focus_score": 186.52,
+      "item_count": 48,
       "source_count": 10,
       "platform_count": 7,
       "sources": [
@@ -34,7 +34,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,281 upvotes · 💬 469 comments · r/politics",
+          "summary": "⬆ 4,303 upvotes · 💬 470 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -64,7 +64,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 1,256 upvotes · 💬 402 comments · r/politics",
+          "summary": "⬆ 1,297 upvotes · 💬 409 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -176,7 +176,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,048 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,051 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -186,7 +186,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 687 upvotes · 💬 90 comments · r/worldnews",
+          "summary": "⬆ 700 upvotes · 💬 90 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -216,7 +216,7 @@
           "source": "reddit_news",
           "title": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
           "url": "https://www.reddit.com/r/news/comments/1rxv7a3/brent_hits_116_and_europe_gas_prices_surge_after/",
-          "summary": "⬆ 514 upvotes · 💬 65 comments · r/news",
+          "summary": "⬆ 519 upvotes · 💬 65 comments · r/news",
           "published_at": "2026-03-19 08:54:25+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -226,9 +226,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 39.21,
-      "attention_focus_score": 37.21,
-      "item_count": 8,
+      "topic_score": 43.77,
+      "attention_focus_score": 41.77,
+      "item_count": 9,
       "source_count": 5,
       "platform_count": 4,
       "sources": [
@@ -249,7 +249,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 3,598 upvotes · 💬 701 comments · r/worldnews",
+          "summary": "⬆ 3,700 upvotes · 💬 713 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -261,6 +261,16 @@
           "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
           "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
           "published_at": "2026-03-19 16:16:05+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "thehill",
+          "title": "Japan, Europeans signal ‘readiness to contribute’ to efforts to keep Strait of Hormuz open",
+          "url": "https://thehill.com/policy/international/5791762-leaders-commit-global-energy-stability/",
+          "summary": "The leaders of Japan and several European nations condemned recent Iranian attacks in the Gulf states, which have effectively closed the Strait of Hormuz, a major oil trading channel. “We express our readiness to contribute to appropriate efforts to ensure safe passage through the Strait,” the leaders wrote in a Thursday letter. “We welcome the&#8230;",
+          "published_at": "2026-03-19 16:16:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.5
@@ -279,39 +289,27 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 656 upvotes · 💬 224 comments · r/politics",
+          "summary": "⬆ 656 upvotes · 💬 225 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.25
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
-          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
-          "summary": "Nearly $600M in deep out-of-the-money puts highlights tail-risk positioning, though flows point more to volatility strategies than to outright bearish bets.",
-          "published_at": "2026-03-19 14:34:51+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.0
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 18.03,
-      "attention_focus_score": 17.03,
-      "item_count": 6,
-      "source_count": 3,
-      "platform_count": 3,
+      "topic_score": 13.07,
+      "attention_focus_score": 12.57,
+      "item_count": 5,
+      "source_count": 2,
+      "platform_count": 2,
       "sources": [
         "bbc_world",
-        "npr_news",
         "thehill"
       ],
       "platforms": [
         "bbc",
-        "npr",
         "thehill"
       ],
       "top_items": [
@@ -323,7 +321,7 @@
           "published_at": "2026-03-19 14:23:57+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 3.38
+          "gravity_score": 2.7
         },
         {
           "source": "bbc_world",
@@ -331,16 +329,6 @@
           "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
           "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
           "published_at": "2026-03-18 17:54:14+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
-        },
-        {
-          "source": "npr_news",
-          "title": "This tax season, there's a new deduction for interest on car loans",
-          "url": "https://www.npr.org/2026/03/19/nx-s1-5749420/auto-loan-interest-tax-deduction",
-          "summary": "Taxpayers who purchased a new vehicle in 2025 may qualify for a new deduction on their taxes — even if they're not itemizing. But not everyone is eligible.",
-          "published_at": "2026-03-19 09:00:00+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.03
@@ -361,6 +349,16 @@
           "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
           "summary": "The International Atomic Energy Agency (IAEA) Director General, Rafael Mariano Grossi, said that he does not believe that Iran’s nuclear program can be eliminated solely by military action.&#160; “I would agree with that. Because this program is a very vast program. It’s a program that has been built throughout the years, decades of efforts, and&#8230;",
           "published_at": "2026-03-18 22:07:26+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.03
+        },
+        {
+          "source": "thehill",
+          "title": "Mark Cuban says Trump Rx saving people ‘a lot of money’ on some drugs",
+          "url": "https://thehill.com/policy/healthcare/5790314-mark-cuban-praises-trump-rx/",
+          "summary": "Billionaire enterpreneur Mark Cuban on Wednesday touted the federal government’s TrumpRx drug platform, saying the initiative is saving Americans money.&#160; “Everyone wants me to rip on TrumpRx,” Cuban wrote on the social platform X. “Reality is, it’s saving patients money on IVF and a few other drugs. A lot of money. IMO, anything that saves&#8230;",
+          "published_at": "2026-03-18 21:17:07+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.03
@@ -623,12 +621,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Smart sanctions can save Trump’s ‘peace through strength’ plan",
+      "event": "Japan, Europeans signal ‘readiness to contribute’ to efforts to keep Strait of Hormuz open",
       "gravity_score": 4.5,
       "priority_score": 10.5,
       "source_platform": "thehill",
       "source_label": "",
-      "url": "https://thehill.com/opinion/international/5790391-trump-eases-sanctions-russia/",
+      "url": "https://thehill.com/policy/international/5791762-leaders-commit-global-energy-stability/",
       "platforms_discussing": [
         "bbc",
         "coindesk",
@@ -636,8 +634,9 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will new sanctions be officially enacted by a specific date?",
-        "Will the sanctioned country's currency drop past a measurable threshold?"
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -834,35 +833,35 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "hbomax",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "bruce thornton",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "sanae takaichi",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "dameon pierce",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "paramount+",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "nebraska",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "directv",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "stone smartt",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "tycen anderson",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
