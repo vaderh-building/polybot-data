@@ -1,15 +1,14 @@
 {
-  "generated_at_utc": "2026-03-19T15:08:17.715501+00:00",
+  "generated_at_utc": "2026-03-19T15:10:29.831874+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 208.84,
-      "attention_focus_score": 204.34,
-      "item_count": 49,
-      "source_count": 10,
+      "topic_score": 204.62,
+      "attention_focus_score": 200.62,
+      "item_count": 48,
+      "source_count": 9,
       "platform_count": 7,
       "sources": [
-        "bbc_top",
         "bbc_world",
         "cnbc",
         "coindesk",
@@ -44,7 +43,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 16,316 upvotes · 💬 525 comments · r/politics",
+          "summary": "⬆ 16,309 upvotes · 💬 525 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -54,7 +53,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 3,507 upvotes · 💬 404 comments · r/politics",
+          "summary": "⬆ 3,538 upvotes · 💬 407 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -84,8 +83,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 100.16,
-      "attention_focus_score": 96.66,
+      "topic_score": 98.78,
+      "attention_focus_score": 95.28,
       "item_count": 16,
       "source_count": 8,
       "platform_count": 5,
@@ -111,7 +110,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 16,762 upvotes · 💬 352 comments · r/politics",
+          "summary": "⬆ 16,773 upvotes · 💬 352 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -121,7 +120,7 @@
           "source": "reddit_all",
           "title": "Rising gas prices",
           "url": "https://www.reddit.com/r/Unexpected/comments/1rxwcop/rising_gas_prices/",
-          "summary": "⬆ 9,315 upvotes · 💬 223 comments · r/all",
+          "summary": "⬆ 9,366 upvotes · 💬 223 comments · r/all",
           "published_at": "2026-03-19 10:03:58+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -229,8 +228,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 41.23,
-      "attention_focus_score": 38.73,
+      "topic_score": 40.22,
+      "attention_focus_score": 37.72,
       "item_count": 9,
       "source_count": 6,
       "platform_count": 4,
@@ -250,16 +249,6 @@
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
-          "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 714 upvotes · 💬 244 comments · r/worldnews",
-          "published_at": "2026-03-19 14:09:16+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
-        },
-        {
           "source": "coindesk",
           "title": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
           "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
@@ -268,6 +257,16 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.0
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+          "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
+          "summary": "⬆ 776 upvotes · 💬 260 comments · r/worldnews",
+          "published_at": "2026-03-19 14:09:16+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
         },
         {
           "source": "bbc_world",
@@ -283,7 +282,7 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 543 upvotes · 💬 204 comments · r/politics",
+          "summary": "⬆ 555 upvotes · 💬 205 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -293,7 +292,7 @@
           "source": "reddit_news",
           "title": "Qatar orders Iranian Embassy officials out of the country",
           "url": "https://www.reddit.com/r/news/comments/1rxicke/qatar_orders_iranian_embassy_officials_out_of_the/",
-          "summary": "⬆ 1,216 upvotes · 💬 50 comments · r/news",
+          "summary": "⬆ 1,215 upvotes · 💬 50 comments · r/news",
           "published_at": "2026-03-18 22:22:58+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -323,7 +322,7 @@
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 2,971 upvotes · 💬 123 comments · r/news",
+          "summary": "⬆ 2,970 upvotes · 💬 123 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -565,27 +564,6 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-      "gravity_score": 5.75,
-      "priority_score": 11.75,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will any NATO ally actually send warships within 30 days?",
-        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
-        "Will Iran follow through and restrict shipping in the strait?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
       "event": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
       "gravity_score": 5.0,
       "priority_score": 11.0,
@@ -623,6 +601,27 @@
         "Will the next CPI reading come in above/below consensus?"
       ],
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+      "gravity_score": 4.75,
+      "priority_score": 10.75,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
