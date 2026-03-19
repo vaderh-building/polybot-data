@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T04:12:02.377189+00:00",
+  "generated_at_utc": "2026-03-19T04:14:10.737889+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -30,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 14,784 upvotes · 💬 484 comments · r/politics",
+          "summary": "⬆ 14,787 upvotes · 💬 484 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,7 +40,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 8,167 upvotes · 💬 156 comments · r/worldnews",
+          "summary": "⬆ 8,179 upvotes · 💬 156 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -80,15 +80,14 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 74.04,
-      "attention_focus_score": 72.04,
+      "topic_score": 72.14,
+      "attention_focus_score": 70.64,
       "item_count": 11,
-      "source_count": 5,
+      "source_count": 4,
       "platform_count": 4,
       "sources": [
         "cnbc",
         "coindesk",
-        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -100,10 +99,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 10,890 upvotes · 💬 245 comments · r/all",
+          "summary": "⬆ 10,952 upvotes · 💬 246 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -113,7 +112,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 17,269 upvotes · 💬 955 comments · r/politics",
+          "summary": "⬆ 17,278 upvotes · 💬 956 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -123,11 +122,21 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 10,253 upvotes · 💬 370 comments · r/politics",
+          "summary": "⬆ 10,254 upvotes · 💬 370 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 8.78
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
+          "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
+          "summary": "⬆ 2,618 upvotes · 💬 527 comments · r/politics",
+          "published_at": "2026-03-18 19:31:03+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.17
         },
         {
           "source": "cnbc",
@@ -137,17 +146,7 @@
           "published_at": "2026-03-19 03:13:10+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 6.5
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
-          "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 2,607 upvotes · 💬 525 comments · r/politics",
-          "published_at": "2026-03-18 19:31:03+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.17
+          "gravity_score": 5.2
         }
       ]
     },
@@ -264,7 +263,7 @@
           "source": "reddit_news",
           "title": "Iran's intelligence minister Esmail Khatib killed in air strike.",
           "url": "https://www.reddit.com/r/news/comments/1rxore4/irans_intelligence_minister_esmail_khatib_killed/",
-          "summary": "⬆ 102 upvotes · 💬 18 comments · r/news",
+          "summary": "⬆ 100 upvotes · 💬 19 comments · r/news",
           "published_at": "2026-03-19 02:50:18+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -294,8 +293,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 27.25,
-      "attention_focus_score": 25.75,
+      "topic_score": 26.52,
+      "attention_focus_score": 25.02,
       "item_count": 8,
       "source_count": 4,
       "platform_count": 3,
@@ -342,21 +341,21 @@
           "gravity_score": 2.7
         },
         {
-          "source": "thehill",
-          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
-          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
-          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
-          "published_at": "2026-03-18 22:13:52+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.7
-        },
-        {
           "source": "bbc_world",
           "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
           "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
           "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
           "published_at": "2026-03-18 17:54:14+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.03
+        },
+        {
+          "source": "thehill",
+          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
+          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
+          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
+          "published_at": "2026-03-18 22:13:52+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.03
@@ -384,7 +383,7 @@
           "source": "reddit_popculturechat",
           "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 532 upvotes · 💬 63 comments · r/popculturechat",
+          "summary": "⬆ 533 upvotes · 💬 63 comments · r/popculturechat",
           "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -394,7 +393,7 @@
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 2,444 upvotes · 💬 107 comments · r/news",
+          "summary": "⬆ 2,449 upvotes · 💬 107 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -514,7 +513,7 @@
       "event": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
       "gravity_score": 9.43,
       "priority_score": 15.43,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
       "platforms_discussing": [
@@ -709,7 +708,7 @@
         "topic": "everyday_economy",
         "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
         "score": 9.43,
-        "source": "reddit_all",
+        "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/"
       },
       {
@@ -842,49 +841,41 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "rod strickland",
+        "title": "men’s march madness",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "clint capela",
+        "title": "luka dončić",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "weather heat wave",
+        "title": "austin reaves",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "jabari smith",
+        "title": "the comeback",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "lisa kudrow",
+        "title": "tabla liga mx",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
-      {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Bank of Japan keeps rates steady as expected, warns Iran war may push up inflation",
-        "score": 6.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html",
-        "source_label": "CNBC"
-      },
       {
         "topic": "crypto",
         "title": "[CoinDesk] Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
@@ -907,6 +898,14 @@
         "score": 5.4,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "[CNBC] Bank of Japan keeps rates steady as expected, warns Iran war may push up inflation",
+        "score": 5.2,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html",
         "source_label": "CNBC"
       },
       {
