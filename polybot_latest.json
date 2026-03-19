@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T16:15:17.870647+00:00",
+  "generated_at_utc": "2026-03-19T16:17:29.918825+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 194.74,
-      "attention_focus_score": 190.24,
+      "topic_score": 193.68,
+      "attention_focus_score": 189.18,
       "item_count": 49,
       "source_count": 10,
       "platform_count": 7,
@@ -34,7 +34,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,232 upvotes · 💬 464 comments · r/politics",
+          "summary": "⬆ 4,245 upvotes · 💬 465 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -51,16 +51,6 @@
           "gravity_score": 7.0
         },
         {
-          "source": "cnbc",
-          "title": "Trump's DHS pick Markwayne Mullin advances out of Senate committee after tough confirmation hearing",
-          "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
-          "summary": "President Donald Trump tapped Sen. Markwayne Mullin, R-Okla., earlier this month to replace Kristi Noem.",
-          "published_at": "2026-03-19 15:47:09+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
           "source": "thehill",
           "title": "Live updates: Japan’s Takaichi visits Trump, with energy, trade on agenda; Hegseth blasts Europe, media",
           "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
@@ -69,6 +59,16 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.0
+        },
+        {
+          "source": "cnbc",
+          "title": "Trump's DHS pick Markwayne Mullin advances out of Senate committee after tough confirmation hearing",
+          "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
+          "summary": "President Donald Trump tapped Sen. Markwayne Mullin, R-Okla., earlier this month to replace Kristi Noem.",
+          "published_at": "2026-03-19 15:47:09+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
         },
         {
           "source": "thehill",
@@ -84,9 +84,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 78.41,
-      "attention_focus_score": 77.91,
-      "item_count": 17,
+      "topic_score": 86.84,
+      "attention_focus_score": 86.34,
+      "item_count": 18,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -98,6 +98,16 @@
         "coindesk"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+          "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+          "summary": "The exchange is expanding AI use across surveillance, compliance and trading as machines take over decision-making, leaving humans as the final checkpoint.",
+          "published_at": "2026-03-19 16:16:26+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 7.5
+        },
         {
           "source": "coindesk",
           "title": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
@@ -137,30 +147,19 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin slips below $70,000 as oil surge, Fed pause weigh on risk assets",
-          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-slips-to-usd70-000-as-oil-surge-fed-pause-weigh-on-risk-assets",
-          "summary": "BTC dipped below $70,000 as energy prices spiked and the Fed held interest rates, pressuring crypto and equities.",
-          "published_at": "2026-03-19 10:42:57+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 70.05,
-      "attention_focus_score": 67.05,
-      "item_count": 12,
-      "source_count": 7,
-      "platform_count": 5,
+      "topic_score": 64.42,
+      "attention_focus_score": 61.92,
+      "item_count": 11,
+      "source_count": 6,
+      "platform_count": 4,
       "sources": [
         "bbc_top",
         "cnbc",
-        "coindesk",
         "reddit_news",
         "reddit_politics",
         "reddit_worldnews",
@@ -169,7 +168,6 @@
       "platforms": [
         "bbc",
         "cnbc",
-        "coindesk",
         "reddit",
         "thehill"
       ],
@@ -178,7 +176,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,032 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,030 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -188,7 +186,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 662 upvotes · 💬 89 comments · r/worldnews",
+          "summary": "⬆ 666 upvotes · 💬 90 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -218,7 +216,7 @@
           "source": "reddit_news",
           "title": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
           "url": "https://www.reddit.com/r/news/comments/1rxv7a3/brent_hits_116_and_europe_gas_prices_surge_after/",
-          "summary": "⬆ 512 upvotes · 💬 65 comments · r/news",
+          "summary": "⬆ 517 upvotes · 💬 65 comments · r/news",
           "published_at": "2026-03-19 08:54:25+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -228,8 +226,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 35.67,
-      "attention_focus_score": 33.67,
+      "topic_score": 38.2,
+      "attention_focus_score": 36.2,
       "item_count": 8,
       "source_count": 5,
       "platform_count": 4,
@@ -251,11 +249,21 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 3,363 upvotes · 💬 664 comments · r/worldnews",
+          "summary": "⬆ 3,439 upvotes · 💬 675 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.25
+        },
+        {
+          "source": "bbc_world",
+          "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+          "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
+          "published_at": "2026-03-19 16:16:05+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
         },
         {
           "source": "thehill",
@@ -271,7 +279,7 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 646 upvotes · 💬 224 comments · r/politics",
+          "summary": "⬆ 648 upvotes · 💬 224 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -286,16 +294,6 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.0
-        },
-        {
-          "source": "thehill",
-          "title": "Bessent says US may lift sanctions on Iranian oil stuck at sea",
-          "url": "https://thehill.com/homenews/administration/5791639-bessent-oil-sanctions-lift-iran-conflict/",
-          "summary": "Treasury Secretary Scott Bessent said early Thursday that the U.S. may lift sanctions on Iranian oil that is already in transit amid rising energy prices resulting from the ongoing U.S. military operation in the Middle East. Bessent told Fox News’s Maria Bartiromo that about 140 million barrels of oil would be freed up by this&#8230;",
-          "published_at": "2026-03-19 15:24:20+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
         }
       ]
     },
@@ -498,12 +496,12 @@
     },
     {
       "topic": "politics",
-      "event": "Trump's DHS pick Markwayne Mullin advances out of Senate committee after tough confirmation hearing",
+      "event": "Live updates: Japan’s Takaichi visits Trump, with energy, trade on agenda; Hegseth blasts Europe, media",
       "gravity_score": 6.0,
       "priority_score": 18.0,
-      "source_platform": "cnbc",
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
+      "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -514,8 +512,9 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -523,14 +522,13 @@
       "topic": "everyday_economy",
       "event": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
       "gravity_score": 8.78,
-      "priority_score": 16.78,
+      "priority_score": 14.78,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
-        "coindesk",
         "reddit",
         "thehill"
       ],
@@ -543,43 +541,19 @@
       "topic": "everyday_economy",
       "event": "Gas price soars 25% after strikes on Qatar hub",
       "gravity_score": 5.53,
-      "priority_score": 13.53,
+      "priority_score": 11.53,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
-        "coindesk",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
         "Will the strike last more than 14 days?",
         "Will a deal be reached before a specific deadline?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-      "gravity_score": 5.2,
-      "priority_score": 13.2,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will crude oil close above/below a specific price within 14 days?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -605,6 +579,49 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "everyday_economy",
+      "event": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+      "gravity_score": 5.2,
+      "priority_score": 11.2,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will crude oil close above/below a specific price within 14 days?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+      "gravity_score": 4.5,
+      "priority_score": 10.5,
+      "source_platform": "bbc_world",
+      "source_label": "",
+      "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
       "topic": "geopolitics",
       "event": "Smart sanctions can save Trump’s ‘peace through strength’ plan",
       "gravity_score": 4.5,
@@ -625,26 +642,23 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "geopolitics",
-      "event": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy f…",
-      "gravity_score": 4.25,
-      "priority_score": 10.25,
-      "source_platform": "reddit_politics",
+      "topic": "crypto",
+      "event": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+      "gravity_score": 7.5,
+      "priority_score": 9.5,
+      "source_platform": "coindesk",
       "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
+      "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
       "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
+        "cnbc",
+        "coindesk"
       ],
       "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the strike last more than 14 days?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "social_virality",
@@ -679,22 +693,6 @@
         "Will first-week streaming numbers exceed a specific threshold?"
       ],
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "beauty",
-      "event": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
-      "gravity_score": 8.7,
-      "priority_score": 8.7,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Will the trending product see measurable sales spike on Amazon/Ulta?"
-      ],
-      "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -872,6 +870,14 @@
     ],
     "Major News Headlines": [
       {
+        "topic": "crypto",
+        "title": "[CoinDesk] As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+        "score": 7.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+        "source_label": "CoinDesk"
+      },
+      {
         "topic": "politics",
         "title": "[The Hill] Watch live: Q&A with The Hill’s editors",
         "score": 7.0,
@@ -894,14 +900,6 @@
         "source": "bbc_top",
         "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
         "source_label": "BBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[CNBC] Trump's DHS pick Markwayne Mullin advances out of Senate committee after tough confirmation hearing",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
-        "source_label": "CNBC"
       },
       {
         "topic": "politics",
