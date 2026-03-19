@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T15:57:55.761552+00:00",
+  "generated_at_utc": "2026-03-19T16:00:06.927983+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 205.65,
-      "attention_focus_score": 201.15,
+      "topic_score": 207.25,
+      "attention_focus_score": 202.75,
       "item_count": 50,
       "source_count": 10,
       "platform_count": 7,
@@ -34,11 +34,21 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 16,352 upvotes · 💬 527 comments · r/politics",
+          "summary": "⬆ 16,347 upvotes · 💬 527 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 8.25
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
+          "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
+          "summary": "⬆ 4,093 upvotes · 💬 459 comments · r/politics",
+          "published_at": "2026-03-19 08:06:03+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 7.25
         },
         {
           "source": "thehill",
@@ -49,16 +59,6 @@
           "topic": "politics",
           "keyword_hits": 4,
           "gravity_score": 7.0
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
-          "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,070 upvotes · 💬 458 comments · r/politics",
-          "published_at": "2026-03-19 08:06:03+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.25
         },
         {
           "source": "cnbc",
@@ -72,20 +72,20 @@
         },
         {
           "source": "thehill",
-          "title": "Stratton would ‘absolutely support’ abolishing filibuster in Senate",
-          "url": "https://thehill.com/homenews/campaign/5791666-stratton-supports-ending-filibuster/",
-          "summary": "Illinois Lt. Gov. Juliana Stratton (D) said Wednesday she would “absolutely support” ending the filibuster in the Senate after winning the Democratic nomination to replace longtime Sen. Dick Durbin (D-Ill.). The filibuster allows unlimited debate and frequently requires a 60-vote majority, known as cloture, to end the delay, rather than a simple 51-vote majority to&#8230;",
-          "published_at": "2026-03-19 15:26:35+00:00",
+          "title": "Live updates: Japan’s Takaichi visits Trump, with energy, trade on agenda; Hegseth blasts Europe, media",
+          "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
+          "summary": "President Trump on Thursday welcomed Japanese Prime Minister Sanae Takaichi to the White House for a day of meetings. Just ahead of the visit, Japan joined several European nations in saying they may be willing to help with a reopening of the Strait of Hormuz. Defense Secretary Pete Hegseth started a press briefing Thursday on&#8230;",
+          "published_at": "2026-03-19 15:59:35+00:00",
           "topic": "politics",
           "keyword_hits": 2,
-          "gravity_score": 5.0
+          "gravity_score": 6.0
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 81.78,
-      "attention_focus_score": 81.28,
+      "topic_score": 80.66,
+      "attention_focus_score": 80.16,
       "item_count": 17,
       "source_count": 2,
       "platform_count": 2,
@@ -109,16 +109,6 @@
           "gravity_score": 7.5
         },
         {
-          "source": "coindesk",
-          "title": "Crypto for Advisors: Bitcoin’s price discovery",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
-          "summary": "Bitcoin’s price discovery is increasingly driven by derivatives positioning and institutional synthetics rather than spot demand, signaling a structural shift in how crypto markets move.",
-          "published_at": "2026-03-19 15:00:00+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 6.5
-        },
-        {
           "source": "cnbc",
           "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
           "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
@@ -127,6 +117,16 @@
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Crypto for Advisors: Bitcoin’s price discovery",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
+          "summary": "Bitcoin’s price discovery is increasingly driven by derivatives positioning and institutional synthetics rather than spot demand, signaling a structural shift in how crypto markets move.",
+          "published_at": "2026-03-19 15:00:00+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.5
         },
         {
           "source": "coindesk",
@@ -152,9 +152,9 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 76.92,
-      "attention_focus_score": 73.92,
-      "item_count": 13,
+      "topic_score": 74.17,
+      "attention_focus_score": 71.17,
+      "item_count": 12,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -178,7 +178,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 16,976 upvotes · 💬 358 comments · r/politics",
+          "summary": "⬆ 16,982 upvotes · 💬 358 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -198,7 +198,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 116 upvotes · 💬 34 comments · r/news",
+          "summary": "⬆ 123 upvotes · 💬 36 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -208,7 +208,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 576 upvotes · 💬 80 comments · r/worldnews",
+          "summary": "⬆ 592 upvotes · 💬 85 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -228,9 +228,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 33.64,
-      "attention_focus_score": 31.64,
-      "item_count": 8,
+      "topic_score": 31.62,
+      "attention_focus_score": 29.62,
+      "item_count": 7,
       "source_count": 5,
       "platform_count": 4,
       "sources": [
@@ -251,7 +251,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 2,681 upvotes · 💬 555 comments · r/worldnews",
+          "summary": "⬆ 2,766 upvotes · 💬 570 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -261,7 +261,7 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 623 upvotes · 💬 220 comments · r/politics",
+          "summary": "⬆ 626 upvotes · 💬 221 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -449,6 +449,31 @@
   "market_suggestions": [
     {
       "topic": "politics",
+      "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
+      "gravity_score": 7.25,
+      "priority_score": 19.25,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?",
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "Watch live: Q&A with The Hill’s Editors",
       "gravity_score": 7.0,
       "priority_score": 19.0,
@@ -468,31 +493,6 @@
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
-      "gravity_score": 6.25,
-      "priority_score": 18.25,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?",
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -714,7 +714,7 @@
       {
         "topic": "politics",
         "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
-        "score": 6.25,
+        "score": 7.25,
         "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/"
       },
@@ -903,11 +903,11 @@
       },
       {
         "topic": "crypto",
-        "title": "[CoinDesk] Crypto for Advisors: Bitcoin’s price discovery",
-        "score": 6.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
-        "source_label": "CoinDesk"
+        "title": "[CNBC] Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
+        "source_label": "CNBC"
       }
     ]
   }
