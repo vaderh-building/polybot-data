@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T04:24:52.954677+00:00",
+  "generated_at_utc": "2026-03-19T04:26:59.365499+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 131.19,
-      "attention_focus_score": 128.19,
+      "topic_score": 130.66,
+      "attention_focus_score": 127.66,
       "item_count": 32,
       "source_count": 7,
       "platform_count": 6,
@@ -30,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 14,853 upvotes · 💬 485 comments · r/politics",
+          "summary": "⬆ 14,872 upvotes · 💬 485 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,7 +40,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 8,191 upvotes · 💬 156 comments · r/worldnews",
+          "summary": "⬆ 8,199 upvotes · 💬 156 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -80,15 +80,14 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 72.64,
+      "topic_score": 72.14,
       "attention_focus_score": 70.64,
       "item_count": 11,
-      "source_count": 5,
+      "source_count": 4,
       "platform_count": 4,
       "sources": [
         "cnbc",
         "coindesk",
-        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -100,10 +99,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 11,219 upvotes · 💬 255 comments · r/all",
+          "summary": "⬆ 11,262 upvotes · 💬 255 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -113,7 +112,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 17,288 upvotes · 💬 958 comments · r/politics",
+          "summary": "⬆ 17,294 upvotes · 💬 959 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -123,7 +122,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 10,277 upvotes · 💬 370 comments · r/politics",
+          "summary": "⬆ 10,284 upvotes · 💬 370 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -133,7 +132,7 @@
           "source": "reddit_politics",
           "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
           "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 2,640 upvotes · 💬 531 comments · r/politics",
+          "summary": "⬆ 2,643 upvotes · 💬 531 comments · r/politics",
           "published_at": "2026-03-18 19:31:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -317,7 +316,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 4,038 upvotes · 💬 490 comments · r/worldnews",
+          "summary": "⬆ 4,047 upvotes · 💬 490 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -327,7 +326,7 @@
           "source": "reddit_news",
           "title": "Qatar orders Iranian Embassy officials out of the country",
           "url": "https://www.reddit.com/r/news/comments/1rxicke/qatar_orders_iranian_embassy_officials_out_of_the/",
-          "summary": "⬆ 723 upvotes · 💬 29 comments · r/news",
+          "summary": "⬆ 718 upvotes · 💬 29 comments · r/news",
           "published_at": "2026-03-18 22:22:58+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -337,7 +336,7 @@
           "source": "reddit_news",
           "title": "Iran's intelligence minister Esmail Khatib killed in air strike.",
           "url": "https://www.reddit.com/r/news/comments/1rxore4/irans_intelligence_minister_esmail_khatib_killed/",
-          "summary": "⬆ 111 upvotes · 💬 21 comments · r/news",
+          "summary": "⬆ 111 upvotes · 💬 23 comments · r/news",
           "published_at": "2026-03-19 02:50:18+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -386,7 +385,7 @@
           "source": "reddit_popculturechat",
           "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 536 upvotes · 💬 63 comments · r/popculturechat",
+          "summary": "⬆ 535 upvotes · 💬 63 comments · r/popculturechat",
           "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -396,7 +395,7 @@
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 2,465 upvotes · 💬 109 comments · r/news",
+          "summary": "⬆ 2,466 upvotes · 💬 109 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -516,7 +515,7 @@
       "event": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
       "gravity_score": 9.43,
       "priority_score": 15.43,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
       "platforms_discussing": [
@@ -718,7 +717,7 @@
         "topic": "everyday_economy",
         "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
         "score": 9.43,
-        "source": "reddit_all",
+        "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/"
       },
       {
@@ -851,6 +850,13 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "lakers standings",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "charlie cox",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -873,13 +879,6 @@
       {
         "topic": "trending",
         "title": "austin reaves",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "western conference standings",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
