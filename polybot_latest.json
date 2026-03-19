@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T18:35:04.295544+00:00",
+  "generated_at_utc": "2026-03-19T18:37:11.989250+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 210.71,
-      "attention_focus_score": 207.21,
-      "item_count": 51,
+      "topic_score": 218.77,
+      "attention_focus_score": 215.27,
+      "item_count": 52,
       "source_count": 8,
       "platform_count": 6,
       "sources": [
@@ -38,10 +38,20 @@
           "gravity_score": 9.0
         },
         {
+          "source": "thehill",
+          "title": "White House seeks to circumvent Schumer on potential DHS funding deal",
+          "url": "https://thehill.com/homenews/senate/5792250-dhs-funding-centrist-democrats-schumer/",
+          "summary": "White House border czar Tom Homan met with a group of centrist Democrats at the Capitol Thursday, circumventing Senate Democratic Leaders Chuck Schumer (N.Y.), who didn’t attend the meeting, in hopes of reaching a deal to reopen the Department of Homeland Security. Homan met for more than an hour with centrist Democrats who broke with&#8230;",
+          "published_at": "2026-03-19 18:27:15+00:00",
+          "topic": "politics",
+          "keyword_hits": 3,
+          "gravity_score": 7.5
+        },
+        {
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,136 upvotes · 💬 538 comments · r/politics",
+          "summary": "⬆ 5,135 upvotes · 💬 539 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -61,21 +71,11 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 3,838 upvotes · 💬 820 comments · r/politics",
+          "summary": "⬆ 3,860 upvotes · 💬 824 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.25
-        },
-        {
-          "source": "thehill",
-          "title": "Trump: ‘I’m not putting troops anywhere’",
-          "url": "https://thehill.com/policy/defense/5792202-trump-no-troops-iran/",
-          "summary": "President Trump on Thursday denied he would deploy additional U.S. troops to aid in his war in Iran, telling reporters he’s not putting forces “anywhere.” “No, I’m not putting troops anywhere,” Trump said at the White House when asked whether he intends to send more service members to the Middle East. “If I were, I&#8230;",
-          "published_at": "2026-03-19 18:11:39+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.0
         }
       ]
     },
@@ -175,7 +175,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,380 upvotes · 💬 362 comments · r/politics",
+          "summary": "⬆ 17,384 upvotes · 💬 362 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -195,7 +195,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,282 upvotes · 💬 126 comments · r/worldnews",
+          "summary": "⬆ 1,285 upvotes · 💬 127 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -205,7 +205,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 1,069 upvotes · 💬 23 comments · r/politics",
+          "summary": "⬆ 1,089 upvotes · 💬 23 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -215,7 +215,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 401 upvotes · 💬 75 comments · r/news",
+          "summary": "⬆ 400 upvotes · 💬 75 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -225,8 +225,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 33.9,
-      "attention_focus_score": 32.4,
+      "topic_score": 32.38,
+      "attention_focus_score": 30.88,
       "item_count": 9,
       "source_count": 4,
       "platform_count": 4,
@@ -247,7 +247,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 7,123 upvotes · 💬 1,193 comments · r/worldnews",
+          "summary": "⬆ 7,165 upvotes · 💬 1,199 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -261,7 +261,7 @@
           "published_at": "2026-03-19 18:06:37+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 4.5
+          "gravity_score": 3.5
         },
         {
           "source": "coindesk",
@@ -274,21 +274,21 @@
           "gravity_score": 3.5
         },
         {
-          "source": "thehill",
-          "title": "Live updates: Trump says he expects ‘Japan to step up’ on Hormuz; Hegseth blasts Europe, media",
-          "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
-          "summary": "President Trump on Thursday welcomed Japanese Prime Minister Sanae Takaichi to the White House for a day of meetings. Just ahead of the visit, Japan joined several European nations in saying they may be willing to help with a reopening of the Strait of Hormuz. While taking media questions, Trump said Japan should help. “I&#8230;",
-          "published_at": "2026-03-19 16:36:26+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 2.5
-        },
-        {
           "source": "bbc_world",
           "title": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
           "url": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
           "summary": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
           "published_at": "2026-03-19 14:57:22+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 2.0
+        },
+        {
+          "source": "thehill",
+          "title": "Live updates: Trump says he expects ‘Japan to step up’ on Hormuz; Hegseth blasts Europe, media",
+          "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
+          "summary": "President Trump on Thursday welcomed Japanese Prime Minister Sanae Takaichi to the White House for a day of meetings. Just ahead of the visit, Japan joined several European nations in saying they may be willing to help with a reopening of the Strait of Hormuz. While taking media questions, Trump said Japan should help. “I&#8230;",
+          "published_at": "2026-03-19 16:36:26+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.0
@@ -368,44 +368,6 @@
       ]
     },
     {
-      "topic": "music_charts",
-      "topic_score": 10.23,
-      "attention_focus_score": 9.73,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
-      "sources": [
-        "bbc_top",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "bbc_top",
-          "title": "Afroman wins legal battle over songs mocking US police",
-          "url": "https://www.bbc.com/news/articles/cq57557d6p6o?at_medium=RSS&at_campaign=rss",
-          "summary": "The rapper was sued after releasing an entire album ridiculing the officers who raided his home.",
-          "published_at": "2026-03-19 12:36:47+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 5.08
-        },
-        {
-          "source": "thehill",
-          "title": "Grammy-winner Afroman wins lawsuit over mocking police raid",
-          "url": "https://thehill.com/blogs/in-the-know/5791346-grammy-winner-afroman-defamation-suit-victory-ohio-raid/",
-          "summary": "Grammy award-winning rapper Afroman on Wednesday won a defamation lawsuit filed against him by seven Ohio sheriff’s deputies who raided his home in 2022. The artist, born Joseph Foreman, used his home surveillance footage of the raid to produce music videos that showed their face and likeness.&#160; The Adams County deputies said they were publicly&#8230;",
-          "published_at": "2026-03-19 14:06:59+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 2.9
-        }
-      ]
-    },
-    {
       "topic": "social_virality",
       "topic_score": 10.05,
       "attention_focus_score": 9.55,
@@ -442,6 +404,44 @@
           "gravity_score": 3.6
         }
       ]
+    },
+    {
+      "topic": "music_charts",
+      "topic_score": 9.5,
+      "attention_focus_score": 9.0,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "bbc_top",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "bbc_top",
+          "title": "Afroman wins legal battle over songs mocking US police",
+          "url": "https://www.bbc.com/news/articles/cq57557d6p6o?at_medium=RSS&at_campaign=rss",
+          "summary": "The rapper was sued after releasing an entire album ridiculing the officers who raided his home.",
+          "published_at": "2026-03-19 12:36:47+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 4.35
+        },
+        {
+          "source": "thehill",
+          "title": "Grammy-winner Afroman wins lawsuit over mocking police raid",
+          "url": "https://thehill.com/blogs/in-the-know/5791346-grammy-winner-afroman-defamation-suit-victory-ohio-raid/",
+          "summary": "Grammy award-winning rapper Afroman on Wednesday won a defamation lawsuit filed against him by seven Ohio sheriff’s deputies who raided his home in 2022. The artist, born Joseph Foreman, used his home surveillance footage of the raid to produce music videos that showed their face and likeness.&#160; The Adams County deputies said they were publicly&#8230;",
+          "published_at": "2026-03-19 14:06:59+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 2.9
+        }
+      ]
     }
   ],
   "market_suggestions": [
@@ -471,6 +471,28 @@
     },
     {
       "topic": "politics",
+      "event": "White House seeks to circumvent Schumer on potential DHS funding deal",
+      "gravity_score": 7.5,
+      "priority_score": 17.5,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/homenews/senate/5792250-dhs-funding-centrist-democrats-schumer/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
       "gravity_score": 7.25,
       "priority_score": 17.25,
@@ -490,29 +512,6 @@
         "Will the vote happen before a specific procedural deadline?",
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Watch: Q&A with The Hill’s editors",
-      "gravity_score": 6.5,
-      "priority_score": 16.5,
-      "source_platform": "thehill",
-      "source_label": "",
-      "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -598,27 +597,6 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "geopolitics",
-      "event": "Iran conflict looms large over Trump's meeting with Japan PM",
-      "gravity_score": 4.5,
-      "priority_score": 10.5,
-      "source_platform": "bbc_world",
-      "source_label": "",
-      "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
       "topic": "crypto",
       "event": "Market maker IMC Trading hires Alex Casimo as chief commercial officer for its crypto business",
       "gravity_score": 6.0,
@@ -637,6 +615,27 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Iran conflict looms large over Trump's meeting with Japan PM",
+      "gravity_score": 3.5,
+      "priority_score": 9.5,
+      "source_platform": "bbc_world",
+      "source_label": "",
+      "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
@@ -882,6 +881,14 @@
       },
       {
         "topic": "politics",
+        "title": "[The Hill] White House seeks to circumvent Schumer on potential DHS funding deal",
+        "score": 7.5,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/senate/5792250-dhs-funding-centrist-democrats-schumer/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "politics",
         "title": "[The Hill] Watch: Q&A with The Hill’s editors",
         "score": 6.5,
         "source": "thehill",
@@ -902,14 +909,6 @@
         "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/policy/defense/5792202-trump-no-troops-iran/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[The Hill] GOP Senate candidate on rising gas prices: ‘Maybe you take one less trip to Starbucks’",
-        "score": 5.85,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/state-watch/5792145-michele-tafoya-senate-candidate-gas-prices-iran-war/",
         "source_label": "The Hill"
       }
     ]
