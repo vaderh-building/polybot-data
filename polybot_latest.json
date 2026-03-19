@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T18:32:53.805607+00:00",
+  "generated_at_utc": "2026-03-19T18:35:04.295544+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -41,7 +41,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,126 upvotes · 💬 537 comments · r/politics",
+          "summary": "⬆ 5,136 upvotes · 💬 538 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -61,7 +61,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 3,813 upvotes · 💬 819 comments · r/politics",
+          "summary": "⬆ 3,838 upvotes · 💬 820 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -81,9 +81,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 83.33,
-      "attention_focus_score": 82.33,
-      "item_count": 20,
+      "topic_score": 89.83,
+      "attention_focus_score": 88.83,
+      "item_count": 21,
       "source_count": 3,
       "platform_count": 3,
       "sources": [
@@ -97,6 +97,16 @@
         "thehill"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Market maker IMC Trading hires Alex Casimo as chief commercial officer for its crypto business",
+          "url": "https://www.coindesk.com/business/2026/03/19/market-maker-imc-trading-hires-alex-casimo-as-chief-commercial-officer-for-its-crypto-business",
+          "summary": "Casimo will be responsible for growing the Dutch market maker's institutional crypto offering.",
+          "published_at": "2026-03-19 18:34:40+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
         {
           "source": "coindesk",
           "title": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
@@ -136,16 +146,6 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin slips below $70,000 as oil surge, Fed pause weigh on risk assets",
-          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-slips-to-usd70-000-as-oil-surge-fed-pause-weigh-on-risk-assets",
-          "summary": "BTC dipped below $70,000 as energy prices spiked and the Fed held interest rates, pressuring crypto and equities.",
-          "published_at": "2026-03-19 10:42:57+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
@@ -175,7 +175,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,377 upvotes · 💬 362 comments · r/politics",
+          "summary": "⬆ 17,380 upvotes · 💬 362 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -195,7 +195,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,280 upvotes · 💬 126 comments · r/worldnews",
+          "summary": "⬆ 1,282 upvotes · 💬 126 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -205,7 +205,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 1,048 upvotes · 💬 23 comments · r/politics",
+          "summary": "⬆ 1,069 upvotes · 💬 23 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -215,7 +215,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 394 upvotes · 💬 73 comments · r/news",
+          "summary": "⬆ 401 upvotes · 💬 75 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -247,7 +247,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 7,078 upvotes · 💬 1,191 comments · r/worldnews",
+          "summary": "⬆ 7,123 upvotes · 💬 1,193 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -619,6 +619,26 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "crypto",
+      "event": "Market maker IMC Trading hires Alex Casimo as chief commercial officer for its crypto business",
+      "gravity_score": 6.0,
+      "priority_score": 10.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/business/2026/03/19/market-maker-imc-trading-hires-alex-casimo-as-chief-commercial-officer-for-its-crypto-business",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
       "topic": "geopolitics",
       "event": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
       "gravity_score": 3.5,
@@ -665,26 +685,6 @@
       "source_platform": "coindesk",
       "source_label": "",
       "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
-      "topic": "crypto",
-      "event": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
-      "gravity_score": 5.0,
-      "priority_score": 9.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
@@ -837,6 +837,20 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "gta 6",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "ohio state basketball coach",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "aj brown",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -852,20 +866,6 @@
       {
         "topic": "trending",
         "title": "lyon fc",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "the boys season 5",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "alix earle",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -889,6 +889,14 @@
         "source_label": "The Hill"
       },
       {
+        "topic": "crypto",
+        "title": "[CoinDesk] Market maker IMC Trading hires Alex Casimo as chief commercial officer for its crypto business",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/19/market-maker-imc-trading-hires-alex-casimo-as-chief-commercial-officer-for-its-crypto-business",
+        "source_label": "CoinDesk"
+      },
+      {
         "topic": "politics",
         "title": "[The Hill] Trump: ‘I’m not putting troops anywhere’",
         "score": 6.0,
@@ -902,14 +910,6 @@
         "score": 5.85,
         "source": "thehill",
         "url": "https://thehill.com/homenews/state-watch/5792145-michele-tafoya-senate-candidate-gas-prices-iran-war/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Jeffries says Democrats will oppose rule governing spy powers bill",
-        "score": 5.5,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
         "source_label": "The Hill"
       }
     ]
