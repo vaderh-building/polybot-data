@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T16:02:16.952679+00:00",
+  "generated_at_utc": "2026-03-19T16:04:27.203462+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 207.25,
-      "attention_focus_score": 202.75,
+      "topic_score": 206.71,
+      "attention_focus_score": 202.21,
       "item_count": 50,
       "source_count": 10,
       "platform_count": 7,
@@ -34,7 +34,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 16,342 upvotes · 💬 527 comments · r/politics",
+          "summary": "⬆ 16,353 upvotes · 💬 527 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -44,7 +44,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,124 upvotes · 💬 451 comments · r/politics",
+          "summary": "⬆ 4,143 upvotes · 💬 454 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -152,8 +152,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 74.17,
-      "attention_focus_score": 71.17,
+      "topic_score": 72.79,
+      "attention_focus_score": 69.79,
       "item_count": 12,
       "source_count": 7,
       "platform_count": 5,
@@ -178,27 +178,17 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 16,991 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 16,996 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 8.78
         },
         {
-          "source": "cnbc",
-          "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-          "summary": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
-          "published_at": "2026-03-19 15:03:55+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.5
-        },
-        {
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 129 upvotes · 💬 38 comments · r/news",
+          "summary": "⬆ 136 upvotes · 💬 39 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -208,11 +198,21 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 598 upvotes · 💬 86 comments · r/worldnews",
+          "summary": "⬆ 610 upvotes · 💬 87 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.53
+        },
+        {
+          "source": "cnbc",
+          "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+          "summary": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
+          "published_at": "2026-03-19 15:03:55+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.2
         },
         {
           "source": "cnbc",
@@ -228,9 +228,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 31.62,
-      "attention_focus_score": 29.62,
-      "item_count": 7,
+      "topic_score": 36.17,
+      "attention_focus_score": 34.17,
+      "item_count": 8,
       "source_count": 5,
       "platform_count": 4,
       "sources": [
@@ -251,17 +251,27 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 2,850 upvotes · 💬 583 comments · r/worldnews",
+          "summary": "⬆ 2,918 upvotes · 💬 597 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 5.75
         },
         {
+          "source": "thehill",
+          "title": "Smart sanctions can save Trump’s ‘peace through strength’ plan",
+          "url": "https://thehill.com/opinion/international/5790391-trump-eases-sanctions-russia/",
+          "summary": "The Trump administration has eased oil-related sanctions on some countries in response to the sharp increase in oil prices, but this decision is dangerous for U.S. interests and must be accompanied by a strong rebuke to Russia to ensure that the frozen Russian assets are quickly moved to Ukraine and that the U.S. is ready to work with its G7 partners and the European Union to sustain Ukraine's economy.",
+          "published_at": "2026-03-19 16:00:00+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
+        },
+        {
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 622 upvotes · 💬 221 comments · r/politics",
+          "summary": "⬆ 633 upvotes · 💬 221 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -286,16 +296,6 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.5
-        },
-        {
-          "source": "bbc_world",
-          "title": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
-          "url": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
-          "summary": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
-          "published_at": "2026-03-19 14:57:22+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 2.5
         }
       ]
     },
@@ -371,8 +371,8 @@
     },
     {
       "topic": "social_virality",
-      "topic_score": 13.05,
-      "attention_focus_score": 12.55,
+      "topic_score": 11.85,
+      "attention_focus_score": 11.35,
       "item_count": 2,
       "source_count": 2,
       "platform_count": 2,
@@ -393,7 +393,7 @@
           "published_at": "2026-03-19 15:33:22+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
-          "gravity_score": 7.2
+          "gravity_score": 6.0
         },
         {
           "source": "npr_news",
@@ -518,12 +518,12 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-      "gravity_score": 6.5,
-      "priority_score": 14.5,
-      "source_platform": "cnbc",
+      "event": "Gas price soars over 20% after strikes on Qatar hub",
+      "gravity_score": 6.17,
+      "priority_score": 14.17,
+      "source_platform": "reddit_news",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+      "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -532,21 +532,19 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will crude oil close above/below a specific price within 14 days?"
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "everyday_economy",
-      "event": "Gas price soars over 20% after strikes on Qatar hub",
-      "gravity_score": 6.17,
-      "priority_score": 14.17,
-      "source_platform": "reddit_news",
+      "event": "Gas price soars 25% after strikes on Qatar hub",
+      "gravity_score": 5.53,
+      "priority_score": 13.53,
+      "source_platform": "reddit_worldnews",
       "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -583,6 +581,26 @@
     },
     {
       "topic": "geopolitics",
+      "event": "Smart sanctions can save Trump’s ‘peace through strength’ plan",
+      "gravity_score": 4.5,
+      "priority_score": 10.5,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/opinion/international/5790391-trump-eases-sanctions-russia/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will new sanctions be officially enacted by a specific date?",
+        "Will the sanctioned country's currency drop past a measurable threshold?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
       "event": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy f…",
       "gravity_score": 4.25,
       "priority_score": 10.25,
@@ -600,28 +618,6 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?",
         "Will oil prices spike above a specific threshold?",
         "Will the strike last more than 14 days?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
-      "gravity_score": 4.0,
-      "priority_score": 10.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?",
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -834,6 +830,20 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "stone smartt",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "tycen anderson",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "f35",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -841,7 +851,7 @@
       },
       {
         "topic": "trending",
-        "title": "alycia parks",
+        "title": "zizou bergs",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -849,20 +859,6 @@
       {
         "topic": "trending",
         "title": "haifa",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "youtube tv",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "bryce james",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -878,14 +874,6 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "social_virality",
-        "title": "[BBC] Facebook offering TikTok and YouTube creators $3,000 to post content",
-        "score": 7.2,
-        "source": "bbc_top",
-        "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
-      },
-      {
         "topic": "politics",
         "title": "[The Hill] Watch live: Q&A with The Hill’s Editors",
         "score": 7.0,
@@ -894,12 +882,12 @@
         "source_label": "The Hill"
       },
       {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-        "score": 6.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-        "source_label": "CNBC"
+        "topic": "social_virality",
+        "title": "[BBC] Facebook offering TikTok and YouTube creators $3,000 to post content",
+        "score": 6.0,
+        "source": "bbc_top",
+        "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
       },
       {
         "topic": "crypto",
@@ -907,6 +895,14 @@
         "score": 6.0,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Trump's DHS pick Markwayne Mullin advances out of Senate committee after tough confirmation hearing",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
         "source_label": "CNBC"
       }
     ]
