@@ -1,14 +1,15 @@
 {
-  "generated_at_utc": "2026-03-19T10:59:33.901464+00:00",
+  "generated_at_utc": "2026-03-19T13:48:05.268212+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 150.9,
-      "attention_focus_score": 147.4,
-      "item_count": 34,
-      "source_count": 8,
+      "topic_score": 183.6,
+      "attention_focus_score": 179.6,
+      "item_count": 42,
+      "source_count": 9,
       "platform_count": 7,
       "sources": [
+        "bbc_top",
         "bbc_world",
         "cnbc",
         "coindesk",
@@ -32,21 +33,31 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 15,931 upvotes · 💬 513 comments · r/politics",
+          "summary": "⬆ 16,225 upvotes · 💬 518 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 8.25
         },
         {
-          "source": "thehill",
-          "title": "House eyes clean FISA reauthorization vote that will be tricky",
-          "url": "https://thehill.com/homenews/house/5790605-fisa-section-702-reauthorization-house-gop/",
-          "summary": "House GOP leaders are aiming for a clean reauthorization of key provisions of the Foreign Intelligence Surveillance Act (FISA) next week, a vote that could be tricky given demands from conservative Republicans on reforms and on the unrelated SAVE America Act voting bill. Section 702 of FISA, which authorizes surveillance of foreign nationals outside the&#8230;",
-          "published_at": "2026-03-19 10:00:00+00:00",
+          "source": "reddit_politics",
+          "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
+          "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
+          "summary": "⬆ 2,009 upvotes · 💬 282 comments · r/politics",
+          "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 6.5
+          "keyword_hits": 2,
+          "gravity_score": 6.75
+        },
+        {
+          "source": "thehill",
+          "title": "Hegseth on $200B Iran war funding request: ‘It takes money to kill bad guys’",
+          "url": "https://thehill.com/policy/defense/5791278-heggeth-defends-pentagon-budget/",
+          "summary": "Defense Secretary Pete Hegseth defended the Pentagon’s $200 billion funding request, which was sent to the White House for the ongoing war against Iran, saying it “takes money to kill bad guys.” “I think that number could move. Obviously, it takes money to kill bad guys,” Hegseth told reporters during a Thursday morning briefing at&#8230;",
+          "published_at": "2026-03-19 13:25:32+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
         },
         {
           "source": "thehill",
@@ -59,33 +70,23 @@
           "gravity_score": 6.0
         },
         {
-          "source": "politico",
-          "title": "Political operatives with Trump ties raked in millions of dollars in commissions from DHS ad campaign",
-          "url": "https://www.politico.com/news/2026/03/19/dhs-ad-money-companies-00834791",
-          "summary": "The ads became a sore spot within the White House over Kristi Noem.",
-          "published_at": "2026-03-19 09:56:00+00:00",
+          "source": "cnbc",
+          "title": "Trump's DHS pick Markwayne Mullin to get Senate committee vote",
+          "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
+          "summary": "President Donald Trump tapped Sen. Markwayne Mullin, R-Okla., earlier this month to replace Kristi Noem.",
+          "published_at": "2026-03-19 12:10:57+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.5
-        },
-        {
-          "source": "npr_news",
-          "title": "Japan's prime minister visits the White House under shadow of Iran war",
-          "url": "https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house",
-          "summary": "Japan Prime Minister Sanae Takaichi will be the first U.S. ally to visit the White House since President Trump asked for help in sending ships to patrol the Strait of Hormuz.",
-          "published_at": "2026-03-19 10:24:19+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 114.29,
-      "attention_focus_score": 110.79,
-      "item_count": 16,
-      "source_count": 8,
+      "topic_score": 97.91,
+      "attention_focus_score": 93.91,
+      "item_count": 15,
+      "source_count": 9,
       "platform_count": 5,
       "sources": [
         "bbc_top",
@@ -95,6 +96,7 @@
         "reddit_all",
         "reddit_news",
         "reddit_politics",
+        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -107,19 +109,9 @@
       "top_items": [
         {
           "source": "reddit_politics",
-          "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-          "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 17,776 upvotes · 💬 969 comments · r/politics",
-          "published_at": "2026-03-18 13:23:30+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 8.78
-        },
-        {
-          "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 14,813 upvotes · 💬 327 comments · r/politics",
+          "summary": "⬆ 16,241 upvotes · 💬 345 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -129,7 +121,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 10,857 upvotes · 💬 386 comments · r/politics",
+          "summary": "⬆ 11,003 upvotes · 💬 392 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -139,18 +131,28 @@
           "source": "reddit_all",
           "title": "Rising gas prices",
           "url": "https://www.reddit.com/r/Unexpected/comments/1rxwcop/rising_gas_prices/",
-          "summary": "⬆ 2,146 upvotes · 💬 78 comments · r/all",
+          "summary": "⬆ 6,973 upvotes · 💬 185 comments · r/all",
           "published_at": "2026-03-19 10:03:58+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 8.78
+          "gravity_score": 8.12
         },
         {
           "source": "cnbc",
-          "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-          "summary": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
-          "published_at": "2026-03-19 10:46:50+00:00",
+          "title": "Gold and silver sell-off accelerates as inflation fears grip global markets",
+          "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
+          "summary": "The metals shed around 5% and 10%, respectively, while mining stocks and ETFs linked to gold and silver also fell.",
+          "published_at": "2026-03-19 13:25:33+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.8
+        },
+        {
+          "source": "cnbc",
+          "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+          "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+          "summary": "The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic forecasts.",
+          "published_at": "2026-03-19 13:32:05+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 7.8
@@ -159,9 +161,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 79.53,
-      "attention_focus_score": 79.03,
-      "item_count": 17,
+      "topic_score": 75.59,
+      "attention_focus_score": 75.09,
+      "item_count": 18,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -175,42 +177,22 @@
       "top_items": [
         {
           "source": "coindesk",
-          "title": "Bitcoin slips to $70,000 as oil surge, Fed pause weigh on risk assets",
+          "title": "Crypto.com cuts 12% of staff as it integrates AI across the business for efficiency",
+          "url": "https://www.coindesk.com/business/2026/03/19/crypto-com-cuts-12-of-staff-as-it-integrates-ai-into-internal-processes",
+          "summary": "The exchange laid off about 180 employees as it restructures and rolls out enterprise-wide AI to drive efficiencies.",
+          "published_at": "2026-03-19 11:44:37+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.0
+        },
+        {
+          "source": "coindesk",
+          "title": "Bitcoin slips below $70,000 as oil surge, Fed pause weigh on risk assets",
           "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-slips-to-usd70-000-as-oil-surge-fed-pause-weigh-on-risk-assets",
           "summary": "BTC dipped below $70,000 as energy prices spiked and the Fed held interest rates, pressuring crypto and equities.",
           "published_at": "2026-03-19 10:42:57+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 7.5
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin’s quantum threat is real, but far from an existential crisis, Galaxy says",
-          "url": "https://www.coindesk.com/tech/2026/03/19/bitcoin-s-quantum-threat-is-real-but-far-from-an-existential-crisis-galaxy-says",
-          "summary": "Developers are already working to address quantum risks, and investors shouldn’t mistake a long-term challenge for an immediate threat, according to Galaxy Digital’s head of research Alex Thorn.",
-          "published_at": "2026-03-19 10:30:00+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
-          "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
-          "summary": "Kraken's parent company filed a draft S-1 registration statement with the SEC in November regarding the proposed initial public offering of its common stock.",
-          "published_at": "2026-03-18 15:14:18+00:00",
-          "topic": "crypto",
-          "keyword_hits": 3,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin, unusually, outperforms gold as hawkish Fed, oil price fuel risk-off sentiment",
-          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-unusually-outperforms-gold-as-hawkish-fed-oil-price-fuel-risk-off-sentiment",
-          "summary": "Bitcoin fell 2% while gold and silver saw sharper declines as oil prices surged and the Fed flashed hawkish signals.",
-          "published_at": "2026-03-19 10:28:15+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
           "gravity_score": 5.0
         },
         {
@@ -221,83 +203,64 @@
           "published_at": "2026-03-19 07:19:10+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 5.0
-        }
-      ]
-    },
-    {
-      "topic": "social_virality",
-      "topic_score": 23.77,
-      "attention_focus_score": 22.77,
-      "item_count": 3,
-      "source_count": 3,
-      "platform_count": 3,
-      "sources": [
-        "npr_news",
-        "reddit_all",
-        "thehill"
-      ],
-      "platforms": [
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_all",
-          "title": "Game dev Cakez77 (Indie dev) and his wife react after finding out his game that he worked on for 4 years, earned $250,000 after going viral.",
-          "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1rxt9sz/game_dev_cakez77_indie_dev_and_his_wife_react/",
-          "summary": "⬆ 17,176 upvotes · 💬 403 comments · r/all",
-          "published_at": "2026-03-19 06:50:18+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 10.5
+          "gravity_score": 4.5
         },
         {
-          "source": "npr_news",
-          "title": "Cursive is back. But should students be learning the skill?",
-          "url": "https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy",
-          "summary": "A Virginia after-school cursive club went viral. More than two dozen states require cursive in their curriculums. Is it an effective learning tool or just nostalgia?",
-          "published_at": "2026-03-19 09:01:00+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 4.8
+          "source": "coindesk",
+          "title": "Crypto Long & Short: When price stops working, yield starts mattering",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-long-and-short-when-price-stops-working-yield-starts-mattering",
+          "summary": "In this week’s Crypto Long & Short Newsletter, Ruchir Gupta writes on how we’re moving toward a true fixed-income market for crypto-native yield. Then, Clara García Prieto on bitcoin becoming mainstream collateral, but most are not prepared for its risks.",
+          "published_at": "2026-03-18 16:17:13+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         },
         {
-          "source": "thehill",
-          "title": "Trump’s $10 billion TikTok ‘brokerage fee’ is just the tip of the iceberg",
-          "url": "https://thehill.com/opinion/white-house/5787721-trump-equity-stakes-companies/",
-          "summary": "Not only is this pay-to-play arrangement with the federal government unprecedented; it also smacks of possible corruption.",
-          "published_at": "2026-03-18 14:30:00+00:00",
-          "topic": "social_virality",
+          "source": "coindesk",
+          "title": "Coinbase faces a multibillion-dollar threat from D.C. but a 'rewards' loophole could protect its stablecoin revenue",
+          "url": "https://www.coindesk.com/policy/2026/03/19/coinbase-faces-a-multibillion-dollar-threat-from-d-c-but-a-rewards-loophole-could-protect-its-stablecoin-revenue",
+          "summary": "The proposed rules could ban yield on stablecoins like USDC, though analysts say the exchange may adapt.",
+          "published_at": "2026-03-19 12:00:00+00:00",
+          "topic": "crypto",
           "keyword_hits": 1,
-          "gravity_score": 3.6
+          "gravity_score": 4.0
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 20.25,
-      "attention_focus_score": 19.25,
-      "item_count": 4,
-      "source_count": 3,
+      "topic_score": 23.61,
+      "attention_focus_score": 22.11,
+      "item_count": 6,
+      "source_count": 4,
       "platform_count": 3,
       "sources": [
-        "cnbc",
+        "bbc_world",
         "reddit_news",
+        "reddit_politics",
         "thehill"
       ],
       "platforms": [
-        "cnbc",
+        "bbc",
         "reddit",
         "thehill"
       ],
       "top_items": [
         {
+          "source": "reddit_politics",
+          "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
+          "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
+          "summary": "⬆ 314 upvotes · 💬 159 comments · r/politics",
+          "published_at": "2026-03-19 10:46:50+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.25
+        },
+        {
           "source": "reddit_news",
           "title": "Qatar orders Iranian Embassy officials out of the country",
           "url": "https://www.reddit.com/r/news/comments/1rxicke/qatar_orders_iranian_embassy_officials_out_of_the/",
-          "summary": "⬆ 1,041 upvotes · 💬 43 comments · r/news",
+          "summary": "⬆ 1,188 upvotes · 💬 48 comments · r/news",
           "published_at": "2026-03-18 22:22:58+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -307,7 +270,7 @@
           "source": "reddit_news",
           "title": "Iran's intelligence minister Esmail Khatib killed in air strike.",
           "url": "https://www.reddit.com/r/news/comments/1rxore4/irans_intelligence_minister_esmail_khatib_killed/",
-          "summary": "⬆ 371 upvotes · 💬 72 comments · r/news",
+          "summary": "⬆ 510 upvotes · 💬 81 comments · r/news",
           "published_at": "2026-03-19 02:50:18+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -315,30 +278,30 @@
         },
         {
           "source": "thehill",
-          "title": "Trump weighs risky bet on Kharg Island in ‘game of chicken’ with Iran",
-          "url": "https://thehill.com/policy/defense/5790680-kharg-island-iran-trump-risk/",
-          "summary": "President Trump is weighing a seizure of Iran’s critical oil depot on Kharg Island in a bid to force Tehran’s hand and open the Strait of Hormuz.&#160; Such a move, which would require U.S. boots on the ground to capture the strategic terminal, would mark a major turning point in a war in which Trump&#8230;",
-          "published_at": "2026-03-19 10:00:00+00:00",
+          "title": "Congress can boost US trade and strike a blow to Iran with Azerbaijan’s help",
+          "url": "https://thehill.com/opinion/international/5789417-azerbaijan-us-partnership-repeal-907/",
+          "summary": "Closer U.S.-Azerbaijan relations would weaken Iranian and Russian positions in the region.",
+          "published_at": "2026-03-19 12:30:00+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 3.5
+          "gravity_score": 2.5
         },
         {
-          "source": "cnbc",
-          "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
-          "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
-          "summary": "Israel's Defense Forces said Wednesday that Iran's intelligence minister, Esmail Khatib, had been killed in a \"targeted strike\" in Tehran.",
-          "published_at": "2026-03-18 16:16:09+00:00",
+          "source": "bbc_world",
+          "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+          "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
+          "published_at": "2026-03-19 10:30:42+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 3.0
+          "gravity_score": 2.0
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 18.03,
-      "attention_focus_score": 17.03,
+      "topic_score": 17.35,
+      "attention_focus_score": 16.35,
       "item_count": 6,
       "source_count": 3,
       "platform_count": 3,
@@ -361,7 +324,7 @@
           "published_at": "2026-03-19 09:00:00+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 3.38
+          "gravity_score": 2.7
         },
         {
           "source": "bbc_world",
@@ -406,39 +369,78 @@
       ]
     },
     {
-      "topic": "music_charts",
-      "topic_score": 15.73,
-      "attention_focus_score": 15.23,
+      "topic": "social_virality",
+      "topic_score": 16.75,
+      "attention_focus_score": 16.25,
       "item_count": 2,
       "source_count": 2,
-      "platform_count": 1,
+      "platform_count": 2,
       "sources": [
-        "reddit_news",
-        "reddit_popculturechat"
+        "npr_news",
+        "reddit_all"
       ],
       "platforms": [
+        "npr",
         "reddit"
       ],
       "top_items": [
         {
-          "source": "reddit_popculturechat",
-          "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 621 upvotes · 💬 73 comments · r/popculturechat",
-          "published_at": "2026-03-18 16:24:04+00:00",
-          "topic": "music_charts",
+          "source": "reddit_all",
+          "title": "Game dev Cakez77 (Indie dev) and his wife react after finding out his game that he worked on for 4 years, earned $250,000 after going viral.",
+          "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1rxt9sz/game_dev_cakez77_indie_dev_and_his_wife_react/",
+          "summary": "⬆ 30,558 upvotes · 💬 626 comments · r/all",
+          "published_at": "2026-03-19 06:50:18+00:00",
+          "topic": "social_virality",
           "keyword_hits": 1,
-          "gravity_score": 7.61
+          "gravity_score": 9.9
         },
+        {
+          "source": "npr_news",
+          "title": "Cursive is back. But should students be learning the skill?",
+          "url": "https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy",
+          "summary": "A Virginia after-school cursive club went viral. More than two dozen states require cursive in their curriculums. Is it an effective learning tool or just nostalgia?",
+          "published_at": "2026-03-19 09:01:00+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 4.2
+        }
+      ]
+    },
+    {
+      "topic": "music_charts",
+      "topic_score": 15.3,
+      "attention_focus_score": 14.8,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "bbc_top",
+        "reddit_news"
+      ],
+      "platforms": [
+        "bbc",
+        "reddit"
+      ],
+      "top_items": [
         {
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 2,754 upvotes · 💬 119 comments · r/news",
+          "summary": "⬆ 2,939 upvotes · 💬 123 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
           "gravity_score": 6.89
+        },
+        {
+          "source": "bbc_top",
+          "title": "Afroman wins legal battle over songs mocking US police",
+          "url": "https://www.bbc.com/news/articles/cq57557d6p6o?at_medium=RSS&at_campaign=rss",
+          "summary": "The rapper was sued after releasing an entire album ridiculing the officers who raided his home.",
+          "published_at": "2026-03-19 12:36:47+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 5.8
         }
       ]
     }
@@ -446,12 +448,12 @@
   "market_suggestions": [
     {
       "topic": "politics",
-      "event": "House eyes clean FISA reauthorization vote that will be tricky",
-      "gravity_score": 6.5,
-      "priority_score": 18.5,
-      "source_platform": "thehill",
+      "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
+      "gravity_score": 6.75,
+      "priority_score": 18.75,
+      "source_platform": "reddit_politics",
       "source_label": "",
-      "url": "https://thehill.com/homenews/house/5790605-fisa-section-702-reauthorization-house-gop/",
+      "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -462,6 +464,8 @@
         "thehill"
       ],
       "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?",
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
       ],
@@ -469,12 +473,12 @@
     },
     {
       "topic": "politics",
-      "event": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
+      "event": "Hegseth on $200B Iran war funding request: ‘It takes money to kill bad guys’",
       "gravity_score": 6.0,
       "priority_score": 18.0,
       "source_platform": "thehill",
       "source_label": "",
-      "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+      "url": "https://thehill.com/policy/defense/5791278-heggeth-defends-pentagon-budget/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -485,32 +489,11 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-      "gravity_score": 8.78,
-      "priority_score": 16.78,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "everyday_economy",
@@ -554,43 +537,43 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
+      "topic": "everyday_economy",
+      "event": "Rising gas prices",
+      "gravity_score": 8.12,
+      "priority_score": 16.12,
+      "source_platform": "reddit_all",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/Unexpected/comments/1rxwcop/rising_gas_prices/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
       "topic": "social_virality",
       "event": "Game dev Cakez77 (Indie dev) and his wife react after finding out his game that he worked on for 4 years, earned $250,000 after going viral.",
-      "gravity_score": 10.5,
-      "priority_score": 14.5,
-      "source_platform": "reddit_all",
+      "gravity_score": 9.9,
+      "priority_score": 9.9,
+      "source_platform": "Reddit",
       "source_label": "",
       "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1rxt9sz/game_dev_cakez77_indie_dev_and_his_wife_react/",
       "platforms_discussing": [
-        "npr",
-        "reddit",
-        "thehill"
+        "Reddit"
       ],
       "debatable_angles": [
         "Will this trend sustain in Google Trends US Top 10 for 7+ days?",
         "Will it cross a specific view/engagement count milestone?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "crypto",
-      "event": "Bitcoin slips to $70,000 as oil surge, Fed pause weigh on risk assets",
-      "gravity_score": 7.5,
-      "priority_score": 9.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-slips-to-usd70-000-as-oil-surge-fed-pause-weigh-on-risk-assets",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?",
-        "Will crude oil close above/below a specific price within 14 days?",
-        "Will OPEC announce production changes in response?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     },
     {
       "topic": "social_virality",
@@ -606,26 +589,6 @@
       "debatable_angles": [
         "Will the predicted frontrunner actually win?",
         "Will viewership exceed last year's numbers?"
-      ],
-      "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "social_virality",
-      "event": "Cursive is back. But should students be learning the skill?",
-      "gravity_score": 4.8,
-      "priority_score": 8.8,
-      "source_platform": "npr_news",
-      "source_label": "",
-      "url": "https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy",
-      "platforms_discussing": [
-        "npr",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
     },
@@ -647,24 +610,6 @@
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Rising gas prices",
-      "gravity_score": 8.78,
-      "priority_score": 8.78,
-      "source_platform": "Reddit",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/Unexpected/comments/1rxwcop/rising_gas_prices/",
-      "platforms_discussing": [
-        "Reddit"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
       "topic": "beauty",
       "event": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
       "gravity_score": 8.7,
@@ -679,6 +624,61 @@
         "Will the trending product see measurable sales spike on Amazon/Ulta?"
       ],
       "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Trump threatens 500% tariffs on Russia if no Ukraine deal within 50 days",
+      "gravity_score": 8.5,
+      "priority_score": 8.5,
+      "source_platform": "X",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "X"
+      ],
+      "debatable_angles": [
+        "Will tariffs actually be imposed by the stated deadline?",
+        "Will the target country retaliate with counter-tariffs within 30 days?",
+        "Will a specific trade metric (imports/exports volume) shift measurably?",
+        "Will a formal peace deal or ceasefire be signed within the stated timeframe?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "social_virality",
+      "event": "Nicki Minaj \"Want Some More\" freeze-frame reveal format sweeps fashion and lifestyle creators",
+      "gravity_score": 8.3,
+      "priority_score": 8.3,
+      "source_platform": "TikTok",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "TikTok"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "fashion",
+      "event": "\"Mori girl\" aesthetic revival surging — linen layers, cottagecore accessories trending among Gen Z",
+      "gravity_score": 8.3,
+      "priority_score": 8.3,
+      "source_platform": "Xiaohongshu",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "Xiaohongshu"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Fashion industry reports / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -686,16 +686,9 @@
       {
         "topic": "social_virality",
         "title": "Game dev Cakez77 (Indie dev) and his wife react after finding out his game that he worked on for 4 years, earned $250,000 after going viral.",
-        "score": 10.5,
+        "score": 9.9,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1rxt9sz/game_dev_cakez77_indie_dev_and_his_wife_react/"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-        "score": 8.78,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
       },
       {
         "topic": "everyday_economy",
@@ -712,9 +705,16 @@
         "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
       },
       {
+        "topic": "politics",
+        "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
+        "score": 8.25,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/"
+      },
+      {
         "topic": "everyday_economy",
         "title": "Rising gas prices",
-        "score": 8.78,
+        "score": 8.12,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/Unexpected/comments/1rxwcop/rising_gas_prices/"
       }
@@ -820,35 +820,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "kevin hart wax statue",
+        "title": "mcneese basketball",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "who is banksy",
+        "title": "slv stock",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "phil mickelson",
+        "title": "acn stock",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "louisiana lottery",
+        "title": "stock market news",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "nhl playoff standings",
+        "title": "tsa wait times airports",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -857,43 +857,43 @@
     "Major News Headlines": [
       {
         "topic": "everyday_economy",
-        "title": "[CNBC] Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-        "score": 7.8,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Gold and silver sell off as inflation fears grip global markets",
+        "title": "[CNBC] Gold and silver sell-off accelerates as inflation fears grip global markets",
         "score": 7.8,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
         "source_label": "CNBC"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] Bitcoin slips to $70,000 as oil surge, Fed pause weigh on risk assets",
-        "score": 7.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-slips-to-usd70-000-as-oil-surge-fed-pause-weigh-on-risk-assets",
-        "source_label": "CoinDesk"
+        "topic": "everyday_economy",
+        "title": "[CNBC] European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+        "score": 7.8,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "everyday_economy",
+        "title": "[CNBC] Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+        "score": 6.5,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+        "source_label": "CNBC"
       },
       {
         "topic": "politics",
-        "title": "[The Hill] House eyes clean FISA reauthorization vote that will be tricky",
-        "score": 6.5,
+        "title": "[The Hill] Hegseth on $200B Iran war funding request: ‘It takes money to kill bad guys’",
+        "score": 6.0,
         "source": "thehill",
-        "url": "https://thehill.com/homenews/house/5790605-fisa-section-702-reauthorization-house-gop/",
+        "url": "https://thehill.com/policy/defense/5791278-heggeth-defends-pentagon-budget/",
         "source_label": "The Hill"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] Bitcoin’s quantum threat is real, but far from an existential crisis, Galaxy says",
+        "topic": "politics",
+        "title": "[The Hill] Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
         "score": 6.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/tech/2026/03/19/bitcoin-s-quantum-threat-is-real-but-far-from-an-existential-crisis-galaxy-says",
-        "source_label": "CoinDesk"
+        "source": "thehill",
+        "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+        "source_label": "The Hill"
       }
     ]
   }
