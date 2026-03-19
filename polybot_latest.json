@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T17:00:53.550122+00:00",
+  "generated_at_utc": "2026-03-19T17:03:03.798211+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 181.41,
-      "attention_focus_score": 177.91,
+      "topic_score": 179.26,
+      "attention_focus_score": 175.76,
       "item_count": 46,
       "source_count": 8,
       "platform_count": 6,
@@ -31,7 +31,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,582 upvotes · 💬 497 comments · r/politics",
+          "summary": "⬆ 4,595 upvotes · 💬 498 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -51,7 +51,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 2,208 upvotes · 💬 558 comments · r/politics",
+          "summary": "⬆ 2,258 upvotes · 💬 566 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -81,8 +81,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 93.59,
-      "attention_focus_score": 93.09,
+      "topic_score": 92.47,
+      "attention_focus_score": 91.97,
       "item_count": 19,
       "source_count": 2,
       "platform_count": 2,
@@ -104,16 +104,6 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 6.5
-        },
-        {
-          "source": "cnbc",
-          "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
-          "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
-          "summary": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI.",
-          "published_at": "2026-03-19 16:32:42+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
         },
         {
           "source": "coindesk",
@@ -144,13 +134,23 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 5.5
+        },
+        {
+          "source": "cnbc",
+          "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
+          "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
+          "summary": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI.",
+          "published_at": "2026-03-19 16:32:42+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 73.5,
-      "attention_focus_score": 71.0,
+      "topic_score": 77.0,
+      "attention_focus_score": 74.5,
       "item_count": 12,
       "source_count": 6,
       "platform_count": 4,
@@ -173,11 +173,21 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,176 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,170 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 8.78
+        },
+        {
+          "source": "cnbc",
+          "title": "Gold and silver sell-off accelerates as inflation fears grip global markets",
+          "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
+          "summary": "The metals shed around 5% and 10%, respectively, while mining stocks and ETFs linked to gold and silver also fell.",
+          "published_at": "2026-03-19 17:01:52+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.8
         },
         {
           "source": "cnbc",
@@ -203,21 +213,11 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 900 upvotes · 💬 99 comments · r/worldnews",
+          "summary": "⬆ 909 upvotes · 💬 100 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.53
-        },
-        {
-          "source": "reddit_news",
-          "title": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-          "url": "https://www.reddit.com/r/news/comments/1rxv7a3/brent_hits_116_and_europe_gas_prices_surge_after/",
-          "summary": "⬆ 535 upvotes · 💬 68 comments · r/news",
-          "published_at": "2026-03-19 08:54:25+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.88
         }
       ]
     },
@@ -246,7 +246,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 4,917 upvotes · 💬 910 comments · r/worldnews",
+          "summary": "⬆ 4,981 upvotes · 💬 918 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -266,7 +266,7 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 712 upvotes · 💬 233 comments · r/politics",
+          "summary": "⬆ 710 upvotes · 💬 233 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -532,6 +532,25 @@
     },
     {
       "topic": "everyday_economy",
+      "event": "Gold and silver sell-off accelerates as inflation fears grip global markets",
+      "gravity_score": 7.8,
+      "priority_score": 13.8,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
       "event": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
       "gravity_score": 7.8,
       "priority_score": 13.8,
@@ -549,27 +568,6 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?",
         "Will oil prices spike above a specific threshold?",
         "Will crude oil close above/below a specific price within 14 days?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
-      "gravity_score": 6.5,
-      "priority_score": 12.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -827,41 +825,49 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "where is troy university",
+        "title": "lyon vs celta vigo",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "chuck norris",
+        "title": "aek larnaca vs crystal palace",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "hulu live tv",
+        "title": "jill scott",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "hulu",
+        "title": "lyon - celta de vigo",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "adrian newey",
+        "title": "today wordle answers",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
+      {
+        "topic": "everyday_economy",
+        "title": "[CNBC] Gold and silver sell-off accelerates as inflation fears grip global markets",
+        "score": 7.8,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
+        "source_label": "CNBC"
+      },
       {
         "topic": "everyday_economy",
         "title": "[CNBC] Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
@@ -893,14 +899,6 @@
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
         "source_label": "The Hill"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CNBC] Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
-        "score": 6.0,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
-        "source_label": "CNBC"
       }
     ]
   }
