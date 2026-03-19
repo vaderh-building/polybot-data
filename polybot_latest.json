@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T23:41:15.706777+00:00",
+  "generated_at_utc": "2026-03-19T23:43:30.368138+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 184.4,
-      "attention_focus_score": 180.4,
-      "item_count": 42,
+      "topic_score": 181.74,
+      "attention_focus_score": 177.74,
+      "item_count": 41,
       "source_count": 9,
       "platform_count": 7,
       "sources": [
@@ -33,7 +33,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,608 upvotes · 💬 571 comments · r/politics",
+          "summary": "⬆ 5,610 upvotes · 💬 571 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -73,7 +73,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,105 upvotes · 💬 1,193 comments · r/politics",
+          "summary": "⬆ 6,112 upvotes · 💬 1,196 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -177,7 +177,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 3,466 upvotes · 💬 59 comments · r/politics",
+          "summary": "⬆ 3,477 upvotes · 💬 59 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -187,7 +187,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,598 upvotes · 💬 150 comments · r/worldnews",
+          "summary": "⬆ 1,605 upvotes · 💬 150 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -197,7 +197,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 658 upvotes · 💬 119 comments · r/news",
+          "summary": "⬆ 660 upvotes · 💬 119 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -227,9 +227,9 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 29.78,
-      "attention_focus_score": 28.28,
-      "item_count": 6,
+      "topic_score": 35.96,
+      "attention_focus_score": 34.46,
+      "item_count": 7,
       "source_count": 4,
       "platform_count": 3,
       "sources": [
@@ -248,11 +248,21 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 2,457 upvotes · 💬 479 comments · r/popculturechat",
+          "summary": "⬆ 2,482 upvotes · 💬 480 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 7.09
+        },
+        {
+          "source": "bbc_top",
+          "title": "Famous night for Forest in season to largely forget",
+          "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
+          "summary": "Nottingham Forest are fighting for Premier League survival but reaching the Europa League quarter-finals could provide hope in an otherwise torrid season.",
+          "published_at": "2026-03-19 23:35:46+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 6.08
         },
         {
           "source": "bbc_world",
@@ -268,7 +278,7 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 337 upvotes · 💬 35 comments · r/popculturechat",
+          "summary": "⬆ 334 upvotes · 💬 35 comments · r/popculturechat",
           "published_at": "2026-03-19 18:52:40+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -283,16 +293,6 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 3.38
-        },
-        {
-          "source": "bbc_world",
-          "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
-          "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
-          "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
-          "published_at": "2026-03-18 17:54:14+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
         }
       ]
     },
@@ -319,7 +319,7 @@
           "source": "reddit_all",
           "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
           "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
-          "summary": "⬆ 11,251 upvotes · 💬 1,357 comments · r/all",
+          "summary": "⬆ 11,259 upvotes · 💬 1,358 comments · r/all",
           "published_at": "2026-03-19 17:12:12+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -329,7 +329,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 10,381 upvotes · 💬 1,469 comments · r/worldnews",
+          "summary": "⬆ 10,395 upvotes · 💬 1,470 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -620,6 +620,26 @@
     },
     {
       "topic": "reality_tv",
+      "event": "Famous night for Forest in season to largely forget",
+      "gravity_score": 6.08,
+      "priority_score": 10.08,
+      "source_platform": "bbc_top",
+      "source_label": "",
+      "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "reality_tv",
       "event": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
       "gravity_score": 5.4,
       "priority_score": 9.4,
@@ -654,26 +674,6 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "crypto",
-      "event": "Crypto markets – and the American people – deserve clarity",
-      "gravity_score": 5.0,
-      "priority_score": 9.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     }
   ],
   "platform_snapshots": {
@@ -815,6 +815,27 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "where is howard university",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "samford university",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "emelec - independiente del valle",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "howard university",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -823,27 +844,6 @@
       {
         "topic": "trending",
         "title": "tufts university",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "tolima - fortaleza",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "suns vs spurs",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "cavaliers vs bulls",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -867,6 +867,14 @@
         "source_label": "The Hill"
       },
       {
+        "topic": "reality_tv",
+        "title": "[BBC] Famous night for Forest in season to largely forget",
+        "score": 6.08,
+        "source": "bbc_top",
+        "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
+      },
+      {
         "topic": "politics",
         "title": "[The Hill] Watch: Q&A with The Hill’s editors",
         "score": 6.0,
@@ -881,14 +889,6 @@
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5792427-watch-live-donald-trump-sanae-takaichi-white-house-dinner-japan/",
         "source_label": "The Hill"
-      },
-      {
-        "topic": "reality_tv",
-        "title": "[BBC] Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-        "score": 5.4,
-        "source": "bbc_world",
-        "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
       }
     ]
   }
