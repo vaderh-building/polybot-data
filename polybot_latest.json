@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T16:28:21.386107+00:00",
+  "generated_at_utc": "2026-03-19T16:30:30.647022+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 190.48,
-      "attention_focus_score": 185.98,
+      "topic_score": 189.42,
+      "attention_focus_score": 184.92,
       "item_count": 48,
       "source_count": 10,
       "platform_count": 7,
@@ -34,7 +34,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,329 upvotes · 💬 475 comments · r/politics",
+          "summary": "⬆ 4,350 upvotes · 💬 478 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -51,20 +51,10 @@
           "gravity_score": 7.0
         },
         {
-          "source": "thehill",
-          "title": "Live updates: Japan’s Takaichi visits Trump, with energy, trade on agenda; Hegseth blasts Europe, media",
-          "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
-          "summary": "President Trump on Thursday welcomed Japanese Prime Minister Sanae Takaichi to the White House for a day of meetings. Just ahead of the visit, Japan joined several European nations in saying they may be willing to help with a reopening of the Strait of Hormuz. Defense Secretary Pete Hegseth started a press briefing Thursday on&#8230;",
-          "published_at": "2026-03-19 15:59:35+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.0
-        },
-        {
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 1,417 upvotes · 💬 425 comments · r/politics",
+          "summary": "⬆ 1,473 upvotes · 💬 435 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,13 +69,23 @@
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.0
+        },
+        {
+          "source": "thehill",
+          "title": "Live updates: Japan’s Takaichi visits Trump, with energy, trade on agenda; Hegseth blasts Europe, media",
+          "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
+          "summary": "President Trump on Thursday welcomed Japanese Prime Minister Sanae Takaichi to the White House for a day of meetings. Just ahead of the visit, Japan joined several European nations in saying they may be willing to help with a reopening of the Strait of Hormuz. Defense Secretary Pete Hegseth started a press briefing Thursday on&#8230;",
+          "published_at": "2026-03-19 15:59:35+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "crypto",
-      "topic_score": 86.28,
-      "attention_focus_score": 85.78,
+      "topic_score": 85.72,
+      "attention_focus_score": 85.22,
       "item_count": 18,
       "source_count": 2,
       "platform_count": 2,
@@ -152,8 +152,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 59.17,
-      "attention_focus_score": 56.67,
+      "topic_score": 58.48,
+      "attention_focus_score": 55.98,
       "item_count": 10,
       "source_count": 6,
       "platform_count": 4,
@@ -176,7 +176,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,059 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,075 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -186,7 +186,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 718 upvotes · 💬 91 comments · r/worldnews",
+          "summary": "⬆ 731 upvotes · 💬 91 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -206,7 +206,7 @@
           "source": "reddit_news",
           "title": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
           "url": "https://www.reddit.com/r/news/comments/1rxv7a3/brent_hits_116_and_europe_gas_prices_surge_after/",
-          "summary": "⬆ 524 upvotes · 💬 65 comments · r/news",
+          "summary": "⬆ 526 upvotes · 💬 65 comments · r/news",
           "published_at": "2026-03-19 08:54:25+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -216,7 +216,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 188 upvotes · 💬 44 comments · r/news",
+          "summary": "⬆ 195 upvotes · 💬 44 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -226,8 +226,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 42.75,
-      "attention_focus_score": 40.75,
+      "topic_score": 41.74,
+      "attention_focus_score": 39.74,
       "item_count": 9,
       "source_count": 5,
       "platform_count": 4,
@@ -249,7 +249,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 3,834 upvotes · 💬 738 comments · r/worldnews",
+          "summary": "⬆ 3,924 upvotes · 💬 757 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -276,24 +276,24 @@
           "gravity_score": 4.5
         },
         {
-          "source": "thehill",
-          "title": "Smart sanctions can save Trump’s ‘peace through strength’ plan",
-          "url": "https://thehill.com/opinion/international/5790391-trump-eases-sanctions-russia/",
-          "summary": "The Trump administration has eased oil-related sanctions on some countries in response to the sharp increase in oil prices, but this decision is dangerous for U.S. interests and must be accompanied by a strong rebuke to Russia to ensure that the frozen Russian assets are quickly moved to Ukraine and that the U.S. is ready to work with its G7 partners and the European Union to sustain Ukraine's economy.",
-          "published_at": "2026-03-19 16:00:00+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.5
-        },
-        {
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 659 upvotes · 💬 225 comments · r/politics",
+          "summary": "⬆ 665 upvotes · 💬 227 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.25
+        },
+        {
+          "source": "coindesk",
+          "title": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
+          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
+          "summary": "Nearly $600M in deep out-of-the-money puts highlights tail-risk positioning, though flows point more to volatility strategies than to outright bearish bets.",
+          "published_at": "2026-03-19 14:34:51+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
         }
       ]
     },
@@ -494,12 +494,12 @@
     },
     {
       "topic": "politics",
-      "event": "Live updates: Japan’s Takaichi visits Trump, with energy, trade on agenda; Hegseth blasts Europe, media",
-      "gravity_score": 6.0,
-      "priority_score": 18.0,
-      "source_platform": "thehill",
+      "event": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
+      "gravity_score": 5.75,
+      "priority_score": 17.75,
+      "source_platform": "reddit_politics",
       "source_label": "",
-      "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
+      "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -510,9 +510,8 @@
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -901,12 +900,12 @@
         "source_label": "BBC"
       },
       {
-        "topic": "politics",
-        "title": "[The Hill] Live updates: Japan’s Takaichi visits Trump, with energy, trade on agenda; Hegseth blasts Europe, media",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
-        "source_label": "The Hill"
+        "topic": "crypto",
+        "title": "[CoinDesk] Crypto for Advisors: Bitcoin’s price discovery",
+        "score": 5.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
+        "source_label": "CoinDesk"
       }
     ]
   }
