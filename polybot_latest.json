@@ -1,19 +1,18 @@
 {
-  "generated_at_utc": "2026-03-19T18:24:14.193034+00:00",
+  "generated_at_utc": "2026-03-19T18:26:27.915013+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 209.32,
-      "attention_focus_score": 205.32,
-      "item_count": 52,
-      "source_count": 9,
+      "topic_score": 212.86,
+      "attention_focus_score": 209.36,
+      "item_count": 51,
+      "source_count": 8,
       "platform_count": 6,
       "sources": [
         "bbc_world",
         "cnbc",
         "npr_news",
         "politico",
-        "reddit_news",
         "reddit_politics",
         "reddit_popculturechat",
         "reddit_worldnews",
@@ -29,10 +28,20 @@
       ],
       "top_items": [
         {
+          "source": "thehill",
+          "title": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
+          "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+          "summary": "Sen. Mike Lee (R-Utah) on Thursday afternoon will give remarks on the Safeguard American Voter Eligibility (SAVE) America Act as the Senate weighs the sweeping election reform bill that would require proof of citizenship to register to vote among other measures. Lee earlier this week suggested that his GOP colleagues who did not support forcing&#8230;",
+          "published_at": "2026-03-19 18:25:27+00:00",
+          "topic": "politics",
+          "keyword_hits": 4,
+          "gravity_score": 9.0
+        },
+        {
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,095 upvotes · 💬 536 comments · r/politics",
+          "summary": "⬆ 5,106 upvotes · 💬 536 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -52,7 +61,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 3,681 upvotes · 💬 800 comments · r/politics",
+          "summary": "⬆ 3,715 upvotes · 💬 803 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -67,16 +76,6 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.0
-        },
-        {
-          "source": "thehill",
-          "title": "Jeffries says Democrats will oppose rule governing spy powers bill",
-          "url": "https://thehill.com/homenews/house/5791950-hakeem-jeffries-democrats-fisa-702/",
-          "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Thursday that Democrats are lining up en masse against helping Republicans advance legislation to a final vote to extend the government’s warrantless surveillance powers. Jeffries acknowledged that the vote on the bill itself will divide Democrats, and he declined to say how he will vote himself.&#160; “But what&#8230;",
-          "published_at": "2026-03-19 17:01:17+00:00",
-          "topic": "politics",
-          "keyword_hits": 3,
-          "gravity_score": 5.5
         }
       ]
     },
@@ -152,8 +151,8 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 70.35,
-      "attention_focus_score": 67.85,
+      "topic_score": 68.96,
+      "attention_focus_score": 66.46,
       "item_count": 11,
       "source_count": 6,
       "platform_count": 4,
@@ -176,21 +175,11 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,358 upvotes · 💬 362 comments · r/politics",
+          "summary": "⬆ 17,372 upvotes · 💬 362 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 8.78
-        },
-        {
-          "source": "cnbc",
-          "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
-          "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
-          "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
-          "published_at": "2026-03-19 17:24:32+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.5
         },
         {
           "source": "thehill",
@@ -206,7 +195,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,256 upvotes · 💬 125 comments · r/worldnews",
+          "summary": "⬆ 1,261 upvotes · 💬 125 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -216,8 +205,18 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 979 upvotes · 💬 20 comments · r/politics",
+          "summary": "⬆ 995 upvotes · 💬 20 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.53
+        },
+        {
+          "source": "reddit_news",
+          "title": "Gas price soars over 20% after strikes on Qatar hub",
+          "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
+          "summary": "⬆ 389 upvotes · 💬 72 comments · r/news",
+          "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.53
@@ -248,7 +247,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 6,932 upvotes · 💬 1,170 comments · r/worldnews",
+          "summary": "⬆ 6,968 upvotes · 💬 1,173 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -448,6 +447,30 @@
   "market_suggestions": [
     {
       "topic": "politics",
+      "event": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
+      "gravity_score": 9.0,
+      "priority_score": 19.0,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?",
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
       "gravity_score": 7.25,
       "priority_score": 17.25,
@@ -494,28 +517,6 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "politics",
-      "event": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
-      "gravity_score": 6.25,
-      "priority_score": 16.25,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
       "topic": "everyday_economy",
       "event": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
       "gravity_score": 8.78,
@@ -556,27 +557,6 @@
       "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
-      "gravity_score": 6.5,
-      "priority_score": 12.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
       "topic": "geopolitics",
       "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
       "gravity_score": 6.25,
@@ -596,6 +576,26 @@
         "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Gas price soars 25% after strikes on Qatar hub",
+      "gravity_score": 5.53,
+      "priority_score": 11.53,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "geopolitics",
@@ -873,12 +873,12 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
-        "score": 6.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
-        "source_label": "CNBC"
+        "topic": "politics",
+        "title": "[The Hill] Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
+        "score": 9.0,
+        "source": "thehill",
+        "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+        "source_label": "The Hill"
       },
       {
         "topic": "politics",
