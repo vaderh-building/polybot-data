@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T04:05:39.727575+00:00",
+  "generated_at_utc": "2026-03-19T04:07:47.052624+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -30,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 14,750 upvotes · 💬 483 comments · r/politics",
+          "summary": "⬆ 14,768 upvotes · 💬 484 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,7 +40,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 8,151 upvotes · 💬 156 comments · r/worldnews",
+          "summary": "⬆ 8,152 upvotes · 💬 156 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -80,14 +80,15 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 73.54,
+      "topic_score": 74.04,
       "attention_focus_score": 72.04,
       "item_count": 11,
-      "source_count": 4,
+      "source_count": 5,
       "platform_count": 4,
       "sources": [
         "cnbc",
         "coindesk",
+        "reddit_all",
         "reddit_politics",
         "thehill"
       ],
@@ -99,10 +100,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 10,735 upvotes · 💬 238 comments · r/politics",
+          "summary": "⬆ 10,791 upvotes · 💬 241 comments · r/all",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -112,7 +113,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 17,254 upvotes · 💬 955 comments · r/politics",
+          "summary": "⬆ 17,265 upvotes · 💬 955 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -122,7 +123,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 10,234 upvotes · 💬 370 comments · r/politics",
+          "summary": "⬆ 10,235 upvotes · 💬 370 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -142,7 +143,7 @@
           "source": "reddit_politics",
           "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
           "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 2,595 upvotes · 💬 521 comments · r/politics",
+          "summary": "⬆ 2,599 upvotes · 💬 521 comments · r/politics",
           "published_at": "2026-03-18 19:31:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -220,9 +221,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 29.14,
-      "attention_focus_score": 27.14,
-      "item_count": 6,
+      "topic_score": 33.17,
+      "attention_focus_score": 31.17,
+      "item_count": 7,
       "source_count": 5,
       "platform_count": 4,
       "sources": [
@@ -243,7 +244,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 4,038 upvotes · 💬 487 comments · r/worldnews",
+          "summary": "⬆ 4,035 upvotes · 💬 487 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -253,11 +254,21 @@
           "source": "reddit_news",
           "title": "Qatar orders Iranian Embassy officials out of the country",
           "url": "https://www.reddit.com/r/news/comments/1rxicke/qatar_orders_iranian_embassy_officials_out_of_the/",
-          "summary": "⬆ 697 upvotes · 💬 28 comments · r/news",
+          "summary": "⬆ 705 upvotes · 💬 29 comments · r/news",
           "published_at": "2026-03-18 22:22:58+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.25
+        },
+        {
+          "source": "reddit_news",
+          "title": "Iran's intelligence minister Esmail Khatib killed in air strike.",
+          "url": "https://www.reddit.com/r/news/comments/1rxore4/irans_intelligence_minister_esmail_khatib_killed/",
+          "summary": "⬆ 96 upvotes · 💬 19 comments · r/news",
+          "published_at": "2026-03-19 02:50:18+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 3.75
         },
         {
           "source": "cnbc",
@@ -278,23 +289,13 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.0
-        },
-        {
-          "source": "bbc_world",
-          "title": "Oil crosses $110 a barrel after gas field strike",
-          "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-          "summary": "Iran's military warned it would take \"decisive action\" in response to the strike on its energy infrastructure.",
-          "published_at": "2026-03-19 01:35:37+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 2.0
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 27.98,
-      "attention_focus_score": 26.48,
+      "topic_score": 27.25,
+      "attention_focus_score": 25.75,
       "item_count": 8,
       "source_count": 4,
       "platform_count": 3,
@@ -351,14 +352,14 @@
           "gravity_score": 2.7
         },
         {
-          "source": "thehill",
-          "title": "IAEA chief skeptical Iran’s nuclear program can be eliminated with just military action",
-          "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
-          "summary": "The International Atomic Energy Agency (IAEA) Director General, Rafael Mariano Grossi, said that he does not believe that Iran’s nuclear program can be eliminated solely by military action.&#160; “I would agree with that. Because this program is a very vast program. It’s a program that has been built throughout the years, decades of efforts, and&#8230;",
-          "published_at": "2026-03-18 22:07:26+00:00",
+          "source": "bbc_world",
+          "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
+          "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
+          "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
+          "published_at": "2026-03-18 17:54:14+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 2.7
+          "gravity_score": 2.03
         }
       ]
     },
@@ -383,7 +384,7 @@
           "source": "reddit_popculturechat",
           "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 531 upvotes · 💬 63 comments · r/popculturechat",
+          "summary": "⬆ 530 upvotes · 💬 63 comments · r/popculturechat",
           "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -393,7 +394,7 @@
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 2,441 upvotes · 💬 107 comments · r/news",
+          "summary": "⬆ 2,450 upvotes · 💬 107 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -513,7 +514,7 @@
       "event": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
       "gravity_score": 9.43,
       "priority_score": 15.43,
-      "source_platform": "reddit_politics",
+      "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
       "platforms_discussing": [
@@ -611,6 +612,28 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "geopolitics",
+      "event": "Iran's intelligence minister Esmail Khatib killed in air strike.",
+      "gravity_score": 3.75,
+      "priority_score": 9.75,
+      "source_platform": "reddit_news",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/news/comments/1rxore4/irans_intelligence_minister_esmail_khatib_killed/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the strike last more than 14 days?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -626,27 +649,6 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
-      "gravity_score": 3.0,
-      "priority_score": 9.0,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "music_charts",
@@ -707,7 +709,7 @@
         "topic": "everyday_economy",
         "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
         "score": 9.43,
-        "source": "reddit_politics",
+        "source": "reddit_all",
         "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/"
       },
       {
