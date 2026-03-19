@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T16:43:36.135168+00:00",
+  "generated_at_utc": "2026-03-19T16:45:47.964221+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -31,7 +31,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,454 upvotes · 💬 487 comments · r/politics",
+          "summary": "⬆ 4,462 upvotes · 💬 488 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -51,7 +51,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 1,811 upvotes · 💬 492 comments · r/politics",
+          "summary": "⬆ 1,858 upvotes · 💬 495 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -81,8 +81,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 93.03,
-      "attention_focus_score": 92.53,
+      "topic_score": 91.91,
+      "attention_focus_score": 91.41,
       "item_count": 19,
       "source_count": 2,
       "platform_count": 2,
@@ -106,16 +106,6 @@
           "gravity_score": 7.5
         },
         {
-          "source": "coindesk",
-          "title": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
-          "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
-          "summary": "Security researchers said attackers are impersonating OpenClaw on GitHub, luring developers with bogus CLAW token giveaways that trick users into connecting their crypto wallets.",
-          "published_at": "2026-03-19 15:45:10+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 6.5
-        },
-        {
           "source": "cnbc",
           "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
           "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
@@ -134,6 +124,16 @@
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 6.0
+        },
+        {
+          "source": "coindesk",
+          "title": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+          "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+          "summary": "Security researchers said attackers are impersonating OpenClaw on GitHub, luring developers with bogus CLAW token giveaways that trick users into connecting their crypto wallets.",
+          "published_at": "2026-03-19 15:45:10+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 5.5
         },
         {
           "source": "coindesk",
@@ -173,7 +173,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,111 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,121 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -193,7 +193,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 792 upvotes · 💬 94 comments · r/worldnews",
+          "summary": "⬆ 811 upvotes · 💬 94 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -213,7 +213,7 @@
           "source": "reddit_news",
           "title": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
           "url": "https://www.reddit.com/r/news/comments/1rxv7a3/brent_hits_116_and_europe_gas_prices_surge_after/",
-          "summary": "⬆ 534 upvotes · 💬 67 comments · r/news",
+          "summary": "⬆ 530 upvotes · 💬 67 comments · r/news",
           "published_at": "2026-03-19 08:54:25+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -246,7 +246,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 4,377 upvotes · 💬 840 comments · r/worldnews",
+          "summary": "⬆ 4,434 upvotes · 💬 847 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -827,6 +827,20 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "chuck norris",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "hulu live tv",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "hulu",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -834,28 +848,14 @@
       },
       {
         "topic": "trending",
+        "title": "adrian newey",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "amare bynum",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "jonathan wheatley",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "bruce thornton",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "hbomax",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -888,19 +888,19 @@
       },
       {
         "topic": "crypto",
-        "title": "[CoinDesk] OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
-        "score": 6.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
-        "source_label": "CoinDesk"
-      },
-      {
-        "topic": "crypto",
         "title": "[CNBC] Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
         "score": 6.0,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Quadruple witching arrives tomorrow as markets brace for potential bitcoin volatility",
+        "score": 6.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/10/quadruple-witching-arrives-tomorrow-as-markets-brace-for-potential-bitcoin-volatility",
+        "source_label": "CoinDesk"
       }
     ]
   }
