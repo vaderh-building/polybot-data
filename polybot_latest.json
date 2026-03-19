@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T16:41:19.998186+00:00",
+  "generated_at_utc": "2026-03-19T16:43:36.135168+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 179.26,
-      "attention_focus_score": 175.76,
+      "topic_score": 178.72,
+      "attention_focus_score": 175.22,
       "item_count": 45,
       "source_count": 8,
       "platform_count": 6,
@@ -31,7 +31,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,436 upvotes · 💬 482 comments · r/politics",
+          "summary": "⬆ 4,454 upvotes · 💬 487 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -51,11 +51,11 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 1,743 upvotes · 💬 475 comments · r/politics",
+          "summary": "⬆ 1,811 upvotes · 💬 492 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
-          "gravity_score": 5.75
+          "gravity_score": 5.25
         },
         {
           "source": "cnbc",
@@ -81,8 +81,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 93.59,
-      "attention_focus_score": 93.09,
+      "topic_score": 93.03,
+      "attention_focus_score": 92.53,
       "item_count": 19,
       "source_count": 2,
       "platform_count": 2,
@@ -173,7 +173,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,118 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,111 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -193,7 +193,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 778 upvotes · 💬 93 comments · r/worldnews",
+          "summary": "⬆ 792 upvotes · 💬 94 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -213,7 +213,7 @@
           "source": "reddit_news",
           "title": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
           "url": "https://www.reddit.com/r/news/comments/1rxv7a3/brent_hits_116_and_europe_gas_prices_surge_after/",
-          "summary": "⬆ 530 upvotes · 💬 67 comments · r/news",
+          "summary": "⬆ 534 upvotes · 💬 67 comments · r/news",
           "published_at": "2026-03-19 08:54:25+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -246,7 +246,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 4,279 upvotes · 💬 823 comments · r/worldnews",
+          "summary": "⬆ 4,377 upvotes · 💬 840 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -492,8 +492,8 @@
     {
       "topic": "politics",
       "event": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
-      "gravity_score": 5.75,
-      "priority_score": 15.75,
+      "gravity_score": 5.25,
+      "priority_score": 15.25,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
@@ -712,18 +712,18 @@
         "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
       },
       {
-        "topic": "politics",
-        "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
-        "score": 5.75,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/"
-      },
-      {
         "topic": "everyday_economy",
         "title": "Gas price soars 25% after strikes on Qatar hub",
         "score": 5.53,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/"
+      },
+      {
+        "topic": "politics",
+        "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
+        "score": 5.25,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/"
       }
     ],
     "X": [
