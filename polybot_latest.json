@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T16:08:45.712114+00:00",
+  "generated_at_utc": "2026-03-19T16:10:55.667325+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 206.18,
-      "attention_focus_score": 201.68,
+      "topic_score": 205.65,
+      "attention_focus_score": 201.15,
       "item_count": 50,
       "source_count": 10,
       "platform_count": 7,
@@ -34,7 +34,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 16,353 upvotes · 💬 527 comments · r/politics",
+          "summary": "⬆ 16,354 upvotes · 💬 527 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -44,7 +44,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,169 upvotes · 💬 459 comments · r/politics",
+          "summary": "⬆ 4,200 upvotes · 💬 461 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -178,7 +178,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,000 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,004 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -188,7 +188,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 630 upvotes · 💬 87 comments · r/worldnews",
+          "summary": "⬆ 638 upvotes · 💬 87 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -218,7 +218,7 @@
           "source": "reddit_news",
           "title": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
           "url": "https://www.reddit.com/r/news/comments/1rxv7a3/brent_hits_116_and_europe_gas_prices_surge_after/",
-          "summary": "⬆ 510 upvotes · 💬 65 comments · r/news",
+          "summary": "⬆ 516 upvotes · 💬 65 comments · r/news",
           "published_at": "2026-03-19 08:54:25+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -228,8 +228,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 36.17,
-      "attention_focus_score": 34.17,
+      "topic_score": 35.67,
+      "attention_focus_score": 33.67,
       "item_count": 8,
       "source_count": 5,
       "platform_count": 4,
@@ -251,11 +251,11 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 3,107 upvotes · 💬 623 comments · r/worldnews",
+          "summary": "⬆ 3,165 upvotes · 💬 636 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.75
+          "gravity_score": 5.25
         },
         {
           "source": "thehill",
@@ -271,7 +271,7 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 636 upvotes · 💬 223 comments · r/politics",
+          "summary": "⬆ 645 upvotes · 💬 223 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -563,8 +563,8 @@
     {
       "topic": "geopolitics",
       "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-      "gravity_score": 5.75,
-      "priority_score": 11.75,
+      "gravity_score": 5.25,
+      "priority_score": 11.25,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
@@ -717,18 +717,18 @@
         "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/"
       },
       {
-        "topic": "geopolitics",
-        "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-        "score": 5.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
-      },
-      {
         "topic": "everyday_economy",
         "title": "Gas price soars 25% after strikes on Qatar hub",
         "score": 5.53,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+        "score": 5.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
       }
     ],
     "X": [
