@@ -1,22 +1,20 @@
 {
-  "generated_at_utc": "2026-03-19T00:23:28.639474+00:00",
+  "generated_at_utc": "2026-03-19T00:26:50.018493+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 149.92,
-      "attention_focus_score": 146.42,
-      "item_count": 36,
-      "source_count": 8,
-      "platform_count": 7,
+      "topic_score": 86.29,
+      "attention_focus_score": 83.79,
+      "item_count": 19,
+      "source_count": 6,
+      "platform_count": 6,
       "sources": [
         "bbc_world",
         "cnbc",
         "coindesk",
         "google_trends_us_daily",
         "politico",
-        "reddit_politics",
-        "reddit_worldnews",
-        "thehill"
+        "reddit_worldnews"
       ],
       "platforms": [
         "bbc",
@@ -24,39 +22,18 @@
         "coindesk",
         "google_trends",
         "politico",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "top_items": [
-        {
-          "source": "reddit_politics",
-          "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
-          "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 11,751 upvotes · 💬 418 comments · r/politics",
-          "published_at": "2026-03-18 16:24:21+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 8.25
-        },
         {
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 7,163 upvotes · 💬 152 comments · r/worldnews",
+          "summary": "⬆ 7,174 upvotes · 💬 153 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 7.25
-        },
-        {
-          "source": "thehill",
-          "title": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
-          "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
-          "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) and Sen. Alex Padilla (D-Calif.) will speak with reporters Wednesday morning to voice their opposition to the GOP-led Safeguard American Voter Eligibility (SAVE) America Act. The election reform bill, backed by President Trump, would require Americans to show proof of citizenship when registering to vote and to bring a&#8230;",
-          "published_at": "2026-03-18 14:55:22+00:00",
-          "topic": "politics",
-          "keyword_hits": 4,
-          "gravity_score": 6.0
         },
         {
           "source": "google_trends_us_daily",
@@ -77,78 +54,26 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.0
-        }
-      ]
-    },
-    {
-      "topic": "everyday_economy",
-      "topic_score": 70.75,
-      "attention_focus_score": 69.25,
-      "item_count": 11,
-      "source_count": 4,
-      "platform_count": 4,
-      "sources": [
-        "cnbc",
-        "coindesk",
-        "reddit_politics",
-        "thehill"
-      ],
-      "platforms": [
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_politics",
-          "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-          "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 16,280 upvotes · 💬 915 comments · r/politics",
-          "published_at": "2026-03-18 13:23:30+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 8.78
         },
         {
-          "source": "reddit_politics",
-          "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-          "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 9,320 upvotes · 💬 330 comments · r/politics",
-          "published_at": "2026-03-18 15:09:46+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 7.48
+          "source": "politico",
+          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
+          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
+          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
+          "published_at": "2026-03-12 08:45:00+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         },
         {
-          "source": "reddit_politics",
-          "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
-          "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 2,775 upvotes · 💬 64 comments · r/politics",
-          "published_at": "2026-03-18 22:49:32+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 7.48
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
-          "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 1,766 upvotes · 💬 410 comments · r/politics",
-          "published_at": "2026-03-18 19:31:03+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.83
-        },
-        {
-          "source": "thehill",
-          "title": "Republicans defeat resolution to halt US military strikes against Iran",
-          "url": "https://thehill.com/homenews/senate/5790780-war-powers-iran-resolution/",
-          "summary": "Senate Republicans on Wednesday defeated a Democratic-sponsored motion to advance a war powers resolution to halt President Trump’s military strikes against Iran, a conflict that has caused oil and gas prices to soar. The Senate voted 47-53 against discharging the resolution to rein in Trump’s authority from the Senate Foreign Relations Committee. Sen. Rand Paul (Ky.) was&#8230;",
-          "published_at": "2026-03-19 00:01:24+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.85
+          "source": "bbc_world",
+          "title": "Watch: Gabbard faces scrutiny over Iran nuclear intelligence claims",
+          "url": "https://www.bbc.com/news/videos/clygyg14zj2o?at_medium=RSS&at_campaign=rss",
+          "summary": "The US Director of National Intelligence, Tulsi Gabbard, was questioned over what Democrats perceive as a discrepancy between White House and intelligence community claims.",
+          "published_at": "2026-03-18 18:38:21+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 3.5
         }
       ]
     },
@@ -222,31 +147,28 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 45.5,
-      "attention_focus_score": 43.0,
-      "item_count": 10,
-      "source_count": 6,
-      "platform_count": 4,
+      "topic_score": 35.05,
+      "attention_focus_score": 33.55,
+      "item_count": 7,
+      "source_count": 4,
+      "platform_count": 3,
       "sources": [
         "bbc_world",
         "cnbc",
-        "reddit_news",
         "reddit_popculturechat",
-        "reddit_worldnews",
-        "thehill"
+        "reddit_worldnews"
       ],
       "platforms": [
         "bbc",
         "cnbc",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "top_items": [
         {
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 5,157 upvotes · 💬 415 comments · r/worldnews",
+          "summary": "⬆ 5,166 upvotes · 💬 416 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -256,7 +178,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 3,631 upvotes · 💬 461 comments · r/worldnews",
+          "summary": "⬆ 3,636 upvotes · 💬 462 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -266,7 +188,7 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 751 upvotes · 💬 230 comments · r/popculturechat",
+          "summary": "⬆ 757 upvotes · 💬 230 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -286,7 +208,7 @@
           "source": "reddit_worldnews",
           "title": "Iran confirms intelligence minister was killed by Israeli strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxeix7/iran_confirms_intelligence_minister_was_killed_by/",
-          "summary": "⬆ 245 upvotes · 💬 71 comments · r/worldnews",
+          "summary": "⬆ 253 upvotes · 💬 71 comments · r/worldnews",
           "published_at": "2026-03-18 20:00:34+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -295,22 +217,88 @@
       ]
     },
     {
+      "topic": "everyday_economy",
+      "topic_score": 25.14,
+      "attention_focus_score": 24.64,
+      "item_count": 5,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "cnbc",
+        "coindesk"
+      ],
+      "platforms": [
+        "cnbc",
+        "coindesk"
+      ],
+      "top_items": [
+        {
+          "source": "cnbc",
+          "title": "Inflation dominates Powell's remarks, pressures stocks. Plus, big earnings tonight",
+          "url": "https://www.cnbc.com/2026/03/18/inflation-dominates-powells-remarks-pressures-stocks-plus-big-earnings-tonight.html",
+          "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+          "published_at": "2026-03-18 19:25:46+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
+        },
+        {
+          "source": "coindesk",
+          "title": "Federal Reserve holds policy steady as Iran war adds to growth and inflation concerns",
+          "url": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
+          "summary": "Bitcoin remained sharply lower for the session following the expected decision by the U.S. central bank.",
+          "published_at": "2026-03-18 17:59:47+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 3.9
+        },
+        {
+          "source": "coindesk",
+          "title": "The era of cheap money is over as the Iran war creates a permanent 'inflation floor'",
+          "url": "https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor",
+          "summary": "The Iran war is creating a permanent inflation floor that could end the era of cheap money and expose the fragility of global energy markets.",
+          "published_at": "2026-03-18 17:09:02+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 3.9
+        },
+        {
+          "source": "coindesk",
+          "title": "Bitcoin quickly pulls back to $71,000 as Iran fears team up with poor U.S. inflation data",
+          "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-quickly-pulls-back-to-usd72-300-as-iran-fears-team-up-with-poor-u-s-inflation-data",
+          "summary": "The price of oil moved higher after reported attacks against Iran's South Pars gas field.",
+          "published_at": "2026-03-18 12:50:43+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 3.9
+        },
+        {
+          "source": "coindesk",
+          "title": "Powell's comments on oil, inflation are likely to guide bitcoin traders",
+          "url": "https://www.coindesk.com/daybook-us/2026/03/18/powell-s-comments-on-oil-inflation-are-likely-to-guide-bitcoin-traders",
+          "summary": "Your day-ahead look for March 18, 2026",
+          "published_at": "2026-03-18 11:25:38+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 3.9
+        }
+      ]
+    },
+    {
       "topic": "reality_tv",
-      "topic_score": 34.56,
-      "attention_focus_score": 33.06,
-      "item_count": 8,
-      "source_count": 4,
-      "platform_count": 3,
+      "topic_score": 21.97,
+      "attention_focus_score": 20.97,
+      "item_count": 4,
+      "source_count": 3,
+      "platform_count": 2,
       "sources": [
         "bbc_top",
         "bbc_world",
-        "cnbc",
-        "thehill"
+        "cnbc"
       ],
       "platforms": [
         "bbc",
-        "cnbc",
-        "thehill"
+        "cnbc"
       ],
       "top_items": [
         {
@@ -344,37 +332,26 @@
           "gravity_score": 4.05
         },
         {
-          "source": "thehill",
-          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
-          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
-          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
-          "published_at": "2026-03-18 22:13:52+00:00",
+          "source": "bbc_world",
+          "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
+          "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
+          "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
+          "published_at": "2026-03-18 17:54:14+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 2.7
-        },
-        {
-          "source": "thehill",
-          "title": "IAEA chief skeptical Iran’s nuclear program can be eliminated with just military action",
-          "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
-          "summary": "The International Atomic Energy Agency (IAEA) Director General, Rafael Mariano Grossi, said that he does not believe that Iran’s nuclear program can be eliminated solely by military action.&#160; “I would agree with that. Because this program is a very vast program. It’s a program that has been built throughout the years, decades of efforts, and&#8230;",
-          "published_at": "2026-03-18 22:07:26+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.7
+          "gravity_score": 2.03
         }
       ]
     },
     {
       "topic": "music_charts",
-      "topic_score": 22.11,
-      "attention_focus_score": 21.11,
-      "item_count": 3,
-      "source_count": 3,
+      "topic_score": 13.81,
+      "attention_focus_score": 13.31,
+      "item_count": 2,
+      "source_count": 2,
       "platform_count": 2,
       "sources": [
         "bbc_top",
-        "reddit_news",
         "reddit_popculturechat"
       ],
       "platforms": [
@@ -383,20 +360,10 @@
       ],
       "top_items": [
         {
-          "source": "reddit_news",
-          "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
-          "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 1,961 upvotes · 💬 93 comments · r/news",
-          "published_at": "2026-03-18 18:33:59+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 7.61
-        },
-        {
           "source": "reddit_popculturechat",
           "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 390 upvotes · 💬 50 comments · r/popculturechat",
+          "summary": "⬆ 393 upvotes · 💬 50 comments · r/popculturechat",
           "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -416,20 +383,18 @@
     },
     {
       "topic": "social_virality",
-      "topic_score": 18.44,
-      "attention_focus_score": 17.44,
-      "item_count": 3,
-      "source_count": 3,
-      "platform_count": 3,
+      "topic_score": 12.59,
+      "attention_focus_score": 12.09,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
       "sources": [
         "bbc_world",
-        "cnbc",
-        "thehill"
+        "cnbc"
       ],
       "platforms": [
         "bbc",
-        "cnbc",
-        "thehill"
+        "cnbc"
       ],
       "top_items": [
         {
@@ -451,16 +416,6 @@
           "topic": "social_virality",
           "keyword_hits": 1,
           "gravity_score": 3.6
-        },
-        {
-          "source": "thehill",
-          "title": "Trump’s $10 billion TikTok ‘brokerage fee’ is just the tip of the iceberg",
-          "url": "https://thehill.com/opinion/white-house/5787721-trump-equity-stakes-companies/",
-          "summary": "Not only is this pay-to-play arrangement with the federal government unprecedented; it also smacks of possible corruption.",
-          "published_at": "2026-03-18 14:30:00+00:00",
-          "topic": "social_virality",
-          "keyword_hits": 1,
-          "gravity_score": 3.6
         }
       ]
     }
@@ -470,7 +425,7 @@
       "topic": "politics",
       "event": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
       "gravity_score": 7.25,
-      "priority_score": 19.25,
+      "priority_score": 17.25,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
@@ -480,8 +435,7 @@
         "coindesk",
         "google_trends",
         "politico",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "debatable_angles": [
         "Will this lead to a formal policy change or executive action?",
@@ -491,20 +445,19 @@
     },
     {
       "topic": "politics",
-      "event": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
-      "gravity_score": 6.0,
-      "priority_score": 18.0,
-      "source_platform": "thehill",
+      "event": "fear factor house of fear",
+      "gravity_score": 5.75,
+      "priority_score": 15.75,
+      "source_platform": "google_trends_us_daily",
       "source_label": "",
-      "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
+      "url": "https://trends.google.com/trending/rss?geo=US",
       "platforms_discussing": [
         "bbc",
         "cnbc",
         "coindesk",
         "google_trends",
         "politico",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "debatable_angles": [
         "Is there a specific deadline, vote, or official decision embedded in this story?",
@@ -514,145 +467,46 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "everyday_economy",
-      "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-      "gravity_score": 8.78,
-      "priority_score": 14.78,
-      "source_platform": "reddit_politics",
+      "topic": "politics",
+      "event": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
+      "gravity_score": 5.0,
+      "priority_score": 15.0,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
+      "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
       "platforms_discussing": [
+        "bbc",
         "cnbc",
         "coindesk",
-        "reddit",
-        "thehill"
+        "google_trends",
+        "politico",
+        "reddit"
       ],
       "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
+        "Will this lead to a formal policy change or executive action?",
+        "Will a resignation or staffing change follow within 30 days?",
+        "Will crude oil close above/below a specific price within 14 days?",
+        "Will OPEC announce production changes in response?"
       ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-      "gravity_score": 7.48,
-      "priority_score": 13.48,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
-      "gravity_score": 7.48,
-      "priority_score": 13.48,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "geopolitics",
       "event": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
       "gravity_score": 5.75,
-      "priority_score": 11.75,
+      "priority_score": 9.75,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "debatable_angles": [
         "Will the US or allies conduct a military strike?",
         "Will Iran close or restrict passage through the Strait of Hormuz?",
         "Will oil prices spike above a specific threshold?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Strike hits South Pars, world’s largest gas field, in Iran",
-      "gravity_score": 4.75,
-      "priority_score": 10.75,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the strike last more than 14 days?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "Slot needed a performance - and Liverpool delivered one",
-      "gravity_score": 6.08,
-      "priority_score": 10.08,
-      "source_platform": "bbc_top",
-      "source_label": "",
-      "url": "https://www.bbc.com/sport/football/articles/c99j92p8n5ro?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
-      "gravity_score": 3.75,
-      "priority_score": 9.75,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -691,62 +545,153 @@
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
-      "topic": "reality_tv",
-      "event": "Even when they win it still ends in defeat - Spurs' season summed up",
-      "gravity_score": 4.73,
-      "priority_score": 8.73,
-      "source_platform": "bbc_top",
+      "topic": "geopolitics",
+      "event": "Strike hits South Pars, world’s largest gas field, in Iran",
+      "gravity_score": 4.75,
+      "priority_score": 8.75,
+      "source_platform": "reddit_worldnews",
       "source_label": "",
-      "url": "https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
-        "thehill"
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the strike last more than 14 days?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "beauty",
+      "event": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
+      "gravity_score": 8.7,
+      "priority_score": 8.7,
+      "source_platform": "Xiaohongshu",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "Xiaohongshu"
+      ],
+      "debatable_angles": [
+        "Will the trending product see measurable sales spike on Amazon/Ulta?"
+      ],
+      "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Trump threatens 500% tariffs on Russia if no Ukraine deal within 50 days",
+      "gravity_score": 8.5,
+      "priority_score": 8.5,
+      "source_platform": "X",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "X"
+      ],
+      "debatable_angles": [
+        "Will tariffs actually be imposed by the stated deadline?",
+        "Will the target country retaliate with counter-tariffs within 30 days?",
+        "Will a specific trade metric (imports/exports volume) shift measurably?",
+        "Will a formal peace deal or ceasefire be signed within the stated timeframe?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "social_virality",
+      "event": "Nicki Minaj \"Want Some More\" freeze-frame reveal format sweeps fashion and lifestyle creators",
+      "gravity_score": 8.3,
+      "priority_score": 8.3,
+      "source_platform": "TikTok",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "TikTok"
       ],
       "debatable_angles": [
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
-      "verifiable_via": "Network broadcast / Official show accounts"
+      "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "fashion",
+      "event": "\"Mori girl\" aesthetic revival surging — linen layers, cottagecore accessories trending among Gen Z",
+      "gravity_score": 8.3,
+      "priority_score": 8.3,
+      "source_platform": "Xiaohongshu",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "Xiaohongshu"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Fashion industry reports / Platform trending metrics"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Iran warns it will close Strait of Hormuz if attacked by US forces",
+      "gravity_score": 8.2,
+      "priority_score": 8.2,
+      "source_platform": "X",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "X"
+      ],
+      "debatable_angles": [
+        "Will any NATO ally actually send warships within 30 days?",
+        "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
+        "Will Iran follow through and restrict shipping in the strait?",
+        "Will the US or allies conduct a military strike?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     }
   ],
   "platform_snapshots": {
     "Reddit": [
       {
-        "topic": "everyday_economy",
-        "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
-        "score": 8.78,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/"
-      },
-      {
         "topic": "politics",
-        "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
-        "score": 8.25,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/"
+        "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
+        "score": 7.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
       },
       {
         "topic": "music_charts",
-        "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
-        "score": 7.61,
-        "source": "reddit_news",
-        "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/"
+        "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
+        "score": 6.16,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/"
       },
       {
-        "topic": "everyday_economy",
-        "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
-        "score": 7.48,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/"
+        "topic": "geopolitics",
+        "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
+        "score": 5.75,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/"
       },
       {
-        "topic": "everyday_economy",
-        "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
-        "score": 7.48,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/"
+        "topic": "geopolitics",
+        "title": "Strike hits South Pars, world’s largest gas field, in Iran",
+        "score": 4.75,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
+        "score": 3.75,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/"
       }
     ],
     "X": [
@@ -902,27 +847,27 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "politics",
-        "title": "[The Hill] Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[The Hill] Republicans defeat resolution to halt US military strikes against Iran",
-        "score": 5.85,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/senate/5790780-war-powers-iran-resolution/",
-        "source_label": "The Hill"
-      },
-      {
         "topic": "social_virality",
         "title": "[CNBC] Meta will pay Instagram, TikTok and YouTube creators with big followings to post on Facebook",
         "score": 5.4,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "music_charts",
+        "title": "[BBC] Sadiq Khan says Labour should pledge to rejoin EU",
+        "score": 5.08,
+        "source": "bbc_top",
+        "url": "https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
+        "score": 5.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
         "source_label": "CNBC"
       }
     ]
