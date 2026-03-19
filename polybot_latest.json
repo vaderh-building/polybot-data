@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T15:32:01.793149+00:00",
+  "generated_at_utc": "2026-03-19T15:34:10.686116+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 205.12,
-      "attention_focus_score": 200.62,
-      "item_count": 49,
+      "topic_score": 211.5,
+      "attention_focus_score": 207.0,
+      "item_count": 50,
       "source_count": 10,
       "platform_count": 7,
       "sources": [
@@ -34,7 +34,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 16,335 upvotes · 💬 526 comments · r/politics",
+          "summary": "⬆ 16,330 upvotes · 💬 526 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -54,38 +54,38 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 3,805 upvotes · 💬 437 comments · r/politics",
+          "summary": "⬆ 3,827 upvotes · 💬 437 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 6.25
         },
         {
+          "source": "thehill",
+          "title": "Stratton would ‘absolutely support’ abolishing filibuster in Senate",
+          "url": "https://thehill.com/homenews/campaign/5791666-stratton-supports-ending-filibuster/",
+          "summary": "Illinois Lt. Gov. Juliana Stratton (D)&#160; on Wednesday said she would “absolutely support” ending the filibuster in the Senate after winning the Democratic nomination to replace longtime Sen. Dick Durbin (D-Ill.). The filibuster allows unlimited debate and frequently requires a 60-vote majority vote, known as cloture, to end the delay, rather than a simple 51-vote&#8230;",
+          "published_at": "2026-03-19 15:26:35+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
+        },
+        {
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 293 upvotes · 💬 172 comments · r/politics",
+          "summary": "⬆ 329 upvotes · 💬 180 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.75
-        },
-        {
-          "source": "cnbc",
-          "title": "Trump's DHS pick Markwayne Mullin advances out of Senate committee after tough confirmation hearing",
-          "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
-          "summary": "President Donald Trump tapped Sen. Markwayne Mullin, R-Okla., earlier this month to replace Kristi Noem.",
-          "published_at": "2026-03-19 14:37:05+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 93.28,
-      "attention_focus_score": 89.78,
+      "topic_score": 91.9,
+      "attention_focus_score": 88.4,
       "item_count": 15,
       "source_count": 8,
       "platform_count": 5,
@@ -111,7 +111,7 @@
           "source": "reddit_all",
           "title": "Rising gas prices",
           "url": "https://www.reddit.com/r/Unexpected/comments/1rxwcop/rising_gas_prices/",
-          "summary": "⬆ 10,013 upvotes · 💬 233 comments · r/all",
+          "summary": "⬆ 10,089 upvotes · 💬 234 comments · r/all",
           "published_at": "2026-03-19 10:03:58+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -121,7 +121,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 16,860 upvotes · 💬 353 comments · r/politics",
+          "summary": "⬆ 16,870 upvotes · 💬 353 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -135,7 +135,7 @@
           "published_at": "2026-03-19 15:03:55+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 7.8
+          "gravity_score": 6.5
         },
         {
           "source": "bbc_top",
@@ -151,7 +151,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 449 upvotes · 💬 71 comments · r/worldnews",
+          "summary": "⬆ 463 upvotes · 💬 72 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -187,10 +187,10 @@
         },
         {
           "source": "cnbc",
-          "title": "Crypto.com lays off 12% of workforce in latest company to cite AI in job cuts",
+          "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
           "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
           "summary": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI.",
-          "published_at": "2026-03-19 15:05:42+00:00",
+          "published_at": "2026-03-19 15:32:38+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -229,9 +229,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 32.12,
-      "attention_focus_score": 30.12,
-      "item_count": 7,
+      "topic_score": 36.68,
+      "attention_focus_score": 34.68,
+      "item_count": 8,
       "source_count": 5,
       "platform_count": 4,
       "sources": [
@@ -252,7 +252,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 1,648 upvotes · 💬 413 comments · r/worldnews",
+          "summary": "⬆ 1,753 upvotes · 💬 427 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -269,10 +269,20 @@
           "gravity_score": 5.0
         },
         {
+          "source": "thehill",
+          "title": "Bessent says US may lift sanctions on Iranian oil stuck at sea",
+          "url": "https://thehill.com/homenews/administration/5791639-bessent-oil-sanctions-lift-iran-conflict/",
+          "summary": "Treasury Secretary Scott Bessent said early Thursday that the U.S. may lift sanctions on Iranian oil that is already in transit amid rising energy prices resulting from the ongoing U.S. military operation in the Middle East. Bessent told Fox News’s Maria Bartiromo that about 140 million barrels of oil would be freed up by this&#8230;",
+          "published_at": "2026-03-19 15:24:20+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
+        },
+        {
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 578 upvotes · 💬 211 comments · r/politics",
+          "summary": "⬆ 587 upvotes · 💬 212 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -287,16 +297,6 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.5
-        },
-        {
-          "source": "bbc_world",
-          "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
-          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
-          "published_at": "2026-03-19 10:30:42+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 2.0
         }
       ]
     },
@@ -542,8 +542,8 @@
     {
       "topic": "everyday_economy",
       "event": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-      "gravity_score": 7.8,
-      "priority_score": 15.8,
+      "gravity_score": 6.5,
+      "priority_score": 14.5,
       "source_platform": "cnbc",
       "source_label": "",
       "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
@@ -625,12 +625,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy f…",
-      "gravity_score": 4.25,
-      "priority_score": 10.25,
-      "source_platform": "reddit_politics",
+      "event": "Bessent says US may lift sanctions on Iranian oil stuck at sea",
+      "gravity_score": 4.5,
+      "priority_score": 10.5,
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
+      "url": "https://thehill.com/homenews/administration/5791639-bessent-oil-sanctions-lift-iran-conflict/",
       "platforms_discussing": [
         "bbc",
         "coindesk",
@@ -638,10 +638,10 @@
         "thehill"
       ],
       "debatable_angles": [
+        "Will new sanctions be officially enacted by a specific date?",
+        "Will the sanctioned country's currency drop past a measurable threshold?",
         "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the strike last more than 14 days?"
+        "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -839,7 +839,21 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "high point basketball",
+        "title": "youtube tv",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "sara eisen",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "bryce james",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -857,20 +871,6 @@
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "youtubetv",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "supreme maison margiela",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
@@ -885,7 +885,7 @@
       {
         "topic": "everyday_economy",
         "title": "[CNBC] Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-        "score": 7.8,
+        "score": 6.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
         "source_label": "CNBC"
@@ -900,19 +900,19 @@
       },
       {
         "topic": "crypto",
-        "title": "[CNBC] Crypto.com lays off 12% of workforce in latest company to cite AI in job cuts",
+        "title": "[CNBC] Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
         "score": 6.0,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
         "source_label": "CNBC"
       },
       {
-        "topic": "everyday_economy",
-        "title": "[BBC] Why are gas prices soaring and how could it affect you?",
-        "score": 5.85,
-        "source": "bbc_top",
-        "url": "https://www.bbc.com/news/articles/cj6d66w0995o?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
+        "topic": "politics",
+        "title": "[The Hill] Stratton would ‘absolutely support’ abolishing filibuster in Senate",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/campaign/5791666-stratton-supports-ending-filibuster/",
+        "source_label": "The Hill"
       }
     ]
   }
