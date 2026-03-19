@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T15:44:57.355196+00:00",
+  "generated_at_utc": "2026-03-19T15:47:06.070390+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -54,7 +54,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 3,947 upvotes · 💬 447 comments · r/politics",
+          "summary": "⬆ 3,967 upvotes · 💬 449 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -83,86 +83,10 @@
       ]
     },
     {
-      "topic": "everyday_economy",
-      "topic_score": 81.06,
-      "attention_focus_score": 78.06,
-      "item_count": 14,
-      "source_count": 7,
-      "platform_count": 5,
-      "sources": [
-        "bbc_top",
-        "cnbc",
-        "coindesk",
-        "reddit_news",
-        "reddit_politics",
-        "reddit_worldnews",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_politics",
-          "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
-          "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 16,925 upvotes · 💬 358 comments · r/politics",
-          "published_at": "2026-03-18 22:49:32+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 8.78
-        },
-        {
-          "source": "cnbc",
-          "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-          "summary": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
-          "published_at": "2026-03-19 15:03:55+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.5
-        },
-        {
-          "source": "reddit_news",
-          "title": "Gas price soars over 20% after strikes on Qatar hub",
-          "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 82 upvotes · 💬 18 comments · r/news",
-          "published_at": "2026-03-19 15:08:08+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 6.17
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Gas price soars 25% after strikes on Qatar hub",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 513 upvotes · 💬 75 comments · r/worldnews",
-          "published_at": "2026-03-19 13:04:49+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.53
-        },
-        {
-          "source": "cnbc",
-          "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
-          "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
-          "summary": "The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic forecasts.",
-          "published_at": "2026-03-19 14:24:39+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.2
-        }
-      ]
-    },
-    {
       "topic": "crypto",
-      "topic_score": 73.34,
-      "attention_focus_score": 72.84,
-      "item_count": 16,
+      "topic_score": 81.78,
+      "attention_focus_score": 81.28,
+      "item_count": 17,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -174,6 +98,16 @@
         "coindesk"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+          "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+          "summary": "Security researchers said attackers are impersonating OpenClaw on GitHub, luring developers with bogus CLAW token giveaways that trick users into connecting their crypto wallets.",
+          "published_at": "2026-03-19 15:45:10+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 7.5
+        },
         {
           "source": "coindesk",
           "title": "Crypto for Advisors: Bitcoin’s price discovery",
@@ -189,7 +123,7 @@
           "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
           "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
           "summary": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI.",
-          "published_at": "2026-03-19 15:32:38+00:00",
+          "published_at": "2026-03-19 15:45:16+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -213,16 +147,82 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 5.0
+        }
+      ]
+    },
+    {
+      "topic": "everyday_economy",
+      "topic_score": 76.92,
+      "attention_focus_score": 73.92,
+      "item_count": 13,
+      "source_count": 7,
+      "platform_count": 5,
+      "sources": [
+        "bbc_top",
+        "cnbc",
+        "coindesk",
+        "reddit_news",
+        "reddit_politics",
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_politics",
+          "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
+          "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
+          "summary": "⬆ 16,935 upvotes · 💬 358 comments · r/politics",
+          "published_at": "2026-03-18 22:49:32+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 8.78
         },
         {
-          "source": "coindesk",
-          "title": "Bitcoin OGs dump over $100 million in BTC after hawkish Fed dents rate cut hopes",
-          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-ogs-dump-over-usd100-million-in-btc-after-hawkish-fed-dents-rate-cut-hopes",
-          "summary": "OGs sell as Fed's hawkish stance on rates pressures crypto and other risk assets.",
-          "published_at": "2026-03-19 07:19:10+00:00",
-          "topic": "crypto",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
+          "source": "cnbc",
+          "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+          "summary": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
+          "published_at": "2026-03-19 15:03:55+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.5
+        },
+        {
+          "source": "reddit_news",
+          "title": "Gas price soars over 20% after strikes on Qatar hub",
+          "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
+          "summary": "⬆ 85 upvotes · 💬 21 comments · r/news",
+          "published_at": "2026-03-19 15:08:08+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.17
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Gas price soars 25% after strikes on Qatar hub",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
+          "summary": "⬆ 525 upvotes · 💬 78 comments · r/worldnews",
+          "published_at": "2026-03-19 13:04:49+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.53
+        },
+        {
+          "source": "cnbc",
+          "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+          "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+          "summary": "The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic forecasts.",
+          "published_at": "2026-03-19 14:24:39+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.2
         }
       ]
     },
@@ -251,7 +251,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 2,144 upvotes · 💬 498 comments · r/worldnews",
+          "summary": "⬆ 2,241 upvotes · 💬 507 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -271,7 +271,7 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 607 upvotes · 💬 216 comments · r/politics",
+          "summary": "⬆ 602 upvotes · 💬 216 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -614,6 +614,25 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "crypto",
+      "event": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+      "gravity_score": 7.5,
+      "priority_score": 9.5,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -662,24 +681,6 @@
         "Will the trending product see measurable sales spike on Amazon/Ulta?"
       ],
       "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
-    },
-    {
-      "topic": "crypto",
-      "event": "Crypto for Advisors: Bitcoin’s price discovery",
-      "gravity_score": 6.5,
-      "priority_score": 8.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     }
   ],
   "platform_snapshots": {
@@ -821,6 +822,20 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "alycia parks",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "haifa",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "youtube tv",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -839,20 +854,6 @@
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "steve sweeney",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "caspian sea",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
@@ -863,6 +864,14 @@
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
         "source_label": "The Hill"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+        "score": 7.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+        "source_label": "CoinDesk"
       },
       {
         "topic": "everyday_economy",
@@ -887,14 +896,6 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
         "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Stratton would ‘absolutely support’ abolishing filibuster in Senate",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/campaign/5791666-stratton-supports-ending-filibuster/",
-        "source_label": "The Hill"
       }
     ]
   }
