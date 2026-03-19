@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T18:39:26.441897+00:00",
+  "generated_at_utc": "2026-03-19T18:41:34.297563+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -41,7 +41,7 @@
           "source": "thehill",
           "title": "White House seeks to circumvent Schumer on potential DHS funding deal",
           "url": "https://thehill.com/homenews/senate/5792250-dhs-funding-centrist-democrats-schumer/",
-          "summary": "White House border czar Tom Homan met with a group of centrist Democrats at the Capitol Thursday, circumventing Senate Democratic Leaders Chuck Schumer (N.Y.), who didn’t attend the meeting, in hopes of reaching a deal to reopen the Department of Homeland Security. Homan met for more than an hour with centrist Democrats who broke with&#8230;",
+          "summary": "White House border czar Tom Homan met with a group of centrist Democrats at the Capitol on Thursday, circumventing Senate Democratic Leader Chuck Schumer (N.Y.), who didn’t attend the meeting, in hopes of reaching a deal to reopen the Department of Homeland Security (DHS). Homan met for more than an hour with centrist Democrats who&#8230;",
           "published_at": "2026-03-19 18:27:15+00:00",
           "topic": "politics",
           "keyword_hits": 3,
@@ -51,7 +51,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,150 upvotes · 💬 541 comments · r/politics",
+          "summary": "⬆ 5,158 upvotes · 💬 541 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -71,7 +71,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 3,897 upvotes · 💬 830 comments · r/politics",
+          "summary": "⬆ 3,927 upvotes · 💬 840 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -81,8 +81,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 89.83,
-      "attention_focus_score": 88.83,
+      "topic_score": 89.29,
+      "attention_focus_score": 88.29,
       "item_count": 21,
       "source_count": 3,
       "platform_count": 3,
@@ -175,7 +175,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,384 upvotes · 💬 362 comments · r/politics",
+          "summary": "⬆ 17,394 upvotes · 💬 362 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -195,7 +195,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,295 upvotes · 💬 127 comments · r/worldnews",
+          "summary": "⬆ 1,305 upvotes · 💬 127 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -205,7 +205,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 1,120 upvotes · 💬 23 comments · r/politics",
+          "summary": "⬆ 1,148 upvotes · 💬 24 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -215,7 +215,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 399 upvotes · 💬 76 comments · r/news",
+          "summary": "⬆ 403 upvotes · 💬 76 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -225,14 +225,15 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 32.38,
-      "attention_focus_score": 30.88,
-      "item_count": 9,
-      "source_count": 4,
+      "topic_score": 39.72,
+      "attention_focus_score": 37.72,
+      "item_count": 10,
+      "source_count": 5,
       "platform_count": 4,
       "sources": [
         "bbc_world",
         "coindesk",
+        "reddit_all",
         "reddit_worldnews",
         "thehill"
       ],
@@ -244,10 +245,20 @@
       ],
       "top_items": [
         {
+          "source": "reddit_all",
+          "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
+          "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
+          "summary": "⬆ 4,701 upvotes · 💬 679 comments · r/all",
+          "published_at": "2026-03-19 17:12:12+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
+        },
+        {
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 7,204 upvotes · 💬 1,203 comments · r/worldnews",
+          "summary": "⬆ 7,248 upvotes · 💬 1,209 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -279,16 +290,6 @@
           "url": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
           "summary": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
           "published_at": "2026-03-19 14:57:22+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 2.0
-        },
-        {
-          "source": "thehill",
-          "title": "Live updates: Trump says he expects ‘Japan to step up’ on Hormuz; Hegseth blasts Europe, media",
-          "url": "https://thehill.com/homenews/administration/5790190-live-updates-trump-iran-save-america-act/",
-          "summary": "President Trump on Thursday welcomed Japanese Prime Minister Sanae Takaichi to the White House for a day of meetings. Just ahead of the visit, Japan joined several European nations in saying they may be willing to help with a reopening of the Strait of Hormuz. While taking media questions, Trump said Japan should help. “I&#8230;",
-          "published_at": "2026-03-19 16:36:26+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.0
@@ -532,6 +533,28 @@
     },
     {
       "topic": "geopolitics",
+      "event": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who kn…",
+      "gravity_score": 6.75,
+      "priority_score": 12.75,
+      "source_platform": "reddit_all",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the strike last more than 14 days?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
       "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
       "gravity_score": 6.25,
       "priority_score": 12.25,
@@ -633,28 +656,6 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "geopolitics",
-      "event": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
-      "gravity_score": 3.5,
-      "priority_score": 9.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?",
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -710,6 +711,13 @@
       },
       {
         "topic": "geopolitics",
+        "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
+        "score": 6.75,
+        "source": "reddit_all",
+        "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/"
+      },
+      {
+        "topic": "geopolitics",
         "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
         "score": 6.25,
         "source": "reddit_worldnews",
@@ -721,13 +729,6 @@
         "score": 6.25,
         "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "Gas price soars 25% after strikes on Qatar hub",
-        "score": 5.53,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/"
       }
     ],
     "X": [
