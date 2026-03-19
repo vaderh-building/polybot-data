@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T16:32:40.076343+00:00",
+  "generated_at_utc": "2026-03-19T16:34:48.309445+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 189.42,
-      "attention_focus_score": 184.92,
+      "topic_score": 192.61,
+      "attention_focus_score": 188.11,
       "item_count": 48,
       "source_count": 10,
       "platform_count": 7,
@@ -34,7 +34,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,361 upvotes · 💬 478 comments · r/politics",
+          "summary": "⬆ 4,385 upvotes · 💬 478 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -54,7 +54,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 1,526 upvotes · 💬 442 comments · r/politics",
+          "summary": "⬆ 1,577 upvotes · 💬 455 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -84,8 +84,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 85.72,
-      "attention_focus_score": 85.22,
+      "topic_score": 86.84,
+      "attention_focus_score": 86.34,
       "item_count": 18,
       "source_count": 2,
       "platform_count": 2,
@@ -119,6 +119,16 @@
           "gravity_score": 6.5
         },
         {
+          "source": "cnbc",
+          "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
+          "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
+          "summary": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI.",
+          "published_at": "2026-03-19 16:32:42+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
           "source": "coindesk",
           "title": "Crypto for Advisors: Bitcoin’s price discovery",
           "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
@@ -127,16 +137,6 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 5.5
-        },
-        {
-          "source": "cnbc",
-          "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
-          "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
-          "summary": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI.",
-          "published_at": "2026-03-19 15:45:16+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
         },
         {
           "source": "coindesk",
@@ -176,7 +176,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,079 upvotes · 💬 359 comments · r/politics",
+          "summary": "⬆ 17,089 upvotes · 💬 359 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -196,7 +196,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 741 upvotes · 💬 92 comments · r/worldnews",
+          "summary": "⬆ 750 upvotes · 💬 92 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -226,9 +226,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 41.74,
-      "attention_focus_score": 39.74,
-      "item_count": 9,
+      "topic_score": 46.3,
+      "attention_focus_score": 44.3,
+      "item_count": 10,
       "source_count": 5,
       "platform_count": 4,
       "sources": [
@@ -249,7 +249,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 4,000 upvotes · 💬 771 comments · r/worldnews",
+          "summary": "⬆ 4,052 upvotes · 💬 783 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -261,6 +261,16 @@
           "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
           "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
           "published_at": "2026-03-19 16:16:05+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "thehill",
+          "title": "In the strait of Hormuz, where are the allies?",
+          "url": "https://thehill.com/opinion/international/5791008-us-navy-allies-strait-hormuz/",
+          "summary": "The Iranian threat to close the Strait of Hormuz has caused world oil prices to spike, and the US Navy is preparing for mine-countermeasure operations, but needs the help of allies to augment its capabilities and secure the sea lanes.",
+          "published_at": "2026-03-19 16:30:00+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.5
@@ -279,21 +289,11 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 677 upvotes · 💬 227 comments · r/politics",
+          "summary": "⬆ 670 upvotes · 💬 227 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.25
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
-          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
-          "summary": "Nearly $600M in deep out-of-the-money puts highlights tail-risk positioning, though flows point more to volatility strategies than to outright bearish bets.",
-          "published_at": "2026-03-19 14:34:51+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.0
         }
       ]
     },
@@ -369,8 +369,8 @@
     },
     {
       "topic": "social_virality",
-      "topic_score": 11.85,
-      "attention_focus_score": 11.35,
+      "topic_score": 10.65,
+      "attention_focus_score": 10.15,
       "item_count": 2,
       "source_count": 2,
       "platform_count": 2,
@@ -391,7 +391,7 @@
           "published_at": "2026-03-19 15:33:22+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
-          "gravity_score": 6.0
+          "gravity_score": 4.8
         },
         {
           "source": "npr_news",
@@ -621,12 +621,12 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Japan, Europeans signal ‘readiness to contribute’ to efforts to keep Strait of Hormuz open",
+      "event": "In the strait of Hormuz, where are the allies?",
       "gravity_score": 4.5,
       "priority_score": 10.5,
       "source_platform": "thehill",
       "source_label": "",
-      "url": "https://thehill.com/policy/international/5791762-leaders-commit-global-energy-stability/",
+      "url": "https://thehill.com/opinion/international/5791008-us-navy-allies-strait-hormuz/",
       "platforms_discussing": [
         "bbc",
         "coindesk",
@@ -833,7 +833,21 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "hbomax",
+        "title": "hulu",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "amare bynum",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "jonathan wheatley",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -847,21 +861,7 @@
       },
       {
         "topic": "trending",
-        "title": "sanae takaichi",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "dameon pierce",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "paramount+",
+        "title": "hbomax",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -901,12 +901,12 @@
         "source_label": "CoinDesk"
       },
       {
-        "topic": "social_virality",
-        "title": "[BBC] Facebook offering TikTok and YouTube creators $3,000 to post content",
+        "topic": "crypto",
+        "title": "[CNBC] Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
         "score": 6.0,
-        "source": "bbc_top",
-        "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
+        "source_label": "CNBC"
       }
     ]
   }
