@@ -1,14 +1,15 @@
 {
-  "generated_at_utc": "2026-03-19T15:29:51.804618+00:00",
+  "generated_at_utc": "2026-03-19T15:32:01.793149+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 199.83,
-      "attention_focus_score": 195.83,
-      "item_count": 48,
-      "source_count": 9,
+      "topic_score": 205.12,
+      "attention_focus_score": 200.62,
+      "item_count": 49,
+      "source_count": 10,
       "platform_count": 7,
       "sources": [
+        "bbc_top",
         "bbc_world",
         "cnbc",
         "coindesk",
@@ -33,7 +34,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 16,323 upvotes · 💬 526 comments · r/politics",
+          "summary": "⬆ 16,335 upvotes · 💬 526 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -53,7 +54,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 3,762 upvotes · 💬 434 comments · r/politics",
+          "summary": "⬆ 3,805 upvotes · 💬 437 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -63,7 +64,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 267 upvotes · 💬 166 comments · r/politics",
+          "summary": "⬆ 293 upvotes · 💬 172 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -83,9 +84,9 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 98.11,
-      "attention_focus_score": 94.61,
-      "item_count": 16,
+      "topic_score": 93.28,
+      "attention_focus_score": 89.78,
+      "item_count": 15,
       "source_count": 8,
       "platform_count": 5,
       "sources": [
@@ -110,7 +111,7 @@
           "source": "reddit_all",
           "title": "Rising gas prices",
           "url": "https://www.reddit.com/r/Unexpected/comments/1rxwcop/rising_gas_prices/",
-          "summary": "⬆ 9,930 upvotes · 💬 232 comments · r/all",
+          "summary": "⬆ 10,013 upvotes · 💬 233 comments · r/all",
           "published_at": "2026-03-19 10:03:58+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -120,7 +121,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 16,857 upvotes · 💬 353 comments · r/politics",
+          "summary": "⬆ 16,860 upvotes · 💬 353 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -150,7 +151,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 445 upvotes · 💬 69 comments · r/worldnews",
+          "summary": "⬆ 449 upvotes · 💬 71 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -160,8 +161,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 74.47,
-      "attention_focus_score": 73.97,
+      "topic_score": 73.34,
+      "attention_focus_score": 72.84,
       "item_count": 16,
       "source_count": 2,
       "platform_count": 2,
@@ -182,7 +183,7 @@
           "published_at": "2026-03-19 15:00:00+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 7.5
+          "gravity_score": 6.5
         },
         {
           "source": "cnbc",
@@ -251,7 +252,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 1,555 upvotes · 💬 396 comments · r/worldnews",
+          "summary": "⬆ 1,648 upvotes · 💬 413 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -271,7 +272,7 @@
           "source": "reddit_politics",
           "title": "Trump Loses It and Claims Key War Ally Went Behind His Back | Trump claims he had no prior knowledge of an Israeli strike on a key energy facility in Iran.",
           "url": "https://www.reddit.com/r/politics/comments/1rxx3jq/trump_loses_it_and_claims_key_war_ally_went/",
-          "summary": "⬆ 574 upvotes · 💬 210 comments · r/politics",
+          "summary": "⬆ 578 upvotes · 💬 211 comments · r/politics",
           "published_at": "2026-03-19 10:46:50+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -645,24 +646,6 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "crypto",
-      "event": "Crypto for Advisors: Bitcoin’s price discovery",
-      "gravity_score": 7.5,
-      "priority_score": 9.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk"
-      ],
-      "debatable_angles": [
-        "Will BTC close above/below a specific price level within 14 days?",
-        "Will institutional inflows (ETF) exceed a measurable threshold?"
-      ],
-      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
-    },
-    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -696,6 +679,23 @@
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
+      "gravity_score": 8.8,
+      "priority_score": 8.8,
+      "source_platform": "TikTok",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "TikTok"
+      ],
+      "debatable_angles": [
+        "Will it debut at #1 on Billboard 200?",
+        "Will first-week streaming numbers exceed a specific threshold?"
       ],
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
     }
@@ -893,7 +893,7 @@
       {
         "topic": "crypto",
         "title": "[CoinDesk] Crypto for Advisors: Bitcoin’s price discovery",
-        "score": 7.5,
+        "score": 6.5,
         "source": "coindesk",
         "url": "https://www.coindesk.com/coindesk-indices/2026/03/18/crypto-for-advisors-bitcoin-s-price-discovery",
         "source_label": "CoinDesk"
