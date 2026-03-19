@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T23:21:50.897069+00:00",
+  "generated_at_utc": "2026-03-19T23:24:01.266140+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -33,7 +33,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,585 upvotes · 💬 571 comments · r/politics",
+          "summary": "⬆ 5,584 upvotes · 💬 571 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -73,7 +73,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,022 upvotes · 💬 1,183 comments · r/politics",
+          "summary": "⬆ 6,025 upvotes · 💬 1,183 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -177,7 +177,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 3,332 upvotes · 💬 56 comments · r/politics",
+          "summary": "⬆ 3,347 upvotes · 💬 56 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -187,7 +187,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,589 upvotes · 💬 148 comments · r/worldnews",
+          "summary": "⬆ 1,595 upvotes · 💬 148 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -197,7 +197,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 646 upvotes · 💬 116 comments · r/news",
+          "summary": "⬆ 647 upvotes · 💬 117 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -227,21 +227,19 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 42.13,
-      "attention_focus_score": 40.13,
-      "item_count": 7,
-      "source_count": 5,
-      "platform_count": 4,
+      "topic_score": 32.53,
+      "attention_focus_score": 31.03,
+      "item_count": 6,
+      "source_count": 4,
+      "platform_count": 3,
       "sources": [
         "bbc_top",
         "bbc_world",
-        "google_trends_us_daily",
         "reddit_popculturechat",
         "thehill"
       ],
       "platforms": [
         "bbc",
-        "google_trends",
         "reddit",
         "thehill"
       ],
@@ -250,7 +248,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 2,228 upvotes · 💬 450 comments · r/popculturechat",
+          "summary": "⬆ 2,267 upvotes · 💬 454 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -267,16 +265,6 @@
           "gravity_score": 6.75
         },
         {
-          "source": "google_trends_us_daily",
-          "title": "jury duty season 2",
-          "url": "https://trends.google.com/trending/rss?geo=US",
-          "summary": "",
-          "published_at": "2026-03-19 22:50:00+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 6.41
-        },
-        {
           "source": "bbc_top",
           "title": "US broadcaster pulls The Bachelorette after domestic abuse allegations",
           "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
@@ -290,11 +278,21 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 334 upvotes · 💬 35 comments · r/popculturechat",
+          "summary": "⬆ 331 upvotes · 💬 35 comments · r/popculturechat",
           "published_at": "2026-03-19 18:52:40+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 4.39
+        },
+        {
+          "source": "bbc_world",
+          "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
+          "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
+          "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
+          "published_at": "2026-03-18 17:54:14+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.03
         }
       ]
     },
@@ -321,7 +319,7 @@
           "source": "reddit_all",
           "title": "Asked why he didn’t coordinate with allies before Iran strike, Trump in an interview WITH Japan PM: “We didn’t tell anyone about it. Who knows better about surprise than Japan? Why didn’t you tell me about Pearl Harbor, OK?”",
           "url": "https://www.reddit.com/r/PublicFreakout/comments/1ry6bs1/asked_why_he_didnt_coordinate_with_allies_before/",
-          "summary": "⬆ 11,097 upvotes · 💬 1,350 comments · r/all",
+          "summary": "⬆ 11,104 upvotes · 💬 1,352 comments · r/all",
           "published_at": "2026-03-19 17:12:12+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -331,7 +329,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 10,286 upvotes · 💬 1,460 comments · r/worldnews",
+          "summary": "⬆ 10,292 upvotes · 💬 1,460 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -499,69 +497,6 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "reality_tv",
-      "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-      "gravity_score": 7.09,
-      "priority_score": 13.09,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-      "platforms_discussing": [
-        "bbc",
-        "google_trends",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-      "gravity_score": 6.75,
-      "priority_score": 12.75,
-      "source_platform": "bbc_world",
-      "source_label": "",
-      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "google_trends",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "jury duty season 2",
-      "gravity_score": 6.41,
-      "priority_score": 12.41,
-      "source_platform": "google_trends_us_daily",
-      "source_label": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "platforms_discussing": [
-        "bbc",
-        "google_trends",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
       "topic": "everyday_economy",
       "event": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
       "gravity_score": 6.17,
@@ -581,6 +516,26 @@
         "Will the next CPI reading come in above/below consensus?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
+      "gravity_score": 7.09,
+      "priority_score": 11.09,
+      "source_platform": "reddit_popculturechat",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
+      "platforms_discussing": [
+        "bbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "everyday_economy",
@@ -621,6 +576,26 @@
         "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+      "gravity_score": 6.75,
+      "priority_score": 10.75,
+      "source_platform": "bbc_world",
+      "source_label": "",
+      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "geopolitics",
@@ -679,6 +654,26 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "crypto",
+      "event": "Crypto markets – and the American people – deserve clarity",
+      "gravity_score": 5.0,
+      "priority_score": 9.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
     }
   ],
   "platform_snapshots": {
@@ -820,35 +815,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "charles barkley",
+        "title": "suns vs spurs",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "u of m basketball",
+        "title": "cavaliers vs bulls",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "charles barkley weight loss",
+        "title": "blackhawks vs wild",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "taylor townsend",
+        "title": "smci stock",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "red sox",
+        "title": "tufts",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
