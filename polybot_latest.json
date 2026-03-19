@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T23:49:54.956648+00:00",
+  "generated_at_utc": "2026-03-19T23:52:03.968288+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -33,7 +33,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,611 upvotes · 💬 573 comments · r/politics",
+          "summary": "⬆ 5,614 upvotes · 💬 574 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -73,7 +73,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,129 upvotes · 💬 1,197 comments · r/politics",
+          "summary": "⬆ 6,141 upvotes · 💬 1,197 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -177,7 +177,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 3,516 upvotes · 💬 60 comments · r/politics",
+          "summary": "⬆ 3,525 upvotes · 💬 60 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -187,7 +187,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,614 upvotes · 💬 150 comments · r/worldnews",
+          "summary": "⬆ 1,616 upvotes · 💬 150 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -248,7 +248,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 2,556 upvotes · 💬 489 comments · r/popculturechat",
+          "summary": "⬆ 2,567 upvotes · 💬 490 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -278,7 +278,7 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 332 upvotes · 💬 35 comments · r/popculturechat",
+          "summary": "⬆ 337 upvotes · 💬 35 comments · r/popculturechat",
           "published_at": "2026-03-19 18:52:40+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -318,7 +318,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 10,441 upvotes · 💬 1,475 comments · r/worldnews",
+          "summary": "⬆ 10,438 upvotes · 💬 1,476 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -803,6 +803,13 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "michigan basketball",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "byu basketball",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -825,13 +832,6 @@
       {
         "topic": "trending",
         "title": "emelec - independiente del valle",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "howard university",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
