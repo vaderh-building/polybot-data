@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T06:00:08.495916+00:00",
+  "generated_at_utc": "2026-03-19T06:02:30.632829+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -30,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 15,251 upvotes · 💬 498 comments · r/politics",
+          "summary": "⬆ 15,245 upvotes · 💬 498 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -80,29 +80,27 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 70.74,
-      "attention_focus_score": 69.24,
-      "item_count": 11,
-      "source_count": 4,
-      "platform_count": 4,
+      "topic_score": 67.07,
+      "attention_focus_score": 66.07,
+      "item_count": 10,
+      "source_count": 3,
+      "platform_count": 3,
       "sources": [
         "cnbc",
         "coindesk",
-        "reddit_politics",
-        "thehill"
+        "reddit_politics"
       ],
       "platforms": [
         "cnbc",
         "coindesk",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "top_items": [
         {
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 17,447 upvotes · 💬 963 comments · r/politics",
+          "summary": "⬆ 17,449 upvotes · 💬 963 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -112,7 +110,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 12,529 upvotes · 💬 277 comments · r/politics",
+          "summary": "⬆ 12,551 upvotes · 💬 277 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -122,7 +120,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 10,493 upvotes · 💬 372 comments · r/politics",
+          "summary": "⬆ 10,485 upvotes · 💬 372 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -132,7 +130,7 @@
           "source": "reddit_politics",
           "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
           "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 2,803 upvotes · 💬 545 comments · r/politics",
+          "summary": "⬆ 2,802 upvotes · 💬 546 comments · r/politics",
           "published_at": "2026-03-18 19:31:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -251,7 +249,7 @@
           "source": "reddit_news",
           "title": "Qatar orders Iranian Embassy officials out of the country",
           "url": "https://www.reddit.com/r/news/comments/1rxicke/qatar_orders_iranian_embassy_officials_out_of_the/",
-          "summary": "⬆ 841 upvotes · 💬 32 comments · r/news",
+          "summary": "⬆ 835 upvotes · 💬 32 comments · r/news",
           "published_at": "2026-03-18 22:22:58+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -261,7 +259,7 @@
           "source": "reddit_news",
           "title": "Iran's intelligence minister Esmail Khatib killed in air strike.",
           "url": "https://www.reddit.com/r/news/comments/1rxore4/irans_intelligence_minister_esmail_khatib_killed/",
-          "summary": "⬆ 202 upvotes · 💬 38 comments · r/news",
+          "summary": "⬆ 201 upvotes · 💬 38 comments · r/news",
           "published_at": "2026-03-19 02:50:18+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -290,73 +288,51 @@
       ]
     },
     {
-      "topic": "reality_tv",
-      "topic_score": 25.8,
-      "attention_focus_score": 24.3,
-      "item_count": 8,
-      "source_count": 4,
-      "platform_count": 3,
+      "topic": "music_charts",
+      "topic_score": 19.88,
+      "attention_focus_score": 18.88,
+      "item_count": 3,
+      "source_count": 3,
+      "platform_count": 2,
       "sources": [
         "bbc_top",
-        "bbc_world",
-        "cnbc",
-        "thehill"
+        "reddit_news",
+        "reddit_popculturechat"
       ],
       "platforms": [
         "bbc",
-        "cnbc",
-        "thehill"
+        "reddit"
       ],
       "top_items": [
         {
-          "source": "cnbc",
-          "title": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
-          "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
-          "summary": "Meta is scaling back its metaverse focus, cutting studios and head count at Reality Labs to prioritize artificial intelligence.",
-          "published_at": "2026-03-18 16:12:05+00:00",
-          "topic": "reality_tv",
+          "source": "reddit_popculturechat",
+          "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
+          "summary": "⬆ 568 upvotes · 💬 65 comments · r/popculturechat",
+          "published_at": "2026-03-18 16:24:04+00:00",
+          "topic": "music_charts",
           "keyword_hits": 1,
-          "gravity_score": 4.05
+          "gravity_score": 7.61
+        },
+        {
+          "source": "reddit_news",
+          "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
+          "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
+          "summary": "⬆ 2,550 upvotes · 💬 112 comments · r/news",
+          "published_at": "2026-03-18 18:33:59+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 6.89
         },
         {
           "source": "bbc_top",
-          "title": "Slot needed a performance - and Liverpool delivered one",
-          "url": "https://www.bbc.com/sport/football/articles/c99j92p8n5ro?at_medium=RSS&at_campaign=rss",
-          "summary": "Despite a difficult domestic campaign, Liverpool produce one of their best displays of the season against Galatasaray in the Champions League.",
-          "published_at": "2026-03-19 00:12:19+00:00",
-          "topic": "reality_tv",
+          "title": "Sadiq Khan says Labour should pledge to rejoin EU",
+          "url": "https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&at_campaign=rss",
+          "summary": "Downing Street has repeatedly said the government will not rejoin the single market or customs union.",
+          "published_at": "2026-03-18 23:45:37+00:00",
+          "topic": "music_charts",
           "keyword_hits": 1,
-          "gravity_score": 2.7
-        },
-        {
-          "source": "bbc_world",
-          "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
-          "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
-          "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
-          "published_at": "2026-03-18 17:54:14+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
-        },
-        {
-          "source": "bbc_top",
-          "title": "Even when they win it still ends in defeat - Spurs' season summed up",
-          "url": "https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&at_campaign=rss",
-          "summary": "Tottenham can take encouragement in their battle for Premier League survival despite a Champions League exit, writes Phil McNulty.",
-          "published_at": "2026-03-18 23:42:25+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
-        },
-        {
-          "source": "thehill",
-          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
-          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
-          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
-          "published_at": "2026-03-18 22:13:52+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
+          "gravity_score": 2.17
         }
       ]
     },
@@ -411,40 +387,71 @@
       ]
     },
     {
-      "topic": "music_charts",
-      "topic_score": 11.58,
-      "attention_focus_score": 11.08,
-      "item_count": 2,
-      "source_count": 2,
+      "topic": "reality_tv",
+      "topic_score": 17.63,
+      "attention_focus_score": 16.63,
+      "item_count": 7,
+      "source_count": 3,
       "platform_count": 2,
       "sources": [
         "bbc_top",
-        "reddit_news"
+        "bbc_world",
+        "thehill"
       ],
       "platforms": [
         "bbc",
-        "reddit"
+        "thehill"
       ],
       "top_items": [
         {
-          "source": "reddit_news",
-          "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
-          "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 2,546 upvotes · 💬 112 comments · r/news",
-          "published_at": "2026-03-18 18:33:59+00:00",
-          "topic": "music_charts",
+          "source": "bbc_top",
+          "title": "Slot needed a performance - and Liverpool delivered one",
+          "url": "https://www.bbc.com/sport/football/articles/c99j92p8n5ro?at_medium=RSS&at_campaign=rss",
+          "summary": "Despite a difficult domestic campaign, Liverpool produce one of their best displays of the season against Galatasaray in the Champions League.",
+          "published_at": "2026-03-19 00:12:19+00:00",
+          "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 6.89
+          "gravity_score": 2.7
+        },
+        {
+          "source": "bbc_world",
+          "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
+          "url": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
+          "summary": "The former reality TV star guided his dogs through a roughly 1,000-mile (1,609-kilometer) race, completing it in nine days, seven hours, and 32 minutes.",
+          "published_at": "2026-03-18 17:54:14+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.03
         },
         {
           "source": "bbc_top",
-          "title": "Sadiq Khan says Labour should pledge to rejoin EU",
-          "url": "https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&at_campaign=rss",
-          "summary": "Downing Street has repeatedly said the government will not rejoin the single market or customs union.",
-          "published_at": "2026-03-18 23:45:37+00:00",
-          "topic": "music_charts",
+          "title": "Even when they win it still ends in defeat - Spurs' season summed up",
+          "url": "https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&at_campaign=rss",
+          "summary": "Tottenham can take encouragement in their battle for Premier League survival despite a Champions League exit, writes Phil McNulty.",
+          "published_at": "2026-03-18 23:42:25+00:00",
+          "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 2.17
+          "gravity_score": 2.03
+        },
+        {
+          "source": "thehill",
+          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
+          "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
+          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
+          "published_at": "2026-03-18 22:13:52+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.03
+        },
+        {
+          "source": "thehill",
+          "title": "IAEA chief skeptical Iran’s nuclear program can be eliminated with just military action",
+          "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
+          "summary": "The International Atomic Energy Agency (IAEA) Director General, Rafael Mariano Grossi, said that he does not believe that Iran’s nuclear program can be eliminated solely by military action.&#160; “I would agree with that. Because this program is a very vast program. It’s a program that has been built throughout the years, decades of efforts, and&#8230;",
+          "published_at": "2026-03-18 22:07:26+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.03
         }
       ]
     }
@@ -499,15 +506,14 @@
       "topic": "everyday_economy",
       "event": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
       "gravity_score": 8.78,
-      "priority_score": 14.78,
+      "priority_score": 12.78,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "debatable_angles": [
         "Will the vote outcome be Yes or No?",
@@ -519,15 +525,14 @@
       "topic": "everyday_economy",
       "event": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
       "gravity_score": 8.78,
-      "priority_score": 14.78,
+      "priority_score": 12.78,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "debatable_angles": [
         "Will the next CPI reading come in above/below consensus?"
@@ -538,15 +543,14 @@
       "topic": "everyday_economy",
       "event": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
       "gravity_score": 8.78,
-      "priority_score": 14.78,
+      "priority_score": 12.78,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
       "platforms_discussing": [
         "cnbc",
         "coindesk",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "debatable_angles": [
         "Will the vote outcome be Yes or No?",
@@ -576,6 +580,24 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
+      "topic": "music_charts",
+      "event": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
+      "gravity_score": 7.61,
+      "priority_score": 9.61,
+      "source_platform": "reddit_popculturechat",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
+      "platforms_discussing": [
+        "bbc",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will it debut at #1 on Billboard 200?",
+        "Will first-week streaming numbers exceed a specific threshold?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -591,6 +613,23 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
+      "gravity_score": 6.89,
+      "priority_score": 8.89,
+      "source_platform": "reddit_news",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
+      "platforms_discussing": [
+        "bbc",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
       "topic": "music_charts",
@@ -643,42 +682,6 @@
         "Will a formal peace deal or ceasefire be signed within the stated timeframe?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "social_virality",
-      "event": "Nicki Minaj \"Want Some More\" freeze-frame reveal format sweeps fashion and lifestyle creators",
-      "gravity_score": 8.3,
-      "priority_score": 8.3,
-      "source_platform": "TikTok",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "TikTok"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "fashion",
-      "event": "\"Mori girl\" aesthetic revival surging — linen layers, cottagecore accessories trending among Gen Z",
-      "gravity_score": 8.3,
-      "priority_score": 8.3,
-      "source_platform": "Xiaohongshu",
-      "source_label": "",
-      "url": "",
-      "platforms_discussing": [
-        "Xiaohongshu"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Fashion industry reports / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
@@ -712,11 +715,11 @@
         "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/"
       },
       {
-        "topic": "politics",
-        "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
-        "score": 7.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/"
+        "topic": "music_charts",
+        "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
+        "score": 7.61,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/"
       }
     ],
     "X": [
