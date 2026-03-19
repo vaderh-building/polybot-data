@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-19T17:55:55.289045+00:00",
+  "generated_at_utc": "2026-03-19T17:58:11.228164+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 197.77,
-      "attention_focus_score": 193.77,
+      "topic_score": 196.69,
+      "attention_focus_score": 192.69,
       "item_count": 50,
       "source_count": 9,
       "platform_count": 6,
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 4,970 upvotes · 💬 526 comments · r/politics",
+          "summary": "⬆ 4,989 upvotes · 💬 526 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -62,7 +62,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 3,272 upvotes · 💬 735 comments · r/politics",
+          "summary": "⬆ 3,322 upvotes · 💬 740 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -72,7 +72,7 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo condemns ICE and the White House for using her songs for promotion \"It's Dystopian\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry5mq9/olivia_rodrigo_condemns_ice_and_the_white_house/",
-          "summary": "⬆ 173 upvotes · 💬 25 comments · r/popculturechat",
+          "summary": "⬆ 183 upvotes · 💬 25 comments · r/popculturechat",
           "published_at": "2026-03-19 16:46:42+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -152,9 +152,9 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 67.91,
-      "attention_focus_score": 65.41,
-      "item_count": 11,
+      "topic_score": 74.9,
+      "attention_focus_score": 72.4,
+      "item_count": 12,
       "source_count": 6,
       "platform_count": 4,
       "sources": [
@@ -176,11 +176,21 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 17,313 upvotes · 💬 362 comments · r/politics",
+          "summary": "⬆ 17,320 upvotes · 💬 362 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 8.78
+        },
+        {
+          "source": "cnbc",
+          "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+          "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+          "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+          "published_at": "2026-03-19 17:24:32+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 6.5
         },
         {
           "source": "cnbc",
@@ -196,7 +206,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,167 upvotes · 💬 115 comments · r/worldnews",
+          "summary": "⬆ 1,173 upvotes · 💬 116 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -206,21 +216,11 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 730 upvotes · 💬 18 comments · r/politics",
+          "summary": "⬆ 761 upvotes · 💬 18 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.53
-        },
-        {
-          "source": "cnbc",
-          "title": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
-          "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
-          "summary": "Bond yields have surged as Europe's central banks grapple with new inflation fears.",
-          "published_at": "2026-03-19 16:30:25+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.2
         }
       ]
     },
@@ -248,7 +248,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 6,343 upvotes · 💬 1,090 comments · r/worldnews",
+          "summary": "⬆ 6,397 upvotes · 💬 1,095 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -534,6 +534,27 @@
     },
     {
       "topic": "everyday_economy",
+      "event": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+      "gravity_score": 6.5,
+      "priority_score": 12.5,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
       "event": "Gold and silver sell-off accelerates as inflation fears grip global markets",
       "gravity_score": 6.5,
       "priority_score": 12.5,
@@ -571,26 +592,6 @@
         "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Gas price soars 25% after strikes on Qatar hub",
-      "gravity_score": 5.53,
-      "priority_score": 11.53,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "crypto",
@@ -867,6 +868,14 @@
     "Major News Headlines": [
       {
         "topic": "everyday_economy",
+        "title": "[CNBC] Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+        "score": 6.5,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "everyday_economy",
         "title": "[CNBC] Gold and silver sell-off accelerates as inflation fears grip global markets",
         "score": 6.5,
         "source": "cnbc",
@@ -896,14 +905,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
-        "score": 5.2,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
-        "source_label": "CNBC"
       }
     ]
   }
