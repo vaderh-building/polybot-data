@@ -1,17 +1,18 @@
 {
-  "generated_at_utc": "2026-03-19T00:20:26.544013+00:00",
+  "generated_at_utc": "2026-03-19T00:23:28.639474+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 140.87,
-      "attention_focus_score": 137.87,
-      "item_count": 35,
-      "source_count": 7,
-      "platform_count": 6,
+      "topic_score": 149.92,
+      "attention_focus_score": 146.42,
+      "item_count": 36,
+      "source_count": 8,
+      "platform_count": 7,
       "sources": [
         "bbc_world",
         "cnbc",
         "coindesk",
+        "google_trends_us_daily",
         "politico",
         "reddit_politics",
         "reddit_worldnews",
@@ -21,6 +22,7 @@
         "bbc",
         "cnbc",
         "coindesk",
+        "google_trends",
         "politico",
         "reddit",
         "thehill"
@@ -30,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Judge indicates he might shut down Trump’s $400m White House ballroom plan",
           "url": "https://www.reddit.com/r/politics/comments/1rx8i38/judge_indicates_he_might_shut_down_trumps_400m/",
-          "summary": "⬆ 11,686 upvotes · 💬 418 comments · r/politics",
+          "summary": "⬆ 11,751 upvotes · 💬 418 comments · r/politics",
           "published_at": "2026-03-18 16:24:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,7 +42,7 @@
           "source": "reddit_worldnews",
           "title": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
-          "summary": "⬆ 7,148 upvotes · 💬 152 comments · r/worldnews",
+          "summary": "⬆ 7,163 upvotes · 💬 152 comments · r/worldnews",
           "published_at": "2026-03-18 10:21:23+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -57,6 +59,16 @@
           "gravity_score": 6.0
         },
         {
+          "source": "google_trends_us_daily",
+          "title": "fear factor house of fear",
+          "url": "https://trends.google.com/trending/rss?geo=US",
+          "summary": "",
+          "published_at": "2026-03-19 00:10:00+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 5.75
+        },
+        {
           "source": "cnbc",
           "title": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
           "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
@@ -65,16 +77,6 @@
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 5.0
-        },
-        {
-          "source": "politico",
-          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
-          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
-          "summary": "The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.",
-          "published_at": "2026-03-12 08:45:00+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
         }
       ]
     },
@@ -102,7 +104,7 @@
           "source": "reddit_politics",
           "title": "'Apparently I'm An Idiot': Trump Voter Freaks Out Over Rising Gas Prices",
           "url": "https://www.reddit.com/r/politics/comments/1rx3sgf/apparently_im_an_idiot_trump_voter_freaks_out/",
-          "summary": "⬆ 16,262 upvotes · 💬 914 comments · r/politics",
+          "summary": "⬆ 16,280 upvotes · 💬 915 comments · r/politics",
           "published_at": "2026-03-18 13:23:30+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -112,7 +114,7 @@
           "source": "reddit_politics",
           "title": "The world is on fire. Gas prices are rising. Republicans are trying to make it harder to vote.",
           "url": "https://www.reddit.com/r/politics/comments/1rx6i47/the_world_is_on_fire_gas_prices_are_rising/",
-          "summary": "⬆ 9,308 upvotes · 💬 328 comments · r/politics",
+          "summary": "⬆ 9,320 upvotes · 💬 330 comments · r/politics",
           "published_at": "2026-03-18 15:09:46+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -122,7 +124,7 @@
           "source": "reddit_politics",
           "title": "Fed Reserve Chair Says Trump’s Policies Mostly to Blame for Inflation",
           "url": "https://www.reddit.com/r/politics/comments/1rxj1bf/fed_reserve_chair_says_trumps_policies_mostly_to/",
-          "summary": "⬆ 2,624 upvotes · 💬 62 comments · r/politics",
+          "summary": "⬆ 2,775 upvotes · 💬 64 comments · r/politics",
           "published_at": "2026-03-18 22:49:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -132,7 +134,7 @@
           "source": "reddit_politics",
           "title": "Vance warns Americans of ‘rough road ahead’ as gas prices soar but promises it’s a ‘temporary blip’",
           "url": "https://www.reddit.com/r/politics/comments/1rxdpjn/vance_warns_americans_of_rough_road_ahead_as_gas/",
-          "summary": "⬆ 1,754 upvotes · 💬 407 comments · r/politics",
+          "summary": "⬆ 1,766 upvotes · 💬 410 comments · r/politics",
           "published_at": "2026-03-18 19:31:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -220,8 +222,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 46.04,
-      "attention_focus_score": 43.54,
+      "topic_score": 45.5,
+      "attention_focus_score": 43.0,
       "item_count": 10,
       "source_count": 6,
       "platform_count": 4,
@@ -244,7 +246,7 @@
           "source": "reddit_worldnews",
           "title": "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
           "url": "https://www.reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
-          "summary": "⬆ 5,160 upvotes · 💬 415 comments · r/worldnews",
+          "summary": "⬆ 5,157 upvotes · 💬 415 comments · r/worldnews",
           "published_at": "2026-03-18 06:01:31+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -254,7 +256,7 @@
           "source": "reddit_worldnews",
           "title": "Strike hits South Pars, world’s largest gas field, in Iran",
           "url": "https://www.reddit.com/r/worldnews/comments/1rx3fw0/strike_hits_south_pars_worlds_largest_gas_field/",
-          "summary": "⬆ 3,623 upvotes · 💬 461 comments · r/worldnews",
+          "summary": "⬆ 3,631 upvotes · 💬 461 comments · r/worldnews",
           "published_at": "2026-03-18 13:09:20+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -264,18 +266,8 @@
           "source": "reddit_popculturechat",
           "title": "Bonnie Blue charged with outraging public decency after embassy 'fake sex act stunt' | LBC",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rwzrjv/bonnie_blue_charged_with_outraging_public_decency/",
-          "summary": "⬆ 748 upvotes · 💬 230 comments · r/popculturechat",
+          "summary": "⬆ 751 upvotes · 💬 230 comments · r/popculturechat",
           "published_at": "2026-03-18 10:06:47+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.75
-        },
-        {
-          "source": "reddit_news",
-          "title": "Qatar orders Iranian Embassy officials out of the country",
-          "url": "https://www.reddit.com/r/news/comments/1rxicke/qatar_orders_iranian_embassy_officials_out_of_the/",
-          "summary": "⬆ 247 upvotes · 💬 13 comments · r/news",
-          "published_at": "2026-03-18 22:22:58+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.75
@@ -289,6 +281,16 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.5
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Iran confirms intelligence minister was killed by Israeli strike",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rxeix7/iran_confirms_intelligence_minister_was_killed_by/",
+          "summary": "⬆ 245 upvotes · 💬 71 comments · r/worldnews",
+          "published_at": "2026-03-18 20:00:34+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 3.25
         }
       ]
     },
@@ -384,7 +386,7 @@
           "source": "reddit_news",
           "title": "Fed leaves rates unchanged, sticks with single cut in 2026 despite higher inflation",
           "url": "https://www.reddit.com/r/news/comments/1rxc46c/fed_leaves_rates_unchanged_sticks_with_single_cut/",
-          "summary": "⬆ 1,959 upvotes · 💬 92 comments · r/news",
+          "summary": "⬆ 1,961 upvotes · 💬 93 comments · r/news",
           "published_at": "2026-03-18 18:33:59+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -394,7 +396,7 @@
           "source": "reddit_popculturechat",
           "title": "Niall Horan announces his 4th album ‘Dinner Party’ Out June 5th",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rx8htf/niall_horan_announces_his_4th_album_dinner_party/",
-          "summary": "⬆ 399 upvotes · 💬 50 comments · r/popculturechat",
+          "summary": "⬆ 390 upvotes · 💬 50 comments · r/popculturechat",
           "published_at": "2026-03-18 16:24:04+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -468,7 +470,7 @@
       "topic": "politics",
       "event": "'Too Many People Dying': Irish PM Martin Slams War Standing Next To Trump At White House",
       "gravity_score": 7.25,
-      "priority_score": 17.25,
+      "priority_score": 19.25,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rx00su/too_many_people_dying_irish_pm_martin_slams_war/",
@@ -476,6 +478,7 @@
         "bbc",
         "cnbc",
         "coindesk",
+        "google_trends",
         "politico",
         "reddit",
         "thehill"
@@ -490,7 +493,7 @@
       "topic": "politics",
       "event": "Watch live: Schumer, Democrats rail against GOP-led SAVE America Act",
       "gravity_score": 6.0,
-      "priority_score": 16.0,
+      "priority_score": 18.0,
       "source_platform": "thehill",
       "source_label": "",
       "url": "https://thehill.com/video-clips/5789524-schumer-padilla-oppose-save-act/",
@@ -498,6 +501,7 @@
         "bbc",
         "cnbc",
         "coindesk",
+        "google_trends",
         "politico",
         "reddit",
         "thehill"
@@ -846,35 +850,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "gui santos",
+        "title": "fear factor house of fear",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "robert parish",
+        "title": "vasco da gama vs fluminense",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "david dastmalchian",
+        "title": "portugal",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "nuggets vs grizzlies",
+        "title": "pat spencer",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "hawks vs mavericks",
+        "title": "hannah montana 2026",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
