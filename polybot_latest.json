@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T18:37:11.989250+00:00",
+  "generated_at_utc": "2026-03-19T18:39:26.441897+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -31,7 +31,7 @@
           "source": "thehill",
           "title": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
           "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
-          "summary": "Sen. Mike Lee (R-Utah) on Thursday afternoon will give remarks on the Safeguard American Voter Eligibility (SAVE) America Act as the Senate weighs the sweeping election reform bill that would require proof of citizenship to register to vote among other measures. Lee earlier this week suggested that his GOP colleagues who did not support forcing&#8230;",
+          "summary": "Sen. Mike Lee (R-Utah) will give remarks Thursday afternoon on the Safeguard American Voter Eligibility Act, referred to as the SAVE America Act, as the Senate weighs the sweeping election reform bill that would require proof of citizenship to register to vote among other measures. Lee earlier this week suggested that his GOP colleagues who&#8230;",
           "published_at": "2026-03-19 18:25:27+00:00",
           "topic": "politics",
           "keyword_hits": 4,
@@ -51,7 +51,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,135 upvotes · 💬 539 comments · r/politics",
+          "summary": "⬆ 5,150 upvotes · 💬 541 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -71,7 +71,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 3,860 upvotes · 💬 824 comments · r/politics",
+          "summary": "⬆ 3,897 upvotes · 💬 830 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -195,7 +195,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,285 upvotes · 💬 127 comments · r/worldnews",
+          "summary": "⬆ 1,295 upvotes · 💬 127 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -205,7 +205,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 1,089 upvotes · 💬 23 comments · r/politics",
+          "summary": "⬆ 1,120 upvotes · 💬 23 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -215,7 +215,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 400 upvotes · 💬 75 comments · r/news",
+          "summary": "⬆ 399 upvotes · 💬 76 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -247,7 +247,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 7,165 upvotes · 💬 1,199 comments · r/worldnews",
+          "summary": "⬆ 7,204 upvotes · 💬 1,203 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -297,21 +297,19 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 26.62,
-      "attention_focus_score": 25.12,
-      "item_count": 7,
-      "source_count": 4,
-      "platform_count": 4,
+      "topic_score": 22.42,
+      "attention_focus_score": 21.42,
+      "item_count": 6,
+      "source_count": 3,
+      "platform_count": 3,
       "sources": [
         "bbc_world",
         "google_trends_us_daily",
-        "npr_news",
         "thehill"
       ],
       "platforms": [
         "bbc",
         "google_trends",
-        "npr",
         "thehill"
       ],
       "top_items": [
@@ -346,16 +344,6 @@
           "gravity_score": 2.03
         },
         {
-          "source": "npr_news",
-          "title": "This tax season, there's a new deduction for interest on car loans",
-          "url": "https://www.npr.org/2026/03/19/nx-s1-5749420/auto-loan-interest-tax-deduction",
-          "summary": "Taxpayers who purchased a new vehicle in 2025 may qualify for a new deduction on their taxes — even if they're not itemizing. But not everyone is eligible.",
-          "published_at": "2026-03-19 09:00:00+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
-        },
-        {
           "source": "thehill",
           "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
           "url": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
@@ -364,14 +352,24 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.03
+        },
+        {
+          "source": "thehill",
+          "title": "IAEA chief skeptical Iran’s nuclear program can be eliminated with just military action",
+          "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
+          "summary": "The International Atomic Energy Agency (IAEA) Director General, Rafael Mariano Grossi, said that he does not believe that Iran’s nuclear program can be eliminated solely by military action.&#160; “I would agree with that. Because this program is a very vast program. It’s a program that has been built throughout the years, decades of efforts, and&#8230;",
+          "published_at": "2026-03-18 22:07:26+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.03
         }
       ]
     },
     {
       "topic": "social_virality",
-      "topic_score": 10.05,
-      "attention_focus_score": 9.55,
-      "item_count": 2,
+      "topic_score": 17.25,
+      "attention_focus_score": 16.75,
+      "item_count": 3,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -383,6 +381,16 @@
         "npr"
       ],
       "top_items": [
+        {
+          "source": "npr_news",
+          "title": "Afroman prevails in cops' music video defamation suit after a brief but viral trial",
+          "url": "https://www.npr.org/2026/03/19/nx-s1-5753563/afroman-lemon-pound-cake-trial",
+          "summary": "The \"Because I Got High\" rapper made waves in 2023 with the album and song \"Lemon Pound Cake,\" using home video to mock a police raid on his Ohio home. The deputies lost their civil suit against him.",
+          "published_at": "2026-03-19 18:30:05+00:00",
+          "topic": "social_virality",
+          "keyword_hits": 1,
+          "gravity_score": 7.2
+        },
         {
           "source": "bbc_top",
           "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
@@ -407,30 +415,18 @@
     },
     {
       "topic": "music_charts",
-      "topic_score": 9.5,
-      "attention_focus_score": 9.0,
-      "item_count": 2,
-      "source_count": 2,
-      "platform_count": 2,
+      "topic_score": 2.9,
+      "attention_focus_score": 2.9,
+      "item_count": 1,
+      "source_count": 1,
+      "platform_count": 1,
       "sources": [
-        "bbc_top",
         "thehill"
       ],
       "platforms": [
-        "bbc",
         "thehill"
       ],
       "top_items": [
-        {
-          "source": "bbc_top",
-          "title": "Afroman wins legal battle over songs mocking US police",
-          "url": "https://www.bbc.com/news/articles/cq57557d6p6o?at_medium=RSS&at_campaign=rss",
-          "summary": "The rapper was sued after releasing an entire album ridiculing the officers who raided his home.",
-          "published_at": "2026-03-19 12:36:47+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 4.35
-        },
         {
           "source": "thehill",
           "title": "Grammy-winner Afroman wins lawsuit over mocking police raid",
@@ -535,27 +531,6 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "reality_tv",
-      "event": "the boys season 5",
-      "gravity_score": 6.41,
-      "priority_score": 12.41,
-      "source_platform": "google_trends_us_daily",
-      "source_label": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "platforms_discussing": [
-        "bbc",
-        "google_trends",
-        "npr",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
       "topic": "geopolitics",
       "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
       "gravity_score": 6.25,
@@ -595,6 +570,26 @@
         "Will a deal be reached before a specific deadline?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "the boys season 5",
+      "gravity_score": 6.41,
+      "priority_score": 10.41,
+      "source_platform": "google_trends_us_daily",
+      "source_label": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "platforms_discussing": [
+        "bbc",
+        "google_trends",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "crypto",
@@ -888,6 +883,14 @@
         "source_label": "The Hill"
       },
       {
+        "topic": "social_virality",
+        "title": "[NPR] Afroman prevails in cops' music video defamation suit after a brief but viral trial",
+        "score": 7.2,
+        "source": "npr_news",
+        "url": "https://www.npr.org/2026/03/19/nx-s1-5753563/afroman-lemon-pound-cake-trial",
+        "source_label": "NPR"
+      },
+      {
         "topic": "politics",
         "title": "[The Hill] Watch: Q&A with The Hill’s editors",
         "score": 6.5,
@@ -902,14 +905,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/business/2026/03/19/market-maker-imc-trading-hires-alex-casimo-as-chief-commercial-officer-for-its-crypto-business",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Trump: ‘I’m not putting troops anywhere’",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/policy/defense/5792202-trump-no-troops-iran/",
-        "source_label": "The Hill"
       }
     ]
   }
