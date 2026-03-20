@@ -1,46 +1,49 @@
 {
-  "generated_at_utc": "2026-03-20T19:59:46.427390+00:00",
+  "generated_at_utc": "2026-03-20T21:55:16.976577+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 84.42,
-      "attention_focus_score": 82.42,
-      "item_count": 18,
-      "source_count": 5,
-      "platform_count": 4,
+      "topic_score": 163.68,
+      "attention_focus_score": 160.68,
+      "item_count": 38,
+      "source_count": 7,
+      "platform_count": 5,
       "sources": [
         "bbc_world",
         "coindesk",
         "politico",
+        "reddit_all",
         "reddit_politics",
-        "reddit_popculturechat"
+        "reddit_popculturechat",
+        "thehill"
       ],
       "platforms": [
         "bbc",
         "coindesk",
         "politico",
-        "reddit"
+        "reddit",
+        "thehill"
       ],
       "top_items": [
         {
-          "source": "reddit_popculturechat",
-          "title": "NBA champion Oklahoma City Thunder won’t visit White House due to ‘timing issue’",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rz642t/nba_champion_oklahoma_city_thunder_wont_visit/",
-          "summary": "⬆ 51 upvotes · 💬 14 comments · r/popculturechat",
-          "published_at": "2026-03-20 19:41:47+00:00",
+          "source": "reddit_all",
+          "title": "Jury clears Afroman of defamation for mocking cops who raided his house",
+          "url": "https://www.reddit.com/r/UpliftingNews/comments/1rz6436/jury_clears_afroman_of_defamation_for_mocking/",
+          "summary": "⬆ 6,891 upvotes · 💬 179 comments · r/all",
+          "published_at": "2026-03-20 19:41:48+00:00",
           "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 7.25
+          "keyword_hits": 1,
+          "gravity_score": 6.25
         },
         {
-          "source": "coindesk",
-          "title": "Senators say they've reached compromise on yield to advance crypto market bill",
-          "url": "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield",
-          "summary": "One of the major sticking points on the crypto market structure bill may be resolved, at least enough to move toward a Senate hearing to advance the bill.",
-          "published_at": "2026-03-20 19:27:20+00:00",
+          "source": "reddit_politics",
+          "title": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
+          "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
+          "summary": "⬆ 5,328 upvotes · 💬 302 comments · r/politics",
+          "published_at": "2026-03-20 18:38:04+00:00",
           "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 6.5
+          "keyword_hits": 1,
+          "gravity_score": 6.25
         },
         {
           "source": "coindesk",
@@ -53,20 +56,20 @@
           "gravity_score": 6.0
         },
         {
-          "source": "reddit_politics",
-          "title": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
-          "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
-          "summary": "⬆ 3,176 upvotes · 💬 188 comments · r/politics",
-          "published_at": "2026-03-20 18:38:04+00:00",
+          "source": "thehill",
+          "title": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
+          "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+          "summary": "Sen. Mike Lee (R-Utah) will give remarks Thursday afternoon on the Safeguard American Voter Eligibility Act, referred to as the SAVE America Act, as the Senate weighs the sweeping election reform bill that would require proof of citizenship to register to vote among other measures. Lee earlier this week suggested that his GOP colleagues who&#8230;",
+          "published_at": "2026-03-19 18:25:27+00:00",
           "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
+          "keyword_hits": 4,
+          "gravity_score": 6.0
         },
         {
           "source": "reddit_politics",
           "title": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
           "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
-          "summary": "⬆ 354 upvotes · 💬 51 comments · r/politics",
+          "summary": "⬆ 2,917 upvotes · 💬 215 comments · r/politics",
           "published_at": "2026-03-20 20:09:54+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -75,10 +78,84 @@
       ]
     },
     {
+      "topic": "geopolitics",
+      "topic_score": 63.22,
+      "attention_focus_score": 61.22,
+      "item_count": 13,
+      "source_count": 5,
+      "platform_count": 5,
+      "sources": [
+        "bbc_top",
+        "cnbc",
+        "npr_news",
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "npr",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "Trump calls NATO “cowards” for lack of support for Iran war",
+          "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
+          "summary": "⬆ 7,475 upvotes · 💬 1,380 comments · r/worldnews",
+          "published_at": "2026-03-20 15:43:49+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
+        },
+        {
+          "source": "cnbc",
+          "title": "Trump: 'I don't want to do a ceasefire' in Iran war",
+          "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
+          "summary": "President Donald Trump said the U.S. was 'obliterating' Iran in the conflict.",
+          "published_at": "2026-03-20 21:27:17+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
+          "summary": "⬆ 2,462 upvotes · 💬 261 comments · r/worldnews",
+          "published_at": "2026-03-20 19:21:48+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.25
+        },
+        {
+          "source": "cnbc",
+          "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
+          "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
+          "summary": "During the meeting, Trump praised Japan for \"stepping up\" to assist in efforts to secure the Strait of Hormuz, \"unlike NATO.\"",
+          "published_at": "2026-03-20 08:13:33+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "reddit_worldnews",
+          "title": "NATO withdraws troops from Iraq mission to Europe as Iran war rages",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rz0zrb/nato_withdraws_troops_from_iraq_mission_to_europe/",
+          "summary": "⬆ 873 upvotes · 💬 63 comments · r/worldnews",
+          "published_at": "2026-03-20 16:28:48+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.25
+        }
+      ]
+    },
+    {
       "topic": "crypto",
-      "topic_score": 56.5,
-      "attention_focus_score": 56.5,
-      "item_count": 17,
+      "topic_score": 53.0,
+      "attention_focus_score": 53.0,
+      "item_count": 16,
       "source_count": 1,
       "platform_count": 1,
       "sources": [
@@ -126,7 +203,7 @@
           "published_at": "2026-03-20 14:51:48+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
-          "gravity_score": 3.5
+          "gravity_score": 3.0
         },
         {
           "source": "coindesk",
@@ -141,81 +218,9 @@
       ]
     },
     {
-      "topic": "geopolitics",
-      "topic_score": 45.57,
-      "attention_focus_score": 44.07,
-      "item_count": 8,
-      "source_count": 4,
-      "platform_count": 4,
-      "sources": [
-        "bbc_top",
-        "cnbc",
-        "npr_news",
-        "reddit_worldnews"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_worldnews",
-          "title": "Trump calls NATO “cowards” for lack of support for Iran war",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
-          "summary": "⬆ 6,545 upvotes · 💬 1,289 comments · r/worldnews",
-          "published_at": "2026-03-20 15:43:49+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.25
-        },
-        {
-          "source": "cnbc",
-          "title": "Oil prices top $112 after Iraq declares force majeure, Kuwait refineries attacked",
-          "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
-          "summary": "Oil prices rose Friday even after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers.",
-          "published_at": "2026-03-20 19:54:23+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
-          "summary": "⬆ 1,253 upvotes · 💬 90 comments · r/worldnews",
-          "published_at": "2026-03-20 19:21:48+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 5.75
-        },
-        {
-          "source": "npr_news",
-          "title": "How the Iran war threatens global food supply",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply",
-          "summary": "About a third of all fertilizer shipped globally passes through the Strait of Hormuz. Now shipping is all-but stopped through the Strait and this could have repercussions for the global food supply.",
-          "published_at": "2026-03-20 19:35:21+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.5
-        },
-        {
-          "source": "cnbc",
-          "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
-          "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
-          "summary": "During the meeting, Trump praised Japan for \"stepping up\" to assist in efforts to secure the Strait of Hormuz, \"unlike NATO.\"",
-          "published_at": "2026-03-20 08:13:33+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
-        }
-      ]
-    },
-    {
       "topic": "reality_tv",
-      "topic_score": 41.02,
-      "attention_focus_score": 39.02,
+      "topic_score": 35.95,
+      "attention_focus_score": 33.95,
       "item_count": 5,
       "source_count": 5,
       "platform_count": 4,
@@ -237,11 +242,11 @@
           "source": "reddit_all",
           "title": "Arrogance Meets Instant Reality",
           "url": "https://www.reddit.com/r/MurderedByWords/comments/1rz4aw9/arrogance_meets_instant_reality/",
-          "summary": "⬆ 13,310 upvotes · 💬 327 comments · r/all",
+          "summary": "⬆ 20,544 upvotes · 💬 536 comments · r/all",
           "published_at": "2026-03-20 18:32:42+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 10.46
+          "gravity_score": 9.79
         },
         {
           "source": "cnbc",
@@ -251,17 +256,17 @@
           "published_at": "2026-03-20 19:58:00+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 8.1
+          "gravity_score": 5.4
         },
         {
           "source": "reddit_popculturechat",
           "title": "Lisa Kudrow at the premiere of each season of The Comeback (2005, 2014, 2026)",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rz40py/lisa_kudrow_at_the_premiere_of_each_season_of_the/",
-          "summary": "⬆ 241 upvotes · 💬 36 comments · r/popculturechat",
+          "summary": "⬆ 293 upvotes · 💬 39 comments · r/popculturechat",
           "published_at": "2026-03-20 18:21:57+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 5.06
+          "gravity_score": 4.39
         },
         {
           "source": "bbc_world",
@@ -281,55 +286,7 @@
           "published_at": "2026-03-20 18:45:10+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 3.38
-        }
-      ]
-    },
-    {
-      "topic": "everyday_economy",
-      "topic_score": 26.81,
-      "attention_focus_score": 26.31,
-      "item_count": 3,
-      "source_count": 2,
-      "platform_count": 2,
-      "sources": [
-        "cnbc",
-        "reddit_politics"
-      ],
-      "platforms": [
-        "cnbc",
-        "reddit"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_politics",
-          "title": "GOP Senate candidate on rising gas prices: ‘Maybe you take one less trip to Starbucks’",
-          "url": "https://www.reddit.com/r/politics/comments/1ryt0ck/gop_senate_candidate_on_rising_gas_prices_maybe/",
-          "summary": "⬆ 14,930 upvotes · 💬 1,989 comments · r/politics",
-          "published_at": "2026-03-20 10:50:50+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 8.78
-        },
-        {
-          "source": "cnbc",
-          "title": "Costco turns pain at the gas pump into a powerful in-store traffic driver",
-          "url": "https://www.cnbc.com/2026/03/20/costco-turns-pain-at-the-gas-pump-into-a-powerful-in-store-traffic-driver.html",
-          "summary": "Rising gas prices are driving shoppers to Costco for cheaper fuel, boosting store traffic and reinforcing its edge as a value retailer.",
-          "published_at": "2026-03-20 19:34:14+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 7.8
-        },
-        {
-          "source": "cnbc",
-          "title": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
-          "url": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html",
-          "summary": "Three charts show the extent of the U.K. government's borrowing woes.",
-          "published_at": "2026-03-20 16:46:19+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
+          "gravity_score": 2.7
         }
       ]
     },
@@ -355,7 +312,7 @@
           "source": "reddit_popculturechat",
           "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 761 upvotes · 💬 101 comments · r/popculturechat",
+          "summary": "⬆ 814 upvotes · 💬 103 comments · r/popculturechat",
           "published_at": "2026-03-20 11:19:56+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -384,6 +341,54 @@
       ]
     },
     {
+      "topic": "everyday_economy",
+      "topic_score": 17.09,
+      "attention_focus_score": 16.59,
+      "item_count": 3,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "cnbc",
+        "thehill"
+      ],
+      "platforms": [
+        "cnbc",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "cnbc",
+          "title": "Costco turns pain at the gas pump into a powerful in-store traffic driver",
+          "url": "https://www.cnbc.com/2026/03/20/costco-turns-pain-at-the-gas-pump-into-a-powerful-in-store-traffic-driver.html",
+          "summary": "Rising gas prices are driving shoppers to Costco for cheaper fuel, boosting store traffic and reinforcing its edge as a value retailer.",
+          "published_at": "2026-03-20 19:34:14+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
+        },
+        {
+          "source": "cnbc",
+          "title": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
+          "url": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html",
+          "summary": "Three charts show the extent of the U.K. government's borrowing woes.",
+          "published_at": "2026-03-20 16:46:19+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
+        },
+        {
+          "source": "thehill",
+          "title": "IMF: Prolonged high gas prices could increase inflation",
+          "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
+          "summary": "The International Monetary Fund (IMF) warned Thursday that rising energy prices caused by the ongoing conflict with Iran could lead to higher global inflation if prolonged, but it said no nation has yet reached out for emergency financial assistance. IMF communications director Julie Kozack told reporters that the organization was closely monitoring how oil and&#8230;",
+          "published_at": "2026-03-19 20:29:18+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 2,
+          "gravity_score": 3.9
+        }
+      ]
+    },
+    {
       "topic": "social_virality",
       "topic_score": 11.03,
       "attention_focus_score": 11.03,
@@ -401,7 +406,7 @@
           "source": "reddit_popculturechat",
           "title": "Zara Larsson reveals that she lost a 3 million dollars brand deal due to the abortion joke she made on tiktok: \"If you dont agree with me thinking that women should have access to abortion, were just not meant to be partners\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rz0itw/zara_larsson_reveals_that_she_lost_a_3_million/",
-          "summary": "⬆ 16,174 upvotes · 💬 558 comments · r/popculturechat",
+          "summary": "⬆ 19,949 upvotes · 💬 635 comments · r/popculturechat",
           "published_at": "2026-03-20 16:11:06+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -414,8 +419,8 @@
     {
       "topic": "reality_tv",
       "event": "Arrogance Meets Instant Reality",
-      "gravity_score": 10.46,
-      "priority_score": 16.46,
+      "gravity_score": 9.79,
+      "priority_score": 15.79,
       "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/MurderedByWords/comments/1rz4aw9/arrogance_meets_instant_reality/",
@@ -433,73 +438,10 @@
       "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
-      "topic": "reality_tv",
-      "event": "Your tax refund could be smaller than expected this season. Here's why",
-      "gravity_score": 8.1,
-      "priority_score": 14.1,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "politics",
-      "event": "NBA champion Oklahoma City Thunder won’t visit White House due to ‘timing issue’",
-      "gravity_score": 7.25,
-      "priority_score": 13.25,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rz642t/nba_champion_oklahoma_city_thunder_wont_visit/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "politico",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will this lead to a formal policy change or executive action?",
-        "Will a resignation or staffing change follow within 30 days?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Senators say they've reached compromise on yield to advance crypto market bill",
-      "gravity_score": 6.5,
-      "priority_score": 12.5,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "politico",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
       "topic": "geopolitics",
       "event": "Trump calls NATO “cowards” for lack of support for Iran war",
-      "gravity_score": 6.25,
-      "priority_score": 12.25,
+      "gravity_score": 6.75,
+      "priority_score": 14.75,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
@@ -507,7 +449,8 @@
         "bbc",
         "cnbc",
         "npr",
-        "reddit"
+        "reddit",
+        "thehill"
       ],
       "debatable_angles": [
         "Will a specific member state publicly commit troops or assets?",
@@ -519,9 +462,53 @@
     },
     {
       "topic": "politics",
+      "event": "Jury clears Afroman of defamation for mocking cops who raided his house",
+      "gravity_score": 6.25,
+      "priority_score": 14.25,
+      "source_platform": "reddit_all",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/UpliftingNews/comments/1rz6436/jury_clears_afroman_of_defamation_for_mocking/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
+      "gravity_score": 6.25,
+      "priority_score": 14.25,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
       "gravity_score": 6.0,
-      "priority_score": 12.0,
+      "priority_score": 14.0,
       "source_platform": "coindesk",
       "source_label": "",
       "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
@@ -529,7 +516,8 @@
         "bbc",
         "coindesk",
         "politico",
-        "reddit"
+        "reddit",
+        "thehill"
       ],
       "debatable_angles": [
         "Will the bill pass the Senate floor vote?",
@@ -539,29 +527,32 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Oil prices top $112 after Iraq declares force majeure, Kuwait refineries attacked",
+      "event": "Trump: 'I don't want to do a ceasefire' in Iran war",
       "gravity_score": 6.0,
-      "priority_score": 12.0,
+      "priority_score": 14.0,
       "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+      "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
         "npr",
-        "reddit"
+        "reddit",
+        "thehill"
       ],
       "debatable_angles": [
-        "Will crude oil close above/below a specific price within 14 days?",
-        "Will OPEC announce production changes in response?"
+        "Will both parties formally sign a ceasefire agreement by deadline?",
+        "Will the ceasefire hold for 7+ consecutive days?",
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
       "topic": "geopolitics",
       "event": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
-      "gravity_score": 5.75,
-      "priority_score": 11.75,
+      "gravity_score": 5.25,
+      "priority_score": 13.25,
       "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
@@ -569,7 +560,8 @@
         "bbc",
         "cnbc",
         "npr",
-        "reddit"
+        "reddit",
+        "thehill"
       ],
       "debatable_angles": [
         "Will crude oil close above/below a specific price within 14 days?",
@@ -579,12 +571,12 @@
     },
     {
       "topic": "reality_tv",
-      "event": "Lisa Kudrow at the premiere of each season of The Comeback (2005, 2014, 2026)",
-      "gravity_score": 5.06,
-      "priority_score": 11.06,
-      "source_platform": "reddit_popculturechat",
+      "event": "Your tax refund could be smaller than expected this season. Here's why",
+      "gravity_score": 5.4,
+      "priority_score": 11.4,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rz40py/lisa_kudrow_at_the_premiere_of_each_season_of_the/",
+      "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
       "platforms_discussing": [
         "bbc",
         "cnbc",
@@ -616,15 +608,17 @@
       "verifiable_via": "Google Trends / Platform public APIs"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Costco turns pain at the gas pump into a powerful in-store traffic driver",
-      "gravity_score": 7.8,
-      "priority_score": 9.8,
-      "source_platform": "cnbc",
+      "topic": "reality_tv",
+      "event": "Lisa Kudrow at the premiere of each season of The Comeback (2005, 2014, 2026)",
+      "gravity_score": 4.39,
+      "priority_score": 10.39,
+      "source_platform": "reddit_popculturechat",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/20/costco-turns-pain-at-the-gas-pump-into-a-powerful-in-store-traffic-driver.html",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1rz40py/lisa_kudrow_at_the_premiere_of_each_season_of_the/",
       "platforms_discussing": [
+        "bbc",
         "cnbc",
+        "npr",
         "reddit"
       ],
       "debatable_angles": [
@@ -632,7 +626,26 @@
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall…",
+      "gravity_score": 5.44,
+      "priority_score": 9.44,
+      "source_platform": "reddit_popculturechat",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
       "topic": "social_virality",
@@ -664,30 +677,30 @@
       {
         "topic": "reality_tv",
         "title": "Arrogance Meets Instant Reality",
-        "score": 10.46,
+        "score": 9.79,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/MurderedByWords/comments/1rz4aw9/arrogance_meets_instant_reality/"
       },
       {
-        "topic": "everyday_economy",
-        "title": "GOP Senate candidate on rising gas prices: ‘Maybe you take one less trip to Starbucks’",
-        "score": 8.78,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1ryt0ck/gop_senate_candidate_on_rising_gas_prices_maybe/"
+        "topic": "geopolitics",
+        "title": "Trump calls NATO “cowards” for lack of support for Iran war",
+        "score": 6.75,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/"
       },
       {
         "topic": "politics",
-        "title": "NBA champion Oklahoma City Thunder won’t visit White House due to ‘timing issue’",
-        "score": 7.25,
-        "source": "reddit_popculturechat",
-        "url": "https://www.reddit.com/r/popculturechat/comments/1rz642t/nba_champion_oklahoma_city_thunder_wont_visit/"
+        "title": "Jury clears Afroman of defamation for mocking cops who raided his house",
+        "score": 6.25,
+        "source": "reddit_all",
+        "url": "https://www.reddit.com/r/UpliftingNews/comments/1rz6436/jury_clears_afroman_of_defamation_for_mocking/"
       },
       {
-        "topic": "geopolitics",
-        "title": "Trump calls NATO “cowards” for lack of support for Iran war",
+        "topic": "politics",
+        "title": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
         "score": 6.25,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/"
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/"
       }
     ],
     "X": [
@@ -791,35 +804,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "jake bobo",
+        "title": "queens university basketball",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "sdsu women's basketball",
+        "title": "northern iowa basketball",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "cruz davis",
+        "title": "elisabetta cocciaretto",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "lens - angers",
+        "title": "harry maguire",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "murray state vs maryland",
+        "title": "reilly opelka",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -827,35 +840,11 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "reality_tv",
-        "title": "[CNBC] Your tax refund could be smaller than expected this season. Here's why",
-        "score": 8.1,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "everyday_economy",
-        "title": "[CNBC] Costco turns pain at the gas pump into a powerful in-store traffic driver",
-        "score": 7.8,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/20/costco-turns-pain-at-the-gas-pump-into-a-powerful-in-store-traffic-driver.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[CoinDesk] Senators say they've reached compromise on yield to advance crypto market bill",
-        "score": 6.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield",
-        "source_label": "CoinDesk"
-      },
-      {
         "topic": "geopolitics",
-        "title": "[CNBC] Oil prices top $112 after Iraq declares force majeure, Kuwait refineries attacked",
+        "title": "[CNBC] Trump: 'I don't want to do a ceasefire' in Iran war",
         "score": 6.0,
         "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+        "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
         "source_label": "CNBC"
       },
       {
@@ -864,6 +853,30 @@
         "score": 6.0,
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "reality_tv",
+        "title": "[CNBC] Your tax refund could be smaller than expected this season. Here's why",
+        "score": 5.4,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
+        "source_label": "CNBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CoinDesk] Senators say they've reached compromise on yield to advance crypto market bill",
+        "score": 5.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield",
         "source_label": "CoinDesk"
       }
     ]
