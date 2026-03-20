@@ -1,14 +1,15 @@
 {
-  "generated_at_utc": "2026-03-20T00:42:49.049264+00:00",
+  "generated_at_utc": "2026-03-20T00:47:09.271224+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 169.23,
-      "attention_focus_score": 165.23,
+      "topic_score": 171.33,
+      "attention_focus_score": 166.83,
       "item_count": 39,
-      "source_count": 9,
+      "source_count": 10,
       "platform_count": 7,
       "sources": [
+        "bbc_top",
         "bbc_world",
         "cnbc",
         "coindesk",
@@ -63,7 +64,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,368 upvotes · 💬 1,212 comments · r/politics",
+          "summary": "⬆ 6,386 upvotes · 💬 1,213 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -73,7 +74,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 6,574 upvotes · 💬 386 comments · r/politics",
+          "summary": "⬆ 6,655 upvotes · 💬 388 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -174,7 +175,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 3,923 upvotes · 💬 62 comments · r/politics",
+          "summary": "⬆ 3,950 upvotes · 💬 62 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -184,7 +185,7 @@
           "source": "reddit_politics",
           "title": "Skyrocketing Gas Prices Could Lose the Senate for Trump",
           "url": "https://www.reddit.com/r/politics/comments/1ryaefe/skyrocketing_gas_prices_could_lose_the_senate_for/",
-          "summary": "⬆ 639 upvotes · 💬 131 comments · r/politics",
+          "summary": "⬆ 654 upvotes · 💬 131 comments · r/politics",
           "published_at": "2026-03-19 19:50:54+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -194,7 +195,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,652 upvotes · 💬 152 comments · r/worldnews",
+          "summary": "⬆ 1,661 upvotes · 💬 152 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -245,7 +246,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 2,925 upvotes · 💬 529 comments · r/popculturechat",
+          "summary": "⬆ 2,948 upvotes · 💬 533 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -315,7 +316,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 10,772 upvotes · 💬 1,499 comments · r/worldnews",
+          "summary": "⬆ 10,790 upvotes · 💬 1,503 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -815,35 +816,35 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "georgia basketball",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "leah kateb",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "weather heat wave forecast",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "blake griffin",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "matas vokietaitis",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "kennesaw state basketball",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "robbie avila",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "norman powell",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "kenneth blakeney",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
