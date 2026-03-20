@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-20T16:02:30.416712+00:00",
+  "generated_at_utc": "2026-03-20T16:04:41.408328+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -29,7 +29,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 13,082 upvotes · 💬 665 comments · r/politics",
+          "summary": "⬆ 13,083 upvotes · 💬 665 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -69,7 +69,7 @@
           "source": "reddit_politics",
           "title": "Senate nominee Juliana Stratton says she won’t support Chuck Schumer as Democratic leader",
           "url": "https://www.reddit.com/r/politics/comments/1rygrlk/senate_nominee_juliana_stratton_says_she_wont/",
-          "summary": "⬆ 6,918 upvotes · 💬 257 comments · r/politics",
+          "summary": "⬆ 6,921 upvotes · 💬 257 comments · r/politics",
           "published_at": "2026-03-19 23:57:12+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -97,7 +97,7 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 5,271 upvotes · 💬 581 comments · r/popculturechat",
+          "summary": "⬆ 5,281 upvotes · 💬 581 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -146,6 +146,77 @@
       ]
     },
     {
+      "topic": "geopolitics",
+      "topic_score": 32.85,
+      "attention_focus_score": 31.35,
+      "item_count": 6,
+      "source_count": 4,
+      "platform_count": 3,
+      "sources": [
+        "cnbc",
+        "reddit_politics",
+        "reddit_worldnews",
+        "thehill"
+      ],
+      "platforms": [
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "Trump calls NATO “cowards” for lack of support for Iran war",
+          "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
+          "summary": "⬆ 101 upvotes · 💬 79 comments · r/worldnews",
+          "published_at": "2026-03-20 15:43:49+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 5.75
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Trump Calls NATO “Cowards” Over Lack of Support in Iran War",
+          "url": "https://www.reddit.com/r/politics/comments/1ryxg8g/trump_calls_nato_cowards_over_lack_of_support_in/",
+          "summary": "⬆ 209 upvotes · 💬 180 comments · r/politics",
+          "published_at": "2026-03-20 14:16:45+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
+        },
+        {
+          "source": "cnbc",
+          "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
+          "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
+          "summary": "During the meeting, Trump praised Japan for \"stepping up\" to assist in efforts to secure the Strait of Hormuz, \"unlike NATO.\"",
+          "published_at": "2026-03-20 08:13:33+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
+        },
+        {
+          "source": "cnbc",
+          "title": "Oil prices little changed at $108 as U.S. considers lifting sanctions on some Iranian crude",
+          "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+          "summary": "Oil prices were stable on Friday even after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers.",
+          "published_at": "2026-03-20 14:48:38+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
+        },
+        {
+          "source": "thehill",
+          "title": "Trump dubs NATO a ‘paper tiger’ over Strait of Hormuz",
+          "url": "https://thehill.com/homenews/administration/5793172-trump-nato-paper-tiger/",
+          "summary": "President Trump referred to the North Atlantic Treaty Organization (NATO) as “a paper tiger” and “cowards” on Friday over Europe’s collective stance to not support securing the Strait of Hormuz as the U.S. and Israel continue striking Iran. “Without the U.S.A., NATO IS A PAPER TIGER!” Trump wrote in a TruthSocial post. “They didn’t want&#8230;",
+          "published_at": "2026-03-20 14:44:38+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
+          "gravity_score": 4.0
+        }
+      ]
+    },
+    {
       "topic": "music_charts",
       "topic_score": 32.34,
       "attention_focus_score": 30.84,
@@ -168,7 +239,7 @@
           "source": "reddit_popculturechat",
           "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 512 upvotes · 💬 78 comments · r/popculturechat",
+          "summary": "⬆ 515 upvotes · 💬 78 comments · r/popculturechat",
           "published_at": "2026-03-20 11:19:56+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -178,7 +249,7 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
-          "summary": "⬆ 342 upvotes · 💬 52 comments · r/popculturechat",
+          "summary": "⬆ 350 upvotes · 💬 52 comments · r/popculturechat",
           "published_at": "2026-03-20 06:14:03+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -250,7 +321,7 @@
           "source": "reddit_popculturechat",
           "title": "Robert De Niro Makes Bipartisan Appeal Against Inflation and War: \"No One Voted for Higher Prices\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytgba/robert_de_niro_makes_bipartisan_appeal_against/",
-          "summary": "⬆ 118 upvotes · 💬 8 comments · r/popculturechat",
+          "summary": "⬆ 114 upvotes · 💬 8 comments · r/popculturechat",
           "published_at": "2026-03-20 11:15:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -289,76 +360,6 @@
       ]
     },
     {
-      "topic": "geopolitics",
-      "topic_score": 26.02,
-      "attention_focus_score": 25.02,
-      "item_count": 5,
-      "source_count": 3,
-      "platform_count": 3,
-      "sources": [
-        "cnbc",
-        "reddit_politics",
-        "thehill"
-      ],
-      "platforms": [
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_politics",
-          "title": "Trump Calls NATO “Cowards” Over Lack of Support in Iran War",
-          "url": "https://www.reddit.com/r/politics/comments/1ryxg8g/trump_calls_nato_cowards_over_lack_of_support_in/",
-          "summary": "⬆ 205 upvotes · 💬 179 comments · r/politics",
-          "published_at": "2026-03-20 14:16:45+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
-        },
-        {
-          "source": "cnbc",
-          "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
-          "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
-          "summary": "During the meeting, Trump praised Japan for \"stepping up\" to assist in efforts to secure the Strait of Hormuz, \"unlike NATO.\"",
-          "published_at": "2026-03-20 08:13:33+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 2,
-          "gravity_score": 4.5
-        },
-        {
-          "source": "cnbc",
-          "title": "Oil prices little changed at $108 as U.S. considers lifting sanctions on some Iranian crude",
-          "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
-          "summary": "Oil prices were stable on Friday even after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers.",
-          "published_at": "2026-03-20 14:48:38+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 4.0
-        },
-        {
-          "source": "thehill",
-          "title": "Trump dubs NATO a ‘paper tiger’ over Strait of Hormuz",
-          "url": "https://thehill.com/homenews/administration/5793172-trump-nato-paper-tiger/",
-          "summary": "President Trump referred to the North Atlantic Treaty Organization (NATO) as “a paper tiger” and “cowards” on Friday over Europe’s collective stance to not support securing the Strait of Hormuz as the U.S. and Israel continue striking Iran. “Without the U.S.A., NATO IS A PAPER TIGER!” Trump wrote in a TruthSocial post. “They didn’t want&#8230;",
-          "published_at": "2026-03-20 14:44:38+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 2,
-          "gravity_score": 4.0
-        },
-        {
-          "source": "thehill",
-          "title": "Netanyahu: Israel ‘acted alone’ against Iran gas compound",
-          "url": "https://thehill.com/policy/international/5792896-netanyahu-israel-energy-infrastructure-strike-iran/",
-          "summary": "Israeli Prime Minister Benjamin Netanyahu on Thursday said Israel &#8220;acted alone&#8221; in its attack on Iran&#8217;s largest gas compound, an action that President Trump said he did not approve of. Netanyahu, during a press conference, said despite the strike, there is no disagreement between him and Trump over the ongoing military operation in Iran. &#8220;It’s&#8230;",
-          "published_at": "2026-03-20 11:49:12+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 2.0
-        }
-      ]
-    },
-    {
       "topic": "reality_tv",
       "topic_score": 22.85,
       "attention_focus_score": 21.85,
@@ -379,7 +380,7 @@
           "source": "reddit_news",
           "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
           "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 5,387 upvotes · 💬 586 comments · r/news",
+          "summary": "⬆ 5,398 upvotes · 💬 587 comments · r/news",
           "published_at": "2026-03-20 02:34:26+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -389,7 +390,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 5,027 upvotes · 💬 721 comments · r/popculturechat",
+          "summary": "⬆ 5,022 upvotes · 💬 721 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -576,6 +577,27 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
+      "topic": "geopolitics",
+      "event": "Trump calls NATO “cowards” for lack of support for Iran war",
+      "gravity_score": 5.75,
+      "priority_score": 9.75,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
+      "platforms_discussing": [
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will a specific member state publicly commit troops or assets?",
+        "Will an emergency NATO summit be convened within 30 days?",
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -628,27 +650,6 @@
         "Will first-week streaming numbers exceed a specific threshold?"
       ],
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "geopolitics",
-      "event": "Trump Calls NATO “Cowards” Over Lack of Support in Iran War",
-      "gravity_score": 4.75,
-      "priority_score": 8.75,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1ryxg8g/trump_calls_nato_cowards_over_lack_of_support_in/",
-      "platforms_discussing": [
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will a specific member state publicly commit troops or assets?",
-        "Will an emergency NATO summit be convened within 30 days?",
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     }
   ],
   "platform_snapshots": {
@@ -790,7 +791,21 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "10 year treasury",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "lara spencer",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "charleston vs duke",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -805,20 +820,6 @@
       {
         "topic": "trending",
         "title": "cbs news radio",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "abdul carter",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "anna blinkova",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
