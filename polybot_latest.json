@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-20T16:06:48.380246+00:00",
+  "generated_at_utc": "2026-03-20T16:08:57.515371+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 159.26,
-      "attention_focus_score": 156.26,
-      "item_count": 38,
+      "topic_score": 151.72,
+      "attention_focus_score": 148.72,
+      "item_count": 37,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -25,16 +25,6 @@
         "thehill"
       ],
       "top_items": [
-        {
-          "source": "reddit_politics",
-          "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
-          "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 13,092 upvotes · 💬 665 comments · r/politics",
-          "published_at": "2026-03-19 17:07:00+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
-        },
         {
           "source": "coindesk",
           "title": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
@@ -69,11 +59,21 @@
           "source": "reddit_politics",
           "title": "Senate nominee Juliana Stratton says she won’t support Chuck Schumer as Democratic leader",
           "url": "https://www.reddit.com/r/politics/comments/1rygrlk/senate_nominee_juliana_stratton_says_she_wont/",
-          "summary": "⬆ 6,937 upvotes · 💬 257 comments · r/politics",
+          "summary": "⬆ 6,929 upvotes · 💬 257 comments · r/politics",
           "published_at": "2026-03-19 23:57:12+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.75
+        },
+        {
+          "source": "reddit_news",
+          "title": "Some DHS contractors told White House officials they were asked to pay Corey Lewandowski",
+          "url": "https://www.reddit.com/r/news/comments/1rya70m/some_dhs_contractors_told_white_house_officials/",
+          "summary": "⬆ 1,743 upvotes · 💬 76 comments · r/news",
+          "published_at": "2026-03-19 19:43:38+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 5.25
         }
       ]
     },
@@ -97,7 +97,7 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 5,288 upvotes · 💬 581 comments · r/popculturechat",
+          "summary": "⬆ 5,294 upvotes · 💬 582 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -168,7 +168,7 @@
           "source": "reddit_worldnews",
           "title": "Trump calls NATO “cowards” for lack of support for Iran war",
           "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
-          "summary": "⬆ 154 upvotes · 💬 87 comments · r/worldnews",
+          "summary": "⬆ 199 upvotes · 💬 98 comments · r/worldnews",
           "published_at": "2026-03-20 15:43:49+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -178,7 +178,7 @@
           "source": "reddit_politics",
           "title": "Trump Calls NATO “Cowards” Over Lack of Support in Iran War",
           "url": "https://www.reddit.com/r/politics/comments/1ryxg8g/trump_calls_nato_cowards_over_lack_of_support_in/",
-          "summary": "⬆ 211 upvotes · 💬 188 comments · r/politics",
+          "summary": "⬆ 218 upvotes · 💬 192 comments · r/politics",
           "published_at": "2026-03-20 14:16:45+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -239,7 +239,7 @@
           "source": "reddit_popculturechat",
           "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 521 upvotes · 💬 78 comments · r/popculturechat",
+          "summary": "⬆ 523 upvotes · 💬 78 comments · r/popculturechat",
           "published_at": "2026-03-20 11:19:56+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -308,7 +308,7 @@
           "source": "reddit_news",
           "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
           "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 5,407 upvotes · 💬 587 comments · r/news",
+          "summary": "⬆ 5,415 upvotes · 💬 587 comments · r/news",
           "published_at": "2026-03-20 02:34:26+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -318,7 +318,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 5,033 upvotes · 💬 721 comments · r/popculturechat",
+          "summary": "⬆ 5,021 upvotes · 💬 721 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -368,7 +368,7 @@
           "source": "reddit_popculturechat",
           "title": "Robert De Niro Makes Bipartisan Appeal Against Inflation and War: \"No One Voted for Higher Prices\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytgba/robert_de_niro_makes_bipartisan_appeal_against/",
-          "summary": "⬆ 117 upvotes · 💬 8 comments · r/popculturechat",
+          "summary": "⬆ 116 upvotes · 💬 8 comments · r/popculturechat",
           "published_at": "2026-03-20 11:15:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -398,29 +398,6 @@
     }
   ],
   "market_suggestions": [
-    {
-      "topic": "politics",
-      "event": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?",
-        "Will the SEC approve or reject the filing by the stated deadline?",
-        "Will this trigger a measurable price move (>5%) in the related asset?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
     {
       "topic": "politics",
       "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
@@ -462,6 +439,29 @@
         "Will the vote happen before a specific procedural deadline?",
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
+      "gravity_score": 6.0,
+      "priority_score": 14.0,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?",
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -655,13 +655,6 @@
         "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/"
       },
       {
-        "topic": "politics",
-        "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
-        "score": 6.75,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/"
-      },
-      {
         "topic": "music_charts",
         "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
         "score": 6.16,
@@ -674,6 +667,13 @@
         "score": 6.16,
         "source": "reddit_popculturechat",
         "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/"
+      },
+      {
+        "topic": "politics",
+        "title": "Senate nominee Juliana Stratton says she won’t support Chuck Schumer as Democratic leader",
+        "score": 5.75,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rygrlk/senate_nominee_juliana_stratton_says_she_wont/"
       }
     ],
     "X": [
