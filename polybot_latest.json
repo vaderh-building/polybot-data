@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-20T13:59:39.038234+00:00",
+  "generated_at_utc": "2026-03-20T15:46:44.862100+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 166.54,
-      "attention_focus_score": 163.54,
-      "item_count": 38,
+      "topic_score": 168.88,
+      "attention_focus_score": 165.88,
+      "item_count": 40,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -29,7 +29,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 12,828 upvotes · 💬 654 comments · r/politics",
+          "summary": "⬆ 13,070 upvotes · 💬 666 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -47,6 +47,16 @@
         },
         {
           "source": "thehill",
+          "title": "Live updates: Pentagon accelerates Mideast deployments; Senate set to vote on DHS funding",
+          "url": "https://thehill.com/homenews/administration/5791969-live-updates-trump-iran-senate-save-america-act/",
+          "summary": "The Senate will stick around Washington for an uncommon weekend session, as conservatives work to get the SAVE America Act, and other legislative priorities, passed. Lawmakers on Friday will vote to advance funding for the Department of Homeland Security (DHS), which is in Day 35 of a shutdown. Saturday and Sunday will bring an amendment&#8230;",
+          "published_at": "2026-03-20 15:44:57+00:00",
+          "topic": "politics",
+          "keyword_hits": 2,
+          "gravity_score": 6.0
+        },
+        {
+          "source": "thehill",
           "title": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
           "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
           "summary": "Sen. Mike Lee (R-Utah) will give remarks Thursday afternoon on the Safeguard American Voter Eligibility Act, referred to as the SAVE America Act, as the Senate weighs the sweeping election reform bill that would require proof of citizenship to register to vote among other measures. Lee earlier this week suggested that his GOP colleagues who&#8230;",
@@ -56,21 +66,11 @@
           "gravity_score": 6.0
         },
         {
-          "source": "thehill",
-          "title": "Watch: Q&A with The Hill’s editors",
-          "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
-          "summary": "Join The Hill Editor-in-Chief&#160;Ian Swanson, congressional editor Regina Zilbermints, White House editor&#160;Rema Rahman, and defense and foreign policy editor&#160;Colin Meyn&#160;for an in-depth discussion on news of the day, followed by a Q&#38;A. Will the SAVE America Act become law? Will Congress consider an Iran supplemental spending bill? And when will Congress vote to reopen the&#8230;",
-          "published_at": "2026-03-19 14:54:32+00:00",
-          "topic": "politics",
-          "keyword_hits": 4,
-          "gravity_score": 6.0
-        },
-        {
           "source": "reddit_politics",
-          "title": "Tennessee GOP advances bill that would create public list of trans residents",
-          "url": "https://www.reddit.com/r/politics/comments/1ry69ai/tennessee_gop_advances_bill_that_would_create/",
-          "summary": "⬆ 5,992 upvotes · 💬 604 comments · r/politics",
-          "published_at": "2026-03-19 17:09:37+00:00",
+          "title": "Senate nominee Juliana Stratton says she won’t support Chuck Schumer as Democratic leader",
+          "url": "https://www.reddit.com/r/politics/comments/1rygrlk/senate_nominee_juliana_stratton_says_she_wont/",
+          "summary": "⬆ 6,885 upvotes · 💬 256 comments · r/politics",
+          "published_at": "2026-03-19 23:57:12+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.75
@@ -79,9 +79,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 78.4,
-      "attention_focus_score": 77.9,
-      "item_count": 19,
+      "topic_score": 79.42,
+      "attention_focus_score": 78.92,
+      "item_count": 20,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -94,20 +94,10 @@
       ],
       "top_items": [
         {
-          "source": "coindesk",
-          "title": "Crypto wallet maker Ledger taps former Circle exec as CFO to help lead IPO push",
-          "url": "https://www.coindesk.com/business/2026/03/20/crypto-wallet-maker-ledger-taps-a-former-circle-exec-as-cfo-to-help-lead-its-push-into-the-public-markets",
-          "summary": "The crypto security firm is expanding its U.S. footprint and strengthening its leadership team as it prepares for a potential public listing.",
-          "published_at": "2026-03-20 13:57:14+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 6.0
-        },
-        {
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 4,796 upvotes · 💬 557 comments · r/popculturechat",
+          "summary": "⬆ 5,202 upvotes · 💬 578 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -115,10 +105,10 @@
         },
         {
           "source": "coindesk",
-          "title": "CoinDesk 20 performance update: Aptos (APT) gains 6.3% as index rises",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/03/20/coindesk-20-performance-update-aptos-apt-gains-6-3-as-index-rises",
-          "summary": "Bitcoin Cash (BCH), up 2.5% from Thursday, joined Aptos (APT) as a top performer.",
-          "published_at": "2026-03-20 13:12:55+00:00",
+          "title": "Bitcoin's latest fear unlocked as rate hike bets rise and bond markets crumble",
+          "url": "https://www.coindesk.com/markets/2026/03/20/bitcoin-s-latest-fear-unlocked-as-rate-hikes-bets-rise-and-bond-markets-crumble",
+          "summary": "For now, surging oil prices and persistent geopolitical tensions are driving inflation fears and weakening traditional safe-haven assets.",
+          "published_at": "2026-03-20 14:51:48+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 5.0
@@ -142,46 +132,48 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
+        },
+        {
+          "source": "coindesk",
+          "title": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq engineer is seeing",
+          "url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+          "summary": "The exchange is expanding AI use across surveillance, compliance and trading as machines take over decision-making, leaving humans as the final checkpoint.",
+          "published_at": "2026-03-19 16:16:26+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 51.69,
-      "attention_focus_score": 50.69,
-      "item_count": 9,
-      "source_count": 3,
-      "platform_count": 3,
+      "topic_score": 32.65,
+      "attention_focus_score": 31.15,
+      "item_count": 6,
+      "source_count": 4,
+      "platform_count": 4,
       "sources": [
+        "bbc_top",
         "cnbc",
         "reddit_popculturechat",
         "thehill"
       ],
       "platforms": [
+        "bbc",
         "cnbc",
         "reddit",
         "thehill"
       ],
       "top_items": [
         {
-          "source": "cnbc",
-          "title": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
-          "url": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html",
-          "summary": "Three charts show the extent of the U.K. government's borrowing woes.",
-          "published_at": "2026-03-20 13:33:43+00:00",
+          "source": "bbc_top",
+          "title": "UK borrowing costs hit highest level since 2008 financial crisis",
+          "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
+          "summary": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
+          "published_at": "2026-03-20 14:55:02+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 7.8
-        },
-        {
-          "source": "thehill",
-          "title": "Americans expect fuel costs will keep climbing: Poll",
-          "url": "https://thehill.com/policy/energy-environment/5792965-americans-fuel-costs-climbing-iran-survey/",
-          "summary": "An overwhelming majority of Americans expect oil and gas costs to keep rising amid economic strain sparked by the U.S.-Israeli conflict with Iran, according to a new poll. The Reuters/Ipsos poll, released Friday, shows that 87 percent of Americans believe gas prices will go higher over the next month, with 11 percent who say they&#8230;",
-          "published_at": "2026-03-20 13:38:32+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 5.85
+          "gravity_score": 4.55
         },
         {
           "source": "cnbc",
@@ -191,13 +183,13 @@
           "published_at": "2026-03-20 12:39:04+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 5.2
+          "gravity_score": 4.55
         },
         {
           "source": "reddit_popculturechat",
           "title": "Robert De Niro Makes Bipartisan Appeal Against Inflation and War: \"No One Voted for Higher Prices\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytgba/robert_de_niro_makes_bipartisan_appeal_against/",
-          "summary": "⬆ 80 upvotes · 💬 8 comments · r/popculturechat",
+          "summary": "⬆ 114 upvotes · 💬 8 comments · r/popculturechat",
           "published_at": "2026-03-20 11:15:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -212,121 +204,57 @@
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 3.9
-        }
-      ]
-    },
-    {
-      "topic": "reality_tv",
-      "topic_score": 39.53,
-      "attention_focus_score": 37.53,
-      "item_count": 5,
-      "source_count": 5,
-      "platform_count": 3,
-      "sources": [
-        "bbc_world",
-        "reddit_all",
-        "reddit_news",
-        "reddit_popculturechat",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_all",
-          "title": "The final couples reveal their ages to each other on 'Age of Attraction' a reality dating show where contestants' ages range from 22 to 60 and they are not allowed to reveal their age",
-          "url": "https://www.reddit.com/r/WatchPeopleDieInside/comments/1rytons/the_final_couples_reveal_their_ages_to_each_other/",
-          "summary": "⬆ 7,118 upvotes · 💬 2,117 comments · r/all",
-          "published_at": "2026-03-20 11:27:34+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 11.81
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 4,924 upvotes · 💬 711 comments · r/popculturechat",
-          "published_at": "2026-03-19 19:56:18+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 7.76
-        },
-        {
-          "source": "reddit_news",
-          "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
-          "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 4,781 upvotes · 💬 513 comments · r/news",
-          "published_at": "2026-03-20 02:34:26+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 7.76
-        },
-        {
-          "source": "bbc_world",
-          "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
-          "published_at": "2026-03-20 01:41:58+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 2,
-          "gravity_score": 4.05
         },
         {
           "source": "thehill",
-          "title": "De Blasio: ‘Defund the police’ movement a ‘mistake’",
-          "url": "https://thehill.com/homenews/campaign/5791430-de-blasio-defund-the-police-movement-nypd-new-york/",
-          "summary": "Former New York City Mayor Bill de Blasio (D) called the “defund the police” movement a “mistake” in a new interview with Fox News host Sean Hannity.&#160; “In retrospect, the whole concept of ‘defund the police’ made no sense,” de Blasio said in a preview clip of Thursday’s episode of the “Hang Out with Sean&#8230;",
-          "published_at": "2026-03-19 14:23:57+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 2.03
+          "title": "IMF: Prolonged high gas prices could increase inflation",
+          "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
+          "summary": "The International Monetary Fund (IMF) warned Thursday that rising energy prices caused by the ongoing conflict with Iran could lead to higher global inflation if prolonged, but it said no nation has yet reached out for emergency financial assistance. IMF communications director Julie Kozack told reporters that the organization was closely monitoring how oil and&#8230;",
+          "published_at": "2026-03-19 20:29:18+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 2,
+          "gravity_score": 3.9
         }
       ]
     },
     {
       "topic": "music_charts",
-      "topic_score": 38.14,
-      "attention_focus_score": 36.14,
-      "item_count": 7,
-      "source_count": 5,
-      "platform_count": 4,
+      "topic_score": 32.34,
+      "attention_focus_score": 30.84,
+      "item_count": 5,
+      "source_count": 4,
+      "platform_count": 3,
       "sources": [
         "bbc_top",
         "bbc_world",
         "coindesk",
-        "reddit_popculturechat",
-        "thehill"
+        "reddit_popculturechat"
       ],
       "platforms": [
         "bbc",
         "coindesk",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "top_items": [
         {
           "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
-          "summary": "⬆ 248 upvotes · 💬 39 comments · r/popculturechat",
-          "published_at": "2026-03-20 06:14:03+00:00",
+          "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
+          "summary": "⬆ 492 upvotes · 💬 73 comments · r/popculturechat",
+          "published_at": "2026-03-20 11:19:56+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
           "gravity_score": 6.16
         },
         {
-          "source": "coindesk",
-          "title": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
-          "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
-          "summary": "The contracts trade 24/7, are cash-settled in USDC and allow for up to 10-times leverage on single-stock contracts and 20-times on ETF products.",
-          "published_at": "2026-03-20 12:51:24+00:00",
+          "source": "reddit_popculturechat",
+          "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
+          "summary": "⬆ 338 upvotes · 💬 51 comments · r/popculturechat",
+          "published_at": "2026-03-20 06:14:03+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
-          "gravity_score": 5.8
+          "gravity_score": 6.16
         },
         {
           "source": "bbc_top",
@@ -339,14 +267,14 @@
           "gravity_score": 5.08
         },
         {
-          "source": "reddit_popculturechat",
-          "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 252 upvotes · 💬 47 comments · r/popculturechat",
-          "published_at": "2026-03-20 11:19:56+00:00",
+          "source": "coindesk",
+          "title": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
+          "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
+          "summary": "The contracts trade 24/7, are cash-settled in USDC and allow for up to 10-times leverage on single-stock contracts and 20-times on ETF products.",
+          "published_at": "2026-03-20 12:51:24+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
-          "gravity_score": 4.71
+          "gravity_score": 5.08
         },
         {
           "source": "bbc_world",
@@ -362,35 +290,29 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 29.3,
-      "attention_focus_score": 27.3,
+      "topic_score": 23.84,
+      "attention_focus_score": 23.34,
       "item_count": 5,
-      "source_count": 5,
-      "platform_count": 5,
+      "source_count": 2,
+      "platform_count": 2,
       "sources": [
         "cnbc",
-        "coindesk",
-        "npr_news",
-        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
         "cnbc",
-        "coindesk",
-        "npr",
-        "reddit",
         "thehill"
       ],
       "top_items": [
         {
-          "source": "reddit_worldnews",
-          "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 12,713 upvotes · 💬 1,646 comments · r/worldnews",
-          "published_at": "2026-03-19 14:09:16+00:00",
+          "source": "cnbc",
+          "title": "Oil prices little changed at $108 as U.S. considers lifting sanctions on some Iranian crude",
+          "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+          "summary": "Oil prices were stable on Friday even after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers.",
+          "published_at": "2026-03-20 14:48:38+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 6.75
+          "gravity_score": 5.0
         },
         {
           "source": "cnbc",
@@ -400,33 +322,33 @@
           "published_at": "2026-03-20 08:13:33+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
-          "gravity_score": 5.0
+          "gravity_score": 4.5
         },
         {
-          "source": "coindesk",
-          "title": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
-          "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
-          "summary": "Nearly $600M in deep out-of-the-money puts highlights tail-risk positioning, though flows point more to volatility strategies than to outright bearish bets.",
-          "published_at": "2026-03-19 14:34:51+00:00",
+          "source": "thehill",
+          "title": "Trump dubs NATO a ‘paper tiger’ over Strait of Hormuz",
+          "url": "https://thehill.com/homenews/administration/5793172-trump-nato-paper-tiger/",
+          "summary": "President Trump referred to the North Atlantic Treaty Organization (NATO) as “a paper tiger” and “cowards” on Friday over Europe’s collective stance to not support securing the Strait of Hormuz as the U.S. and Israel continue striking Iran. “Without the U.S.A., NATO IS A PAPER TIGER!” Trump wrote in a TruthSocial post. “They didn’t want&#8230;",
+          "published_at": "2026-03-20 14:44:38+00:00",
           "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.0
+          "keyword_hits": 2,
+          "gravity_score": 4.0
         },
         {
-          "source": "npr_news",
-          "title": "Why it's so hard for world leaders to bring down oil and gasoline prices",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5753985/oil-gasoline-prices-iran",
-          "summary": "From waiving the Jones Act to rerouting oil through the Red Sea, governments are doing their best to make up for the crisis in the Strait of Hormuz, but prices are still rising.",
-          "published_at": "2026-03-20 09:00:00+00:00",
+          "source": "thehill",
+          "title": "US military blows up drug vessel in Eastern Pacific, leaving 3 survivors",
+          "url": "https://thehill.com/policy/defense/5793193-us-military-destroys-drug-vessel-survivors/",
+          "summary": "The U.S. military blew up an alleged drug-smuggling vessel in the Eastern Pacific on Thursday, leaving three survivors, the U.S. Southern Command (Southcom) announced Friday morning. Southcom said a “low-profile” vessel was operated by a designated terrorist organization and transiting along “known narco-trafficking routes.” It is unclear if there were any casualties from the strike&#8230;",
+          "published_at": "2026-03-20 15:06:46+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 2.0
+          "gravity_score": 3.5
         },
         {
           "source": "thehill",
           "title": "Netanyahu: Israel ‘acted alone’ against Iran gas compound",
           "url": "https://thehill.com/policy/international/5792896-netanyahu-israel-energy-infrastructure-strike-iran/",
-          "summary": "Israeli Prime Minister Benjamin Netanyahu on Thursday said Israel &#8220;acted alone&#8221; in its attack on Iran&#8217;s largest gas compound, action that President Trump said he did not approve of. Netanyahu, during a press conference, said despite the strike, there is no disagreement between him and Trump over the ongoing military operation in Iran. &#8220;It’s been&#8230;",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu on Thursday said Israel &#8220;acted alone&#8221; in its attack on Iran&#8217;s largest gas compound, an action that President Trump said he did not approve of. Netanyahu, during a press conference, said despite the strike, there is no disagreement between him and Trump over the ongoing military operation in Iran. &#8220;It’s&#8230;",
           "published_at": "2026-03-20 11:49:12+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -435,53 +357,56 @@
       ]
     },
     {
-      "topic": "social_virality",
-      "topic_score": 9.77,
-      "attention_focus_score": 9.77,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
+      "topic": "reality_tv",
+      "topic_score": 22.85,
+      "attention_focus_score": 21.85,
+      "item_count": 3,
+      "source_count": 3,
+      "platform_count": 2,
       "sources": [
-        "reddit_all"
+        "bbc_world",
+        "reddit_news",
+        "reddit_popculturechat"
       ],
       "platforms": [
+        "bbc",
         "reddit"
       ],
       "top_items": [
         {
-          "source": "reddit_all",
-          "title": "More than half of TikTok ADHD content is misinformation, new research finds",
-          "url": "https://www.reddit.com/r/technology/comments/1ryrfxa/more_than_half_of_tiktok_adhd_content_is/",
-          "summary": "⬆ 6,821 upvotes · 💬 471 comments · r/all",
-          "published_at": "2026-03-20 09:15:22+00:00",
-          "topic": "social_virality",
+          "source": "reddit_news",
+          "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
+          "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
+          "summary": "⬆ 5,343 upvotes · 💬 577 comments · r/news",
+          "published_at": "2026-03-20 02:34:26+00:00",
+          "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 9.3
+          "gravity_score": 7.76
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
+          "summary": "⬆ 5,017 upvotes · 💬 720 comments · r/popculturechat",
+          "published_at": "2026-03-19 19:56:18+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
+        {
+          "source": "bbc_world",
+          "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
+          "published_at": "2026-03-20 01:41:58+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 2,
+          "gravity_score": 4.05
         }
       ]
     }
   ],
   "market_suggestions": [
-    {
-      "topic": "reality_tv",
-      "event": "The final couples reveal their ages to each other on 'Age of Attraction' a reality dating show where contestants' ages range from 22 to 60…",
-      "gravity_score": 11.81,
-      "priority_score": 15.81,
-      "source_platform": "reddit_all",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/WatchPeopleDieInside/comments/1rytons/the_final_couples_reveal_their_ages_to_each_other/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
     {
       "topic": "politics",
       "event": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
@@ -528,12 +453,12 @@
     },
     {
       "topic": "politics",
-      "event": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
+      "event": "Live updates: Pentagon accelerates Mideast deployments; Senate set to vote on DHS funding",
       "gravity_score": 6.0,
       "priority_score": 14.0,
       "source_platform": "thehill",
       "source_label": "",
-      "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+      "url": "https://thehill.com/homenews/administration/5791969-live-updates-trump-iran-senate-save-america-act/",
       "platforms_discussing": [
         "bbc",
         "coindesk",
@@ -544,24 +469,105 @@
       "debatable_angles": [
         "Will the bill pass the Senate floor vote?",
         "Will the vote happen before a specific procedural deadline?",
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "UK borrowing costs hit highest level since 2008 financial crisis",
+      "gravity_score": 4.55,
+      "priority_score": 10.55,
+      "source_platform": "bbc_top",
+      "source_label": "",
+      "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Banks eye three ECB rate hikes this year as former Governor says he sees no stagflation — yet",
+      "gravity_score": 4.55,
+      "priority_score": 10.55,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/20/banks-eye-three-ecb-rate-hikes-this-year.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Robert De Niro Makes Bipartisan Appeal Against Inflation and War: \"No One Voted for Higher Prices\"",
+      "gravity_score": 4.23,
+      "priority_score": 10.23,
+      "source_platform": "reddit_popculturechat",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1rytgba/robert_de_niro_makes_bipartisan_appeal_against/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?",
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall…",
+      "gravity_score": 6.16,
+      "priority_score": 10.16,
+      "source_platform": "reddit_popculturechat",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit"
+      ],
+      "debatable_angles": [
         "Will this bill pass committee/floor vote by a specific date?",
         "Will the president sign or veto it?"
       ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
       "topic": "music_charts",
       "event": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
       "gravity_score": 6.16,
-      "priority_score": 12.16,
+      "priority_score": 10.16,
       "source_platform": "reddit_popculturechat",
       "source_label": "",
       "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
       "platforms_discussing": [
         "bbc",
         "coindesk",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "debatable_angles": [
         "Will it debut at #1 on Billboard 200?",
@@ -570,97 +576,34 @@
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
-      "topic": "everyday_economy",
-      "event": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
-      "gravity_score": 7.8,
-      "priority_score": 11.8,
-      "source_platform": "cnbc",
+      "topic": "social_virality",
+      "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
+      "gravity_score": 9.2,
+      "priority_score": 9.2,
+      "source_platform": "TikTok",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html",
+      "url": "",
       "platforms_discussing": [
-        "cnbc",
-        "reddit",
-        "thehill"
+        "TikTok"
       ],
       "debatable_angles": [
-        "Will the next CPI reading come in above/below consensus?"
+        "Will the predicted frontrunner actually win?",
+        "Will viewership exceed last year's numbers?"
       ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "music_charts",
-      "event": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
-      "gravity_score": 5.8,
-      "priority_score": 11.8,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-      "gravity_score": 7.76,
-      "priority_score": 11.76,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
-      "gravity_score": 7.76,
-      "priority_score": 11.76,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
+      "verifiable_via": "Google Trends / Platform public APIs"
     },
     {
       "topic": "music_charts",
       "event": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
       "gravity_score": 5.08,
-      "priority_score": 11.08,
+      "priority_score": 9.08,
       "source_platform": "bbc_top",
       "source_label": "",
       "url": "https://www.bbc.com/news/articles/cew7l8nr5jeo?at_medium=RSS&at_campaign=rss",
       "platforms_discussing": [
         "bbc",
         "coindesk",
-        "reddit",
-        "thehill"
+        "reddit"
       ],
       "debatable_angles": [
         "Is there a specific deadline, vote, or official decision embedded in this story?",
@@ -670,58 +613,47 @@
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Americans expect fuel costs will keep climbing: Poll",
-      "gravity_score": 5.85,
-      "priority_score": 9.85,
-      "source_platform": "thehill",
+      "topic": "music_charts",
+      "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
+      "gravity_score": 8.8,
+      "priority_score": 8.8,
+      "source_platform": "TikTok",
       "source_label": "",
-      "url": "https://thehill.com/policy/energy-environment/5792965-americans-fuel-costs-climbing-iran-survey/",
+      "url": "",
       "platforms_discussing": [
-        "cnbc",
-        "reddit",
-        "thehill"
+        "TikTok"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will it debut at #1 on Billboard 200?",
+        "Will first-week streaming numbers exceed a specific threshold?"
       ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
-      "topic": "social_virality",
-      "event": "More than half of TikTok ADHD content is misinformation, new research finds",
-      "gravity_score": 9.3,
-      "priority_score": 9.3,
-      "source_platform": "Reddit",
+      "topic": "beauty",
+      "event": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
+      "gravity_score": 8.7,
+      "priority_score": 8.7,
+      "source_platform": "Xiaohongshu",
       "source_label": "",
-      "url": "https://www.reddit.com/r/technology/comments/1ryrfxa/more_than_half_of_tiktok_adhd_content_is/",
+      "url": "",
       "platforms_discussing": [
-        "Reddit"
+        "Xiaohongshu"
       ],
       "debatable_angles": [
-        "Will this reach 100M+ total views on TikTok?",
-        "Will TikTok face a regulatory decision (ban/sale) by a specific date?"
+        "Will the trending product see measurable sales spike on Amazon/Ulta?"
       ],
-      "verifiable_via": "Google Trends / Platform public APIs"
+      "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
     }
   ],
   "platform_snapshots": {
     "Reddit": [
       {
         "topic": "reality_tv",
-        "title": "The final couples reveal their ages to each other on 'Age of Attraction' a reality dating show where contestants' ages range from 22 to 60 and they are not allowed to reveal their age",
-        "score": 11.81,
-        "source": "reddit_all",
-        "url": "https://www.reddit.com/r/WatchPeopleDieInside/comments/1rytons/the_final_couples_reveal_their_ages_to_each_other/"
-      },
-      {
-        "topic": "social_virality",
-        "title": "More than half of TikTok ADHD content is misinformation, new research finds",
-        "score": 9.3,
-        "source": "reddit_all",
-        "url": "https://www.reddit.com/r/technology/comments/1ryrfxa/more_than_half_of_tiktok_adhd_content_is/"
+        "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
+        "score": 7.76,
+        "source": "reddit_news",
+        "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/"
       },
       {
         "topic": "reality_tv",
@@ -731,18 +663,25 @@
         "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/"
       },
       {
-        "topic": "reality_tv",
-        "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
-        "score": 7.76,
-        "source": "reddit_news",
-        "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/"
+        "topic": "politics",
+        "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
+        "score": 6.75,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/"
       },
       {
-        "topic": "geopolitics",
-        "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-        "score": 6.75,
-        "source": "reddit_worldnews",
-        "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
+        "topic": "music_charts",
+        "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
+        "score": 6.16,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/"
+      },
+      {
+        "topic": "music_charts",
+        "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
+        "score": 6.16,
+        "source": "reddit_popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/"
       }
     ],
     "X": [
@@ -846,57 +785,41 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "rose byrne",
+        "title": "horoscope today",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "robin roberts",
+        "title": "cbs news radio",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "pussycat dolls members",
+        "title": "abdul carter",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "a-10 warthog",
+        "title": "anna blinkova",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "dell stock",
+        "title": "sara eisen",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
-      {
-        "topic": "everyday_economy",
-        "title": "[CNBC] UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
-        "score": 7.8,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html",
-        "source_label": "CNBC"
-      },
-      {
-        "topic": "crypto",
-        "title": "[CoinDesk] Crypto wallet maker Ledger taps former Circle exec as CFO to help lead IPO push",
-        "score": 6.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/20/crypto-wallet-maker-ledger-taps-a-former-circle-exec-as-cfo-to-help-lead-its-push-into-the-public-markets",
-        "source_label": "CoinDesk"
-      },
       {
         "topic": "politics",
         "title": "[CoinDesk] Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
@@ -907,6 +830,14 @@
       },
       {
         "topic": "politics",
+        "title": "[The Hill] Live updates: Pentagon accelerates Mideast deployments; Senate set to vote on DHS funding",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/homenews/administration/5791969-live-updates-trump-iran-senate-save-america-act/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "politics",
         "title": "[The Hill] Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
         "score": 6.0,
         "source": "thehill",
@@ -914,12 +845,20 @@
         "source_label": "The Hill"
       },
       {
-        "topic": "politics",
-        "title": "[The Hill] Watch: Q&A with The Hill’s editors",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
-        "source_label": "The Hill"
+        "topic": "music_charts",
+        "title": "[BBC] Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
+        "score": 5.08,
+        "source": "bbc_top",
+        "url": "https://www.bbc.com/news/articles/cew7l8nr5jeo?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
+      },
+      {
+        "topic": "music_charts",
+        "title": "[CoinDesk] Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
+        "score": 5.08,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
+        "source_label": "CoinDesk"
       }
     ]
   }
