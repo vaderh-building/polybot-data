@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-20T13:40:58.412569+00:00",
+  "generated_at_utc": "2026-03-20T13:59:39.038234+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 163.16,
-      "attention_focus_score": 160.16,
-      "item_count": 37,
+      "topic_score": 166.54,
+      "attention_focus_score": 163.54,
+      "item_count": 38,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -29,7 +29,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 12,759 upvotes · 💬 652 comments · r/politics",
+          "summary": "⬆ 12,828 upvotes · 💬 654 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -69,7 +69,7 @@
           "source": "reddit_politics",
           "title": "Tennessee GOP advances bill that would create public list of trans residents",
           "url": "https://www.reddit.com/r/politics/comments/1ry69ai/tennessee_gop_advances_bill_that_would_create/",
-          "summary": "⬆ 5,974 upvotes · 💬 603 comments · r/politics",
+          "summary": "⬆ 5,992 upvotes · 💬 604 comments · r/politics",
           "published_at": "2026-03-19 17:09:37+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,9 +79,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 74.81,
-      "attention_focus_score": 74.31,
-      "item_count": 18,
+      "topic_score": 78.4,
+      "attention_focus_score": 77.9,
+      "item_count": 19,
       "source_count": 2,
       "platform_count": 2,
       "sources": [
@@ -95,10 +95,10 @@
       "top_items": [
         {
           "source": "coindesk",
-          "title": "CoinDesk 20 performance update: Aptos (APT) gains 6.3% as index rises",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/03/20/coindesk-20-performance-update-aptos-apt-gains-6-3-as-index-rises",
-          "summary": "Bitcoin Cash (BCH), up 2.5% from Thursday, joined Aptos (APT) as a top performer.",
-          "published_at": "2026-03-20 13:12:55+00:00",
+          "title": "Crypto wallet maker Ledger taps former Circle exec as CFO to help lead IPO push",
+          "url": "https://www.coindesk.com/business/2026/03/20/crypto-wallet-maker-ledger-taps-a-former-circle-exec-as-cfo-to-help-lead-its-push-into-the-public-markets",
+          "summary": "The crypto security firm is expanding its U.S. footprint and strengthening its leadership team as it prepares for a potential public listing.",
+          "published_at": "2026-03-20 13:57:14+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 6.0
@@ -107,7 +107,7 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 4,727 upvotes · 💬 552 comments · r/popculturechat",
+          "summary": "⬆ 4,796 upvotes · 💬 557 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -115,10 +115,10 @@
         },
         {
           "source": "coindesk",
-          "title": "Iran war volatility is driving oil trading boom on Hyperliquid, says JPMorgan",
-          "url": "https://www.coindesk.com/business/2026/03/20/iran-war-volatility-is-driving-oil-trading-boom-on-hyperliquid-says-jpmorgan",
-          "summary": "Round-the-clock oil trading on Hyperliquid is drawing investors beyond crypto as geopolitical shocks expose gaps in traditional markets, the bank said.",
-          "published_at": "2026-03-20 12:45:45+00:00",
+          "title": "CoinDesk 20 performance update: Aptos (APT) gains 6.3% as index rises",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/03/20/coindesk-20-performance-update-aptos-apt-gains-6-3-as-index-rises",
+          "summary": "Bitcoin Cash (BCH), up 2.5% from Thursday, joined Aptos (APT) as a top performer.",
+          "published_at": "2026-03-20 13:12:55+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 5.0
@@ -147,14 +147,13 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 53.98,
-      "attention_focus_score": 52.48,
+      "topic_score": 51.69,
+      "attention_focus_score": 50.69,
       "item_count": 9,
-      "source_count": 4,
+      "source_count": 3,
       "platform_count": 3,
       "sources": [
         "cnbc",
-        "reddit_politics",
         "reddit_popculturechat",
         "thehill"
       ],
@@ -175,14 +174,14 @@
           "gravity_score": 7.8
         },
         {
-          "source": "reddit_politics",
-          "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
-          "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 7,128 upvotes · 💬 95 comments · r/politics",
-          "published_at": "2026-03-19 15:48:40+00:00",
+          "source": "thehill",
+          "title": "Americans expect fuel costs will keep climbing: Poll",
+          "url": "https://thehill.com/policy/energy-environment/5792965-americans-fuel-costs-climbing-iran-survey/",
+          "summary": "An overwhelming majority of Americans expect oil and gas costs to keep rising amid economic strain sparked by the U.S.-Israeli conflict with Iran, according to a new poll. The Reuters/Ipsos poll, released Friday, shows that 87 percent of Americans believe gas prices will go higher over the next month, with 11 percent who say they&#8230;",
+          "published_at": "2026-03-20 13:38:32+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 7.48
+          "gravity_score": 5.85
         },
         {
           "source": "cnbc",
@@ -198,7 +197,7 @@
           "source": "reddit_popculturechat",
           "title": "Robert De Niro Makes Bipartisan Appeal Against Inflation and War: \"No One Voted for Higher Prices\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytgba/robert_de_niro_makes_bipartisan_appeal_against/",
-          "summary": "⬆ 68 upvotes · 💬 7 comments · r/popculturechat",
+          "summary": "⬆ 80 upvotes · 💬 8 comments · r/popculturechat",
           "published_at": "2026-03-20 11:15:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -217,82 +216,9 @@
       ]
     },
     {
-      "topic": "music_charts",
-      "topic_score": 39.6,
-      "attention_focus_score": 37.6,
-      "item_count": 7,
-      "source_count": 5,
-      "platform_count": 4,
-      "sources": [
-        "bbc_top",
-        "bbc_world",
-        "coindesk",
-        "reddit_popculturechat",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "coindesk",
-          "title": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
-          "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
-          "summary": "The contracts trade 24/7, are cash-settled in USDC and allow for up to 10-times leverage on single-stock contracts and 20-times on ETF products.",
-          "published_at": "2026-03-20 12:51:24+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 7.25
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
-          "summary": "⬆ 229 upvotes · 💬 40 comments · r/popculturechat",
-          "published_at": "2026-03-20 06:14:03+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 6.16
-        },
-        {
-          "source": "bbc_top",
-          "title": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
-          "url": "https://www.bbc.com/news/articles/cew7l8nr5jeo?at_medium=RSS&at_campaign=rss",
-          "summary": "The painting by Spanish artist Nieves Gonzalez was used on the cover of the singer's latest album.",
-          "published_at": "2026-03-20 11:15:50+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 5.08
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 220 upvotes · 💬 38 comments · r/popculturechat",
-          "published_at": "2026-03-20 11:19:56+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 4.71
-        },
-        {
-          "source": "bbc_world",
-          "title": "BTS return from military service - but does their album live up to the hype?",
-          "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
-          "summary": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days.",
-          "published_at": "2026-03-20 04:04:50+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 4.35
-        }
-      ]
-    },
-    {
       "topic": "reality_tv",
-      "topic_score": 38.15,
-      "attention_focus_score": 36.15,
+      "topic_score": 39.53,
+      "attention_focus_score": 37.53,
       "item_count": 5,
       "source_count": 5,
       "platform_count": 3,
@@ -313,17 +239,17 @@
           "source": "reddit_all",
           "title": "The final couples reveal their ages to each other on 'Age of Attraction' a reality dating show where contestants' ages range from 22 to 60 and they are not allowed to reveal their age",
           "url": "https://www.reddit.com/r/WatchPeopleDieInside/comments/1rytons/the_final_couples_reveal_their_ages_to_each_other/",
-          "summary": "⬆ 5,901 upvotes · 💬 1,738 comments · r/all",
+          "summary": "⬆ 7,118 upvotes · 💬 2,117 comments · r/all",
           "published_at": "2026-03-20 11:27:34+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 10.46
+          "gravity_score": 11.81
         },
         {
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 4,914 upvotes · 💬 709 comments · r/popculturechat",
+          "summary": "⬆ 4,924 upvotes · 💬 711 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -333,7 +259,7 @@
           "source": "reddit_news",
           "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
           "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 4,618 upvotes · 💬 495 comments · r/news",
+          "summary": "⬆ 4,781 upvotes · 💬 513 comments · r/news",
           "published_at": "2026-03-20 02:34:26+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -362,25 +288,110 @@
       ]
     },
     {
-      "topic": "geopolitics",
-      "topic_score": 20.36,
-      "attention_focus_score": 18.86,
-      "item_count": 4,
-      "source_count": 4,
+      "topic": "music_charts",
+      "topic_score": 38.14,
+      "attention_focus_score": 36.14,
+      "item_count": 7,
+      "source_count": 5,
       "platform_count": 4,
+      "sources": [
+        "bbc_top",
+        "bbc_world",
+        "coindesk",
+        "reddit_popculturechat",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_popculturechat",
+          "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
+          "summary": "⬆ 248 upvotes · 💬 39 comments · r/popculturechat",
+          "published_at": "2026-03-20 06:14:03+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 6.16
+        },
+        {
+          "source": "coindesk",
+          "title": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
+          "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
+          "summary": "The contracts trade 24/7, are cash-settled in USDC and allow for up to 10-times leverage on single-stock contracts and 20-times on ETF products.",
+          "published_at": "2026-03-20 12:51:24+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 5.8
+        },
+        {
+          "source": "bbc_top",
+          "title": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
+          "url": "https://www.bbc.com/news/articles/cew7l8nr5jeo?at_medium=RSS&at_campaign=rss",
+          "summary": "The painting by Spanish artist Nieves Gonzalez was used on the cover of the singer's latest album.",
+          "published_at": "2026-03-20 11:15:50+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 5.08
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
+          "summary": "⬆ 252 upvotes · 💬 47 comments · r/popculturechat",
+          "published_at": "2026-03-20 11:19:56+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 4.71
+        },
+        {
+          "source": "bbc_world",
+          "title": "BTS return from military service - but does their album live up to the hype?",
+          "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
+          "summary": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days.",
+          "published_at": "2026-03-20 04:04:50+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 4.35
+        }
+      ]
+    },
+    {
+      "topic": "geopolitics",
+      "topic_score": 29.3,
+      "attention_focus_score": 27.3,
+      "item_count": 5,
+      "source_count": 5,
+      "platform_count": 5,
       "sources": [
         "cnbc",
         "coindesk",
         "npr_news",
+        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
         "cnbc",
         "coindesk",
         "npr",
+        "reddit",
         "thehill"
       ],
       "top_items": [
+        {
+          "source": "reddit_worldnews",
+          "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+          "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
+          "summary": "⬆ 12,713 upvotes · 💬 1,646 comments · r/worldnews",
+          "published_at": "2026-03-19 14:09:16+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
+        },
         {
           "source": "cnbc",
           "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
@@ -402,21 +413,21 @@
           "gravity_score": 3.0
         },
         {
-          "source": "thehill",
-          "title": "Netanyahu: Israel ‘acted alone’ against Iran gas compound",
-          "url": "https://thehill.com/policy/international/5792896-netanyahu-israel-energy-infrastructure-strike-iran/",
-          "summary": "Israeli Prime Minister Benjamin Netanyahu on Thursday said Israel &#8220;acted alone&#8221; in its attack on Iran&#8217;s largest gas compound, action that President Trump said he did not approve of. Netanyahu, during a press conference, said despite the strike, there is no disagreement between him and Trump over the ongoing military operation in Iran. &#8220;It’s been&#8230;",
-          "published_at": "2026-03-20 11:49:12+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 2.5
-        },
-        {
           "source": "npr_news",
           "title": "Why it's so hard for world leaders to bring down oil and gasoline prices",
           "url": "https://www.npr.org/2026/03/20/nx-s1-5753985/oil-gasoline-prices-iran",
           "summary": "From waiving the Jones Act to rerouting oil through the Red Sea, governments are doing their best to make up for the crisis in the Strait of Hormuz, but prices are still rising.",
           "published_at": "2026-03-20 09:00:00+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 2.0
+        },
+        {
+          "source": "thehill",
+          "title": "Netanyahu: Israel ‘acted alone’ against Iran gas compound",
+          "url": "https://thehill.com/policy/international/5792896-netanyahu-israel-energy-infrastructure-strike-iran/",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu on Thursday said Israel &#8220;acted alone&#8221; in its attack on Iran&#8217;s largest gas compound, action that President Trump said he did not approve of. Netanyahu, during a press conference, said despite the strike, there is no disagreement between him and Trump over the ongoing military operation in Iran. &#8220;It’s been&#8230;",
+          "published_at": "2026-03-20 11:49:12+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.0
@@ -441,7 +452,7 @@
           "source": "reddit_all",
           "title": "More than half of TikTok ADHD content is misinformation, new research finds",
           "url": "https://www.reddit.com/r/technology/comments/1ryrfxa/more_than_half_of_tiktok_adhd_content_is/",
-          "summary": "⬆ 5,997 upvotes · 💬 419 comments · r/all",
+          "summary": "⬆ 6,821 upvotes · 💬 471 comments · r/all",
           "published_at": "2026-03-20 09:15:22+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -451,6 +462,26 @@
     }
   ],
   "market_suggestions": [
+    {
+      "topic": "reality_tv",
+      "event": "The final couples reveal their ages to each other on 'Age of Attraction' a reality dating show where contestants' ages range from 22 to 60…",
+      "gravity_score": 11.81,
+      "priority_score": 15.81,
+      "source_platform": "reddit_all",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/WatchPeopleDieInside/comments/1rytons/the_final_couples_reveal_their_ages_to_each_other/",
+      "platforms_discussing": [
+        "bbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
     {
       "topic": "politics",
       "event": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
@@ -473,26 +504,6 @@
         "Will this trigger a measurable price move (>5%) in the related asset?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "The final couples reveal their ages to each other on 'Age of Attraction' a reality dating show where contestants' ages range from 22 to 60…",
-      "gravity_score": 10.46,
-      "priority_score": 14.46,
-      "source_platform": "reddit_all",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/WatchPeopleDieInside/comments/1rytons/the_final_couples_reveal_their_ages_to_each_other/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "politics",
@@ -540,27 +551,6 @@
     },
     {
       "topic": "music_charts",
-      "event": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
-      "gravity_score": 7.25,
-      "priority_score": 13.25,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "music_charts",
       "event": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
       "gravity_score": 6.16,
       "priority_score": 12.16,
@@ -596,6 +586,27 @@
         "Will the next CPI reading come in above/below consensus?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
+      "gravity_score": 5.8,
+      "priority_score": 11.8,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
       "topic": "reality_tv",
@@ -638,26 +649,6 @@
       "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
-      "gravity_score": 7.48,
-      "priority_score": 11.48,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-      "platforms_discussing": [
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?",
-        "Will the next CPI reading come in above/below consensus?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
       "topic": "music_charts",
       "event": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
       "gravity_score": 5.08,
@@ -677,6 +668,26 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Americans expect fuel costs will keep climbing: Poll",
+      "gravity_score": 5.85,
+      "priority_score": 9.85,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/policy/energy-environment/5792965-americans-fuel-costs-climbing-iran-survey/",
+      "platforms_discussing": [
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "social_virality",
@@ -701,7 +712,7 @@
       {
         "topic": "reality_tv",
         "title": "The final couples reveal their ages to each other on 'Age of Attraction' a reality dating show where contestants' ages range from 22 to 60 and they are not allowed to reveal their age",
-        "score": 10.46,
+        "score": 11.81,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/WatchPeopleDieInside/comments/1rytons/the_final_couples_reveal_their_ages_to_each_other/"
       },
@@ -727,11 +738,11 @@
         "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/"
       },
       {
-        "topic": "everyday_economy",
-        "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
-        "score": 7.48,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/"
+        "topic": "geopolitics",
+        "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+        "score": 6.75,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
       }
     ],
     "X": [
@@ -835,35 +846,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "dennis rodman",
+        "title": "rose byrne",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "scott cross",
+        "title": "robin roberts",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "uss boxer",
+        "title": "pussycat dolls members",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "tim roth",
+        "title": "a-10 warthog",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "anderson cooper",
+        "title": "dell stock",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -879,19 +890,11 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "music_charts",
-        "title": "[CoinDesk] Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
-        "score": 7.25,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
-        "source_label": "CoinDesk"
-      },
-      {
         "topic": "crypto",
-        "title": "[CoinDesk] CoinDesk 20 performance update: Aptos (APT) gains 6.3% as index rises",
+        "title": "[CoinDesk] Crypto wallet maker Ledger taps former Circle exec as CFO to help lead IPO push",
         "score": 6.0,
         "source": "coindesk",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/03/20/coindesk-20-performance-update-aptos-apt-gains-6-3-as-index-rises",
+        "url": "https://www.coindesk.com/business/2026/03/20/crypto-wallet-maker-ledger-taps-a-former-circle-exec-as-cfo-to-help-lead-its-push-into-the-public-markets",
         "source_label": "CoinDesk"
       },
       {
@@ -908,6 +911,14 @@
         "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] Watch: Q&A with The Hill’s editors",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
         "source_label": "The Hill"
       }
     ]
