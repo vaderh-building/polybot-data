@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-19T23:56:23.328513+00:00",
+  "generated_at_utc": "2026-03-20T00:29:13.078913+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 181.74,
-      "attention_focus_score": 177.74,
-      "item_count": 41,
+      "topic_score": 176.95,
+      "attention_focus_score": 172.95,
+      "item_count": 40,
       "source_count": 9,
       "platform_count": 7,
       "sources": [
@@ -33,7 +33,7 @@
           "source": "reddit_politics",
           "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
           "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,613 upvotes · 💬 574 comments · r/politics",
+          "summary": "⬆ 5,646 upvotes · 💬 576 comments · r/politics",
           "published_at": "2026-03-19 08:06:03+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -47,7 +47,7 @@
           "published_at": "2026-03-19 22:10:45+00:00",
           "topic": "politics",
           "keyword_hits": 3,
-          "gravity_score": 7.0
+          "gravity_score": 6.5
         },
         {
           "source": "thehill",
@@ -57,7 +57,7 @@
           "published_at": "2026-03-19 18:25:27+00:00",
           "topic": "politics",
           "keyword_hits": 4,
-          "gravity_score": 6.5
+          "gravity_score": 6.0
         },
         {
           "source": "thehill",
@@ -73,7 +73,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,179 upvotes · 💬 1,199 comments · r/politics",
+          "summary": "⬆ 6,317 upvotes · 💬 1,208 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -83,9 +83,9 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 81.57,
-      "attention_focus_score": 80.57,
-      "item_count": 19,
+      "topic_score": 85.97,
+      "attention_focus_score": 84.97,
+      "item_count": 20,
       "source_count": 3,
       "platform_count": 3,
       "sources": [
@@ -153,15 +153,14 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 49.03,
-      "attention_focus_score": 46.53,
-      "item_count": 9,
-      "source_count": 6,
+      "topic_score": 40.48,
+      "attention_focus_score": 38.48,
+      "item_count": 7,
+      "source_count": 5,
       "platform_count": 4,
       "sources": [
         "bbc_top",
         "cnbc",
-        "reddit_news",
         "reddit_politics",
         "reddit_worldnews",
         "thehill"
@@ -177,7 +176,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 3,562 upvotes · 💬 61 comments · r/politics",
+          "summary": "⬆ 3,804 upvotes · 💬 62 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -187,18 +186,8 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,614 upvotes · 💬 150 comments · r/worldnews",
+          "summary": "⬆ 1,642 upvotes · 💬 152 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.88
-        },
-        {
-          "source": "reddit_news",
-          "title": "Gas price soars over 20% after strikes on Qatar hub",
-          "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 663 upvotes · 💬 119 comments · r/news",
-          "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 4.88
@@ -222,13 +211,23 @@
           "topic": "everyday_economy",
           "keyword_hits": 2,
           "gravity_score": 4.55
+        },
+        {
+          "source": "cnbc",
+          "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+          "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+          "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+          "published_at": "2026-03-19 17:24:32+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 3.9
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 35.96,
-      "attention_focus_score": 34.46,
+      "topic_score": 33.22,
+      "attention_focus_score": 31.72,
       "item_count": 7,
       "source_count": 4,
       "platform_count": 3,
@@ -248,21 +247,11 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 2,604 upvotes · 💬 497 comments · r/popculturechat",
+          "summary": "⬆ 2,822 upvotes · 💬 512 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 7.09
-        },
-        {
-          "source": "bbc_top",
-          "title": "Famous night for Forest in season to largely forget",
-          "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
-          "summary": "Nottingham Forest are fighting for Premier League survival but reaching the Europa League quarter-finals could provide hope in an otherwise torrid season.",
-          "published_at": "2026-03-19 23:35:46+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 6.08
         },
         {
           "source": "bbc_world",
@@ -272,13 +261,23 @@
           "published_at": "2026-03-19 22:24:51+00:00",
           "topic": "reality_tv",
           "keyword_hits": 2,
-          "gravity_score": 5.4
+          "gravity_score": 4.73
+        },
+        {
+          "source": "bbc_top",
+          "title": "Famous night for Forest in season to largely forget",
+          "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
+          "summary": "Nottingham Forest are fighting for Premier League survival but reaching the Europa League quarter-finals could provide hope in an otherwise torrid season.",
+          "published_at": "2026-03-19 23:35:46+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.73
         },
         {
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 334 upvotes · 💬 35 comments · r/popculturechat",
+          "summary": "⬆ 347 upvotes · 💬 35 comments · r/popculturechat",
           "published_at": "2026-03-19 18:52:40+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -292,15 +291,15 @@
           "published_at": "2026-03-19 22:24:51+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 3.38
+          "gravity_score": 2.7
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 16.5,
-      "attention_focus_score": 15.5,
-      "item_count": 3,
+      "topic_score": 21.08,
+      "attention_focus_score": 20.08,
+      "item_count": 4,
       "source_count": 3,
       "platform_count": 3,
       "sources": [
@@ -318,11 +317,21 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 10,477 upvotes · 💬 1,478 comments · r/worldnews",
+          "summary": "⬆ 10,700 upvotes · 💬 1,495 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
+        },
+        {
+          "source": "bbc_world",
+          "title": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+          "url": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
+          "summary": "Just under 100 ships have passed thorough the Strait of Hormuz since the start of March, according to data analysed by BBC Verify.",
+          "published_at": "2026-03-20 00:04:57+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.5
         },
         {
           "source": "coindesk",
@@ -343,6 +352,44 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 2.0
+        }
+      ]
+    },
+    {
+      "topic": "music_charts",
+      "topic_score": 10.94,
+      "attention_focus_score": 10.44,
+      "item_count": 2,
+      "source_count": 2,
+      "platform_count": 2,
+      "sources": [
+        "bbc_top",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "bbc_top",
+          "title": "UK's most popular tourist attraction for 2025 takes top spot from British Museum",
+          "url": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
+          "summary": "The venue broke the record for the most visitors to any museum or gallery in a single year.",
+          "published_at": "2026-03-20 00:05:07+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 6.52
+        },
+        {
+          "source": "thehill",
+          "title": "Grammy-winner Afroman wins lawsuit over mocking police raid",
+          "url": "https://thehill.com/blogs/in-the-know/5791346-grammy-winner-afroman-defamation-suit-victory-ohio-raid/",
+          "summary": "Grammy award-winning rapper Afroman on Wednesday won a defamation lawsuit filed against him by seven Ohio sheriff’s deputies who raided his home in 2022. The artist, born Joseph Foreman, used his home surveillance footage of the raid to produce music videos that showed their face and likeness.&#160; The Adams County deputies said they were publicly&#8230;",
+          "published_at": "2026-03-19 14:06:59+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 2.17
         }
       ]
     },
@@ -383,32 +430,6 @@
           "gravity_score": 3.6
         }
       ]
-    },
-    {
-      "topic": "music_charts",
-      "topic_score": 2.17,
-      "attention_focus_score": 2.17,
-      "item_count": 1,
-      "source_count": 1,
-      "platform_count": 1,
-      "sources": [
-        "thehill"
-      ],
-      "platforms": [
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "thehill",
-          "title": "Grammy-winner Afroman wins lawsuit over mocking police raid",
-          "url": "https://thehill.com/blogs/in-the-know/5791346-grammy-winner-afroman-defamation-suit-victory-ohio-raid/",
-          "summary": "Grammy award-winning rapper Afroman on Wednesday won a defamation lawsuit filed against him by seven Ohio sheriff’s deputies who raided his home in 2022. The artist, born Joseph Foreman, used his home surveillance footage of the raid to produce music videos that showed their face and likeness.&#160; The Adams County deputies said they were publicly&#8230;",
-          "published_at": "2026-03-19 14:06:59+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 2.17
-        }
-      ]
     }
   ],
   "market_suggestions": [
@@ -440,8 +461,8 @@
     {
       "topic": "politics",
       "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
-      "gravity_score": 7.0,
-      "priority_score": 19.0,
+      "gravity_score": 6.5,
+      "priority_score": 18.5,
       "source_platform": "coindesk",
       "source_label": "",
       "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
@@ -463,8 +484,8 @@
     {
       "topic": "politics",
       "event": "Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
-      "gravity_score": 6.5,
-      "priority_score": 18.5,
+      "gravity_score": 6.0,
+      "priority_score": 18.0,
       "source_platform": "thehill",
       "source_label": "",
       "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
@@ -547,26 +568,6 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Gas price soars over 20% after strikes on Qatar hub",
-      "gravity_score": 4.88,
-      "priority_score": 10.88,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
       "topic": "geopolitics",
       "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
       "gravity_score": 6.75,
@@ -587,44 +588,23 @@
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
     {
-      "topic": "reality_tv",
-      "event": "Famous night for Forest in season to largely forget",
-      "gravity_score": 6.08,
-      "priority_score": 10.08,
-      "source_platform": "bbc_top",
+      "topic": "everyday_economy",
+      "event": "Gold and silver sell-off accelerates as inflation fears grip global markets",
+      "gravity_score": 4.55,
+      "priority_score": 10.55,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
       "platforms_discussing": [
         "bbc",
+        "cnbc",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+        "Will the next CPI reading come in above/below consensus?"
       ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-      "gravity_score": 5.4,
-      "priority_score": 9.4,
-      "source_platform": "bbc_world",
-      "source_label": "",
-      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "social_virality",
@@ -662,6 +642,43 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Harry Styles \"Kiss All the Time\" album audio takes over GRWMs and day-in-the-life content",
+      "gravity_score": 8.8,
+      "priority_score": 8.8,
+      "source_platform": "TikTok",
+      "source_label": "",
+      "url": "",
+      "platforms_discussing": [
+        "TikTok"
+      ],
+      "debatable_angles": [
+        "Will it debut at #1 on Billboard 200?",
+        "Will first-week streaming numbers exceed a specific threshold?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+      "gravity_score": 4.73,
+      "priority_score": 8.73,
+      "source_platform": "bbc_world",
+      "source_label": "",
+      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     }
   ],
   "platform_snapshots": {
@@ -803,35 +820,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "jeopardy today",
+        "title": "bucks vs jazz",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "samford women's basketball",
+        "title": "lamelo ball",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "where is howard university",
+        "title": "gordon ramsay",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "samford university",
+        "title": "chendall weaver",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "emelec - independiente del valle",
+        "title": "iga swiatek",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -839,9 +856,17 @@
     ],
     "Major News Headlines": [
       {
+        "topic": "music_charts",
+        "title": "[BBC] UK's most popular tourist attraction for 2025 takes top spot from British Museum",
+        "score": 6.52,
+        "source": "bbc_top",
+        "url": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
+      },
+      {
         "topic": "politics",
         "title": "[CoinDesk] Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
-        "score": 7.0,
+        "score": 6.5,
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
         "source_label": "CoinDesk"
@@ -849,18 +874,10 @@
       {
         "topic": "politics",
         "title": "[The Hill] Watch live: Mike Lee gives remarks on SAVE America Act as Senate weighs election reform bill",
-        "score": 6.5,
+        "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
         "source_label": "The Hill"
-      },
-      {
-        "topic": "reality_tv",
-        "title": "[BBC] Famous night for Forest in season to largely forget",
-        "score": 6.08,
-        "source": "bbc_top",
-        "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
       },
       {
         "topic": "politics",
@@ -871,12 +888,12 @@
         "source_label": "The Hill"
       },
       {
-        "topic": "politics",
-        "title": "[The Hill] Watch live: Trump hosts White House dinner with Japanese PM Sanae Takaichi",
-        "score": 5.5,
-        "source": "thehill",
-        "url": "https://thehill.com/video-clips/5792427-watch-live-donald-trump-sanae-takaichi-white-house-dinner-japan/",
-        "source_label": "The Hill"
+        "topic": "crypto",
+        "title": "[CoinDesk] Crypto markets – and the American people – deserve clarity",
+        "score": 5.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
+        "source_label": "CoinDesk"
       }
     ]
   }
