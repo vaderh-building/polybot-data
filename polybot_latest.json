@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-20T02:11:17.876777+00:00",
+  "generated_at_utc": "2026-03-20T02:13:28.955092+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -62,7 +62,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,760 upvotes · 💬 1,247 comments · r/politics",
+          "summary": "⬆ 6,768 upvotes · 💬 1,249 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -72,7 +72,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 8,003 upvotes · 💬 440 comments · r/politics",
+          "summary": "⬆ 8,051 upvotes · 💬 441 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -82,8 +82,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 84.32,
-      "attention_focus_score": 83.32,
+      "topic_score": 83.22,
+      "attention_focus_score": 82.22,
       "item_count": 20,
       "source_count": 3,
       "platform_count": 3,
@@ -99,6 +99,16 @@
       ],
       "top_items": [
         {
+          "source": "reddit_popculturechat",
+          "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
+          "summary": "⬆ 1,929 upvotes · 💬 334 comments · r/popculturechat",
+          "published_at": "2026-03-19 19:52:47+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 4.75
+        },
+        {
           "source": "coindesk",
           "title": "Crypto markets – and the American people – deserve clarity",
           "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity",
@@ -106,17 +116,7 @@
           "published_at": "2026-03-19 20:12:30+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 1,918 upvotes · 💬 333 comments · r/popculturechat",
-          "published_at": "2026-03-19 19:52:47+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
+          "gravity_score": 4.5
         },
         {
           "source": "coindesk",
@@ -151,79 +151,6 @@
       ]
     },
     {
-      "topic": "reality_tv",
-      "topic_score": 46.32,
-      "attention_focus_score": 44.32,
-      "item_count": 8,
-      "source_count": 5,
-      "platform_count": 4,
-      "sources": [
-        "bbc_top",
-        "bbc_world",
-        "google_trends_us_daily",
-        "reddit_popculturechat",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "google_trends",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "bbc_world",
-          "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
-          "published_at": "2026-03-20 01:41:58+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 2,
-          "gravity_score": 8.1
-        },
-        {
-          "source": "google_trends_us_daily",
-          "title": "how many episodes in the pitt season 2",
-          "url": "https://trends.google.com/trending/rss?geo=US",
-          "summary": "",
-          "published_at": "2026-03-20 01:40:00+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 6.41
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 3,514 upvotes · 💬 574 comments · r/popculturechat",
-          "published_at": "2026-03-19 19:56:18+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 6.41
-        },
-        {
-          "source": "bbc_top",
-          "title": "US broadcaster pulls The Bachelorette after domestic abuse allegations",
-          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
-          "published_at": "2026-03-20 01:41:58+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 6.08
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 373 upvotes · 💬 36 comments · r/popculturechat",
-          "published_at": "2026-03-19 18:52:40+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 3.71
-        }
-      ]
-    },
-    {
       "topic": "everyday_economy",
       "topic_score": 42.88,
       "attention_focus_score": 41.38,
@@ -246,7 +173,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 4,724 upvotes · 💬 70 comments · r/politics",
+          "summary": "⬆ 4,741 upvotes · 💬 70 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -256,7 +183,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,758 upvotes · 💬 155 comments · r/worldnews",
+          "summary": "⬆ 1,759 upvotes · 💬 155 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -318,7 +245,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 11,227 upvotes · 💬 1,531 comments · r/worldnews",
+          "summary": "⬆ 11,225 upvotes · 💬 1,531 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -348,7 +275,7 @@
           "source": "reddit_worldnews",
           "title": "West Point analysis warns that strait of Hormuz blockade will strangle US defense industry",
           "url": "https://www.reddit.com/r/worldnews/comments/1ryayf3/west_point_analysis_warns_that_strait_of_hormuz/",
-          "summary": "⬆ 478 upvotes · 💬 45 comments · r/worldnews",
+          "summary": "⬆ 487 upvotes · 💬 45 comments · r/worldnews",
           "published_at": "2026-03-19 20:10:51+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -363,6 +290,77 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.0
+        }
+      ]
+    },
+    {
+      "topic": "reality_tv",
+      "topic_score": 33.89,
+      "attention_focus_score": 32.39,
+      "item_count": 7,
+      "source_count": 4,
+      "platform_count": 3,
+      "sources": [
+        "bbc_top",
+        "bbc_world",
+        "reddit_popculturechat",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "bbc_world",
+          "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
+          "published_at": "2026-03-20 01:41:58+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 2,
+          "gravity_score": 6.75
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
+          "summary": "⬆ 3,527 upvotes · 💬 574 comments · r/popculturechat",
+          "published_at": "2026-03-19 19:56:18+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 6.41
+        },
+        {
+          "source": "bbc_top",
+          "title": "US broadcaster pulls The Bachelorette after domestic abuse allegations",
+          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
+          "published_at": "2026-03-20 01:41:58+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.73
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
+          "summary": "⬆ 374 upvotes · 💬 36 comments · r/popculturechat",
+          "published_at": "2026-03-19 18:52:40+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 3.71
+        },
+        {
+          "source": "bbc_top",
+          "title": "Famous night for Forest in season to largely forget",
+          "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
+          "summary": "Nottingham Forest are fighting for Premier League survival but reaching the Europa League quarter-finals could provide hope in an otherwise torrid season.",
+          "published_at": "2026-03-19 23:35:46+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 2.7
         }
       ]
     },
@@ -514,27 +512,6 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "reality_tv",
-      "event": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-      "gravity_score": 8.1,
-      "priority_score": 14.1,
-      "source_platform": "bbc_world",
-      "source_label": "",
-      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "google_trends",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
       "topic": "geopolitics",
       "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
       "gravity_score": 6.75,
@@ -554,48 +531,6 @@
         "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "how many episodes in the pitt season 2",
-      "gravity_score": 6.41,
-      "priority_score": 12.41,
-      "source_platform": "google_trends_us_daily",
-      "source_label": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "platforms_discussing": [
-        "bbc",
-        "google_trends",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-      "gravity_score": 6.41,
-      "priority_score": 12.41,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-      "platforms_discussing": [
-        "bbc",
-        "google_trends",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "geopolitics",
@@ -640,6 +575,46 @@
         "Will the SEC approve or reject the filing by the stated deadline?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+      "gravity_score": 6.75,
+      "priority_score": 10.75,
+      "source_platform": "bbc_world",
+      "source_label": "",
+      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
+      "gravity_score": 6.41,
+      "priority_score": 10.41,
+      "source_platform": "reddit_popculturechat",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
+      "platforms_discussing": [
+        "bbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "everyday_economy",
@@ -696,6 +671,25 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Skyrocketing Gas Prices Could Lose the Senate for Trump",
+      "gravity_score": 4.88,
+      "priority_score": 8.88,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1ryaefe/skyrocketing_gas_prices_could_lose_the_senate_for/",
+      "platforms_discussing": [
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     }
   ],
   "platform_snapshots": {
@@ -837,35 +831,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "dominique wilkins",
+        "title": "jessi draper",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "lightning vs canucks",
+        "title": "keaton wagler",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "sf giants",
+        "title": "ivy league schools",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "sabres vs sharks",
+        "title": "penn university",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "mammoth vs golden knights",
+        "title": "jake wilkins",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -875,7 +869,7 @@
       {
         "topic": "reality_tv",
         "title": "[BBC] Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-        "score": 8.1,
+        "score": 6.75,
         "source": "bbc_world",
         "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
         "source_label": "BBC"
@@ -887,14 +881,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "reality_tv",
-        "title": "[BBC] US broadcaster pulls The Bachelorette after domestic abuse allegations",
-        "score": 6.08,
-        "source": "bbc_top",
-        "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
       },
       {
         "topic": "geopolitics",
@@ -910,6 +896,14 @@
         "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
+        "source_label": "The Hill"
+      },
+      {
+        "topic": "politics",
+        "title": "[The Hill] Watch: Q&A with The Hill’s editors",
+        "score": 6.0,
+        "source": "thehill",
+        "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
         "source_label": "The Hill"
       }
     ]
