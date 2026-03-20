@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-20T01:24:10.167160+00:00",
+  "generated_at_utc": "2026-03-20T01:26:17.087025+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -62,7 +62,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,541 upvotes · 💬 1,229 comments · r/politics",
+          "summary": "⬆ 6,545 upvotes · 💬 1,231 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -72,7 +72,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 7,192 upvotes · 💬 402 comments · r/politics",
+          "summary": "⬆ 7,220 upvotes · 💬 406 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -102,7 +102,7 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 1,600 upvotes · 💬 272 comments · r/popculturechat",
+          "summary": "⬆ 1,606 upvotes · 💬 278 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -152,14 +152,13 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 49.46,
-      "attention_focus_score": 47.46,
-      "item_count": 8,
-      "source_count": 5,
+      "topic_score": 43.6,
+      "attention_focus_score": 42.1,
+      "item_count": 7,
+      "source_count": 4,
       "platform_count": 3,
       "sources": [
         "cnbc",
-        "reddit_news",
         "reddit_politics",
         "reddit_worldnews",
         "thehill"
@@ -174,7 +173,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 4,270 upvotes · 💬 66 comments · r/politics",
+          "summary": "⬆ 4,282 upvotes · 💬 66 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -184,7 +183,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,702 upvotes · 💬 153 comments · r/worldnews",
+          "summary": "⬆ 1,712 upvotes · 💬 153 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -194,21 +193,11 @@
           "source": "reddit_politics",
           "title": "Skyrocketing Gas Prices Could Lose the Senate for Trump",
           "url": "https://www.reddit.com/r/politics/comments/1ryaefe/skyrocketing_gas_prices_could_lose_the_senate_for/",
-          "summary": "⬆ 740 upvotes · 💬 139 comments · r/politics",
+          "summary": "⬆ 753 upvotes · 💬 140 comments · r/politics",
           "published_at": "2026-03-19 19:50:54+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 5.53
-        },
-        {
-          "source": "reddit_news",
-          "title": "Gas price soars over 20% after strikes on Qatar hub",
-          "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 742 upvotes · 💬 121 comments · r/news",
-          "published_at": "2026-03-19 15:08:08+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.88
         },
         {
           "source": "cnbc",
@@ -218,6 +207,16 @@
           "published_at": "2026-03-19 20:27:07+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
+          "gravity_score": 4.55
+        },
+        {
+          "source": "thehill",
+          "title": "IMF: Prolonged high gas prices could increase inflation",
+          "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
+          "summary": "The International Monetary Fund (IMF) warned Thursday that rising energy prices caused by the ongoing conflict with Iran could lead to higher global inflation if prolonged, but it said no nation has yet reached out for emergency financial assistance. IMF communications director Julie Kozack told reporters that the organization was closely monitoring how oil and&#8230;",
+          "published_at": "2026-03-19 20:29:18+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 2,
           "gravity_score": 4.55
         }
       ]
@@ -256,7 +255,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 11,011 upvotes · 💬 1,517 comments · r/worldnews",
+          "summary": "⬆ 11,013 upvotes · 💬 1,519 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -317,7 +316,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 3,199 upvotes · 💬 555 comments · r/popculturechat",
+          "summary": "⬆ 3,220 upvotes · 💬 555 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -347,7 +346,7 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 353 upvotes · 💬 36 comments · r/popculturechat",
+          "summary": "⬆ 363 upvotes · 💬 36 comments · r/popculturechat",
           "published_at": "2026-03-19 18:52:40+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
