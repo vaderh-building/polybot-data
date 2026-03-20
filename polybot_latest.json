@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-20T12:51:08.045956+00:00",
+  "generated_at_utc": "2026-03-20T12:53:16.361643+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -30,7 +30,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 12,601 upvotes · 💬 642 comments · r/politics",
+          "summary": "⬆ 12,607 upvotes · 💬 643 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -108,7 +108,7 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 4,519 upvotes · 💬 542 comments · r/popculturechat",
+          "summary": "⬆ 4,523 upvotes · 💬 542 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -179,7 +179,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 7,076 upvotes · 💬 95 comments · r/politics",
+          "summary": "⬆ 7,072 upvotes · 💬 95 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -189,7 +189,7 @@
           "source": "reddit_news",
           "title": "Gas price soars over 20% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/news/comments/1ry2ytp/gas_price_soars_over_20_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 945 upvotes · 💬 128 comments · r/news",
+          "summary": "⬆ 949 upvotes · 💬 129 comments · r/news",
           "published_at": "2026-03-19 15:08:08+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -218,6 +218,79 @@
       ]
     },
     {
+      "topic": "music_charts",
+      "topic_score": 42.54,
+      "attention_focus_score": 40.54,
+      "item_count": 7,
+      "source_count": 5,
+      "platform_count": 4,
+      "sources": [
+        "bbc_top",
+        "bbc_world",
+        "coindesk",
+        "reddit_popculturechat",
+        "thehill"
+      ],
+      "platforms": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
+          "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
+          "summary": "The contracts trade 24/7, are cash-settled in USDC and allow for up to 10-times leverage on single-stock contracts and 20-times on ETF products.",
+          "published_at": "2026-03-20 12:51:24+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 8.7
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
+          "summary": "⬆ 164 upvotes · 💬 36 comments · r/popculturechat",
+          "published_at": "2026-03-20 06:14:03+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 6.16
+        },
+        {
+          "source": "bbc_top",
+          "title": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
+          "url": "https://www.bbc.com/news/articles/cew7l8nr5jeo?at_medium=RSS&at_campaign=rss",
+          "summary": "The painting by Spanish artist Nieves Gonzalez was used on the cover of the singer's latest album.",
+          "published_at": "2026-03-20 11:15:50+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 5.8
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
+          "summary": "⬆ 86 upvotes · 💬 16 comments · r/popculturechat",
+          "published_at": "2026-03-20 11:19:56+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 5.44
+        },
+        {
+          "source": "bbc_world",
+          "title": "BTS return from military service - but does their album live up to the hype?",
+          "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
+          "summary": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days.",
+          "published_at": "2026-03-20 04:04:50+00:00",
+          "topic": "music_charts",
+          "keyword_hits": 1,
+          "gravity_score": 4.35
+        }
+      ]
+    },
+    {
       "topic": "reality_tv",
       "topic_score": 37.47,
       "attention_focus_score": 35.47,
@@ -241,7 +314,7 @@
           "source": "reddit_all",
           "title": "The final couples reveal their ages to each other on 'Age of Attraction' a reality dating show where contestants' ages range from 22 to 60 and they are not allowed to reveal their age",
           "url": "https://www.reddit.com/r/WatchPeopleDieInside/comments/1rytons/the_final_couples_reveal_their_ages_to_each_other/",
-          "summary": "⬆ 2,840 upvotes · 💬 693 comments · r/all",
+          "summary": "⬆ 2,957 upvotes · 💬 732 comments · r/all",
           "published_at": "2026-03-20 11:27:34+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -251,7 +324,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 4,862 upvotes · 💬 702 comments · r/popculturechat",
+          "summary": "⬆ 4,869 upvotes · 💬 702 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -261,7 +334,7 @@
           "source": "reddit_news",
           "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
           "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 4,108 upvotes · 💬 450 comments · r/news",
+          "summary": "⬆ 4,127 upvotes · 💬 450 comments · r/news",
           "published_at": "2026-03-20 02:34:26+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -286,77 +359,6 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 2.03
-        }
-      ]
-    },
-    {
-      "topic": "music_charts",
-      "topic_score": 31.58,
-      "attention_focus_score": 30.08,
-      "item_count": 6,
-      "source_count": 4,
-      "platform_count": 3,
-      "sources": [
-        "bbc_top",
-        "bbc_world",
-        "reddit_popculturechat",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
-          "summary": "⬆ 161 upvotes · 💬 34 comments · r/popculturechat",
-          "published_at": "2026-03-20 06:14:03+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 6.16
-        },
-        {
-          "source": "bbc_top",
-          "title": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
-          "url": "https://www.bbc.com/news/articles/cew7l8nr5jeo?at_medium=RSS&at_campaign=rss",
-          "summary": "The painting by Spanish artist Nieves Gonzalez was used on the cover of the singer's latest album.",
-          "published_at": "2026-03-20 11:15:50+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 5.8
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 81 upvotes · 💬 16 comments · r/popculturechat",
-          "published_at": "2026-03-20 11:19:56+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 5.44
-        },
-        {
-          "source": "bbc_world",
-          "title": "BTS return from military service - but does their album live up to the hype?",
-          "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
-          "summary": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days.",
-          "published_at": "2026-03-20 04:04:50+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 4.35
-        },
-        {
-          "source": "bbc_top",
-          "title": "Natural History Museum takes top spot as UK's most popular attraction",
-          "url": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The venue broke the record for the most visitors to any museum or gallery in a single year.",
-          "published_at": "2026-03-20 00:05:07+00:00",
-          "topic": "music_charts",
-          "keyword_hits": 1,
-          "gravity_score": 2.17
         }
       ]
     },
@@ -386,7 +388,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 12,660 upvotes · 💬 1,640 comments · r/worldnews",
+          "summary": "⬆ 12,664 upvotes · 💬 1,641 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -452,7 +454,7 @@
           "source": "reddit_all",
           "title": "More than half of TikTok ADHD content is misinformation, new research finds",
           "url": "https://www.reddit.com/r/technology/comments/1ryrfxa/more_than_half_of_tiktok_adhd_content_is/",
-          "summary": "⬆ 3,888 upvotes · 💬 241 comments · r/all",
+          "summary": "⬆ 3,971 upvotes · 💬 245 comments · r/all",
           "published_at": "2026-03-20 09:15:22+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -507,6 +509,27 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
+      "topic": "music_charts",
+      "event": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
+      "gravity_score": 8.7,
+      "priority_score": 14.7,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
       "topic": "politics",
       "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
       "gravity_score": 6.0,
@@ -548,6 +571,26 @@
       "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
+      "topic": "music_charts",
+      "event": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
+      "gravity_score": 6.16,
+      "priority_score": 12.16,
+      "source_platform": "reddit_popculturechat",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will it debut at #1 on Billboard 200?",
+        "Will first-week streaming numbers exceed a specific threshold?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
+    },
+    {
       "topic": "everyday_economy",
       "event": "Banks eye three ECB rate hikes this year as former Governor says he sees no stagflation — yet",
       "gravity_score": 7.8,
@@ -566,6 +609,27 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
+      "gravity_score": 5.8,
+      "priority_score": 11.8,
+      "source_platform": "bbc_top",
+      "source_label": "",
+      "url": "https://www.bbc.com/news/articles/cew7l8nr5jeo?at_medium=RSS&at_campaign=rss",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
       "topic": "reality_tv",
@@ -626,64 +690,6 @@
         "Will the next CPI reading come in above/below consensus?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "music_charts",
-      "event": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
-      "gravity_score": 6.16,
-      "priority_score": 10.16,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will it debut at #1 on Billboard 200?",
-        "Will first-week streaming numbers exceed a specific threshold?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "music_charts",
-      "event": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
-      "gravity_score": 5.8,
-      "priority_score": 9.8,
-      "source_platform": "bbc_top",
-      "source_label": "",
-      "url": "https://www.bbc.com/news/articles/cew7l8nr5jeo?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "music_charts",
-      "event": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall…",
-      "gravity_score": 5.44,
-      "priority_score": 9.44,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
       "topic": "social_virality",
@@ -878,6 +884,14 @@
     ],
     "Major News Headlines": [
       {
+        "topic": "music_charts",
+        "title": "[CoinDesk] Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
+        "score": 8.7,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
+        "source_label": "CoinDesk"
+      },
+      {
         "topic": "everyday_economy",
         "title": "[CNBC] Banks eye three ECB rate hikes this year as former Governor says he sees no stagflation — yet",
         "score": 7.8,
@@ -907,14 +921,6 @@
         "score": 6.0,
         "source": "thehill",
         "url": "https://thehill.com/video-clips/5792126-watch-live-mike-lee-save-america-act-election-reform-bill/",
-        "source_label": "The Hill"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Watch: Q&A with The Hill’s editors",
-        "score": 6.0,
-        "source": "thehill",
-        "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
         "source_label": "The Hill"
       }
     ]
