@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-20T01:32:42.050858+00:00",
+  "generated_at_utc": "2026-03-20T01:34:49.951125+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -62,7 +62,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,580 upvotes · 💬 1,232 comments · r/politics",
+          "summary": "⬆ 6,595 upvotes · 💬 1,232 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -72,7 +72,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 7,327 upvotes · 💬 408 comments · r/politics",
+          "summary": "⬆ 7,361 upvotes · 💬 408 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -102,7 +102,7 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 1,643 upvotes · 💬 287 comments · r/popculturechat",
+          "summary": "⬆ 1,663 upvotes · 💬 292 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -173,7 +173,7 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 4,343 upvotes · 💬 67 comments · r/politics",
+          "summary": "⬆ 4,361 upvotes · 💬 68 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -183,7 +183,7 @@
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,710 upvotes · 💬 153 comments · r/worldnews",
+          "summary": "⬆ 1,717 upvotes · 💬 153 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -193,7 +193,7 @@
           "source": "reddit_politics",
           "title": "Skyrocketing Gas Prices Could Lose the Senate for Trump",
           "url": "https://www.reddit.com/r/politics/comments/1ryaefe/skyrocketing_gas_prices_could_lose_the_senate_for/",
-          "summary": "⬆ 773 upvotes · 💬 142 comments · r/politics",
+          "summary": "⬆ 774 upvotes · 💬 142 comments · r/politics",
           "published_at": "2026-03-19 19:50:54+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -223,9 +223,9 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 35.9,
-      "attention_focus_score": 34.4,
-      "item_count": 6,
+      "topic_score": 38.32,
+      "attention_focus_score": 36.82,
+      "item_count": 7,
       "source_count": 4,
       "platform_count": 4,
       "sources": [
@@ -242,6 +242,16 @@
       ],
       "top_items": [
         {
+          "source": "reddit_worldnews",
+          "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+          "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
+          "summary": "⬆ 11,047 upvotes · 💬 1,524 comments · r/worldnews",
+          "published_at": "2026-03-19 14:09:16+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
+        },
+        {
           "source": "cnbc",
           "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
           "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
@@ -249,17 +259,7 @@
           "published_at": "2026-03-20 01:04:36+00:00",
           "topic": "geopolitics",
           "keyword_hits": 2,
-          "gravity_score": 7.5
-        },
-        {
-          "source": "reddit_worldnews",
-          "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-          "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 11,029 upvotes · 💬 1,523 comments · r/worldnews",
-          "published_at": "2026-03-19 14:09:16+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 6.75
+          "gravity_score": 6.5
         },
         {
           "source": "cnbc",
@@ -272,6 +272,16 @@
           "gravity_score": 5.0
         },
         {
+          "source": "reddit_worldnews",
+          "title": "West Point analysis warns that strait of Hormuz blockade will strangle US defense industry",
+          "url": "https://www.reddit.com/r/worldnews/comments/1ryayf3/west_point_analysis_warns_that_strait_of_hormuz/",
+          "summary": "⬆ 365 upvotes · 💬 39 comments · r/worldnews",
+          "published_at": "2026-03-19 20:10:51+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 3.25
+        },
+        {
           "source": "coindesk",
           "title": "Bitcoin $20,000 put option is third most popular strike ahead of quarterly expiry",
           "url": "https://www.coindesk.com/markets/2026/03/19/bitcoin-usd20-000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry",
@@ -280,16 +290,6 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 3.0
-        },
-        {
-          "source": "bbc_world",
-          "title": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
-          "url": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
-          "summary": "Just under 100 ships have passed thorough the Strait of Hormuz since the start of March, according to data analysed by BBC Verify.",
-          "published_at": "2026-03-20 00:04:57+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 2.5
         }
       ]
     },
@@ -316,7 +316,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 3,262 upvotes · 💬 559 comments · r/popculturechat",
+          "summary": "⬆ 3,278 upvotes · 💬 559 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -513,28 +513,6 @@
     },
     {
       "topic": "geopolitics",
-      "event": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
-      "gravity_score": 7.5,
-      "priority_score": 13.5,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the SEC approve or reject the filing by the stated deadline?"
-      ],
-      "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "geopolitics",
       "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
       "gravity_score": 6.75,
       "priority_score": 12.75,
@@ -551,6 +529,28 @@
         "Will any NATO ally actually send warships within 30 days?",
         "Will oil prices cross a specific threshold (e.g. $90/barrel) as a result?",
         "Will Iran follow through and restrict shipping in the strait?"
+      ],
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "geopolitics",
+      "event": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
+      "gravity_score": 6.5,
+      "priority_score": 12.5,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "coindesk",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the SEC approve or reject the filing by the stated deadline?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
     },
@@ -833,35 +833,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "76ers vs kings",
+        "title": "tigres - cincinnati",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "tigres",
+        "title": "illinois basketball",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "love story jfk",
+        "title": "caleb wilson",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "illini basketball",
+        "title": "collin gillespie",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "vcu basketball coach",
+        "title": "whitney leavitt",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -869,20 +869,20 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "geopolitics",
-        "title": "[CNBC] Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
-        "score": 7.5,
-        "source": "cnbc",
-        "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
-        "source_label": "CNBC"
-      },
-      {
         "topic": "reality_tv",
         "title": "[BBC] Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
         "score": 6.75,
         "source": "bbc_world",
         "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
         "source_label": "BBC"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "[CNBC] Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
+        "score": 6.5,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
+        "source_label": "CNBC"
       },
       {
         "topic": "politics",
