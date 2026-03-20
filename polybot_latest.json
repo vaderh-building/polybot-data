@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-20T07:39:51.179246+00:00",
+  "generated_at_utc": "2026-03-20T07:41:59.799885+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -32,7 +32,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 11,272 upvotes · 💬 600 comments · r/politics",
+          "summary": "⬆ 11,272 upvotes · 💬 601 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -42,7 +42,7 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 7,610 upvotes · 💬 1,331 comments · r/politics",
+          "summary": "⬆ 7,612 upvotes · 💬 1,331 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -122,7 +122,7 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 3,428 upvotes · 💬 456 comments · r/popculturechat",
+          "summary": "⬆ 3,444 upvotes · 💬 457 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -152,14 +152,15 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 50.0,
-      "attention_focus_score": 47.5,
-      "item_count": 9,
-      "source_count": 6,
-      "platform_count": 3,
+      "topic_score": 59.23,
+      "attention_focus_score": 56.23,
+      "item_count": 10,
+      "source_count": 7,
+      "platform_count": 4,
       "sources": [
         "bbc_top",
         "bbc_world",
+        "google_trends_us_daily",
         "reddit_all",
         "reddit_news",
         "reddit_popculturechat",
@@ -167,6 +168,7 @@
       ],
       "platforms": [
         "bbc",
+        "google_trends",
         "reddit",
         "thehill"
       ],
@@ -175,17 +177,27 @@
           "source": "reddit_all",
           "title": "ABC cancels upcoming season of The Bachelorette after a leaked video shows the lead, Taylor Frankie Paul repeatedly attack her ex boyfriend, Dakota Mortensen in the presence of her young daughter who was also reportedly struck during the altercation",
           "url": "https://www.reddit.com/r/SipsTea/comments/1ryj53i/abc_cancels_upcoming_season_of_the_bachelorette/",
-          "summary": "⬆ 13,364 upvotes · 💬 2,767 comments · r/all",
+          "summary": "⬆ 13,425 upvotes · 💬 2,775 comments · r/all",
           "published_at": "2026-03-20 01:41:01+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 9.79
+          "gravity_score": 9.11
+        },
+        {
+          "source": "google_trends_us_daily",
+          "title": "marvel rivals season 7",
+          "url": "https://trends.google.com/trending/rss?geo=US",
+          "summary": "",
+          "published_at": "2026-03-20 07:30:00+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
         },
         {
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 4,528 upvotes · 💬 681 comments · r/popculturechat",
+          "summary": "⬆ 4,519 upvotes · 💬 681 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -195,7 +207,7 @@
           "source": "reddit_news",
           "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
           "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 2,315 upvotes · 💬 302 comments · r/news",
+          "summary": "⬆ 2,318 upvotes · 💬 305 comments · r/news",
           "published_at": "2026-03-20 02:34:26+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -205,28 +217,18 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
-          "summary": "⬆ 440 upvotes · 💬 38 comments · r/popculturechat",
+          "summary": "⬆ 442 upvotes · 💬 38 comments · r/popculturechat",
           "published_at": "2026-03-19 18:52:40+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 5.06
-        },
-        {
-          "source": "bbc_world",
-          "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
-          "published_at": "2026-03-20 01:41:58+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 2,
-          "gravity_score": 4.73
         }
       ]
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 45.6,
-      "attention_focus_score": 44.6,
+      "topic_score": 44.17,
+      "attention_focus_score": 43.17,
       "item_count": 7,
       "source_count": 3,
       "platform_count": 3,
@@ -242,6 +244,16 @@
       ],
       "top_items": [
         {
+          "source": "reddit_politics",
+          "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
+          "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
+          "summary": "⬆ 6,392 upvotes · 💬 90 comments · r/politics",
+          "published_at": "2026-03-19 15:48:40+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 7.48
+        },
+        {
           "source": "cnbc",
           "title": "Japan wanted inflation and Iran war could grant that wish. But it's not the type Tokyo desires",
           "url": "https://www.cnbc.com/2026/03/20/iran-war-japan-inflation-boj-oil-prices.html",
@@ -249,23 +261,13 @@
           "published_at": "2026-03-20 07:10:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
-          "gravity_score": 7.8
-        },
-        {
-          "source": "reddit_politics",
-          "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
-          "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 6,389 upvotes · 💬 90 comments · r/politics",
-          "published_at": "2026-03-19 15:48:40+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 7.48
+          "gravity_score": 6.5
         },
         {
           "source": "reddit_politics",
           "title": "Skyrocketing Gas Prices Could Lose the Senate for Trump",
           "url": "https://www.reddit.com/r/politics/comments/1ryaefe/skyrocketing_gas_prices_could_lose_the_senate_for/",
-          "summary": "⬆ 1,554 upvotes · 💬 244 comments · r/politics",
+          "summary": "⬆ 1,559 upvotes · 💬 244 comments · r/politics",
           "published_at": "2026-03-19 19:50:54+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -316,7 +318,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 12,200 upvotes · 💬 1,608 comments · r/worldnews",
+          "summary": "⬆ 12,194 upvotes · 💬 1,609 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -346,7 +348,7 @@
           "source": "reddit_worldnews",
           "title": "West Point analysis warns that strait of Hormuz blockade will strangle US defense industry",
           "url": "https://www.reddit.com/r/worldnews/comments/1ryayf3/west_point_analysis_warns_that_strait_of_hormuz/",
-          "summary": "⬆ 1,095 upvotes · 💬 81 comments · r/worldnews",
+          "summary": "⬆ 1,088 upvotes · 💬 81 comments · r/worldnews",
           "published_at": "2026-03-19 20:10:51+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -356,7 +358,7 @@
           "source": "reddit_news",
           "title": "US considers lifting sanctions on some Iranian oil",
           "url": "https://www.reddit.com/r/news/comments/1ryhtit/us_considers_lifting_sanctions_on_some_iranian_oil/",
-          "summary": "⬆ 582 upvotes · 💬 192 comments · r/news",
+          "summary": "⬆ 585 upvotes · 💬 192 comments · r/news",
           "published_at": "2026-03-20 00:41:57+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -521,36 +523,37 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Japan wanted inflation and Iran war could grant that wish. But it's not the type Tokyo desires",
-      "gravity_score": 7.8,
-      "priority_score": 11.8,
-      "source_platform": "cnbc",
+      "topic": "reality_tv",
+      "event": "marvel rivals season 7",
+      "gravity_score": 7.76,
+      "priority_score": 13.76,
+      "source_platform": "google_trends_us_daily",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/20/iran-war-japan-inflation-boj-oil-prices.html",
+      "url": "https://trends.google.com/trending/rss?geo=US",
       "platforms_discussing": [
-        "cnbc",
+        "bbc",
+        "google_trends",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Will the US or allies conduct a military strike?",
-        "Will Iran close or restrict passage through the Strait of Hormuz?",
-        "Will oil prices spike above a specific threshold?",
-        "Will the next CPI reading come in above/below consensus?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "reality_tv",
       "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
       "gravity_score": 7.76,
-      "priority_score": 11.76,
+      "priority_score": 13.76,
       "source_platform": "reddit_popculturechat",
       "source_label": "",
       "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
       "platforms_discussing": [
         "bbc",
+        "google_trends",
         "reddit",
         "thehill"
       ],
@@ -582,26 +585,6 @@
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
-      "topic": "reality_tv",
-      "event": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
-      "gravity_score": 7.09,
-      "priority_score": 11.09,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
       "topic": "geopolitics",
       "event": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
       "gravity_score": 6.75,
@@ -620,6 +603,27 @@
         "Will Iran follow through and restrict shipping in the strait?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Japan wanted inflation and Iran war could grant that wish. But it's not the type Tokyo desires",
+      "gravity_score": 6.5,
+      "priority_score": 10.5,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/20/iran-war-japan-inflation-boj-oil-prices.html",
+      "platforms_discussing": [
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?",
+        "Will oil prices spike above a specific threshold?",
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "everyday_economy",
@@ -703,7 +707,7 @@
       {
         "topic": "reality_tv",
         "title": "ABC cancels upcoming season of The Bachelorette after a leaked video shows the lead, Taylor Frankie Paul repeatedly attack her ex boyfriend, Dakota Mortensen in the presence of her young daughter who was also reportedly struck during the altercation",
-        "score": 9.79,
+        "score": 9.11,
         "source": "reddit_all",
         "url": "https://www.reddit.com/r/SipsTea/comments/1ryj53i/abc_cancels_upcoming_season_of_the_bachelorette/"
       },
@@ -837,6 +841,13 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "marvel rivals season 7",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "the university of arizona",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -862,20 +873,13 @@
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "胡衡华",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
       {
         "topic": "everyday_economy",
         "title": "[CNBC] Japan wanted inflation and Iran war could grant that wish. But it's not the type Tokyo desires",
-        "score": 7.8,
+        "score": 6.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/20/iran-war-japan-inflation-boj-oil-prices.html",
         "source_label": "CNBC"
