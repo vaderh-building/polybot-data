@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-20T17:18:08.748909+00:00",
+  "generated_at_utc": "2026-03-20T17:20:16.742621+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 150.68,
-      "attention_focus_score": 147.68,
-      "item_count": 38,
+      "topic_score": 145.74,
+      "attention_focus_score": 142.74,
+      "item_count": 37,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -49,7 +49,7 @@
           "source": "reddit_politics",
           "title": "Senate nominee Juliana Stratton says she won’t support Chuck Schumer as Democratic leader",
           "url": "https://www.reddit.com/r/politics/comments/1rygrlk/senate_nominee_juliana_stratton_says_she_wont/",
-          "summary": "⬆ 7,044 upvotes · 💬 266 comments · r/politics",
+          "summary": "⬆ 7,043 upvotes · 💬 266 comments · r/politics",
           "published_at": "2026-03-19 23:57:12+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -66,14 +66,14 @@
           "gravity_score": 5.25
         },
         {
-          "source": "reddit_politics",
-          "title": "Democrats say Bondi won't commit to testifying in House Epstein investigation",
-          "url": "https://www.reddit.com/r/politics/comments/1ryjy04/democrats_say_bondi_wont_commit_to_testifying_in/",
-          "summary": "⬆ 2,312 upvotes · 💬 125 comments · r/politics",
-          "published_at": "2026-03-20 02:16:52+00:00",
+          "source": "politico",
+          "title": "Political operatives with Trump ties raked in millions of dollars in commissions from DHS ad campaign",
+          "url": "https://www.politico.com/news/2026/03/19/dhs-ad-money-companies-00834791",
+          "summary": "The ads became a sore spot within the White House over Kristi Noem.",
+          "published_at": "2026-03-19 09:56:00+00:00",
           "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 4.75
+          "keyword_hits": 2,
+          "gravity_score": 4.5
         }
       ]
     },
@@ -107,7 +107,7 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 5,523 upvotes · 💬 593 comments · r/popculturechat",
+          "summary": "⬆ 5,533 upvotes · 💬 593 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -147,8 +147,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 36.67,
-      "attention_focus_score": 34.67,
+      "topic_score": 35.59,
+      "attention_focus_score": 33.59,
       "item_count": 7,
       "source_count": 5,
       "platform_count": 4,
@@ -170,7 +170,7 @@
           "source": "reddit_worldnews",
           "title": "Trump calls NATO “cowards” for lack of support for Iran war",
           "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
-          "summary": "⬆ 2,359 upvotes · 💬 610 comments · r/worldnews",
+          "summary": "⬆ 2,411 upvotes · 💬 618 comments · r/worldnews",
           "published_at": "2026-03-20 15:43:49+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -190,21 +190,11 @@
           "source": "reddit_politics",
           "title": "Trump Calls NATO “Cowards” Over Lack of Support in Iran War",
           "url": "https://www.reddit.com/r/politics/comments/1ryxg8g/trump_calls_nato_cowards_over_lack_of_support_in/",
-          "summary": "⬆ 335 upvotes · 💬 259 comments · r/politics",
+          "summary": "⬆ 337 upvotes · 💬 259 comments · r/politics",
           "published_at": "2026-03-20 14:16:45+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.25
-        },
-        {
-          "source": "npr_news",
-          "title": "Palestinians celebrate Eid in Gaza, making the most of a fragile ceasefire",
-          "url": "https://www.npr.org/sections/the-picture-show/2026/03/20/nx-s1-5754623/gaza-eid-al-fitr-ramadan-palestinians",
-          "summary": "The ceasefire, in effect for the past six months, has brought some reprieve to Palestinians in Gaza despite continued hardship, displacement and Israeli restrictions on aid.",
-          "published_at": "2026-03-20 16:19:45+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
         },
         {
           "source": "cnbc",
@@ -214,6 +204,16 @@
           "published_at": "2026-03-20 14:48:38+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
+          "gravity_score": 3.5
+        },
+        {
+          "source": "thehill",
+          "title": "Trump dubs NATO a ‘paper tiger’ over Strait of Hormuz",
+          "url": "https://thehill.com/homenews/administration/5793172-trump-nato-paper-tiger/",
+          "summary": "President Trump referred to the North Atlantic Treaty Organization (NATO) as “a paper tiger” and “cowards” on Friday over Europe’s collective stance to not support securing the Strait of Hormuz as the U.S. and Israel continue striking Iran. “Without the U.S.A., NATO IS A PAPER TIGER!” Trump wrote in a TruthSocial post. “They didn’t want&#8230;",
+          "published_at": "2026-03-20 14:44:38+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 2,
           "gravity_score": 3.5
         }
       ]
@@ -241,7 +241,7 @@
           "source": "reddit_news",
           "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
           "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 5,630 upvotes · 💬 603 comments · r/news",
+          "summary": "⬆ 5,628 upvotes · 💬 603 comments · r/news",
           "published_at": "2026-03-20 02:34:26+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -251,7 +251,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 5,141 upvotes · 💬 726 comments · r/popculturechat",
+          "summary": "⬆ 5,144 upvotes · 💬 726 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -281,8 +281,8 @@
     },
     {
       "topic": "music_charts",
-      "topic_score": 31.59,
-      "attention_focus_score": 30.09,
+      "topic_score": 30.86,
+      "attention_focus_score": 29.36,
       "item_count": 5,
       "source_count": 4,
       "platform_count": 3,
@@ -300,23 +300,23 @@
       "top_items": [
         {
           "source": "reddit_popculturechat",
-          "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 590 upvotes · 💬 84 comments · r/popculturechat",
-          "published_at": "2026-03-20 11:19:56+00:00",
+          "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
+          "summary": "⬆ 368 upvotes · 💬 53 comments · r/popculturechat",
+          "published_at": "2026-03-20 06:14:03+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
           "gravity_score": 6.16
         },
         {
           "source": "reddit_popculturechat",
-          "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
-          "summary": "⬆ 367 upvotes · 💬 53 comments · r/popculturechat",
-          "published_at": "2026-03-20 06:14:03+00:00",
+          "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
+          "summary": "⬆ 591 upvotes · 💬 84 comments · r/popculturechat",
+          "published_at": "2026-03-20 11:19:56+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
-          "gravity_score": 6.16
+          "gravity_score": 5.44
         },
         {
           "source": "coindesk",
@@ -392,7 +392,7 @@
           "source": "reddit_popculturechat",
           "title": "Robert De Niro Makes Bipartisan Appeal Against Inflation and War: \"No One Voted for Higher Prices\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytgba/robert_de_niro_makes_bipartisan_appeal_against/",
-          "summary": "⬆ 131 upvotes · 💬 8 comments · r/popculturechat",
+          "summary": "⬆ 132 upvotes · 💬 8 comments · r/popculturechat",
           "published_at": "2026-03-20 11:15:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -428,7 +428,7 @@
           "source": "reddit_popculturechat",
           "title": "Zara Larsson reveals that she lost a 3 million dollars brand deal due to the abortion joke she made on tiktok: \"If you dont agree with me thinking that women should have access to abortion, were just not meant to be partners\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rz0itw/zara_larsson_reveals_that_she_lost_a_3_million/",
-          "summary": "⬆ 3,557 upvotes · 💬 174 comments · r/popculturechat",
+          "summary": "⬆ 3,682 upvotes · 💬 179 comments · r/popculturechat",
           "published_at": "2026-03-20 16:11:06+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -611,25 +611,6 @@
     },
     {
       "topic": "music_charts",
-      "event": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall…",
-      "gravity_score": 6.16,
-      "priority_score": 10.16,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
-    },
-    {
-      "topic": "music_charts",
       "event": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
       "gravity_score": 6.16,
       "priority_score": 10.16,
@@ -664,6 +645,25 @@
         "Will this trigger a measurable price move (>5%) in the related asset?"
       ],
       "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "music_charts",
+      "event": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall…",
+      "gravity_score": 5.44,
+      "priority_score": 9.44,
+      "source_platform": "reddit_popculturechat",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
+      "platforms_discussing": [
+        "bbc",
+        "coindesk",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
+      ],
+      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
       "topic": "reality_tv",
@@ -711,17 +711,17 @@
       },
       {
         "topic": "music_charts",
-        "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
-        "score": 6.16,
-        "source": "reddit_popculturechat",
-        "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/"
-      },
-      {
-        "topic": "music_charts",
         "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
         "score": 6.16,
         "source": "reddit_popculturechat",
         "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/"
+      },
+      {
+        "topic": "politics",
+        "title": "Senate nominee Juliana Stratton says she won’t support Chuck Schumer as Democratic leader",
+        "score": 5.75,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1rygrlk/senate_nominee_juliana_stratton_says_she_wont/"
       }
     ],
     "X": [
