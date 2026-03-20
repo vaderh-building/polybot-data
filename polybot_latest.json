@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-20T00:35:16.272706+00:00",
+  "generated_at_utc": "2026-03-20T00:42:49.049264+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 176.95,
-      "attention_focus_score": 172.95,
-      "item_count": 40,
+      "topic_score": 169.23,
+      "attention_focus_score": 165.23,
+      "item_count": 39,
       "source_count": 9,
       "platform_count": 7,
       "sources": [
@@ -29,16 +29,6 @@
         "thehill"
       ],
       "top_items": [
-        {
-          "source": "reddit_politics",
-          "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
-          "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-          "summary": "⬆ 5,663 upvotes · 💬 576 comments · r/politics",
-          "published_at": "2026-03-19 08:06:03+00:00",
-          "topic": "politics",
-          "keyword_hits": 2,
-          "gravity_score": 7.25
-        },
         {
           "source": "coindesk",
           "title": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
@@ -73,8 +63,18 @@
           "source": "reddit_politics",
           "title": "Trump's DHS pick Mullin advances by one vote after Sen. Fetterman votes yes",
           "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/",
-          "summary": "⬆ 6,344 upvotes · 💬 1,211 comments · r/politics",
+          "summary": "⬆ 6,368 upvotes · 💬 1,212 comments · r/politics",
           "published_at": "2026-03-19 14:43:02+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 5.75
+        },
+        {
+          "source": "reddit_politics",
+          "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
+          "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
+          "summary": "⬆ 6,574 upvotes · 💬 386 comments · r/politics",
+          "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.75
@@ -153,20 +153,18 @@
     },
     {
       "topic": "everyday_economy",
-      "topic_score": 40.48,
-      "attention_focus_score": 38.48,
+      "topic_score": 42.18,
+      "attention_focus_score": 40.68,
       "item_count": 7,
-      "source_count": 5,
-      "platform_count": 4,
+      "source_count": 4,
+      "platform_count": 3,
       "sources": [
-        "bbc_top",
         "cnbc",
         "reddit_politics",
         "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
-        "bbc",
         "cnbc",
         "reddit",
         "thehill"
@@ -176,17 +174,27 @@
           "source": "reddit_politics",
           "title": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
           "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
-          "summary": "⬆ 3,860 upvotes · 💬 62 comments · r/politics",
+          "summary": "⬆ 3,923 upvotes · 💬 62 comments · r/politics",
           "published_at": "2026-03-19 15:48:40+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
           "gravity_score": 6.17
         },
         {
+          "source": "reddit_politics",
+          "title": "Skyrocketing Gas Prices Could Lose the Senate for Trump",
+          "url": "https://www.reddit.com/r/politics/comments/1ryaefe/skyrocketing_gas_prices_could_lose_the_senate_for/",
+          "summary": "⬆ 639 upvotes · 💬 131 comments · r/politics",
+          "published_at": "2026-03-19 19:50:54+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 5.53
+        },
+        {
           "source": "reddit_worldnews",
           "title": "Gas price soars 25% after strikes on Qatar hub",
           "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-          "summary": "⬆ 1,650 upvotes · 💬 152 comments · r/worldnews",
+          "summary": "⬆ 1,652 upvotes · 💬 152 comments · r/worldnews",
           "published_at": "2026-03-19 13:04:49+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -211,23 +219,13 @@
           "topic": "everyday_economy",
           "keyword_hits": 2,
           "gravity_score": 4.55
-        },
-        {
-          "source": "cnbc",
-          "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
-          "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
-          "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
-          "published_at": "2026-03-19 17:24:32+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 3.9
         }
       ]
     },
     {
       "topic": "reality_tv",
-      "topic_score": 33.22,
-      "attention_focus_score": 31.72,
+      "topic_score": 31.85,
+      "attention_focus_score": 30.35,
       "item_count": 7,
       "source_count": 4,
       "platform_count": 3,
@@ -247,7 +245,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 2,860 upvotes · 💬 522 comments · r/popculturechat",
+          "summary": "⬆ 2,925 upvotes · 💬 529 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -264,16 +262,6 @@
           "gravity_score": 4.73
         },
         {
-          "source": "bbc_top",
-          "title": "Famous night for Forest in season to largely forget",
-          "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
-          "summary": "Nottingham Forest are fighting for Premier League survival but reaching the Europa League quarter-finals could provide hope in an otherwise torrid season.",
-          "published_at": "2026-03-19 23:35:46+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 4.73
-        },
-        {
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo takes over the kitchen for the latest episode of Vogue’s Now Serving",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ry948e/olivia_rodrigo_takes_over_the_kitchen_for_the/",
@@ -282,6 +270,16 @@
           "topic": "reality_tv",
           "keyword_hits": 1,
           "gravity_score": 4.39
+        },
+        {
+          "source": "bbc_top",
+          "title": "Famous night for Forest in season to largely forget",
+          "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
+          "summary": "Nottingham Forest are fighting for Premier League survival but reaching the Europa League quarter-finals could provide hope in an otherwise torrid season.",
+          "published_at": "2026-03-19 23:35:46+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 3.38
         },
         {
           "source": "bbc_top",
@@ -317,7 +315,7 @@
           "source": "reddit_worldnews",
           "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
           "url": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/",
-          "summary": "⬆ 10,721 upvotes · 💬 1,497 comments · r/worldnews",
+          "summary": "⬆ 10,772 upvotes · 💬 1,499 comments · r/worldnews",
           "published_at": "2026-03-19 14:09:16+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -435,31 +433,6 @@
   "market_suggestions": [
     {
       "topic": "politics",
-      "event": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
-      "gravity_score": 7.25,
-      "priority_score": 19.25,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "coindesk",
-        "npr",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?",
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
       "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
       "gravity_score": 6.5,
       "priority_score": 18.5,
@@ -507,25 +480,28 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
-      "topic": "everyday_economy",
-      "event": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
-      "gravity_score": 6.17,
-      "priority_score": 12.17,
-      "source_platform": "reddit_politics",
+      "topic": "politics",
+      "event": "Watch: Q&A with The Hill’s editors",
+      "gravity_score": 6.0,
+      "priority_score": 18.0,
+      "source_platform": "thehill",
       "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
+      "url": "https://thehill.com/video-clips/5791365-watch-live-qa-with-the-hills-editors/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
+        "coindesk",
+        "npr",
+        "politico",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Will this bill pass committee/floor vote by a specific date?",
-        "Will the president sign or veto it?",
-        "Will the next CPI reading come in above/below consensus?"
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "reality_tv",
@@ -546,26 +522,6 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "everyday_economy",
-      "event": "Gas price soars 25% after strikes on Qatar hub",
-      "gravity_score": 4.88,
-      "priority_score": 10.88,
-      "source_platform": "reddit_worldnews",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the strike last more than 14 days?",
-        "Will a deal be reached before a specific deadline?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "geopolitics",
@@ -589,20 +545,40 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "Gold and silver sell-off accelerates as inflation fears grip global markets",
-      "gravity_score": 4.55,
-      "priority_score": 10.55,
-      "source_platform": "cnbc",
+      "event": "Jerome Powell says you're right to blame data centers for making your bills more expensive: \"probably pushing inflation up\"",
+      "gravity_score": 6.17,
+      "priority_score": 10.17,
+      "source_platform": "reddit_politics",
       "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
+      "url": "https://www.reddit.com/r/politics/comments/1ry42ak/jerome_powell_says_youre_right_to_blame_data/",
       "platforms_discussing": [
-        "bbc",
         "cnbc",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?",
         "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Skyrocketing Gas Prices Could Lose the Senate for Trump",
+      "gravity_score": 5.53,
+      "priority_score": 9.53,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1ryaefe/skyrocketing_gas_prices_could_lose_the_senate_for/",
+      "platforms_discussing": [
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
     },
@@ -642,6 +618,25 @@
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "CoinGecko / SEC filings / On-chain data / Exchange records"
+    },
+    {
+      "topic": "everyday_economy",
+      "event": "Gas price soars 25% after strikes on Qatar hub",
+      "gravity_score": 4.88,
+      "priority_score": 8.88,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rxzvg9/gas_price_soars_25_after_strikes_on_qatar_hub/",
+      "platforms_discussing": [
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the strike last more than 14 days?",
+        "Will a deal be reached before a specific deadline?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
     },
     {
       "topic": "music_charts",
@@ -684,13 +679,6 @@
   "platform_snapshots": {
     "Reddit": [
       {
-        "topic": "politics",
-        "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
-        "score": 7.25,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rxuh0b/senate_votes_down_measure_aiming_to_limit_trumps/"
-      },
-      {
         "topic": "reality_tv",
         "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
         "score": 7.09,
@@ -717,6 +705,13 @@
         "score": 5.75,
         "source": "reddit_politics",
         "url": "https://www.reddit.com/r/politics/comments/1ry2aq5/trumps_dhs_pick_mullin_advances_by_one_vote_after/"
+      },
+      {
+        "topic": "politics",
+        "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
+        "score": 5.75,
+        "source": "reddit_politics",
+        "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/"
       }
     ],
     "X": [
