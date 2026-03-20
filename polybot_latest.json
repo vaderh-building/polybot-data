@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-20T16:32:41.975157+00:00",
+  "generated_at_utc": "2026-03-20T16:34:55.930145+00:00",
   "top_topics": [
     {
       "topic": "politics",
@@ -49,7 +49,7 @@
           "source": "reddit_politics",
           "title": "Senate nominee Juliana Stratton says she won’t support Chuck Schumer as Democratic leader",
           "url": "https://www.reddit.com/r/politics/comments/1rygrlk/senate_nominee_juliana_stratton_says_she_wont/",
-          "summary": "⬆ 6,983 upvotes · 💬 260 comments · r/politics",
+          "summary": "⬆ 6,995 upvotes · 💬 260 comments · r/politics",
           "published_at": "2026-03-19 23:57:12+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -59,7 +59,7 @@
           "source": "reddit_news",
           "title": "Some DHS contractors told White House officials they were asked to pay Corey Lewandowski",
           "url": "https://www.reddit.com/r/news/comments/1rya70m/some_dhs_contractors_told_white_house_officials/",
-          "summary": "⬆ 1,760 upvotes · 💬 76 comments · r/news",
+          "summary": "⬆ 1,766 upvotes · 💬 76 comments · r/news",
           "published_at": "2026-03-19 19:43:38+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -97,7 +97,7 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 5,376 upvotes · 💬 590 comments · r/popculturechat",
+          "summary": "⬆ 5,371 upvotes · 💬 590 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
@@ -170,7 +170,7 @@
           "source": "reddit_worldnews",
           "title": "Trump calls NATO “cowards” for lack of support for Iran war",
           "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
-          "summary": "⬆ 1,119 upvotes · 💬 349 comments · r/worldnews",
+          "summary": "⬆ 1,211 upvotes · 💬 367 comments · r/worldnews",
           "published_at": "2026-03-20 15:43:49+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -200,7 +200,7 @@
           "source": "reddit_politics",
           "title": "Trump Calls NATO “Cowards” Over Lack of Support in Iran War",
           "url": "https://www.reddit.com/r/politics/comments/1ryxg8g/trump_calls_nato_cowards_over_lack_of_support_in/",
-          "summary": "⬆ 264 upvotes · 💬 227 comments · r/politics",
+          "summary": "⬆ 267 upvotes · 💬 228 comments · r/politics",
           "published_at": "2026-03-20 14:16:45+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -215,6 +215,67 @@
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 4.0
+        }
+      ]
+    },
+    {
+      "topic": "reality_tv",
+      "topic_score": 34.3,
+      "attention_focus_score": 32.8,
+      "item_count": 4,
+      "source_count": 4,
+      "platform_count": 3,
+      "sources": [
+        "bbc_world",
+        "cnbc",
+        "reddit_news",
+        "reddit_popculturechat"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "reddit"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_news",
+          "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
+          "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
+          "summary": "⬆ 5,501 upvotes · 💬 596 comments · r/news",
+          "published_at": "2026-03-20 02:34:26+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
+          "summary": "⬆ 5,068 upvotes · 💬 721 comments · r/popculturechat",
+          "published_at": "2026-03-19 19:56:18+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
+        {
+          "source": "cnbc",
+          "title": "Your tax refund could be smaller than expected this season. Here's why",
+          "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
+          "summary": "Tax refunds are higher on average compared to last year, but the change has been smaller than some early projections. Here's what to expect.",
+          "published_at": "2026-03-20 15:57:23+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 6.75
+        },
+        {
+          "source": "bbc_world",
+          "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
+          "published_at": "2026-03-20 01:41:58+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 2,
+          "gravity_score": 4.05
         }
       ]
     },
@@ -241,7 +302,7 @@
           "source": "reddit_popculturechat",
           "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 555 upvotes · 💬 81 comments · r/popculturechat",
+          "summary": "⬆ 559 upvotes · 💬 81 comments · r/popculturechat",
           "published_at": "2026-03-20 11:19:56+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -286,55 +347,6 @@
           "topic": "music_charts",
           "keyword_hits": 1,
           "gravity_score": 4.35
-        }
-      ]
-    },
-    {
-      "topic": "reality_tv",
-      "topic_score": 22.85,
-      "attention_focus_score": 21.85,
-      "item_count": 3,
-      "source_count": 3,
-      "platform_count": 2,
-      "sources": [
-        "bbc_world",
-        "reddit_news",
-        "reddit_popculturechat"
-      ],
-      "platforms": [
-        "bbc",
-        "reddit"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_news",
-          "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
-          "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 5,494 upvotes · 💬 595 comments · r/news",
-          "published_at": "2026-03-20 02:34:26+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 7.76
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 5,070 upvotes · 💬 721 comments · r/popculturechat",
-          "published_at": "2026-03-19 19:56:18+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 7.76
-        },
-        {
-          "source": "bbc_world",
-          "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
-          "published_at": "2026-03-20 01:41:58+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 2,
-          "gravity_score": 4.05
         }
       ]
     },
@@ -404,7 +416,7 @@
           "source": "reddit_popculturechat",
           "title": "Zara Larsson reveals that she lost a 3 million dollars brand deal due to the abortion joke she made on tiktok: \"If you dont agree with me thinking that women should have access to abortion, were just not meant to be partners\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rz0itw/zara_larsson_reveals_that_she_lost_a_3_million/",
-          "summary": "⬆ 68 upvotes · 💬 9 comments · r/popculturechat",
+          "summary": "⬆ 121 upvotes · 💬 16 comments · r/popculturechat",
           "published_at": "2026-03-20 16:11:06+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -480,6 +492,46 @@
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
+      "topic": "reality_tv",
+      "event": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
+      "gravity_score": 7.76,
+      "priority_score": 11.76,
+      "source_platform": "reddit_news",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
+      "gravity_score": 7.76,
+      "priority_score": 11.76,
+      "source_platform": "reddit_popculturechat",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
       "topic": "geopolitics",
       "event": "Trump calls NATO “cowards” for lack of support for Iran war",
       "gravity_score": 5.75,
@@ -500,6 +552,26 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "Your tax refund could be smaller than expected this season. Here's why",
+      "gravity_score": 6.75,
+      "priority_score": 10.75,
+      "source_platform": "cnbc",
+      "source_label": "",
+      "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "geopolitics",
@@ -582,44 +654,6 @@
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
-      "topic": "reality_tv",
-      "event": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
-      "gravity_score": 7.76,
-      "priority_score": 9.76,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
-      "gravity_score": 7.76,
-      "priority_score": 9.76,
-      "source_platform": "reddit_popculturechat",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-      "platforms_discussing": [
-        "bbc",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
-    },
-    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -635,26 +669,6 @@
         "Will viewership exceed last year's numbers?"
       ],
       "verifiable_via": "Google Trends / Platform public APIs"
-    },
-    {
-      "topic": "music_charts",
-      "event": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
-      "gravity_score": 5.08,
-      "priority_score": 9.08,
-      "source_platform": "bbc_top",
-      "source_label": "",
-      "url": "https://www.bbc.com/news/articles/cew7l8nr5jeo?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Billboard / Spotify Charts / RIAA"
     }
   ],
   "platform_snapshots": {
@@ -796,6 +810,13 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "otega oweh",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "santa clara university",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -821,16 +842,17 @@
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "charleston vs duke",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
       }
     ],
     "Major News Headlines": [
+      {
+        "topic": "reality_tv",
+        "title": "[CNBC] Your tax refund could be smaller than expected this season. Here's why",
+        "score": 6.75,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
+        "source_label": "CNBC"
+      },
       {
         "topic": "politics",
         "title": "[CoinDesk] Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
@@ -862,14 +884,6 @@
         "source": "coindesk",
         "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
         "source_label": "CoinDesk"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Live updates: Pentagon accelerates Mideast deployments; Senate set to vote on DHS funding",
-        "score": 5.0,
-        "source": "thehill",
-        "url": "https://thehill.com/homenews/administration/5791969-live-updates-trump-iran-senate-save-america-act/",
-        "source_label": "The Hill"
       }
     ]
   }
