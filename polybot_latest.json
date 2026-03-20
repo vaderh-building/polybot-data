@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-20T15:46:44.862100+00:00",
+  "generated_at_utc": "2026-03-20T16:02:30.416712+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 168.88,
-      "attention_focus_score": 165.88,
-      "item_count": 40,
+      "topic_score": 159.78,
+      "attention_focus_score": 156.78,
+      "item_count": 38,
       "source_count": 7,
       "platform_count": 5,
       "sources": [
@@ -29,7 +29,7 @@
           "source": "reddit_politics",
           "title": "Nearly Every House Republican Votes for Amendment That Would Slash Medicare, Social Security",
           "url": "https://www.reddit.com/r/politics/comments/1ry66rc/nearly_every_house_republican_votes_for_amendment/",
-          "summary": "⬆ 13,070 upvotes · 💬 666 comments · r/politics",
+          "summary": "⬆ 13,082 upvotes · 💬 665 comments · r/politics",
           "published_at": "2026-03-19 17:07:00+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -69,7 +69,7 @@
           "source": "reddit_politics",
           "title": "Senate nominee Juliana Stratton says she won’t support Chuck Schumer as Democratic leader",
           "url": "https://www.reddit.com/r/politics/comments/1rygrlk/senate_nominee_juliana_stratton_says_she_wont/",
-          "summary": "⬆ 6,885 upvotes · 💬 256 comments · r/politics",
+          "summary": "⬆ 6,918 upvotes · 💬 257 comments · r/politics",
           "published_at": "2026-03-19 23:57:12+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -79,8 +79,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 79.42,
-      "attention_focus_score": 78.92,
+      "topic_score": 77.89,
+      "attention_focus_score": 77.39,
       "item_count": 20,
       "source_count": 2,
       "platform_count": 2,
@@ -97,21 +97,11 @@
           "source": "reddit_popculturechat",
           "title": "Usher and Justin Bieber Have Heated Exchange At Beyoncé's Oscars After-Party",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryaggk/usher_and_justin_bieber_have_heated_exchange_at/",
-          "summary": "⬆ 5,202 upvotes · 💬 578 comments · r/popculturechat",
+          "summary": "⬆ 5,271 upvotes · 💬 581 comments · r/popculturechat",
           "published_at": "2026-03-19 19:52:47+00:00",
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 5.75
-        },
-        {
-          "source": "coindesk",
-          "title": "Bitcoin's latest fear unlocked as rate hike bets rise and bond markets crumble",
-          "url": "https://www.coindesk.com/markets/2026/03/20/bitcoin-s-latest-fear-unlocked-as-rate-hikes-bets-rise-and-bond-markets-crumble",
-          "summary": "For now, surging oil prices and persistent geopolitical tensions are driving inflation fears and weakening traditional safe-haven assets.",
-          "published_at": "2026-03-20 14:51:48+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
         },
         {
           "source": "coindesk",
@@ -142,78 +132,16 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
-        }
-      ]
-    },
-    {
-      "topic": "everyday_economy",
-      "topic_score": 32.65,
-      "attention_focus_score": 31.15,
-      "item_count": 6,
-      "source_count": 4,
-      "platform_count": 4,
-      "sources": [
-        "bbc_top",
-        "cnbc",
-        "reddit_popculturechat",
-        "thehill"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "top_items": [
-        {
-          "source": "bbc_top",
-          "title": "UK borrowing costs hit highest level since 2008 financial crisis",
-          "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
-          "summary": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
-          "published_at": "2026-03-20 14:55:02+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
         },
         {
-          "source": "cnbc",
-          "title": "Banks eye three ECB rate hikes this year as former Governor says he sees no stagflation — yet",
-          "url": "https://www.cnbc.com/2026/03/20/banks-eye-three-ecb-rate-hikes-this-year.html",
-          "summary": "Brokers now expect the ECB to hike interest rates this year as the specter of higher inflation and lower growth piles pressure on central banks to act.",
-          "published_at": "2026-03-20 12:39:04+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.55
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Robert De Niro Makes Bipartisan Appeal Against Inflation and War: \"No One Voted for Higher Prices\"",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rytgba/robert_de_niro_makes_bipartisan_appeal_against/",
-          "summary": "⬆ 114 upvotes · 💬 8 comments · r/popculturechat",
-          "published_at": "2026-03-20 11:15:03+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 4.23
-        },
-        {
-          "source": "cnbc",
-          "title": "Trump invokes emergency powers with $23 billion in Gulf arms sales as Iran war wages on: WSJ report",
-          "url": "https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html",
-          "summary": "The U.S. approved roughly $23 billion in weapons sales to three Gulf nations, moving to bolster their defenses as the Middle East war continued to escalate.",
-          "published_at": "2026-03-20 07:35:51+00:00",
-          "topic": "everyday_economy",
-          "keyword_hits": 1,
-          "gravity_score": 3.9
-        },
-        {
-          "source": "thehill",
-          "title": "IMF: Prolonged high gas prices could increase inflation",
-          "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
-          "summary": "The International Monetary Fund (IMF) warned Thursday that rising energy prices caused by the ongoing conflict with Iran could lead to higher global inflation if prolonged, but it said no nation has yet reached out for emergency financial assistance. IMF communications director Julie Kozack told reporters that the organization was closely monitoring how oil and&#8230;",
-          "published_at": "2026-03-19 20:29:18+00:00",
-          "topic": "everyday_economy",
+          "source": "coindesk",
+          "title": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
+          "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
+          "summary": "Security researchers said attackers are impersonating OpenClaw on GitHub, luring developers with bogus CLAW token giveaways that trick users into connecting their crypto wallets.",
+          "published_at": "2026-03-19 15:45:10+00:00",
+          "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 3.9
+          "gravity_score": 4.5
         }
       ]
     },
@@ -240,7 +168,7 @@
           "source": "reddit_popculturechat",
           "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 492 upvotes · 💬 73 comments · r/popculturechat",
+          "summary": "⬆ 512 upvotes · 💬 78 comments · r/popculturechat",
           "published_at": "2026-03-20 11:19:56+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -250,7 +178,7 @@
           "source": "reddit_popculturechat",
           "title": "Olivia Rodrigo Says Her Upcoming Album Is Composed of “Sad Love Songs”",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryojph/olivia_rodrigo_says_her_upcoming_album_is/",
-          "summary": "⬆ 338 upvotes · 💬 51 comments · r/popculturechat",
+          "summary": "⬆ 342 upvotes · 💬 52 comments · r/popculturechat",
           "published_at": "2026-03-20 06:14:03+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -289,30 +217,104 @@
       ]
     },
     {
-      "topic": "geopolitics",
-      "topic_score": 23.84,
-      "attention_focus_score": 23.34,
+      "topic": "everyday_economy",
+      "topic_score": 27.06,
+      "attention_focus_score": 25.56,
       "item_count": 5,
-      "source_count": 2,
-      "platform_count": 2,
+      "source_count": 4,
+      "platform_count": 4,
       "sources": [
+        "bbc_top",
         "cnbc",
+        "reddit_popculturechat",
         "thehill"
       ],
       "platforms": [
+        "bbc",
         "cnbc",
+        "reddit",
         "thehill"
       ],
       "top_items": [
         {
           "source": "cnbc",
-          "title": "Oil prices little changed at $108 as U.S. considers lifting sanctions on some Iranian crude",
-          "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
-          "summary": "Oil prices were stable on Friday even after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers.",
-          "published_at": "2026-03-20 14:48:38+00:00",
+          "title": "Banks eye three ECB rate hikes this year as former Governor says he sees no stagflation — yet",
+          "url": "https://www.cnbc.com/2026/03/20/banks-eye-three-ecb-rate-hikes-this-year.html",
+          "summary": "Brokers now expect the ECB to hike interest rates this year as the specter of higher inflation and lower growth piles pressure on central banks to act.",
+          "published_at": "2026-03-20 12:39:04+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.55
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Robert De Niro Makes Bipartisan Appeal Against Inflation and War: \"No One Voted for Higher Prices\"",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rytgba/robert_de_niro_makes_bipartisan_appeal_against/",
+          "summary": "⬆ 118 upvotes · 💬 8 comments · r/popculturechat",
+          "published_at": "2026-03-20 11:15:03+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 4.23
+        },
+        {
+          "source": "thehill",
+          "title": "IMF: Prolonged high gas prices could increase inflation",
+          "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
+          "summary": "The International Monetary Fund (IMF) warned Thursday that rising energy prices caused by the ongoing conflict with Iran could lead to higher global inflation if prolonged, but it said no nation has yet reached out for emergency financial assistance. IMF communications director Julie Kozack told reporters that the organization was closely monitoring how oil and&#8230;",
+          "published_at": "2026-03-19 20:29:18+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 2,
+          "gravity_score": 3.9
+        },
+        {
+          "source": "bbc_top",
+          "title": "UK borrowing costs hit highest level since 2008 financial crisis",
+          "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
+          "summary": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
+          "published_at": "2026-03-20 14:55:02+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 3.25
+        },
+        {
+          "source": "thehill",
+          "title": "Americans expect fuel costs will keep climbing: Poll",
+          "url": "https://thehill.com/policy/energy-environment/5792965-americans-fuel-costs-climbing-iran-survey/",
+          "summary": "An overwhelming majority of Americans expect oil and gas costs to keep rising amid economic strain sparked by the U.S.-Israeli conflict with Iran, according to a new poll. The Reuters/Ipsos poll, released Friday, shows that 87 percent of Americans believe gas prices will go higher over the next month, while 11 percent say they think&#8230;",
+          "published_at": "2026-03-20 13:38:32+00:00",
+          "topic": "everyday_economy",
+          "keyword_hits": 1,
+          "gravity_score": 2.6
+        }
+      ]
+    },
+    {
+      "topic": "geopolitics",
+      "topic_score": 26.02,
+      "attention_focus_score": 25.02,
+      "item_count": 5,
+      "source_count": 3,
+      "platform_count": 3,
+      "sources": [
+        "cnbc",
+        "reddit_politics",
+        "thehill"
+      ],
+      "platforms": [
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_politics",
+          "title": "Trump Calls NATO “Cowards” Over Lack of Support in Iran War",
+          "url": "https://www.reddit.com/r/politics/comments/1ryxg8g/trump_calls_nato_cowards_over_lack_of_support_in/",
+          "summary": "⬆ 205 upvotes · 💬 179 comments · r/politics",
+          "published_at": "2026-03-20 14:16:45+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
-          "gravity_score": 5.0
+          "gravity_score": 4.75
         },
         {
           "source": "cnbc",
@@ -325,6 +327,16 @@
           "gravity_score": 4.5
         },
         {
+          "source": "cnbc",
+          "title": "Oil prices little changed at $108 as U.S. considers lifting sanctions on some Iranian crude",
+          "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+          "summary": "Oil prices were stable on Friday even after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers.",
+          "published_at": "2026-03-20 14:48:38+00:00",
+          "topic": "geopolitics",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
+        },
+        {
           "source": "thehill",
           "title": "Trump dubs NATO a ‘paper tiger’ over Strait of Hormuz",
           "url": "https://thehill.com/homenews/administration/5793172-trump-nato-paper-tiger/",
@@ -333,16 +345,6 @@
           "topic": "geopolitics",
           "keyword_hits": 2,
           "gravity_score": 4.0
-        },
-        {
-          "source": "thehill",
-          "title": "US military blows up drug vessel in Eastern Pacific, leaving 3 survivors",
-          "url": "https://thehill.com/policy/defense/5793193-us-military-destroys-drug-vessel-survivors/",
-          "summary": "The U.S. military blew up an alleged drug-smuggling vessel in the Eastern Pacific on Thursday, leaving three survivors, the U.S. Southern Command (Southcom) announced Friday morning. Southcom said a “low-profile” vessel was operated by a designated terrorist organization and transiting along “known narco-trafficking routes.” It is unclear if there were any casualties from the strike&#8230;",
-          "published_at": "2026-03-20 15:06:46+00:00",
-          "topic": "geopolitics",
-          "keyword_hits": 1,
-          "gravity_score": 3.5
         },
         {
           "source": "thehill",
@@ -377,7 +379,7 @@
           "source": "reddit_news",
           "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
           "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 5,343 upvotes · 💬 577 comments · r/news",
+          "summary": "⬆ 5,387 upvotes · 💬 586 comments · r/news",
           "published_at": "2026-03-20 02:34:26+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -387,7 +389,7 @@
           "source": "reddit_popculturechat",
           "title": "ABC Cancels Taylor Frankie Paul’s Season of The Bachelorette",
           "url": "https://www.reddit.com/r/popculturechat/comments/1ryajxu/abc_cancels_taylor_frankie_pauls_season_of_the/",
-          "summary": "⬆ 5,017 upvotes · 💬 720 comments · r/popculturechat",
+          "summary": "⬆ 5,027 upvotes · 💬 721 comments · r/popculturechat",
           "published_at": "2026-03-19 19:56:18+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
@@ -476,27 +478,6 @@
     },
     {
       "topic": "everyday_economy",
-      "event": "UK borrowing costs hit highest level since 2008 financial crisis",
-      "gravity_score": 4.55,
-      "priority_score": 10.55,
-      "source_platform": "bbc_top",
-      "source_label": "",
-      "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "everyday_economy",
       "event": "Banks eye three ECB rate hikes this year as former Governor says he sees no stagflation — yet",
       "gravity_score": 4.55,
       "priority_score": 10.55,
@@ -576,6 +557,25 @@
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
+      "topic": "everyday_economy",
+      "event": "IMF: Prolonged high gas prices could increase inflation",
+      "gravity_score": 3.9,
+      "priority_score": 9.9,
+      "source_platform": "thehill",
+      "source_label": "",
+      "url": "https://thehill.com/policy/international/5792482-imf-warns-rising-energy-prices/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the next CPI reading come in above/below consensus?"
+      ],
+      "verifiable_via": "BLS / EIA / FRED / AAA"
+    },
+    {
       "topic": "social_virality",
       "event": "98th Academy Awards reactions flood FYP — Conan O'Brien hosting memes dominate",
       "gravity_score": 9.2,
@@ -630,20 +630,25 @@
       "verifiable_via": "Billboard / Spotify Charts / RIAA"
     },
     {
-      "topic": "beauty",
-      "event": "Spring \"dopamine skincare\" hauls dominate Red Note — users stack niacinamide + peptide serums",
-      "gravity_score": 8.7,
-      "priority_score": 8.7,
-      "source_platform": "Xiaohongshu",
+      "topic": "geopolitics",
+      "event": "Trump Calls NATO “Cowards” Over Lack of Support in Iran War",
+      "gravity_score": 4.75,
+      "priority_score": 8.75,
+      "source_platform": "reddit_politics",
       "source_label": "",
-      "url": "",
+      "url": "https://www.reddit.com/r/politics/comments/1ryxg8g/trump_calls_nato_cowards_over_lack_of_support_in/",
       "platforms_discussing": [
-        "Xiaohongshu"
+        "cnbc",
+        "reddit",
+        "thehill"
       ],
       "debatable_angles": [
-        "Will the trending product see measurable sales spike on Amazon/Ulta?"
+        "Will a specific member state publicly commit troops or assets?",
+        "Will an emergency NATO summit be convened within 30 days?",
+        "Will the US or allies conduct a military strike?",
+        "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
-      "verifiable_via": "Amazon/Ulta sales data / Platform trending metrics"
+      "verifiable_via": "AP / Reuters / UN / Official Government statements"
     }
   ],
   "platform_snapshots": {
@@ -785,6 +790,13 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "lara spencer",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "horoscope today",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -807,13 +819,6 @@
       {
         "topic": "trending",
         "title": "anna blinkova",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "sara eisen",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
