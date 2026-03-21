@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-21T18:26:49.025629+00:00",
+  "generated_at_utc": "2026-03-21T18:28:56.198398+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 158.84,
-      "attention_focus_score": 155.34,
-      "item_count": 36,
+      "topic_score": 166.36,
+      "attention_focus_score": 162.86,
+      "item_count": 38,
       "source_count": 8,
       "platform_count": 6,
       "sources": [
@@ -31,7 +31,7 @@
           "source": "reddit_all",
           "title": "Japanese Prime Minister Sanae Takaichi during the state dinner at the White House",
           "url": "https://www.reddit.com/r/pics/comments/1rzrsti/japanese_prime_minister_sanae_takaichi_during_the/",
-          "summary": "⬆ 25,249 upvotes · 💬 2,969 comments · r/all",
+          "summary": "⬆ 25,415 upvotes · 💬 2,981 comments · r/all",
           "published_at": "2026-03-21 13:42:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -41,7 +41,7 @@
           "source": "reddit_worldnews",
           "title": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
-          "summary": "⬆ 10,811 upvotes · 💬 1,437 comments · r/worldnews",
+          "summary": "⬆ 10,933 upvotes · 💬 1,466 comments · r/worldnews",
           "published_at": "2026-03-21 13:29:28+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -51,7 +51,7 @@
           "source": "reddit_politics",
           "title": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
           "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
-          "summary": "⬆ 18,891 upvotes · 💬 865 comments · r/politics",
+          "summary": "⬆ 18,897 upvotes · 💬 865 comments · r/politics",
           "published_at": "2026-03-20 20:09:54+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -81,8 +81,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 73.34,
-      "attention_focus_score": 72.84,
+      "topic_score": 72.22,
+      "attention_focus_score": 71.72,
       "item_count": 17,
       "source_count": 2,
       "platform_count": 2,
@@ -117,16 +117,6 @@
         },
         {
           "source": "coindesk",
-          "title": "Grayscale wants to bring the world's hottest crypto trading frenzy to your brokerage account",
-          "url": "https://www.coindesk.com/business/2026/03/21/grayscale-wants-to-bring-the-world-s-hottest-crypto-trading-frenzy-to-your-brokerage-account",
-          "summary": "The Hyperliquid network has seen significant growth, with weekly derivatives trading volume exceeding $50 billion and 24-hour fee revenue of $1.6 million.",
-          "published_at": "2026-03-21 17:27:20+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 5.0
-        },
-        {
-          "source": "coindesk",
           "title": "Nasdaq winning SEC approval to move stocks onchain shows how Wall Street is taking charge of crypto tech",
           "url": "https://www.coindesk.com/business/2026/03/19/nasdaq-winning-sec-approval-to-move-stocks-onchain-shows-how-wall-street-is-taking-charge-of-crypto-tech",
           "summary": "Nasdaq's structure the SEC approved opens door to bring blockchain benefits to equities, while preserving the same-old intermediaries and market structure, industry insiders say.",
@@ -144,6 +134,16 @@
           "topic": "crypto",
           "keyword_hits": 2,
           "gravity_score": 4.5
+        },
+        {
+          "source": "coindesk",
+          "title": "Grayscale wants to bring the world's hottest crypto trading frenzy to your brokerage account",
+          "url": "https://www.coindesk.com/business/2026/03/21/grayscale-wants-to-bring-the-world-s-hottest-crypto-trading-frenzy-to-your-brokerage-account",
+          "summary": "The Hyperliquid network has seen significant growth, with weekly derivatives trading volume exceeding $50 billion and 24-hour fee revenue of $1.6 million.",
+          "published_at": "2026-03-21 17:27:20+00:00",
+          "topic": "crypto",
+          "keyword_hits": 1,
+          "gravity_score": 4.0
         }
       ]
     },
@@ -168,7 +168,7 @@
           "source": "reddit_worldnews",
           "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
           "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
-          "summary": "⬆ 14,798 upvotes · 💬 3,549 comments · r/worldnews",
+          "summary": "⬆ 14,802 upvotes · 💬 3,551 comments · r/worldnews",
           "published_at": "2026-03-20 19:21:48+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -178,7 +178,7 @@
           "source": "reddit_worldnews",
           "title": "Report: Iran fires missiles toward Diego Garcia in rare long-range strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzdu5s/report_iran_fires_missiles_toward_diego_garcia_in/",
-          "summary": "⬆ 14,886 upvotes · 💬 1,900 comments · r/worldnews",
+          "summary": "⬆ 14,888 upvotes · 💬 1,900 comments · r/worldnews",
           "published_at": "2026-03-21 00:54:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -188,7 +188,7 @@
           "source": "reddit_politics",
           "title": "Trump mulls 'winding down' war and leaving Strait of Hormuz crisis to 'other nations'",
           "url": "https://www.reddit.com/r/politics/comments/1rzad5m/trump_mulls_winding_down_war_and_leaving_strait/",
-          "summary": "⬆ 13,468 upvotes · 💬 2,085 comments · r/politics",
+          "summary": "⬆ 13,472 upvotes · 💬 2,086 comments · r/politics",
           "published_at": "2026-03-20 22:29:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -198,7 +198,7 @@
           "source": "reddit_worldnews",
           "title": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzgne2/cuba_refuses_to_let_us_embassy_in_havana_import/",
-          "summary": "⬆ 16,515 upvotes · 💬 483 comments · r/worldnews",
+          "summary": "⬆ 16,526 upvotes · 💬 483 comments · r/worldnews",
           "published_at": "2026-03-21 03:06:57+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -208,7 +208,7 @@
           "source": "reddit_worldnews",
           "title": "Trump considers \"winding down\" Iran war without opening Hormuz Strait",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzk7pa/trump_considers_winding_down_iran_war_without/",
-          "summary": "⬆ 11,687 upvotes · 💬 1,640 comments · r/worldnews",
+          "summary": "⬆ 11,707 upvotes · 💬 1,648 comments · r/worldnews",
           "published_at": "2026-03-21 06:20:37+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -238,7 +238,7 @@
           "source": "reddit_news",
           "title": "US lifts sanctions on some Iranian oil as gas prices soar",
           "url": "https://www.reddit.com/r/news/comments/1rzdons/us_lifts_sanctions_on_some_iranian_oil_as_gas/",
-          "summary": "⬆ 1,288 upvotes · 💬 351 comments · r/news",
+          "summary": "⬆ 1,296 upvotes · 💬 351 comments · r/news",
           "published_at": "2026-03-21 00:48:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -796,12 +796,12 @@
         "source_label": "CNBC"
       },
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] Grayscale wants to bring the world's hottest crypto trading frenzy to your brokerage account",
-        "score": 5.0,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/business/2026/03/21/grayscale-wants-to-bring-the-world-s-hottest-crypto-trading-frenzy-to-your-brokerage-account",
-        "source_label": "CoinDesk"
+        "topic": "politics",
+        "title": "[BBC] Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
+        "score": 4.5,
+        "source": "bbc_top",
+        "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
       }
     ]
   }
