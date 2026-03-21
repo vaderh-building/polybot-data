@@ -1,15 +1,14 @@
 {
-  "generated_at_utc": "2026-03-21T09:30:28.665930+00:00",
+  "generated_at_utc": "2026-03-21T09:42:11.301352+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 133.54,
-      "attention_focus_score": 131.04,
-      "item_count": 32,
-      "source_count": 6,
-      "platform_count": 5,
+      "topic_score": 129.31,
+      "attention_focus_score": 127.31,
+      "item_count": 31,
+      "source_count": 5,
+      "platform_count": 4,
       "sources": [
-        "bbc_world",
         "coindesk",
         "politico",
         "reddit_news",
@@ -17,7 +16,6 @@
         "thehill"
       ],
       "platforms": [
-        "bbc",
         "coindesk",
         "politico",
         "reddit",
@@ -28,7 +26,7 @@
           "source": "reddit_politics",
           "title": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
           "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
-          "summary": "⬆ 16,514 upvotes · 💬 777 comments · r/politics",
+          "summary": "⬆ 16,599 upvotes · 💬 778 comments · r/politics",
           "published_at": "2026-03-20 20:09:54+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -38,7 +36,7 @@
           "source": "reddit_politics",
           "title": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
           "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
-          "summary": "⬆ 12,086 upvotes · 💬 566 comments · r/politics",
+          "summary": "⬆ 12,116 upvotes · 💬 568 comments · r/politics",
           "published_at": "2026-03-20 18:38:04+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -58,7 +56,7 @@
           "source": "reddit_news",
           "title": "Top US Fema official claims to have teleported to a Waffle House before",
           "url": "https://www.reddit.com/r/news/comments/1rzcf9i/top_us_fema_official_claims_to_have_teleported_to/",
-          "summary": "⬆ 3,786 upvotes · 💬 439 comments · r/news",
+          "summary": "⬆ 3,816 upvotes · 💬 442 comments · r/news",
           "published_at": "2026-03-20 23:52:38+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -68,7 +66,7 @@
           "source": "reddit_politics",
           "title": "Democrats Call For John Fetterman's Ouster Over Vote To Advance Markwayne Mullin's Nomination For DHS Secretary",
           "url": "https://www.reddit.com/r/politics/comments/1rz6qz8/democrats_call_for_john_fettermans_ouster_over/",
-          "summary": "⬆ 4,219 upvotes · 💬 138 comments · r/politics",
+          "summary": "⬆ 4,237 upvotes · 💬 138 comments · r/politics",
           "published_at": "2026-03-20 20:05:51+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -78,8 +76,8 @@
     },
     {
       "topic": "geopolitics",
-      "topic_score": 80.17,
-      "attention_focus_score": 77.67,
+      "topic_score": 79.63,
+      "attention_focus_score": 77.13,
       "item_count": 14,
       "source_count": 6,
       "platform_count": 4,
@@ -102,7 +100,7 @@
           "source": "reddit_worldnews",
           "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
           "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
-          "summary": "⬆ 12,600 upvotes · 💬 2,931 comments · r/worldnews",
+          "summary": "⬆ 12,666 upvotes · 💬 2,941 comments · r/worldnews",
           "published_at": "2026-03-20 19:21:48+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -112,7 +110,7 @@
           "source": "reddit_worldnews",
           "title": "Report: Iran fires missiles toward Diego Garcia in rare long-range strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzdu5s/report_iran_fires_missiles_toward_diego_garcia_in/",
-          "summary": "⬆ 12,227 upvotes · 💬 1,648 comments · r/worldnews",
+          "summary": "⬆ 12,315 upvotes · 💬 1,658 comments · r/worldnews",
           "published_at": "2026-03-21 00:54:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -122,7 +120,7 @@
           "source": "reddit_worldnews",
           "title": "Trump calls NATO “cowards” for lack of support for Iran war",
           "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
-          "summary": "⬆ 11,657 upvotes · 💬 1,792 comments · r/worldnews",
+          "summary": "⬆ 11,693 upvotes · 💬 1,794 comments · r/worldnews",
           "published_at": "2026-03-20 15:43:49+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -132,7 +130,7 @@
           "source": "reddit_politics",
           "title": "Trump mulls 'winding down' war and leaving Strait of Hormuz crisis to 'other nations'",
           "url": "https://www.reddit.com/r/politics/comments/1rzad5m/trump_mulls_winding_down_war_and_leaving_strait/",
-          "summary": "⬆ 9,643 upvotes · 💬 1,665 comments · r/politics",
+          "summary": "⬆ 9,734 upvotes · 💬 1,675 comments · r/politics",
           "published_at": "2026-03-20 22:29:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -142,7 +140,7 @@
           "source": "reddit_all",
           "title": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
           "url": "https://www.reddit.com/r/politics/comments/1rzfvfa/cuba_refuses_to_let_us_embassy_in_havana_import/",
-          "summary": "⬆ 9,001 upvotes · 💬 406 comments · r/all",
+          "summary": "⬆ 9,175 upvotes · 💬 411 comments · r/all",
           "published_at": "2026-03-21 02:29:04+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -238,7 +236,7 @@
           "source": "reddit_politics",
           "title": "GOP Senate candidate on rising gas prices: ‘Maybe you take one less trip to Starbucks’",
           "url": "https://www.reddit.com/r/politics/comments/1ryt0ck/gop_senate_candidate_on_rising_gas_prices_maybe/",
-          "summary": "⬆ 16,863 upvotes · 💬 2,136 comments · r/politics",
+          "summary": "⬆ 16,875 upvotes · 💬 2,136 comments · r/politics",
           "published_at": "2026-03-20 10:50:50+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -306,7 +304,7 @@
           "source": "reddit_popculturechat",
           "title": "Zara Larsson reveals that she lost a 3 million dollars brand deal due to the abortion joke she made on tiktok: \"If you dont agree with me thinking that women should have access to abortion, were just not meant to be partners\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rz0itw/zara_larsson_reveals_that_she_lost_a_3_million/",
-          "summary": "⬆ 32,434 upvotes · 💬 787 comments · r/popculturechat",
+          "summary": "⬆ 32,526 upvotes · 💬 787 comments · r/popculturechat",
           "published_at": "2026-03-20 16:11:06+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -418,12 +416,11 @@
       "topic": "politics",
       "event": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
       "gravity_score": 6.75,
-      "priority_score": 14.75,
+      "priority_score": 12.75,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
       "platforms_discussing": [
-        "bbc",
         "coindesk",
         "politico",
         "reddit",
@@ -439,12 +436,11 @@
       "topic": "politics",
       "event": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
       "gravity_score": 6.75,
-      "priority_score": 14.75,
+      "priority_score": 12.75,
       "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
       "platforms_discussing": [
-        "bbc",
         "coindesk",
         "politico",
         "reddit",
@@ -454,27 +450,6 @@
         "Is there a specific deadline, vote, or official decision embedded in this story?",
         "Can the outcome be measured by an official data source within 30 days?",
         "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
-      "gravity_score": 6.0,
-      "priority_score": 14.0,
-      "source_platform": "coindesk",
-      "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
-      "platforms_discussing": [
-        "bbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -541,6 +516,26 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
+    },
+    {
+      "topic": "politics",
+      "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
+      "gravity_score": 6.0,
+      "priority_score": 12.0,
+      "source_platform": "coindesk",
+      "source_label": "",
+      "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
+      "platforms_discussing": [
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the bill pass the Senate floor vote?",
+        "Will the vote happen before a specific procedural deadline?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
     {
       "topic": "social_virality",
@@ -787,6 +782,27 @@
     "Google Trends": [
       {
         "topic": "trending",
+        "title": "car accident attorney",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "japan vs australia",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
+        "title": "nyt connections answers",
+        "score": 5.0,
+        "source": "google_trends_us_daily",
+        "url": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "topic": "trending",
         "title": "auto accident attorney",
         "score": 5.0,
         "source": "google_trends_us_daily",
@@ -795,27 +811,6 @@
       {
         "topic": "trending",
         "title": "lol",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "auto accident lawyer",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "royal caribbean cruise lines",
-        "score": 5.0,
-        "source": "google_trends_us_daily",
-        "url": "https://trends.google.com/trending/rss?geo=US"
-      },
-      {
-        "topic": "trending",
-        "title": "best tv brands",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
