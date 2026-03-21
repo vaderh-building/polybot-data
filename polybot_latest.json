@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-03-21T18:03:15.640995+00:00",
+  "generated_at_utc": "2026-03-21T18:05:21.906612+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 161.59,
+      "topic_score": 162.09,
       "attention_focus_score": 158.59,
       "item_count": 36,
-      "source_count": 7,
+      "source_count": 8,
       "platform_count": 5,
       "sources": [
         "cnbc",
@@ -15,6 +15,7 @@
         "reddit_all",
         "reddit_news",
         "reddit_politics",
+        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -29,17 +30,17 @@
           "source": "reddit_all",
           "title": "Japanese Prime Minister Sanae Takaichi during the state dinner at the White House",
           "url": "https://www.reddit.com/r/pics/comments/1rzrsti/japanese_prime_minister_sanae_takaichi_during_the/",
-          "summary": "⬆ 23,557 upvotes · 💬 2,846 comments · r/all",
+          "summary": "⬆ 23,717 upvotes · 💬 2,861 comments · r/all",
           "published_at": "2026-03-21 13:42:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 8.75
         },
         {
-          "source": "reddit_all",
+          "source": "reddit_worldnews",
           "title": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
-          "summary": "⬆ 9,816 upvotes · 💬 1,249 comments · r/all",
+          "summary": "⬆ 9,899 upvotes · 💬 1,266 comments · r/worldnews",
           "published_at": "2026-03-21 13:29:28+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -100,7 +101,7 @@
           "source": "reddit_worldnews",
           "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
           "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
-          "summary": "⬆ 14,775 upvotes · 💬 3,544 comments · r/worldnews",
+          "summary": "⬆ 14,772 upvotes · 💬 3,544 comments · r/worldnews",
           "published_at": "2026-03-20 19:21:48+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -110,7 +111,7 @@
           "source": "reddit_worldnews",
           "title": "Report: Iran fires missiles toward Diego Garcia in rare long-range strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzdu5s/report_iran_fires_missiles_toward_diego_garcia_in/",
-          "summary": "⬆ 14,824 upvotes · 💬 1,897 comments · r/worldnews",
+          "summary": "⬆ 14,818 upvotes · 💬 1,897 comments · r/worldnews",
           "published_at": "2026-03-21 00:54:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -120,7 +121,7 @@
           "source": "reddit_politics",
           "title": "Trump mulls 'winding down' war and leaving Strait of Hormuz crisis to 'other nations'",
           "url": "https://www.reddit.com/r/politics/comments/1rzad5m/trump_mulls_winding_down_war_and_leaving_strait/",
-          "summary": "⬆ 13,382 upvotes · 💬 2,072 comments · r/politics",
+          "summary": "⬆ 13,400 upvotes · 💬 2,072 comments · r/politics",
           "published_at": "2026-03-20 22:29:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -130,7 +131,7 @@
           "source": "reddit_politics",
           "title": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
           "url": "https://www.reddit.com/r/politics/comments/1rzfvfa/cuba_refuses_to_let_us_embassy_in_havana_import/",
-          "summary": "⬆ 16,112 upvotes · 💬 616 comments · r/politics",
+          "summary": "⬆ 16,114 upvotes · 💬 616 comments · r/politics",
           "published_at": "2026-03-21 02:29:04+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -140,7 +141,7 @@
           "source": "reddit_worldnews",
           "title": "Trump considers \"winding down\" Iran war without opening Hormuz Strait",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzk7pa/trump_considers_winding_down_iran_war_without/",
-          "summary": "⬆ 11,378 upvotes · 💬 1,598 comments · r/worldnews",
+          "summary": "⬆ 11,402 upvotes · 💬 1,599 comments · r/worldnews",
           "published_at": "2026-03-21 06:20:37+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -238,7 +239,7 @@
           "source": "reddit_news",
           "title": "US lifts sanctions on some Iranian oil as gas prices soar",
           "url": "https://www.reddit.com/r/news/comments/1rzdons/us_lifts_sanctions_on_some_iranian_oil_as_gas/",
-          "summary": "⬆ 1,278 upvotes · 💬 348 comments · r/news",
+          "summary": "⬆ 1,273 upvotes · 💬 348 comments · r/news",
           "published_at": "2026-03-21 00:48:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -278,8 +279,8 @@
     },
     {
       "topic": "reality_tv",
-      "topic_score": 8.11,
-      "attention_focus_score": 8.11,
+      "topic_score": 6.76,
+      "attention_focus_score": 6.76,
       "item_count": 2,
       "source_count": 1,
       "platform_count": 1,
@@ -298,7 +299,7 @@
           "published_at": "2026-03-21 17:34:34+00:00",
           "topic": "reality_tv",
           "keyword_hits": 1,
-          "gravity_score": 6.08
+          "gravity_score": 4.73
         },
         {
           "source": "bbc_top",
@@ -392,7 +393,7 @@
       "event": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
       "gravity_score": 7.25,
       "priority_score": 15.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_worldnews",
       "source_label": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
       "platforms_discussing": [
@@ -612,7 +613,7 @@
         "topic": "politics",
         "title": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
         "score": 7.25,
-        "source": "reddit_all",
+        "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/"
       },
       {
@@ -774,14 +775,6 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "reality_tv",
-        "title": "[BBC] 'Not just goals, he's a great connecter' - should Welbeck be in England squad?",
-        "score": 6.08,
-        "source": "bbc_top",
-        "url": "https://www.bbc.com/sport/football/articles/c2k3dqjz55do?at_medium=RSS&at_campaign=rss",
-        "source_label": "BBC"
-      },
-      {
         "topic": "politics",
         "title": "[CNBC] Former special counsel Robert Mueller dies at 81",
         "score": 6.0,
@@ -812,6 +805,14 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
         "source_label": "CNBC"
+      },
+      {
+        "topic": "crypto",
+        "title": "[CoinDesk] Grayscale wants to bring the world's hottest crypto trading frenzy to your brokerage account",
+        "score": 5.0,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/business/2026/03/21/grayscale-wants-to-bring-the-world-s-hottest-crypto-trading-frenzy-to-your-brokerage-account",
+        "source_label": "CoinDesk"
       }
     ]
   }
