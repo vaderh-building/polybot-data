@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-03-21T17:20:31.596796+00:00",
+  "generated_at_utc": "2026-03-21T17:22:39.372285+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 171.95,
-      "attention_focus_score": 168.95,
+      "topic_score": 173.54,
+      "attention_focus_score": 170.04,
       "item_count": 37,
-      "source_count": 7,
+      "source_count": 8,
       "platform_count": 5,
       "sources": [
         "cnbc",
@@ -15,6 +15,7 @@
         "reddit_all",
         "reddit_news",
         "reddit_politics",
+        "reddit_worldnews",
         "thehill"
       ],
       "platforms": [
@@ -29,17 +30,27 @@
           "source": "reddit_all",
           "title": "Japanese Prime Minister Sanae Takaichi during the state dinner at the White House",
           "url": "https://www.reddit.com/r/pics/comments/1rzrsti/japanese_prime_minister_sanae_takaichi_during_the/",
-          "summary": "⬆ 20,125 upvotes · 💬 2,493 comments · r/all",
+          "summary": "⬆ 20,290 upvotes · 💬 2,509 comments · r/all",
           "published_at": "2026-03-21 13:42:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
           "gravity_score": 8.75
         },
         {
+          "source": "reddit_worldnews",
+          "title": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
+          "url": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
+          "summary": "⬆ 8,168 upvotes · 💬 917 comments · r/worldnews",
+          "published_at": "2026-03-21 13:29:28+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 7.25
+        },
+        {
           "source": "reddit_politics",
           "title": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
           "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
-          "summary": "⬆ 18,797 upvotes · 💬 862 comments · r/politics",
+          "summary": "⬆ 18,809 upvotes · 💬 862 comments · r/politics",
           "published_at": "2026-03-20 20:09:54+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -49,7 +60,7 @@
           "source": "reddit_politics",
           "title": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
           "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
-          "summary": "⬆ 13,020 upvotes · 💬 604 comments · r/politics",
+          "summary": "⬆ 13,027 upvotes · 💬 604 comments · r/politics",
           "published_at": "2026-03-20 18:38:04+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -57,19 +68,9 @@
         },
         {
           "source": "reddit_all",
-          "title": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
-          "url": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
-          "summary": "⬆ 8,067 upvotes · 💬 900 comments · r/all",
-          "published_at": "2026-03-21 13:29:28+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 6.25
-        },
-        {
-          "source": "reddit_all",
           "title": "Republican Senator Murkowski speaks out AGAINST the SAVE Act - Republicans want to make it so impractical and expensive (up to $1000 to travel) to register or show documentation to vote in November that people will just stay home and not vote [@18:20 in video]",
           "url": "https://www.reddit.com/r/videos/comments/1rzrll5/republican_senator_murkowski_speaks_out_against/",
-          "summary": "⬆ 7,511 upvotes · 💬 405 comments · r/all",
+          "summary": "⬆ 7,577 upvotes · 💬 409 comments · r/all",
           "published_at": "2026-03-21 13:33:20+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -100,7 +101,7 @@
           "source": "reddit_worldnews",
           "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
           "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
-          "summary": "⬆ 14,685 upvotes · 💬 3,519 comments · r/worldnews",
+          "summary": "⬆ 14,688 upvotes · 💬 3,522 comments · r/worldnews",
           "published_at": "2026-03-20 19:21:48+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -120,7 +121,7 @@
           "source": "reddit_politics",
           "title": "Trump mulls 'winding down' war and leaving Strait of Hormuz crisis to 'other nations'",
           "url": "https://www.reddit.com/r/politics/comments/1rzad5m/trump_mulls_winding_down_war_and_leaving_strait/",
-          "summary": "⬆ 13,185 upvotes · 💬 2,047 comments · r/politics",
+          "summary": "⬆ 13,191 upvotes · 💬 2,048 comments · r/politics",
           "published_at": "2026-03-20 22:29:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -130,7 +131,7 @@
           "source": "reddit_politics",
           "title": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
           "url": "https://www.reddit.com/r/politics/comments/1rzfvfa/cuba_refuses_to_let_us_embassy_in_havana_import/",
-          "summary": "⬆ 15,959 upvotes · 💬 610 comments · r/politics",
+          "summary": "⬆ 15,983 upvotes · 💬 611 comments · r/politics",
           "published_at": "2026-03-21 02:29:04+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -140,7 +141,7 @@
           "source": "reddit_worldnews",
           "title": "Trump considers \"winding down\" Iran war without opening Hormuz Strait",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzk7pa/trump_considers_winding_down_iran_war_without/",
-          "summary": "⬆ 10,823 upvotes · 💬 1,559 comments · r/worldnews",
+          "summary": "⬆ 10,851 upvotes · 💬 1,562 comments · r/worldnews",
           "published_at": "2026-03-21 06:20:37+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -238,7 +239,7 @@
           "source": "reddit_news",
           "title": "US lifts sanctions on some Iranian oil as gas prices soar",
           "url": "https://www.reddit.com/r/news/comments/1rzdons/us_lifts_sanctions_on_some_iranian_oil_as_gas/",
-          "summary": "⬆ 1,233 upvotes · 💬 334 comments · r/news",
+          "summary": "⬆ 1,232 upvotes · 💬 335 comments · r/news",
           "published_at": "2026-03-21 00:48:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -379,6 +380,28 @@
     },
     {
       "topic": "politics",
+      "event": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
+      "gravity_score": 7.25,
+      "priority_score": 15.25,
+      "source_platform": "reddit_worldnews",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
       "event": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
       "gravity_score": 6.75,
       "priority_score": 14.75,
@@ -395,28 +418,6 @@
       "debatable_angles": [
         "Will the vote outcome be Yes or No?",
         "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
-      "gravity_score": 6.75,
-      "priority_score": 14.75,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
-      "platforms_discussing": [
-        "cnbc",
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -599,6 +600,13 @@
         "url": "https://www.reddit.com/r/pics/comments/1rzrsti/japanese_prime_minister_sanae_takaichi_during_the/"
       },
       {
+        "topic": "politics",
+        "title": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
+        "score": 7.25,
+        "source": "reddit_worldnews",
+        "url": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/"
+      },
+      {
         "topic": "geopolitics",
         "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
         "score": 6.75,
@@ -618,13 +626,6 @@
         "score": 6.75,
         "source": "reddit_worldnews",
         "url": "https://www.reddit.com/r/worldnews/comments/1rzdu5s/report_iran_fires_missiles_toward_diego_garcia_in/"
-      },
-      {
-        "topic": "geopolitics",
-        "title": "Trump mulls 'winding down' war and leaving Strait of Hormuz crisis to 'other nations'",
-        "score": 6.75,
-        "source": "reddit_politics",
-        "url": "https://www.reddit.com/r/politics/comments/1rzad5m/trump_mulls_winding_down_war_and_leaving_strait/"
       }
     ],
     "X": [
