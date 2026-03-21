@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-21T17:52:33.040955+00:00",
+  "generated_at_utc": "2026-03-21T17:54:46.321055+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 164.55,
-      "attention_focus_score": 161.05,
+      "topic_score": 163.73,
+      "attention_focus_score": 160.23,
       "item_count": 36,
       "source_count": 8,
       "platform_count": 5,
@@ -30,7 +30,7 @@
           "source": "reddit_all",
           "title": "Japanese Prime Minister Sanae Takaichi during the state dinner at the White House",
           "url": "https://www.reddit.com/r/pics/comments/1rzrsti/japanese_prime_minister_sanae_takaichi_during_the/",
-          "summary": "⬆ 22,758 upvotes · 💬 2,756 comments · r/all",
+          "summary": "⬆ 22,929 upvotes · 💬 2,778 comments · r/all",
           "published_at": "2026-03-21 13:42:21+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -40,7 +40,7 @@
           "source": "reddit_worldnews",
           "title": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
-          "summary": "⬆ 9,384 upvotes · 💬 1,161 comments · r/worldnews",
+          "summary": "⬆ 9,478 upvotes · 💬 1,184 comments · r/worldnews",
           "published_at": "2026-03-21 13:29:28+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -50,21 +50,21 @@
           "source": "reddit_politics",
           "title": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
           "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
-          "summary": "⬆ 18,849 upvotes · 💬 866 comments · r/politics",
+          "summary": "⬆ 18,855 upvotes · 💬 865 comments · r/politics",
           "published_at": "2026-03-20 20:09:54+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
-          "source": "reddit_politics",
-          "title": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
-          "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
-          "summary": "⬆ 13,030 upvotes · 💬 604 comments · r/politics",
-          "published_at": "2026-03-20 18:38:04+00:00",
+          "source": "cnbc",
+          "title": "Former special counsel Robert Mueller dies at 81",
+          "url": "https://www.cnbc.com/2026/03/21/robert-mueller-died-at-81.html",
+          "summary": "Robert Mueller, former special counsel who investigated Russian interference in the 2016 presidential election, died Friday.",
+          "published_at": "2026-03-21 17:54:08+00:00",
           "topic": "politics",
           "keyword_hits": 1,
-          "gravity_score": 6.75
+          "gravity_score": 6.0
         },
         {
           "source": "coindesk",
@@ -101,7 +101,7 @@
           "source": "reddit_worldnews",
           "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
           "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
-          "summary": "⬆ 14,757 upvotes · 💬 3,539 comments · r/worldnews",
+          "summary": "⬆ 14,756 upvotes · 💬 3,539 comments · r/worldnews",
           "published_at": "2026-03-20 19:21:48+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -111,7 +111,7 @@
           "source": "reddit_worldnews",
           "title": "Report: Iran fires missiles toward Diego Garcia in rare long-range strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzdu5s/report_iran_fires_missiles_toward_diego_garcia_in/",
-          "summary": "⬆ 14,804 upvotes · 💬 1,894 comments · r/worldnews",
+          "summary": "⬆ 14,807 upvotes · 💬 1,895 comments · r/worldnews",
           "published_at": "2026-03-21 00:54:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -121,7 +121,7 @@
           "source": "reddit_politics",
           "title": "Trump mulls 'winding down' war and leaving Strait of Hormuz crisis to 'other nations'",
           "url": "https://www.reddit.com/r/politics/comments/1rzad5m/trump_mulls_winding_down_war_and_leaving_strait/",
-          "summary": "⬆ 13,335 upvotes · 💬 2,066 comments · r/politics",
+          "summary": "⬆ 13,341 upvotes · 💬 2,069 comments · r/politics",
           "published_at": "2026-03-20 22:29:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -131,7 +131,7 @@
           "source": "reddit_politics",
           "title": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
           "url": "https://www.reddit.com/r/politics/comments/1rzfvfa/cuba_refuses_to_let_us_embassy_in_havana_import/",
-          "summary": "⬆ 16,077 upvotes · 💬 615 comments · r/politics",
+          "summary": "⬆ 16,082 upvotes · 💬 615 comments · r/politics",
           "published_at": "2026-03-21 02:29:04+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -141,7 +141,7 @@
           "source": "reddit_worldnews",
           "title": "Trump considers \"winding down\" Iran war without opening Hormuz Strait",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzk7pa/trump_considers_winding_down_iran_war_without/",
-          "summary": "⬆ 11,259 upvotes · 💬 1,590 comments · r/worldnews",
+          "summary": "⬆ 11,291 upvotes · 💬 1,593 comments · r/worldnews",
           "published_at": "2026-03-21 06:20:37+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -239,7 +239,7 @@
           "source": "reddit_news",
           "title": "US lifts sanctions on some Iranian oil as gas prices soar",
           "url": "https://www.reddit.com/r/news/comments/1rzdons/us_lifts_sanctions_on_some_iranian_oil_as_gas/",
-          "summary": "⬆ 1,260 upvotes · 💬 346 comments · r/news",
+          "summary": "⬆ 1,271 upvotes · 💬 346 comments · r/news",
           "published_at": "2026-03-21 00:48:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -739,35 +739,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "sc lottery",
+        "title": "trump truth social",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "barcelona - athletic club",
+        "title": "golden knights vs predators",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "barcelona vs athletic club",
+        "title": "nba mock draft 2026",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "minecraft dungeons 2",
+        "title": "audi crooks",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "qinwen zheng",
+        "title": "mlb opening day 2026",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -781,6 +781,14 @@
         "source": "bbc_top",
         "url": "https://www.bbc.com/sport/football/articles/c2k3dqjz55do?at_medium=RSS&at_campaign=rss",
         "source_label": "BBC"
+      },
+      {
+        "topic": "politics",
+        "title": "[CNBC] Former special counsel Robert Mueller dies at 81",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/21/robert-mueller-died-at-81.html",
+        "source_label": "CNBC"
       },
       {
         "topic": "crypto",
@@ -805,14 +813,6 @@
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
         "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[The Hill] Before looters move in, strengthen Iran sanctions on antiquities trafficking",
-        "score": 5.0,
-        "source": "thehill",
-        "url": "https://thehill.com/opinion/5793339-protect-iran-ancient-heritage/",
-        "source_label": "The Hill"
       }
     ]
   }
