@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-21T00:11:49.766412+00:00",
+  "generated_at_utc": "2026-03-21T00:13:58.358401+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 161.84,
-      "attention_focus_score": 158.34,
+      "topic_score": 161.32,
+      "attention_focus_score": 157.82,
       "item_count": 37,
       "source_count": 8,
       "platform_count": 5,
@@ -30,7 +30,7 @@
           "source": "reddit_all",
           "title": "Jury clears Afroman of defamation for mocking cops who raided his house",
           "url": "https://www.reddit.com/r/UpliftingNews/comments/1rz6436/jury_clears_afroman_of_defamation_for_mocking/",
-          "summary": "⬆ 11,468 upvotes · 💬 282 comments · r/all",
+          "summary": "⬆ 11,523 upvotes · 💬 284 comments · r/all",
           "published_at": "2026-03-20 19:41:48+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -40,17 +40,17 @@
           "source": "reddit_politics",
           "title": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
           "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
-          "summary": "⬆ 7,920 upvotes · 💬 404 comments · r/politics",
+          "summary": "⬆ 7,957 upvotes · 💬 406 comments · r/politics",
           "published_at": "2026-03-20 18:38:04+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.25
         },
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
           "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
-          "summary": "⬆ 7,320 upvotes · 💬 394 comments · r/all",
+          "summary": "⬆ 7,424 upvotes · 💬 397 comments · r/politics",
           "published_at": "2026-03-20 20:09:54+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -70,7 +70,7 @@
           "source": "reddit_politics",
           "title": "OKC Thunder will not visit White House following first NBA championship",
           "url": "https://www.reddit.com/r/politics/comments/1rz5paz/okc_thunder_will_not_visit_white_house_following/",
-          "summary": "⬆ 763 upvotes · 💬 45 comments · r/politics",
+          "summary": "⬆ 767 upvotes · 💬 45 comments · r/politics",
           "published_at": "2026-03-20 19:25:55+00:00",
           "topic": "politics",
           "keyword_hits": 2,
@@ -105,7 +105,7 @@
           "source": "reddit_worldnews",
           "title": "Trump calls NATO “cowards” for lack of support for Iran war",
           "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
-          "summary": "⬆ 8,936 upvotes · 💬 1,532 comments · r/worldnews",
+          "summary": "⬆ 8,957 upvotes · 💬 1,533 comments · r/worldnews",
           "published_at": "2026-03-20 15:43:49+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -115,7 +115,7 @@
           "source": "reddit_worldnews",
           "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
           "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
-          "summary": "⬆ 5,152 upvotes · 💬 808 comments · r/worldnews",
+          "summary": "⬆ 5,178 upvotes · 💬 813 comments · r/worldnews",
           "published_at": "2026-03-20 19:21:48+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -135,7 +135,7 @@
           "source": "reddit_politics",
           "title": "Trump mulls 'winding down' war and leaving Strait of Hormuz crisis to 'other nations'",
           "url": "https://www.reddit.com/r/politics/comments/1rzad5m/trump_mulls_winding_down_war_and_leaving_strait/",
-          "summary": "⬆ 629 upvotes · 💬 277 comments · r/politics",
+          "summary": "⬆ 667 upvotes · 💬 292 comments · r/politics",
           "published_at": "2026-03-20 22:29:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -150,6 +150,82 @@
           "topic": "geopolitics",
           "keyword_hits": 2,
           "gravity_score": 4.5
+        }
+      ]
+    },
+    {
+      "topic": "reality_tv",
+      "topic_score": 55.03,
+      "attention_focus_score": 52.03,
+      "item_count": 7,
+      "source_count": 7,
+      "platform_count": 5,
+      "sources": [
+        "bbc_world",
+        "cnbc",
+        "google_trends_us_daily",
+        "npr_news",
+        "reddit_all",
+        "reddit_news",
+        "reddit_popculturechat"
+      ],
+      "platforms": [
+        "bbc",
+        "cnbc",
+        "google_trends",
+        "npr",
+        "reddit"
+      ],
+      "top_items": [
+        {
+          "source": "reddit_all",
+          "title": "Arrogance Meets Instant Reality",
+          "url": "https://www.reddit.com/r/MurderedByWords/comments/1rz4aw9/arrogance_meets_instant_reality/",
+          "summary": "⬆ 27,869 upvotes · 💬 678 comments · r/all",
+          "published_at": "2026-03-20 18:32:42+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 9.79
+        },
+        {
+          "source": "google_trends_us_daily",
+          "title": "how many episodes in the pitt season 2",
+          "url": "https://trends.google.com/trending/rss?geo=US",
+          "summary": "",
+          "published_at": "2026-03-21 00:00:00+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
+        {
+          "source": "reddit_news",
+          "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
+          "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
+          "summary": "⬆ 6,155 upvotes · 💬 655 comments · r/news",
+          "published_at": "2026-03-20 02:34:26+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 7.76
+        },
+        {
+          "source": "cnbc",
+          "title": "Your tax refund could be smaller than expected this season. Here's why",
+          "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
+          "summary": "Tax refunds are higher on average compared with last year, but the change has been smaller than some early projections. Here's what to expect.",
+          "published_at": "2026-03-20 19:58:00+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.73
+        },
+        {
+          "source": "reddit_popculturechat",
+          "title": "Lisa Kudrow at the premiere of each season of The Comeback (2005, 2014, 2026)",
+          "url": "https://www.reddit.com/r/popculturechat/comments/1rz40py/lisa_kudrow_at_the_premiere_of_each_season_of_the/",
+          "summary": "⬆ 346 upvotes · 💬 39 comments · r/popculturechat",
+          "published_at": "2026-03-20 18:21:57+00:00",
+          "topic": "reality_tv",
+          "keyword_hits": 1,
+          "gravity_score": 4.39
         }
       ]
     },
@@ -220,80 +296,6 @@
       ]
     },
     {
-      "topic": "reality_tv",
-      "topic_score": 44.07,
-      "attention_focus_score": 41.57,
-      "item_count": 6,
-      "source_count": 6,
-      "platform_count": 4,
-      "sources": [
-        "bbc_world",
-        "cnbc",
-        "npr_news",
-        "reddit_all",
-        "reddit_news",
-        "reddit_popculturechat"
-      ],
-      "platforms": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit"
-      ],
-      "top_items": [
-        {
-          "source": "reddit_all",
-          "title": "Arrogance Meets Instant Reality",
-          "url": "https://www.reddit.com/r/MurderedByWords/comments/1rz4aw9/arrogance_meets_instant_reality/",
-          "summary": "⬆ 27,775 upvotes · 💬 677 comments · r/all",
-          "published_at": "2026-03-20 18:32:42+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 9.79
-        },
-        {
-          "source": "reddit_news",
-          "title": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
-          "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-          "summary": "⬆ 6,145 upvotes · 💬 655 comments · r/news",
-          "published_at": "2026-03-20 02:34:26+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 7.76
-        },
-        {
-          "source": "cnbc",
-          "title": "Your tax refund could be smaller than expected this season. Here's why",
-          "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
-          "summary": "Tax refunds are higher on average compared with last year, but the change has been smaller than some early projections. Here's what to expect.",
-          "published_at": "2026-03-20 19:58:00+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 4.73
-        },
-        {
-          "source": "reddit_popculturechat",
-          "title": "Lisa Kudrow at the premiere of each season of The Comeback (2005, 2014, 2026)",
-          "url": "https://www.reddit.com/r/popculturechat/comments/1rz40py/lisa_kudrow_at_the_premiere_of_each_season_of_the/",
-          "summary": "⬆ 352 upvotes · 💬 39 comments · r/popculturechat",
-          "published_at": "2026-03-20 18:21:57+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 1,
-          "gravity_score": 4.39
-        },
-        {
-          "source": "bbc_world",
-          "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
-          "published_at": "2026-03-20 01:41:58+00:00",
-          "topic": "reality_tv",
-          "keyword_hits": 2,
-          "gravity_score": 4.05
-        }
-      ]
-    },
-    {
       "topic": "everyday_economy",
       "topic_score": 36.15,
       "attention_focus_score": 34.65,
@@ -317,7 +319,7 @@
           "source": "reddit_politics",
           "title": "GOP Senate candidate on rising gas prices: ‘Maybe you take one less trip to Starbucks’",
           "url": "https://www.reddit.com/r/politics/comments/1ryt0ck/gop_senate_candidate_on_rising_gas_prices_maybe/",
-          "summary": "⬆ 15,908 upvotes · 💬 2,082 comments · r/politics",
+          "summary": "⬆ 15,918 upvotes · 💬 2,082 comments · r/politics",
           "published_at": "2026-03-20 10:50:50+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -387,7 +389,7 @@
           "source": "reddit_popculturechat",
           "title": "Bad Bunny is the biggest hit maker of the decade so far, worldwide (based on Billboard Global 200 points ). Taylor Swift ranks 2nd overall , while The Weeknd rounds out the trifecta at 3rd.",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rytjj2/bad_bunny_is_the_biggest_hit_maker_of_the_decade/",
-          "summary": "⬆ 864 upvotes · 💬 104 comments · r/popculturechat",
+          "summary": "⬆ 865 upvotes · 💬 104 comments · r/popculturechat",
           "published_at": "2026-03-20 11:19:56+00:00",
           "topic": "music_charts",
           "keyword_hits": 1,
@@ -433,7 +435,7 @@
           "source": "reddit_popculturechat",
           "title": "Zara Larsson reveals that she lost a 3 million dollars brand deal due to the abortion joke she made on tiktok: \"If you dont agree with me thinking that women should have access to abortion, were just not meant to be partners\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rz0itw/zara_larsson_reveals_that_she_lost_a_3_million/",
-          "summary": "⬆ 24,242 upvotes · 💬 702 comments · r/popculturechat",
+          "summary": "⬆ 24,306 upvotes · 💬 702 comments · r/popculturechat",
           "published_at": "2026-03-20 16:11:06+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -447,13 +449,58 @@
       "topic": "reality_tv",
       "event": "Arrogance Meets Instant Reality",
       "gravity_score": 9.79,
-      "priority_score": 15.79,
+      "priority_score": 17.79,
       "source_platform": "reddit_all",
       "source_label": "",
       "url": "https://www.reddit.com/r/MurderedByWords/comments/1rz4aw9/arrogance_meets_instant_reality/",
       "platforms_discussing": [
         "bbc",
         "cnbc",
+        "google_trends",
+        "npr",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "how many episodes in the pitt season 2",
+      "gravity_score": 7.76,
+      "priority_score": 15.76,
+      "source_platform": "google_trends_us_daily",
+      "source_label": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "google_trends",
+        "npr",
+        "reddit"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Network broadcast / Official show accounts"
+    },
+    {
+      "topic": "reality_tv",
+      "event": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
+      "gravity_score": 7.76,
+      "priority_score": 15.76,
+      "source_platform": "reddit_news",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
+      "platforms_discussing": [
+        "bbc",
+        "cnbc",
+        "google_trends",
         "npr",
         "reddit"
       ],
@@ -536,7 +583,7 @@
       "event": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
       "gravity_score": 6.25,
       "priority_score": 14.25,
-      "source_platform": "reddit_all",
+      "source_platform": "reddit_politics",
       "source_label": "",
       "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
       "platforms_discussing": [
@@ -572,27 +619,6 @@
         "Will OPEC announce production changes in response?"
       ],
       "verifiable_via": "AP / Reuters / UN / Official Government statements"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "ABC pulls Taylor Frankie Paul's season of 'Bachelorette' amid fallout over domestic abuse allegations",
-      "gravity_score": 7.76,
-      "priority_score": 13.76,
-      "source_platform": "reddit_news",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/news/comments/1rykc1j/abc_pulls_taylor_frankie_pauls_season_of/",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "geopolitics",
@@ -638,27 +664,6 @@
         "Will Iran close or restrict passage through the Strait of Hormuz?"
       ],
       "verifiable_via": "BLS / EIA / FRED / AAA"
-    },
-    {
-      "topic": "reality_tv",
-      "event": "Your tax refund could be smaller than expected this season. Here's why",
-      "gravity_score": 4.73,
-      "priority_score": 10.73,
-      "source_platform": "cnbc",
-      "source_label": "",
-      "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
-      "platforms_discussing": [
-        "bbc",
-        "cnbc",
-        "npr",
-        "reddit"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Network broadcast / Official show accounts"
     },
     {
       "topic": "everyday_economy",
@@ -838,35 +843,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "wisconsin lutheran high school basketball",
+        "title": "macaulay culkin",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "jalen duren",
+        "title": "nicholas brendon",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "matteo berrettini",
+        "title": "jane lynch",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "bol bol",
+        "title": "queen's university",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "braden smith",
+        "title": "border 2",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
