@@ -1,16 +1,17 @@
 {
-  "generated_at_utc": "2026-03-21T11:58:41.471718+00:00",
+  "generated_at_utc": "2026-03-21T12:00:47.401516+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 127.21,
-      "attention_focus_score": 125.21,
-      "item_count": 30,
-      "source_count": 5,
+      "topic_score": 133.22,
+      "attention_focus_score": 130.72,
+      "item_count": 31,
+      "source_count": 6,
       "platform_count": 4,
       "sources": [
         "coindesk",
         "politico",
+        "reddit_all",
         "reddit_news",
         "reddit_politics",
         "thehill"
@@ -26,7 +27,7 @@
           "source": "reddit_politics",
           "title": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
           "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
-          "summary": "⬆ 17,315 upvotes · 💬 804 comments · r/politics",
+          "summary": "⬆ 17,336 upvotes · 💬 805 comments · r/politics",
           "published_at": "2026-03-20 20:09:54+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -36,7 +37,7 @@
           "source": "reddit_politics",
           "title": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
           "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
-          "summary": "⬆ 12,424 upvotes · 💬 581 comments · r/politics",
+          "summary": "⬆ 12,425 upvotes · 💬 582 comments · r/politics",
           "published_at": "2026-03-20 18:38:04+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -56,35 +57,36 @@
           "source": "reddit_news",
           "title": "Top US Fema official claims to have teleported to a Waffle House before",
           "url": "https://www.reddit.com/r/news/comments/1rzcf9i/top_us_fema_official_claims_to_have_teleported_to/",
-          "summary": "⬆ 4,259 upvotes · 💬 484 comments · r/news",
+          "summary": "⬆ 4,263 upvotes · 💬 486 comments · r/news",
           "published_at": "2026-03-20 23:52:38+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.75
         },
         {
-          "source": "reddit_politics",
-          "title": "Democrats Call For John Fetterman's Ouster Over Vote To Advance Markwayne Mullin's Nomination For DHS Secretary",
-          "url": "https://www.reddit.com/r/politics/comments/1rz6qz8/democrats_call_for_john_fettermans_ouster_over/",
-          "summary": "⬆ 4,400 upvotes · 💬 142 comments · r/politics",
-          "published_at": "2026-03-20 20:05:51+00:00",
+          "source": "reddit_all",
+          "title": "To tilt Hungarian election, Russians proposed staging assassination attempt",
+          "url": "https://www.reddit.com/r/europe/comments/1rznkmj/to_tilt_hungarian_election_russians_proposed/",
+          "summary": "⬆ 2,056 upvotes · 💬 122 comments · r/all",
+          "published_at": "2026-03-21 09:55:17+00:00",
           "topic": "politics",
           "keyword_hits": 1,
-          "gravity_score": 4.75
+          "gravity_score": 5.25
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 84.92,
-      "attention_focus_score": 82.42,
+      "topic_score": 84.89,
+      "attention_focus_score": 81.89,
       "item_count": 15,
-      "source_count": 6,
+      "source_count": 7,
       "platform_count": 5,
       "sources": [
         "bbc_top",
         "cnbc",
         "npr_news",
+        "reddit_all",
         "reddit_politics",
         "reddit_worldnews",
         "thehill"
@@ -101,7 +103,7 @@
           "source": "reddit_worldnews",
           "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
           "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
-          "summary": "⬆ 13,338 upvotes · 💬 3,092 comments · r/worldnews",
+          "summary": "⬆ 13,349 upvotes · 💬 3,093 comments · r/worldnews",
           "published_at": "2026-03-20 19:21:48+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -111,7 +113,7 @@
           "source": "reddit_worldnews",
           "title": "Report: Iran fires missiles toward Diego Garcia in rare long-range strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzdu5s/report_iran_fires_missiles_toward_diego_garcia_in/",
-          "summary": "⬆ 13,272 upvotes · 💬 1,746 comments · r/worldnews",
+          "summary": "⬆ 13,276 upvotes · 💬 1,746 comments · r/worldnews",
           "published_at": "2026-03-21 00:54:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -121,7 +123,7 @@
           "source": "reddit_worldnews",
           "title": "Trump calls NATO “cowards” for lack of support for Iran war",
           "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
-          "summary": "⬆ 12,017 upvotes · 💬 1,828 comments · r/worldnews",
+          "summary": "⬆ 12,027 upvotes · 💬 1,829 comments · r/worldnews",
           "published_at": "2026-03-20 15:43:49+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -131,17 +133,17 @@
           "source": "reddit_politics",
           "title": "Trump mulls 'winding down' war and leaving Strait of Hormuz crisis to 'other nations'",
           "url": "https://www.reddit.com/r/politics/comments/1rzad5m/trump_mulls_winding_down_war_and_leaving_strait/",
-          "summary": "⬆ 10,698 upvotes · 💬 1,795 comments · r/politics",
+          "summary": "⬆ 10,718 upvotes · 💬 1,798 comments · r/politics",
           "published_at": "2026-03-20 22:29:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
-          "source": "reddit_politics",
+          "source": "reddit_all",
           "title": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
           "url": "https://www.reddit.com/r/politics/comments/1rzfvfa/cuba_refuses_to_let_us_embassy_in_havana_import/",
-          "summary": "⬆ 11,673 upvotes · 💬 493 comments · r/politics",
+          "summary": "⬆ 11,723 upvotes · 💬 495 comments · r/all",
           "published_at": "2026-03-21 02:29:04+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -151,8 +153,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 52.5,
-      "attention_focus_score": 52.5,
+      "topic_score": 56.0,
+      "attention_focus_score": 56.0,
       "item_count": 16,
       "source_count": 1,
       "platform_count": 1,
@@ -163,6 +165,16 @@
         "coindesk"
       ],
       "top_items": [
+        {
+          "source": "coindesk",
+          "title": "Sam Bankman-Fried tries to get on Donald Trump’s good side by backing his Iran strikes",
+          "url": "https://www.coindesk.com/policy/2026/03/21/sam-bankman-fried-tries-to-get-on-donald-trump-s-good-side-by-backing-his-iran-strikes",
+          "summary": "The jailed founder of bankrupt crypto exchange FTX is fueling growing speculation that he is seeking a presidential pardon.",
+          "published_at": "2026-03-21 12:00:00+00:00",
+          "topic": "crypto",
+          "keyword_hits": 2,
+          "gravity_score": 6.5
+        },
         {
           "source": "coindesk",
           "title": "Nasdaq winning SEC approval to move stocks onchain shows how Wall Street is taking charge of crypto tech",
@@ -202,16 +214,6 @@
           "topic": "crypto",
           "keyword_hits": 1,
           "gravity_score": 3.0
-        },
-        {
-          "source": "coindesk",
-          "title": "Crypto wallet maker Ledger taps former Circle exec as CFO to help lead IPO push",
-          "url": "https://www.coindesk.com/business/2026/03/20/crypto-wallet-maker-ledger-taps-a-former-circle-exec-as-cfo-to-help-lead-its-push-into-the-public-markets",
-          "summary": "The crypto security firm is expanding its U.S. footprint and strengthening its leadership team as it prepares for a potential public listing.",
-          "published_at": "2026-03-20 13:57:14+00:00",
-          "topic": "crypto",
-          "keyword_hits": 1,
-          "gravity_score": 3.0
         }
       ]
     },
@@ -237,7 +239,7 @@
           "source": "reddit_news",
           "title": "US lifts sanctions on some Iranian oil as gas prices soar",
           "url": "https://www.reddit.com/r/news/comments/1rzdons/us_lifts_sanctions_on_some_iranian_oil_as_gas/",
-          "summary": "⬆ 878 upvotes · 💬 236 comments · r/news",
+          "summary": "⬆ 884 upvotes · 💬 236 comments · r/news",
           "published_at": "2026-03-21 00:48:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -305,7 +307,7 @@
           "source": "reddit_popculturechat",
           "title": "Zara Larsson reveals that she lost a 3 million dollars brand deal due to the abortion joke she made on tiktok: \"If you dont agree with me thinking that women should have access to abortion, were just not meant to be partners\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rz0itw/zara_larsson_reveals_that_she_lost_a_3_million/",
-          "summary": "⬆ 33,512 upvotes · 💬 798 comments · r/popculturechat",
+          "summary": "⬆ 33,534 upvotes · 💬 798 comments · r/popculturechat",
           "published_at": "2026-03-20 16:11:06+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -801,6 +803,14 @@
     ],
     "Major News Headlines": [
       {
+        "topic": "crypto",
+        "title": "[CoinDesk] Sam Bankman-Fried tries to get on Donald Trump’s good side by backing his Iran strikes",
+        "score": 6.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/policy/2026/03/21/sam-bankman-fried-tries-to-get-on-donald-trump-s-good-side-by-backing-his-iran-strikes",
+        "source_label": "CoinDesk"
+      },
+      {
         "topic": "politics",
         "title": "[CoinDesk] Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
         "score": 6.0,
@@ -830,14 +840,6 @@
         "score": 4.5,
         "source": "politico",
         "url": "https://www.politico.com/news/2026/03/19/dhs-ad-money-companies-00834791",
-        "source_label": "Politico"
-      },
-      {
-        "topic": "politics",
-        "title": "[Politico] Furious MAGA allies lobby Trump to keep deporting migrants",
-        "score": 4.5,
-        "source": "politico",
-        "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
         "source_label": "Politico"
       }
     ]
