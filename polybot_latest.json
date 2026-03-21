@@ -1,14 +1,15 @@
 {
-  "generated_at_utc": "2026-03-21T12:11:58.123534+00:00",
+  "generated_at_utc": "2026-03-21T12:30:07.680456+00:00",
   "top_topics": [
     {
       "topic": "politics",
-      "topic_score": 133.22,
-      "attention_focus_score": 130.72,
-      "item_count": 31,
-      "source_count": 6,
-      "platform_count": 4,
+      "topic_score": 147.15,
+      "attention_focus_score": 144.15,
+      "item_count": 32,
+      "source_count": 7,
+      "platform_count": 5,
       "sources": [
+        "cnbc",
         "coindesk",
         "politico",
         "reddit_all",
@@ -17,6 +18,7 @@
         "thehill"
       ],
       "platforms": [
+        "cnbc",
         "coindesk",
         "politico",
         "reddit",
@@ -27,7 +29,7 @@
           "source": "reddit_politics",
           "title": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
           "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
-          "summary": "⬆ 17,416 upvotes · 💬 808 comments · r/politics",
+          "summary": "⬆ 17,547 upvotes · 💬 814 comments · r/politics",
           "published_at": "2026-03-20 20:09:54+00:00",
           "topic": "politics",
           "keyword_hits": 1,
@@ -37,11 +39,21 @@
           "source": "reddit_politics",
           "title": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
           "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
-          "summary": "⬆ 12,460 upvotes · 💬 584 comments · r/politics",
+          "summary": "⬆ 12,514 upvotes · 💬 590 comments · r/politics",
           "published_at": "2026-03-20 18:38:04+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 6.75
+        },
+        {
+          "source": "cnbc",
+          "title": "Buffett defends 'Giving Pledge' against Thiel and 'billionaire backlash'",
+          "url": "https://www.cnbc.com/2026/03/21/buffett-defends-giving-pledge-against-thiel-and-billionaire-backlash.html",
+          "summary": "Warren Buffett is defending the philanthropic initiative he co-founded with Bill Gates almost 15 years ago.",
+          "published_at": "2026-03-21 12:22:34+00:00",
+          "topic": "politics",
+          "keyword_hits": 1,
+          "gravity_score": 6.0
         },
         {
           "source": "coindesk",
@@ -57,36 +69,25 @@
           "source": "reddit_news",
           "title": "Top US Fema official claims to have teleported to a Waffle House before",
           "url": "https://www.reddit.com/r/news/comments/1rzcf9i/top_us_fema_official_claims_to_have_teleported_to/",
-          "summary": "⬆ 4,324 upvotes · 💬 487 comments · r/news",
+          "summary": "⬆ 4,403 upvotes · 💬 492 comments · r/news",
           "published_at": "2026-03-20 23:52:38+00:00",
           "topic": "politics",
           "keyword_hits": 1,
           "gravity_score": 5.75
-        },
-        {
-          "source": "reddit_all",
-          "title": "To tilt Hungarian election, Russians proposed staging assassination attempt",
-          "url": "https://www.reddit.com/r/europe/comments/1rznkmj/to_tilt_hungarian_election_russians_proposed/",
-          "summary": "⬆ 2,235 upvotes · 💬 132 comments · r/all",
-          "published_at": "2026-03-21 09:55:17+00:00",
-          "topic": "politics",
-          "keyword_hits": 1,
-          "gravity_score": 5.25
         }
       ]
     },
     {
       "topic": "geopolitics",
-      "topic_score": 76.94,
-      "attention_focus_score": 73.94,
-      "item_count": 13,
-      "source_count": 7,
+      "topic_score": 80.15,
+      "attention_focus_score": 77.65,
+      "item_count": 14,
+      "source_count": 6,
       "platform_count": 5,
       "sources": [
         "bbc_top",
         "cnbc",
         "npr_news",
-        "reddit_all",
         "reddit_politics",
         "reddit_worldnews",
         "thehill"
@@ -103,7 +104,7 @@
           "source": "reddit_worldnews",
           "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
           "url": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/",
-          "summary": "⬆ 13,410 upvotes · 💬 3,116 comments · r/worldnews",
+          "summary": "⬆ 13,505 upvotes · 💬 3,143 comments · r/worldnews",
           "published_at": "2026-03-20 19:21:48+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -113,7 +114,7 @@
           "source": "reddit_worldnews",
           "title": "Report: Iran fires missiles toward Diego Garcia in rare long-range strike",
           "url": "https://www.reddit.com/r/worldnews/comments/1rzdu5s/report_iran_fires_missiles_toward_diego_garcia_in/",
-          "summary": "⬆ 13,349 upvotes · 💬 1,752 comments · r/worldnews",
+          "summary": "⬆ 13,473 upvotes · 💬 1,760 comments · r/worldnews",
           "published_at": "2026-03-21 00:54:55+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -123,7 +124,7 @@
           "source": "reddit_worldnews",
           "title": "Trump calls NATO “cowards” for lack of support for Iran war",
           "url": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/",
-          "summary": "⬆ 12,052 upvotes · 💬 1,832 comments · r/worldnews",
+          "summary": "⬆ 12,101 upvotes · 💬 1,830 comments · r/worldnews",
           "published_at": "2026-03-20 15:43:49+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -133,17 +134,17 @@
           "source": "reddit_politics",
           "title": "Trump mulls 'winding down' war and leaving Strait of Hormuz crisis to 'other nations'",
           "url": "https://www.reddit.com/r/politics/comments/1rzad5m/trump_mulls_winding_down_war_and_leaving_strait/",
-          "summary": "⬆ 10,837 upvotes · 💬 1,806 comments · r/politics",
+          "summary": "⬆ 10,996 upvotes · 💬 1,822 comments · r/politics",
           "published_at": "2026-03-20 22:29:07+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
           "gravity_score": 6.75
         },
         {
-          "source": "reddit_all",
+          "source": "reddit_politics",
           "title": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
           "url": "https://www.reddit.com/r/politics/comments/1rzfvfa/cuba_refuses_to_let_us_embassy_in_havana_import/",
-          "summary": "⬆ 11,983 upvotes · 💬 501 comments · r/all",
+          "summary": "⬆ 12,379 upvotes · 💬 515 comments · r/politics",
           "published_at": "2026-03-21 02:29:04+00:00",
           "topic": "geopolitics",
           "keyword_hits": 1,
@@ -153,8 +154,8 @@
     },
     {
       "topic": "crypto",
-      "topic_score": 56.0,
-      "attention_focus_score": 56.0,
+      "topic_score": 55.0,
+      "attention_focus_score": 55.0,
       "item_count": 16,
       "source_count": 1,
       "platform_count": 1,
@@ -173,7 +174,7 @@
           "published_at": "2026-03-21 12:00:00+00:00",
           "topic": "crypto",
           "keyword_hits": 2,
-          "gravity_score": 6.5
+          "gravity_score": 5.5
         },
         {
           "source": "coindesk",
@@ -239,7 +240,7 @@
           "source": "reddit_news",
           "title": "US lifts sanctions on some Iranian oil as gas prices soar",
           "url": "https://www.reddit.com/r/news/comments/1rzdons/us_lifts_sanctions_on_some_iranian_oil_as_gas/",
-          "summary": "⬆ 902 upvotes · 💬 237 comments · r/news",
+          "summary": "⬆ 917 upvotes · 💬 241 comments · r/news",
           "published_at": "2026-03-21 00:48:03+00:00",
           "topic": "everyday_economy",
           "keyword_hits": 1,
@@ -307,7 +308,7 @@
           "source": "reddit_popculturechat",
           "title": "Zara Larsson reveals that she lost a 3 million dollars brand deal due to the abortion joke she made on tiktok: \"If you dont agree with me thinking that women should have access to abortion, were just not meant to be partners\"",
           "url": "https://www.reddit.com/r/popculturechat/comments/1rz0itw/zara_larsson_reveals_that_she_lost_a_3_million/",
-          "summary": "⬆ 33,610 upvotes · 💬 798 comments · r/popculturechat",
+          "summary": "⬆ 33,757 upvotes · 💬 798 comments · r/popculturechat",
           "published_at": "2026-03-20 16:11:06+00:00",
           "topic": "social_virality",
           "keyword_hits": 1,
@@ -392,6 +393,49 @@
   ],
   "market_suggestions": [
     {
+      "topic": "politics",
+      "event": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
+      "gravity_score": 6.75,
+      "priority_score": 14.75,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Will the vote outcome be Yes or No?",
+        "Will enough members cross party lines to change the expected result?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
+      "topic": "politics",
+      "event": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
+      "gravity_score": 6.75,
+      "priority_score": 14.75,
+      "source_platform": "reddit_politics",
+      "source_label": "",
+      "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
+      "platforms_discussing": [
+        "cnbc",
+        "coindesk",
+        "politico",
+        "reddit",
+        "thehill"
+      ],
+      "debatable_angles": [
+        "Is there a specific deadline, vote, or official decision embedded in this story?",
+        "Can the outcome be measured by an official data source within 30 days?",
+        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
+      ],
+      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
+    },
+    {
       "topic": "geopolitics",
       "event": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say",
       "gravity_score": 6.75,
@@ -460,62 +504,22 @@
     },
     {
       "topic": "politics",
-      "event": "\"He needs to go\": Dems rage over Fetterman's DHS vote",
-      "gravity_score": 6.75,
-      "priority_score": 12.75,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rz6ut3/he_needs_to_go_dems_rage_over_fettermans_dhs_vote/",
-      "platforms_discussing": [
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Will the vote outcome be Yes or No?",
-        "Will enough members cross party lines to change the expected result?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "‘Everything Is On The Table’: Officials Prepare For Trump To Try To Steal The 2026 Election",
-      "gravity_score": 6.75,
-      "priority_score": 12.75,
-      "source_platform": "reddit_politics",
-      "source_label": "",
-      "url": "https://www.reddit.com/r/politics/comments/1rz4fyf/everything_is_on_the_table_officials_prepare_for/",
-      "platforms_discussing": [
-        "coindesk",
-        "politico",
-        "reddit",
-        "thehill"
-      ],
-      "debatable_angles": [
-        "Is there a specific deadline, vote, or official decision embedded in this story?",
-        "Can the outcome be measured by an official data source within 30 days?",
-        "Is there a price/number threshold that could serve as a binary yes/no resolution?"
-      ],
-      "verifiable_via": "Congress.gov / White House / AP / Official vote records"
-    },
-    {
-      "topic": "politics",
-      "event": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
+      "event": "Buffett defends 'Giving Pledge' against Thiel and 'billionaire backlash'",
       "gravity_score": 6.0,
-      "priority_score": 12.0,
-      "source_platform": "coindesk",
+      "priority_score": 14.0,
+      "source_platform": "cnbc",
       "source_label": "",
-      "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades",
+      "url": "https://www.cnbc.com/2026/03/21/buffett-defends-giving-pledge-against-thiel-and-billionaire-backlash.html",
       "platforms_discussing": [
+        "cnbc",
         "coindesk",
         "politico",
         "reddit",
         "thehill"
       ],
       "debatable_angles": [
-        "Will the bill pass the Senate floor vote?",
-        "Will the vote happen before a specific procedural deadline?"
+        "Will this bill pass committee/floor vote by a specific date?",
+        "Will the president sign or veto it?"
       ],
       "verifiable_via": "Congress.gov / White House / AP / Official vote records"
     },
@@ -767,35 +771,35 @@
     "Google Trends": [
       {
         "topic": "trending",
-        "title": "london vs chelsea",
+        "title": "elche c. f. - r.c.d. mallorca",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "milan san remo",
+        "title": "jay z concert",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "milano sanremo 2026",
+        "title": "man city vs tottenham",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "pound",
+        "title": "highpoint university",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
       },
       {
         "topic": "trending",
-        "title": "cherry blossoms dc",
+        "title": "richard gadd",
         "score": 5.0,
         "source": "google_trends_us_daily",
         "url": "https://trends.google.com/trending/rss?geo=US"
@@ -803,12 +807,12 @@
     ],
     "Major News Headlines": [
       {
-        "topic": "crypto",
-        "title": "[CoinDesk] Sam Bankman-Fried tries to get on Donald Trump’s good side by backing his Iran strikes",
-        "score": 6.5,
-        "source": "coindesk",
-        "url": "https://www.coindesk.com/policy/2026/03/21/sam-bankman-fried-tries-to-get-on-donald-trump-s-good-side-by-backing-his-iran-strikes",
-        "source_label": "CoinDesk"
+        "topic": "politics",
+        "title": "[CNBC] Buffett defends 'Giving Pledge' against Thiel and 'billionaire backlash'",
+        "score": 6.0,
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/03/21/buffett-defends-giving-pledge-against-thiel-and-billionaire-backlash.html",
+        "source_label": "CNBC"
       },
       {
         "topic": "politics",
@@ -819,28 +823,28 @@
         "source_label": "CoinDesk"
       },
       {
+        "topic": "crypto",
+        "title": "[CoinDesk] Sam Bankman-Fried tries to get on Donald Trump’s good side by backing his Iran strikes",
+        "score": 5.5,
+        "source": "coindesk",
+        "url": "https://www.coindesk.com/policy/2026/03/21/sam-bankman-fried-tries-to-get-on-donald-trump-s-good-side-by-backing-his-iran-strikes",
+        "source_label": "CoinDesk"
+      },
+      {
+        "topic": "geopolitics",
+        "title": "[BBC] US lifts sanctions on some Iranian oil as energy prices soar",
+        "score": 4.5,
+        "source": "bbc_top",
+        "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+        "source_label": "BBC"
+      },
+      {
         "topic": "geopolitics",
         "title": "[CNBC] Trump says he doesn't want Iran war ceasefire, but is considering 'winding down' military ops",
         "score": 4.5,
         "source": "cnbc",
         "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
         "source_label": "CNBC"
-      },
-      {
-        "topic": "politics",
-        "title": "[Politico] Political operatives with Trump ties raked in millions of dollars in commissions from DHS ad campaign",
-        "score": 4.5,
-        "source": "politico",
-        "url": "https://www.politico.com/news/2026/03/19/dhs-ad-money-companies-00834791",
-        "source_label": "Politico"
-      },
-      {
-        "topic": "politics",
-        "title": "[Politico] Furious MAGA allies lobby Trump to keep deporting migrants",
-        "score": 4.5,
-        "source": "politico",
-        "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
-        "source_label": "Politico"
       }
     ]
   }
