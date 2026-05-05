@@ -1,25 +1,16 @@
 """
 Market Topic Scanner — Signal Pipeline
 Runs 3x daily via GitHub Actions cron.
-Fetches multilingual news + crypto signals, asks Claude to synthesize 
-into 3 sections: prediction markets to watch, market questions to create,
-investment theses.
 """
 import json
 import os
 import sys
 from datetime import datetime, timezone
-from urllib.parse import quote_plus
 
 import feedparser
 import requests
 from anthropic import Anthropic
 
-# ============================================================
-# CONFIG
-# ============================================================
-
-# English business / news / crypto sources
 ENGLISH_FEEDS = [
     ("CNBC Top News", "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
     ("Reuters Business", "https://feeds.reuters.com/reuters/businessNews"),
@@ -30,7 +21,6 @@ ENGLISH_FEEDS = [
     ("The Hill", "https://thehill.com/news/feed/"),
 ]
 
-# Chinese sources (this is your edge — most candidates can't read these)
 CHINESE_FEEDS = [
     ("财新 Caixin", "https://www.caixin.com/rss/all.xml"),
     ("第一财经 Yicai", "https://www.yicai.com/feed/"),
@@ -39,17 +29,11 @@ CHINESE_FEEDS = [
 
 HACKER_NEWS_API = "https://hacker-news.firebaseio.com/v0"
 COINGECKO_TRENDING = "https://api.coingecko.com/api/v3/search/trending"
-
 OUTPUT_FILE = "market-signals.json"
 MAX_ITEMS_PER_FEED = 8
 
 
-# ============================================================
-# DATA FETCHING
-# ============================================================
-
-def fetch_rss(name: str, url: str, max_items: int = MAX_ITEMS_PER_FEED) -> list:
-    """Fetch and parse an RSS feed. Returns list of dicts."""
+def fetch_rss(name, url, max_items=MAX_ITEMS_PER_FEED):
     try:
         feed = feedparser.parse(url)
         items = []
@@ -61,15 +45,14 @@ def fetch_rss(name: str, url: str, max_items: int = MAX_ITEMS_PER_FEED) -> list:
                 "link": entry.get("link", ""),
                 "published": entry.get("published", ""),
             })
-        print(f"  ✓ {name}: {len(items)} items", flush=True)
+        print(f"  OK {name}: {len(items)} items", flush=True)
         return items
     except Exception as e:
-        print(f"  ✗ {name}: {e}", flush=True)
+        print(f"  FAIL {name}: {e}", flush=True)
         return []
 
 
-def fetch_hacker_news(top_n: int = 15) -> list:
-    """Fetch top HN stories."""
+def fetch_hacker_news(top_n=15):
     try:
         ids = requests.get(f"{HACKER_NEWS_API}/topstories.json", timeout=10).json()[:top_n]
         items = []
@@ -87,15 +70,14 @@ def fetch_hacker_news(top_n: int = 15) -> list:
             except Exception:
                 continue
         items.sort(key=lambda x: x.get("score", 0), reverse=True)
-        print(f"  ✓ Hacker News: {len(items)} items", flush=True)
+        print(f"  OK Hacker News: {len(items)} items", flush=True)
         return items[:8]
     except Exception as e:
-        print(f"  ✗ Hacker News: {e}", flush=True)
+        print(f"  FAIL Hacker News: {e}", flush=True)
         return []
 
 
-def fetch_crypto_trending() -> list:
-    """Fetch CoinGecko trending tokens."""
+def fetch_crypto_trending():
     try:
         data = requests.get(COINGECKO_TRENDING, timeout=10).json()
         coins = data.get("coins", [])[:7]
@@ -108,88 +90,47 @@ def fetch_crypto_trending() -> list:
                 "summary": f"market cap rank: {coin.get('market_cap_rank', 'n/a')}",
                 "link": f"https://www.coingecko.com/en/coins/{coin.get('slug', '')}",
             })
-        print(f"  ✓ CoinGecko: {len(items)} items", flush=True)
+        print(f"  OK CoinGecko: {len(items)} items", flush=True)
         return items
     except Exception as e:
-        print(f"  ✗ CoinGecko: {e}", flush=True)
+        print(f"  FAIL CoinGecko: {e}", flush=True)
         return []
 
 
-# ============================================================
-# LLM ANALYSIS
-# ============================================================
+ANALYSIS_PROMPT = """You are analyzing today's news and market signals for a prediction market analyst, crypto/macro trader, or VC investor. You have data from English news, Chinese news (Caixin, Yicai, 36Kr — flag when these surface stories before English media), Hacker News, and trending crypto tokens.
 
-ANALYSIS_PROMPT = """ANALYSIS_PROMPT = """You are analyzing today's news and market signals 
-for a prediction market analyst, crypto/macro trader, or VC investor. 
-You have data from English news, Chinese news (Caixin, Yicai, 36Kr — 
-flag when these surface stories before English media), Hacker News, 
-and trending crypto tokens.
-
-Today's date: 2026-05-05. All forward-looking deadlines must be in 
-2026 or 2027 — never use 2025 dates.
+Today's date: 2026-05-05. All forward-looking deadlines must be in 2026 or 2027 — never use 2025 dates.
 
 Synthesize three lists. Be specific and tied to actual signals.
 
-═══════════════════════════════
 SECTION 1: PREDICTION MARKETS TO WATCH
-═══════════════════════════════
 3-5 EXISTING prediction markets that deserve attention now. Hard rules:
-- Must reference well-known entities (Bitcoin, Ethereum, Trump, Powell, 
-  Fed, OpenAI, Anthropic, NVDA, Tesla, etc.) — NOT obscure regulatory 
-  topics
+- Must reference well-known entities (Bitcoin, Ethereum, Trump, Powell, Fed, OpenAI, Anthropic, NVDA, Tesla, etc.) — NOT obscure regulatory topics
 - Must have plausible Polymarket/Kalshi/Manifold betting volume
 - Phrase as a binary question with a number threshold or dated event
 
-For each:
-- market_title (specific, with threshold / deadline)
-- venue (Polymarket / Kalshi / Manifold)
-- why_now (one tight sentence — why today's signal makes this 
-  market more interesting)
-- signal_source
+For each: market_title, venue (Polymarket | Kalshi | Manifold), why_now (one tight sentence), signal_source.
 
-═══════════════════════════════
 SECTION 2: MARKET QUESTIONS TO CREATE
-═══════════════════════════════
 3-5 NEW prediction market questions that don't exist yet. Hard rules:
-- Must involve recognizable entities (companies, public figures, 
-  asset classes, indices)
+- Must involve recognizable entities (companies, public figures, asset classes, indices)
 - Must be interesting to a crypto/finance Twitter audience
-- Avoid niche regulatory minutiae (e.g., specific local manufacturing 
-  rules in non-English-speaking regions) unless directly market-moving
-- Resolution source must be a public, easily-checkable feed (price 
-  feed, official announcement, count threshold)
+- Avoid niche regulatory minutiae unless directly market-moving
+- Resolution source must be a public, easily-checkable feed
 - Deadlines: 30-180 days out, all in 2026 or 2027
 
-For each:
-- question (precise binary)
-- deadline (YYYY-MM-DD format, must be 2026 or 2027)
-- resolution_source
-- why_underpriced (why no one's listed this yet)
-- trigger_signal
+For each: question, deadline (YYYY-MM-DD, 2026 or 2027 only), resolution_source, why_underpriced, trigger_signal.
 
-═══════════════════════════════
 SECTION 3: INVESTMENT THESES
-═══════════════════════════════
 3-5 thesis prompts. Hard rules:
-- Must be expressible in liquid, recognizable instruments (BTC, ETH, 
-  SPY, NVDA, MU, DXY, gold, USDC yield, BTC perps, ETH/BTC ratio, 
-  major sector ETFs, etc.)
-- Avoid obscure single names (e.g., specific small-cap industrial 
-  Chinese stocks) unless they're a clean expression of a major theme
+- Must be expressible in liquid, recognizable instruments (BTC, ETH, SPY, NVDA, MU, DXY, gold, USDC yield, BTC perps, ETH/BTC ratio, sector ETFs)
+- Avoid obscure single names unless they're a clean expression of a major theme
 - Time horizon: days to months, not years
 
-For each:
-- thesis (one sentence, positional)
-- horizon (e.g., "2-6 weeks")
-- supporting_signals (cite actual sources from the input)
-- counter_view (the strongest objection)
-- expression (specific instrument: ticker, perp, options structure)
+For each: thesis (one sentence, positional), horizon, supporting_signals (cite actual sources), counter_view (strongest objection), expression (specific instrument).
 
-═══════════════════════════════
 GUARDRAILS
-═══════════════════════════════
-- If Chinese sources surface something English media hasn't, FLAG IT — 
-  this is the highest-value signal type
+- If Chinese sources surface something English media hasn't, FLAG IT
 - Never invent specific numbers, prices, or quotes
 - All dates must be 2026 or 2027
 - If signals are weak, produce fewer items rather than padding
@@ -198,77 +139,19 @@ Return strictly valid JSON — no markdown fences, no extra text:
 
 {
   "prediction_markets_to_watch": [
-    {
-      "market_title": "...",
-      "venue": "Polymarket | Kalshi | Manifold",
-      "why_now": "...",
-      "signal_source": "..."
-    }
+    {"market_title": "...", "venue": "Polymarket | Kalshi | Manifold", "why_now": "...", "signal_source": "..."}
   ],
   "market_questions_to_create": [
-    {
-      "question": "...",
-      "deadline": "2026-MM-DD or 2027-MM-DD",
-      "resolution_source": "...",
-      "why_underpriced": "...",
-      "trigger_signal": "..."
-    }
+    {"question": "...", "deadline": "2026-MM-DD", "resolution_source": "...", "why_underpriced": "...", "trigger_signal": "..."}
   ],
   "investment_theses": [
-    {
-      "thesis": "...",
-      "horizon": "...",
-      "supporting_signals": ["...", "..."],
-      "counter_view": "...",
-      "expression": "..."
-    }
-  ]
-}
-"""
-
-═══════════════════════════════
-GUARDRAILS
-═══════════════════════════════
-- If Chinese sources surface something English media hasn't covered, 
-  flag it explicitly — that's the highest-value signal type
-- Don't make up specific numbers or quotes
-- If signals are weak / day is quiet, say so honestly and produce fewer items
-
-Return strictly valid JSON in this schema (no markdown fences, no extra text):
-
-{
-  "prediction_markets_to_watch": [
-    {
-      "market_title": "...",
-      "venue": "Polymarket | Kalshi | Manifold",
-      "why_now": "...",
-      "signal_source": "..."
-    }
-  ],
-  "market_questions_to_create": [
-    {
-      "question": "...",
-      "deadline": "YYYY-MM-DD or relative (e.g., 'within 60 days')",
-      "resolution_source": "...",
-      "why_underpriced": "...",
-      "trigger_signal": "..."
-    }
-  ],
-  "investment_theses": [
-    {
-      "thesis": "...",
-      "horizon": "...",
-      "supporting_signals": ["...", "..."],
-      "counter_view": "...",
-      "expression": "..."
-    }
+    {"thesis": "...", "horizon": "...", "supporting_signals": ["...", "..."], "counter_view": "...", "expression": "..."}
   ]
 }
 """
 
 
-def build_llm_input(english: list, chinese: list, hn: list, crypto: list) -> str:
-    """Format raw signals as text input for the LLM."""
+def build_llm_input(english, chinese, hn, crypto):
     parts = []
     parts.append("# ENGLISH NEWS")
     for item in english[:30]:
@@ -289,9 +172,8 @@ def build_llm_input(english: list, chinese: list, hn: list, crypto: list) -> str
     return "\n".join(parts)
 
 
-def call_claude(signal_text: str) -> dict:
-    """Send signals to Claude, parse structured response."""
-    client = Anthropic()  # picks up ANTHROPIC_API_KEY from env
+def call_claude(signal_text):
+    client = Anthropic()
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
         max_tokens=4000,
@@ -299,7 +181,6 @@ def call_claude(signal_text: str) -> dict:
         messages=[{"role": "user", "content": signal_text}],
     )
     raw = msg.content[0].text.strip()
-    # Strip any markdown fences if model added them despite instruction
     if raw.startswith("```"):
         raw = raw.split("```", 2)[1]
         if raw.startswith("json"):
@@ -308,17 +189,13 @@ def call_claude(signal_text: str) -> dict:
     return json.loads(raw.strip())
 
 
-# ============================================================
-# MAIN
-# ============================================================
-
 def main():
-    print("Fetching English RSS feeds...", flush=True)
+    print("Fetching English RSS...", flush=True)
     english = []
     for name, url in ENGLISH_FEEDS:
         english.extend(fetch_rss(name, url))
 
-    print("\nFetching Chinese RSS feeds...", flush=True)
+    print("\nFetching Chinese RSS...", flush=True)
     chinese = []
     for name, url in CHINESE_FEEDS:
         chinese.extend(fetch_rss(name, url))
@@ -333,9 +210,9 @@ def main():
     signal_text = build_llm_input(english, chinese, hn, crypto)
     try:
         analysis = call_claude(signal_text)
-        print("  ✓ Analysis complete", flush=True)
+        print("  OK Analysis complete", flush=True)
     except Exception as e:
-        print(f"  ✗ Analysis failed: {e}", flush=True)
+        print(f"  FAIL Analysis: {e}", flush=True)
         analysis = {
             "prediction_markets_to_watch": [],
             "market_questions_to_create": [],
@@ -356,7 +233,7 @@ def main():
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print(f"\n✓ Wrote {OUTPUT_FILE}", flush=True)
+    print(f"\nOK wrote {OUTPUT_FILE}", flush=True)
 
 
 if __name__ == "__main__":
