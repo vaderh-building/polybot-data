@@ -119,46 +119,112 @@ def fetch_crypto_trending() -> list:
 # LLM ANALYSIS
 # ============================================================
 
-ANALYSIS_PROMPT = """You are analyzing today's news and market signals for a 
-prediction market analyst / crypto trader. You have data from English news, 
-Chinese news (Caixin, Yicai, 36Kr — these often surface stories before 
-English media catches up, especially on China, geopolitics, commodities, 
-tech), Hacker News tech/finance discussions, and trending crypto tokens.
+ANALYSIS_PROMPT = """ANALYSIS_PROMPT = """You are analyzing today's news and market signals 
+for a prediction market analyst, crypto/macro trader, or VC investor. 
+You have data from English news, Chinese news (Caixin, Yicai, 36Kr — 
+flag when these surface stories before English media), Hacker News, 
+and trending crypto tokens.
 
-Synthesize three lists. Be concrete and specific. Tie each item back to the 
-actual signals you saw — don't invent.
+Today's date: 2026-05-05. All forward-looking deadlines must be in 
+2026 or 2027 — never use 2025 dates.
+
+Synthesize three lists. Be specific and tied to actual signals.
 
 ═══════════════════════════════
 SECTION 1: PREDICTION MARKETS TO WATCH
 ═══════════════════════════════
-3-5 specific prediction markets (on Polymarket, Kalshi, or Manifold) that 
-deserve attention RIGHT NOW based on today's signals. For each:
-- A specific market title (or category if no exact match exists)
-- Which venue most likely lists it (Polymarket / Kalshi / Manifold)
-- Why this signal matters for that market — one tight sentence
-- The specific source signal that triggered this
+3-5 EXISTING prediction markets that deserve attention now. Hard rules:
+- Must reference well-known entities (Bitcoin, Ethereum, Trump, Powell, 
+  Fed, OpenAI, Anthropic, NVDA, Tesla, etc.) — NOT obscure regulatory 
+  topics
+- Must have plausible Polymarket/Kalshi/Manifold betting volume
+- Phrase as a binary question with a number threshold or dated event
+
+For each:
+- market_title (specific, with threshold / deadline)
+- venue (Polymarket / Kalshi / Manifold)
+- why_now (one tight sentence — why today's signal makes this 
+  market more interesting)
+- signal_source
 
 ═══════════════════════════════
 SECTION 2: MARKET QUESTIONS TO CREATE
 ═══════════════════════════════
-3-5 NEW prediction market questions that don't exist yet but would be 
-interesting given today's signals. For each:
-- A precise binary question with a deadline (max 90 days out)
-- Resolution source (where the answer comes from — official agency, 
-  data feed, etc.)
-- Why this question is interesting / under-priced
-- The signal that suggests this question matters now
+3-5 NEW prediction market questions that don't exist yet. Hard rules:
+- Must involve recognizable entities (companies, public figures, 
+  asset classes, indices)
+- Must be interesting to a crypto/finance Twitter audience
+- Avoid niche regulatory minutiae (e.g., specific local manufacturing 
+  rules in non-English-speaking regions) unless directly market-moving
+- Resolution source must be a public, easily-checkable feed (price 
+  feed, official announcement, count threshold)
+- Deadlines: 30-180 days out, all in 2026 or 2027
+
+For each:
+- question (precise binary)
+- deadline (YYYY-MM-DD format, must be 2026 or 2027)
+- resolution_source
+- why_underpriced (why no one's listed this yet)
+- trigger_signal
 
 ═══════════════════════════════
 SECTION 3: INVESTMENT THESES
 ═══════════════════════════════
-3-5 investment thesis prompts based on today's signals. For each:
-- A one-sentence thesis (positional, specific)
-- Time horizon (days / weeks / months)
-- What signals support it (cite the actual sources)
-- The best counter-argument someone could make
-- An asset or category to express the thesis (e.g., "long BTC," 
-  "short DXY," "underweight EM equities")
+3-5 thesis prompts. Hard rules:
+- Must be expressible in liquid, recognizable instruments (BTC, ETH, 
+  SPY, NVDA, MU, DXY, gold, USDC yield, BTC perps, ETH/BTC ratio, 
+  major sector ETFs, etc.)
+- Avoid obscure single names (e.g., specific small-cap industrial 
+  Chinese stocks) unless they're a clean expression of a major theme
+- Time horizon: days to months, not years
+
+For each:
+- thesis (one sentence, positional)
+- horizon (e.g., "2-6 weeks")
+- supporting_signals (cite actual sources from the input)
+- counter_view (the strongest objection)
+- expression (specific instrument: ticker, perp, options structure)
+
+═══════════════════════════════
+GUARDRAILS
+═══════════════════════════════
+- If Chinese sources surface something English media hasn't, FLAG IT — 
+  this is the highest-value signal type
+- Never invent specific numbers, prices, or quotes
+- All dates must be 2026 or 2027
+- If signals are weak, produce fewer items rather than padding
+
+Return strictly valid JSON — no markdown fences, no extra text:
+
+{
+  "prediction_markets_to_watch": [
+    {
+      "market_title": "...",
+      "venue": "Polymarket | Kalshi | Manifold",
+      "why_now": "...",
+      "signal_source": "..."
+    }
+  ],
+  "market_questions_to_create": [
+    {
+      "question": "...",
+      "deadline": "2026-MM-DD or 2027-MM-DD",
+      "resolution_source": "...",
+      "why_underpriced": "...",
+      "trigger_signal": "..."
+    }
+  ],
+  "investment_theses": [
+    {
+      "thesis": "...",
+      "horizon": "...",
+      "supporting_signals": ["...", "..."],
+      "counter_view": "...",
+      "expression": "..."
+    }
+  ]
+}
+"""
 
 ═══════════════════════════════
 GUARDRAILS
