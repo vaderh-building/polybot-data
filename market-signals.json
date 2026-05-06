@@ -1,69 +1,111 @@
 {
-  "generated_at_utc": "2026-05-05T21:56:22.288514+00:00",
+  "generated_at_utc": "2026-05-06T07:32:25.697334+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "AMD tops estimates for first quarter as data center revenue jumps 57%",
+        "title": "Novo Nordisk stock jumps 6% after drugmaker hikes forcast as Wegovy pill sales smash forecasts",
+        "summary": "Novo Nordisk raised its outlook for 2026 after a strong performance from its newly launched Wegovy pill.",
+        "link": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
+        "published": "Wed, 06 May 2026 07:27:43 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump pauses U.S. bid to guide ships out of Strait of Hormuz, cites Iran deal progress",
+        "summary": "President Donald Trump said he is pausing \"Project Freedom,\" the U.S. military's bid to guide commercial ships out of the Strait of Hormuz.",
+        "link": "https://www.cnbc.com/2026/05/05/trump-iran-deal-project-freedom-hormuz-strait.html",
+        "published": "Tue, 05 May 2026 23:57:15 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "China hosts Iran's top diplomat just days ahead of Trump's high-stakes visit",
+        "summary": "Iran's Foreign Minister Abbas Araghchi trip to Beijing on Wednesday marks the first time he has visited China since the beginning of the Iran war.",
+        "link": "https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html",
+        "published": "Wed, 06 May 2026 05:43:04 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Private credit’s $2 trillion boom raises global stability fears, watchdog warns",
+        "summary": "The Financial Stability Board wants regulators to tighten up their supervision of private credit amid fears of growing stress in the sector.",
+        "link": "https://www.cnbc.com/2026/05/06/private-credit-stress-risks-financial-stability-markets.html",
+        "published": "Wed, 06 May 2026 07:16:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "AMD's stock soars 15% as data center growth pushes revenue and guidance past estimates",
         "summary": "AMD's earnings report lands as investors rush into the stock on optimism that the AI boom is just getting started.",
         "link": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
-        "published": "Tue, 05 May 2026 20:25:38 GMT"
+        "published": "Wed, 06 May 2026 05:20:04 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Super Micro stock jumps 19% on guidance beat as revenue more than doubles",
-        "summary": "Super Micro pointed to progress in U.S. manufacturing in issuing a stronger-than-expected quarterly forecast.",
-        "link": "https://www.cnbc.com/2026/05/05/super-micro-smci-q3-earnings-report-2026.html",
-        "published": "Tue, 05 May 2026 21:39:50 GMT"
+        "title": "In the global AI race, a sanctioned Chinese firm says cheaper models can still win",
+        "summary": "As China’s AI competition intensifies, SenseTime is shifting toward multimodal AI, lower-cost models and overseas expansion to remain competitive, co-founder Lin Dahua said.",
+        "link": "https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html",
+        "published": "Wed, 06 May 2026 05:09:56 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "U.S. says 'Project Freedom' will reopen Hormuz Strait for commerce. Experts are skeptical",
-        "summary": "President Donald Trump announced the operation Sunday, saying the U.S. will \"guide\" ships stuck due to the Iran war through the Strait of Hormuz.",
-        "link": "https://www.cnbc.com/2026/05/05/iran-war-strait-of-hormuz-project-freedom.html",
-        "published": "Tue, 05 May 2026 21:51:56 GMT"
+        "title": "Lufthansa faces nearly $2 billion in extra fuel costs amid Middle East conflict",
+        "summary": "Germany's largest airline, Lufthansa, is taking on additional fuel costs as the Middle East conflict poses 'enormous challenges.'",
+        "link": "https://www.cnbc.com/2026/05/06/lufthansa-q1-middle-east-conflict-2-billion-fuel-cost.html",
+        "published": "Wed, 06 May 2026 06:13:09 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "EV maker Lucid plans to adjust production, citing elevated vehicle inventories",
-        "summary": "Lucid Group said it will make moves to better align its production with customer demand for its luxury all-electric vehicles.",
-        "link": "https://www.cnbc.com/2026/05/05/lucid-lcid-q1-2026.html",
-        "published": "Tue, 05 May 2026 20:30:22 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Spirit starts monthslong process of dismantling airline after biggest collapse in a generation",
-        "summary": "Spirit Airlines was back in bankruptcy court to start dismantling the airline.",
-        "link": "https://www.cnbc.com/2026/05/05/spirit-airlines-bankruptcy-costs.html",
-        "published": "Tue, 05 May 2026 19:56:38 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Micron zooms past $700 billion market cap as rally in memory stocks accelerates",
-        "summary": "Micron has emerged as one of the most valuable U.S. tech companies thanks to insatiable demand for memory that's needed in AI chips.",
-        "link": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
-        "published": "Tue, 05 May 2026 20:23:48 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "OpenAI trial: Brockman rebuts Musk's take on startup's history, recounts secret work for Tesla",
-        "summary": "OpenAI President Greg Brockman concluded his testimony on Tuesday as the blockbuster trial between the AI startup and Elon Musk rolled into its second week.",
-        "link": "https://www.cnbc.com/2026/05/05/open-ai-altman-musk-trial-brockman-testimony.html",
-        "published": "Tue, 05 May 2026 21:18:32 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "AMC to screen live concerts through Arena One partnership",
-        "summary": "More than 300 AMC locations in 89 markets across the U.S. will be programmed for live concert screenings. Tickets will range from $40 to $75.",
-        "link": "https://www.cnbc.com/2026/05/05/amc-arena-one-live-concerts.html",
-        "published": "Tue, 05 May 2026 21:24:21 GMT"
+        "title": "Samsung crossses $1 trillion valuation as AI frenzy drives historic rally, lifting shares over 15%",
+        "summary": "The rally comes after the company reported an over eightfold increase in first-quarter operating profits last week.",
+        "link": "https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html",
+        "published": "Wed, 06 May 2026 04:26:00 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-        "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
-        "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 05 May 2026 16:38:50 GMT"
+        "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+        "summary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
+        "link": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 06 May 2026 04:53:31 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+        "summary": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
+        "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 05 May 2026 21:22:31 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+        "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+        "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 05 May 2026 11:38:03 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+        "summary": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
+        "link": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 06 May 2026 07:10:26 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+        "summary": "He spent much of the race criticising the state's response to the Covid-19 pandemic led by the Democrat nominee.",
+        "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 06 May 2026 01:55:26 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
+        "summary": "Kim Ju Ae's evolving fashion is one of the signs that she is being groomed as North Korea's next leader.",
+        "link": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 05 May 2026 22:44:35 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "'I had to stick to the plan': Officer describes retrieving crocodile with human remains inside",
+        "summary": "DNA tests are underway to confirm whether remains found inside the crocodile match that of a missing man.",
+        "link": "https://www.bbc.com/news/articles/cp8pqz63808o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 05 May 2026 17:35:32 GMT"
       },
       {
         "source": "BBC World",
@@ -73,112 +115,98 @@
         "published": "Tue, 05 May 2026 19:23:18 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Nine coal miners die in gas explosion in Colombia",
-        "summary": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023.",
-        "link": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 05 May 2026 10:09:23 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-        "summary": "A 33-year-old German citizen was detained following the incident, the authorities say.",
-        "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 05 May 2026 10:56:53 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Romanian PM ousted in no-confidence vote",
-        "summary": "Ilie Bolojan lost the vote after the largest party in his coalition joined the far-right opposition to depose him.",
-        "link": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 05 May 2026 14:05:11 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Explosion at China fireworks factory kills 26 people",
-        "summary": "A blast at a fireworks factory in Hunan province has killed 26 people and injured 61, state media report.",
-        "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 05 May 2026 06:06:42 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
-        "summary": "Film star Vijay has defied naysayers to almost sweep Tamil Nadu polls, marking a break in the political order.",
-        "link": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 05 May 2026 07:32:52 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Popular Australian author pleads guilty over child exploitation material",
-        "summary": "The Jasper Jones and Runt author was arrested in January during a police raid at his Perth home.",
-        "link": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 05 May 2026 05:28:28 GMT"
+        "source": "CoinDesk",
+        "title": "Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/06/equity-perps-could-become-more-popular-than-crypto-perps-as-the-line-between-crypto-and-wall-street-dissolves",
+        "published": "Wed, 06 May 2026 07:23:57 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "AI agents are breaking web economics, but Cloudflare says x402 can help",
+        "title": "North Korea terror victims escalate fight to seize $71 million from Aave hack",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/05/05/ai-agents-are-breaking-web-economics-but-cloudflare-says-x402-can-help",
-        "published": "Tue, 05 May 2026 21:47:54 +0000"
+        "link": "https://www.coindesk.com/policy/2026/05/06/north-korea-terror-victims-escalate-fight-to-seize-usd71-million-from-aave-hack",
+        "published": "Wed, 06 May 2026 05:09:22 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Kraken eyes IPO as it partners with MoneyGram to bridge crypto-to-cash gap",
+        "title": "XRP above $1.42 as traders watch 2025 breakout pattern that led to 66% rally",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/05/kraken-eyes-ipo-as-it-partners-with-moneygram-to-bridge-crypto-to-cash-gap",
-        "published": "Tue, 05 May 2026 21:29:15 +0000"
+        "link": "https://www.coindesk.com/markets/2026/05/06/xrp-above-usd1-42-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally",
+        "published": "Wed, 06 May 2026 04:25:26 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "State Street says institutions want improved blockchain security in wake of recent DeFi attacks",
+        "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/05/state-street-says-institutions-want-improved-blockchain-security-in-wake-of-recent-defi-attacks",
-        "published": "Tue, 05 May 2026 21:27:36 +0000"
+        "link": "https://www.coindesk.com/markets/2026/05/06/bitcoin-tops-usd81-000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligations",
+        "published": "Wed, 06 May 2026 04:11:27 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto's 'barbell': speculation and stablecoin payments drive adoption, Tempo's Romero says",
+        "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/05/crypto-s-barbell-speculation-and-stablecoin-payments-drive-adoption-tempo-s-romero-says",
-        "published": "Tue, 05 May 2026 21:25:01 +0000"
+        "link": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations",
+        "published": "Tue, 05 May 2026 23:43:44 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Citi exec says fragmented crypto systems risk repeating old banking problems",
+        "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/05/citi-exec-says-fragmented-crypto-systems-risk-repeating-old-banking-problems",
-        "published": "Tue, 05 May 2026 21:23:00 +0000"
+        "link": "https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists",
+        "published": "Tue, 05 May 2026 22:39:33 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Overseas demand for U.S. equities is growing, says Robinhood's Johan Kerbrart",
+        "title": "The world's entire economy will be tokenized, says Consensys’ Joseph Lubin",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/05/robinhood-vp-johann-kerbrat-recommends-global-portfolios-as-demand-for-u-s-stocks-rises",
-        "published": "Tue, 05 May 2026 21:19:26 +0000"
+        "link": "https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin",
+        "published": "Tue, 05 May 2026 22:06:55 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto ETFs go mainstream as traditional finance locks in",
+        "title": "It's transparency, not tech alone, that drives crypto adoption, panelists tell Consensus Miami",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/05/crypto-etfs-go-mainstream-as-traditional-finance-locks-in",
-        "published": "Tue, 05 May 2026 21:17:27 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Self-directed investors power bitcoin ETF launch despite Morgan Stanley’s scale",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/05/self-directed-investors-power-bitcoin-etf-launch-despite-morgan-stanley-s-scale",
-        "published": "Tue, 05 May 2026 20:44:05 +0000"
+        "link": "https://www.coindesk.com/business/2026/05/05/it-s-transparency-not-tech-alone-that-drives-crypto-adoption-panelists-tell-consensus-miami",
+        "published": "Tue, 05 May 2026 22:04:41 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Crypto PAC spends $500K in support of Indiana candidate ahead of primary",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC spends $500K in support of Indiana candidate ahead of primary\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLVdoYXQtY3J5cHRvLWluZHVzdHJ5LXNob3VsZC1leHBlY3QtZnJvbS1yZWd1bGF0b3JzLWluLVVTLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg\" /></p><p>Days before an Indiana primary, the Defend American Jobs PAC reporte",
-        "link": "https://cointelegraph.com/news/crypto-pac-spending-indiana-candidate-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 05 May 2026 20:42:00 +0000"
+        "title": "Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwSGVyZSUyMGNvbWVzJTIwdGhlJTIwY3J5cHRvJTIwY29ycG9yYXRlJTIwdHJlYXN1cmllcyUyMEdvb2dsZSUyMEFJLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg\" /></p><p>Anchorage’s new product enables AI agents to hav",
+        "link": "https://cointelegraph.com/news/anchorage-google-cloud-launch-agentic-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 06 May 2026 06:55:26 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
+        "summary": "<p>2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600mAh 超巨量「冰川电池」 + 120W 超级闪充组合，首发自研OPPO冰川电池聚能芯片，支持IP66/IP68/IP69/IP69K满级防尘防水，并搭载超流畅更 AI 的新一代ColorOS 16，以枪神形态全面出击。同时，一加首发行业首款「触按融合」射击游戏专属手柄——「一加枪神游戏手柄」，带来区别于外挂肩键、拉伸手柄和传统手机肩键的全新操控方案，解锁新机双形态体验，为玩家打造「枪神梦想装备」。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260506/v2_633a71c912c",
+        "link": "https://36kr.com/p/3797276726893569?f=rss",
+        "published": "2026-05-06 12:04:59  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
+        "summary": "<p>“传统工业软件太难用了。”</p>\n  <p>这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。</p>\n  <p>“AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”，<strong>Orthogonal想做的，是把“vibe”的方式带入硬件开发。</strong></p>\n  <p>Orthogonal创始人吉洋曾在德国宇航局（DLR）及工业界深耕了近二十年，参与过达索系统仿真工具核心功能的研发，领导了空客A350宽体客机电气系统的研发，并在库卡、宝马、西门子高速列车、中国商飞、华为、中国航空发动机集团等全球知名企业的合作项目中担任过领导或关键角色。2023年因其在科研和创业领域的贡献，被慕尼黑工业大学授予“TUM Ambassador”荣誉称号。</p>\n  <p>在他看来，AI带来的不仅是简单的效率提升，更是一次重构工业软件范式的机会，传统工具的复杂性已经成为行业发展的瓶颈。</p>\n  <p>“AI时代",
+        "link": "https://36kr.com/p/3797224394284033?f=rss",
+        "published": "2026-05-06 10:57:18  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。</p>\n  <p>此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、浩方创投、北大张海霞教授旗下ICANX基金等。本轮资金将用于旗下DTC消费医疗产品的上市进程、推进B端定制化模块的交付落地，以及开展国内外医疗注册证的申报工作。</p>\n  <p>家用健康检测并非新的叙事。过去二十年，血糖仪、血压计、尿酸仪早已进入家庭，但其底层逻辑从未改变：始终停留在 “用户主动发起、单点采集、切片式截面数据” 的模式。</p>\n  <p>这是一条从医院平移至家庭的执行链路，繁琐的操作流程让用户长期依从性极低，“有创伤、记不住、嫌麻烦”难以坚持使用，最终让本应发挥健康管理价值的仪器，沦为家中散落里的闲置品。</p>\n  <p>与此同时，可穿戴设备的边界也已清晰。智能",
+        "link": "https://36kr.com/p/3682907323150215?f=rss",
+        "published": "2026-05-06 09:34:20  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
+        "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>分析师称iPhone 18 Pro定价策略激进，起步价8999元&nbsp;</li>\n   <li>胖东来郑州店注册成立，预计今年10月开业&nbsp;</li>\n   <li>保时捷卖掉布加迪，预计2026年销量下滑至3万辆&nbsp;</li>\n   <li>马斯克就推特持股披露诉讼与美证监会达成和解&nbsp;</li>\n   <li>三星继承人已付清12万亿韩元遗产税</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>豆包将在免费模式外新增付费订阅，官方回应</strong></p>\n  <p>近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。</p>\n  <p>另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产��场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算",
+        "link": "https://36kr.com/p/3797041945304327?f=rss",
+        "published": "2026-05-06 07:55:08  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "五月，适合想清楚一件事｜幕启",
@@ -206,106 +234,84 @@
         "summary": "<p>文｜肖漫</p>\n  <p>编辑｜李勤</p>\n  <p>当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。</p>\n  <p>卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。</p>\n  <p>“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。</p>\n  <p>在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。</p>\n  <p>这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。</p>\n  <p>基于移动基座模型，卓驭已经开始尝试打破传统Tier 1“卖硬件、收开发费”的单一逻辑。在第二增长曲线中，通过将乘用车技术拓展至 Robotaxi、RoboVan 等 L4 级领域，卓驭正在探索一种基于订阅、利润分成以及“动作令牌（Action Token）”的新商业形态。</p>\n",
         "link": "https://36kr.com/p/3789475357400068?f=rss",
         "published": "2026-05-02 21:17:06  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
-        "summary": "<p>文｜周鑫雨</p>\n  <p>编辑｜杨轩</p>\n  <p>规模化落地，今年的具身公司都在谈这个。</p>\n  <p>数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。</p>\n  <p>激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。</p>\n  <p>在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：<strong>2036年，要实现140亿美元的营收规模。</strong></p>\n  <p>在全球范围内打响品牌，也让这家公司，将发布会开进了硅谷。美西时间2026年4月28日，在云集Adobe、TikTok、IBM等公司的圣何塞，魔法原子发起了全球具身智能创新大会（GEIS）。</p>\n  <p class=\"image-wrap",
-        "link": "https://36kr.com/p/3792155815304450?f=rss",
-        "published": "2026-05-02 21:01:36  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "周杰伦伙伴，要被卖了",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_bf67b6f28a8247679c68b9f7cf9f7a25@5579416_oswg407782oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：视觉中国</p>\n  <p>作者/吴琼</p>\n  <p>报道/投资界PEdaily</p>\n  <p>音乐顶流也迎来了卖身结局。</p>\n  <p>近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。</p>\n  <p>你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……这些顶流艺人的音乐作品，均由环球音乐发行或持有版权。每当你打开音乐软件，也许就有一笔",
-        "link": "https://36kr.com/p/3791838183234816?f=rss",
-        "published": "2026-05-02 17:37:20  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "茶颜悦色 , 装不下去了",
-        "summary": "<p>以慢著称，不爱出省的奶茶界“初代网红”茶颜悦色，终于又向外迈出了一步。</p>\n  <p>近日，茶颜悦色深圳门店开业，两家门店分别坐落于深圳万象城与深圳万象天地。据媒体报道，开业首日，门店外就聚集了大批顾客，等位队伍已经排至商场外围，提示牌显示，“排队需要5小时”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_95c539d85cd94dc8a62ceaab7563b937@5579416_oswg292232oswg1080oswg1762_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：二手交易平台截图</p>\n  <p>黄牛们也闻风而动，据二手交易平台数据，原价十几元一杯的茶颜悦色奶茶，代购价格均被炒至30—100元。</p>\n  <p>然而，从开业第二天开始，排队人数明显骤减，等候时间缩至1小时。甚至比起想要排队打卡，许多网友的态",
-        "link": "https://36kr.com/p/3791800373664772?f=rss",
-        "published": "2026-05-02 16:06:53  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "又一算力独角兽，冲击IPO",
-        "summary": "<p>作者丨韦香惠</p>\n  <p>来源丨东四十条资本</p>\n  <p>A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。</p>\n  <p>主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。</p>\n  <p>这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大股东则为河南国资平台豫信电子科技集团。此外，超聚变第二大股东系中国移动旗下中移资本，持股15.14%。成立至今，核聚变已至少完成8轮股权融资，身后VC/PE超过30家。</p>\n  <p>超聚变之所以受资本青睐，离不开“算力即国运”的时代背书。2026年《政府工作报告》明确提出“打造智能经济新形态”，并将“超大规模智算集群、算电协同”等纳入新型基础设施重点方向。在此背景下，从东部沿海到西部内陆，从一线城市到新兴节点城市，算力基础设施建设正呈现出全面铺开的态势。</p>\n  <h2><strong>华为子公司落地河南</strong></h",
-        "link": "https://36kr.com/p/3791796527602951?f=rss",
-        "published": "2026-05-02 15:38:58  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-        "summary": "score: 1097, comments: 757",
-        "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-        "score": 1097
+        "title": ".de TLD offline due to DNSSEC?",
+        "summary": "score: 633, comments: 308",
+        "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+        "score": 633
       },
       {
         "source": "Hacker News",
         "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-        "summary": "score: 362, comments: 166",
+        "summary": "score: 538, comments: 249",
         "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-        "score": 362
-      },
-      {
-        "source": "Hacker News",
-        "title": ".de TLD offline due to DNSSEC?",
-        "summary": "score: 342, comments: 113",
-        "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-        "score": 342
-      },
-      {
-        "source": "Hacker News",
-        "title": "Should I Run Plain Docker Compose in Production in 2026?",
-        "summary": "score: 323, comments: 244",
-        "link": "https://distr.sh/blog/running-docker-in-production/",
-        "score": 323
+        "score": 538
       },
       {
         "source": "Hacker News",
         "title": "Three Inverse Laws of AI",
-        "summary": "score: 310, comments: 204",
+        "summary": "score: 425, comments: 286",
         "link": "https://susam.net/inverse-laws-of-robotics.html",
-        "score": 310
-      },
-      {
-        "source": "Hacker News",
-        "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-        "summary": "score: 248, comments: 147",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
-        "score": 248
+        "score": 425
       },
       {
         "source": "Hacker News",
         "title": "Computer Use is 45x more expensive than structured APIs",
-        "summary": "score: 225, comments: 121",
+        "summary": "score: 382, comments: 216",
         "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-        "score": 225
+        "score": 382
       },
       {
         "source": "Hacker News",
-        "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-        "summary": "score: 186, comments: 224",
-        "link": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-        "score": 186
+        "title": "EEVblog: The 555 Timer is 55 years old [video]",
+        "summary": "score: 277, comments: 68",
+        "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+        "score": 277
+      },
+      {
+        "source": "Hacker News",
+        "title": "Write some software, give it away for free",
+        "summary": "score: 244, comments: 155",
+        "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+        "score": 244
+      },
+      {
+        "source": "Hacker News",
+        "title": "StarFighter 16-Inch",
+        "summary": "score: 235, comments: 131",
+        "link": "https://us.starlabs.systems/pages/starfighter",
+        "score": 235
+      },
+      {
+        "source": "Hacker News",
+        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+        "summary": "score: 232, comments: 129",
+        "link": "https://blog.cloudflare.com/agents-stripe-projects/",
+        "score": 232
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
+        "title": "Zcash (ZEC)",
+        "summary": "market cap rank: 15",
+        "link": "https://www.coingecko.com/en/coins/zcash"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Firo (FIRO)",
-        "summary": "market cap rank: 945",
+        "summary": "market cap rank: 942",
         "link": "https://www.coingecko.com/en/coins/firo"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 17",
-        "link": "https://www.coingecko.com/en/coins/zcash"
+        "title": "Toncoin (TON)",
+        "summary": "market cap rank: 21",
+        "link": "https://www.coingecko.com/en/coins/toncoin"
       },
       {
         "source": "CoinGecko Trending",
@@ -315,153 +321,151 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "wojak (WOJAK)",
-        "summary": "market cap rank: 579",
-        "link": "https://www.coingecko.com/en/coins/wojak-5"
+        "title": "dogwifhat (WIF)",
+        "summary": "market cap rank: 177",
+        "link": "https://www.coingecko.com/en/coins/dogwifhat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Toncoin (TON)",
-        "summary": "market cap rank: 22",
-        "link": "https://www.coingecko.com/en/coins/toncoin"
+        "title": "io.net (IO)",
+        "summary": "market cap rank: 424",
+        "link": "https://www.coingecko.com/en/coins/io-net"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "MegaETH (MEGA)",
-        "summary": "market cap rank: 237",
-        "link": "https://www.coingecko.com/en/coins/megaeth"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Monero (XMR)",
-        "summary": "market cap rank: 18",
-        "link": "https://www.coingecko.com/en/coins/monero"
+        "title": "Terra Luna Classic (LUNC)",
+        "summary": "market cap rank: 94",
+        "link": "https://www.coingecko.com/en/coins/terra-luna-classic"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will AMD's data center revenue grow >50% YoY in Q2 2026?",
+        "market_title": "Will Bitcoin trade above $85,000 by end of June 2026?",
         "venue": "Polymarket",
-        "why_now": "AMD just posted 57% datacenter growth in Q1; market pricing in sustained AI chip demand but vulnerable to supply chain or competition shifts.",
-        "signal_source": "CNBC earnings report; AMD guidance commentary"
+        "why_now": "BTC at $81K with momentum; Michael Saylor's potential MicroStrategy sale could trigger volatility but also tests conviction among institutional holders.",
+        "signal_source": "CoinDesk: Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations; crypto derivatives convergence with Wall Street."
       },
       {
-        "market_title": "Will Micron (MU) remain above $700B market cap on 2026-06-30?",
+        "market_title": "Will Novo Nordisk stock outperform pharma sector by 15%+ through December 2026?",
         "venue": "Polymarket",
-        "why_now": "MU just crossed $700B on memory-chip euphoria; high volatility window as Fed/macro sentiment shifts; clean liquidation trigger.",
-        "signal_source": "CNBC Micron milestone story; market cap tracking"
+        "why_now": "Novo Nordisk +6% on Wegovy pill forecast beat; oral GLP-1 adoption curve now visibly accelerating, not yet fully priced in by consensus.",
+        "signal_source": "CNBC: Novo Nordisk raises 2026 outlook after Wegovy pill sales smash forecasts."
       },
       {
-        "market_title": "Will OpenAI and Elon Musk settle litigation by 2026-12-31?",
-        "venue": "Manifold",
-        "why_now": "Trial entered second week with Brockman testimony; settlement odds shifting as discovery deepens; long enough horizon for negotiation.",
-        "signal_source": "CNBC trial coverage; Musk/OpenAI public statements"
-      },
-      {
-        "market_title": "Will Bitcoin ETF inflows exceed $2B in any single week by 2026-07-31?",
-        "venue": "Polymarket",
-        "why_now": "CoinDesk reports mainstream institutional adoption accelerating; Fear/Greed index neutral for first time since January; retail/pro capital repositioning.",
-        "signal_source": "CoinDesk ETF mainstream story; Cointelegraph Fear & Greed Index"
-      },
-      {
-        "market_title": "Will Kraken complete IPO by 2026-09-30?",
+        "market_title": "Will AMD stock price exceed $220 by September 2026?",
         "venue": "Kalshi",
-        "why_now": "Kraken explicitly signaled IPO plans partnering with MoneyGram; regulatory tailwind with stablecoin adoption and institutional crypto infrastructure consolidation.",
-        "signal_source": "CoinDesk Kraken IPO announcement"
+        "why_now": "AMD +15% on data center revenue beat and guidance raise; AI infrastructure capex cycle is early-innings and chip scarcity narratives favor advanced node suppliers.",
+        "signal_source": "CNBC: AMD's stock soars 15% as data center growth pushes revenue and guidance past estimates."
+      },
+      {
+        "market_title": "Will Iran and US complete a new nuclear framework agreement by December 2026?",
+        "venue": "Manifold",
+        "why_now": "Trump pausing Strait of Hormuz military ops and citing 'Iran deal progress'; China hosting Iran's top diplomat suggests diplomatic channel momentum.",
+        "signal_source": "CNBC: Trump pauses U.S. bid to guide ships out of Strait of Hormuz, cites Iran deal progress; China hosts Iran's top diplomat."
+      },
+      {
+        "market_title": "Will FSB or major regulator announce new private credit supervision rules by September 2026?",
+        "venue": "Manifold",
+        "why_now": "$2 trillion private credit boom now triggering watchdog warnings; regulatory capture risk is real but so is systemic stability pressure.",
+        "signal_source": "CNBC: Private credit's $2 trillion boom raises global stability fears, watchdog warns."
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the Strait of Hormuz remain open for uninterrupted commercial shipping through 2026-06-30 under U.S. 'Project Freedom' operations?",
+        "question": "Will Ethereum trade above $4,000 on any day before August 31, 2026?",
+        "deadline": "2026-08-31",
+        "resolution_source": "CoinMarketCap / Binance ETHUSDT daily close",
+        "why_underpriced": "ETH remains correlated to BTC momentum but lacks dedicated catalyst narratives; Dencun/Pectra upgrades and restaking TVL growth are under-telegraphed to non-crypto finance crowds.",
+        "trigger_signal": "Crypto derivatives convergence with Wall Street + institutional adoption of ETH derivatives; no major English or Chinese media has called an ETH-specific bull case yet."
+      },
+      {
+        "question": "Will Samsung stock price exceed ₩100,000 (approximately USD $77) by December 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Samsung Electronics (005930.KS) closing price on Korea Exchange",
+        "why_underpriced": "Samsung just crossed $1T valuation on AI frenzy (+15% recent rally) but consensus still treats memory/display as cyclical; chiplet expansion and AI accelerator positioning under-capitalized.",
+        "trigger_signal": "CNBC: Samsung crosses $1 trillion valuation as AI frenzy drives historic rally; eightfold Q1 operating profit increase signals sustainable cycle, not one-off."
+      },
+      {
+        "question": "Will the US financial regulator (SEC/OCC/Federal Reserve) issue formal guidance on crypto derivatives or stablecoins by June 30, 2026?",
         "deadline": "2026-06-30",
-        "resolution_source": "U.S. State Department shipping advisory database + Lloyd's List maritime incident reports",
-        "why_underpriced": "Market underestimates both execution risk (military logistics complexity) and geopolitical escalation; binary but macro-sensitive (oil, DXY, equity volatility).",
-        "trigger_signal": "Trump 'Project Freedom' announcement; market pricing shipping risk as zero"
+        "resolution_source": "SEC.gov / Federal Register / OCC Bulletin feed",
+        "why_underpriced": "CoinDesk reports crypto derivatives have converged with Wall Street; structured products and equity perps are imminent—regulators cannot stay silent. Trump administration is lighter-touch but market scale forces action.",
+        "trigger_signal": "CoinDesk: Crypto derivatives have converged with Wall Street. Equity perps could soon prove it; no formal guidance yet published."
       },
       {
-        "question": "Will Lucid (LCID) produce and deliver >15,000 vehicles in 2026 (calendar year)?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Lucid quarterly SEC filings (10-Q/10-K) and official delivery announcements",
-        "why_underpriced": "Lucid just announced production adjustment downward; market consensus too pessimistic on recovery; but execution risk on luxury EV demand is real.",
-        "trigger_signal": "CNBC Lucid inventory adjustment story; Tesla/BYD EV price war dynamics"
+        "question": "Will any major AI lab (OpenAI, Anthropic, Google DeepMind, xAI) announce a model cheaper than $0.01 per million tokens (input) by November 30, 2026?",
+        "deadline": "2026-11-30",
+        "resolution_source": "Official pricing pages (openai.com, anthropic.com, deepmind.google.com, x.ai) or press release",
+        "why_underpriced": "SenseTime (China) is shifting toward lower-cost models as competitive imperative; Western labs will follow. Pricing compression narrative exists but timeline is underestimated.",
+        "trigger_signal": "CNBC: In the global AI race, a sanctioned Chinese firm says cheaper models can still win; no Western incumbent has announced sub-$0.01 pricing yet."
       },
       {
-        "question": "Will ByteDance's Doubao (豆包) paid tier exceed 1M cumulative subscriptions by 2026-12-31?",
-        "deadline": "2026-12-31",
-        "resolution_source": "36Kr / 36氪 reporting; ByteDance official announcements; China app store data",
-        "why_underpriced": "FLAG: 36Kr broke story of Doubao's three-tier subscription model (¥68/month standard, ¥200 pro, ¥500 expert) before English media coverage; Chinese AI monetization race heating up with limited Western awareness.",
-        "trigger_signal": "36Kr exclusive; Doubao App Store tier rollout; competitive pressure from Alibaba/Tencent AI"
-      },
-      {
-        "question": "Will Zhaoxi Motorcycle achieve >50,000 unit sales in 2026 (calendar year)?",
-        "deadline": "2026-12-31",
-        "resolution_source": "36Kr industry tracking; Zhaoxi official delivery reports; Chinese automotive industry publications",
-        "why_underpriced": "FLAG: 36Kr's motorsports sponsorship milestone (WSBK championship + Honor partnership) signals aggressive scaling; Western investors unaware of Chinese EV/motorcycle supply-side momentum.",
-        "trigger_signal": "36Kr Zhaoxi WSBK victory story; electric motorcycle adoption in China"
-      },
-      {
-        "question": "Will any Chinese embodied AI company (Unitree, CloudMinds, or similar) achieve profitable unit sales >10k robots in 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "36Kr / 东四十条资本 reporting; company IPO prospectus (Unitree IPO tracker); quarterly financial disclosures",
-        "why_underpriced": "FLAG: 36Kr reports Unitree passed 10k units in 2026 Q1 (took 3 months from 5k→10k); Unitree IPO prospectus shows 2025 revenue ¥17.07B on 5,500 units shipped—unit economics improving rapidly but Western VCs sleeping.",
-        "trigger_signal": "36Kr embodied AI scaling story; Unitree IPO filing; Tesla Bot competition FUD overstated"
+        "question": "Will Bitcoin mining be legalized or formally permitted in Colombia by July 31, 2026?",
+        "deadline": "2026-07-31",
+        "resolution_source": "Colombia Ministry of Finance/Energy official decree or presidential statement",
+        "why_underpriced": "Colombian president explicitly said Bitcoin mining could transform Caribbean coast; energy surplus and geopolitical alignment favor quick regulatory approval. No English media has tracked local legislative progress.",
+        "trigger_signal": "Cointelegraph: Colombian president says Bitcoin mining could transform country's Caribbean coast; nascent narrative, high information asymmetry."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "AI chip supply-side consolidation (AMD, Micron, Super Micro) outperforms macro headwinds through 2026-12; semiconductor margin expansion on unmet datacenter demand.",
-        "horizon": "6-9 months",
+        "thesis": "Broad-based AI chip demand (NVDA, AMD, MU) will outpace macro headwinds through 2026; private equity capital inflow into private credit will seize yield opportunities before rates fall.",
+        "horizon": "3–6 months",
         "supporting_signals": [
-          "AMD +57% datacenter YoY; Super Micro +19% on guidance; Micron $700B milestone",
-          "CoinDesk reports institutional blockchain security demand driving chip adoption",
-          "No supply constraint relief visible in Q1 guidance"
+          "AMD +15% on data center beat; CNBC reports AI boom 'just getting started'.",
+          "Samsung $1T valuation on AI frenzy; eightfold profit increase signals structural, not cyclical, uplift.",
+          "Private credit $2 trillion boom and FSB watchdog warning confirm asset class is live and pricing in tail risk.",
+          "CoinDesk reports crypto derivatives convergence with Wall Street, implying institutional re-allocation underway."
         ],
-        "counter_view": "NVIDIA saturation + China export restrictions level pricing power; margin compression if competitors scale faster than demand growth.",
-        "expression": "Long SMH (semiconductor ETF) or paired AMD/MU; avoid solo mega-cap NVDA as already priced"
+        "counter_view": "Nvidia valuation already reflects consensus AI upside; AMD margins may compress if competition from Intel/China (SenseTime) intensifies faster than expected. Private credit regulatory crackdown could trigger sudden deleveraging.",
+        "expression": "Long SMH (semiconductor ETF) or equal-weight basket of NVDA, AMD, MU; short high-yield spreads (HYG or LQD calls) as hedge against private credit repricing."
       },
       {
-        "thesis": "Bitcoin institutional adoption reaches inflection; crypto ETF inflows top $2B/week by Q3 2026 as traditional finance locks in infrastructure.",
-        "horizon": "2-4 months",
+        "thesis": "Bitcoin consolidation above $81K signals institutional accumulation before mid-year rebalance; MicroStrategy's potential asset sale would paradoxically 'inoculate' BTC by reducing single-holder tail risk, attracting long-term allocators.",
+        "horizon": "1–3 months",
         "supporting_signals": [
-          "CoinDesk: Crypto ETFs go mainstream; State Street + Citi exec quotes on institutional demand",
-          "Cointelegraph: Fear & Greed neutral for first time since January—contrarian bull signal",
-          "Kraken IPO plans + stablecoin payment adoption (Tennessee Bankers Association / Stablecore)"
+          "CoinDesk: Bitcoin holds $81K amid flat derivatives markets; Saylor explicitly says sale could 'inoculate' the market.",
+          "Trump pausing Strait of Hormuz ops suggests geopolitical de-escalation = lower energy volatility = cleaner risk-on environment for BTC.",
+          "Crypto derivatives convergence with Wall Street (CoinDesk) implies institutional plumbing is live; perps and structured products now accessible to traditional finance."
         ],
-        "counter_view": "Macro hawkishness (Fed rate hikes, DXY strength) stalls inflows; regulatory crackdown on tokenized assets.",
-        "expression": "Long BTC via spot or futures; hedge with ETH/BTC ratio short if alt outperformance fades"
+        "counter_view": "MicroStrategy sale at $81K would dump 120K+ BTC on market; even if framed as 'inoculation,' liquidation cascade could trigger $70K retest. Macro: Fed hawkishness re-emergence or recession signals flip sentiment instantly.",
+        "expression": "Long BTC spot (via IBIT, GBTC) with tight stop at $75K; short MicroStrategy equity (MSTR) as hedge to isolate BTC macro exposure."
       },
       {
-        "thesis": "China's embodied AI & EV supply chain (Unitree, Zhaoxi, Zhuyun) becomes de facto export standard; Western valuations lag reality by 6-12 months.",
-        "horizon": "6-12 months",
+        "thesis": "Pharmaceutical mega-caps with oral GLP-1 franchises (Novo Nordisk) will re-rate upward as real-world Wegovy pill adoption data flows in; market is pricing 2025 approval as sunk cost, not 2026 acceleration.",
+        "horizon": "6–12 months",
         "supporting_signals": [
-          "FLAG 36Kr: Unitree 10k units in Q1 2026 + IPO filing imminent; 2025 revenue ¥17.07B shows margin inflection",
-          "FLAG 36Kr: Zhaoxi WSBK championship + Honor partnership = credibility signal for scaling",
-          "FLAG 36Kr: Zhuoyu 'physical AI' pivot universally adopted by Chinese autonomous driving vendors"
+          "Novo Nordisk +6% on FY2026 outlook raise tied to Wegovy pill sales beat; oral form eliminates injection friction.",
+          "No comparable English-language media coverage of GLP-1 oral segment maturation yet; information asymmetry is high.",
+          "Obesity prevalence globally + insurance coverage expansion in 2026 will drive volume beyond current Street estimates."
         ],
-        "counter_view": "Export controls (semiconductors, IP licensing) halt Chinese supply-chain globalization; Western robotics catch-up faster than expected.",
-        "expression": "Proxy through Hong Kong-listed EV ETFs (e.g., KWEB); or direct Chinese ADR exposure if available (Unitree pre-IPO risk)"
+        "counter_view": "GLP-1 competition from Eli Lilly (Mounjaro/Zepbound) and smaller players (Viking Therapeutics) will compress pricing and margins faster than consensus assumes. Regulatory risk on long-term cardiovascular safety if real-world data emerges.",
+        "expression": "Long Novo Nordisk (NVO) or European pharma index (EDHX) with 9–12 month horizon; pair-trade short Eli Lilly (LLY) if market prices them as structural winner."
       },
       {
-        "thesis": "U.S. geopolitical risk premium on oil/commodities inverts if Strait of Hormuz stabilizes; DXY weakness if Trump's 'Project Freedom' succeeds operationally.",
-        "horizon": "3-6 months",
+        "thesis": "Eurozone energy stress (Lufthansa +$2B fuel costs) combined with geopolitical risk premium (Middle East, Ukraine) will keep EUR/USD range-bound but volatility-elevated; DXY will oscillate 102–106 through mid-2026.",
+        "horizon": "2–4 months",
         "supporting_signals": [
-          "Trump 'Project Freedom' Hormuz announcement; zero current pricing of execution risk",
-          "Oil market (WTI) still elevated on Iran-war uncertainty; median estimate $75-80 if shipping normalizes"
+          "Lufthansa explicitly citing $2B fuel cost headwind from Middle East conflict; German airline is eurozone sentiment canary.",
+          "BBC reports Strait of Hormuz standoff raises war risk; Trump pause on Hormuz ops is tactical, not strategic de-escalation.",
+          "Ukrainian frontline city supply cuts (BBC) = war-economy tax on European logistics and commodity prices persisting."
         ],
-        "counter_view": "Military escalation instead of stabilization; shipping corridor disruption deepens; geopolitical premium sticks.",
-        "expression": "Long USO (crude ETF) call spread or short DXY via FXE if Hormuz opens; pair with long SPY if capital-markets risk-off reverses"
+        "counter_view": "Trump and Iran deal progress could trigger sudden geopolitical relief rally (USD weakness, commodity downside); Lufthansa guidance miss could accelerate eurozone growth concerns and force ECB rate cuts sooner than priced.",
+        "expression": "Long USD/JPY (safe-haven carry) or short EUR/USD with options straddle to capture volatility; short Lufthansa (LHA) as idiosyncratic European stress indicator."
       },
       {
-        "thesis": "ByteDance's Doubao monetization (¥68-500/month tiers) signals China AI arms race entering profitable SaaS phase; Western LLM pricing models lag by 12-18 months.",
-        "horizon": "3-6 months (validation phase)",
+        "thesis": "Chinese AI competition (SenseTime, ByteDance Doubao, et al.) is shifting toward cheaper, multimodal models; Western labs will race to match pricing but sacrifice margin. Expect AI service provider ETFs (SOXX, XLK) to underperform BTC and crypto during 2026H2.",
+        "horizon": "4–8 months",
         "supporting_signals": [
-          "FLAG 36Kr: Doubao three-tier subscription rollout; no English media coverage yet—first-mover signal",
-          "Chinese consumer AI willingness to pay > Western assumed; OpenAI/Anthropic pricing pressure incoming"
+          "CNBC: SenseTime shifting toward lower-cost models and overseas expansion to compete despite US sanctions.",
+          "36Kr: Doubao (ByteDance) is expanding paid subscription tiers, signaling confidence in Chinese user monetization moat.",
+          "CoinDesk: 'Computer Use is 45x more expensive than structured APIs'—cost structure matters; cheaper inference = race to the bottom.",
+          "No English media has connected China's pricing war to Western AI margin compression yet; information lag is 2–4 weeks."
         ],
-        "counter_view": "Free-tier abandonment triggers user backlash; competitors undercut pricing; SaaS model unproven in China.",
-        "expression": "Hedge: short U.S. AI SaaS (UPST, CRWD) or overweight China tech (BABA, Alibaba) if Doubao succeeds; avoid OpenAI/Anthropic SPACs until visibility improves"
+        "counter_view": "Western AI labs (OpenAI, Anthropic) have higher switching costs and brand loyalty; customers will pay premium for safety/reliability. Chinese models face trust, regulatory, and data sovereignty barriers in Western enterprise.",
+        "expression": "Short NVDA / SMH (overweight to inference margin compression) and long QQQ with 6-month hedge via short AI-specific ETFs or long BTC as alternative upside narrative."
       }
     ]
   }
