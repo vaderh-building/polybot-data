@@ -1,83 +1,90 @@
 {
-  "generated_at_utc": "2026-05-08T14:48:53.557977+00:00",
+  "generated_at_utc": "2026-05-08T21:53:27.058189+00:00",
   "live_signals": {
     "english_news": [
-      {
-        "source": "CNBC Top News",
-        "title": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
-        "summary": "Surging gas prices due to the Iran war sent consumer sentiment to a new low in the early part of May.",
-        "link": "https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html",
-        "published": "Fri, 08 May 2026 14:30:27 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "U.S. says it struck two Iran-flagged oil tankers trying to skirt blockade",
-        "summary": "The shaky U.S. ceasefire with Iran has been repeatedly undermined this week, even as President Donald Trump insists it remains in effect.",
-        "link": "https://www.cnbc.com/2026/05/08/iran-war-oil-trump-blockade-ceasefire.html",
-        "published": "Fri, 08 May 2026 14:31:44 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Virginia Supreme Court strikes down redistricting push in blow to Democrats",
-        "summary": "In the ongoing redistricting wars, Virginia was seen as an opportunity for Democrats to pick up as many as four seats.",
-        "link": "https://www.cnbc.com/2026/05/08/virginia-redistricting-decision-supreme-court.html",
-        "published": "Fri, 08 May 2026 14:40:38 GMT"
-      },
       {
         "source": "CNBC Top News",
         "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
         "summary": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus.",
         "link": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
-        "published": "Fri, 08 May 2026 14:17:13 GMT"
+        "published": "Fri, 08 May 2026 18:22:51 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+        "summary": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+        "link": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
+        "published": "Fri, 08 May 2026 21:44:14 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
+        "summary": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
+        "link": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
+        "published": "Fri, 08 May 2026 20:07:35 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
+        "summary": "Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
+        "link": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
+        "published": "Fri, 08 May 2026 21:03:09 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Dunkin' owner Inspire Brands confidentially files for IPO",
+        "summary": "The restaurant company owns Dunkin', Arby's, Buffalo Wild Wings, Baskin Robbins, Sonic Drive-In and Jimmy John's.",
+        "link": "https://www.cnbc.com/2026/05/08/dunkin-owner-inspire-brands-confidentially-files-for-ipo.html",
+        "published": "Fri, 08 May 2026 20:28:13 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Rocket Lab surges 34% in best day ever on revenue beat, record-setting launch deal",
+        "summary": "Enthusiasm for space stocks has skyrocketed ahead of SpaceX's anticipated IPO.",
+        "link": "https://www.cnbc.com/2026/05/08/rocket-lab-rklb-q1-earnings-2026.html",
+        "published": "Fri, 08 May 2026 21:15:33 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Michael Burry says the market today feels like 'the last months of the 1999-2000 bubble'",
+        "summary": "\"Stocks are not up or down because of jobs or consumer sentiment,\" Burry wrote. \"Feeling like the last months of the 1999-2000 bubble.\"",
+        "link": "https://www.cnbc.com/2026/05/08/michael-burry-says-the-market-today-feels-like-the-last-months-of-the-1999-2000-bubble.html",
+        "published": "Fri, 08 May 2026 18:54:00 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
         "summary": "The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
         "link": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
-        "published": "Fri, 08 May 2026 14:04:22 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Marco Rubio says U.S. expects Iran response on peace deal 'today'",
-        "summary": "U.S. Secretary of State Marco Rubio said Friday that the U.S. is expecting a response from Iran on Washington's proposal to end the war.",
-        "link": "https://www.cnbc.com/2026/05/08/marco-rubio-says-us-expects-iran-response-on-peace-deal-today.html",
-        "published": "Fri, 08 May 2026 14:36:20 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump threatens EU with ‘much higher’ tariffs if no trade deal signed by new deadline",
-        "summary": "President Donald Trump said he will give the European Union until July 4 to ratify its trade agreement with the U.S.",
-        "link": "https://www.cnbc.com/2026/05/08/trump-tariffs-trade-eu-europe-deal.html",
-        "published": "Fri, 08 May 2026 07:32:28 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "The hottest ETF since bitcoin-mania just added $1 billion in a day",
-        "summary": "Roundhill Investment's Memory ETF (DRAM) tracking the red-hot memory sector has raised more than $5 billion since its April 2 launch.",
-        "link": "https://www.cnbc.com/2026/05/08/the-hottest-etf-since-bitcoin-mania-just-added-1-billion-in-a-day.html",
-        "published": "Fri, 08 May 2026 14:41:36 GMT"
+        "published": "Fri, 08 May 2026 20:01:44 GMT"
       },
       {
         "source": "BBC World",
         "title": "Iran accuses US of 'reckless military adventure'",
-        "summary": "Iran's Foreign Minister Abbas Araghchi says the US opts for a \"reckless military adventure\" every time a \"diplomatic solution is on the table\".",
+        "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
         "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 14:14:24 GMT"
+        "published": "Fri, 08 May 2026 16:11:06 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-        "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
+        "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+        "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
         "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 13:17:15 GMT"
+        "published": "Fri, 08 May 2026 18:59:58 GMT"
       },
       {
         "source": "BBC World",
         "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
         "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
         "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 14:47:31 GMT"
+        "published": "Fri, 08 May 2026 21:02:52 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Greece examines mystery naval drone found in Ionian Sea",
+        "summary": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+        "link": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 08 May 2026 17:53:25 GMT"
       },
       {
         "source": "BBC World",
@@ -91,7 +98,7 @@
         "title": "International cyber attack disrupts swathe of universities and schools",
         "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
         "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 14:16:04 GMT"
+        "published": "Fri, 08 May 2026 16:04:01 GMT"
       },
       {
         "source": "BBC World",
@@ -102,17 +109,52 @@
       },
       {
         "source": "BBC World",
-        "title": "South Africa president faces call to resign after court ruling",
-        "summary": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
-        "link": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 13:35:56 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
         "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
         "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
         "published": "Fri, 08 May 2026 08:43:55 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
+        "published": "Fri, 08 May 2026 20:59:25 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
+        "published": "Fri, 08 May 2026 19:12:29 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "SEC chair Atkins signals new rules for onchain markets, AI-driven finance",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/05/08/sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance",
+        "published": "Fri, 08 May 2026 18:32:23 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Kraken parent goes for the OCC charter in bid to become a federal crypto bank",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/05/08/kraken-parent-goes-for-the-occ-charter-in-big-to-become-a-federal-crypto-bank",
+        "published": "Fri, 08 May 2026 17:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "ECB's Lagarde’s digital euro warning: Why Europe shouldn’t just copy the U.S. stablecoin model",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/05/08/ecb-s-lagarde-warns-tether-and-circle-stablecoins-risk-digital-dollarisation-in-europe",
+        "published": "Fri, 08 May 2026 16:11:58 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "XRP pushes toward $1.40 as tightening range lowers breakout chances",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/08/xrp-pushes-toward-usd1-40-as-tightening-range-lowers-breakout-chances",
+        "published": "Fri, 08 May 2026 14:53:20 +0000"
       },
       {
         "source": "CoinDesk",
@@ -129,53 +171,11 @@
         "published": "Fri, 08 May 2026 13:22:15 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Coinbase bulls point to crypto legislation and stablecoins after earnings miss",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/08/coinbase-bulls-point-to-crypto-legislation-and-stablecoins-after-earnings-miss",
-        "published": "Fri, 08 May 2026 13:21:13 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "U.S. added 115K jobs in April, nearly doubling expectations",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/07/u-s-added-115k-jobs-in-april-nearly-doubling-expectations",
-        "published": "Fri, 08 May 2026 12:33:42 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "U.S. hiring slowdown could be great for bitcoin — unless wages spoil the party",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/05/08/u-s-hiring-slowdown-could-be-great-for-bitcoin-unless-wages-spoil-the-party",
-        "published": "Fri, 08 May 2026 11:31:39 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Coinbase blames AWS for hours-long crypto trading outage",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/08/coinbase-disruption-tied-to-aws-outage-draws-criticism-amid-staff-layoffs-and-q1-losses",
-        "published": "Fri, 08 May 2026 11:29:04 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin retreats below $80,000, liquidating $300 million in futures bets",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/08/bitcoin-retreats-below-usd80-000-liquidating-usd300-million-in-futures-bets",
-        "published": "Fri, 08 May 2026 10:21:03 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Stablecoin card spend is growing 100% year over year, Rain exec says",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/08/stablecoin-card-spend-is-growing-100-year-over-year-rain-exec-says",
-        "published": "Fri, 08 May 2026 10:11:13 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Europe sees ‘hyperconcentration’ of crypto wrench attacks as losses hit $101M",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Europe sees ‘hyperconcentration’ of crypto wrench attacks as losses hit $101M\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwQU1MRDUlMjBtYXklMjBmb3JjZSUyMGNyeXB0byUyMGV4Y2hhbmdlcyUyMHRvJTIwbGVhdmUlMjBFVTIuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg\" /></p><p>Criminal teams behind wrench attacks usually consist of thr",
-        "link": "https://cointelegraph.com/news/europe-crypto-wrench-attacks-losses-101m-certik-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 08 May 2026 14:00:00 +0000"
+        "title": "Kraken parent company applies for OCC charter in move toward banking",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent company applies for OCC charter in move toward banking\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWEtZGVjZW50cmFsaXplZC1tb25leS1tYXJrZXQtYW5kLWhvdy1kb2VzLWl0LXdvcmsuanBn.jpg\" /></p><p>The US banking regulator has already approved similar charter applications for Coinbase, Ripple Labs, BitGo, Circle,",
+        "link": "https://cointelegraph.com/news/kraken-payward-occ-charter-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 08 May 2026 20:47:00 +0000"
       }
     ],
     "chinese_news": [
@@ -239,250 +239,232 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Cloudflare to cut about 20% workforce",
-        "summary": "score: 1031, comments: 697",
-        "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-        "score": 1031
+        "title": "An Introduction to Meshtastic",
+        "summary": "score: 341, comments: 132",
+        "link": "https://meshtastic.org/docs/introduction/",
+        "score": 341
       },
       {
         "source": "Hacker News",
-        "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-        "summary": "score: 817, comments: 532",
-        "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-        "score": 817
+        "title": "David Attenborough's 100th Birthday",
+        "summary": "score: 300, comments: 51",
+        "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+        "score": 300
       },
       {
         "source": "Hacker News",
-        "title": "Dirtyfrag: Universal Linux LPE",
-        "summary": "score: 718, comments: 297",
-        "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-        "score": 718
+        "title": "Cartoon Network Flash Games",
+        "summary": "score: 224, comments: 69",
+        "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+        "score": 224
       },
       {
         "source": "Hacker News",
-        "title": "The map that keeps Burning Man honest",
-        "summary": "score: 697, comments: 331",
-        "link": "https://www.not-ship.com/burning-man-moop/",
-        "score": 697
+        "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+        "summary": "score: 171, comments: 70",
+        "link": "https://btxx.org/posts/memory/",
+        "score": 171
       },
       {
         "source": "Hacker News",
-        "title": "Maybe you shouldn't install new software for a bit",
-        "summary": "score: 685, comments: 370",
-        "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
-        "score": 685
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "summary": "score: 163, comments: 46",
+        "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+        "score": 163
       },
       {
         "source": "Hacker News",
-        "title": "Rumors of my death are slightly exaggerated",
-        "summary": "score: 635, comments: 86",
-        "link": "https://news.ycombinator.com/item?id=48037336",
-        "score": 635
+        "title": "AI is breaking two vulnerability cultures",
+        "summary": "score: 140, comments: 61",
+        "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+        "score": 140
       },
       {
         "source": "Hacker News",
-        "title": "Poland is now among the 20 largest economies. How it happened",
-        "summary": "score: 369, comments: 327",
-        "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-        "score": 369
+        "title": "PC Engine CPU",
+        "summary": "score: 108, comments: 46",
+        "link": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+        "score": 108
       },
       {
         "source": "Hacker News",
-        "title": "Pinocchio is weirder than you remembered",
-        "summary": "score: 229, comments: 97",
-        "link": "https://storica.club/blog/pinocchio-in-italian/",
-        "score": 229
+        "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+        "summary": "score: 58, comments: 31",
+        "link": "https://ze3tar.github.io/post-zcrx.html",
+        "score": 58
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Ondo (ONDO)",
-        "summary": "market cap rank: 46",
+        "summary": "market cap rank: 45",
         "link": "https://www.coingecko.com/en/coins/ondo"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Toncoin (TON)",
-        "summary": "market cap rank: 20",
-        "link": "https://www.coingecko.com/en/coins/toncoin"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Starknet (STRK)",
-        "summary": "market cap rank: 154",
-        "link": "https://www.coingecko.com/en/coins/starknet"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Billions Network (BILL)",
-        "summary": "market cap rank: 186",
-        "link": "https://www.coingecko.com/en/coins/billions-network"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "wojak (WOJAK)",
-        "summary": "market cap rank: 714",
+        "summary": "market cap rank: 673",
         "link": "https://www.coingecko.com/en/coins/wojak-5"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pharos (PROS)",
-        "summary": "market cap rank: 257",
-        "link": "https://www.coingecko.com/en/coins/pharos"
+        "title": "Internet Computer (ICP)",
+        "summary": "market cap rank: 47",
+        "link": "https://www.coingecko.com/en/coins/internet-computer"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "MegaETH (MEGA)",
-        "summary": "market cap rank: 237",
-        "link": "https://www.coingecko.com/en/coins/megaeth"
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 28",
+        "link": "https://www.coingecko.com/en/coins/sui"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 89",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin remain above $75,000 on June 30, 2026?",
+        "market_title": "Will Federal Reserve cut rates by end of Q3 2026?",
         "venue": "Polymarket",
-        "why_now": "BTC retreated below $80K today on $300M liquidations; Iran-US tensions and gas price inflation (May consumer sentiment at record low) create macro headwinds, but U.S. jobs beat (115K vs 55K expected) and stablecoin adoption growth (+100% YoY card spend) offer conflicting signals.",
-        "signal_source": "CoinDesk (BTC below $80K, liquidations), CNBC (consumer sentiment low, jobs beat, Iran tensions), stablecoin velocity data"
+        "why_now": "May jobs beat + persistent inflation talk signals Fed pausing cuts; Burry's 1999 bubble comparison amplifies recession hedging demand.",
+        "signal_source": "CNBC: U.S. payrolls beat expectations; Fed 'running out of reasons to cut'; Michael Burry bubble warning"
       },
       {
-        "market_title": "Will the Fed cut rates before September 30, 2026?",
+        "market_title": "Will NVIDIA close 2026 below its 2024 peak?",
+        "venue": "Polymarket",
+        "why_now": "Wall Street narrative 'changing guard in AI'—Intel/AMD/Micron surging on Apple chip deal and next-gen CPU momentum; NVIDIA underperforming sector rotation.",
+        "signal_source": "CNBC: 'Intel, AMD shares soar while Nvidia lags'; Samsung/Intel/TSMC advanced chip race; Apple chip pivot signal"
+      },
+      {
+        "market_title": "Will Bitcoin trade above $85,000 by end of Q2 2026?",
+        "venue": "Polymarket",
+        "why_now": "BTC holding above $80k with altcoin surge; SEC Chair Atkins signals new onchain market rules; Kraken/Paypal pursuing banking charters—regulatory tailwinds colliding with macro uncertainty.",
+        "signal_source": "CoinDesk: Bitcoin above $80k, altcoins surge; SEC new onchain rules signal; Kraken OCC charter bid"
+      },
+      {
+        "market_title": "Will SpaceX conduct IPO before end of 2026?",
         "venue": "Kalshi",
-        "why_now": "U.S. payrolls jumped more than expected (115K) but CNBC flagged 'red flags for the economy'; combined with record-low consumer sentiment from Iran-driven gas prices, markets now pricing probability of rate cuts amid conflicting labor/inflation signals.",
-        "signal_source": "CNBC (jobs beat, red flags for economy, consumer sentiment record low), Fed policy expectations"
+        "why_now": "Rocket Lab surged 34% on record launch deal + 'enthusiasm for space stocks skyrocketing ahead of SpaceX IPO'; Musk's xAI dissolution into SpaceX signals consolidation/IPO prep.",
+        "signal_source": "CNBC: Rocket Lab 34% surge on SpaceX IPO anticipation; 36Kr: Elon dissolving xAI into SpaceX"
       },
       {
-        "market_title": "Will Trump-EU trade deal be signed by July 4, 2026?",
-        "venue": "Polymarket",
-        "why_now": "Trump just gave EU until July 4 deadline for trade ratification, threatening 'much higher' tariffs; this is a concrete, market-moving binary with only ~2 months to resolution and real tariff escalation risk.",
-        "signal_source": "CNBC (Trump tariff threat, July 4 deadline)"
-      },
-      {
-        "market_title": "Will Anthropic Mythos cause a material increase in cyber insurance claims by December 31, 2026?",
+        "market_title": "Will Anthropic Mythos lead to a major (>$1B) cyber incident by Dec 31, 2026?",
         "venue": "Manifold",
-        "why_now": "Anthropic's Mythos cybersecurity tool has triggered 'hysteria' among banks and governments; Canvas (academic software) breach by ShinyHunters (12 countries, HN score 817) and $101M crypto wrench attacks in Europe show attack surface is live.",
-        "signal_source": "CNBC (Mythos cybersecurity reckoning), BBC (Canvas breach, hantavirus cruise ship cyber tracking), Cointelegraph (Europe wrench attacks $101M), Hacker News (Canvas down, 817 score)"
-      },
-      {
-        "market_title": "Will DRAM (Roundhill Memory ETF) stay above $2B AUM on August 31, 2026?",
-        "venue": "Polymarket",
-        "why_now": "DRAM added $1B in a single day and has raised $5B since April 2 launch; this is the hottest ETF since Bitcoin mania, but momentum-driven inflows are vulnerable to reversal if memory chip capex cycles slow.",
-        "signal_source": "CNBC (DRAM $5B AUM, $1B single-day inflow)"
+        "why_now": "Anthropic Mythos triggered cybersecurity 'hysteria' among banks/govs; Canvas academic software breach mid-May shows threat surface live; risk premia rising.",
+        "signal_source": "CNBC: Anthropic Mythos 'reckoning' with new cyber era; BBC: Canvas breach impacts thousands of schools globally"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Bitcoin exceed $95,000 by September 15, 2026?",
-        "deadline": "2026-09-15",
-        "resolution_source": "CoinMarketCap / CoinGecko spot price (daily close)",
-        "why_underpriced": "Current retreat below $80K is driven by short-term liquidations and macro uncertainty (Iran, gas prices), but stablecoin adoption accelerating (+100% YoY), U.S. labor market surprisingly resilient, and institutional on-ramps (Coinbase crypto legislation momentum) create asymmetric upside if geopolitical tensions ease.",
-        "trigger_signal": "Stablecoin card spend growth, congressional crypto legislation traction, Iran ceasefire stabilization, ETH strength relative to BTC"
-      },
-      {
-        "question": "Will Ethereum close above $3,000 on October 31, 2026?",
-        "deadline": "2026-10-31",
-        "resolution_source": "CoinMarketCap / CoinGecko spot price (daily close)",
-        "why_underpriced": "Cointelegraph reports 'Ethereum's rally exhausted at $2.4K' with four bearish signs, but this mirrors late 2024 sentiment before rallies; Ondo (ONDO) trending and institutional crypto adoption via stablecoins creates base for ETH upside.",
-        "trigger_signal": "Ondo (RWA tokenization), Starknet (STRK) scaling adoption, institutional stablecoin demand, Anthropic/AI infrastructure consolidation around Ethereum L2s"
-      },
-      {
-        "question": "Will the U.S. unemployment rate exceed 4.5% by November 30, 2026?",
-        "deadline": "2026-11-30",
-        "resolution_source": "U.S. Bureau of Labor Statistics (monthly non-farm payrolls release)",
-        "why_underpriced": "Today's jobs beat (115K vs 55K expected) masks CNBC's 'red flags for the economy' and record consumer sentiment lows; if Iran war persists and gas prices remain elevated, labor market weakness likely within 6 months.",
-        "trigger_signal": "Iran-U.S. escalation, consumer sentiment trend, jobless claims momentum, Fed policy path"
-      },
-      {
-        "question": "Will the DRAM ETF (Roundhill Memory) record net outflows in a single month by June 30, 2026?",
+        "question": "Will the S&P 500 decline >10% between now and June 30, 2026?",
         "deadline": "2026-06-30",
-        "resolution_source": "Roundhill Investments official fund flow data / SEC filings",
-        "why_underpriced": "$5B AUM in <2 months is classic momentum bubble; memory chip capex cycles are cyclical, and if TSMC or Samsung guidance turns cautious, retail ETF inflows reverse hard. Market consensus is extrapolating April rally indefinitely.",
-        "trigger_signal": "Memory chip guidance (TSMC, Samsung earnings), AI capex deceleration, PC/data-center refresh cycles"
+        "resolution_source": "Yahoo Finance or FRED (Federal Reserve Economic Data) SPX closing price",
+        "why_underpriced": "Burry's 1999 bubble parallel + Fed rate-cut pause narrative not yet fully priced into equity vol; macro bears are vocal but positioning data lags.",
+        "trigger_signal": "Michael Burry's 1999-2000 bubble warning; jobs beat paradox (strong labor but inflation stickiness)"
       },
       {
-        "question": "Will the EU-U.S. trade agreement be ratified by the July 4, 2026 deadline set by Trump?",
-        "deadline": "2026-07-04",
-        "resolution_source": "Official EU Council / U.S. Trade Representative statements or signed agreement filings",
-        "why_underpriced": "Trump's July 4 ultimatum is credible (he has tariff authority), but EU legislative processes are slow; market may underestimate probability of last-minute deal or extension, creating optionality for tariff-sensitive stocks (NVDA, chip ETFs).",
-        "trigger_signal": "EU legislative calendar, Trump tariff tweet escalation, WTO filings, automotive/tech lobby pressure"
+        "question": "Will Intel's stock price exceed AMD's for first time since 2020 by September 30, 2026?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Yahoo Finance closing prices for Intel (INTC) and AMD (AMD)",
+        "why_underpriced": "Apple chip deal + Samsung/Intel/TSMC advanced manufacturing race narratives are fresh; rotation away from NVIDIA just began; Intel fundamentals haven't caught up in sentiment.",
+        "trigger_signal": "CNBC: 'Changing guard in AI'; Intel/AMD double-digit rallies; Apple pivot to Intel chips"
+      },
+      {
+        "question": "Will Inspire Brands' IPO value exceed $15B by December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "IPO prospectus valuation or first-day trading close (if IPO completes in 2026)",
+        "why_underpriced": "Dunkin'/Arby's/Buffalo Wild Wings portfolio recession-resistant; restaurant IPO appetite unclear; confidential filing is early-stage signal.",
+        "trigger_signal": "CNBC: Inspire Brands confidential IPO filing; portfolio includes 6 major QSR brands with 6-7 figure outlet counts"
+      },
+      {
+        "question": "Will Solana (SOL) trading volume exceed Ethereum (ETH) 24h volume on a single day by August 31, 2026?",
+        "deadline": "2026-08-31",
+        "resolution_source": "CoinMarketCap or CoinGecko 24h trading volume feeds",
+        "why_underpriced": "AI agent ecosystem accelerating on Solana (Exodus launched AI-agent stablecoin); CoinDesk hackathons show developer momentum; SOL is trending while ETH volume concentration risk rises.",
+        "trigger_signal": "CoinDesk: AI agents fueled hackathon frenzy; Exodus AI-agent stablecoin on Solana; SOL in trending crypto list"
+      },
+      {
+        "question": "Will Kraken's parent company obtain full OCC banking charter by June 30, 2027?",
+        "deadline": "2027-06-30",
+        "resolution_source": "OCC (Office of the Comptroller of the Currency) official charter grant announcement or Federal Register",
+        "why_underpriced": "Two independent signals (CoinDesk + Cointelegraph) on Kraken OCC charter application; stablecoin permission slip narrative + SEC Atkins onchain rule-making signal runway.",
+        "trigger_signal": "CoinDesk + Cointelegraph: Kraken parent OCC charter application filed; SEC Chair signals new onchain market rules"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Short DXY (U.S. Dollar Index) into Q3 2026 if Iran ceasefire holds and consumer sentiment stabilizes, betting on Fed rate cuts and emerging market carry unwind.",
-        "horizon": "60–120 days",
+        "thesis": "Semiconductor equipment and memory (MU, SMH sector) outperform NVDA as CPU+AI inference architectures displace GPU monopoly through 2026.",
+        "horizon": "3–6 months",
         "supporting_signals": [
-          "Record-low U.S. consumer sentiment driven by transient gas price spike (Iran war); if conflict de-escalates, sentiment rebounds and risk appetite returns, weakening USD.",
-          "U.S. jobs beat (115K) suggests labor market resilience but CNBC flags 'red flags'; Fed likely to cut rates by September if inflation cools and employment softens.",
-          "Stablecoin adoption accelerating (+100% YoY) signals crypto/emerging market traders positioning for EM rallies, which benefit from weaker USD."
+          "CNBC: Intel/AMD/Micron surge on 'changing guard in AI' narrative; CPU makers + memory companies powering next-stage AI",
+          "CNBC: Apple chip deal signals Intel pivot; Samsung/Intel/TSMC advanced manufacturing race intensifies",
+          "36Kr: Tsinghua GPU-infra startup (RongXin) raised ~100M$ to 'rewrite computer architecture with GPU as core'—implies existing stack disruption"
         ],
-        "counter_view": "Iran-U.S. tensions persist or escalate (U.S. struck Iran tankers this week, Rubio expects Iranian response 'today'), pushing safe-haven flows into USD and equities; Trump's EU tariff threat may also support DXY if trade wars worsen.",
-        "expression": "Short DXY futures or long EUR/USD and emerging currency pairs (e.g., via EEM or FXI); hedge with long-dated UUP puts"
+        "counter_view": "NVDA's software moat (CUDA, ecosystem lock-in) and AI training dominance remain untouchable; inference margin compression may be temporary; new fab capacity won't materialize at scale until 2027+.",
+        "expression": "Long Micron (MU) calls or SMH (semiconductor ETF); short NVDA or hedge NVDA downside with synthetic shorts; or long MU/AMD vs short NVDA pairs trade"
       },
       {
-        "thesis": "Overweight semiconductor and memory chips (NVDA, MU, LRCX, DRAM ETF) in a tactical 30-day trade, but trim position before August on capex cycle risk.",
-        "horizon": "30–90 days",
+        "thesis": "Bitcoin consolidates 80–85k range into July 2026 as macro (Fed pause + recession fears) offset onchain regulatory tailwinds (OCC banking charters, SEC rules); breakout above 85k only on risk-off reversal or Fed pivot signal.",
+        "horizon": "2–4 months",
         "supporting_signals": [
-          "DRAM ETF (Roundhill Memory) added $1B in a single day and raised $5B since April 2; retail momentum is on, and institutional AI capex demand (data centers, training runs) will sustain nearterm inflows.",
-          "Chinese 36Kr reports on AI infra spending: Tsinghua-backed GPU system architecture startup completed 'several hundred million yuan' in funding; this signals aggressive Chinese capex competition and upstream demand for memory/logic chips.",
-          "Ondo (RWA tokenization), Toncoin (TON), and Starknet trending; these imply infrastructure buildout and compute/memory intensity."
+          "CoinDesk: Bitcoin holding above 80k; altcoins surging (suggests risk appetite intact but BTC momentum fading)",
+          "CoinDesk: Kraken OCC charter + SEC onchain rules signal = favorable regime, but slow to monetize",
+          "CNBC: Burry 1999 bubble warning + Fed rate-cut pause = macro headwinds offset regulatory tailwinds"
         ],
-        "counter_view": "Memory chip capex is procyclical; if Fed cuts rates too aggressively or recession fears spike, capex guidance will collapse. DRAM ETF's $5B inflow in 8 weeks is textbook retail bubble; redemptions could cascade by mid-Q3.",
-        "expression": "Long NVDA, MU, or LRCX calls (30-delta, 60 DTE); or accumulate on dips below 20-day MA; trim 30% on any single-day 5%+ rally. Avoid DRAM ETF directly due to tail risk."
+        "counter_view": "Risk-off shock (geopolitical escalation, US/Iran tensions, hantavirus pandemic narrative) could crush BTC faster than onchain fundamentals support it; or crypto adoption accelerates faster than expected (banking charter race).",
+        "expression": "BTC spot or perps: range trade 80–85k (short 85k, long 78k); or long BTC/DXY ratio (inverse dollar strength play) to isolate crypto strength from macro"
       },
       {
-        "thesis": "Long Bitcoin (via spot or 3-month perps) if Iran-U.S. ceasefire holds by May 10, 2026, targeting $85K–$90K on safe-haven reversal and stablecoin demand recovery.",
-        "horizon": "14–60 days",
+        "thesis": "AI-native Solana (SOL) ecosystem compounds faster than Ethereum through Q3 2026 as AI agent products (video, voice, trading) monetize on Solana's speed/cost advantages; developer migration accelerates.",
+        "horizon": "2–5 months",
         "supporting_signals": [
-          "BTC retreated below $80K on $300M liquidations and macro fear, but stablecoin card spend (+100% YoY) and Coinbase legislation momentum suggest institutional on-ramps are live.",
-          "U.S. jobs beat (115K vs 55K consensus) contradicts recession narrative; if labor holds and consumer sentiment recovers post-Iran deal, risk-on flows resume and BTC rallies.",
-          "Crypto infrastructure (Anthropic Mythos, Canvas breach) is triggering institutional urgency around non-custodial settlement; Bitcoin adoption as collateral/hedge accelerates in this environment."
+          "CoinDesk: AI agents fueled hackathon frenzy; Exodus AI-agent stablecoin launched on Solana",
+          "36Kr: Seedance (ByteDance) and KeLing (Kuaishou) AI video models iterating weekly; Solana becomes preferred deployment layer for low-latency inference",
+          "SOL in trending crypto; developer sentiment shifting; CoinDesk 20 NEAR gains show L1 alt-L1 momentum"
         ],
-        "counter_view": "Iran escalation continues (U.S. already struck Iranian tankers; Rubio expects response 'today'); gas prices stay elevated, consumer sentiment worsens, and recession fears drive risk-off. BTC could test $70K or lower if U.S. cuts rates but also pushes fiscal austerity.",
-        "expression": "BTC spot (buy dips to $77K–$78K) or 3-month BTC perps (5–10x leverage on a 10% allocation); hedge with long-term gold or TLT calls if geopolitical risk widens."
+        "counter_view": "Ethereum Layer 2s (Arbitrum, Optimism) and zkSync catching up on throughput; Solana network stability concerns persist (frequent outages); institutional capital still flows to established ETH degen ecosystem.",
+        "expression": "Long SOL/ETH ratio (buy SOL, short ETH, or SOL perps with ETH hedge); or direct SOL spot if macro risk-off stabilizes; or AI-agent protocol tokens if Solana-native governance launches (e.g., decentralized inference)"
       },
       {
-        "thesis": "Long ETH relative to BTC (via ETH/BTC ratio long or synthetic long ETH + short BTC) into Q3 2026, betting on Ethereum staking yields, L2 adoption (Starknet, Ondo), and AI on-chain activity outpacing Bitcoin narrative.",
-        "horizon": "60–120 days",
+        "thesis": "US equities (SPY, QQQ) correct 8–12% into June 2026 as Burry's 1999 narrative gains traction, Fed pauses cuts, and credit stress (hantavirus-adjacent tail risk, geopolitical escalation) ripples through macro.",
+        "horizon": "4–8 weeks",
         "supporting_signals": [
-          "Starknet (STRK) and Ondo (RWA) are trending; both live on Ethereum ecosystem and signal institutional capital moving to Ethereum for real-world asset tokenization and scalability.",
-          "Anthropic Mythos and Canvas breach fears are driving institutions to on-chain settlement and non-custodial crypto; Ethereum's smart contract richness outperforms Bitcoin's store-of-value thesis.",
-          "Chinese 36Kr reports accelerating AI infrastructure funding; Ethereum is the leading EVM for AI agent contracts and DeFi; this creates upside versus Bitcoin's passive reserve status."
+          "CNBC: Michael Burry explicit 1999-2000 bubble comparison; payrolls beat paradox (strong labor but sticky inflation = no cuts)",
+          "BBC: US/Iran 'reckless military' escalation, Russia/Ukraine ceasefire fragile, hantavirus cruise outbreak (tail risk/sentiment damper)",
+          "Burry: 'Stocks not moving on jobs or sentiment'—implies technical reversal risk; sentiment extremes"
         ],
-        "counter_view": "Bitcoin narrative strengthens if geopolitical turmoil persists (Iran war, trade wars); BTC outperforms as pure hedge. Ethereum's scaling has not yet translated to material on-chain volume or fee growth; Solana and TON may cannibalize L2 adoption.",
-        "expression": "Long ETH/BTC ratio (via perpetual or calendar spreads); or long ETH spot + short BTC spot (synthetic pair trade). Minimize directional BTC risk by maintaining 1:1 hedge ratio."
+        "counter_view": "Earnings season remains solid; Fed will eventually cut if recession signals emerge; equity vol still contained; retail/institutional bid supports mega-cap tech; recession narrative is priced in.",
+        "expression": "Short SPY/QQQ via puts (6–8 week expiry, strikes 5–8% OTM); or long VIX calls; or tactical short QQQ with long QQQ dividend ETF hedge; or rebalance to DXY/gold (long USD/gold, short equities)"
       },
       {
-        "thesis": "Short consumer discretionary (XLY) and long consumer staples (XLP) into June 2026, reflecting deteriorating consumer sentiment (record low in May) and potential for delayed recession as geopolitical shocks ripple through energy and supply chains.",
-        "horizon": "45–90 days",
+        "thesis": "Stablecoin regulatory clarity (SEC + OCC) accelerates deposits into crypto banking (Kraken OCC, Paypal, Meta stablecoin push) through 2026, driving USDC/USDT spot trading volume and yield competition to 6–8% on deposit products by Q4 2026.",
+        "horizon": "6–9 months",
         "supporting_signals": [
-          "CNBC reports consumer sentiment fell to 'fresh record low' in May due to surging gas prices from Iran war; this is a real, measurable demand destruction signal for discretionary spending.",
-          "U.S. jobs beat today masks CNBC's 'red flags for the economy'; if layoffs accelerate in June-July (classic recession lag), discretionary weakness persists even as wage growth slows.",
-          "Russia-Ukraine ceasefire breach (BBC report) and Iran-U.S. escalation (U.S. struck tankers) suggest geopolitical volatility will persist; energy prices likely to remain elevated, further pressuring consumer."
+          "CoinDesk: Stablecoins have their 'permission slip'; Kraken OCC charter + SEC new onchain rules imminent",
+          "CoinDesk: Meta stablecoin questions from US Senator (regulatory engagement, not blockage)",
+          "36Kr: Chinese stablecoin/AI-agent infrastructure race accelerating; offshore capital will seek USDC/USDT yield as volatility instruments mature"
         ],
-        "counter_view": "Jobs beat suggests labor market resilience; consumers have high savings rates and credit quality. If Iran ceasefire holds and gas prices fall, sentiment recovers quickly and discretionary rebounds. XLY may outperform if Fed cuts rates (lower borrowing costs).",
-        "expression": "Short XLY calls or long XLY puts (30-delta, 60 DTE); long XLP calls or spot accumulation; or trade the XLY/XLP ratio short via call spreads."
+        "counter_view": "Regulatory crackdown on stablecoins (CBDCs cannibalize demand); banking charter approval slow/denied; USDC/USDT yield compression from competition; traditional finance interest rates stay elevated, crowding out crypto yields.",
+        "expression": "Long USDC/USDT spot on Aave/Compound (earn 5–7% deposit yield); or synthetic: long crypto banking stocks (Kraken parent, if public) + long BTC/ETH (regulatory tailwind + adoption); or stablecoin ETF if one launches"
       }
-    ],
-    "FLAG_CHINESE_SOURCES": {
-      "note": "36Kr surfaces THREE stories ahead of English media attention:",
-      "story_1": {
-        "title": "eVTOL/eCTOL capex surge: Weixinhaang (维新宇航) completes tens of millions seed+ funding for 7-ton eVTOL first flight in July 2026",
-        "english_media_lag": "Zero English news coverage; 36Kr exclusively reported. Signals: Chinese low-altitude mobility capex is accelerating (memory, compute, avionics demand upstream).",
-        "relevance": "Confirms chip/memory capex thesis for DRAM/NVDA; Chinese AI infrastructure buildout includes autonomous flight systems."
-      },
-      "story_2": {
-        "title": "Plaud AI recorder valuation jumped to $2B (from $1B mid-2025) with Tencent backing; hardware collaboration with Tencent Meeting",
-        "english_media_lag": "Zero English coverage; 36Kr exclusive. Signals: AI hardware (recorder + meeting integration) is a $2B+ category in China; Tencent is diversifying beyond software into devices.",
-        "relevance": "Bullish for Ondo (RWA/AI infrastructure), bearish for pure software multiples; suggests hardware-software convergence in China AI stack."
-      },
-      "story_3": {
-        "title": "Solid-state battery (纯锂新能源) completes Pre-A+ funding for mass production; Aizhuang State-owned Capital backing signals policy push for EV battery innovation",
-        "english_media_lag": "Zero English coverage; 36Kr exclusive. Signals: China's EV battery supply chain is consolidating; state capital is backing solid-state commercialization ahead of 2027-28 launch cycles.",
-        "relevance": "Directionally bullish for EV sentiment and memory capex (BMS, thermal management compute); could support DRAM/memory thesis if battery management systems add AI acceleration."
-      }
-    }
+    ]
   }
 }
