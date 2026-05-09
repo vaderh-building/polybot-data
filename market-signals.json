@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2026-05-09T14:15:41.371147+00:00",
+  "generated_at_utc": "2026-05-09T21:37:09.996946+00:00",
   "live_signals": {
     "english_news": [
-      {
-        "source": "CNBC Top News",
-        "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
-        "summary": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
-        "link": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
-        "published": "Sat, 09 May 2026 12:00:01 GMT"
-      },
       {
         "source": "CNBC Top News",
         "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'",
         "summary": "While median car payments have jumped from $390 to $525 since 2019, data provided by Capital One suggests stability in vehicle cost compared to income.",
         "link": "https://www.cnbc.com/2026/05/09/capital-one-auto-forever-loans-used-cars.html",
         "published": "Sat, 09 May 2026 12:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+        "summary": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
+        "link": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "published": "Sat, 09 May 2026 16:41:22 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -32,35 +32,42 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
-        "summary": "Thanks to the Iran war, big issues for U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit.",
-        "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
-        "published": "Fri, 08 May 2026 18:44:26 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "U.S. sanctions companies and individuals in the Middle East and China for helping Iran",
-        "summary": "The moves target 11 entities and three individuals based in Iran, China, Belarus and the United Arab Emirates.",
-        "link": "https://www.cnbc.com/2026/05/09/us-sanctions-entities-in-the-middle-east-and-china-for-helping-iran.html",
-        "published": "Sat, 09 May 2026 10:10:24 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Greg Abel knows Berkshire cold, but some miss the Buffett magic",
-        "summary": "Greg Abel is getting decent, if not spectacular, reviews for leading his first annual shareholders meeting as CEO.",
-        "link": "https://www.cnbc.com/2026/05/09/greg-abel-knows-berkshire-cold-but-some-miss-the-buffett-magic.html",
-        "published": "Sat, 09 May 2026 12:24:26 GMT"
+        "title": "How to take control of the AI data center boom and built it into your own home in the future",
+        "summary": "As public support for large-scale data center buildouts declines across the U.S., a new type designed to operate inside individual homes is coming.",
+        "link": "https://www.cnbc.com/2026/05/09/ai-data-center-construction-public-opposition.html",
+        "published": "Sat, 09 May 2026 14:05:11 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "MV Hondius hantavirus outbreak: A luxury expedition cruise boom and new world of remote travel risks",
         "summary": "Remote expedition cruises to destinations like Antarctica and the Arctic are booming, but the deadly hantavirus aboard MV Hondius is a reminder of unique risks.",
         "link": "https://www.cnbc.com/2026/05/09/hantavirus-cruise-ship-mv-hondius-travel-health-risks.html",
-        "published": "Sat, 09 May 2026 13:36:59 GMT"
+        "published": "Sat, 09 May 2026 19:52:27 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "There's little chance of a hantavirus global outbreak. What the latest odds say",
+        "summary": "Prediction markets like Kalshi show slim chance that the hantavirus outbreak will be of international concern",
+        "link": "https://www.cnbc.com/2026/05/09/hantavirus-outbreak-little-chance-says-kalshi.html",
+        "published": "Sat, 09 May 2026 16:41:15 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+        "summary": "Thanks to the Iran war, big issues for U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit.",
+        "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+        "published": "Fri, 08 May 2026 18:44:26 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Putin denounces Nato at scaled back Victory Day parade",
+        "title": "Lebanon says Israeli strikes killed 39",
+        "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+        "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 09 May 2026 21:23:14 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Putin denounces Nato at scaled-back Victory Day parade",
         "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
         "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
         "published": "Sat, 09 May 2026 12:18:58 GMT"
@@ -74,108 +81,101 @@
       },
       {
         "source": "BBC World",
-        "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
-        "summary": "Some on the Spanish island worry the imminent arrival of the MV Hondius could pose a health risk.",
-        "link": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 09 May 2026 00:15:58 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
-        "summary": "The US has published transcripts, video clips and audio recordings about unidentified flying objects.",
-        "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 22:04:55 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Hungary's new PM sworn in during 'regime change' party",
+        "title": "I will serve - not rule over Hungary, says new PM",
         "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
         "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 09 May 2026 13:58:01 GMT"
+        "published": "Sat, 09 May 2026 15:12:04 GMT"
       },
       {
         "source": "BBC World",
-        "title": "International cyber attack disrupts swathe of universities and schools",
-        "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
-        "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 09 May 2026 01:17:55 GMT"
+        "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
+        "summary": "\"This is not another Covid,\" Tedros Ghebreyesus tells islanders before MV Hondius docks on Sunday.",
+        "link": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 09 May 2026 14:31:24 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Greece examines mystery naval drone found in Ionian Sea",
-        "summary": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
-        "link": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 17:53:25 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Australian by-election a litmus test for right-wing One Nation Party",
-        "summary": "Victory for the populist party in Farrer, New South Wales, would see One Nation's first MP elected to Australia's national parliament.",
+        "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+        "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
         "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 09 May 2026 09:33:27 GMT"
+        "published": "Sat, 09 May 2026 14:36:21 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Iran demands guarantees for World Cup participation",
+        "summary": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
+        "link": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 09 May 2026 18:44:01 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Greece conducts controlled blast of mystery naval drone explosives",
+        "summary": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
+        "link": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 09 May 2026 18:00:46 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto wallets are being rebuilt for AI agents, Trust Wallet and Mesh executives say at Consensus Miami",
+        "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
-        "published": "Sat, 09 May 2026 14:00:00 +0000"
+        "link": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns",
+        "published": "Sat, 09 May 2026 17:28:08 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "BlackRock deepens tokenization push with new onchain fund offerings",
+        "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
-        "published": "Sat, 09 May 2026 13:57:07 +0000"
+        "link": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says",
+        "published": "Sat, 09 May 2026 17:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "LayerZero says it ‘made a mistake’ in $292 Million Kelp exploit",
+        "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
-        "published": "Sat, 09 May 2026 13:53:07 +0000"
+        "link": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
+        "published": "Sat, 09 May 2026 16:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
+        "title": "Crypto industry cheers Senate Clarity Act markup date as market structure push resumes",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
-        "published": "Sat, 09 May 2026 04:16:36 +0000"
+        "link": "https://www.coindesk.com/policy/2026/05/09/crypto-industry-cheers-senate-clarity-act-markup-date-as-market-structure-push-resumes",
+        "published": "Sat, 09 May 2026 15:56:49 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Senate Banking Committee plans to hold key market structure hearing on Thursday",
+        "title": "Emerging-market users are treating crypto exchanges like banking apps, Binance says",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/05/08/senate-banking-committee-plans-to-hold-key-market-structure-hearing-on-thursday",
-        "published": "Fri, 08 May 2026 23:20:00 +0000"
+        "link": "https://www.coindesk.com/business/2026/05/09/emerging-market-users-are-treating-crypto-exchanges-like-banking-apps-binance-says",
+        "published": "Sat, 09 May 2026 15:41:38 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
+        "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
-        "published": "Fri, 08 May 2026 20:59:25 +0000"
+        "link": "https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall",
+        "published": "Sat, 09 May 2026 15:28:09 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon",
+        "title": "CME is set to let traders bet on bitcoin volatility, not just price",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
-        "published": "Fri, 08 May 2026 19:12:29 +0000"
+        "link": "https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme",
+        "published": "Sat, 09 May 2026 15:14:52 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "SEC chair Atkins signals new rules for onchain markets, AI-driven finance",
+        "title": "How DeFi is changing the financial landscape for Latin Americans",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/05/08/sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance",
-        "published": "Fri, 08 May 2026 18:32:23 +0000"
+        "link": "https://www.coindesk.com/opinion/2026/05/09/how-defi-is-changing-the-financial-landscape-for-latin-americans",
+        "published": "Sat, 09 May 2026 14:30:00 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Court lets Arbitrum DAO to transfer $71M in ETH tied to North Korea hack to Aave",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Court lets Arbitrum DAO to transfer $71M in ETH tied to North Korea hack to Aave\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1hc3NldC10b2tlbml6YXRpb24tYS1iZWdpbm5lcnMtZ3VpZGUtdG8tY29udmVydGluZy1yZWFsLWFzc2V0cy1pbnRvLWRpZ2l0YWwtYXNzZXRzNC5qcGc=.jpg\" /></p><p>A Manhattan judge modified a restraining notice to let Arbitrum DAO ",
-        "link": "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 09 May 2026 11:12:08 +0000"
+        "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The CLARITY Act will help reshore the crypto industry in the US — Attorney\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS11cy1jcnlwdG8tYmlsbHMtY29tcGFyZWQtc3RhYmxlLWFjdC12cy1nZW5pdXMtYWN0LTIuanBn.jpg\" /></p><p>The \"biggest market\" in crypto is conducting the vast majority of its trading volume outside of US-based exchanges, ac",
+        "link": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 09 May 2026 19:00:05 +0000"
       }
     ],
     "chinese_news": [
@@ -210,7 +210,7 @@
       {
         "source": "36氪 36Kr",
         "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
-        "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，<strong>低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投，</strong>资金将主要用于加速公司首款主力机型 Vector 5的研发迭代、首飞测试与适航取证进程。</p>\n  <p>维新宇航成立于2023年，是36氪长期关注的企业，其专注于大载客量、大载重eVTOL/eCTOL产品的研发及制造。<strong>加上6个月前连续完成的种子轮、天使轮，目前维新宇航已完成三轮融资，累计资金交割总额超亿元人民币。</strong></p>\n  <p>现阶段，维新��航的<strong>主力机型Vector 5为一款7座3吨级纯电复合翼eVTOL</strong>，该机型专注于应急救援和医疗急救等民生刚需场景，最大起飞重量为3180kg、最大载荷为680kg，最大航程300km、最高巡航速度为 250km/h，全尺寸样机已于去年6月正式下线。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/",
+        "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，<strong>低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投，</strong>资金将主要用于加速公司首款主力机型 Vector 5的研发迭代、首飞测试与适航取证进程。</p>\n  <p>维新宇航成立于2023年，是36氪长期关注的企业，其专注于大载客量、大载重eVTOL/eCTOL产品的研发及制造。<strong>加上6个月前连续完成的种子轮、天使轮，目前维新宇航已完成三轮融资，累计资金交割总额超亿元人民币。</strong></p>\n  <p>现阶段，维新宇航的<strong>主力机型Vector 5为一款7座3吨级纯电复合翼eVTOL</strong>，该机型专注于应急救援和医疗急救等民生刚需场景，最大起飞重量为3180kg、最大载荷为680kg，最大航程300km、最高巡航速度为 250km/h，全尺寸样机已于去年6月正式下线。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/h",
         "link": "https://36kr.com/p/3800495686163721?f=rss",
         "published": "2026-05-08 18:25:58  +0800"
       },
@@ -240,91 +240,61 @@
       {
         "source": "Hacker News",
         "title": "Google broke reCAPTCHA for de-googled Android users",
-        "summary": "score: 1208, comments: 435",
+        "summary": "score: 1409, comments: 505",
         "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-        "score": 1208
-      },
-      {
-        "source": "Hacker News",
-        "title": "David Attenborough's 100th Birthday",
-        "summary": "score: 729, comments: 143",
-        "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-        "score": 729
-      },
-      {
-        "source": "Hacker News",
-        "title": "A recent experience with ChatGPT 5.5 Pro",
-        "summary": "score: 440, comments: 294",
-        "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-        "score": 440
-      },
-      {
-        "source": "Hacker News",
-        "title": "OpenAI’s WebRTC problem",
-        "summary": "score: 375, comments: 96",
-        "link": "https://moq.dev/blog/webrtc-is-the-problem/",
-        "score": 375
-      },
-      {
-        "source": "Hacker News",
-        "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-        "summary": "score: 290, comments: 76",
-        "link": "https://www.wiisfi.com/",
-        "score": 290
-      },
-      {
-        "source": "Hacker News",
-        "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-        "summary": "score: 243, comments: 143",
-        "link": "https://twitter.com/trq212/status/2052809885763747935",
-        "score": 243
-      },
-      {
-        "source": "Hacker News",
-        "title": "Mythical Man Month",
-        "summary": "score: 225, comments: 145",
-        "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
-        "score": 225
+        "score": 1409
       },
       {
         "source": "Hacker News",
         "title": "Internet Archive Switzerland",
-        "summary": "score: 127, comments: 16",
-        "link": "https://internetarchive.ch/",
-        "score": 127
+        "summary": "score: 468, comments: 69",
+        "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+        "score": 468
+      },
+      {
+        "source": "Hacker News",
+        "title": "LLMs corrupt your documents when you delegate",
+        "summary": "score: 297, comments: 117",
+        "link": "https://arxiv.org/abs/2604.15597",
+        "score": 297
+      },
+      {
+        "source": "Hacker News",
+        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "summary": "score: 214, comments: 231",
+        "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
+        "score": 214
+      },
+      {
+        "source": "Hacker News",
+        "title": "The hypocrisy of cyberlibertarianism",
+        "summary": "score: 209, comments: 165",
+        "link": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+        "score": 209
+      },
+      {
+        "source": "Hacker News",
+        "title": "I’ve banned query strings",
+        "summary": "score: 166, comments: 75",
+        "link": "https://chrismorgan.info/no-query-strings",
+        "score": 166
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta's Embrace of A.I. Is Making Its Employees Miserable",
+        "summary": "score: 132, comments: 84",
+        "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+        "score": 132
+      },
+      {
+        "source": "Hacker News",
+        "title": "Distributing Mac software is increasing my cortisol levels",
+        "summary": "score: 129, comments: 69",
+        "link": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+        "score": 129
       }
     ],
     "crypto_trending": [
-      {
-        "source": "CoinGecko Trending",
-        "title": "aura (AURA)",
-        "summary": "market cap rank: 823",
-        "link": "https://www.coingecko.com/en/coins/aura-on-sol"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Billions Network (BILL)",
-        "summary": "market cap rank: 167",
-        "link": "https://www.coingecko.com/en/coins/billions-network"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 88",
-        "link": "https://www.coingecko.com/en/coins/venice-token"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
-      },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
@@ -333,139 +303,167 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Internet Computer (ICP)",
-        "summary": "market cap rank: 47",
-        "link": "https://www.coingecko.com/en/coins/internet-computer"
+        "title": "Venice Token (VVV)",
+        "summary": "market cap rank: 86",
+        "link": "https://www.coingecko.com/en/coins/venice-token"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "aura (AURA)",
+        "summary": "market cap rank: 653",
+        "link": "https://www.coingecko.com/en/coins/aura-on-sol"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Billions Network (BILL)",
+        "summary": "market cap rank: 156",
+        "link": "https://www.coingecko.com/en/coins/billions-network"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bio Protocol (BIO)",
+        "summary": "market cap rank: 258",
+        "link": "https://www.coingecko.com/en/coins/bio-protocol"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "wojak (WOJAK)",
+        "summary": "market cap rank: 662",
+        "link": "https://www.coingecko.com/en/coins/wojak-5"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ondo (ONDO)",
+        "summary": "market cap rank: 45",
+        "link": "https://www.coingecko.com/en/coins/ondo"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will the CLARITY Act pass the Senate Banking Committee by June 30, 2026?",
+        "market_title": "Will the CLARITY Act pass the Senate Banking Committee by end of May 2026?",
         "venue": "Polymarket",
-        "why_now": "CLARITY Act markup scheduled for May 14, 2026—critical near-term catalyst with crypto industry heavily lobbying for passage.",
-        "signal_source": "CNBC, Cointelegraph (May 5, 2026) — markup vote imminent; crypto exchanges actively shaping final language."
+        "why_now": "Senate Banking Committee markup scheduled for May 14, 2026 — crypto industry's top legislative priority with bill determining digital asset oversight now imminent.",
+        "signal_source": "CNBC Top News (May 5, 2026): 'Major crypto bill slated for May 14 Senate Banking Committee vote'"
       },
       {
-        "market_title": "Will Bitcoin close above $85,000 by end of Q2 2026 (June 30)?",
-        "venue": "Polymarket",
-        "why_now": "BTC holding above $80k with 6 consecutive weeks of spot ETF inflows (first in 9 months); Fed chair transition uncertainty and Iran geopolitical premium both supportive.",
-        "signal_source": "Cointelegraph (spot Bitcoin ETFs, May 5); CNBC (oil/energy supply shock from Iran blockade); macro uncertainty around new Fed leadership."
-      },
-      {
-        "market_title": "Will Ethereum outperform Bitcoin (ETH/BTC ratio) by 15%+ by September 30, 2026?",
-        "venue": "Manifold",
-        "why_now": "BlackRock tokenization push and SEC Atkins signaling new onchain finance rules—institutional Ethereum demand inflection vs. BTC macro hedge positioning.",
-        "signal_source": "CoinDesk (BlackRock fund offerings, May 5); SEC chair market structure hearing (May 8, 2026); AI agent wallet rebuild trend favoring ETH L2s."
-      },
-      {
-        "market_title": "Will Nvidia's equity bets portfolio exceed $50 billion by end of 2026?",
+        "market_title": "Will Bitcoin remain above $[current support level] if Iran-US tensions escalate further by June 30, 2026?",
         "venue": "Kalshi",
-        "why_now": "Nvidia disclosed $40B+ deployed in 2026 YTD with aggressive AI infrastructure investing; syndication capacity and deal velocity suggest threshold breach plausible.",
-        "signal_source": "CNBC (May 5)—Nvidia investor relations; follow quarterly 10-Q filings through Q3 2026."
+        "why_now": "Iran's Strait of Hormuz blockade is destroying ~1B barrels of oil supply, reshaping global energy markets and geopolitical risk premium on commodities and safe-haven assets.",
+        "signal_source": "CNBC Top News: 'The Iran war will change global energy markets in these important ways' + BBC World: 'Iran accuses US of reckless military adventure'"
       },
       {
-        "market_title": "Will the Trump-Xi summit occur before September 1, 2026 without tariff deal finalization?",
+        "market_title": "Will Nvidia's total equity investments exceed $50 billion by end of 2026?",
+        "venue": "Polymarket",
+        "why_now": "Nvidia already disclosed $40B+ in equity bets this year across AI infrastructure stack while simultaneously signing commercial deals with portfolio companies — structural conflict-of-interest narrative now active.",
+        "signal_source": "CNBC Top News: 'Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year'"
+      },
+      {
+        "market_title": "Will CME bitcoin volatility derivatives (BVOL) launch by June 30, 2026?",
         "venue": "Manifold",
-        "why_now": "Iran geopolitical crisis delaying rare earth and supply chain negotiations; summit timing is flex point with immediate market implications for tech/commodity equities.",
-        "signal_source": "CNBC (May 5)—Trump-Xi tariff delay reporting; monitor White House/State Department press calendars through summer 2026."
+        "why_now": "CME officially set to launch BTC volatility futures (not just price contracts), signaling institutional demand for tail hedges amid elevated geopolitical and macro uncertainty.",
+        "signal_source": "CoinDesk: 'CME is set to let traders bet on bitcoin volatility, not just price'"
+      },
+      {
+        "market_title": "Will hantavirus from MV Hondius outbreak spread beyond Tenerife by July 31, 2026?",
+        "venue": "Kalshi",
+        "why_now": "Cruise ship docking Sunday in Tenerife amid remote expedition travel boom; prediction markets already pricing sub-1% probability of international spread, creating asymmetric tail risk.",
+        "signal_source": "CNBC Top News: 'There's little chance of a hantavirus global outbreak. What the latest odds say' + BBC World: 'WHO chief reassures Tenerife residents'"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will total US vehicle loan outstanding exceed $1.5 trillion by December 31, 2026?",
+        "question": "Will DeepSeek's Series funding round close at or above 50 billion RMB (~$7B USD equivalent) by December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Federal Reserve Z.1 Financial Accounts of the United States (quarterly release); Consumer Financial Protection Bureau auto lending reports.",
-        "why_underpriced": "Capital One data shows payment-to-income ratio stable despite median payments rising $135 (2019–2026); suggests credit expansion secular uptrend. Market underprices auto credit resilience in potential recession scenario.",
-        "trigger_signal": "CNBC (May 5) auto lending stability story; median car payment jump $390→$525 signals strong demand and refinance activity."
+        "resolution_source": "DeepSeek official announcement or SEC filings if US listing; 36Kr/Caixin reporting on final terms",
+        "why_underpriced": "Chinese tech media (36氪) reported DeepSeek fundraising up to 50B target; Western markets haven't priced the valuation implications for OpenAI/Anthropic competitive dynamics; AI funding rounds in China move fast and surprise upside.",
+        "trigger_signal": "36氪: 'DeepSeek拟募资最高500亿' (DeepSeek targeting up to 50B RMB fundraise) — signals aggressive capital raise amid US-China AI rivalry"
       },
       {
-        "question": "Will SEC formally propose rules for AI-driven onchain finance by August 31, 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "SEC Federal Register (proposed rule notices); SEC chair press releases and congressional testimony transcripts.",
-        "why_underpriced": "SEC Chair Atkins signaling rulemaking intent, but formal proposal pipeline slow-moving. Market has not priced binary risk of accelerated timeline vs. regulatory delay.",
-        "trigger_signal": "CoinDesk (May 5)—SEC Atkins signals new rules for onchain markets and AI finance; Senate Banking Committee structure hearing May 8."
+        "question": "Will Trump-Xi summit occur by September 30, 2026, AND will rare earth supply chain be primary agenda item (not secondary to Iran)?",
+        "deadline": "2026-09-30",
+        "resolution_source": "White House official readout + Reuters/Bloomberg reporting on summit agenda priorities",
+        "why_underpriced": "CNBC reports Iran focus may delay progress on tariffs and rare earths at Trump-Xi summit — creates hedging opportunity: if Iran/geopolitical crisis overshadows trade, rare earth supply chain gets deprioritized, benefiting Chinese rare earth producers.",
+        "trigger_signal": "CNBC: 'Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths' — signals bifurcation risk: geopolitical tail risk pushes commodities/defense up, trade normalization down"
       },
       {
-        "question": "Will Iran's oil blockade of Strait of Hormuz reduce global crude supply by >2 million barrels/day for 30+ consecutive days in 2026?",
+        "question": "Will Nvidia's portfolio company commercial deal revenue (disclosed or estimated) exceed 15% of subsidiary AI revenue by Q4 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "EIA Weekly Petroleum Status Report; IEA Oil Market Report; Platts Crude Flow Tracker.",
-        "why_underpriced": "CNBC reports \"loss of nearly a billion barrels with shortage growing worse every day\"—suggests escalating disruption path. Oil markets pricing in partial recovery; asymmetric upside tail ignored.",
-        "trigger_signal": "CNBC (May 5)—Iran Strait blockade; US sanctions on China/Iran energy entities; Trump-Xi summit delays suggest geopolitical tension durability."
+        "resolution_source": "Nvidia earnings call guidance + SEC 10-K disclosures of material investee revenues",
+        "why_underpriced": "Nvidia simultaneously investing $40B+ in AI stack companies AND signing commercial deals with them creates FOI/conflict-of-interest narrative not yet reflected in prediction markets; if deals materialize at scale, it signals self-dealing or brilliant ecosystem lock-in.",
+        "trigger_signal": "CNBC: 'Nvidia is pouring billions at a time into companies across the AI infrastructure stack, while also signing commercial deals with them' — parallel investing + commercial revenue creates opacity around deal quality"
       },
       {
-        "question": "Will Solana (SOL) daily active users exceed 500,000 by December 31, 2026?",
+        "question": "Will Swiss central bank approve a bitcoin reserve holdings proposal by June 30, 2026?",
+        "deadline": "2026-06-30",
+        "resolution_source": "Swiss National Bank (SNB) official statement or Parliament vote record",
+        "why_underpriced": "Swiss CBR bitcoin reserve push recently failed over signature shortfall — resubmission and re-vote likely in 2026; if approved, becomes major institutional legitimacy signal for BTC as strategic reserve; currently priced as niche topic.",
+        "trigger_signal": "CoinDesk: 'Swiss central bank bitcoin reserve push fails over signature shortfall' — signals renewed attempt incoming; successful resubmission would reframe BTC as macro safe-haven comparable to gold"
+      },
+      {
+        "question": "Will Hungary's new PM Péter Magyar enact EU-aligned financial regulation changes that reduce crypto-friendly corporate tax arbitrage by December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Solana blockchain on-chain metrics (Solscan, Blockworks Research, Glassnode); DeFi Llama protocol TVL and active address counts.",
-        "why_underpriced": "AI agent wallet rebuild trend (Trust Wallet, Mesh) targeting Solana; LayerZero exploit recovery narrative shifts MEV/composability preference. Ecosystem scaling velocity underestimated.",
-        "trigger_signal": "CoinDesk (May 5)—Consensus Miami AI agent wallet talks; trending tokens (Solana leading); LayerZero exploit does not dent ecosystem momentum."
-      },
-      {
-        "question": "Will Stripe or PayPal announce a major tokenization partnership with a top-5 US bank by November 30, 2026?",
-        "deadline": "2026-11-30",
-        "resolution_source": "Company press releases (Stripe, PayPal, JPMorgan, BofA, Citigroup, Wells Fargo, Goldman Sachs); SEC filings and regulatory disclosures.",
-        "why_underpriced": "BlackRock onchain fund expansion signals institutional tokenization window opening; fintech payments incumbents have high optionality and scale. Market hasn't priced binary partnership announcement risk.",
-        "trigger_signal": "CoinDesk (May 5)—BlackRock tokenization push; SEC Atkins market structure hearing; legacy finance defensive positioning around onchain rails."
+        "resolution_source": "Hungarian Parliament legislative records + Péter Magyar administration official statements",
+        "why_underpriced": "BBC reports Magyar's Tisza party swept 16 years of Orbán's rule in landslide; Magyar explicitly positioned as pro-EU; Hungary was Orbán's crypto haven. New regime likely reverses crypto-friendly policies, creating regulatory tail risk for Hungary-registered crypto entities.",
+        "trigger_signal": "BBC: 'I will serve - not rule over Hungary, says new PM' + 'Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán' — signals ideological reversal on financial libertarianism"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Energy crisis from Iran Strait blockade drives crude +8–15% by Q3 2026; energy ETFs (XLE, IYE) and oil majors (XOM, CVX) outperform; long crude via USO.",
-        "horizon": "90–120 days",
+        "thesis": "Geopolitical premium (Iran-US tensions, Strait of Hormuz blockade) drives oil & energy security outperformance; BTC reprices upward as inflation hedge and geopolitical insurance amid ~1B barrels lost supply.",
+        "horizon": "30–90 days",
         "supporting_signals": [
-          "CNBC (May 5)—Iran blockade loss of \"nearly a billion barrels\" with \"shortage growing worse every day.\"",
-          "US sanctions on Iran energy supply chain entities (May 5) reduce arbitrage export options.",
-          "Trump-Xi summit delays mean geopolitical risk premium persists rather than dissipates."
+          "CNBC: 'Iran's blockade of the Strait of Hormuz has resulted in the loss of nearly a billion barrels of oil with the shortage growing worse every day'",
+          "BBC: 'Iran accuses US of reckless military adventure' — escalation rhetoric persists",
+          "Historical precedent: 2022 Russia-Ukraine spike drove BTC +15% in similar supply-shock window"
         ],
-        "counter_view": "Iran escalates to direct US conflict, triggering demand destruction and recession hedge (crude crashes); OR US negotiates quick ceasefire, blockade lifts, and supply normalizes faster than priced.",
-        "expression": "Long XLE (Energy Select Sector SPDR) or USO (crude ETF); short long-duration growth tech (QQQ hedge)."
+        "counter_view": "If diplomatic breakthrough emerges (Iran nuclear deal re-engagement) or US-Iran ceasefire holds, geopolitical premium collapses and energy prices tank, pulling BTC lower with it; Fed still tight, limiting liquidity tailwind.",
+        "expression": "Long BTC/USD spot or BTC Jun-2026 perps; hedge with short crude oil (CL) if expecting false alarm de-escalation"
       },
       {
-        "thesis": "Spot Bitcoin ETF inflows sustain through June 2026 (7+ consecutive weeks); BTC reaches $87k–$92k; micro-cap crypto alts (AURA, BILL, VVV, ICP, PENGU) rally +40–80% as capital seeks yield and AI agent narratives.",
-        "horizon": "60–90 days",
+        "thesis": "CLARITY Act Senate Banking Committee passage (May 14) removes regulatory overhang for US-listed crypto infrastructure; ETH and mid-cap crypto mining (MARA, CLSK, MSTR) outperform BTC on regulatory clarity bid.",
+        "horizon": "14–60 days",
         "supporting_signals": [
-          "Cointelegraph (May 5)—6 consecutive weeks of spot BTC ETF inflows, first in 9 months.",
-          "BTC holding >$80k despite $268M May outflow; technical support intact.",
-          "Hacker News AI agent adoption (ChatGPT 5.5, Claude Code, OpenAI WebRTC); CoinDesk AI agent wallet rebuild narrative at Consensus Miami.",
-          "Trending: AURA, BILL, VVV, ICP, PENGU—all AI/infrastructure-adjacent tokens showing retail/smart-money accumulation."
+          "CNBC: 'Major crypto bill slated for May 14 Senate Banking Committee vote'",
+          "CoinDesk: 'Crypto industry cheers Senate Clarity Act markup date as market structure push resumes'",
+          "Cointelegraph: 'The CLARITY Act will help reshore the crypto industry in the US — Attorney'"
         ],
-        "counter_view": "New Fed chair signals hawkish pivot or recession indicators spike; spot ETF flows reverse; BTC consolidates $75k–$80k; alts collapse 30–50%.",
-        "expression": "Long BTC 1–3x leverage (Bybit/Deribit Dec 2026 call spreads); Long micro-cap basket (equal-weight AURA, BILL, VVV 10% allocation to higher-risk portfolio)."
+        "counter_view": "Bill fails to advance past committee (political obstruction, or surprise GOP/Dem defection); or bill passes but is later gutted in full Senate floor negotiation; market treats markup as non-event if amendments weaken digital asset framework.",
+        "expression": "Long ETH/BTC ratio or ETH outright; long MARA, CLSK, MSTR equity on regulatory clarity catalyst; buy call spreads if IV crush risk is priced in"
       },
       {
-        "thesis": "Tokenization and onchain finance infrastructure (BlackRock, SEC Atkins rulemaking, CLARITY Act passage) drives institutional Ethereum and L2 protocol tokens higher; ETH/BTC ratio expands 5–10% by Q3 2026.",
-        "horizon": "120–150 days",
+        "thesis": "Chinese AI competitiveness (DeepSeek 50B RMB raise + Xiaohongshu (Little Red Book) AI acceleration) challenges US AI moat; NVDA's 40B+ equity portfolio risk to Chinese alternatives means NVDA/ Nvidia semi inventory builds face demand uncertainty.",
+        "horizon": "60–120 days",
         "supporting_signals": [
-          "CoinDesk (May 5)—BlackRock deepening tokenization push with new onchain fund offerings.",
-          "SEC Chair Atkins signaling new onchain markets and AI-driven finance rules (May 5).",
-          "CLARITY Act markup May 14, 2026—crypto industry regulatory tailwind.",
-          "Trust Wallet, Mesh AI agent wallet ecosystem targeting Ethereum L2s (Arbitrum, Optimism, Base) for user distribution."
+          "36氪 (Chinese source, pre-English): 'DeepSeek拟募资最高500亿' — signals aggressive capital deployment in Chinese AI stack",
+          "36氪: '小红书四年AI路：FOMO、犹豫，到突然加速' (Xiaohongshu accelerating AI after period of restraint) — indicates Chinese social tech now in arms race mode",
+          "CNBC: 'Nvidia embraces role of AI investor' + conflict-of-interest flagging"
         ],
-        "counter_view": "SEC regulatory crackdown on staking, yield, or token classification delays tokenization adoption 12+ months; Ethereum execution risks on scaling; ETH/BTC contracts instead of rallies.",
-        "expression": "Long ETH 3–6 month calls (Deribit); long Ethereum L2 governance tokens (OP, ARB via Uniswap); long ratio trade ETH/BTC +5% overweight."
+        "counter_view": "DeepSeek fundraise stalls, Chinese AI capex slows due to macro pressure; US export controls remain effective in limiting Chinese semiconductor access; NVDA portfolio bets prove valuable because they lock in early-stage AI winners.",
+        "expression": "Reduce NVDA long or hedge with NVDA puts; pair trade: short NVDA / long SMH (semiconductor ETF) to neutralize sector beta; or short NVDA vs long ASML (if believing China demand destroyed faster than Europe supply contracts)"
       },
       {
-        "thesis": "US auto credit resilience (Capital One stability data, rising median payments absorbed without delinquency) signals consumer balance sheet durability; defensive auto stocks (KMX, F, GM) and auto finance (LMT, GS credit arms) outperform tech during rotation; long financials (XLF) +5–8% vs. QQQ through summer 2026.",
-        "horizon": "90–180 days",
+        "thesis": "Emerging-market crypto adoption (Binance reports emerging-market users treating exchanges like banks) + DeFi disrupting LatAm banking (CoinDesk cite) implies USD-stablecoin (USDC, USDT) yields and DeFi money-market tokens (AAVE, COMP) outperform as remittance/banking rails.",
+        "horizon": "30–180 days",
         "supporting_signals": [
-          "CNBC (May 5)—Capital One auto lending stability despite median payments rising $135 in 7 years.",
-          "Vehicle cost-to-income ratio holding stable, indicating structural pricing power and consumer resilience.",
-          "Rising rates have not triggered credit stress in auto loan cohorts yet; origination velocity remains strong."
+          "CoinDesk: 'Emerging-market users are treating crypto exchanges like banking apps, Binance says'",
+          "CoinDesk: 'How DeFi is changing the financial landscape for Latin Americans'",
+          "36氪 (Chinese EM context): 'AI开始接管年轻人的精神自留地' (AI adoption racing in emerging-market youth cohorts, suggesting parallel fintech migration)"
         ],
-        "counter_view": "Recession shock hits lower-income vehicle buyers; auto loan delinquencies spike; financial contagion spreads to credit card and mortgage cohorts; XLF corrects 10–15%.",
-        "expression": "Long XLF (Financials ETF) vs. short QQQ (2:1 ratio hedge); long KMX (CarMax) as canary for consumer stability; use DXY short to hedge Fed cuts risk."
+        "counter_view": "EM macros deteriorate (currency crisis, inflation spiral); exchanges face regulatory crackdowns in LatAm/Southeast Asia; DeFi smart-contract risk or flash-loan hacks erode user confidence; traditional banking re-captures unbanked via lower-friction onramps.",
+        "expression": "Long USDC staking yield or AAVE collateralized lending tokens; long COMP; use derivatives on emerging-market crypto adoption indices if available (e.g., betting Binance EM trading volume grows >20% QoQ through 2026)"
       },
       {
-        "thesis": "Nvidia's $40B+ equity deployment in AI infrastructure creates sustained demand for semiconductor supply chain; MU (Micron), ASML, QCOM benefit from capacity expansion; semiconductor ETFs (XSD, SMH) outperform broad market +7–12% by Q4 2026.",
-        "horizon": "180+ days",
+        "thesis": "Home data-center boom (CNBC reports emerging home-scale data-center design as public opposition to utility-scale builds rises) + AI compute scarcity = edge compute and distributed GPU rental tokens (IO, Akash, similar) rally as alternative to capex-intensive Nvidia.",
+        "horizon": "60–180 days",
         "supporting_signals": [
-          "CNBC (May 5)—Nvidia deploying $40B+ in equity bets across AI infrastructure stack with commercial deals.",
-          "Hacker News AI adoption velocity (ChatGPT 5.5, Claude Code, OpenAI WebRTC) implies accelerating hardware refresh cycles.",
-          "36Kr (Chinese sources)—DeepSeek fundraising (500B+ CNY rumor) signals Chinese AI capex secular trend; ASML, chip export restrictions create supply scarcity premium."
+          "CNBC: 'How to take control of the AI data center boom and built it into your own home in the future — As public support for large-scale data center buildouts declines across the U.S., a new type designed to operate inside individual homes is coming'",
+          "Hacker News trending: Bun (Rust rewrite) + Google reCAPTCHA breaking for de-googled Android suggests grass-roots developer appetite for decentralized infrastructure",
+          "Crypto trending tokens (BILL, AURA) suggest speculative appetite for infrastructure/utility tokens"
         ],
-        "counter_view": "AI capex cliff if LLM training roi plateaus; chip oversupply from TSMC/Samsung capacity additions; semiconductor cycle peaks in H2 2026; SMH corrects 15–20%.",
-        "expression": "Long SMH (Semiconductor ETF) or MU 6–9 month calls; long ASML calls (supply bottleneck proxy); short QQQ call premium to fund position (call spread)."
+        "counter_view": "Home data centers remain niche due to power/cooling/bandwidth constraints; utility-scale capex continues to dominate (Blackrock, Microsoft, Google push ahead); distributed compute tokens suffer from adoption frictions and mining profitability collapse.",
+        "expression": "If IO or Akash tokens are liquid: long as proxy for distributed GPU rental thesis; or synthetic via long GPU spot market (GPU leasing platforms) / short Nvidia GPU forward contracts; or thematic bet via MU (memory chip demand from home-server builds)"
       }
     ]
   }
