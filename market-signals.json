@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-08T21:53:27.058189+00:00",
+  "generated_at_utc": "2026-05-09T07:03:45.602468+00:00",
   "live_signals": {
     "english_news": [
       {
@@ -25,10 +25,17 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+        "summary": "Thanks to the Iran war, big issues for U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit.",
+        "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+        "published": "Fri, 08 May 2026 18:44:26 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
-        "summary": "Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
+        "summary": "Samsung, Intel and Taiwan Semiconductor are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
         "link": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
-        "published": "Fri, 08 May 2026 21:03:09 GMT"
+        "published": "Fri, 08 May 2026 22:18:30 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -52,20 +59,6 @@
         "published": "Fri, 08 May 2026 18:54:00 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
-        "summary": "The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
-        "link": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
-        "published": "Fri, 08 May 2026 20:01:44 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Iran accuses US of 'reckless military adventure'",
-        "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
-        "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 16:11:06 GMT"
-      },
-      {
         "source": "BBC World",
         "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
         "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
@@ -74,10 +67,38 @@
       },
       {
         "source": "BBC World",
-        "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
-        "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
-        "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 21:02:52 GMT"
+        "title": "Iran accuses US of 'reckless military adventure'",
+        "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+        "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 09 May 2026 06:13:30 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
+        "summary": "Some on the Spanish island worry that the imminent arrival of the MV Hondius could pose a health risk.",
+        "link": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 09 May 2026 00:15:58 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+        "summary": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena.",
+        "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 08 May 2026 22:04:55 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Hungary's new PM to be sworn in during 'regime change' party",
+        "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+        "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 09 May 2026 00:46:16 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "International cyber attack disrupts swathe of universities and schools",
+        "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
+        "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 09 May 2026 01:17:55 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +109,24 @@
       },
       {
         "source": "BBC World",
-        "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
-        "summary": "The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave.",
-        "link": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 11:14:17 GMT"
+        "title": "Australian by-election a litmus test for right-wing One Nation Party",
+        "summary": "Victory for the populist party in Farrer, New South Wales, would see One Nation's first MP elected to Australia's national parliament.",
+        "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 08 May 2026 22:39:56 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "International cyber attack disrupts swathe of universities and schools",
-        "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
-        "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 16:04:01 GMT"
+        "source": "CoinDesk",
+        "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
+        "published": "Sat, 09 May 2026 04:16:36 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Three dead after volcano erupts on Indonesian island",
-        "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
-        "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 11:54:14 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-        "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
-        "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 08 May 2026 08:43:55 GMT"
+        "source": "CoinDesk",
+        "title": "Senate Banking Committee plans to hold key market structure hearing on Thursday",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/05/08/senate-banking-committee-plans-to-hold-key-market-structure-hearing-on-thursday",
+        "published": "Fri, 08 May 2026 23:20:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,32 +171,46 @@
         "published": "Fri, 08 May 2026 14:53:20 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "CoinDesk 20 performance update: NEAR Protocol (NEAR) gains 6.3%, leading index higher",
-        "summary": "",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/05/08/coindesk-20-performance-update-near-protocol-near-gains-6-3-leading-index-higher",
-        "published": "Fri, 08 May 2026 13:23:21 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Stablecoins have their 'permission slip.' Now comes the hard part.",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
-        "published": "Fri, 08 May 2026 13:22:15 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Kraken parent company applies for OCC charter in move toward banking",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent company applies for OCC charter in move toward banking\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWEtZGVjZW50cmFsaXplZC1tb25leS1tYXJrZXQtYW5kLWhvdy1kb2VzLWl0LXdvcmsuanBn.jpg\" /></p><p>The US banking regulator has already approved similar charter applications for Coinbase, Ripple Labs, BitGo, Circle,",
-        "link": "https://cointelegraph.com/news/kraken-payward-occ-charter-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 08 May 2026 20:47:00 +0000"
+        "title": "US CLARITY Act sees ‘big step forward’ as markup set for May 14",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" US CLARITY Act sees ‘big step forward’ as markup set for May 14\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG8tY29uZ3Jlc3MtYW5kLXRoZS1jb21taXNzaW9uLXdoYXRzLW5leHQtZm9yLXRoZS13aWxkLXdlc3QuanBn.jpg\" /></p><p>Coinbase chief policy officer Faryar Shirzad said the date is a “big step forward” and is essential for supporti",
+        "link": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 09 May 2026 02:01:55 +0000"
       }
     ],
     "chinese_news": [
       {
         "source": "36氪 36Kr",
+        "title": "AI开始接管年轻人的「精神自留地」",
+        "summary": "<h4><strong>撰文｜锅包柚</strong></h4>\n  <h4><strong>封面来源｜Unsplash（AI辅助扩图）</strong></h4>\n  <p>五一假期已经结束，但打工人的“节后综合症”并未消退。</p>\n  <p>面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。</p>\n  <p>屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，<strong>伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260509/v2_4beccf512b3a412ba3adb932ce11356d@1215450627_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">“老板被我f",
+        "link": "https://36kr.com/p/3801461350702855?f=rss",
+        "published": "2026-05-09 10:54:40  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
+        "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。</p>\n  <p>北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。</p>\n  <p>电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及低空飞行器的发展，仪器布局与电气系统互联（电缆网）敷设设计及配套电气系统互联组件产品正迎来新的需求增长。</p>\n  <p>据了解，<strong>北辰航天早期即以体制内外协方身份参与航天领域电气系统互联系统设计，深度参与多项运载型号的三维设计工作，技术成熟度行业领先。</strong></p>\n  <p>经过十余年积累，北辰航天已具备面向航空航天企业的全流程一站式服务能力，从设备构型布局、电气系",
+        "link": "https://36kr.com/p/3801398177324550?f=rss",
+        "published": "2026-05-09 09:43:25  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下宁波智能技术研究院、清水湾二期基金及奇绩创坛的种子轮及天使轮投资。</p>\n  <p>星识科技是一家专注智能影像技术研发与硬件制造的企业，以远景观测场景为切点，曾推出融合AI功能的Vizta智能望远镜，已在Kickstarter和Indiegogo众筹达数百万元。</p>\n  <p>望远镜作为长期被传统光学巨头主导的市场，正在被新生代创业者以消费级的智能化产品重新撬动。星识科技巧妙地通过结构设计与AI算法创新，将手机变为智能望远镜，不仅低成本、高效地实现了远景观测和拍摄的一体性，还通过AI功能进一步降低了产品操作门槛、丰富了产品玩法和趣味性。这种软硬件融合的创新解决",
+        "link": "https://36kr.com/p/3797202414820359?f=rss",
+        "published": "2026-05-09 09:30:00  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
+        "summary": "<p><strong>整理</strong>｜Kris&nbsp;</p>\n  <h2><strong>今日热点导览</strong></h2>\n  <p>香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局</p>\n  <p>油价上调，加满一箱92号汽油将多花12.5元</p>\n  <p>钱江摩托否认“围剿张雪机车”</p>\n  <p>30条中日航线4月取消全部航班</p>\n  <p>SpaceX冲刺上市，资本开支飙升数百亿</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>DeepSeek拟募资最高500亿元</strong></p>\n  <p>据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。(财联社)</p>\n  <p><strong>“全国销冠”任晓敏被刑拘，泰康人寿回应</strong></p>\n  <p>5月7日，泰康人寿方面对记者表示，近日，泰康人寿青岛分公司个人代理人任某某被青岛市公安机关立案侦查，引发社会广泛关注。对此，公司高度重视，第一时间组织专项工作组派驻青岛，全力配",
+        "link": "https://36kr.com/p/3801348046151428?f=rss",
+        "published": "2026-05-09 08:57:59  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
         "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
-        "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，<strong>低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投，</strong>资金将主要用于加速公司首款主力机型 Vector 5的研发迭代、首飞测试与适航取证进程。</p>\n  <p>维新宇航成立于2023年，是36氪长期关注的企业，其专注于大载客量、大载重eVTOL/eCTOL产品的研发及制造。<strong>加上6个月前连续完成的种子轮、天使轮，目前维新宇航已完成三轮融资，累计资金交割总额超亿元人民币。</strong></p>\n  <p>现阶段，维新宇航的<strong>主力机型Vector 5为一款7座3吨级纯电复合翼eVTOL</strong>，该机型专注于应急救援和医疗急救等民生刚需场景，最大起飞重量为3180kg、最大载荷为680kg，最大航程300km、最高巡航速度为 250km/h，全尺寸样机已于去年6月正式下线。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/h",
+        "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，<strong>低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投，</strong>资金将主要用于加速公司首款主力机型 Vector 5的���发迭代、首飞测试与适航取证进程。</p>\n  <p>维新宇航成立于2023年，是36氪长期关注的企业，其专注于大载客量、大载重eVTOL/eCTOL产品的研发及制造。<strong>加上6个月前连续完成的种子轮、天使轮，目前维新宇航已完成三轮融资，累计资金交割总额超亿元人民币。</strong></p>\n  <p>现阶段，维新��航的<strong>主力机型Vector 5为一款7座3吨级纯电复合翼eVTOL</strong>，该机型专注于应急救援和医疗急救等民生刚需场景，最大起飞重量为3180kg、最大载荷为680kg，最大航程300km、最高巡航速度为 250km/h，全尺寸样机已于去年6月正式下线。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.co",
         "link": "https://36kr.com/p/3800495686163721?f=rss",
         "published": "2026-05-08 18:25:58  +0800"
       },
@@ -206,111 +234,71 @@
         "summary": "<p>文&nbsp;|&nbsp;张冰冰</p>\n  <p>编辑&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，<strong>北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，</strong>资金将用于产品研发、市场拓展及产线落地。</p>\n  <p>「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难题。2023年4月在北京亦庄建成小试线，量产10Ah全固态电芯；2023年5月在河南兰考县国电投新能源产业园启动建设500MWh规模量产线；2024年10月实现50Ah全固态电芯量产。</p>\n  <p><strong>「纯锂新能源」于2025年推出第一代固态电池，全固态产品平均失重率0.023%，</strong>产品通过第三方国家标准实验室安全认证（CNAS）GB/T36276-2018 检测，目前正优先推进储能场景落地，并在低速动力等方向开展验证，为后续进入更广泛动力电池市场积累工程与商业化基础。</p>\n  <",
         "link": "https://36kr.com/p/3800022823951363?f=rss",
         "published": "2026-05-08 10:25:30  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
-        "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。</p>\n  <p>AI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效率不足，内存无法实现统一地址空间共享，整体算力利用率较低。</p>\n  <p>容芯致远创始人石旭毕业于清华大学电子工程系，在芯片设计与AI领域从业多年，接受硬氪采访时，石旭表示，“在实际部署中，典型的AI服务器配置需要多个CPU协同调度少量GPU，且随着规模扩大，CPU数量也需同步增加，系统复杂度与成本显著上升，这正说明传统架构难以适配AI时代的计算需求。”</p>\n  <p><strong>基于此，容芯致远提出了以GPU为核心的AI计算体系——AGC（A",
-        "link": "https://36kr.com/p/3799984046333186?f=rss",
-        "published": "2026-05-08 09:45:14  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
-        "summary": "<p>作者｜黄楠 周鑫雨</p>\n  <p>编辑｜袁斯来 杨轩</p>\n  <p>硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；<strong>目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。</strong></p>\n  <p>有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。</p>\n  <p><strong>一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率接近20%，“2025年营收差不多涨了3倍”。另有知情者透露，2025年Plaud全年收入达到了历年最高，大陆全线产品的出货量符合内部预期。</strong></p>\n  <p>但Plaud出货量谈不上高，<strong>有一位行业人士告诉硬氪，其销量在国内市场或未超过十万台。</strong>显然，Plaud很难复刻过去几年在海外顺风顺水的爆涨。</p>\n  <p>Plaud的崛起，踩中了ChatGPT引爆的AI录音硬件风口。2023年，苹果手机海外市场无法",
-        "link": "https://36kr.com/p/3799129165863937?f=rss",
-        "published": "2026-05-08 09:31:04  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应",
-        "summary": "<h2>今日热点导览</h2>\n  <p>30年前捐赠书画部分去向不明？天津美院回应</p>\n  <p>张雪怒斥门店给用户备注磨叽并补偿车主1万</p>\n  <p>茅台集团总经理王莉已回归</p>\n  <p>港交所计划未来数月推出黄金期货</p>\n  <p>马斯克：xAI作为独立公司将解散并入SpaceX</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>“很久没有这种兴奋感了”，段永平再加仓泡泡玛特</strong></p>\n  <p>5月7日，知名投资人段永平在社交平台发文称，把中国神华全部换成了泡泡玛特。值得注意的是，段永平此前已经多次表达了对泡泡玛特的看好，并直言“很久没有这种兴奋感了”，此次是首次明确已实际建仓泡泡玛特。此前通过卖出看跌期权的方式布局。段永平还表示：“我理解王宁（泡泡玛特创始人）不是因为我的投资，而是因为我曾经是个‘企业家’，我能看懂他有多厉害。他还那么年轻，他还能至少好好干25年以上吧。这个复利是吓人的。”目前，段永平还把社交媒体的头像换成了带有泡泡玛特产品的照片。（第一财经）</p>\n  <p><strong>大连“全李酒店”被指碰瓷",
-        "link": "https://36kr.com/p/3799881836633093?f=rss",
-        "published": "2026-05-08 08:02:19  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
-        "summary": "<p>文｜王毓婵 周鑫雨</p>\n  <p>编辑｜杨轩</p>\n  <p>“看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。&nbsp;</p>\n  <p>中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。&nbsp;</p>\n  <p>愿意为此花钱的内容创作者太多了，太急迫了。众多短剧、内容公司排队等待使用Seedance2.0已经成为2026年AI世界的一个奇观。由此，在AI视频模型外“套一层壳”，使其更简单易上手的AI视频Agent产品，也迎来了增长奇迹。</p>\n  <p>一位业内人士对智能涌现透露，头部公司一个月的算力消耗成本应该在百万元以上。 “一部短剧的算力消耗成本约为3万元，工具平台如果一个月能接100部这样的工程，那么消耗量就能达到300万。这没什么难度，只是时间问题。”</",
-        "link": "https://36kr.com/p/3786528811572481?f=rss",
-        "published": "2026-05-07 19:31:32  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "An Introduction to Meshtastic",
-        "summary": "score: 341, comments: 132",
-        "link": "https://meshtastic.org/docs/introduction/",
-        "score": 341
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "summary": "score: 888, comments: 295",
+        "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+        "score": 888
       },
       {
         "source": "Hacker News",
         "title": "David Attenborough's 100th Birthday",
-        "summary": "score: 300, comments: 51",
+        "summary": "score: 574, comments: 111",
         "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-        "score": 300
+        "score": 574
       },
       {
         "source": "Hacker News",
         "title": "Cartoon Network Flash Games",
-        "summary": "score: 224, comments: 69",
+        "summary": "score: 324, comments: 104",
         "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-        "score": 224
-      },
-      {
-        "source": "Hacker News",
-        "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-        "summary": "score: 171, comments: 70",
-        "link": "https://btxx.org/posts/memory/",
-        "score": 171
-      },
-      {
-        "source": "Hacker News",
-        "title": "Google broke reCAPTCHA for de-googled Android users",
-        "summary": "score: 163, comments: 46",
-        "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-        "score": 163
+        "score": 324
       },
       {
         "source": "Hacker News",
         "title": "AI is breaking two vulnerability cultures",
-        "summary": "score: 140, comments: 61",
+        "summary": "score: 310, comments: 128",
         "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-        "score": 140
+        "score": 310
       },
       {
         "source": "Hacker News",
-        "title": "PC Engine CPU",
-        "summary": "score: 108, comments: 46",
-        "link": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-        "score": 108
+        "title": "OpenAI's WebRTC problem",
+        "summary": "score: 253, comments: 63",
+        "link": "https://moq.dev/blog/webrtc-is-the-problem/",
+        "score": 253
+      },
+      {
+        "source": "Hacker News",
+        "title": "AWS North Virginia data center outage – recovery to take hours",
+        "summary": "score: 199, comments: 131",
+        "link": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+        "score": 199
+      },
+      {
+        "source": "Hacker News",
+        "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+        "summary": "score: 181, comments: 50",
+        "link": "https://www.wiisfi.com/",
+        "score": 181
       },
       {
         "source": "Hacker News",
         "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-        "summary": "score: 58, comments: 31",
+        "summary": "score: 173, comments: 96",
         "link": "https://ze3tar.github.io/post-zcrx.html",
-        "score": 58
+        "score": 173
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Ondo (ONDO)",
-        "summary": "market cap rank: 45",
-        "link": "https://www.coingecko.com/en/coins/ondo"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "wojak (WOJAK)",
-        "summary": "market cap rank: 673",
-        "link": "https://www.coingecko.com/en/coins/wojak-5"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Internet Computer (ICP)",
-        "summary": "market cap rank: 47",
+        "summary": "market cap rank: 46",
         "link": "https://www.coingecko.com/en/coins/internet-computer"
       },
       {
@@ -321,149 +309,164 @@
       },
       {
         "source": "CoinGecko Trending",
+        "title": "wojak (WOJAK)",
+        "summary": "market cap rank: 628",
+        "link": "https://www.coingecko.com/en/coins/wojak-5"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ondo (ONDO)",
+        "summary": "market cap rank: 45",
+        "link": "https://www.coingecko.com/en/coins/ondo"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 89",
+        "summary": "market cap rank: 90",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
+        "title": "Venice Token (VVV)",
+        "summary": "market cap rank: 86",
+        "link": "https://www.coingecko.com/en/coins/venice-token"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Toncoin (TON)",
+        "summary": "market cap rank: 20",
+        "link": "https://www.coingecko.com/en/coins/toncoin"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Federal Reserve cut rates by end of Q3 2026?",
+        "market_title": "Will the Federal Reserve cut interest rates before 2026-12-31?",
         "venue": "Polymarket",
-        "why_now": "May jobs beat + persistent inflation talk signals Fed pausing cuts; Burry's 1999 bubble comparison amplifies recession hedging demand.",
-        "signal_source": "CNBC: U.S. payrolls beat expectations; Fed 'running out of reasons to cut'; Michael Burry bubble warning"
+        "why_now": "Friday jobs report beat expectations but showed red flags; Fed signals rates staying higher for longer, creating high-volatility pricing on rate-cut timing.",
+        "signal_source": "CNBC: 'Federal Reserve is quickly running out of reasons to cut interest rates' + nonfarm payrolls beat 55K consensus; Michael Burry 1999-2000 bubble comparison raises recession hedging demand."
       },
       {
-        "market_title": "Will NVIDIA close 2026 below its 2024 peak?",
+        "market_title": "Will NVIDIA's stock close above $150 on 2026-08-01?",
         "venue": "Polymarket",
-        "why_now": "Wall Street narrative 'changing guard in AI'—Intel/AMD/Micron surging on Apple chip deal and next-gen CPU momentum; NVIDIA underperforming sector rotation.",
-        "signal_source": "CNBC: 'Intel, AMD shares soar while Nvidia lags'; Samsung/Intel/TSMC advanced chip race; Apple chip pivot signal"
+        "why_now": "Intel, AMD, and Micron surged double digits this week on CPU/memory narrative; NVIDIA lagging signals investor rotation out of AI leader into chip ecosystem diversification.",
+        "signal_source": "CNBC: 'Wall Street sees changing of the guard in AI' + 'Intel shares soar on Apple chip deal report' signals chipmaking pivot away from GPU concentration."
       },
       {
-        "market_title": "Will Bitcoin trade above $85,000 by end of Q2 2026?",
+        "market_title": "Will Bitcoin close above $90,000 on 2026-06-30?",
         "venue": "Polymarket",
-        "why_now": "BTC holding above $80k with altcoin surge; SEC Chair Atkins signals new onchain market rules; Kraken/Paypal pursuing banking charters—regulatory tailwinds colliding with macro uncertainty.",
-        "signal_source": "CoinDesk: Bitcoin above $80k, altcoins surge; SEC new onchain rules signal; Kraken OCC charter bid"
+        "why_now": "BTC holding above $80K but ETF outflows hit $268M; crypto regulatory tailwinds (CLARITY Act markup May 14, SEC Atkins signaling new onchain rules) compete with macro headwinds (rate-cut uncertainty).",
+        "signal_source": "CoinDesk: 'Bitcoin stalls as BTC ETF outflows hit $268M' + 'US CLARITY Act sees big step forward' markup May 14; Cointelegraph: 'Crypto exchanges pushed US lawmakers to bar provision on risky tokens'."
       },
       {
-        "market_title": "Will SpaceX conduct IPO before end of 2026?",
+        "market_title": "Will the U.S. unemployment rate exceed 5.0% by 2026-12-31?",
         "venue": "Kalshi",
-        "why_now": "Rocket Lab surged 34% on record launch deal + 'enthusiasm for space stocks skyrocketing ahead of SpaceX IPO'; Musk's xAI dissolution into SpaceX signals consolidation/IPO prep.",
-        "signal_source": "CNBC: Rocket Lab 34% surge on SpaceX IPO anticipation; 36Kr: Elon dissolving xAI into SpaceX"
+        "why_now": "Jobs report beat expectations but Burry warns of bubble-like conditions; persistent inflation concerns and rate-hold signals suggest weakening labor demand ahead.",
+        "signal_source": "CNBC jobs analysis: 'report had several red flags for the economy' despite payroll beat; Burry: 'Stocks are not up or down because of jobs or consumer sentiment… feeling like the last months of the 1999-2000 bubble.'"
       },
       {
-        "market_title": "Will Anthropic Mythos lead to a major (>$1B) cyber incident by Dec 31, 2026?",
-        "venue": "Manifold",
-        "why_now": "Anthropic Mythos triggered cybersecurity 'hysteria' among banks/govs; Canvas academic software breach mid-May shows threat surface live; risk premia rising.",
-        "signal_source": "CNBC: Anthropic Mythos 'reckoning' with new cyber era; BBC: Canvas breach impacts thousands of schools globally"
+        "market_title": "Will Ethereum close above $4,000 on 2026-07-15?",
+        "venue": "Polymarket",
+        "why_now": "SEC Chair Atkins signals new rules for onchain markets and AI-driven finance; altcoins surging alongside Bitcoin suggests ETH derivative/DeFi sentiment may outpace macro headwinds.",
+        "signal_source": "CoinDesk: 'SEC chair Atkins signals new rules for onchain markets, AI-driven finance' + 'Coinbase rebounds as altcoins surge with bitcoin holding above $80,000.'"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the S&P 500 decline >10% between now and June 30, 2026?",
-        "deadline": "2026-06-30",
-        "resolution_source": "Yahoo Finance or FRED (Federal Reserve Economic Data) SPX closing price",
-        "why_underpriced": "Burry's 1999 bubble parallel + Fed rate-cut pause narrative not yet fully priced into equity vol; macro bears are vocal but positioning data lags.",
-        "trigger_signal": "Michael Burry's 1999-2000 bubble warning; jobs beat paradox (strong labor but inflation stickiness)"
-      },
-      {
-        "question": "Will Intel's stock price exceed AMD's for first time since 2020 by September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Yahoo Finance closing prices for Intel (INTC) and AMD (AMD)",
-        "why_underpriced": "Apple chip deal + Samsung/Intel/TSMC advanced manufacturing race narratives are fresh; rotation away from NVIDIA just began; Intel fundamentals haven't caught up in sentiment.",
-        "trigger_signal": "CNBC: 'Changing guard in AI'; Intel/AMD double-digit rallies; Apple pivot to Intel chips"
-      },
-      {
-        "question": "Will Inspire Brands' IPO value exceed $15B by December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "IPO prospectus valuation or first-day trading close (if IPO completes in 2026)",
-        "why_underpriced": "Dunkin'/Arby's/Buffalo Wild Wings portfolio recession-resistant; restaurant IPO appetite unclear; confidential filing is early-stage signal.",
-        "trigger_signal": "CNBC: Inspire Brands confidential IPO filing; portfolio includes 6 major QSR brands with 6-7 figure outlet counts"
-      },
-      {
-        "question": "Will Solana (SOL) trading volume exceed Ethereum (ETH) 24h volume on a single day by August 31, 2026?",
+        "question": "Will Intel's stock outperform Nvidia by at least 10 percentage points between 2026-05-05 and 2026-08-31?",
         "deadline": "2026-08-31",
-        "resolution_source": "CoinMarketCap or CoinGecko 24h trading volume feeds",
-        "why_underpriced": "AI agent ecosystem accelerating on Solana (Exodus launched AI-agent stablecoin); CoinDesk hackathons show developer momentum; SOL is trending while ETH volume concentration risk rises.",
-        "trigger_signal": "CoinDesk: AI agents fueled hackathon frenzy; Exodus AI-agent stablecoin on Solana; SOL in trending crypto list"
+        "resolution_source": "Yahoo Finance or Bloomberg terminal closing prices for INTC vs NVDA; calculate cumulative return differential.",
+        "why_underpriced": "Narrative momentum (Apple chip deal, CPU/memory rotation) is recent and extrapolation risk is high; market may revert to NVIDIA dominance on AI inference scaling by Q3 2026.",
+        "trigger_signal": "CNBC: Intel shares soaring on Apple deal + AMD double-digit surge creates herd rotation, but execution risk on new node economics remains"
       },
       {
-        "question": "Will Kraken's parent company obtain full OCC banking charter by June 30, 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "OCC (Office of the Comptroller of the Currency) official charter grant announcement or Federal Register",
-        "why_underpriced": "Two independent signals (CoinDesk + Cointelegraph) on Kraken OCC charter application; stablecoin permission slip narrative + SEC Atkins onchain rule-making signal runway.",
-        "trigger_signal": "CoinDesk + Cointelegraph: Kraken parent OCC charter application filed; SEC Chair signals new onchain market rules"
+        "question": "Will the CLARITY Act pass the Senate Banking Committee markup and advance to floor vote by 2026-06-30?",
+        "deadline": "2026-06-30",
+        "resolution_source": "Senate Banking Committee official schedule and voting records; U.S. Senate bills tracker (Congress.gov).",
+        "why_underpriced": "Crypto industry is pricing near-certain passage, but bipartisan agreement on AML/CFT definitions has historically stalled; may not advance to floor before recess.",
+        "trigger_signal": "Cointelegraph: 'US CLARITY Act sees big step forward as markup set for May 14' + CoinDesk: 'Crypto exchanges pushed US lawmakers to bar provision on risky tokens' signals last-minute amendments risk."
+      },
+      {
+        "question": "Will SpaceX announce an IPO date or file S-1 by 2026-09-30?",
+        "deadline": "2026-09-30",
+        "resolution_source": "SEC EDGAR filings (S-1 registration); official SpaceX or Musk X/press statements.",
+        "why_underpriced": "Rocket Lab IPO enthusiasm and space stock momentum are live, but SpaceX capital requirements and Musk's control preferences reduce near-term filing probability.",
+        "trigger_signal": "CNBC: 'Enthusiasm for space stocks has skyrocketed ahead of SpaceX's anticipated IPO' + Rocket Lab 34% surge on revenue beat creates FOMO, but SpaceX timeline remains opaque."
+      },
+      {
+        "question": "Will Kraken parent company receive OCC federal charter approval by 2026-12-31?",
+        "deadline": "2026-12-31",
+        "resolution_source": "OCC press releases or Federal Register; Kraken parent company official announcements.",
+        "why_underpriced": "OCC charter is historically hostile to crypto, but application signals regulatory pivot; approval unlikely within 8 months given typical review timelines and political scrutiny.",
+        "trigger_signal": "CoinDesk and Cointelegraph: 'Kraken parent goes for the OCC charter' signals strategic shift, but no other major exchange has succeeded; policy uncertainty around Trump administration crypto stance."
+      },
+      {
+        "question": "Will Inspire Brands' IPO price exceed $25B valuation by first-day close on 2026-11-30 or later?",
+        "deadline": "2026-11-30",
+        "resolution_source": "SEC S-1 filing (when released), first-day closing market cap calculation via Bloomberg or public stock data.",
+        "why_underpriced": "Six major QSR brands (Dunkin', Arby's, Buffalo Wild Wings, Baskin Robbins, Sonic, Jimmy John's) offer scale, but restaurant sector margin compression and labor cost inflation create valuation ceiling.",
+        "trigger_signal": "CNBC: 'Dunkin' owner Inspire Brands confidentially files for IPO' but no price guidance; comparable quick-service IPOs (Restaurant Brands, Chipotle) trade 8-12x EBITDA; inflationary labor market headwind."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Semiconductor equipment and memory (MU, SMH sector) outperform NVDA as CPU+AI inference architectures displace GPU monopoly through 2026.",
-        "horizon": "3–6 months",
+        "thesis": "CPU and memory chip stocks (Intel, AMD, Micron) will outperform GPU/AI accelerator plays over the next 6 months as enterprise shift focus from inference scaling to edge inference and cost optimization.",
+        "horizon": "6 months (2026-05-05 to 2026-11-05)",
         "supporting_signals": [
-          "CNBC: Intel/AMD/Micron surge on 'changing guard in AI' narrative; CPU makers + memory companies powering next-stage AI",
-          "CNBC: Apple chip deal signals Intel pivot; Samsung/Intel/TSMC advanced manufacturing race intensifies",
-          "36Kr: Tsinghua GPU-infra startup (RongXin) raised ~100M$ to 'rewrite computer architecture with GPU as core'—implies existing stack disruption"
+          "CNBC: 'Wall Street sees changing of the guard in AI' as Intel, AMD, Micron surged double digits while NVIDIA lags",
+          "CNBC: 'Intel shares soar on Apple chip deal report… only three companies capable of manufacturing most advanced chips'",
+          "Apple chip deal signals demand shift away from GPU-centric architectures toward CPU/SoC optimization"
         ],
-        "counter_view": "NVDA's software moat (CUDA, ecosystem lock-in) and AI training dominance remain untouchable; inference margin compression may be temporary; new fab capacity won't materialize at scale until 2027+.",
-        "expression": "Long Micron (MU) calls or SMH (semiconductor ETF); short NVDA or hedge NVDA downside with synthetic shorts; or long MU/AMD vs short NVDA pairs trade"
+        "counter_view": "NVIDIA maintains margin leadership and AI training demand (still 80%+ of AI capex); edge inference is a smaller market; Apple deal may be one-off.",
+        "expression": "Long SMH (Semiconductor ETF) or equal-weight long Intel (INTC) + AMD (AMD) + Micron (MU) vs. short NVDA; or long MU/AMD calls expiring 2026-11-30"
       },
       {
-        "thesis": "Bitcoin consolidates 80–85k range into July 2026 as macro (Fed pause + recession fears) offset onchain regulatory tailwinds (OCC banking charters, SEC rules); breakout above 85k only on risk-off reversal or Fed pivot signal.",
-        "horizon": "2–4 months",
+        "thesis": "BTC will consolidate below $85K through Q2 2026 as Fed rate-hold signal and ETF outflows ($268M) clash with regulatory tailwinds (CLARITY Act, SEC onchain rules), creating contrarian buy-the-dip opportunity into late June before summer rally.",
+        "horizon": "3 months (2026-05-05 to 2026-08-05)",
         "supporting_signals": [
-          "CoinDesk: Bitcoin holding above 80k; altcoins surging (suggests risk appetite intact but BTC momentum fading)",
-          "CoinDesk: Kraken OCC charter + SEC onchain rules signal = favorable regime, but slow to monetize",
-          "CNBC: Burry 1999 bubble warning + Fed rate-cut pause = macro headwinds offset regulatory tailwinds"
+          "CoinDesk: 'Bitcoin stalls as BTC ETF outflows hit $268M'; Bitcoin above $80K but momentum broken",
+          "CNBC: Fed 'quickly running out of reasons to cut rates' + April jobs beat signals no near-term rate cuts",
+          "CoinDesk: 'CLARITY Act sees big step forward as markup set for May 14' + 'SEC chair Atkins signals new rules for onchain markets'"
         ],
-        "counter_view": "Risk-off shock (geopolitical escalation, US/Iran tensions, hantavirus pandemic narrative) could crush BTC faster than onchain fundamentals support it; or crypto adoption accelerates faster than expected (banking charter race).",
-        "expression": "BTC spot or perps: range trade 80–85k (short 85k, long 78k); or long BTC/DXY ratio (inverse dollar strength play) to isolate crypto strength from macro"
+        "counter_view": "Macro deterioration (Burry bubble comparison, potential recession) could drive BTC below $70K; regulatory wins may already be priced in.",
+        "expression": "Long BTC spot via Grayscale Bitcoin Mini Trust (BTC) or MicroStrategy (MSTR) call spreads (buy $85 call, sell $100 call, expires 2026-08-15); or short-term long BTC/USD perps on Bybit with 3x leverage into May 14 CLARITY markup"
       },
       {
-        "thesis": "AI-native Solana (SOL) ecosystem compounds faster than Ethereum through Q3 2026 as AI agent products (video, voice, trading) monetize on Solana's speed/cost advantages; developer migration accelerates.",
-        "horizon": "2–5 months",
+        "thesis": "Crypto regulatory narrative (CLARITY Act, SEC Atkins onchain rules, Kraken OCC charter push) will drive altcoin seasonality, favoring Ethereum and layer-2 tokens (Sui, Arbitrum proxies) through Q2 2026 as institutional clarity increases.",
+        "horizon": "4 months (2026-05-05 to 2026-09-05)",
         "supporting_signals": [
-          "CoinDesk: AI agents fueled hackathon frenzy; Exodus AI-agent stablecoin launched on Solana",
-          "36Kr: Seedance (ByteDance) and KeLing (Kuaishou) AI video models iterating weekly; Solana becomes preferred deployment layer for low-latency inference",
-          "SOL in trending crypto; developer sentiment shifting; CoinDesk 20 NEAR gains show L1 alt-L1 momentum"
+          "CoinDesk: 'Coinbase rebounds as altcoins surge with bitcoin holding above $80K'",
+          "CoinDesk: 'SEC chair Atkins signals new rules for onchain markets, AI-driven finance'",
+          "Trending tokens: Sui (SUI), Ondo (ONDO) reflect institutional appetite for tokenized real-world assets and onchain frameworks",
+          "CoinDesk: 'Judge clears path for Aave to move $71M in ETH' signals legal pathway clarity boosting DeFi sentiment"
         ],
-        "counter_view": "Ethereum Layer 2s (Arbitrum, Optimism) and zkSync catching up on throughput; Solana network stability concerns persist (frequent outages); institutional capital still flows to established ETH degen ecosystem.",
-        "expression": "Long SOL/ETH ratio (buy SOL, short ETH, or SOL perps with ETH hedge); or direct SOL spot if macro risk-off stabilizes; or AI-agent protocol tokens if Solana-native governance launches (e.g., decentralized inference)"
+        "counter_view": "Regulatory rules may include restrictions on 'risky tokens'; Ethereum remains dependent on macro sentiment; layer-2 narratives fade if base layer scaling improves.",
+        "expression": "Long ETH/BTC ratio via spot pairs or options; or long SUI or layer-2 proxies (Arbitrum if listed) with 6-month time horizon; or Ethereum call spreads (buy $3,500, sell $4,500, expires 2026-08-30)"
       },
       {
-        "thesis": "US equities (SPY, QQQ) correct 8–12% into June 2026 as Burry's 1999 narrative gains traction, Fed pauses cuts, and credit stress (hantavirus-adjacent tail risk, geopolitical escalation) ripples through macro.",
-        "horizon": "4–8 weeks",
+        "thesis": "Michael Burry's 1999-2000 bubble warning combined with Fed rate-hold signals suggests equities face correction risk; defensible sectors (utilities, dividend-yielding large-cap tech) will outperform while high-multiple AI stocks (NVDA, broadmarket semis) face drawdown.",
+        "horizon": "6-12 months (2026-05-05 to 2026-11-05)",
         "supporting_signals": [
-          "CNBC: Michael Burry explicit 1999-2000 bubble comparison; payrolls beat paradox (strong labor but sticky inflation = no cuts)",
-          "BBC: US/Iran 'reckless military' escalation, Russia/Ukraine ceasefire fragile, hantavirus cruise outbreak (tail risk/sentiment damper)",
-          "Burry: 'Stocks not moving on jobs or sentiment'—implies technical reversal risk; sentiment extremes"
+          "CNBC: Michael Burry 'Stocks are not up or down because of jobs or consumer sentiment… Feeling like the last months of the 1999-2000 bubble'",
+          "CNBC: 'Federal Reserve is quickly running out of reasons to cut interest rates' — rate holds lock in real rates higher for longer",
+          "Jobs report beat but 'had several red flags for the economy' — divergence between headline and internals signals hidden weakness",
+          "BTC ETF outflows + NVIDIA underperformance relative to chip peers suggests institutional risk-off positioning"
         ],
-        "counter_view": "Earnings season remains solid; Fed will eventually cut if recession signals emerge; equity vol still contained; retail/institutional bid supports mega-cap tech; recession narrative is priced in.",
-        "expression": "Short SPY/QQQ via puts (6–8 week expiry, strikes 5–8% OTM); or long VIX calls; or tactical short QQQ with long QQQ dividend ETF hedge; or rebalance to DXY/gold (long USD/gold, short equities)"
+        "counter_view": "Earnings remain resilient; AI productivity gains justify valuations; Fed may still cut if recession arrives; market multiple compression already partially priced in.",
+        "expression": "Short QQQ or NVDA via 6-month put spreads; or long DXY (US Dollar Index) + short equities hedge; or overweight SPY defensive sectors (XLY dividend leaders) vs. growth; or short high-beta tech via TECL inverse ETF"
       },
       {
-        "thesis": "Stablecoin regulatory clarity (SEC + OCC) accelerates deposits into crypto banking (Kraken OCC, Paypal, Meta stablecoin push) through 2026, driving USDC/USDT spot trading volume and yield competition to 6–8% on deposit products by Q4 2026.",
-        "horizon": "6–9 months",
+        "thesis": "Chinese EV and aerospace startups (36Kr reports: Weixing Aviation eVTOL, Chunli Energy solid-state battery, autonomous systems) are accelerating fundraises ahead of potential Trump tariff regime; venture returns will compress if U.S.-China trade war intensifies by 2026 Q4.",
+        "horizon": "6-7 months (2026-05-05 to 2026-12-05)",
         "supporting_signals": [
-          "CoinDesk: Stablecoins have their 'permission slip'; Kraken OCC charter + SEC new onchain rules imminent",
-          "CoinDesk: Meta stablecoin questions from US Senator (regulatory engagement, not blockage)",
-          "36Kr: Chinese stablecoin/AI-agent infrastructure race accelerating; offshore capital will seek USDC/USDT yield as volatility instruments mature"
+          "FLAG: 36Kr (Chinese source, not yet in English media): 'Weixing Aerospace completed tens of millions angel+ round; 7-seat 3-ton eVTOL first flight July 2026'; 'Chunli New Energy solid-state battery entering commercial scale, pre-A+ round completed'",
+          "CNBC: 'Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths' — suggests tariff negotiations still fluid but geopolitical risk rising",
+          "36Kr: 'Huawei-backed Wenjie M6 EV undergoing aggressive downmarket repositioning' signals Chinese automotive sector consolidation pressure",
+          "36Kr: 'DeepSeek fundraising up to 50 billion yuan' signals China AI capital concentration despite U.S. export controls"
         ],
-        "counter_view": "Regulatory crackdown on stablecoins (CBDCs cannibalize demand); banking charter approval slow/denied; USDC/USDT yield compression from competition; traditional finance interest rates stay elevated, crowding out crypto yields.",
-        "expression": "Long USDC/USDT spot on Aave/Compound (earn 5–7% deposit yield); or synthetic: long crypto banking stocks (Kraken parent, if public) + long BTC/ETH (regulatory tailwind + adoption); or stablecoin ETF if one launches"
+        "counter_view": "Chinese startups have historically navigated tariffs; aerospace/eVTOL timelines are long; venture returns dependent on exit liquidity, not tariff policy alone.",
+        "expression": "Short Chinese EV/aerospace venture exposure via short positions in Chinese ADRs (NIO, XPeng, Li Auto); or reduce allocation to U.S. VC funds with heavy China exposure; or long DXY as tariff hedge against Yuan devaluation; or long gold as geopolitical risk hedge"
       }
     ]
   }
