@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-05-10T07:23:05.881135+00:00",
+  "generated_at_utc": "2026-05-10T14:18:27.166712+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle",
+        "summary": "Target is refreshing its baby category as part of a broader effort to offer better products and more convenience to compete with Walmart and Amazon.",
+        "link": "https://www.cnbc.com/2026/05/10/target.html",
+        "published": "Sun, 10 May 2026 12:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI",
+        "summary": "Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.",
+        "link": "https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html",
+        "published": "Sun, 10 May 2026 12:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Meet the YouTube whisperers, a booming class of advisors behind MrBeast and other million-dollar channels",
+        "summary": "A burgeoning group of YouTube strategists are charging big money to YouTubers who want to expand their popularity.",
+        "link": "https://www.cnbc.com/2026/05/10/youtube-advisors-mrbeast-top-creators-platform-viewership.html",
+        "published": "Sun, 10 May 2026 13:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "With Netflix new ad-free standard plan at $20, streaming's tipping point into old TV is getting closer",
+        "summary": "The economics of streaming are nearing the point where cheaper plans with ads make as much if not more money for services like Netflix.",
+        "link": "https://www.cnbc.com/2026/05/10/netflix-20-dollar-streaming-plan-price.html",
+        "published": "Sun, 10 May 2026 13:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle",
+        "summary": "The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.",
+        "link": "https://www.cnbc.com/2026/05/10/sec-prediction-markets-etfs-trading-launch-delay.html",
+        "published": "Sun, 10 May 2026 12:22:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity amid Iran war",
+        "summary": "Aramco says its East-West pipeline has helped to mitigate the energy shock caused by the Iran war.",
+        "link": "https://www.cnbc.com/2026/05/10/saudi-aramco-q1-profit-jumps-26percent-as-key-pipeline-reaches-capacity.html",
+        "published": "Sun, 10 May 2026 08:24:41 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'",
@@ -11,66 +53,38 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
-        "summary": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
-        "link": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
-        "published": "Sat, 09 May 2026 16:41:22 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
-        "summary": "The crypto industry's top legislative priority, a bill determining oversight of digital assets, is set to advance in the Senate Banking Committee.",
-        "link": "https://www.cnbc.com/2026/05/08/congress-crypto-bill-vote-senate-banking-committee.html",
-        "published": "Fri, 08 May 2026 23:35:48 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "The Iran war will change global energy markets in these important ways, oil executives say",
-        "summary": "Iran's blockade of the Strait of Hormuz has resulted in the loss of nearly a billion barrels of oil with the shortage growing worse every day.",
-        "link": "https://www.cnbc.com/2026/05/09/iran-war-oil-gas-energy-security.html",
-        "published": "Sat, 09 May 2026 12:43:00 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "How to take control of the AI data center boom and built it into your own home in the future",
-        "summary": "As public support for large-scale data center buildouts declines across the U.S., a new type designed to operate inside individual homes is coming.",
-        "link": "https://www.cnbc.com/2026/05/09/ai-data-center-construction-public-opposition.html",
-        "published": "Sat, 09 May 2026 14:05:11 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "MV Hondius hantavirus outbreak: A luxury expedition cruise boom and new world of remote travel risks",
-        "summary": "Remote expedition cruises to destinations like Antarctica and the Arctic are booming, but the deadly hantavirus aboard MV Hondius is a reminder of unique risks.",
-        "link": "https://www.cnbc.com/2026/05/09/hantavirus-cruise-ship-mv-hondius-travel-health-risks.html",
-        "published": "Sat, 09 May 2026 19:52:27 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "There's little chance of a hantavirus global outbreak. What the latest odds say",
-        "summary": "Prediction markets like Kalshi show slim chance that the hantavirus outbreak will be of international concern",
-        "link": "https://www.cnbc.com/2026/05/09/hantavirus-outbreak-little-chance-says-kalshi.html",
-        "published": "Sat, 09 May 2026 16:41:15 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
-        "summary": "Thanks to the Iran war, big issues for U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit.",
-        "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
-        "published": "Fri, 08 May 2026 18:44:26 GMT"
+        "title": "Used car prices fall for the first time this year and EV interest rises as gas prices spike",
+        "summary": "Cox Automotive reports affordability remains a key concern for buyers and that's driving increased demand for older vehicles as well as all-electric vehicles.",
+        "link": "https://www.cnbc.com/2026/05/07/used-car-prices-gas.html",
+        "published": "Thu, 07 May 2026 16:31:01 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
-        "summary": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has arrived, after a deadly hantavirus outbreak.",
+        "title": "First passengers fly home from virus-hit cruise ship",
+        "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
         "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 10 May 2026 06:42:04 GMT"
+        "published": "Sun, 10 May 2026 13:30:52 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+        "summary": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
+        "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 10 May 2026 12:52:31 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Iran warns against complying with US sanctions as Gulf attacks reported",
+        "summary": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks.",
+        "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 10 May 2026 12:22:06 GMT"
       },
       {
         "source": "BBC World",
         "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
         "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
         "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 10 May 2026 00:46:07 GMT"
+        "published": "Sun, 10 May 2026 13:56:43 GMT"
       },
       {
         "source": "BBC World",
@@ -81,10 +95,10 @@
       },
       {
         "source": "BBC World",
-        "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-        "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
-        "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 09 May 2026 14:36:21 GMT"
+        "title": "Israel deports two activists detained on board Gaza flotilla",
+        "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
+        "link": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 10 May 2026 11:55:09 GMT"
       },
       {
         "source": "BBC World",
@@ -101,18 +115,18 @@
         "published": "Sun, 10 May 2026 03:24:44 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "I will serve - not rule over Hungary, says new PM",
-        "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-        "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 09 May 2026 15:12:04 GMT"
+        "source": "CoinDesk",
+        "title": "Agentic commerce will run on crypto rails, PayPal and Google reps tell Consensus Miami",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/05/10/agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-miami",
+        "published": "Sun, 10 May 2026 14:00:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Iran demands guarantees for World Cup participation",
-        "summary": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
-        "link": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 09 May 2026 18:44:01 GMT"
+        "source": "CoinDesk",
+        "title": "Bored Ape NFTs are finally making a comeback as crypto traders rediscover their appetite for risk",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/05/10/bored-ape-nfts-are-finally-making-a-comeback-as-crypto-traders-rediscover-their-appetite-for-risk",
+        "published": "Sun, 10 May 2026 13:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,25 +171,11 @@
         "published": "Sat, 09 May 2026 15:28:09 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "CME is set to let traders bet on bitcoin volatility, not just price",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme",
-        "published": "Sat, 09 May 2026 15:14:52 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "How DeFi is changing the financial landscape for Latin Americans",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/05/09/how-defi-is-changing-the-financial-landscape-for-latin-americans",
-        "published": "Sat, 09 May 2026 14:30:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" Santiment flags risk as crypto bullish talk spikes while BTC holds $80K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy8zM2VhNDg0Mi03YmI5LTRmMjAtODdhNS1mMzk4MTdiNTFmOTcuanBlZw==.jpeg\" /></p><p>The increase in bullish versus bearish crypto commentary on social media has Santiment warning that the recent crypto market rally may be s",
-        "link": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 10 May 2026 05:33:59 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto ",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 10 May 2026 13:00:00 +0000"
       }
     ],
     "chinese_news": [
@@ -240,230 +240,230 @@
       {
         "source": "Hacker News",
         "title": "Internet Archive Switzerland",
-        "summary": "score: 593, comments: 90",
+        "summary": "score: 643, comments: 106",
         "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-        "score": 593
+        "score": 643
       },
       {
         "source": "Hacker News",
         "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-        "summary": "score: 518, comments: 478",
+        "summary": "score: 625, comments: 604",
         "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
-        "score": 518
+        "score": 625
       },
       {
         "source": "Hacker News",
         "title": "I’ve banned query strings",
-        "summary": "score: 357, comments: 201",
+        "summary": "score: 467, comments: 241",
         "link": "https://chrismorgan.info/no-query-strings",
-        "score": 357
+        "score": 467
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-        "summary": "score: 199, comments: 86",
-        "link": "https://github.com/imtomt/ymawky",
-        "score": 199
-      },
-      {
-        "source": "Hacker News",
-        "title": "Zed Editor Theme-Builder",
-        "summary": "score: 198, comments: 57",
-        "link": "https://zed.dev/theme-builder",
-        "score": 198
-      },
-      {
-        "source": "Hacker News",
-        "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-        "summary": "score: 143, comments: 39",
-        "link": "https://github.com/nooga/let-go",
-        "score": 143
-      },
-      {
-        "source": "Hacker News",
-        "title": "Local privilege escalation via execve()",
-        "summary": "score: 134, comments: 72",
-        "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-        "score": 134
+        "title": "The One Dollar Counterfeiter",
+        "summary": "score: 219, comments: 84",
+        "link": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+        "score": 219
       },
       {
         "source": "Hacker News",
         "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-        "summary": "score: 93, comments: 34",
+        "summary": "score: 209, comments: 92",
         "link": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-        "score": 93
+        "score": 209
+      },
+      {
+        "source": "Hacker News",
+        "title": "I returned to AWS, and was reminded why I left",
+        "summary": "score: 185, comments: 126",
+        "link": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+        "score": 185
+      },
+      {
+        "source": "Hacker News",
+        "title": "Idempotency Is Easy Until the Second Request Is Different",
+        "summary": "score: 161, comments: 81",
+        "link": "https://blog.dochia.dev/blog/idempotency/",
+        "score": 161
+      },
+      {
+        "source": "Hacker News",
+        "title": "We see something that works, and then we understand it",
+        "summary": "score: 143, comments: 50",
+        "link": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+        "score": 143
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Solayer (LAYER)",
-        "summary": "market cap rank: 737",
-        "link": "https://www.coingecko.com/en/coins/solayer"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "TROLL (TROLL)",
-        "summary": "market cap rank: 320",
-        "link": "https://www.coingecko.com/en/coins/troll-2"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "wojak (WOJAK)",
-        "summary": "market cap rank: 617",
-        "link": "https://www.coingecko.com/en/coins/wojak-5"
+        "title": "SWEAT (SWEAT)",
+        "summary": "market cap rank: 888",
+        "link": "https://www.coingecko.com/en/coins/sweat-economy"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Billions Network (BILL)",
-        "summary": "market cap rank: 176",
+        "summary": "market cap rank: 159",
         "link": "https://www.coingecko.com/en/coins/billions-network"
       },
       {
         "source": "CoinGecko Trending",
+        "title": "wojak (WOJAK)",
+        "summary": "market cap rank: 614",
+        "link": "https://www.coingecko.com/en/coins/wojak-5"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 23",
+        "link": "https://www.coingecko.com/en/coins/sui"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Terra Luna Classic (LUNC)",
+        "summary": "market cap rank: 101",
+        "link": "https://www.coingecko.com/en/coins/terra-luna-classic"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "LAB (LAB)",
-        "summary": "market cap rank: 132",
+        "summary": "market cap rank: 134",
         "link": "https://www.coingecko.com/en/coins/lab"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 88",
-        "link": "https://www.coingecko.com/en/coins/venice-token"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Ondo (ONDO)",
-        "summary": "market cap rank: 46",
-        "link": "https://www.coingecko.com/en/coins/ondo"
+        "title": "Zcash (ZEC)",
+        "summary": "market cap rank: 15",
+        "link": "https://www.coingecko.com/en/coins/zcash"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Senate Banking Committee pass crypto CLARITY Act markup by June 30, 2026?",
+        "market_title": "Will Bitcoin close 2026 above $100,000?",
         "venue": "Polymarket",
-        "why_now": "May 14 Senate Banking Committee vote scheduled; crypto industry legislative priority moving fast with real momentum.",
-        "signal_source": "CNBC Top News + CoinDesk (Clarity Act markup date confirmed)"
+        "why_now": "BTC holding $80K amid Fed inflation concerns and crypto bullish sentiment spike (Santiment flag) creates asymmetric upside if macro softens; Trump Media $406M loss signals forced liquidations pressuring price short-term.",
+        "signal_source": "Cointelegraph (Santiment risk flag, BTC $80K hold, Fed hotter inflation print risk); CoinDesk (Trump Media markdowns); crypto sentiment divergence."
       },
       {
-        "market_title": "Will Iran blockade Strait of Hormuz push WTI crude above $95/bbl by Aug 31, 2026?",
+        "market_title": "Will the SEC approve a spot prediction markets ETF by end of 2026?",
         "venue": "Kalshi",
-        "why_now": "Active blockade destroying ~1B barrels supply; geopolitical escalation tied to Trump-Xi summit energy agenda.",
-        "signal_source": "CNBC (Iran war, Strait of Hormuz blockade, oil executives commentary)"
+        "why_now": "SEC delay on prediction market ETF approval now echoing bitcoin fund battle precedent; Senate Clarity Act markup advancing signals regulatory thaw, but institutional gatekeeping remains.",
+        "signal_source": "CNBC (SEC delays on prediction markets ETFs); CoinDesk (Senate Clarity Act markup, market structure push resumes)."
       },
       {
-        "market_title": "Will Nvidia's equity portfolio exceed $50B by end of 2026?",
+        "market_title": "Will Alphabet stock outperform S&P 500 by >10% in the next 12 months?",
         "venue": "Polymarket",
-        "why_now": "Already at $40B+ in 2026; AI infrastructure bet acceleration; commercial deal bundling creates liquidity signal.",
-        "signal_source": "CNBC (Nvidia embraces AI investor role, $40B equity bets this year)"
+        "why_now": "Alphabet's 160% rally over a year reflects AI 'full stack' dominance narrative; investors rotating from laggard to clear winner—momentum remains intact if search monetization accelerates.",
+        "signal_source": "CNBC (Alphabet 160% rally, AI stack ownership thesis); macro backdrop of AI spending cycle."
       },
       {
-        "market_title": "Will BTC hold above $75K through June 30, 2026?",
-        "venue": "Polymarket",
-        "why_now": "Currently $80K; Santiment flags elevated bullish sentiment risk; crypto regulatory clarity (May 14 vote) is binary catalyst.",
-        "signal_source": "Cointelegraph (BTC $80K hold, Santiment bullish talk spike risk flag)"
-      },
-      {
-        "market_title": "Will CME Bitcoin volatility futures launch before August 31, 2026?",
+        "market_title": "Will Netflix's average revenue per user (ARPU) in ad-tier exceed non-ad tier by June 2026?",
         "venue": "Manifold",
-        "why_now": "CoinDesk reports CME set to launch; structural shift in derivatives market; near-term binary regulatory approval.",
-        "signal_source": "CoinDesk (CME to let traders bet on BTC volatility, not just price)"
+        "why_now": "Ad-free standard plan pushed to $20 signals streaming crossing inflection point where cheaper ad-supported plans generate equal or higher revenue—structural shift in content economics.",
+        "signal_source": "CNBC (Netflix $20 ad-free standard, streaming tipping point into old TV model)."
+      },
+      {
+        "market_title": "Will Ethereum outperform Bitcoin (ETH/BTC ratio) in 2H 2026?",
+        "venue": "Polymarket",
+        "why_now": "Agentic commerce narrative and crypto rails adoption (PayPal, Google at Consensus Miami) favors smart contract platforms; BTC quantum migration risk noted (Project Eleven).",
+        "signal_source": "CoinDesk (agentic commerce on crypto rails, PayPal/Google Consensus Miami); Project Eleven quantum migration risk; South Korea rotation from crypto to stocks suggests institutional repricing."
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Russian oil exports via alternative routes exceed 2.5M barrels/day by December 31, 2026, due to Strait of Hormuz blockade?",
+        "question": "Will Walmart's revenue growth exceed Target's by >200 basis points in FY2026?",
+        "deadline": "2027-02-28",
+        "resolution_source": "Company earnings reports (SEC filings), year-over-year growth rates.",
+        "why_underpriced": "Target's baby aisle refresh and convenience push is defensive—does not address structural Walmart/Amazon advantage. Market underestimates Walmart's logistics moat and Walmart+ penetration.",
+        "trigger_signal": "CNBC (Target refreshing baby category to compete with Walmart/Amazon); structural retail shifts."
+      },
+      {
+        "question": "Will crude oil (WTI) close H1 2026 above $85/barrel given Iran war escalation and Saudi Aramco pipeline capacity?",
+        "deadline": "2026-06-30",
+        "resolution_source": "CME WTI futures settlement price; NYMEX closing quote.",
+        "why_underpriced": "Saudi Aramco Q1 profit +26% and East-West pipeline mitigation narrative suggests energy shock priced in. But escalating Gulf attacks (Iran, UAE, Kuwait drones) and commercial vessel hits create tail risk upside.",
+        "trigger_signal": "CNBC (Saudi Aramco Q1 +26%, pipeline capacity); BBC (Iran war escalation, UAE/Kuwait drone attacks, commercial vessel hit off Qatar)."
+      },
+      {
+        "question": "Will used vehicle prices (Cox Automotive index) remain flat or decline through 2H 2026 amid EV adoption surge?",
         "deadline": "2026-12-31",
-        "resolution_source": "EIA Weekly Petroleum Status Report + OPEC supply data",
-        "why_underpriced": "Market fixated on short-term WTI spike; structural supply rerouting (pipelines, tanker routes) is multi-month play with persistent margin impact.",
-        "trigger_signal": "Iran blockade ongoing; Trump-Xi summit may discuss supply guarantees; energy infrastructure bets gaining institutional attention."
+        "resolution_source": "Cox Automotive Used Vehicle Price Index; monthly reports.",
+        "why_underpriced": "First year-over-year used price decline + gas price spike driving EV interest = structural deflation in used market. Median car payment ($525) approaching affordability ceiling; younger cohorts rotating to used + EV.",
+        "trigger_signal": "CNBC (used car prices fall first time this year, EV interest rises, gas prices spike, affordability concern)."
       },
       {
-        "question": "Will U.S. home-based AI data center deployments exceed 500K units by June 30, 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "IDC Data Center Census + U.S. Energy Information Administration (residential AI compute survey)",
-        "why_underpriced": "CNBC story suggests emerging category but no betting market exists; public backlash on mega-datacenters creates arbitrage for distributed edge infra.",
-        "trigger_signal": "CNBC reports public opposition to large-scale buildouts; home AI datacenter concept emerging as workaround."
-      },
-      {
-        "question": "Will Nvidia's enterprise equity portfolio deliver >30% IRR cumulative through 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "Nvidia Q2 2027 earnings guidance + disclosed equity positions in 10-Q filings",
-        "why_underpriced": "Nvidia's AI ecosystem bet is underpriced relative to portfolio upside (Anthropic, OpenAI, etc.); no single-name equity exposure exists.",
-        "trigger_signal": "Nvidia pouring $40B+ into AI stack; commercial deal bundling tied to equity; portfolio companies approaching unicorn/public milestones by 2027."
-      },
-      {
-        "question": "Will crypto regulatory clarity drive institutional crypto AUM inflows >$50B USD by September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Grayscale, BlackRock, Fidelity quarterly AUM reports + Bloomberg/CoinDesk institutional custody surveys",
-        "why_underpriced": "May 14 CLARITY Act markup + emerging-market crypto adoption (Binance data) suggest regulatory runway; institutional entry is predictable post-clarity.",
-        "trigger_signal": "Senate Banking Committee crypto bill advancing; CoinDesk reports crypto industry cheering Clarity Act; Binance notes emerging-market banking-app adoption."
-      },
-      {
-        "question": "Will China-Russia e-commerce corridor (Ozon, AliExpress, Shein) reach $20B+ GMV by December 31, 2026?",
+        "question": "Will China's cross-border ecommerce volume (GMV) to Russia via platforms like Ozon grow >50% YoY in 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Ozon quarterly reports + Statista e-commerce market size Russia + Caixin trade flow data",
-        "why_underpriced": "36Kr reports Chinese sellers flooding into Russia; Ozon 91% CAGR (2017–2025) + 23% e-commerce penetration suggests massive TAM expansion. No Western prediction market covers this.",
-        "trigger_signal": "FLAG: 36Kr exclusive on Ozon recruitment surge in China + Simon Huang (Ozon APAC president) interview; macro: Iran sanctions drive further Russia e-commerce decoupling."
+        "resolution_source": "Ozon public filings or market reports; Chinese customs ecommerce data.",
+        "why_underpriced": "🚩 **CHINESE SOURCE SIGNAL**: 36Kr reports Ozon CAGR 91% (2017–2025) despite Russia ecommerce penetration only 23% in 2025. Chinese sellers flooding into Russia (Ozon Shanghai conference). Massive TAM expansion underpriced in Western prediction markets.",
+        "trigger_signal": "36Kr (Ozon 91% CAGR, China sellers rushing Russia, Ozon 2026 recruitment surge); first-mover advantage in underpenetrated market."
+      },
+      {
+        "question": "Will DeepSeek successfully raise ≥$400M (at any valuation) by end of 2026 after reported $500M max funding round?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Crunchbase, PitchBook, company press release, or Chinese regulatory filings (AMAC).",
+        "why_underpriced": "🚩 **CHINESE SOURCE SIGNAL**: 36Kr reports DeepSeek plans raise up to $500M—first major Chinese AI lab fundraising post-regulatory uncertainty. Western markets underestimate Chinese AI capital flows and DeepSeek's inference cost advantage.",
+        "trigger_signal": "36Kr (DeepSeek $500M fundraise planned); competitive threat to OpenAI/Anthropic pricing; China AI spending acceleration."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long crude oil (WTI) via June 2026 futures; Iran Strait of Hormuz blockade persists, supply destruction accelerates, reducing effective global oil inventory 90 days out.",
-        "horizon": "60–90 days",
+        "thesis": "Long crude oil (WTI via USO or /CL futures) on Iran war escalation and Saudi pipeline capacity constraints outweighing demand fears.",
+        "horizon": "2–6 months (through June 2026)",
         "supporting_signals": [
-          "CNBC: Iran blockade destroying ~1B barrels; oil execs warn of persistent shortage",
-          "CNBC: Trump-Xi summit may defer tariff talks, keeping geopolitical risk premium in oil",
-          "No near-term ceasefire signal in Iran conflict; structural supply loss accumulating daily"
+          "CNBC: Saudi Aramco Q1 profit +26% on East-West pipeline capacity mitigation—suggests energy shock priced in but geopolitical tail risk unpriced.",
+          "BBC: Iran warns against US sanctions compliance; commercial vessel hit off Qatar; UAE and Kuwait report drone attacks.",
+          "Macro: Fed inflation print risk (hotter than expected per Cointelegraph) argues against demand destruction."
         ],
-        "counter_view": "OPEC+ lifts quotas; Saudi / UAE spare capacity floods market; global recession fears cap oil at $85–90.",
-        "expression": "Long WTI Jun 2026 futures (NYMEX), or long USO ETF (June 2026 calls, strike $70–72)"
+        "counter_view": "Global recession fears, EV adoption (CNBC used car story), and US strategic petroleum reserve releases could overwhelm supply constraints. Saudi Aramco's own optimization suggests supply shocks are containable.",
+        "expression": "Long /CL (WTI crude futures) June 2026 contract or USO ETF; target $85–90/barrel by June 30, 2026."
       },
       {
-        "thesis": "Long BTC/USD volatility via CME futures launch (Aug 2026); institutional demand for vol hedging + retail euphoria create structural vol expansion post-regulatory clarity.",
-        "horizon": "90–120 days",
+        "thesis": "Long Alphabet (GOOGL) on AI full-stack dominance and search re-monetization, with upside if agentic commerce adoption accelerates.",
+        "horizon": "6–12 months",
         "supporting_signals": [
-          "CoinDesk: CME set to launch BTC vol futures before Aug 31",
-          "Cointelegraph: BTC $80K, elevated bullish sentiment (Santiment flag); retail FOMO risk",
-          "Senate CLARITY Act (May 14 vote) de-risks regulatory overhang; institutional entry likely"
+          "CNBC: Alphabet 160% rally reflects AI 'most of the stack' thesis; early laggard narrative reversed.",
+          "CoinDesk: Agentic commerce will run on crypto rails (PayPal, Google reps at Consensus Miami)—Alphabet indirect play on Web3 commerce layer.",
+          "Macro: AI capex cycle deepens; search share resilient despite ChatGPT hype."
         ],
-        "counter_view": "Vol compression if crypto regulatory clarity kills uncertainty; retail capitulation deflates FOMO rallies.",
-        "expression": "Long VIX-analog on BTC (buy far OTM straddles on ETH/USD via CME; or synthetic long vol via short delta hedges on spot BTC holdings)"
+        "counter_view": "Valuation already reflects AI upside; regulatory antitrust pressure on search; OpenAI/Anthropic raise capital to compete on inference cost.",
+        "expression": "Long GOOGL stock or QQQ (Nasdaq-100); outperform vs. SPY on 12-month horizon."
       },
       {
-        "thesis": "Long Nvidia (NVDA) on portfolio company mark-ups; $40B+ equity bets compound into 2027 exit / IPO liquidity events; 1–2 portfolio unicorns likely to go public or sell strategically.",
-        "horizon": "180–240 days",
+        "thesis": "Long Ethereum (ETH) and short BTC/ETH ratio on smart contract adoption thesis for agentic commerce and crypto rails infrastructure.",
+        "horizon": "3–6 months (through August 2026)",
         "supporting_signals": [
-          "CNBC: Nvidia pouring billions into AI infrastructure stack; commercial deal bundling creates flywheel",
-          "Anthropic, OpenAI, Hugging Face all in Nvidia's portfolio; exit windows open 2026–2027",
-          "Nvidia Q1 2026 earnings likely to call out equity portfolio mark-ups; analyst underestimating portfolio upside"
+          "CoinDesk: Agentic commerce narrative at Consensus Miami; PayPal and Google representatives discuss crypto rails.",
+          "CoinDesk: BTC quantum migration 'too late' (Project Eleven)—implies smart contracts remain primary execution layer.",
+          "Macro: South Korea crypto holders rotating to stock market (Cointelegraph) = capitulation signal; retail repositioning into altcoins."
         ],
-        "counter_view": "Nvidia portfolio companies face dilution / extended fundraising; mark-ups reverse in downturn; equity upside overstated.",
-        "expression": "Long NVDA shares (6-month horizon); or long NVDA Q2 2026 call options (strike $950–1000)"
+        "counter_view": "BTC remains store-of-value leader; ETH London network upgrades priced in; Fed tightening could crush both; Solana/Sui alternative chain competition.",
+        "expression": "Long ETH perpetual futures vs. Short BTC perpetual (or long ETH/BTC ratio pair trade); or direct long ETH with 2–3x leverage if risk tolerance permits."
       },
       {
-        "thesis": "Long emerging-market stablecoin adoption (USDC, USDT yield plays); Binance data shows non-Western users treating crypto exchanges as banking apps; treasury yield migration accelerates post-Fed pivot.",
-        "horizon": "120–180 days",
+        "thesis": "Long affordable used vehicles and used EV market (proxy: Cox Automotive index futures or automotive supplier stocks like MU for EV battery content) on structural deflation in used market + EV adoption inflection.",
+        "horizon": "3–9 months (through Sept 2026)",
         "supporting_signals": [
-          "CoinDesk: Emerging-market users treating Binance as banking app; structural banking gap persists",
-          "BTC at $80K; institutional crypto adoption (Clarity Act May 14) legitimizes stablecoin layer",
-          "Fed rate cuts expected later 2026; USDC yield (Compound, Aave) becomes attractive alternative to regional bank deposits"
+          "CNBC: First YoY used car price decline this year; median payment hitting $525 affordability ceiling; EV interest surges with gas price spikes.",
+          "Cox Automotive: Affordability remains key buyer concern, driving rotation to older vehicles and EVs.",
+          "Macro: Oil price pressure (if Iran war escalates) = higher gas costs = faster EV adoption curve."
         ],
-        "counter_view": "Regulatory crackdown on offshore crypto banking; CFTC / FinCEN tightens stablecoin redemption rules; yield rates drop.",
-        "expression": "Long USDC via Curve/Aave yield farming (target 8–10% APY); or long Compound (COMP) governance token on stablecoin TVL expansion"
+        "counter_view": "Used EV battery degradation and repair costs not yet reflected in prices; supply shortage could reverse. Younger cohorts may delay vehicle purchase in recession. Chip shortage mitigation could stabilize new vehicle costs.",
+        "expression": "Long MU (Micron, EV memory/storage content play) or semiconductor exposure (SMH); or thematic used-vehicle retail ETF if available (e.g., long Copart CPRT if liquidation auctions surge)."
       },
       {
-        "thesis": "Long Chinese e-commerce / logistics exposure (Alibaba BABA, JD.com JD) on Russia corridor TAM; Ozon 91% CAGR + Hormutz geopolitical decoupling drive China-Russia trade northward 90+ days.",
-        "horizon": "90–180 days",
+        "thesis": "Long Chinese cross-border ecommerce platforms (if public: Ozon competitors, or proxy via Alibaba BABA on Ozon TAM growth) on Russia market underpenetration and Chinese seller supply.",
+        "horizon": "6–12 months",
         "supporting_signals": [
-          "FLAG: 36Kr (Ozon China seller influx exclusive); Simon Huang interview on Russia e-commerce boom, 23% penetration = TAM",
-          "Iran Strait blockade increases logistics costs for Western goods into Russia; China cost advantage widens",
-          "Ozon Q2 2026 likely to report accelerated China seller GMV; BABA / JD logistics play on outbound SME demand"
+          "🚩 36Kr: Ozon 91% CAGR (2017–2025); Russia ecommerce penetration only 23% in 2025—massive TAM remaining.",
+          "🚩 36Kr: Chinese sellers flooding into Russia (Ozon Shanghai conference, May 2026)—first-mover advantage.",
+          "Macro: Western sanctions on Russia push e-commerce adoption offline → online; Chinese supply chain fills vacuum."
         ],
-        "counter_view": "U.S. / EU sanctions intensify on Russia; Chinese sellers retreat; Ozon faces delisting / payment processor pullback.",
-        "expression": "Long BABA or JD (120-day horizon); or long Alibaba International ADR call options (strike $110–115, Jun 2026 expiry)"
+        "counter_view": "Western sanctions on Russia deepen, cutting off payment systems and logistics. Geopolitical risk escalation could halt cross-border flows. Ozon regulatory uncertainty in Russia/China.",
+        "expression": "Long BABA if Ozon becomes material revenue driver; or direct position in Ozon (if accessible via ADR/Hong Kong listing). Alternatively, long emerging-market ecommerce ETF (EMQQ) as proxy for China-to-EM trade flows."
       }
     ]
   }
