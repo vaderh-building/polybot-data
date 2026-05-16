@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2026-05-16T14:19:55.214929+00:00",
+  "generated_at_utc": "2026-05-16T21:41:46.744629+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+        "summary": "With inflation spiking and Treasury yields surging, Warsh is likely to confront a Federal Open Market Committee in no mood to ease.",
+        "link": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
+        "published": "Sat, 16 May 2026 13:41:29 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
@@ -21,14 +28,21 @@
         "title": "For better or worse, investors are living through Trump’s stock market. Here's why",
         "summary": "President Donald Trump has been considered the ultimate stock market president, overseeing an expansion to record highs as well as major declines.",
         "link": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
-        "published": "Sat, 16 May 2026 13:46:45 GMT"
+        "published": "Sat, 16 May 2026 17:00:41 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "The bond market is flashing a warning over Iran. A veteran of energy geopolitics explains the risk",
-        "summary": "Daleep Singh knows how energy and markets intersect. He sees trouble ahead.",
-        "link": "https://www.cnbc.com/2026/05/16/the-bond-market-is-flashing-a-warning-energy-geopolitics-expert-warns.html",
-        "published": "Sat, 16 May 2026 14:01:14 GMT"
+        "title": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed",
+        "summary": "The world's oil stockpiles could approach all-time lows by the end of May due to the Strait of Hormuz closure, according to UBS.",
+        "link": "https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html",
+        "published": "Sat, 16 May 2026 13:25:00 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "UAE says its decision to leave OPEC was a strategic economic move, not a political one",
+        "summary": "The United Arab Emirates, which joined OPEC in 1967, announced last month it was leaving the oil producer group on May 1.",
+        "link": "https://www.cnbc.com/2026/05/16/uae-decision-to-leave-opec-was-not-a-political-move.html",
+        "published": "Sat, 16 May 2026 13:13:19 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -39,24 +53,24 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
-        "summary": "With inflation spiking and Treasury yields surging, Warsh is likely to confront a Federal Open Market Committee in no mood to ease.",
-        "link": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
-        "published": "Sat, 16 May 2026 13:41:29 GMT"
+        "title": "This federal program trains older workers. The Trump administration wants to cut it",
+        "summary": "The Senior Community Service Employment Program provides older, low-income individuals with an opportunity to train for work. But its future is uncertain.",
+        "link": "https://www.cnbc.com/2026/05/16/senior-community-service-employment-program.html",
+        "published": "Sat, 16 May 2026 13:30:01 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
-        "summary": "After Cerebras popped in its market debut, all attention turns to SpaceX, OpenAI and Anthropic, which are already among the most valuable U.S. tech companies.",
-        "link": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
-        "published": "Sat, 16 May 2026 12:00:01 GMT"
+        "source": "BBC World",
+        "title": "Taiwan insists it is independent after Trump warning",
+        "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+        "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 16 May 2026 17:01:53 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "UAE says its decision to leave OPEC was a strategic economic move, not a political one",
-        "summary": "The United Arab Emirates, which joined OPEC in 1967, announced last month it was leaving the oil producer group on May 1.",
-        "link": "https://www.cnbc.com/2026/05/16/uae-decision-to-leave-opec-was-not-a-political-move.html",
-        "published": "Sat, 16 May 2026 13:13:19 GMT"
+        "source": "BBC World",
+        "title": "Man drives car into pedestrians in Italy, injuring eight",
+        "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+        "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 16 May 2026 20:36:17 GMT"
       },
       {
         "source": "BBC World",
@@ -70,7 +84,14 @@
         "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
         "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
         "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 16 May 2026 13:42:41 GMT"
+        "published": "Sat, 16 May 2026 15:01:40 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Whale found dead near Danish island after German rescue operation",
+        "summary": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress.",
+        "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 16 May 2026 17:01:28 GMT"
       },
       {
         "source": "BBC World",
@@ -84,35 +105,21 @@
         "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
         "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
         "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 16 May 2026 13:55:14 GMT"
+        "published": "Sat, 16 May 2026 15:50:09 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-        "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-        "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 16 May 2026 05:53:41 GMT"
+        "title": "Canadian from hantavirus-hit cruise ship tests positive",
+        "summary": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
+        "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 16 May 2026 20:36:53 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Man killed by 13ft great white shark in Western Australia",
-        "summary": "The man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.",
-        "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 16 May 2026 07:04:36 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-        "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
-        "link": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 15 May 2026 23:04:33 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-        "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-        "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 15 May 2026 23:59:07 GMT"
+        "source": "CoinDesk",
+        "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
+        "published": "Sat, 16 May 2026 15:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -164,18 +171,11 @@
         "published": "Fri, 15 May 2026 19:50:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Saudi Arabia is tokenizing its multi-trillion dollar economy to protect its wealth from global shocks",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/15/saudi-arabia-is-tokenizing-its-multi-trillion-dollar-economy-to-protect-its-wealth-from-global-shocks",
-        "published": "Fri, 15 May 2026 16:37:31 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain confirms $10M exploit, rolls out recovery portal for affected users\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jaGFpbnBvcnRhbDcuanBn.jpg\" /></p><p>THORChain has launched a recovery portal following a $10 million exploit, allowing affected users across four chains to revoke malicious approvals and claim refunds.</p>",
-        "link": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 16 May 2026 09:47:44 +0000"
+        "title": "Strategy to repurchase $1.5B of 2029 convertible notes",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy to repurchase $1.5B of 2029 convertible notes\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWFyZS1jb252ZXJ0aWJsZS1zZW5pb3Itbm90ZXMuanBn.jpg\" /></p><p>The notes carry a 0% coupon, but can be converted into equity in the company if holders choose to redeem their notes for shares.\n</p>",
+        "link": "https://cointelegraph.com/news/strategy-repurchase-15b-2029-convertible-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 16 May 2026 19:03:08 +0000"
       }
     ],
     "chinese_news": [
@@ -217,7 +217,7 @@
       {
         "source": "36氪 36Kr",
         "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260515/v2_c7d0815052cc403cad37eb9b3a9973d9@5889148_oswg353064oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p>当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。</p>\n  <p>“20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆包、通义千问、腾讯元宝等主流AI助手，正以前所未有的深度渗透进我们的消费生活，成为事实上的“第一入口”和“前置决",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260515/v2_c7d0815052cc403cad37eb9b3a9973d9@5889148_oswg353064oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p>当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择���：直接问AI。</p>\n  <p>“20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆包、通义千问、腾讯元宝等主流AI助手，正以前所未有的深度渗透进我们的消费生活，成为事实上的“第一入口”和“前",
         "link": "https://36kr.com/p/3810308239465986?f=rss",
         "published": "2026-05-15 16:51:47  +0800"
       },
@@ -240,61 +240,91 @@
       {
         "source": "Hacker News",
         "title": "Project Gutenberg – keeps getting better",
-        "summary": "score: 1032, comments: 215",
+        "summary": "score: 1121, comments: 266",
         "link": "https://www.gutenberg.org/",
-        "score": 1032
-      },
-      {
-        "source": "Hacker News",
-        "title": "Frontier AI has broken the open CTF format",
-        "summary": "score: 226, comments: 190",
-        "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
-        "score": 226
-      },
-      {
-        "source": "Hacker News",
-        "title": "Fecal transplants for autism deliver success in clinical trials",
-        "summary": "score: 120, comments: 74",
-        "link": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-        "score": 120
-      },
-      {
-        "source": "Hacker News",
-        "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-        "summary": "score: 118, comments: 26",
-        "link": "https://arxiv.org/abs/2605.12357",
-        "score": 118
-      },
-      {
-        "source": "Hacker News",
-        "title": "Accelerando (2005)",
-        "summary": "score: 77, comments: 30",
-        "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-        "score": 77
+        "score": 1121
       },
       {
         "source": "Hacker News",
         "title": "Moving away from Tailwind, and learning to structure my CSS",
-        "summary": "score: 61, comments: 18",
+        "summary": "score: 347, comments: 229",
         "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-        "score": 61
+        "score": 347
       },
       {
         "source": "Hacker News",
-        "title": "Futhark by Example",
-        "summary": "score: 61, comments: 15",
-        "link": "https://futhark-lang.org/examples.html",
-        "score": 61
+        "title": "Frontier AI has broken the open CTF format",
+        "summary": "score: 309, comments: 275",
+        "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+        "score": 309
       },
       {
         "source": "Hacker News",
         "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-        "summary": "score: 57, comments: 20",
+        "summary": "score: 271, comments: 109",
         "link": "https://nvlabs.github.io/Sana/WM/",
-        "score": 57
+        "score": 271
+      },
+      {
+        "source": "Hacker News",
+        "title": "HTML Lists",
+        "summary": "score: 257, comments: 52",
+        "link": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+        "score": 257
+      },
+      {
+        "source": "Hacker News",
+        "title": "Accelerando (2005)",
+        "summary": "score: 214, comments: 118",
+        "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+        "score": 214
+      },
+      {
+        "source": "Hacker News",
+        "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+        "summary": "score: 175, comments: 46",
+        "link": "https://arxiv.org/abs/2605.12357",
+        "score": 175
+      },
+      {
+        "source": "Hacker News",
+        "title": "Windows 9x Subsystem for Linux",
+        "summary": "score: 164, comments: 69",
+        "link": "https://codeberg.org/hails/wsl9x",
+        "score": 164
       }
     ],
     "crypto_trending": [
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 98",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ondo US Dollar Yield (USDY)",
+        "summary": "market cap rank: 46",
+        "link": "https://www.coingecko.com/en/coins/ondo-us-dollar-yield"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Asteroid Shiba (ASTEROID)",
+        "summary": "market cap rank: 218",
+        "link": "https://www.coingecko.com/en/coins/asteroid-shiba"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Zano (ZANO)",
+        "summary": "market cap rank: 206",
+        "link": "https://www.coingecko.com/en/coins/zano"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
+      },
       {
         "source": "CoinGecko Trending",
         "title": "Bittensor (TAO)",
@@ -303,173 +333,151 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 27",
-        "link": "https://www.coingecko.com/en/coins/sui"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 99",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 13",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 16",
-        "link": "https://www.coingecko.com/en/coins/zcash"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pi Network (PI)",
-        "summary": "market cap rank: 51",
-        "link": "https://www.coingecko.com/en/coins/pi-network"
+        "title": "TROLL (TROLL)",
+        "summary": "market cap rank: 255",
+        "link": "https://www.coingecko.com/en/coins/troll-2"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $85,000 on or before 2026-12-31?",
+        "market_title": "Will Bitcoin close above $85,000 on or before June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "Spot Bitcoin ETF outflows ($1B in one week) and Fed rate-cut resistance under Kevin Warsh create tactical volatility; CLARITY Act euphoria shows 2026 legislative tailwind but macro headwinds are real.",
-        "signal_source": "Cointelegraph (ETF outflows), CoinDesk (CLARITY Act), CNBC (Kevin Warsh Fed confirmation)"
+        "why_now": "BTC just slid to $78k on macro headwinds (Warsh Fed hawkishness, Strait of Hormuz oil crisis), creating asymmetric risk if Trump tech-stock purchases signal broader bullish pivot.",
+        "signal_source": "CoinDesk (crypto longs lost $500M on BTC slide to $78k); CNBC (Warsh inflation concerns, Treasury yields surging)"
       },
       {
-        "market_title": "Will the U.S. House pass a final version of the CLARITY Act by 2026-09-30?",
+        "market_title": "Will the Federal Reserve cut rates at least once by December 31, 2026?",
         "venue": "Kalshi",
-        "why_now": "House committee leaders just urged Trump to nominate CFTC members to unblock crypto regulation; bill has bipartisan momentum but faces Senate drag and election-year politics.",
-        "signal_source": "Cointelegraph (House committee urging CFTC nominations), CoinDesk (CLARITY Act advancing)"
+        "why_now": "Kevin Warsh's appointment and CNBC reporting on FOMC infighting over rate cuts, coupled with global oil stockpile crisis, creates binary outcome on inflation path.",
+        "signal_source": "CNBC (Warsh faces FOMC 'family fight' over cutting, inflation spiking, Treasury yields surging)"
       },
       {
-        "market_title": "Will SpaceX complete its IPO and trade on Nasdaq by 2026-07-31?",
+        "market_title": "Will Ethereum close above $3,500 on or before August 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "SpaceX targets June 11 IPO pricing with Nasdaq listing; one of the most anticipated private-to-public transitions; Trump enthusiasm for tech creates political tailwind.",
-        "signal_source": "CoinDesk (SpaceX June 11 IPO pricing target), CNBC (Trump tech stock buying)"
+        "why_now": "Cointelegraph headlines point to three catalysts for ETH surge; SOL and XRP down 5% suggests risk-off, but ETH basis and dapp recovery could drive mean reversion if macro clears.",
+        "signal_source": "Cointelegraph (Sharplink CEO identifies 3 catalysts for ETH price surge); CoinDesk (crypto longs capitulation signal)"
       },
       {
-        "market_title": "Will Ethereum close above $3,500 on or before 2026-09-30?",
+        "market_title": "Will SpaceX complete its IPO at a valuation above $200 billion by September 30, 2026?",
         "venue": "Manifold",
-        "why_now": "Cointelegraph reports three catalysts for Ethereum surge; TAO and SUI trending alongside Ethereum on crypto feeds; institutional adoption narrative remains intact despite current pullback.",
-        "signal_source": "Cointelegraph (Ethereum price catalysts), CoinDesk (crypto sentiment shift)"
+        "why_now": "CoinDesk reports SpaceX targets June 11 IPO pricing on Nasdaq; Trump administration tech-stock enthusiasm (Amazon, Meta, Broadcom purchases) suggests favorable climate for mega-cap tech debuts.",
+        "signal_source": "CoinDesk (SpaceX targets June 11 IPO pricing, picks Nasdaq)"
       },
       {
-        "market_title": "Will U.S. Treasury yields (10Y) exceed 5.0% at any point before 2026-12-31?",
-        "venue": "Kalshi",
-        "why_now": "Bond market flashing Iran geopolitical warning; Kevin Warsh incoming at Fed with hawkish inflation stance; Trump fiscal expansion and supply-chain reshoring likely to keep rates elevated.",
-        "signal_source": "CNBC (bond market Iran warning, Warsh rate-cut resistance, Treasury yields surging)"
+        "market_title": "Will XRP trade above $2.50 on or before September 30, 2026?",
+        "venue": "Polymarket",
+        "why_now": "CoinDesk reports XRP beat Bitcoin gains as CLARITY Act advanced; House lawmakers urging Trump to fill CFTC suggests regulatory clarity catalyst imminent.",
+        "signal_source": "CoinDesk (XRP beat BTC gains as CLARITY Act advanced, House lawmakers push Trump on CFTC)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Saudi Arabia launch a tokenized version of at least $1 trillion of its multi-asset economy by 2026-12-31?",
+        "question": "Will Taiwan issue a formal declaration of independence recognized by at least 5 UN member states by December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Saudi PIF announcements, Bloomberg, Reuters official reports on tokenization launch",
-        "why_underpriced": "Saudi Arabia's explicit recent move to tokenize economy to shield from geopolitical shocks is undertracked in Western crypto prediction markets; likely to drive massive institutional DeFi inflows if executed.",
-        "trigger_signal": "CoinDesk report on Saudi tokenization strategy; convergence with UAE's OPEC exit (strategic economic repositioning signal)"
+        "resolution_source": "UN official records of diplomatic recognition; BBC, Reuters, Bloomberg reporting",
+        "why_underpriced": "Trump's post-Xi summit warning against Taiwan independence is being read as de-escalation, but market underestimates probability of Taiwan leadership defiance or US policy reversal if China escalates military pressure.",
+        "trigger_signal": "CNBC/BBC (Taiwan insists it is independent after Trump warning; Trump-Xi arms sales standoff on Taiwan remains contentious)"
       },
       {
-        "question": "Will OpenAI's valuation exceed $200 billion in a confirmed funding round or IPO by 2026-08-31?",
+        "question": "Will the Strait of Hormuz remain closed (blocking >50% of normal traffic) for >14 consecutive days in 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "CNAS, IEA, USNI News reports on Strait transit; oil futures bid-ask volatility >$2/bbl intraday",
+        "why_underpriced": "UBS warning of record-low oil stockpiles by end of May is concrete signal of supply shock risk; UAE's OPEC exit (May 1) suggests cartel fracture and geopolitical instability.",
+        "trigger_signal": "CNBC (global oil stockpiles could hit record lows if Strait remains closed; UAE leaves OPEC May 1)"
+      },
+      {
+        "question": "Will Solana (SOL) outperform Ethereum (ETH) by >15% on a 30-day rolling basis at any point between June 1 and August 31, 2026?",
         "deadline": "2026-08-31",
-        "resolution_source": "SEC filings, company press release, Forbes/Bloomberg confirmation of valuation",
-        "why_underpriced": "Cerebras IPO hype pulling attention away from OpenAI, but OpenAI already among most valuable; Trump's tech stock buying + Anthropic competitive pressure likely to accelerate IPO timeline.",
-        "trigger_signal": "CNBC (Cerebras IPO boost, SpaceX/OpenAI attention spike), 36Kr (OpenAI considering legal action vs. Apple shows competitive intensity)"
+        "resolution_source": "CoinGecko, Binance OHLCV data; 30-day returns comparison",
+        "why_underpriced": "CoinDesk reports Solana infrastructure (Jump Crypto's Firedancer) rolling out slowly, but Jump Crypto is a heavyweight builder; market underestimates network upgrade impact if Firedancer unlocks 100k+ TPS.",
+        "trigger_signal": "CoinDesk (Jump Crypto's Firedancer taking slow steady approach to Solana rollout); Solana down 5% on May 5 creates oversold entry"
       },
       {
-        "question": "Will DeFi total value locked (TVL) exceed $300 billion by 2026-09-30?",
+        "question": "Will OpenAI's valuation exceed $150 billion in a primary or secondary fundraise by September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "DeFiLlama or CoinGecko TVL tracking; must include cross-chain aggregation",
-        "why_underpriced": "KelpDAO $293M hack and THORChain $10M exploit create near-term FUD, but market is choosing yields over security (CoinDesk report); recovery and new institutional DeFi frameworks likely by Q3.",
-        "trigger_signal": "CoinDesk (DeFi growth-despite-hacks narrative), CVX/AAVE trading volume, institutional bridge adoption"
+        "resolution_source": "SEC filings (Form D or 8-K), PitchBook, CrunchBase valuation milestone announcements",
+        "why_underpriced": "Cointelegraph reports OpenAI partnering with Malta on free ChatGPT Plus rollout (public good strategy); 36Kr reports OpenAI considering legal action vs. Apple (escalating competitive posture)—signals aggressive expansion and moat-building.",
+        "trigger_signal": "Cointelegraph (OpenAI partners with Malta for free ChatGPT Plus); 36Kr (OpenAI eyeing legal action vs. Apple)"
       },
       {
-        "question": "Will Bitcoin's spot ETF net inflows return positive for four consecutive weeks by 2026-07-15?",
-        "deadline": "2026-07-15",
-        "resolution_source": "Grayscale, BlackRock, Fidelity ETF flow reports; publicly reported weekly data",
-        "why_underpriced": "Current $1B outflow is tactical correction, not structural bearishness; CLARITY Act momentum + Trump tech buying + corporate Bitcoin adoption likely to reignite inflows within 8 weeks.",
-        "trigger_signal": "Cointelegraph (ETF bleed ends six-week inflow run); timing of CFTC nominations and CLARITY Act progress"
-      },
-      {
-        "question": "Will Anthropic's valuation exceed $50 billion in a Series funding round by 2026-11-30?",
-        "deadline": "2026-11-30",
-        "resolution_source": "PitchBook, Crunchbase, official Anthropic press release, or SEC filing",
-        "why_underpriced": "Anthropic rarely surfaces in English media prediction markets despite OpenAI competitive threat; 36Kr coverage of Apple-OpenAI tensions suggests Anthropic as alternative AI partner; unicorn dynamics favor 2026 high-valuation round.",
-        "trigger_signal": "CNBC (Cerebras/SpaceX/OpenAI hype = Anthropic FoMO from LPs), 36Kr (no Anthropic-specific China deal yet = runway for Western funding round)"
+        "question": "Will US House pass a crypto regulatory clarity bill (XRP/stablecoin focused) with >280 votes by June 30, 2026?",
+        "deadline": "2026-06-30",
+        "resolution_source": "House.gov bill tracker, Congress.gov roll-call votes, Crypto Council for Innovation press releases",
+        "why_underpriced": "CoinDesk reports House lawmakers overseeing CFTC urging Trump to fill the commission; CLARITY Act momentum on XRP is real, but market underestimates Trump's willingness to push House leadership on crypto infrastructure.",
+        "trigger_signal": "CoinDesk (US House lawmakers urging Trump to fill CFTC; XRP beat BTC gains as CLARITY Act advanced)"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Bitcoin will retest $82K–$85K within 60 days as CLARITY Act institutional tailwind offsets near-term macro headwinds (Iran geopolitical premium, Fed rate-cut pessimism).",
-        "horizon": "60 days",
+        "thesis": "Oil prices will spike >15% within 60 days if Strait of Hormuz closure persists; long crude oil futures / XLE ETF on UBS-flagged stockpile exhaustion risk.",
+        "horizon": "30–60 days",
         "supporting_signals": [
-          "CoinDesk: CLARITY Act brings 'major spike of euphoria'",
-          "CNBC: Bond market Iran warning suggests geopolitical premium embedded",
-          "Santiment sentiment spike on regulatory clarity",
-          "Trump CFTC nomination pressure accelerates post-Cerebras IPO"
+          "CNBC: 'Global oil stockpiles could hit record lows by end of May due to Strait of Hormuz closure' (UBS data)",
+          "CNBC: 'UAE leaves OPEC May 1, signaling cartel fracture and geopolitical instability'",
+          "Crude oil structural supply shock now pricing in only 5–10% risk premium vs. historical volatility"
         ],
-        "counter_view": "Spot Bitcoin ETF $1B weekly outflows suggest institutional lock-in fears; Kevin Warsh hawkish stance on rates will suppress risk appetite and duration strategies through Q3.",
-        "expression": "Long BTC perpetuals (2–3x leverage), or long BTC/USD spot via Coinbase; hedge with short 10Y Treasury futures if yields exceed 4.8%"
+        "counter_view": "Strait reopens within 2 weeks, or OPEC increases releases from strategic reserves, defusing shortage narrative.",
+        "expression": "WTI crude oil futures (Jul 2026 contract) or XLE (Energy sector ETF); entry on dips below $75/bbl, target $85+/bbl by June 30."
       },
       {
-        "thesis": "Solana (SOL) will outperform Bitcoin by 20–30% through 2026-08-31, driven by AI agent adoption (SANA-WM world model hype on HN) and DeFi yield-chasing despite hack risks.",
-        "horizon": "90 days",
+        "thesis": "Bitcoin reprices higher if Fed rate-cut expectations reset upward due to recession signals; Warsh appointment initially hawkish optics, but labor data or credit stress could force FOMC pivot by Q3 2026.",
+        "horizon": "60–120 days",
         "supporting_signals": [
-          "Hacker News: SANA-WM 2.6B world model trending (AI video generation)",
-          "CoinDesk: Crypto users choosing yields over safety",
-          "36Kr: AI + consumer tech brands gaining momentum (Mojawa, Shokz, Chinese EV ecosystem)",
-          "CoinGecko: SOL in top 5 trending cryptos alongside institutional TAO/SUI"
+          "CNBC: 'Kevin Warsh comes into Fed facing big family fight over cutting interest rates'; inflation spiking + yields surging = recession risk if policy over-tightens",
+          "CoinDesk: 'Crypto longs lose $500M as BTC slides to $78k'; capitulation signal suggests institutional underweight creates squeeze risk",
+          "Trump tech-stock purchases (Amazon, Meta, Oracle, Broadcom) signal bullish macro stance at odds with Warsh's initial hawkishness"
         ],
-        "counter_view": "Solana's network reliability concerns and validator concentration risk; THORChain $10M and KelpDAO $293M exploits may trigger systematic DeFi de-risking, crushing yield-heavy SOL ecosystem tokens.",
-        "expression": "Long SOL/BTC ratio (SOL underperforming on ratio basis); neutral spot or 1–2x perps; pair with short exposure to yield-farming tokens (SundaeSwap, Raydium) as hedge"
+        "counter_view": "Warsh holds firm, inflation persists, Fed hikes one more time; BTC retest $70k before recover.",
+        "expression": "BTC spot or Jun 2026 perpetual futures; entry $78–80k; target $95–100k by Aug 31 on rate-cut repricing."
       },
       {
-        "thesis": "U.S. Treasury 10Y yields will hold above 4.5% through Q3 2026 as Trump fiscal expansion, supply-chain reshoring, and Kevin Warsh hawkishness override traditional rate-cut narratives.",
-        "horizon": "120 days",
+        "thesis": "Solana infrastructure upgrade (Firedancer rollout) will drive SOL outperformance vs. ETH if Jump Crypto meets 100k+ TPS milestone by Q3 2026; SOL/ETH ratio diverges as network throughput becomes differentiator.",
+        "horizon": "90–150 days",
         "supporting_signals": [
-          "CNBC: Kevin Warsh confirmed at Fed; 'no mood to ease' amid inflation",
-          "CNBC: Bond market Iran geopolitical premium emerging",
-          "36Kr: Chinese EV and aerospace supply chains reshoring (Long supply-side inflation narrative)",
-          "CoinDesk: Bitcoin ETF outflows partly driven by yield competition from Treasury bills"
+          "CoinDesk: 'Jump Crypto's Firedancer is taking slow and steady approach to long-awaited Solana infrastructure rollout'",
+          "36Kr and Chinese crypto press largely silent on Solana, suggesting Western builders (Jump) maintain tech moat vs. China-centric chains",
+          "SOL down 5% on May 5 = oversold entry before infrastructure narrative re-ignites"
         ],
-        "counter_view": "Unexpected recession signal or credit event could trigger flight-to-quality and yield collapse; Fed may signal pause earlier than Warsh suggests if labor data rolls over.",
-        "expression": "Long TLT (20+ year Treasury ETF) call spreads; short duration via short intermediate Treasuries (IEF); long DXY (dollar strength from carry unwind protection)"
+        "counter_view": "Firedancer rollout delayed 6+ months; ETH Shanghai/Dencun upgrades prove more impactful; SOL network remains plagued by outages.",
+        "expression": "SOL/ETH perp ratio on Binance or Bybit; entry 0.085–0.095, target 0.12+ by end of Aug 2026."
       },
       {
-        "thesis": "Ethereum will trade a 0.045–0.050 BTC ratio (vs. current ~0.047) by 2026-07-31 as Ethereum institutional adoption accelerates faster than BTC, despite short-term macro volatility.",
-        "horizon": "90 days",
+        "thesis": "DeFi security crisis (KelpDAO $293M hack, THORChain $10M exploit) will drive institutional capital toward regulated staking and yield products; USDY (Ondo US Dollar Yield) and similar RWA tokens outperform native DeFi tokens.",
+        "horizon": "30–90 days",
         "supporting_signals": [
-          "Cointelegraph: Three catalysts for Ethereum price surge identified",
-          "DeFi TVL recovery narrative despite hack cycle (institutional infrastructure maturing)",
-          "TAO/SUI trending alongside ETH (institutional smart contract interest)",
-          "SpaceX/OpenAI IPO calendar = capital raising season favoring liquid, Ethereum-settled L1/L2 tokens"
+          "CoinDesk: 'The $293M KelpDAO hack shows why DeFi is finally being forced to grow up'",
+          "CoinDesk: 'Crypto users choosing juicy yields over protection, putting billions at risk'",
+          "CoinDesk: 'THORChain confirms $10M exploit, rolls out recovery portal'",
+          "USDY appears in crypto trending—institutional flow likely into regulated, audited yield vehicles"
         ],
-        "counter_view": "Bitcoin dominance could expand if geopolitical premium (Iran, Taiwan) drives macro risk-off and flight to non-correlated assets; Ethereum ecosystem hacks (KelpDAO, THORChain) may suppress relative valuation.",
-        "expression": "Long ETH/BTC ratio via spot or perps (1–2x leverage); paired with short 10Y Treasury futures as macro hedge"
+        "counter_view": "DeFi exploits viewed as temporary, protocols patch quickly, yields too low on RWA products; users return to higher-risk/higher-reward DeFi.",
+        "expression": "USDY spot; also long USDY/SOL ratio. Entry on current levels, target 20–30% premium to USD par by Jul 31 as institutional USDC/staking flows migrate to regulated yield."
       },
       {
-        "thesis": "SpaceX IPO success (June 11 pricing, Nasdaq listing Q2 2026) will trigger a 'Trump tech revaluation' causing NVDA, META, and AAPL to compress multiples while directing retail capital into aerospace/defense/AI ETFs (ITA, XAR).",
-        "horizon": "45 days to IPO + 90 days post-listing",
+        "thesis": "Trump tech-stock enthusiasm (Amazon, Meta, Oracle, Broadcom purchases reported) signals structural bullish bias; NVDA and semiconductor complex benefit from defense/AI capex cycle; rotate out of utilities/bonds into mega-cap tech.",
+        "horizon": "60–180 days",
         "supporting_signals": [
-          "CoinDesk: SpaceX June 11 IPO pricing target confirmed",
-          "CNBC: Trump mega-tech buying (Amazon, Meta, Oracle, Broadcom) signals leadership confidence",
-          "36Kr: Chinese aerospace manufacturing (思创航天) raising Series capital; competitive dynamic",
-          "Hacker News: Frontier AI CTF-breaking + SANA world models = AI compute demand tailwind for aerospace"
+          "CNBC: 'Trump went big on tech stocks in first quarter of 2026, new filings show'; bought Amazon, Meta, Oracle, Broadcom, Motorola, Dell",
+          "CNBC: 'Investors are living through Trump's stock market' (record highs narrative)",
+          "36Kr: 'NVIDIA总市值超过德国GDP' (NVIDIA market cap exceeds German GDP)—signals market repricing of AI/chip dominance",
+          "SpaceX IPO (Jun 11 pricing) will benefit from Trump administration tailwinds"
         ],
-        "counter_view": "SpaceX IPO faces hostile macro backdrop (high rates, geopolitical uncertainty on Taiwan); mega-cap tech already richly valued; retail euphoria may fade within 2 weeks post-listing.",
-        "expression": "Long XAR (Aerospace & Defense ETF) or ITA (Aerospace relative to S&P 500); short mega-cap tech (NVDA call spread); pair with long SpaceX public shares post-IPO"
+        "counter_view": "Tax policy uncertainty, tariff escalation vs. China undermine equity valuations; rotation to value / defensives if recession signals emerge.",
+        "expression": "QQQ (Nasdaq 100 ETF) or NVDA outright; also long NVDA/IWM ratio (tech vs. small-cap value). Entry on any 3–5% correction, target SPY 540+ by Aug 31."
       }
-    ]
+    ],
+    "_flag_chinese_sources": {
+      "note": "36Kr (Chinese tech/startup press) reporting actively on AI, automotive intelligence, aerospace/defense manufacturing, and consumer electronics—areas not yet covered by English financial press.",
+      "examples": [
+        "36Kr exclusive: 千里科技 (Qianli Tech) in talks with Changan, Audi, Chery for autonomous driving partnerships; Changan planning equity investment",
+        "36Kr first: 思创航天 (Beijing Sichang Aerospace Precision) raised multimillion-yuan Series A for satellite/rocket engine core components—unique domestic capability",
+        "36Kr: 骨传导 (bone conduction) audio startup Mojawa (索迩电子) completed A+ round; former Apple engineer leads; patent moat vs. Shokz",
+        "36Kr: Samsung developing next-gen HBM packaging (stacked memory) for mobile devices—potential NVIDIA/TSMC supply chain disruption play",
+        "36Kr: 海南 (Hainan) accelerating rocket, satellite, and data infrastructure clusters—state-level manufacturing push in aerospace/defense"
+      ],
+      "implication": "Chinese sources signal aggressive domestic capex in semiconductors, autonomous vehicles, and space infrastructure. English press lags; investors monitoring Chinese industrials (BYD, CATL, SMIC-adjacent plays) may have early-mover advantage on supply chain themes."
+    }
   }
 }
