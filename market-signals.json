@@ -1,13 +1,48 @@
 {
-  "generated_at_utc": "2026-05-19T16:15:39.895266+00:00",
+  "generated_at_utc": "2026-05-19T22:09:51.738042+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
+        "title": "Trump's past tax returns get protection from IRS enforcement under 'lawfare' fund settlement",
+        "summary": "President Trump agreed to drop his lawsuit against the IRS in exchange for a fund that can compensate allies who were targeted under the Biden administration.",
+        "link": "https://www.cnbc.com/2026/05/19/trump-taxes-irs-doj-fund.html",
+        "published": "Tue, 19 May 2026 21:00:46 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic",
+        "summary": "Google made a number of AI announcements at its annual developer conference, rolling out more-advanced models and agentic tools for its expansive user base.",
+        "link": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html",
+        "published": "Tue, 19 May 2026 20:52:04 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Vance defends stock-trading spree in Trump financial filings: 'Come on, man'",
+        "summary": "Vice President JD Vance said at the White House on Tuesday that he and President Donald Trump both support banning congressional stock trading.",
+        "link": "https://www.cnbc.com/2026/05/19/trump-vance-stock-trades.html",
+        "published": "Tue, 19 May 2026 19:46:27 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
-        "summary": "Global bond markets remain on edge as traders monitor central bank responses to renewed inflation fears.",
+        "summary": "Global bond markets remained on edge as traders monitored central bank responses to renewed inflation fears.",
         "link": "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html",
-        "published": "Tue, 19 May 2026 16:13:28 GMT"
+        "published": "Tue, 19 May 2026 21:14:40 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Mortgage rates surge to highest level since July",
+        "summary": "Mortgage rates continued to move higher Tuesday on uncertainty over the war with Iran. They are at the highest level since last July.",
+        "link": "https://www.cnbc.com/2026/05/19/mortgage-rates-closing-in-on-7percent.html",
+        "published": "Tue, 19 May 2026 20:06:10 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Google gives first glimpse of new AI glasses ahead of fall launch",
+        "summary": "At its annual developers conference, Google offered a first look at its audio smart glasses that will be available later this year.",
+        "link": "https://www.cnbc.com/2026/05/19/google-gives-first-glimpse-of-new-ai-glasses-ahead-of-fall-launch-.html",
+        "published": "Tue, 19 May 2026 20:10:21 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -18,66 +53,45 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
-        "summary": "AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates as companies like Ford and AT&amp;T ramp up recruiting for skilled trade workers.",
-        "link": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
-        "published": "Tue, 19 May 2026 13:29:40 GMT"
+        "title": "Polymarket launches private company trading so investors can speculate on Anthropic, OpenAI",
+        "summary": "The company is launching prediction markets tied to private company milestones, including valuations, IPO timing and secondary-market activity for names like OpenAI and Anthropic.",
+        "link": "https://www.cnbc.com/2026/05/19/polymarket-launches-private-company-trading-so-investors-can-speculate-on-anthropic-openai.html",
+        "published": "Tue, 19 May 2026 19:56:27 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Trump says he was 'an hour away' from Iran strike decision before he postponed it",
-        "summary": "Asked how long Iran has to come to the table, Trump said it could be two or three days, or perhaps until Sunday or early next week.",
-        "link": "https://www.cnbc.com/2026/05/19/trump-iran-war-strike-postponed.html",
-        "published": "Tue, 19 May 2026 15:55:59 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Bessent urges G7 to help U.S. attack Iran's finances",
-        "summary": "The Iran war continues to wreak havoc on global oil supply and the broader economy, even as the conflict appears to be locked in an uneasy stalemate.",
-        "link": "https://www.cnbc.com/2026/05/19/bessent-g7-iran-finance-terrorism.html",
-        "published": "Tue, 19 May 2026 15:43:05 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Blanche won't rule out Jan. 6 rioters getting Trump DOJ fund payouts",
-        "summary": "Acting Attorney General Todd Blanche would not rule out Jan. 6 rioters receiving payouts from Trump’s new DOJ \"anti-weaponization\" fund.",
-        "link": "https://www.cnbc.com/2026/05/19/trump-doj-irs-fund-blanche-payouts-jan-6-rioters.html",
-        "published": "Tue, 19 May 2026 15:36:12 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Home Depot says core shopper is resilient in the face of higher gas prices, sales rise 5%",
-        "summary": "Home Depot beat Wall Street's expectations on the top and bottom lines, even as some shoppers pulled back on larger projects.",
-        "link": "https://www.cnbc.com/2026/05/19/home-depot-hd-q1-2026-earnings.html",
-        "published": "Tue, 19 May 2026 15:33:54 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Startup backed by American Eagle CEO reaches unicorn status in latest funding round",
-        "summary": "Radar, a hardware and software company that helps retailers better manage inventory and cut back on theft, is now valued at over $1 billion.",
-        "link": "https://www.cnbc.com/2026/05/19/radar-reaches-unicorn-status-in-series-b-funding-round.html",
-        "published": "Tue, 19 May 2026 11:00:01 GMT"
+        "source": "BBC World",
+        "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+        "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
+        "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 19 May 2026 18:05:26 GMT"
       },
       {
         "source": "BBC World",
         "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
         "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
         "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 19 May 2026 14:20:15 GMT"
+        "published": "Tue, 19 May 2026 19:32:22 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Key people smuggler arrested after BBC uncovered identity",
+        "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK.",
+        "link": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 19 May 2026 17:05:41 GMT"
       },
       {
         "source": "BBC World",
         "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
         "summary": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\".",
         "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 19 May 2026 12:30:48 GMT"
+        "published": "Tue, 19 May 2026 20:32:36 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
-        "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.",
-        "link": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 19 May 2026 10:58:23 GMT"
+        "title": "Estonia says Nato jet shot down drone over its territory",
+        "summary": "Estonia suspects the drone was a Ukrainian projectile knocked off course by Russian electronic jamming.",
+        "link": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 19 May 2026 19:01:44 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +102,59 @@
       },
       {
         "source": "BBC World",
+        "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
+        "summary": "Many visitors who have been exempt for 60 days will soon have to apply for a visa after 30 days.",
+        "link": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 19 May 2026 16:34:21 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
         "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
         "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
         "published": "Tue, 19 May 2026 10:46:50 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Two bodies of missing Italians recovered from inside Maldives cave",
-        "summary": "The two were among four divers located in the furthest chamber in the cave and their bodies were recovered by specialist divers.",
-        "link": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 19 May 2026 15:43:58 GMT"
+        "source": "CoinDesk",
+        "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says",
+        "published": "Tue, 19 May 2026 20:47:28 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Uncontrolled California wildfires seen from space",
-        "summary": "Some 750 firefighters are tackling the uncontrolled blazes supported by water-dropping helicopters.",
-        "link": "https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 19 May 2026 13:39:45 GMT"
+        "source": "CoinDesk",
+        "title": "This bitcoin bear market is different with 'uniquely pessimistic' traders limiting downside, K33 says",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/19/this-bitcoin-bear-market-is-different-with-uniquely-pessimistic-traders-limiting-downside-k33-says",
+        "published": "Tue, 19 May 2026 20:30:21 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Jackson Pollock painting sells for record $181m at auction",
-        "summary": "The Abstract Expressionist's Number 7A, 1948 painting is now his most expensive artwork ever sold at auction.",
-        "link": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 19 May 2026 09:59:58 GMT"
+        "source": "CoinDesk",
+        "title": "Zerohash pursues new funding at more than $1.5 billion valuation after Mastercard drops investment plans",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/05/19/zerohash-pursues-new-funding-at-more-than-usd1-5-billion-valuation-after-mastercard-drops-investment-plans",
+        "published": "Tue, 19 May 2026 18:46:18 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Hyperliquid’s HYPE one of crypto’s most undervalued assets, says Bitwise",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/19/hyperliquid-s-hype-one-of-crypto-s-most-undervalued-assets-says-bitwise",
+        "published": "Tue, 19 May 2026 18:33:58 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "The SEC wants to let newly public companies raise cash instantly in its biggest rule change in decades",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/19/the-sec-wants-to-let-newly-public-companies-raise-cash-instantly-in-its-biggest-rule-change-in-decades",
+        "published": "Tue, 19 May 2026 17:04:07 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "The U.S. can’t lose the bitcoin race to China",
+        "summary": "",
+        "link": "https://www.coindesk.com/opinion/2026/05/19/the-u-s-can-t-lose-the-bitcoin-race-to-china",
+        "published": "Tue, 19 May 2026 16:36:30 +0000"
       },
       {
         "source": "CoinDesk",
@@ -129,53 +171,11 @@
         "published": "Tue, 19 May 2026 15:14:30 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Senator Elizabeth Warren accuses U.S. regulator of approving unqualified crypto banks",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/05/19/senator-elizabeth-warren-accuses-u-s-regulator-of-approving-unqualified-crypto-banks",
-        "published": "Tue, 19 May 2026 15:04:51 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "21Shares says Hyperliquid ETF demand shows appetite for 24/7 trading",
-        "summary": "",
-        "link": "https://www.coindesk.com/news-analysis/2026/05/19/21shares-says-hyperliquid-etf-demand-shows-appetite-for-24-7-trading",
-        "published": "Tue, 19 May 2026 15:01:23 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Polymarket unlocks $5 trillion private market for retail traders, previously reserved for elites",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/19/polymarket-unlocks-usd5-trillion-private-market-for-retail-traders-previously-reserved-for-elites",
-        "published": "Tue, 19 May 2026 14:51:28 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Crypto IPO boom stalls as AI frenzy reshapes tech markets, says Fundstrat exec",
-        "summary": "",
-        "link": "https://www.coindesk.com/news-analysis/2026/05/19/crypto-ipo-boom-stalls-as-ai-frenzy-reshapes-tech-markets",
-        "published": "Tue, 19 May 2026 14:40:48 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Live markets: Bitcoin gives up $77,000 as interest rates continue surge, stocks continue slump",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/05/19/live-markets-bitcoin-hangs-near-usd77-000-as-interest-rates-continue-to-surge",
-        "published": "Tue, 19 May 2026 14:14:59 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "JPMorgan says ether and altcoins won't catch up to bitcoin without a major network boom",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/19/jpmorgan-says-ether-and-altcoins-won-t-catch-up-to-bitcoin-without-a-major-network-boom",
-        "published": "Tue, 19 May 2026 13:59:46 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Recent Bitcoin holders sell $770M BTC at a loss amid $65K BTC price calls",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Recent Bitcoin holders sell $770M BTC at a loss amid $65K BTC price calls\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1pcy1iaXRjb2luLXRoZS1uZXctc2FmZS1oYXZlbi1kdXJpbmctdHJhZGUtd2Fycy0xLmpwZw==.jpg\" /></p><p>More than 10,000 Bitcoin have been sold at a loss by short-term holders in recent days, adding fuel to analysts’ predic",
-        "link": "https://cointelegraph.com/markets/recent-bitcoin-holders-sell-770m-btc-at-a-loss-amid-65k-btc-price-calls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 19 May 2026 14:19:38 +0000"
+        "title": "Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC’s next stop?",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC’s next stop?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWFyZS1jcnlwdG9jdXJyZW5jeS1oZWRnZS1mdW5kcy1hbmQtaG93LWRvLXRoZXktd29yay0xLmpwZw==.jpg\" /></p><p>Bitcoin futures and orderbook data show dip buyers waiting for a BTC price drop below $70,000.</p>",
+        "link": "https://cointelegraph.com/markets/bitcoin-traders-may-look-for-deeper-pullback-zones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 19 May 2026 20:34:45 +0000"
       }
     ],
     "chinese_news": [
@@ -240,65 +240,65 @@
       {
         "source": "Hacker News",
         "title": "I’ve joined Anthropic",
-        "summary": "score: 351, comments: 128",
+        "summary": "score: 1040, comments: 418",
         "link": "https://twitter.com/karpathy/status/2056753169888334312",
-        "score": 351
-      },
-      {
-        "source": "Hacker News",
-        "title": "Gaussian Splat of a Strawberry",
-        "summary": "score: 316, comments: 129",
-        "link": "https://superspl.at/scene/84df8849",
-        "score": 316
+        "score": 1040
       },
       {
         "source": "Hacker News",
         "title": "Apple unveils new accessibility features",
-        "summary": "score: 307, comments: 160",
+        "summary": "score: 545, comments: 282",
         "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-        "score": 307
+        "score": 545
       },
       {
         "source": "Hacker News",
-        "title": "Peter Neumann has died",
-        "summary": "score: 253, comments: 19",
-        "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-        "score": 253
+        "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+        "summary": "score: 478, comments: 105",
+        "link": "https://virtualosmuseum.org/",
+        "score": 478
       },
       {
         "source": "Hacker News",
-        "title": "OpenBSD 7.9",
-        "summary": "score: 224, comments: 128",
-        "link": "https://www.openbsd.org/79.html",
-        "score": 224
+        "title": "Show HN: Gaussian Splat of a Strawberry",
+        "summary": "score: 446, comments: 179",
+        "link": "https://superspl.at/scene/84df8849",
+        "score": 446
       },
       {
         "source": "Hacker News",
-        "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
-        "summary": "score: 195, comments: 52",
-        "link": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-        "score": 195
+        "title": "Gemini 3.5 Flash",
+        "summary": "score: 397, comments: 312",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "score": 397
       },
       {
         "source": "Hacker News",
-        "title": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
-        "summary": "score: 160, comments: 122",
-        "link": "https://github.com/Diolinux/PhotoGIMP",
-        "score": 160
+        "title": "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
+        "summary": "score: 324, comments: 158",
+        "link": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
+        "score": 324
       },
       {
         "source": "Hacker News",
-        "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-        "summary": "score: 155, comments: 46",
-        "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-        "score": 155
+        "title": "Google changes its search box",
+        "summary": "score: 239, comments: 406",
+        "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+        "score": 239
+      },
+      {
+        "source": "Hacker News",
+        "title": "Disney erased FiveThirtyEight",
+        "summary": "score: 223, comments: 119",
+        "link": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
+        "score": 223
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Zest Protocol (ZEST)",
-        "summary": "market cap rank: 913",
+        "summary": "market cap rank: 877",
         "link": "https://www.coingecko.com/en/coins/zest-protocol"
       },
       {
@@ -309,169 +309,167 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 14",
-        "link": "https://www.coingecko.com/en/coins/zcash"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 86",
+        "summary": "market cap rank: 81",
         "link": "https://www.coingecko.com/en/coins/venice-token"
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 163",
+        "link": "https://www.coingecko.com/en/coins/lighter"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Ondo (ONDO)",
-        "summary": "market cap rank: 49",
+        "summary": "market cap rank: 47",
         "link": "https://www.coingecko.com/en/coins/ondo"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 99",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Derive (DRV)",
+        "summary": "market cap rank: 331",
+        "link": "https://www.coingecko.com/en/coins/derive"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Zano (ZANO)",
-        "summary": "market cap rank: 201",
-        "link": "https://www.coingecko.com/en/coins/zano"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 98",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin fall below $65,000 by end of June 2026?",
+        "market_title": "Will Bitcoin close above $80,000 on or before December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Recent BTC holders selling $770M at loss amid $65K price calls; 30yr Treasury at 5.19% (highest since 2008 crisis) is a macro headwind that could trigger cascade liquidations.",
-        "signal_source": "Cointelegraph recent holder capitulation; CNBC Treasury yield spike; CoinDesk BTC gives up $77K"
+        "why_now": "30-year Treasury yields at 5.19% (crisis-high) create macro headwinds; BTC currently sub-$77K despite institutional inflows—bond yields are the critical marginal price driver.",
+        "signal_source": "CNBC (Treasury yield 5.19%); Cointelegraph (BTC under $77K, US bond yields near 20-year highs)"
       },
       {
-        "market_title": "Will U.S. strike Iran within 14 days (by May 19, 2026)?",
+        "market_title": "Will OpenAI achieve a valuation ≥$200B in any secondary market transaction by June 30, 2027?",
+        "venue": "Polymarket",
+        "why_now": "Polymarket just launched private company trading for OpenAI/Anthropic valuations; Google's aggressive AI agent rollout raises stakes for OpenAI's perceived moat.",
+        "signal_source": "Polymarket/Cointelegraph (private company markets launch); CNBC (Google AI agents debut)"
+      },
+      {
+        "market_title": "Will the Fed cut its policy rate below 4.5% by December 31, 2026?",
         "venue": "Kalshi",
-        "why_now": "Trump explicitly stated he was 'an hour away' from Iran strike decision and said deadline could be 'two or three days, or perhaps until Sunday or early next week'—concrete near-term binary with defined Trump statement.",
-        "signal_source": "CNBC Trump Iran strike postponement; Bessent Iran financial attack rhetoric"
+        "why_now": "30Y yields spike to 5.19% amid inflation fears and Middle East uncertainty; traders are pricing in persistent rate persistence, but recession risk may force cuts sooner than expected.",
+        "signal_source": "CNBC (Treasury yields highest since financial crisis; mortgage rates surge to July 2025 highs)"
       },
       {
-        "market_title": "Will Ethereum outperform Bitcoin (ETH/BTC ratio > 0.055) by end of Q3 2026?",
+        "market_title": "Will Anthropic's valuation exceed $100B in any financing round or secondary market by September 30, 2026?",
         "venue": "Manifold",
-        "why_now": "JPMorgan report states 'ether and altcoins won't catch up to bitcoin without a major network boom'; market is pricing in structural lag; if Ethereum network upgrade or institutional adoption signals emerge, this is an asymmetric bet.",
-        "signal_source": "JPMorgan crypto research; CoinDesk Ethereum Foundation departures suggesting either churn or upcoming strategic pivot"
+        "why_now": "Google's new AI models and agentic tools are live; Anthropic's competitive positioning is now directly testable; private market trading just enabled.",
+        "signal_source": "CNBC (Google AI agents debut); Polymarket (private company markets launch); Hacker News (Anthropic hiring spike score 1040)"
       },
       {
-        "market_title": "Will 30-year U.S. Treasury yield exceed 5.50% by July 31, 2026?",
-        "venue": "Kalshi",
-        "why_now": "Already at 5.19% (highest since before 2008 financial crisis); renewed inflation fears and geopolitical premium (Iran conflict) are pushing rates higher; only 31bps needed for resolution.",
-        "signal_source": "CNBC Treasury yield surge; global bond market edge; Middle East insurance war coverage gaps suggest ongoing tail risk"
-      },
-      {
-        "market_title": "Will SpaceX achieve IPO filing by December 31, 2026?",
-        "venue": "Manifold",
-        "why_now": "36Kr reports SpaceX is 'about to become Musk's second listed company' (imminent signal); S-1 filing is measurable, binary, and has concrete regulatory checkpoints.",
-        "signal_source": "36Kr exclusive: SpaceX lisitng plans; Musk track record of Neuralink trials (2026) signals operational milestone velocity"
+        "market_title": "Will Ethereum close above $3,500 by September 30, 2026?",
+        "venue": "Polymarket",
+        "why_now": "ETH/BTC ratio under pressure as Bitcoin dominance rises amid macro uncertainty; tokenization thesis (BoE, Ethereum Foundation roadmap) offers medium-term upside but faces near-term headwinds.",
+        "signal_source": "Cointelegraph (Bitcoin price dominance); CoinDesk ('What's happening at EF?' departures signal uncertainty)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Powell cut Federal Funds Rate by 50+ basis points in 2026?",
+        "question": "Will Elon Musk's Neuralink implant a device in a human patient for blindness treatment on or before December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Federal Reserve press releases; FOMC dot plot and official rate decisions",
-        "why_underpriced": "Current 5.19% 30yr Treasury and equity selloff are pricing in rates staying higher for longer; market expects only 1-2 cuts; if inflation cools faster than consensus, cuts could accelerate sharply.",
-        "trigger_signal": "CPI print falls below 2.5% YoY; stock market stress forces Fed hand; bond volatility spikes above VIX historical median"
+        "resolution_source": "Neuralink official announcement or credible medical/SEC filing; Musk's public statements on timeline (flagged in 36Kr)",
+        "why_underpriced": "Musk publicly stated intent for 2026; medical trials often slip, but market underestimates his execution velocity on high-stakes neurotechnology; positive PR for crypto/tech sector if successful.",
+        "trigger_signal": "36Kr reported Musk said 'plan to conduct first Neuralink implant for blindness treatment this year'; mainstream media has not yet amplified this timeline."
       },
       {
-        "question": "Will BitcoinETH (spot BTC ETF) assets under management exceed $500 billion by September 30, 2026?",
+        "question": "Will SpaceX achieve a successful orbital flight test of its Starship vehicle with at least 50% booster recovery by March 31, 2027?",
+        "deadline": "2027-03-31",
+        "resolution_source": "SpaceX official statement, FAA payload database, or third-party tracking (e.g., NASASpaceflight); excludes uncrewed cargo-only missions.",
+        "why_underpriced": "36Kr flagged imminent SpaceX IPO (becoming Musk's second public company); market is pricing in binary success/failure rather than incremental engineering victories that drive valuation.",
+        "trigger_signal": "36Kr ('SpaceX about to become Musk's second public company') signals IPO window narrowing; successful high-profile booster recovery would be IPO-critical narrative."
+      },
+      {
+        "question": "Will Google's new AI-powered smart glasses launch before December 31, 2026, with >500K units sold or pre-ordered by that date?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Google official press release; third-party sales tracking (IDC, Counterpoint); regulatory filings if applicable.",
+        "why_underpriced": "Google announced fall 2026 launch at I/O 2026; market is not yet pricing in hardware form-factor risk or Anthropic/OpenAI competitive response in embodied AI.",
+        "trigger_signal": "CNBC reported Google 'gave first glimpse of audio smart glasses ahead of fall launch'; no English media yet discussing sales projections or binding pre-orders."
+      },
+      {
+        "question": "Will Bitcoin's realized price drop below $65,000 at any point before June 30, 2026?",
+        "deadline": "2026-06-30",
+        "resolution_source": "CoinMarketCap or CoinGecko daily OHLC data; intraday lows count.",
+        "why_underpriced": "Cointelegraph reported 'dip buyers waiting for lower prices' and '$70K BTC's next stop'; current price sub-$77K plus rising Treasury yields (5.19%) create macro headwind; 15% further downside is plausible in 30-60 days.",
+        "trigger_signal": "Cointelegraph data shows dip-buying thesis, but CoinDesk reports 'uniquely pessimistic traders limiting downside'—divergence suggests market is overshooting either up or down."
+      },
+      {
+        "question": "Will Polymarket's private company trading volume (OpenAI + Anthropic combined) exceed $100M cumulative notional by September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "SEC filings; Grayscale, iShares, Fidelity ETF AUM disclosures",
-        "why_underpriced": "Recent BTC capitulation creates entry opportunity for institutional flows; if geopolitical premium compresses or Fed eases, institutional bid will re-emerge; Polymarket unlocking $5T private market is expanding retail ETF demand.",
-        "trigger_signal": "Iran conflict resolution; Treasury yields peak; Fidelity BTC ETF continues inflows at current pace"
-      },
-      {
-        "question": "Will Canaan Creative (crypto miner) stock recover above Q1 2026 opening price by December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Canaan Creative Hong Kong stock exchange (NASDAQ/HKEx) closing price",
-        "why_underpriced": "Currently posting $88.7M Q1 net loss; but if BTC rebounds above $77K and held, miner cash flow swings positive—contrarian play tied to BTC recovery thesis.",
-        "trigger_signal": "Bitcoin stabilizes above $71K; mining difficulty adjusts lower; difficulty-to-hashrate ratio suggests capitulation near bottom"
-      },
-      {
-        "question": "Will Zcash (ZEC) close at or above $500 by August 31, 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "CoinGecko; Kraken; Binance spot price ZEC/USD",
-        "why_underpriced": "Cointelegraph reports ZEC 'running its own bull market' with '88% rally setup' already in play; privacy coin narrative strengthens if regulatory crackdown on transparent chains accelerates; trending on crypto feeds despite low English media coverage.",
-        "trigger_signal": "Monero delisting from exchanges forces ZEC to capture privacy-seeking volume; crypto regulatory pressure increases; technical breakout confirmation"
-      },
-      {
-        "question": "Will Home Depot stock (HD) outperform SPY by >10% over next 180 days (by November 3, 2026)?",
-        "deadline": "2026-11-03",
-        "resolution_source": "Yahoo Finance; S&P 500 and HD closing prices",
-        "why_underpriced": "Just beat Q1 with 5% sales rise despite higher gas prices; blue-collar hiring strength (skilled trades) is a secular tailwind per CNBC; if interest rates peak and housing sentiment rebounds, discretionary remodeling accelerates.",
-        "trigger_signal": "Fed rate cut cycle begins; 30yr Treasury breaks below 4.80%; housing starts rebound; lumber futures stabilize"
+        "resolution_source": "Polymarket official dashboard or Messari/CryptoFeesIO aggregated trading data; Nasdaq official partnership announcements.",
+        "why_underpriced": "Polymarket just launched; Nasdaq partnership validation is bullish for institutional adoption; no comparable private-company prediction market has proven sustained >$100M volume, so market is pricing in 'toy' status.",
+        "trigger_signal": "Polymarket/Nasdaq partnership only announced this week; early adopter bias among crypto-native traders suggests initial volume spike, but institutional participation is unproven."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Short intermediate Treasuries (TLT) and long inflation breakevens (RINF) on geopolitical premium overshoot and technical exhaustion above 5.19% 30yr yield.",
-        "horizon": "30–60 days",
+        "thesis": "Long BTC/short long-duration US Treasury yields (via BTC perps + TLT short or 30Y yield calls) as inflation persistence forces Fed to hold tight despite bond market stress.",
+        "horizon": "60-90 days",
         "supporting_signals": [
-          "30yr at 5.19% is highest since pre-2008 crisis—historically extreme",
-          "Iran conflict appears to be in 'uneasy stalemate' per Bessent/CNBC; strike deadline is imminent, binary event risk compresses after May 19",
-          "JPMorgan, CoinDesk report bond volatility is unsustainable; equity margin calls if TLT falls further"
+          "30Y Treasury yields at 5.19%, highest since before 2008 financial crisis (CNBC)",
+          "Mortgage rates surge to highest since July 2025 despite Fed pause (CNBC)",
+          "Middle East escalation (Iran tensions, insurance 'war' coverage) driving geopolitical premium in bonds",
+          "CoinDesk reports 'uniquely pessimistic traders limiting downside'—suggests capitulation floor forming"
         ],
-        "counter_view": "Iran escalation deepens unexpectedly; Russia enters conflict; oil spikes above $120/bbl and inflation re-accelerates, pushing 30yr to 5.50%+ before reversal.",
-        "expression": "Short TLT 100 shares; Long SCHP (TIPS ETF) or RINF (inflation breakeven ETF) as hedge"
+        "counter_view": "Bond yields could spike further to 5.5%+ if inflation accelerates, crushing BTC risk appetite; hard asset bid (gold, oil) could outpace crypto in flight-to-safety scenarios.",
+        "expression": "Buy BTC perps (3x leverage, 60-day hold); hedge by shorting TLT (20+ year Treasury ETF) or buying calls on 30Y Treasury yields"
       },
       {
-        "thesis": "Bitcoin is capitulating into a reversal zone ($65K–$70K); buy dip on Fed pivot optionality and technical bounce back to $77K–$80K within 60–90 days.",
-        "horizon": "60–90 days",
+        "thesis": "Long Ethereum (and ETH/BTC ratio long) on tokenization tailwinds (BoE remarks + Wall Street infrastructure plays) plus resolution of Ethereum Foundation uncertainty by mid-2026.",
+        "horizon": "120-180 days",
         "supporting_signals": [
-          "Recent BTC holders selling $770M at loss—classic capitulation signature",
-          "Canaan miner posting $88.7M Q1 loss—small miners exiting; supply shock risk lower",
-          "Polymarket $5T private market unlocking retail institutional bid; new Hyperliquid ETF demand signals appetite for 24/7 crypto trading"
+          "BoE deputy says tokenization could cut costs and boost competition (Cointelegraph)",
+          "Former BNY exec launches NUVA bet on Wall Street tokenization remake (CoinDesk)",
+          "Ethereum Foundation departures raising uncertainty (CoinDesk), but clearing fog = positive catalyst",
+          "Google/OpenAI AI agents will demand on-chain settlement—Ethereum L1+L2 ecosystem is beneficiary"
         ],
-        "counter_view": "Treasuries stay elevated; recession fears spike; stock market crashes below SPY 480; Bitcoin re-tests $60K as risk-off intensifies.",
-        "expression": "BTC long via spot ETF (IBIT) or BTC/USD perpetual futures; or buy BTC dip at $65K–$67K, target $77K"
+        "counter_view": "Bitcoin dominance rising amid macro uncertainty (Treasury yields 5.19%); Ethereum Layer-2 fragmentation may dilute tokenization value capture; regulatory uncertainty on tokenized securities could arrest momentum.",
+        "expression": "Long ETH spot or ETH perps (2x, 150-day hold); pair trade long ETH/short BTC on ratio basis"
       },
       {
-        "thesis": "Rotation into blue-collar / skilled trades hiring and robotics (AI physical labor) will outpace software/SaaS through 2026 as entry-level hiring slows; favor XRT, ROBO, or direct positions (NVDA, MU for AI chip tailwinds).",
-        "horizon": "90–180 days",
+        "thesis": "Short XRP into strength (despite 9-day ETF inflow streak) due to Ripple's binary regulatory exposure and diminished moat after PayPal tokenization narrative fades.",
+        "horizon": "30-60 days",
         "supporting_signals": [
-          "CNBC: AI-driven hiring slowdowns hitting entry-level college grad jobs; Ford, AT&T ramping skilled trade recruitment—secular shift",
-          "36Kr: Jinyue Power (whale dynamics) launching Robo Labor platform (2026 startup)—signal of market inflection",
-          "36Kr: Home Depot beat with core shopper resilience—discretionary remodeling/trades demand holding"
+          "Cointelegraph: 'XRP price risks 50% drop despite 9-day ETF inflow streak' (active debate on fundamentals)",
+          "Polymarket private company markets now live—OpenAI/Anthropic valuations will crowd out XRP narrative",
+          "CoinDesk tokenization thesis centers on BNY/Wall Street infrastructure (NUVA), not Ripple ecosystem",
+          "Senator Warren questioning OCC crypto trust charters (regulatory headwind)"
         ],
-        "counter_view": "AI large-language models eliminate white-collar jobs faster than trades can absorb displaced workers; unemployment spikes; consumer sentiment crashes.",
-        "expression": "Long XRT (retail select) or ROBO (ROBO-U robotics ETF); Long MU (DRAM/NAND AI infrastructure play); avoid consumer staples"
+        "counter_view": "XRP ETF inflows are real and sticky; Ripple ODL on-ramp/off-ramp business is genuinely differentiated; Trump administration may be pro-crypto-infrastructure (BTC mining narrative strong).",
+        "expression": "Short XRP spot or perps (3x short, 45-day hold); or buy XRP 50% downside put-spread if options available"
       },
       {
-        "thesis": "Geopolitical tail risk (Iran strike, Middle East escalation) is being mispriced in energy and defense; long oil futures (WTI) and CYD (defense sector ETF) into event resolution, then unwind if stalemate holds.",
-        "horizon": "14–45 days",
+        "thesis": "Long NVDA (and semis sector via SMH) on AI agent capex cycle intensity signaled by Google/Anthropic/OpenAI product acceleration, offset by near-term bond yield headwinds.",
+        "horizon": "90-180 days",
         "supporting_signals": [
-          "Trump explicitly said strike could be 'two or three days, or perhaps until Sunday or early next week' (May 5–12 window)",
-          "Bessent calling for G7 to help attack Iran's finances—coordinated financial + kinetic escalation on table",
-          "Middle East insurers complaining war coverage gaps suggest real tail risk is NOT fully hedged in derivatives market"
+          "Google unveiled new AI models and agentic tools at I/O (CNBC); Anthropic hiring surge (HN score 1040)",
+          "Polymarket private markets launching signals $1T+ value at stake for OpenAI/Anthropic—requires massive inference infra",
+          "Hacker News discussion 'Gemini 3.5 Flash' (score 397) shows enterprise AI deployment accelerating",
+          "36Kr: Byte Dance/番茄小说 pushing AI anime to theaters—inference at scale for video"
         ],
-        "counter_view": "Negotiations break through unexpectedly; Trump delays again; crude falls back to $70/bbl; defense sector momentum breaks.",
-        "expression": "Long WTI (oil futures CLF contract); Long ITA (aerospace/defense ETF) or direct DFE (defense pick); stop-loss at crude $68/bbl"
+        "counter_view": "Semiconductor cycle historically peaks 6-9 months after announcements; current valuations already price in AI capex; bond yield spike (5.19%) crushes growth multiples; China competition (memory/logic) rising.",
+        "expression": "Long NVDA stock or call spreads (60-day, delta 0.6); or long SMH (semiconductor sector ETF) for broad exposure with lower concentration risk"
       },
       {
-        "thesis": "ETH/BTC ratio is depressed; Ethereum network upgrades or institutional adoption catalysts in June–August 2026 could push ratio above 0.055, compressing the alpha gap JPMorgan highlighted.",
-        "horizon": "120–180 days",
+        "thesis": "Long DXY (US Dollar Index) on widening yield differential (5.19% 30Y vs. lower developed-market rates) and Middle East geopolitical premium, despite inflationary headwinds to growth.",
+        "horizon": "60-120 days",
         "supporting_signals": [
-          "JPMorgan explicitly stated alts 'won't catch up without major network boom'—implies boom is possible",
-          "CoinDesk: Ethereum Foundation departures could signal internal restructuring OR imminent announcement of major shift (e.g., Pectra/Electra hard fork acceleration, tokenomics change)",
-          "21Shares Hyperliquid ETF demand shows retail appetite for non-BTC crypto; if ETH gets catalyst, ETF inflows will be fast"
+          "30Y Treasury yields 5.19%, highest since financial crisis; mortgage rates surging despite Fed pause (CNBC)",
+          "Middle East escalation (Iran war risk, insurance 'war' coverage) driving safe-haven bid",
+          "Global bond markets 'on edge' monitoring central bank responses (CNBC)—higher US rates attract capital",
+          "Bitcoin under $77K suggests risk-off sentiment; BTC/DXY historically inverse"
         ],
-        "counter_view": "Ethereum network upgrades miss or are underwhelming; Bitcoin gains Ordinals/Runes dominance; ETH/BTC falls below 0.048.",
-        "expression": "Long ETH/BTC ratio via perpetual swap (ETH long, BTC short legs); or buy ETH dip relative to BTC on weakness; target ratio 0.056–0.060"
+        "counter_view": "Strong dollar crushes emerging market carry trades and commodity exporters, raising global recession risk; Fed may be forced to cut sooner if yield spike chokes growth; commodity inflation (oil from Iran tensions) could eventually devalue USD.",
+        "expression": "Long DXY ETF or futures (1-2x leverage, 90-day hold); hedge via long commodity (GLD, oil futures) for inflation protection"
       }
-    ],
-    "flags": {
-      "chinese_news_ahead_of_english": [
-        "36Kr reported SpaceX lisiting as 'imminent' (即将成为马斯克旗下第二家上市公司)—this has NOT yet appeared in mainstream English financial media; Polymarket/Kalshi should open SPaceX IPO filing markets.",
-        "36Kr reported Jinyue Power (鲸跃动力) Robo Labor platform launching in 2026 with 'data+model+end execution' closed loop—represents physical AI labor paradigm shift; English VC/macro media has not yet synthesized this trend.",
-        "36Kr reported Bytedance Fanqie Xiaoshuo (番茄小说) pushing AI anime to theaters and opening IP licensing—major anime/content market move by ByteDance; not yet in English tech news feeds but relevant to AI content and streaming valuations."
-      ]
-    }
+    ]
   }
 }
