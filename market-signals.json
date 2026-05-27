@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-05-27T16:33:37.156296+00:00",
+  "generated_at_utc": "2026-05-27T22:27:11.027003+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "U.S. crude trims losses after White House denies Iran state media report about Hormuz opening",
+        "title": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud",
+        "summary": "Snowflake is going deeper with Amazon's Web Services, and plans to use its Arm-based Graviton chips.",
+        "link": "https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html",
+        "published": "Wed, 27 May 2026 22:07:15 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month",
+        "summary": "Meta confirmed Wednesday that it will begin testing two subscription plans for its AI offerings.",
+        "link": "https://www.cnbc.com/2026/05/27/meta-testing-ai-subscription-services-cheapest-plan-at-7point99-a-month.html",
+        "published": "Wed, 27 May 2026 21:04:59 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Zscaler tanks 31% for worst day ever on 'prudent' guidance, sales shakeup",
+        "summary": "Zscaler has shed half its value over the last year.",
+        "link": "https://www.cnbc.com/2026/05/27/zscaler-zs-earnings-q3-2026.html",
+        "published": "Wed, 27 May 2026 20:36:47 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Amazon's top health exec is stepping down, will be replaced by Amwell co-founder",
+        "summary": "The company is tapping Dr. Roy Schoenberg, a cofounder of telemedicine provider Amwell, to replace Lindsay.",
+        "link": "https://www.cnbc.com/2026/05/27/amazons-top-health-exec-is-stepping-down-will-be-replaced-by-amwell-co-founder.html",
+        "published": "Wed, 27 May 2026 22:06:35 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Prediction markets regulation proposal by CFTC eyed by White House",
+        "summary": "The CFTC has argued it has exclusive authority to regulate the growing prediction market sector rather than state-by-state regulation.",
+        "link": "https://www.cnbc.com/2026/05/27/prediction-markets-white-house-cftc-kalshi-polmarket-gensler.html",
+        "published": "Wed, 27 May 2026 22:08:07 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
+        "summary": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely.",
+        "link": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
+        "published": "Wed, 27 May 2026 22:18:07 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Oil prices fall more than 5% after Rubio says U.S. will give Iran talks 'every chance to succeed'",
         "summary": "U.S. crude oil prices trim losses as traders assess whether U.S. is nearing a deal with Iran that would restore traffic in the Strait of Hormuz.",
         "link": "https://www.cnbc.com/2026/05/27/oil-price-today-iran-war-strait-hormuz.html",
-        "published": "Wed, 27 May 2026 16:20:06 GMT"
+        "published": "Wed, 27 May 2026 19:50:23 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Republicans stare down inflation abyss with midterms fast approaching",
-        "summary": "Republicans are struggling to find a clear message to battle high prices as President Trump pushes for funding for a White House ballroom.",
-        "link": "https://www.cnbc.com/2026/05/27/election-economy-congress-inflation-republicans.html",
-        "published": "Wed, 27 May 2026 16:19:06 GMT"
+        "title": "Low-income households face ‘remarkable’ rise in food insecurity in K-shaped economy: New York Fed",
+        "summary": "The rising threat of food insecurity is partly why Americans feel worse off than ever before, according to research by the Federal Reserve Bank of New York.",
+        "link": "https://www.cnbc.com/2026/05/27/new-york-fed-food-insecurity-worsens-amid-k-shaped-economic-divide.html",
+        "published": "Wed, 27 May 2026 19:14:16 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition: 'We are on the lookout'",
-        "summary": "A $20 billion deal would be among the largest in JPMorgan's history and could invite regulatory scrutiny given its position as the largest U.S. bank by assets.",
-        "link": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html",
-        "published": "Wed, 27 May 2026 15:51:16 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Alabama asks Supreme Court to allow congressional map that dilutes Black vote",
-        "summary": "A three-judge panel in Birmingham, Alabama, found that the state's proposed map of House districts was 'intentionally discriminatory.\"",
-        "link": "https://www.cnbc.com/2026/05/27/alabama-supreme-court-redistricting-black-vote-midterms.html",
-        "published": "Wed, 27 May 2026 16:28:59 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Boeing CEO says company met requirements to increase 737 Max production to 47 jets per month",
-        "summary": "Boeing CEO Kelly Ortberg said the company has met FAA requirements to ramp up its production of 737 Max aircraft to 47 per month.",
-        "link": "https://www.cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html",
-        "published": "Wed, 27 May 2026 14:41:51 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Abercrombie shares jump 13% on earnings beat even as Iran conflict hits sales",
-        "summary": "Abercrombie & Fitch saw sales in Europe, Middle East and Africa decline by 10%, thanks in large part to the conflict in the Middle East.",
-        "link": "https://www.cnbc.com/2026/05/27/abercrombie-fitch-anf-earnings-q1-2026.html",
-        "published": "Wed, 27 May 2026 14:55:42 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Amazon starts selling its AI shopping technology to other retailers",
-        "summary": "Amazon said it's already signed up Kate Spade as a customer for its AI shopping technology.",
-        "link": "https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html",
-        "published": "Wed, 27 May 2026 13:10:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Healthy Returns: Eli Lilly makes a new push into vaccines – here’s what to know",
-        "summary": "The drugmaker announced it will buy three privately held vaccine makers in deals worth almost $4 billion combined.",
-        "link": "https://www.cnbc.com/2026/05/27/eli-lilly-makes-a-new-push-into-vaccines-heres-what-to-know.html",
-        "published": "Wed, 27 May 2026 14:57:06 GMT"
+        "source": "BBC World",
+        "title": "Israel issues evacuation order for swathes of southern Lebanon",
+        "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+        "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 27 May 2026 20:26:03 GMT"
       },
       {
         "source": "BBC World",
         "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
         "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
         "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 27 May 2026 10:40:29 GMT"
+        "published": "Wed, 27 May 2026 18:50:50 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates",
-        "summary": "Israel's military tells residents of Tyre it will \"act forcefully\" against the armed group, after another wave of strikes in south and east Lebanon.",
-        "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 27 May 2026 15:16:13 GMT"
+        "title": "Trump says US 'not satisfied' with Iran deal yet",
+        "summary": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
+        "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 27 May 2026 17:37:33 GMT"
       },
       {
         "source": "BBC World",
@@ -108,11 +115,32 @@
         "published": "Wed, 27 May 2026 12:25:31 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Ghana welcomes Pope's apology over Catholic Church's role in slavery",
-        "summary": "The West African nation was one of the main gateways for the transatlantic slave trade.",
-        "link": "https://www.bbc.com/news/articles/cwy2d6j14l5o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 27 May 2026 13:17:41 GMT"
+        "source": "CoinDesk",
+        "title": "Google engineer insider-traded search results on Polymarket, Feds allege",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/05/27/google-engineer-insider-traded-search-results-on-polymarket-feds-allege",
+        "published": "Wed, 27 May 2026 21:57:49 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "The crypto industry’s massive political war chest is starting to lean Republican ahead of midterms",
+        "summary": "",
+        "link": "https://www.coindesk.com/news-analysis/2026/05/27/crypto-cash-backs-potential-new-allies-in-congress-as-industry-pac-presence-widens",
+        "published": "Wed, 27 May 2026 21:24:12 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Wall Street gets new crypto rival after Texas bank completes regulatory pivot",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/05/27/wall-street-gets-new-crypto-rival-after-texas-bank-completes-regulatory-pivot",
+        "published": "Wed, 27 May 2026 19:09:12 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/27/elon-musk-could-become-a-top-5-corporate-bitcoin-holder-if-tesla-and-spacex-merge",
+        "published": "Wed, 27 May 2026 18:04:08 +0000"
       },
       {
         "source": "CoinDesk",
@@ -143,39 +171,11 @@
         "published": "Wed, 27 May 2026 14:26:20 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/05/27/a-bipartisan-bridge-to-the-future-why-the-senate-must-finish-the-job-on-digital-assets",
-        "published": "Wed, 27 May 2026 14:18:59 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Robinhood is letting AI trade for you so you don't have to keep checking the markets",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/27/robinhood-is-letting-ai-trade-for-you-so-you-don-t-have-to-keep-checking-the-markets",
-        "published": "Wed, 27 May 2026 14:12:16 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "DTCC plans to bring tokenized assets to Stellar in latest Wall Street blockchain push",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/27/dtcc-plans-to-bring-tokenized-assets-to-stellar-in-latest-wall-street-blockchain-push",
-        "published": "Wed, 27 May 2026 14:03:59 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Crypto’s biggest exchanges back push for token disclosure standards as industry courts institutional capital",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/27/crypto-s-biggest-exchanges-back-push-for-token-disclosure-standards-as-industry-courts-institutional-capital",
-        "published": "Wed, 27 May 2026 14:00:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regula",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 May 2026 15:29:33 +0000"
+        "title": "Bitcoin miner inflows to Binance soar as BTC struggles to hold uptrend: Is $70K next?",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miner inflows to Binance soar as BTC struggles to hold uptrend: Is $70K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1pcy1zdGFraW5nLXRoZS1hbnN3ZXItdG8tY3J5cHRvY3VycmVuY3lzLW1pbmluZy1wcm9ibGVtcy0xLmpwZw==.jpg\" /></p><p>Weakening spot demand, miner inflows to exchanges and freshly opened shorts put downside pressu",
+        "link": "https://cointelegraph.com/markets/bitcoin-miner-inflows-rise-to-20k-on-binance-can-btc-hold-its-daily-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 May 2026 22:04:13 +0000"
       }
     ],
     "chinese_news": [
@@ -203,7 +203,7 @@
       {
         "source": "36氪 36Kr",
         "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
-        "summary": "<p>文丨果脯</p>\n  <p><span style=\"letter-spacing: 0px;\">2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。&nbsp;</span><br /></p>\n  <p>S2赛季上线前，这款产品更是被寄予厚望，<strong>腾讯方面称其“有望成为下一款长青产品”。</strong>此时，距离《三角洲行动》正式官宣跻身“长青游戏”，也才过去一个季度。&nbsp;</p>\n  <p>出乎所有人意料的是，5月21日S2赛季更新后，事情迅速脱离了轨道。&nbsp;</p>\n  <p>几天之内，玩家社区出现大量争议，游戏B站官方动态评论数一度突破百万。彼时，玩家发现游戏出现了大量未在版本公告中提及的修改内容，并且多个已于S1赛季修复的Bug重新出现。这套前所未有的重大运营失误，一度让玩家揣测《洛克王国：世界》的成功，令团队",
+        "summary": "<p>文丨果脯</p>\n  <p><span style=\"letter-spacing: 0px;\">2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。&nbsp;</span><br /></p>\n  <p>S2赛季上线前，这款产品更是被寄予厚望，<strong>腾讯方面称其“有望成为下一款长青产品”。</strong>此时，距离《三角洲行动》正式官宣跻身“长青游戏”，也才过去一个季度。&nbsp;</p>\n  <p>出乎所有人意料的是，5月21日S2赛季更新后，事情迅速脱离了轨道。&nbsp;</p>\n  <p>几天之内，玩家社区出现大量争议，游戏B站��方动态评论数一度突破百万。彼时，玩家发现游戏出现了大量未在版本公告中提及的修改内容，并且多个已于S1赛季修复的Bug重新出现。这套前所未有的重大运营失误，一度让玩家揣测《洛克王国：世界》的成功，令团",
         "link": "https://36kr.com/p/3826354349412992?f=rss",
         "published": "2026-05-27 10:05:05  +0800"
       },
@@ -239,85 +239,67 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "I'm Tired of Talking to AI",
-        "summary": "score: 1420, comments: 707",
-        "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-        "score": 1420
+        "title": "Last.fm is now independent",
+        "summary": "score: 560, comments: 159",
+        "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+        "score": 560
       },
       {
         "source": "Hacker News",
-        "title": "Private Equity Bought America's Essential Services",
-        "summary": "score: 280, comments: 333",
-        "link": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-        "score": 280
+        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+        "summary": "score: 559, comments: 284",
+        "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+        "score": 559
       },
       {
         "source": "Hacker News",
-        "title": "All of human cooking compressed into 2 megabytes",
-        "summary": "score: 232, comments: 84",
-        "link": "https://arxiv.org/abs/2605.22391",
-        "score": 232
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "summary": "score: 518, comments: 628",
+        "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "score": 518
       },
       {
         "source": "Hacker News",
-        "title": "The Melancholy of Slaying Monsters",
-        "summary": "score: 222, comments: 99",
-        "link": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-        "score": 222
+        "title": "YouTube to automatically label AI-generated videos",
+        "summary": "score: 321, comments: 168",
+        "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "score": 321
+      },
+      {
+        "source": "Hacker News",
+        "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+        "summary": "score: 310, comments: 225",
+        "link": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+        "score": 310
       },
       {
         "source": "Hacker News",
         "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-        "summary": "score: 180, comments: 143",
+        "summary": "score: 231, comments: 182",
         "link": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-        "score": 180
+        "score": 231
       },
       {
         "source": "Hacker News",
         "title": "Mini Micro Fantasy Computer",
-        "summary": "score: 174, comments: 65",
+        "summary": "score: 225, comments: 78",
         "link": "https://miniscript.org/MiniMicro/index.html#about",
-        "score": 174
+        "score": 225
       },
       {
         "source": "Hacker News",
-        "title": "Last.fm is now independent",
-        "summary": "score: 159, comments: 38",
-        "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-        "score": 159
-      },
-      {
-        "source": "Hacker News",
-        "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
-        "summary": "score: 90, comments: 26",
-        "link": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-        "score": 90
+        "title": "SimCity 3k in 4k (2025)",
+        "summary": "score: 224, comments: 74",
+        "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+        "score": 224
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Bonk (BONK)",
-        "summary": "market cap rank: 104",
+        "summary": "market cap rank: 107",
         "link": "https://www.coingecko.com/en/coins/bonk"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 11",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 101",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Octra (OCT)",
-        "summary": "market cap rank: 382",
-        "link": "https://www.coingecko.com/en/coins/octra"
       },
       {
         "source": "CoinGecko Trending",
@@ -327,9 +309,27 @@
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Solstice (SLX)",
+        "summary": "market cap rank: 491",
+        "link": "https://www.coingecko.com/en/coins/solstice"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 104",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 33",
+        "summary": "market cap rank: 32",
         "link": "https://www.coingecko.com/en/coins/near"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 11",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       },
       {
         "source": "CoinGecko Trending",
@@ -342,129 +342,128 @@
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $75,000 on or before December 31, 2026?",
+        "market_title": "Will Bitcoin trade above $70,000 by 2026-07-31?",
         "venue": "Polymarket",
-        "why_now": "May volatility ('Sold in May') paired with institutional ETF strength (BlackRock block sales absorbed) and tokenization wave momentum signal macro risk-on vs. risk-off turning point.",
-        "signal_source": "CoinDesk (Bitcoin price shrugs off $1.3B BlackRock ETF block sale; Crypto IPOs $1T market forecast); Cointelegraph (Bitcoin risks 10% drop as month turns red)"
+        "why_now": "Cointelegraph reports miner inflows to Binance surging while BTC struggles to hold uptrend; market pricing $70K as next resistance test amid regulatory clarity from CFTC prediction market proposal.",
+        "signal_source": "Cointelegraph (miner inflows), CNBC (CFTC regulation proposal)"
       },
       {
-        "market_title": "Will the Federal Reserve cut rates by at least 50 basis points by December 31, 2026?",
-        "venue": "Kalshi",
-        "why_now": "GOP inflation messaging crisis amid Trump White House spending priorities creates policy uncertainty; Dimon's $20B acquisition appetite signals credit/liquidity tightening concern.",
-        "signal_source": "CNBC (Republicans stare down inflation abyss with midterms fast approaching; Trump pushes White House ballroom funding)"
-      },
-      {
-        "market_title": "Will Eli Lilly (LLY) stock outperform the S&P 500 by >15% through June 30, 2027?",
-        "venue": "Manifold",
-        "why_now": "Announced ~$4B vaccine M&A spree in high-conviction macro bet on healthcare consolidation; Healthtech tailwind across AI diagnostics and cost-deflation narratives.",
-        "signal_source": "CNBC (Healthy Returns: Eli Lilly makes new push into vaccines with $4B in deals)"
-      },
-      {
-        "market_title": "Will U.S. crude oil (WTI) average above $85/bbl in Q3 2026?",
+        "market_title": "Will Ethereum outperform Bitcoin (ETH/BTC ratio) by end of 2026-06-30?",
         "venue": "Polymarket",
-        "why_now": "Hormuz/Iran negotiation flux creating binary geopolitical premium; Abercrombie's EMEA sales decline (-10%) shows demand sensitivity to conflict risk.",
-        "signal_source": "CNBC (U.S. crude trims losses after White House denies Iran state media report about Hormuz; Abercrombie shares jump on earnings beat despite Iran conflict hitting sales)"
+        "why_now": "Cointelegraph flags $2B short squeeze risk on Ether around $2K; concurrent macro shift toward AI infrastructure spending (Snowflake $6B AWS commitment, Meta AI subscription launch) could favor smart-contract chains.",
+        "signal_source": "Cointelegraph (short positioning), CNBC (Snowflake, Meta AI spend)"
       },
       {
-        "market_title": "Will JPMorgan Chase (JPM) announce and close a deal ≥$15B in size by September 30, 2026?",
+        "market_title": "Will CFTC gain exclusive prediction market regulatory authority by 2026-12-31?",
         "venue": "Kalshi",
-        "why_now": "Dimon's explicit $20B acquisition appetite and 'on the lookout' signal; largest bank in consolidation phase amid fintech/crypto crosscurrents.",
-        "signal_source": "CNBC (Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition; regulatory scrutiny flagged)"
+        "why_now": "CNBC reports White House eyeing CFTC proposal for exclusive federal jurisdiction over prediction markets; Polymarket weighing KYC amid global crackdown—regulatory clarity is imminent and directly impacts platform risk.",
+        "signal_source": "CNBC (CFTC proposal, White House interest), Cointelegraph (Polymarket KYC)"
+      },
+      {
+        "market_title": "Will Iran-US Strait of Hormuz reopening take longer than 1 month of deal signing by 2026-08-31?",
+        "venue": "Kalshi",
+        "why_now": "Kalshi traders already skeptical of Iran timeline; Rubio says US will give talks 'every chance' but Trump says 'not satisfied' yet—oil markets repricing slowly; this market has real shipping/commodity hedging demand.",
+        "signal_source": "CNBC (Rubio, oil fall 5%), BBC (Trump Iran deal skepticism), Kalshi (trader skepticism)"
+      },
+      {
+        "market_title": "Will Snowflake (SNOW) stock close above its 52-week high by 2026-11-30?",
+        "venue": "Polymarket",
+        "why_now": "CNBC reports 36% earnings-beat rally on $6B AWS/Graviton commitment; cloud infrastructure spending is accelerating; stock momentum and AWS lock-in create sustained bull case.",
+        "signal_source": "CNBC (Snowflake earnings, AWS commitment)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Block (SQ) report Q3 2026 stablecoin Cash App transaction volume exceeding $5 billion annualized run rate?",
-        "deadline": "2026-11-15",
-        "resolution_source": "Block Inc. investor Q3 2026 earnings report / investor presentation (official SEC filing or public earnings call transcript)",
-        "why_underpriced": "Cash App's ~60M user base × phased stablecoin rollout (just begun) creates massive optionality; institutional tokenization momentum (DTCC/Stellar, BIS studies) underpriced in retail prediction markets.",
-        "trigger_signal": "CoinDesk (Block kicks off Cash App's phased stablecoin rollout to nearly 60 million users; DTCC plans tokenized assets to Stellar)"
-      },
-      {
-        "question": "Will Amazon's AI shopping technology (acquired/built) generate $500M+ in annualized revenue from third-party retailers by Q2 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "Amazon Q2 2027 earnings report (10-Q filing) or investor relations disclosure on AWS/advertising segment revenue attribution",
-        "why_underpriced": "Kate Spade signed as visible anchor customer; AI monetization via B2B licensing is nascent, but Amazon's scale and retail customer access (Whole Foods, third-party logistics) create hidden TAM that prediction markets haven't priced.",
-        "trigger_signal": "CNBC (Amazon starts selling its AI shopping technology to other retailers with Kate Spade as first customer)"
-      },
-      {
-        "question": "Will the ETH/BTC ratio rise above 0.10 at any point between June 1 and December 31, 2026?",
+        "question": "Will Goldman Sachs' revised S&P 500 target of 8000 be exceeded by 2026-12-31?",
         "deadline": "2026-12-31",
-        "resolution_source": "CoinGecko or CME Ethereum/Bitcoin futures settlement; any major CEX ETH/BTC spot price tick above 0.10",
-        "why_underpriced": "Tokenization wave (Stellar DTCC integration, MiCA EU adoption, Banca Sella clearance) favors Ethereum smart contract ecosystem; crypto IPO/institutional adoption thesis tilts toward utility-heavy chains.",
-        "trigger_signal": "CoinDesk (BIS tokenization project; DTCC Stellar integration; Banca Sella MiCA clearance; Crypto IPOs $1T market); Chinese news (Kuaishou Keling AI ARR at $500M annualized—signals AI token compute demand)"
+        "resolution_source": "Bloomberg S&P 500 Index closing price, Goldman Sachs public price targets",
+        "why_underpriced": "36Kr reports Goldman raised SPX target to 8000 on AI + earnings tailwinds; most prediction markets ignore macro equity index targets; retail crypto crowd underweights macro equity moves.",
+        "trigger_signal": "36Kr (Goldman 8000 target), strong earnings momentum in Snowflake, Meta AI capex boom"
       },
       {
-        "question": "Will Robinhood Markets (HOOD) net new funded accounts in Q3 2026 show >20% YoY growth driven by AI trading feature adoption?",
-        "deadline": "2026-10-31",
-        "resolution_source": "Robinhood Q3 2026 earnings report (SEC 10-Q or investor presentation) with breakdown of new account drivers",
-        "why_underpriced": "AI co-pilot for retail traders is a new TAM opener; Robinhood's execution velocity on product innovation often surprises market. Hacker News sentiment ('I'm Tired of Talking to AI') suggests friction → opportunity for UX innovation.",
-        "trigger_signal": "CoinDesk (Robinhood is letting AI trade for you so you don't have to keep checking the markets)"
+        "question": "Will Kuling AI (快手可灵) ARR exceed $1 billion annualized by 2026-12-31?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Kuaishou (FAST) investor relations, 36Kr reporting on Kuling quarterly updates",
+        "why_underpriced": "36Kr (Chinese-exclusive): Kuling AI ARR hit ~$500M in March 2026, 4x YoY growth; English media has zero coverage; at this trajectory, hitting $1B ARR is plausible but unpriced in Western markets.",
+        "trigger_signal": "36Kr exclusive reporting on Kuling ARR $500M milestone; Hacker News consensus on AI product-market fit; API cost collapse accelerating customer acquisition"
       },
       {
-        "question": "Will any crypto exchange (CEX or DEX aggregator) be sanctioned or significantly restricted by UK/EU regulators for Russia-linked activity by August 31, 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "UK Financial Conduct Authority (FCA), EU Commission press releases, or OFAC/EU sanctions list updates",
-        "why_underpriced": "HTX $7.6B Russia-linked flow allegations surface after previous denial; regulatory tightening is asymmetric: one major action swings sentiment sharply. Prediction market usually lags enforcement risk.",
-        "trigger_signal": "Cointelegraph (HTX denies UK sanctions allegations as new data flags $7.6B Russia-linked flows)"
+        "question": "Will Meta's AI subscription service reach 10M+ paid subscribers by 2026-09-30?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Meta investor relations, earnings calls, third-party subscriber estimates (Sensor Tower, app store data)",
+        "why_underpriced": "CNBC reports Meta launching AI subscription from $7.99/month; no early adoption data yet; crypto/tech Twitter underestimates Meta's ability to monetize 3B+ users at low price tiers.",
+        "trigger_signal": "CNBC (Meta AI subscription test), 36Kr (token cost collapse driving margins), Hacker News (Anthropic/OpenAI product-market fit discussion)"
+      },
+      {
+        "question": "Will Polymarket enforce global KYC requirements by 2026-06-30?",
+        "deadline": "2026-06-30",
+        "resolution_source": "Polymarket public announcement, SEC/CFTC enforcement actions, Polymarket user interface policy page",
+        "why_underpriced": "Cointelegraph reports Polymarket weighing KYC; CNBC reports CFTC/White House regulatory push; early adoption of KYC could signal platform confidence in regulatory deal or fear of shutdown—market currently underprices binary outcome.",
+        "trigger_signal": "Cointelegraph (KYC deliberation), CNBC (CFTC proposal), CoinDesk (Google insider trading case on Polymarket increases regulatory heat)"
+      },
+      {
+        "question": "Will Block's Cash App stablecoin reach 5M+ active users by 2026-12-31?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Block investor relations, Cash App user data, third-party payment analytics",
+        "why_underpriced": "CoinDesk reports Cash App phased stablecoin rollout to ~60M users; rollout friction could slow adoption, but even 8-10% penetration is material; market lacks liquid contracts on stablecoin adoption velocity.",
+        "trigger_signal": "CoinDesk (Block stablecoin launch), BIS tokenization research (faster cross-border payments boost demand), Jefferies (crypto IPO/tokenization wave narrative)"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long BTC and short DXY on dovish Fed pivot signal + geopolitical Hormuz premium stabilization = mean reversion of oil-to-crypto correlation into risk-on equity tape.",
-        "horizon": "60–90 days",
+        "thesis": "Long cloud infrastructure plays (SNOW, CRWD, NET) as AI capex cycle drives enterprise AWS/GCP/Azure consumption through 2026-Q4; Snowflake's $6B AWS commitment is bellwether.",
+        "horizon": "3-6 months",
         "supporting_signals": [
-          "CNBC: White House denies Iran Hormuz closure (de-risks oil shock); Republicans battling inflation narrative suggests Fed may tolerate looser policy",
-          "36Kr: Goldman raises SPX target to 8k (AI/earnings tailwind); global AI Token-Maxxing competition signals risk-on liquidity environment",
-          "CoinDesk: Crypto IPOs $1T potential + institutional tokenization (DTCC, BIS) = macro re-rating of digital assets"
+          "CNBC: Snowflake 36% rally on $6B AWS/Graviton spend commitment",
+          "36Kr: Goldman Sachs raised SPX target to 8000 on AI + earnings",
+          "CoinDesk: BIS finds tokenization accelerates cross-border payments (enterprise adoption narrative)"
         ],
-        "counter_view": "Sold-in-May seasonal pressure could override fundamentals; China growth weakness (Caixin PMI data if weak) could trigger DXY strength on flight-to-safety, killing risk-on thesis.",
-        "expression": "Long BTC/USD perps on Binance or FTX; hedge with short DXY (via DXY ETF or short USD/JPY carry)"
+        "counter_view": "Cloud valuations already repriced for AI capex; guidance disappointment (like Zscaler's -31% on prudent guidance) shows sentiment fragility; macro rate regime could shift if Fed cuts stall.",
+        "expression": "Long SNOW, short ZS (contrarian positioning), or long XLK/XLC (broad sector) vs. short TLT (rate duration bet)"
       },
       {
-        "thesis": "Long healthcare/biotech (LLY, XBI) on consolidation super-cycle: Eli Lilly $4B vaccine M&A is harbinger of broader roll-up as AI-driven cost deflation enables smaller pharma buyouts.",
-        "horizon": "120–180 days",
+        "thesis": "Crypto regulatory clarity (CFTC exclusive jurisdiction) reduces tail risk on prediction markets; long Polymarket-exposed positions and prediction market platforms as KYC implementation signals compliance pathway.",
+        "horizon": "1-3 months (regulatory decision), 6-12 months (adoption impact)",
         "supporting_signals": [
-          "CNBC: Eli Lilly announces ~$4B vaccine acquisition spree; Dimon's $20B JPM acquisition appetite signals financial system liquidity for M&A",
-          "36Kr: Chinese biotech/healthcare AI startups (Keling, maternal health hardware) raising at scale → global convergence on digital health consolidation",
-          "Macro: Interest rates may ease (GOP inflation crisis) → lower cost of capital for deal financing"
+          "CNBC: CFTC proposal for exclusive prediction market authority eyed by White House",
+          "Cointelegraph: Polymarket weighing KYC requirements",
+          "CoinDesk: Google engineer insider-trading case on Polymarket (enforcement narrative drives clarity demand)"
         ],
-        "counter_view": "Regulatory scrutiny (antitrust, JPM already largest bank) could slow deals; Eli Lilly's vaccine acquisition target may miss clinical endpoints, destroying acquisition value.",
-        "expression": "Long XBI (SPDR S&P Biotech ETF) or LLY call spreads (Jun 2027 $600/$650 bull call); pair with short SMH (semis) to hedge correlation shock"
+        "counter_view": "Regulatory deal could impose restrictions (KYC, limits on US participation) that throttle liquidity; state-by-state regulation may prevail if CFTC loses bureaucratic battle; political risk if Trump admin changes priorities.",
+        "expression": "Long governance tokens of decentralized prediction platforms (if liquid), or long crypto equities exposed to regulatory tailwind (Coinbase, MicroStrategy) vs. short prediction-market volatility indices"
       },
       {
-        "thesis": "Long USDC yield / stablecoin infrastructure on tokenization wave: Cash App rollout, DTCC/Stellar integration, Banca Sella MiCA clearance create institutional plumbing for USD stablecoin velocity.",
-        "horizon": "90–180 days",
+        "thesis": "China AI API cost collapse + rapid scaling of Kuling AI (36Kr: $500M ARR, 4x YoY) signals margin compression in global LLM market; long ETH/BTC as smart-contract inference demand (zkML, on-chain AI agents) offsets commoditization.",
+        "horizon": "2-4 months",
         "supporting_signals": [
-          "CoinDesk: Block's Cash App stablecoin phased rollout to 60M users; DTCC integrating Stellar; USDC/Ethereum liquidity protocols expanding (Aave, Compound stable-rate farming)",
-          "EU regulation: Banca Sella cleared for crypto services under MiCA → legal clarity removes tail risk for stablecoin custodians",
-          "Chinese news: Kuaishou Keling AI ARR $500M annualized → AI compute-on-demand favors fast settlement (stablecoins) over volatile collateral"
+          "36Kr (Chinese exclusive): Kuling AI ARR $500M in March, 4x growth YoY",
+          "36Kr: API costs down 80%+ in 1 year, tokenization replacing benchmark competition",
+          "Hacker News: Consensus that Anthropic/OpenAI have 'product-market fit' (commoditization phase)"
         ],
-        "counter_view": "Regulatory clampdown on stablecoins (e.g., U.S. proposed stablecoin bills) could cap yields; negative carry if Fed raises rates mid-cycle.",
-        "expression": "Long Aave USDC lending pools (6–8% APY) via Aave governance token (AAVE) or direct stablecoin LP on Curve (USDC/USDT); hedge with short duration Treasuries (TLT short or long DXY if inflation re-spikes)"
+        "counter_view": "ETH execution risk (Shanghai, Dencun upgrades have disappointed on performance); BTC dominance may persist on macro risk-off; on-chain inference still experimental, adoption slow.",
+        "expression": "Long ETH/BTC ratio via perpetual swap (binance ETH-PERP vs. BTC-PERP), or long Solana (cheaper on-chain inference target), hedge with short SPY (equity downside in deflation scenario)"
       },
       {
-        "thesis": "Long AI compute tokens (HYPE Hyperliquid, XLM Stellar, NEAR) on institutional adoption wave: Goldman 8k SPX target + Meta/Google token-maxxing competition + DTCC tokenization = demand for efficient compute/settlement layers.",
-        "horizon": "60–120 days",
+        "thesis": "Meta's AI subscription ($7.99/month) will drive 50M+ paid tiers by end-2026; creator and SMB monetization through AI tooling is underpriced; long Meta (META) as AI capex narrative matures into margin recovery.",
+        "horizon": "6-9 months",
         "supporting_signals": [
-          "CoinDesk: Crypto IPOs $1T market forecast; institutional disclosure standard push (Jefferies bullish)",
-          "Chinese news: 36Kr Token-Maxxing anxiety at Meta reflects big-tech recognition of compute bottleneck → Layer 1 infrastructure re-rating",
-          "Trending tokens: Hyperliquid (HYPE), Stellar (XLM), NEAR in crypto top 10 → retail/insider accumulation signal",
-          "Macro: AI energy demand (GPUs/data centers) driving compute token utility narrative"
+          "CNBC: Meta testing AI subscription from $7.99/month",
+          "Hacker News: Broad consensus that Anthropic/OpenAI have product-market fit, spillover to Meta ecosystem",
+          "36Kr: Token-maxxing internal competition at Meta (Claudeo joke) signals aggressive AI product velocity"
         ],
-        "counter_view": "Oversupply of L1s (Solana, Polygon, Arbitrum) commoditizes compute layers; regulatory clampdown on tokenization (e.g., U.S. prevents crypto IPOs) collapses thesis.",
-        "expression": "Long HYPE/USDT or XLM/USDT spot on Binance or Kraken; take 30% profit at 2x; hedge with long BTC (reduces single-token risk)"
+        "counter_view": "Subscription adoption could disappoint (user habit inertia); AI capex drag on margins through 2026; regulatory headwinds on data usage for model training; competition from OpenAI + Anthropic direct-to-consumer.",
+        "expression": "Long META stock or META call spreads (4-6 month ATM); or long broad tech (QQQ) vs. short treasury duration (long TLT puts) as AI deflation narrative shifts"
       },
       {
-        "thesis": "Short-term tactical: Long May volatility / short June via crypto volatility ETF or ETH straddles; 'Sell in May' narrative colliding with institutional ETF inflows (BlackRock absorption) creates choppy mean-reversion setup.",
-        "horizon": "15–45 days",
+        "thesis": "Iran-US deal uncertainty (Trump 'not satisfied', Rubio cautious, Kalshi traders skeptical) keeps oil volatility elevated; long crude (WTI) call spreads with 2026-07-31 expiry; geopolitical tail risk repricing is slow.",
+        "horizon": "30-90 days (deal binary), 3-6 months (supply impact)",
         "supporting_signals": [
-          "Cointelegraph: Bitcoin risks 10% drop as May turns red (seasonal); BlackRock ETF block sales absorbed (no panic dump)",
-          "36Kr: Silicon Valley token-maxxing cooled by May (fatigue); Hacker News apathy on AI signals rotation risk",
-          "Macro: Fed uncertainty (inflation vs. growth) → volatility asymmetry favors short-dated option sellers"
+          "CNBC: Oil fell 5% on Rubio optimism, but traders doubt Strait reopening within 1 month of deal",
+          "BBC: Trump says 'not satisfied' with Iran terms",
+          "Kalshi: Traders pricing low probability on rapid Strait reopening"
         ],
-        "counter_view": "May seasonality is overstated; strong June earnings (AI mega-caps) could reverse headwind into rally, stopping out short vol sellers.",
-        "expression": "Short SPY May 31 calls / long SPY June 21 calls (call ratio spread); or short BTC implied vol (sell Jun 2026 $70k straddle, buy Jul 2026 $65k/$75k strangle) on derivatives exchange"
+        "counter_view": "Deal could suddenly materialize (Trump negotiation speed precedent); oil markets already hedged for geopolitical risk; recession fears (food insecurity data from NY Fed) could outweigh supply disruption premium.",
+        "expression": "Long WTI call spread (60-70 strike, 2026-07-31 expiry) or long XLE (energy sector ETF) vs. short SPY (portfolio macro hedge on recession tail risk)"
       }
     ]
   }
