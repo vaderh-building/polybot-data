@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2026-05-28T22:28:52.917649+00:00",
+  "generated_at_utc": "2026-05-29T08:38:43.737305+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Nvidia is investing billions into this emerging technology that could change the AI industry",
+        "summary": "Photonics is considered to be a more efficient alternative to the current process of transferring data using electricity, which could be crucial to the AI boom.",
+        "link": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
+        "published": "Fri, 29 May 2026 05:00:02 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Iran reportedly launches missiles as Trump mulls deal to pause war for two months",
@@ -11,10 +18,38 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Dell shares jump 31% after server maker reports fastest sales growth since return to public market in 2018",
-        "summary": "Dell has gone from being a sleepy legacy tech company to a high-growth AI story, assembling servers packed with graphics processing units.",
-        "link": "https://www.cnbc.com/2026/05/28/dell-q1-earnings-report-2027.html",
-        "published": "Thu, 28 May 2026 21:31:07 GMT"
+        "title": "Russian drone hits apartment block in NATO state Romania; EU prepares fresh sanctions against Moscow",
+        "summary": "Romania’s president said the collision demands a “firm, coordinated, and appropriate response.\"",
+        "link": "https://www.cnbc.com/2026/05/29/russian-drone-hits-apartment-block-in-nato-state-romania-.html",
+        "published": "Fri, 29 May 2026 07:27:29 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Blue Origin rocket explodes on launchpad during ground test",
+        "summary": "Jeff Bezos' rocket maker suffered a setback on Thursday as its New Glenn rocket went up in flames.",
+        "link": "https://www.cnbc.com/2026/05/29/blue-origin-new-glenn-rocket-explosion-florida-test-nasa-artemis.html",
+        "published": "Fri, 29 May 2026 06:40:59 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Michael Dell courted Trump early. His company has reaped rewards",
+        "summary": "The dynamic is emblematic of how business is seeking to sow favor with the president in his second term, and has departed from the norms of big business philanthropy.",
+        "link": "https://www.cnbc.com/2026/05/28/michael-dell-trump-accounts-dod.html",
+        "published": "Fri, 29 May 2026 01:26:30 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "I was at the exclusive launch of Ferrari's new EV that sent the stock tumbling. But there may be light at the end of the tunnel",
+        "summary": "Is there a \"luce\" at the end of the tunnel for Ferrari's first electric vehicle?",
+        "link": "https://www.cnbc.com/2026/05/29/ferrari-luce-ev-launch-backlash-stock-drop.html",
+        "published": "Fri, 29 May 2026 05:00:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "The ECB is in a bind over rate hikes — the private sector could be doing the bank's job for it",
+        "summary": "Market expectations that the European Central Bank will hike interest rates this year have already contributed to tighter financial and lending conditions.",
+        "link": "https://www.cnbc.com/2026/05/29/the-ecb-is-debating-rate-hikes-but-the-private-sector-could-help-out.html",
+        "published": "Fri, 29 May 2026 05:00:02 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -24,46 +59,11 @@
         "published": "Thu, 28 May 2026 21:38:39 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round",
-        "summary": "Anthropic is now the most valuable AI company in Silicon Valley after a new $65 billion funding round.",
-        "link": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
-        "published": "Thu, 28 May 2026 21:10:06 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Snowflake surges 36% for best day ever on AI frenzy, fueling software rally",
-        "summary": "The Snowflake rally also lifted shares of ServiceNow, Oracle and Palantir, while Salesforce bucked the trend.",
-        "link": "https://www.cnbc.com/2026/05/28/snowflake-snow-software-stock-rally.html",
-        "published": "Thu, 28 May 2026 20:37:19 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Disney's ABC files early broadcast licenses renewal 'under protest' against the FCC",
-        "summary": "Disney said it filed renewals for eight broadcast station licenses \"under protest,\" after the FCC launched an early review years ahead of schedule.",
-        "link": "https://www.cnbc.com/2026/05/28/disney-fcc-broadcast-licenses-renewal.html",
-        "published": "Thu, 28 May 2026 22:16:43 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Okta jumps 8%, tops first-quarter results on agentic AI demand",
-        "summary": "CEO Todd McKinnon said Okta is \"playing a long game\" on AI and is allocating more resources to agentic tools.",
-        "link": "https://www.cnbc.com/2026/05/28/okta-okta-earnings-q1-2027.html",
-        "published": "Thu, 28 May 2026 22:04:22 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Americans’ savings rate falls to lowest level since 2022 as inflation outpaces paychecks",
-        "summary": "As inflation starts outpacing wages again, Americans have less money to put aside for emergencies and other savings goals.",
-        "link": "https://www.cnbc.com/2026/05/28/savings-inflation-americans-financial-stress.html",
-        "published": "Thu, 28 May 2026 22:08:50 GMT"
-      },
-      {
         "source": "BBC World",
-        "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
-        "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
+        "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+        "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
         "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 28 May 2026 22:13:30 GMT"
+        "published": "Thu, 28 May 2026 23:32:19 GMT"
       },
       {
         "source": "BBC World",
@@ -74,45 +74,73 @@
       },
       {
         "source": "BBC World",
+        "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+        "summary": "The expansion in control by Israel would contradict the terms of the ceasefire  Israel and Hamas agreed to in October 2025.",
+        "link": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 29 May 2026 02:24:52 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
+        "summary": "As temperatures peak, Delhi’s informal workers continue working despite growing health risks.",
+        "link": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 28 May 2026 23:56:50 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Moment Blue Origin rocket explodes during test in Florida",
+        "summary": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
+        "link": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 29 May 2026 03:02:48 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
+        "summary": "The artwork is the centre of a tradition that involves visitors performing three spins on it for good fortune.",
+        "link": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 29 May 2026 02:01:44 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Mother-in-law of Indian bride whose death set off media frenzy arrested",
+        "summary": "Twisha Sharma's death on 12 May has sparked rival claims of murder and suicide and dominated headlines.",
+        "link": "https://www.bbc.com/news/articles/c2e2lw0pv7zo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 29 May 2026 06:47:39 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
         "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
         "link": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
         "published": "Thu, 28 May 2026 16:20:50 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Israel hits Lebanese capital in 'targeted strike'",
-        "summary": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
-        "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 28 May 2026 17:39:16 GMT"
+        "source": "CoinDesk",
+        "title": "OKX Ventures buys $53 million stake in Korea's Coinone exchange",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/29/okx-ventures-buys-usd53-million-stake-in-korea-s-coinone-exchange",
+        "published": "Fri, 29 May 2026 06:07:27 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
-        "summary": "A 21-year-old Austrian man is found guilty of planning the attack and other terrorism-related offences.",
-        "link": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 28 May 2026 21:07:46 GMT"
+        "source": "CoinDesk",
+        "title": "XRP rebounds above $1.30 after volume surge, but bears still control the bigger picture",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/29/xrp-rebounds-above-usd1-30-after-volume-surge-but-bears-still-control-the-bigger-picture",
+        "published": "Fri, 29 May 2026 05:01:02 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
-        "summary": "Police say the operation targeted the network of notorious late Sicilian mafia boss Matteo Messina Denaro.",
-        "link": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 28 May 2026 14:47:05 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/29/bitcoin-ether-little-changed-despite-record-stocks-falling-oil-and-easing-war-fears",
+        "published": "Fri, 29 May 2026 04:41:55 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
-        "summary": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
-        "link": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 28 May 2026 17:07:00 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Man arrested after three injured in stabbing at Swiss train station",
-        "summary": "A 31-year-old Swiss man has been arrested, police say, as images from the scene show parts of the station cordoned off.",
-        "link": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 28 May 2026 16:26:14 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin's record holder supply hides a buyer drought, CryptoQuant says",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/05/29/bitcoin-s-record-holder-supply-hides-a-buyer-drought-cryptoquant-says",
+        "published": "Fri, 29 May 2026 04:23:22 +0000"
       },
       {
         "source": "CoinDesk",
@@ -143,162 +171,134 @@
         "published": "Thu, 28 May 2026 18:53:40 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction",
-        "summary": "",
-        "link": "https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction",
-        "published": "Thu, 28 May 2026 18:34:25 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Hyperliquid's pre-IPO SpaceX contracts suffers 45% flash crash, liquidating $1.5 million",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
-        "published": "Thu, 28 May 2026 17:28:57 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/28/unicredit-warns-europe-may-struggle-to-contain-crypto-bank-crisis-under-mica-rules",
-        "published": "Thu, 28 May 2026 16:50:24 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/05/28/toddlers-learn-by-falling-why-defi-s-usd20-billion-tvl-drop-is-just-a-market-stress-test",
-        "published": "Thu, 28 May 2026 16:33:56 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Prediction markets legal battles heat up in Minnesota, Rhode Island",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Prediction markets legal battles heat up in Minnesota, Rhode Island\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jb3VydHJvb20tY291cnQtbGF3c3VpdC1qdXN0aWNlLWp1cmlzZGljdGlvbi5qcGc=.jpg\" /></p><p>Kalshi sued Minnesota while the CFTC filed against Rhode Island as legal wrangling with state-level authorities seems likely headed to th",
-        "link": "https://cointelegraph.com/news/kalshi-cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 28 May 2026 22:06:00 +0000"
+        "title": "SEC approves Paxos as ‘blockchain-native’ clearing agency",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC approves Paxos as ‘blockchain-native’ clearing agency\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9iYW5rY21hbi1zZWMtMS5qcGc=.jpg\" /></p><p>Paxos says its approval as a blockchain-focused clearing agency represents a “critical piece of financial market infrastructure” as Wall Street becomes more interested in crypto.</p>",
+        "link": "https://cointelegraph.com/news/paxos-becomes-first-crypto-firm-to-win-sec-clearing-agency-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 29 May 2026 05:37:25 +0000"
       }
     ],
     "chinese_news": [
       {
         "source": "36氪 36Kr",
-        "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
-        "summary": "<h4><strong>封面来源 |&nbsp;</strong>&nbsp;官方供图</h4>\n  <p>5月27日，快手（证券代码：1024.HK）公布了2026年一季度财报。</p>\n  <p>财报显示，快手在2026年一季度实现营业收入337亿元，同比增长3.4%，符合市场预期；利润方面，同期实现经营利润36亿元，同比减少15.6%；同期经调整净利润录得34亿元，对应的经调整净利率为10%。</p>\n  <p>运营层面，2026年一季度，快手的用户增长表现不俗，尤其是平均月活跃用户数增长势头强劲。数据显示，季度内快手平均日活跃用户高达4.13亿，同比增长1.2%；同期平均月活跃用户7.72亿，同比增长8%，刷新历史新高。</p>\n  <p>那么，快手本季财报的成色究竟如何？在AI浪潮下该如何给快手估值呢？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260528/v2_15fa0461deea48a2a5310cd0613c8ec7@5679941_oswg186275os",
-        "link": "https://36kr.com/p/3828915666441090?f=rss",
-        "published": "2026-05-28 20:17:29  +0800"
+        "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
+        "summary": "<p>2026 年 5 月 25 日，OPPO 举办 “Reno Land 奇幻夜”新品发布会，重磅发布多款新品，全新一代 OPPO Reno16 系列潮流手机、OPPO Pad 6 全能平板、 OPPO Pad Air5 学习平板、OPPO Enco Air5s 真无线降噪耳机、OPPO Bubble潮玩自拍屏同步登场。本次发布会围绕年轻用户学习、创作、社交、直播、游戏全场景需求，以潮流美学、实况影像创新、AI 智慧体验、跨设备生态协同为核心，实现手机、平板、耳机无缝联动；同时推出学生专属购机补贴，为学生群体打造一站式入学数码解决方案，重新定义年轻人的潮流移动智能生态。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260529/v2_2e3cfe969f9e47ae8c209f469702e622@517825446_oswg946306oswg1265oswg633_img_png?x-oss-process=image/quality,q_90/format,jpg/inte",
+        "link": "https://36kr.com/p/3830038913558147?f=rss",
+        "published": "2026-05-29 15:17:14  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
-        "summary": "<p>5月28日，雷神在北京举办以《聚势共生 智算同行》为主题的AI工作站新品发布会，正式推出覆盖塔式、迷你PC和移动三大类别的AI工作站全场景产品矩阵。这是业内首批完成三大形态全覆盖的AI工作站产品发布，以行业领先的品类矩阵和旗舰级算力水准，重新定义了AI工作站的性能基准。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260528/v2_414fa11d751b413191ef513f785305eb@517825446_oswg7914328oswg6000oswg2160_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>AI 正式迈入智能体时代，行业从文本预测转向自主逻辑思考，未来 AI 算力需求将迎来百倍增长，普及速度持续加快。</p>\n  <p>发布会上，AMD大中华区销售副总裁晁亚新首先分享了AMD公司整",
-        "link": "https://36kr.com/p/3828898785858185?f=rss",
-        "published": "2026-05-28 19:57:48  +0800"
+        "title": "铃木敏文去世，他与711的三个反常识故事",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260529/v2_c0f38fc2bb664ae08b008bf5c5a104b0@5971123_oswg235262oswg800oswg533_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">铃木敏文</p>\n  <p><strong>作者&nbsp;|&nbsp;钟艺璇</strong><br /><strong>编辑&nbsp;|&nbsp;乔芊</strong></p>\n  <p>5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。</p>\n  <p>作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。</p>\n  <p>1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚",
+        "link": "https://36kr.com/p/3829890126046851?f=rss",
+        "published": "2026-05-29 13:40:55  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭",
-        "summary": "<h2>大公司：</h2>\n  <p><strong>格林生物创业板IPO过会</strong></p>\n  <p>36氪获悉，深交所上市审核委员会召开2026年第27次上市审核委员会审议会议，审议结果显示，格林生物科技股份有限公司首发符合发行条件、上市条件和信息披露要求。</p>\n  <p><strong>晨光股份：拟以5亿元至10亿元回购股份用于股权激励或员工持股计划</strong></p>\n  <p>36氪获悉，晨光股份公告，公司拟以自有资金通过集中竞价方式回购股份，回购资金总额不低于5亿元（含），不超过10亿元（含），回购价格不超过35元/股。回购股份将用于股权激励或员工持股计划，回购期限自董事会审议通过之日起12个月内。</p>\n  <p><strong>中国交建：附属公司拟参与设立10亿元交通信息科技基金</strong></p>\n  <p>36氪获悉，中国交建公告，公司附属公司中交资本及中交鼎信拟与工银资本作为双GP，共同发起设立中交工融交通信息科技(重庆)创业投资基金，基金规模10亿元。其中，公司附属公司合计认购2亿元，关联方信科集团认购2亿元，工银系合计认购3亿元，",
-        "link": "https://36kr.com/p/3828874222555782?f=rss",
-        "published": "2026-05-28 19:35:17  +0800"
+        "title": "谁是世界上第二爱泡泡玛特的人？",
+        "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子</p>\n  <p><strong>编辑 | </strong>张帆&nbsp;</p>\n  <p>一纸权益披露文件，让市场看到段永平对泡泡玛特的热爱绝不止是“口嗨”。</p>\n  <p>5月27日晚间，段永平与其全资控股的H&amp;H International，同步增持了泡泡玛特的股份，一致行动人持股比例达5.69%，对应约7637.16万股，一跃成为仅次于创始人王宁的第二大股东。</p>\n  <p>知名投资人的每一次站台，总是能或多或少地提升市场信心。</p>\n  <p>截至发稿前，泡泡玛特收盘价161.5港元，涨幅4.74%。若以最新股价计算，段永平的这笔持仓对应的市值达到123亿港元。而他对泡泡玛特的态度，也堪称180度的“史诗级逆转”。</p>\n  <p>就在去年8月，当泡泡玛特的股价逼近历史高点、被称作“新消费茅台”时，段永平唱了反调，表示“看不懂10年后的泡泡玛特。”今年1月，他在雪球回应网友提问时还说，“依然无法理解人们为什么需要这个东西，万一过两年大家都不要了呢？”</p>\n  <p>两个月后，泡泡",
+        "link": "https://36kr.com/p/3829746420835715?f=rss",
+        "published": "2026-05-29 10:40:19  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "科氪 | 一天连签10所高校！京东养车构建产教融合型技师培育体系破解人才缺口难",
-        "summary": "<p>5月28日，2026京东养车合作伙伴大会在北京举行，全国各地超2000名加盟商合作伙伴及产业链合作伙伴齐聚一堂，围绕提升用户体验、增强用户信任、以创新驱动门店更高盈利空间等核心议题深入交流。京东养车宣布2025年年底其门店数量已突破4000家，且门店盈利能力保持稳健增长。京东养车也公布了最新招商政策，推出“3年加盟费低至0元、管理费至高减免12月”等扶持举措。活动现场，京东养车还与10所高校进行签约，旨在通过规模化校企合作，建立系统性人才招用育留体系，为行业持续发展注入动力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260528/v2_f8624b74270b45229f7e6eaa8ca8faee@517825446_oswg4802340oswg2641oswg1571_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</",
-        "link": "https://36kr.com/p/3828856781099910?f=rss",
-        "published": "2026-05-28 19:14:39  +0800"
+        "title": "再花22亿乘胜追击，北京城建“龍樾”要抢跑了",
+        "summary": "<p>5月28日，北京石景山区黄庄村43号棚户区改造项目SS00-1622-002、SS00-2501-002地块进入现场竞拍，最终该地块由北京城建兴通置业有限公司以底价22亿元摘得，成交楼面价约3.31万元/㎡。</p>\n  <p>北京城建兴通置业有限公司是北京城建的全资子公司。<strong>这是去年第四季度以来，北京城建第三次独立拿地补仓。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260529/v2_5e6360830cc44c4080a147fff788a9bf@6208419_oswg156697oswg1080oswg972_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：天眼查</p>\n  <p><strong>在拿下石景山黄庄村地块的同一时间，北京城建公布了这个新项目的案名：龍樾璟序。</strong></p>\n  <p>从官",
+        "link": "https://36kr.com/p/3829749268981123?f=rss",
+        "published": "2026-05-29 10:26:05  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
-        "summary": "<p>2026 年 5 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）携手 TCL 好莱坞中国剧院举办夏季新品发布会，正式推出行业首款专业影视级 AR 眼镜雷鸟 GT 系列，以极致巨幕、影院级音画与轻盈佩戴，带来真正媲美影院的随身观影体验，售价 1899 元起；同时，新一代 AI 拍摄眼镜雷鸟 V4，在 AI 响应、超长续航、暗光拍摄、防水防尘等核心体验上全面刷新行业上限，带来真正具备替代传统眼镜的日常佩戴能力，售价 2199 元起。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260528/v2_f405cb9565cc4ca798e3875154559254@517825446_oswg710695oswg4200oswg2100_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</",
-        "link": "https://36kr.com/p/3828851140350592?f=rss",
-        "published": "2026-05-28 19:08:59  +0800"
+        "title": "36氪首发 | 李泽湘系投过的星空摄影设备品牌再获数百万美金融资，产品即将登陆众筹",
+        "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，星空原野（重庆）科技有限公司（以下简称“星空原野”）近日完成新一轮融资，由线性资本独家投资数百万美金，安可资本担任公司独家财务顾问。此前公司曾获明月湖国际智能产业科创基地（XbotPark 重庆）孵化基金，及重庆市种子投资基金投资。</p>\n  <p>星空原野成立于2024年，是一家聚焦星空摄影设备和智能影像解决方案的创新型科技企业。公司以星野摄影为切入点，正在探索新一代星野 Robot Camera：通过软硬件一体化，把过去依赖专业设备、复杂参数和电脑后期的星空创作流程，转化为普通用户也能完成的移动影像体验。</p>\n  <p>星空原野创始人周少阳是智能硬件领域连续创业者，长期从事机器人系统与智能硬件产品的研发与落地，拥有完整的产品化经验。与此同时，周少阳拥有十余年星空与风光摄影经历，是视觉中国签约摄影师。登山、摩托骑行与户外旅行的爱好让他对星野摄影场景、户外拍摄流程以及用户需求能够形成更深入的理解。</p>\n  <p>星空摄影主要分为深空与星野两类。深空摄",
+        "link": "https://36kr.com/p/3829705374098823?f=rss",
+        "published": "2026-05-29 09:39:23  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
-        "summary": "<p><strong>文｜王欣逸 李嘉星</strong></p>\n  <p><strong>编辑｜周鑫雨</strong></p>\n  <p>一家Day 1就在做多模态大模型的公司，无法拒绝参与到具身智能和世界模型热潮之中。</p>\n  <p>2026年，随着Seedance 2.0、GPT Image 2.0等模型的爆火，多模态能力越来越成为行业内绕不开的关键词。5月19日，智象未来首届开放日上，智象未来给出了他们的判断和回答：“原生多模态是实现AGI的必经之路。”</p>\n  <p>本场开放日活动主题为“Imaging the World”，不过，对于智象未来而言，「World」的重要性，几乎要放在「Video」和「Image」之前了。</p>\n  <p>“我们的终极目标是打造世界模型。”智象未来CEO梅涛在活动中反复提及这一观点，在他的定义中，智象未来要做一家原生多模态大模型公司。</p>\n  <p>在梅涛看来，一个真正的世界模型需要同时满足多个条件：掌握物理规律、解决长时间跨度的因果推理、实现全模态交互以及绝对的安全性。</p>\n  <p>当下业界主流的世界模型训练路线可以分",
-        "link": "https://36kr.com/p/3820602297208966?f=rss",
-        "published": "2026-05-28 16:20:12  +0800"
+        "title": "「卡玺CardChic」  获天使轮融资，以中国文化IP＋精品化打造收藏卡品牌 | 36氪首发",
+        "summary": "<p>文 | 小葵</p>\n  <p>编辑 | 刘士武</p>\n  <p>36氪获悉，<strong>专注于中国文化IP的精品卡牌发行品牌「卡玺CardChic」近日已完成近千万级人民币天使轮融资。本轮资金将用于重磅IP的签约储备、产品工艺升级以及新一代TCG对战卡牌的研发与推广。&nbsp;</strong></p>\n  <p>卡玺CardChic创办于2025年，总部位于杭州。核心团队中，创始人李昌林毕业于新加坡南洋理工大学，高中起连续创业，研究生期间创办广告公司并实现年营收近千万元，成功退出后曾加入腾讯；供应链合伙人拥有20年印刷行业经验；运营合伙人在国内卡牌圈深耕四年，个人收藏卡价值达数千万元；团队具备球星卡、PTCG、国产卡等多种卡牌品类的丰富经验。公司主要业务为影视、动漫等中国文化IP的精品收藏卡牌发行。&nbsp;</p>\n  <p>当前国内卡牌行业呈现分层竞争格局：卡游凭借小马宝莉、奥特曼等IP在线下零售渠道做到单品10亿级以上销售规模；HitCard专注影视收藏卡，以线上销售为主；Kakawo深耕迪士尼系列卡牌，其母公司Suplay正运作上市；闪魂于2025年获得亿元",
+        "link": "https://36kr.com/p/3829202710045827?f=rss",
+        "published": "2026-05-29 09:01:06  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "前逸动员工创立消费级智能船艇公司，半年内再获新融资｜硬氪首发",
-        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，安澜动力科技（深圳）有限公司（以下称“安澜动力”）日前完成数千万天使++轮融资，本轮由南山战新投独家投资。这是公司成立不足一年内完成的第三轮融资。资金将主要用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓，并为下半年种子用户测试的BETA样机交付做好储备。</p>\n  <p>当陆地新能源载具进入存量博弈，一片长期被欧美垄断的蓝海市场正在水面觉醒。随着全球水域环保政策持续收紧、电动化技术日趋成熟、年轻用户对智能硬件接受度提升，消费级休闲船艇站在电动化与智能化跃迁的临界点，成为继新能源汽车后的又一个变革赛道。</p>\n  <p>一个清晰的行业趋势已然形成：从传统燃油机械船艇，转向电动智能、易操作、低维护的新一代水上载具，用户需求的迁移，让中国硬件公司看到了结构性的机会窗口。</p>\n  <p>安澜动力成立于2025年，由全球领先的船艇电动推进设备企业逸动科技几位前员工创立，核心团队来自小鹏汽车、香港科技大学、东莞理工、南安普顿大学等高校与企业，成员背景覆盖机器人、三电系统、整车智能架构、船艇制造及乘",
-        "link": "https://36kr.com/p/3820713545846917?f=rss",
-        "published": "2026-05-28 13:05:02  +0800"
+        "title": "半年访谈600+用户、获千万元融资，这名清华毕业生想把脑机“戴”进运动场｜早期项目",
+        "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>“运动场景中的脑状态监测，正在成为高水平训练和运动健康管理中的新需求。”创业两年，张昊天这样判断。</p>\n  <p>张昊天毕业于清华大学，研究生期间开始探索如何将脑机接口技术应用在C端场景。他坦言，自己最初也没想好具体的落地方向，研究过程中，团队陆续接触过一些运动类企业，发现“重视运动表现结果的场景，对大脑状态监测都存在一定需求”。</p>\n  <p>运动健康类可穿戴设备的需求其实早已得到验证，估值百亿美元、从极客圈火到大众市场的Whoop、Oura就是最好的说明。它们用心率、血氧等多项生理数据指标证明，监测身体状态能提升运动表现和恢复效率，也让大众逐步形成为科学运动数据付费的习惯。</p>\n  <p>但张昊天认为，目前，市面上的可穿戴设备主要通过四肢末梢数据反映身体侧状态，很难直接观察运动过程中的专注、压力、神经疲劳等脑状态变化，而脑状态是运动训练和比赛中“高度影响发挥、却长期看不见”的关键状态变量。</p>\n  <p>“运动不只是身体能力的竞争，也是一场关于大脑状态的竞争。对于水平接近的运动员来说，成绩差距不只来",
+        "link": "https://36kr.com/p/3827323136004992?f=rss",
+        "published": "2026-05-29 08:30:00  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
-        "summary": "<p>文丨刘士武</p>\n  <p>封面来源 | Funloom 官网</p>\n  <p>36氪获悉，<strong>AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。</strong>本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&amp;连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。&nbsp;</p>\n  <p>库兰织梦成立于2023年，<strong>创始人吴同</strong>曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活过今晚》《库兰精灵》等十余款游戏，运营游戏发行自媒体“咕咕同”获得数百万播放，作品曾获吉比特、CUSGA、电魂等多个游戏创作大赛最佳玩法奖，上榜25Under25 AI创业者榜单；<strong>CTO张吉豪</strong>在像素软件作为主程研发《勇者大冒险》《寻仙》等游戏，后出任阿里巴巴高级技术专家，主导从零搭建淘宝特价版搜索、推荐、广告引擎平台，参与1688、淘宝搜索推荐引擎建设；<stro",
-        "link": "https://36kr.com/p/3827585618154118?f=rss",
-        "published": "2026-05-28 08:35:00  +0800"
+        "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
+        "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>盒马APP可下单租地种菜？客服：正在小范围试点</li>\n   <li>追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流”</li>\n   <li>京东：未来5年培养10万名工程师</li>\n   <li>蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右</li>\n   <li>加密币集体下跌，加密币24小时超16万人爆仓</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>Anthropic新一轮融资后估值达9650亿美元，超越OpenAI，预计仍将按原定时间表推进IPO</strong></p>\n  <p>人工智能公司Anthropic PBC在新一轮融资中募资650亿美元，投后估值达到9650亿美元，首次超过竞争对手OpenAl。这轮融资于5月28日宣布，由Altimeter Capital、Dragoneer、Greenoaks和红杉资本领投。知情人士称，每家领投方的出资额均超过20亿美元。红杉资本拒绝置评。其他三家公司未回应置评请求。（新浪财经）</p>\n ",
+        "link": "https://36kr.com/p/3829622140593288?f=rss",
+        "published": "2026-05-29 08:15:27  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
         "title": "Claude Opus 4.8",
-        "summary": "score: 1056, comments: 844",
+        "summary": "score: 1485, comments: 1167",
         "link": "https://www.anthropic.com/news/claude-opus-4-8",
-        "score": 1056
+        "score": 1485
       },
       {
         "source": "Hacker News",
         "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-        "summary": "score: 378, comments: 186",
+        "summary": "score: 901, comments: 411",
         "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-        "score": 378
+        "score": 901
       },
       {
         "source": "Hacker News",
-        "title": "Just Use Postgres for Durable Workflows",
-        "summary": "score: 212, comments: 83",
-        "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-        "score": 212
+        "title": "I made a million dollar product from my dorm room (2025)",
+        "summary": "score: 367, comments: 56",
+        "link": "https://nick.winans.io/blog/nice-nano/",
+        "score": 367
       },
       {
         "source": "Hacker News",
         "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-        "summary": "score: 203, comments: 96",
+        "summary": "score: 309, comments: 129",
         "link": "https://llmgame.scalex.dev",
-        "score": 203
+        "score": 309
       },
       {
         "source": "Hacker News",
-        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-        "summary": "score: 198, comments: 167",
-        "link": "https://www.anthropic.com/news/series-h",
-        "score": 198
+        "title": "Cars collect a startling amount of data about you",
+        "summary": "score: 304, comments: 138",
+        "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+        "score": 304
       },
       {
         "source": "Hacker News",
-        "title": "The Permanent Upper Crow",
-        "summary": "score: 135, comments: 44",
-        "link": "https://permanent-upper-crow.jasonwu.ink/",
-        "score": 135
+        "title": "Blue Origin's New Glenn blows up during static fire test",
+        "summary": "score: 265, comments: 264",
+        "link": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+        "score": 265
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+        "summary": "score: 239, comments: 78",
+        "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+        "score": 239
       },
       {
         "source": "Hacker News",
         "title": "News about Raspberry Pi 6 and Microcontroller Development",
-        "summary": "score: 119, comments: 85",
+        "summary": "score: 192, comments: 157",
         "link": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-        "score": 119
-      },
-      {
-        "source": "Hacker News",
-        "title": "Various LLM Smells",
-        "summary": "score: 113, comments: 76",
-        "link": "https://shvbsle.in/various-llm-smells/",
-        "score": 113
+        "score": 192
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Bonk (BONK)",
-        "summary": "market cap rank: 109",
+        "summary": "market cap rank: 110",
         "link": "https://www.coingecko.com/en/coins/bonk"
       },
       {
@@ -309,15 +309,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 107",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 31",
-        "link": "https://www.coingecko.com/en/coins/sui"
+        "title": "Allora (ALLO)",
+        "summary": "market cap rank: 386",
+        "link": "https://www.coingecko.com/en/coins/allora"
       },
       {
         "source": "CoinGecko Trending",
@@ -327,142 +321,144 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 11",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 109",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 33",
-        "link": "https://www.coingecko.com/en/coins/near"
+        "title": "XMAQUINA (DEUS)",
+        "summary": "market cap rank: 667",
+        "link": "https://www.coingecko.com/en/coins/xmaquina"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 11",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $80,000 by end of Q2 2026 (June 30)?",
+        "market_title": "Will Bitcoin close above $75,000 USD on 2026-06-30?",
         "venue": "Polymarket",
-        "why_now": "BTC in cooldown phase under $75K per Cointelegraph with active distribution rising; Trump CLARITY Act rhetoric supports regulatory tailwinds that could reignite bull momentum.",
-        "signal_source": "Cointelegraph on-chain analysis + Trump crypto regulation claims; CoinDesk institutional ETF demand (Calamos protected BTC ETFs, Bitwise HYPE products)"
+        "why_now": "Bitcoin trapped sub-$74K with $9B options expiry imminent; major holders halting buys signals capitulation test before potential relief rally.",
+        "signal_source": "Cointelegraph (2026-05-05) — Bitcoin options expiry + CryptoQuant demand analysis"
       },
       {
-        "market_title": "Will Anthropic's valuation exceed $1.2 trillion in next funding round by Dec 31, 2026?",
-        "venue": "Manifold",
-        "why_now": "Anthropic just closed $65B round at ~$965B post-money valuation (near $1T); now overtaking OpenAI as most valuable AI startup signals aggressive investor appetite for Claude moat.",
-        "signal_source": "CNBC breaking news on Anthropic funding + Hacker News consensus (198 comments on Anthropic Series H)"
-      },
-      {
-        "market_title": "Will S&P 500 software/cloud sector (XLK component) outperform SPY by >5% by Sept 30, 2026?",
+        "market_title": "Will Nvidia stock outperform S&P 500 by >10% through 2026-12-31?",
         "venue": "Polymarket",
-        "why_now": "Snowflake surged 36% on AI frenzy, lifting ServiceNow, Oracle, Palantir; Okta +8% on agentic AI demand signals sustained sector momentum despite Salesforce weakness.",
-        "signal_source": "CNBC market moves on Snowflake/Okta rally + software sector rotation into AI workloads"
+        "why_now": "CNBC reports Nvidia investing billions into photonics as AI infrastructure shift; photonics narrative is early-stage and could drive semiconductor outperformance.",
+        "signal_source": "CNBC Top News (2026-05-05) — Nvidia photonics investment announcement"
       },
       {
-        "market_title": "Will Federal Reserve cut rates at least once before December 31, 2026?",
+        "market_title": "Will the ECB cut rates at least once before 2026-12-31?",
         "venue": "Kalshi",
-        "why_now": "Americans' savings rate at lowest since 2022 as inflation outpaces wages; consumer stress may force Fed's hand despite equity resilience, opening rate-cut window.",
-        "signal_source": "CNBC consumer savings data + macroeconomic slowdown signals"
+        "why_now": "ECB facing rate-hike pressure but private sector tightening conditions already occurring; rate-cut expectations now pricing in as backstop against eurozone slowdown.",
+        "signal_source": "CNBC (2026-05-05) — ECB rate-hike bind / private sector credit tightening"
       },
       {
-        "market_title": "Will U.S.-Iran ceasefire hold through August 31, 2026 without new military escalation?",
+        "market_title": "Will a US-Iran ceasefire extension beyond June 2026 be announced by 2026-07-15?",
         "venue": "Manifold",
-        "why_now": "BBC reports tentative deal to extend ceasefire; Trump insists no pressure before midterms, suggesting political willingness to maintain pause; high geopolitical risk premium.",
-        "signal_source": "BBC World reporting on ceasefire negotiations + Trump midterm timeline comments"
+        "why_now": "BBC and CNBC report framework 'very close' pending Trump and Iran leadership approval; two-month pause window creates binary deadline.",
+        "signal_source": "BBC World + CNBC (2026-05-05) — Trump-Iran deal negotiations update"
+      },
+      {
+        "market_title": "Will Blue Origin launch New Glenn successfully by 2026-12-31?",
+        "venue": "Polymarket",
+        "why_now": "New Glenn exploded on launchpad May 2026; recovery timeline and second-attempt credibility now in focus for space infrastructure betting.",
+        "signal_source": "CNBC + BBC World (2026-05-05) — Blue Origin New Glenn explosion"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Ethereum close above $3,500 by August 31, 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "CoinMarketCap or CoinGecko daily close price",
-        "why_underpriced": "Bit Digital's $20M ETH buy and 158K ETH treasury expansion signals institutional conviction; Ethereum Foundation culture war (CoinDesk) highlights developer ecosystem vitality; markets pricing in only moderate upside despite AI agent infrastructure demand.",
-        "trigger_signal": "Institutional accumulation (Bit Digital treasury expansion) + agentic AI workload migration to chain"
-      },
-      {
-        "question": "Will Dell Technologies stock outperform NVDA by >10% through October 31, 2026?",
-        "deadline": "2026-10-31",
-        "resolution_source": "Yahoo Finance price return comparison (DELL vs. NVDA adjusted close)",
-        "why_underpriced": "Dell +31% on fastest sales growth since IPO (2018); AI server assembly margin expansion underestimated vs. NVDA valuation cliff risk; relative value asymmetric.",
-        "trigger_signal": "CNBC: Dell AI server sales acceleration + GPU supply chain bottleneck reducing NVDA upside"
-      },
-      {
-        "question": "Will Hyperliquid (HYPE) token price recover above its previous all-time high by December 31, 2026?",
+        "question": "Will Anthropic's valuation exceed OpenAI's by 2026-12-31?",
         "deadline": "2026-12-31",
-        "resolution_source": "CoinMarketCap historical HYPE price data",
-        "why_underpriced": "HYPE flash crashed 45% on SpaceX contract liquidations ($1.5M); but Bitwise HYPE ETF traction + DeFi $20B TVL drop framed as 'stress-test' suggests recovery narrative; oversold technicals.",
-        "trigger_signal": "CoinDesk: Bitwise Hyperliquid ETF adoption + structured finance volume recovery post-liquidation event"
+        "resolution_source": "Public funding announcement or credible third-party valuation (PitchBook, Crunchbase, WSJ)",
+        "why_underpriced": "36氪 (2026-05-05) reports Anthropic completed $65B funding at $965B valuation, overtaking OpenAI for first time; English media slower to price in; implies sustained capital velocity into Anthropic.",
+        "trigger_signal": "Chinese media (36氪) surface Anthropic fundraise before mainstream English outlets; suggests market initially underweights AI funding race narrative"
       },
       {
-        "question": "Will MiCA-regulated EU crypto platforms reach full compliance license adoption (>80% of material players) by June 30, 2026?",
-        "deadline": "2026-06-30",
-        "resolution_source": "France AMF public registry + European Securities and Markets Authority enforcement reports",
-        "why_underpriced": "France AMF sets June 30 deadline; UniCredit warns crypto-bank crisis risk under MiCA; market underprices execution risk; prediction markets severely illiquid on regulatory resolution.",
-        "trigger_signal": "CoinDesk: UniCredit warning + France AMF June 30 licensing deadline imminent"
+        "question": "Will Ethereum's spot ETF net inflows exceed Bitcoin's spot ETF net inflows in Q3 2026 (Jul-Sep)?",
+        "deadline": "2026-10-15",
+        "resolution_source": "Grayscale, iShares, Fidelity public ETF AUM reports; SEC investment company filings",
+        "why_underpriced": "No current prediction market covers ETF flow competition; Ethereum Foundation culture-war drama (CoinDesk) and Paxos SEC clearing approval (Cointelegraph) signal regulatory tailwind for diversified crypto asset flows.",
+        "trigger_signal": "Cointelegraph (2026-05-05) — SEC approves Paxos as blockchain-native clearing agency; removes custody friction for institutional Ethereum flows"
       },
       {
-        "question": "Will Kuaishou (1024.HK) stock price exceed its 52-week high by September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Hong Kong Exchange (HKEX) historical price data for 1024.HK",
-        "why_underpriced": "36Kr: Q1 2026 revenue 337B RMB +3.4% YoY, but operating profit down 15.6%; however, Kelingai AI positioned as 'second growth curve'—AI diversification catalyst underpriced by market focused on short-term margin compression.",
-        "trigger_signal": "FLAG: 36Kr surfaces Kuaishou Q1 2026 results before English market coverage; AI revenue acceleration narrative emerging in Chinese media ahead of Western analyst consensus"
+        "question": "Will Costco's stock outperform Walmart by >5% through 2026-11-30?",
+        "deadline": "2026-11-30",
+        "resolution_source": "Yahoo Finance, CNBC historical price data",
+        "why_underpriced": "CNBC reports Costco saw 'record-breaking' gas volumes amid rising prices; counter-narrative to inflation recession fears; consumer discretionary bifurcation play.",
+        "trigger_signal": "CNBC (2026-05-05) — Costco record gas volumes; signals pricing power + membership moat resilience"
+      },
+      {
+        "question": "Will XRP close above $2.00 USD on 2026-08-31?",
+        "deadline": "2026-08-31",
+        "resolution_source": "CoinGecko, CoinMarketCap historical close prices",
+        "why_underpriced": "CoinDesk reports XRP rebounded above $1.30 with volume surge but bears control bigger picture; binary $2 target captures potential regulatory clarity or macroeconomic risk-on catalyst.",
+        "trigger_signal": "CoinDesk (2026-05-05) — XRP volume rebound vs. bearish structure; suggests asymmetric upside if narrative shifts"
+      },
+      {
+        "question": "Will FalconX's IPO price exceed $100M pre-money valuation by 2026-10-31?",
+        "deadline": "2026-10-31",
+        "resolution_source": "SEC S-1 filing, IPO prospectus, first-day closing price",
+        "why_underpriced": "CoinDesk reports FalconX confidentially files for IPO; first major crypto trading firm public offering; valuation anchor missing in public discourse.",
+        "trigger_signal": "CoinDesk (2026-05-05) — FalconX IPO filing signals institutional crypto infrastructure maturation"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Dell (DELL) outperforms mega-cap chip stocks (NVDA, AMD) through Q3 2026 as AI server margin expansion beats AI chip valuation saturation.",
-        "horizon": "3–5 months (through October 2026)",
+        "thesis": "Semiconductor capex cycle inflects higher on photonics acceleration; overweight NVDA and MU as Nvidia's multi-billion photonics bet forces foundry/memory upgrades through 2027.",
+        "horizon": "6-12 months",
         "supporting_signals": [
-          "CNBC: Dell +31% on fastest sales growth since 2018 IPO; 'high-growth AI story' narrative shift",
-          "Supply chain: GPU bottleneck reduces NVDA incremental upside vs. systems integration margin lift for Dell"
+          "CNBC (2026-05-05) — Nvidia investing billions into photonics as more efficient data transfer alternative",
+          "Hacker News discussion of Claude Opus 4.8 and AI infrastructure debate signals sustained AI capex demand"
         ],
-        "counter_view": "NVDA retains pricing power; AI capex cycle shifts to inference-optimized chips (NVIDIA H100/H200 refresh) where NVDA dominates; Dell server mix skews lower-margin.",
-        "expression": "Long DELL, short NVDA via calendar spreads or outperformance collar; or long DELL Jan 2027 calls vs. short NVDA Jan 2027 calls"
+        "counter_view": "Photonics remains 3-5 years from volume production; near-term semiconductor cycle already priced in; NVIDIA earnings miss could crater thesis.",
+        "expression": "Long NVDA / MU spreads (outperformance ratio); buy 6-month call spreads on SMH (semiconductor ETF)"
       },
       {
-        "thesis": "BTC re-tests $80K+ by end of Q2 2026 as Trump CLARITY Act regulatory clarity removes overhang; institutional ETF inflows (Calamos, Bitwise) accelerate as volatility mean-reverts.",
-        "horizon": "6–8 weeks (to June 30, 2026)",
+        "thesis": "Bitcoin accumulation by major holders has stalled; sub-$74K retests are capitulation buy signals before institutional summer recovery; BTC likely bottoms May-June 2026 before rallying to $85K+ by year-end.",
+        "horizon": "3-6 months",
         "supporting_signals": [
-          "Cointelegraph: BTC cooldown 'under $75K' but characterized as distribution phase, not capitulation",
-          "Trump regulatory signal: CLARITY Act positioning crypto for 'future proof' classification",
-          "Institutional adoption: Calamos protected BTC ETFs, Bitwise Hyperliquid ETFs signal risk-adjusted entry appetite"
+          "CryptoQuant (Cointelegraph 2026-05-05) — Bitcoin major holders halt buys; buyer drought signals",
+          "Cointelegraph (2026-05-05) — $9B options expiry May 2026; bears in control but overextended"
         ],
-        "counter_view": "U.S.-Iran escalation or economic data shock (consumer savings collapse) triggers risk-off flush; BTC corrects toward $60K support.",
-        "expression": "Long BTC perps (3–5x leverage); or long BTC June 2026 $80K calls + short BTC June 2026 $65K puts (strangle expressing upside bias)"
+        "counter_view": "Macro recession fears, Fed rate-hold surprise, or geopolitical escalation (Iran, Romania NATO incident) could force BTC to $60K; whale capitulation may not halt selling.",
+        "expression": "Long BTC spot; buy May/June 2026 BTC call spreads (70K/85K); hedge with long DXY (dollar strength) to cap downside"
       },
       {
-        "thesis": "Cloud/AI software sector (XLK, CRM, SNOW, OKTA, PANW) continues outperformance vs. SPY through Q3 as agentic AI workload migration drives SaaS revenue acceleration.",
-        "horizon": "4–6 months (through September 2026)",
+        "thesis": "ECB rate-cut probability embedded in EUR weakness; tighter lending conditions already here; long EUR/USD puts or short EUR outperformers (EURCHF) as summer 2026 recession fears mount.",
+        "horizon": "2-4 months",
         "supporting_signals": [
-          "CNBC market moves: Snowflake +36%, Okta +8%, ServiceNow/Oracle/Palantir all rallying on agentic AI demand",
-          "Okta CEO Todd McKinnon: 'playing a long game on AI, allocating more resources to agentic tools'",
-          "36Kr: Kuaishou Kelingai AI emerging as second growth curve; Chinese AI infra company adoption widening"
+          "CNBC (2026-05-05) — ECB in bind; private sector already tightening despite no rate cut",
+          "BBC Gaza ceasefire instability (May 2026) + Romania NATO drone incident = geopolitical risk premium favors USD safety bid"
         ],
-        "counter_view": "Valuation compression if Fed rate policy tightens unexpectedly; SaaS multiple contraction on higher discount rates.",
-        "expression": "Long XLK (Vanguard IT ETF) vs. short SPY via sector rotation hedge; or long software basket (SNOW + OKTA + PANW) vs. short semiconductor (NVDA + AMD) to isolate AI workload leverage"
+        "counter_view": "ECB holds rates through Q3 2026; inflation data re-accelerates; eurozone data surprises positive; euro rallies on hawkish surprise.",
+        "expression": "Short EUR/USD 6-month FX forwards; buy DXY calls (June 2026 expirations); long EURCHF puts"
       },
       {
-        "thesis": "ETH/BTC ratio mean-reverts upward to 0.055–0.060 by end of 2026 as Ethereum Foundation ecosystem (agentic AI, DeFi post-$20B TVL reset) reasserts dominance vs. BTC macro hedge narrative.",
-        "horizon": "6–9 months (through December 2026)",
+        "thesis": "Anthropic's $965B valuation (per 36氪 May 2026) signals AI capital consolidation into top-3 labs (Anthropic, OpenAI, Google); Anthropic equity or Series C secondary shares outperform venture-stage AI startups through 2026-2027.",
+        "horizon": "12+ months",
         "supporting_signals": [
-          "Bit Digital: $20M ETH purchase + 158K ETH treasury expansion signals smart money conviction",
-          "CoinDesk: Ethereum Foundation 'center of crypto's culture war'; developer ecosystem mobilizing",
-          "DeFi TVL drop framed as 'stress-test,' not capitulation; structured finance infrastructure rebuilding"
+          "36氪 (2026-05-05) — Anthropic $650B funding round, $965B valuation, first time exceeds OpenAI (FLAG: Chinese media signals this before English press)",
+          "CoinDesk Ethereum Foundation culture-war narrative; implies institutional scrutiny of crypto/AI funding allocation"
         ],
-        "counter_view": "BTC dominance cycle extends if U.S. macro uncertainty persists; altseason narrative delayed to 2027.",
-        "expression": "Long ETH/BTC perp ratio spread (buy ETH, short BTC, equal notional); or long ETH Jan 2027 calls + short BTC Jan 2027 calls"
+        "counter_view": "Anthropic valuation inflated by insider mark-ups; Claude Opus quality plateau; regulatory headwinds on AI safety; OpenAI recapitalizes at higher valuation.",
+        "expression": "If secondary market access: buy Anthropic Series C shares (e.g., EquityZen, Forge); hedge with OpenAI puts if liquid; long ANTML (hypothetical AI index including Anthropic)"
       },
       {
-        "thesis": "DXY (U.S. Dollar Index) weakens 2–3% through Q4 2026 as Fed rate-cut expectations rise on consumer savings collapse + Iran ceasefire reduces geopolitical risk premium.",
-        "horizon": "5–7 months (through November 2026)",
+        "thesis": "Tether's US-focused stablecoin USDT.US surged 500%+ in April 2026; mass retail onboarding into onshore USDC/USDT competition; yield-bearing USDC strategies (Compound, Aave, Lido liquid staking) outperform plain USDC holds.",
+        "horizon": "3-6 months",
         "supporting_signals": [
-          "CNBC consumer data: U.S. savings rate at lowest since 2022; inflation outpacing wages signals Fed capitulation timeline",
-          "BBC/CNBC: U.S.-Iran ceasefire tentative agreement reduces safe-haven flows to USD",
-          "Trump midterm politics: no rate hike pressure pre-election; accommodative bias likely"
+          "CoinDesk (2026-05-05) — Tether's US-focused stablecoin up 500% in one month",
+          "SEC approves Paxos as blockchain-native clearing agency (Cointelegraph); removes operational friction for stablecoin settlement"
         ],
-        "counter_view": "Unexpected inflation reacceleration (energy shock) forces Fed to hold; DXY rallies; geopolitical escalation reignites haven demand.",
-        "expression": "Short DXY via currency forwards or inverse ETF (PSQ, UUP short); or long commodity-linked assets (GLD, CRB) as DXY hedge"
+        "counter_view": "Regulatory crackdown on Tether (Treasury, SEC investigation); USDC remains incumbent; yield compression in DeFi as capital inflows normalize.",
+        "expression": "Long USDC yield positions (Compound cUSDC, Aave aUSDC); short duration USDT forward contracts; buy USDC/USDT arbitrage spreads"
       }
     ]
   }
