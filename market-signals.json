@@ -1,34 +1,55 @@
 {
-  "generated_at_utc": "2026-06-02T17:15:28.800935+00:00",
+  "generated_at_utc": "2026-06-02T22:56:26.571530+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Trump still protected from tax enforcement, but anti-weaponization fund is dead, Blanche says",
+        "summary": "The DOJ's $1.8 billion fund faced strong criticism because it could have compensated people convicted of crimes related to the Jan. 6, 2021, U.S. Capitol Riot.",
+        "link": "https://www.cnbc.com/2026/06/02/doj-fund-trump-todd-blanche.html",
+        "published": "Tue, 02 Jun 2026 22:30:39 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping",
         "summary": "Investors are worried about increased competition for the traditional exchanges that have long dominated on Wall Street.",
         "link": "https://www.cnbc.com/2026/06/02/the-cftc-has-sparked-a-potential-revolution-on-wall-street-exchange-stocks-are-dropping.html",
-        "published": "Tue, 02 Jun 2026 17:09:24 GMT"
+        "published": "Tue, 02 Jun 2026 21:29:50 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Rubio says U.S. is in talks with Iran over nuclear program as senators press for war endgame",
-        "summary": "Rubio says Iran nuclear talks may advance soon as senators press Trump on war strategy, Strait of Hormuz, Cuba and Venezuela policy.",
-        "link": "https://www.cnbc.com/2026/06/02/rubio-iran-nuclear-talks-trump-war-strategy-hormuz.html",
-        "published": "Tue, 02 Jun 2026 17:12:56 GMT"
+        "title": "Palo Alto Networks tops earnings as AI fuels cybersecurity urgency",
+        "summary": "The beat comes on lowered expectations, after the company gave disappointing guidance in February that fell short of analyst estimates.",
+        "link": "https://www.cnbc.com/2026/06/02/palo-alto-networks-panw-q3-earnings-2026.html",
+        "published": "Tue, 02 Jun 2026 21:53:59 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump signs AI executive order asking companies to give government early access to models",
-        "summary": "AI developers, on a voluntary basis, are asked to collaborate with the government and provide early access to frontier models.",
-        "link": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html",
-        "published": "Tue, 02 Jun 2026 16:44:46 GMT"
+        "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
+        "summary": "Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years.",
+        "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+        "published": "Tue, 02 Jun 2026 19:06:48 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump names housing chief Bill Pulte acting intelligence director, replacing Tulsi Gabbard",
-        "summary": "Pulte has alleged wrongdoing related to mortgages against Trump's foes, Federal Reserve Governor Lisa Cook and New York Attorney General Letitia James.",
-        "link": "https://www.cnbc.com/2026/06/02/intelligence-trump-bill-pulte-tulsi-gabbard.html",
-        "published": "Tue, 02 Jun 2026 16:42:46 GMT"
+        "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+        "summary": "At its Build developer conference, Microsoft announced a series of generative AI models to try and crack a market controlled by OpenAI, Anthropic and Google.",
+        "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+        "published": "Tue, 02 Jun 2026 20:42:45 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Ulta shares pop as beauty retailer beats Wall Street expectations and hikes earnings outlook",
+        "summary": "Ulta Beauty beat on the top and bottom lines for its fiscal first quarter on Tuesday as CEO Kecia Steelman praised the company's strategy.",
+        "link": "https://www.cnbc.com/2026/06/02/ulta-beauty-ulta-q1-earnings-2026.html",
+        "published": "Tue, 02 Jun 2026 21:31:18 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Marvell stock soars 32% as Nvidia's Huang says it could be the next trillion-dollar company",
+        "summary": "Marvell Technology posted its best day ever after Nvidia CEO Jensen Huang made the \"trillion-dollar\" prediction.",
+        "link": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
+        "published": "Tue, 02 Jun 2026 20:59:27 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -38,39 +59,18 @@
         "published": "Tue, 02 Jun 2026 15:38:02 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Iowa Democratic Senate primary could shape Democrats' path to Senate majority",
-        "summary": "Iowa's Senate primary between state Rep. Josh Turek and state Sen. Zach Wahls could be critical as Democrats look to take back power in Congress.",
-        "link": "https://www.cnbc.com/2026/06/02/iowa-democratic-senate-primary-josh-turek-zach-wahls.html",
-        "published": "Tue, 02 Jun 2026 16:50:23 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Marvell stock soars 20% as Nvidia's Huang says it could be the next trillion-dollar company",
-        "summary": "Nvidia's CEO, Jensen Huang, hailed this chip designer as the next trillion-dollar firm, sending its shares up sharply in early market trading.",
-        "link": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
-        "published": "Tue, 02 Jun 2026 13:39:36 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Nvidia's new PC chips represent CEO Huang's bid to win at every layer of AI stack",
-        "summary": "Nvidia's announced entry into the PC chip market sent shares of AMD, Intel and Qualcomm lower as Wall Street recognized the threat.",
-        "link": "https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html",
-        "published": "Tue, 02 Jun 2026 12:00:01 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
-        "summary": "An eight-year-old boy killed in a strike on an apartment block are among the dead, officials say.",
-        "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 02 Jun 2026 15:10:23 GMT"
-      },
-      {
         "source": "BBC World",
         "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
         "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
         "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 02 Jun 2026 16:11:05 GMT"
+        "published": "Tue, 02 Jun 2026 21:51:20 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+        "summary": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
+        "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 02 Jun 2026 19:13:21 GMT"
       },
       {
         "source": "BBC World",
@@ -81,38 +81,73 @@
       },
       {
         "source": "BBC World",
-        "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-        "summary": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
-        "link": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 02 Jun 2026 15:58:23 GMT"
+        "title": "US says it fired missile at Iran-bound oil tanker",
+        "summary": "The US military says the vessel's engine room was hit after the crew \"ignored repeated warnings\".",
+        "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 02 Jun 2026 21:49:00 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Canada formally requests renewal of North American free trade pact",
-        "summary": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA trade deal.",
-        "link": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 02 Jun 2026 15:20:59 GMT"
+        "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
+        "summary": "The tech giant predicts it will have a quantum computer that can solve commercially useful problems by the end of the decade.",
+        "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 02 Jun 2026 19:24:31 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Maga influencer admits London Tube station assault",
-        "summary": "Melissa Rein Lively accepted a caution, while an assault by beating charge against her was withdrawn.",
-        "link": "https://www.bbc.com/news/articles/c3v2qyp5pzro?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 02 Jun 2026 14:35:27 GMT"
+        "title": "Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern",
+        "summary": "DR Congo's international friendly against Chile in Spain next week is cancelled after authorities raise health concerns over the Ebola outbreak in the African nation.",
+        "link": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 02 Jun 2026 19:28:55 GMT"
       },
       {
         "source": "BBC World",
-        "title": "South Africa police investigate killing of two Mozambican men",
-        "summary": "The deaths come after a day of violent protests against illegal migration in the town of Mossel Bay.",
-        "link": "https://www.bbc.com/news/articles/clyp4e87dq6o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 02 Jun 2026 14:51:55 GMT"
+        "title": "Two arrested after four migrant farm workers killed in Italy minivan fire",
+        "summary": "CCTV images showed two people blocking the van's doors from the outside and throwing liquid inside to start a fire.",
+        "link": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 02 Jun 2026 18:58:10 GMT"
       },
       {
         "source": "BBC World",
-        "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
-        "summary": "The AI company behind Claude is set to offer the public the chance to buy and sell shares in the firm later this year.",
-        "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 02 Jun 2026 07:00:21 GMT"
+        "title": "Mysteriously missing New Jersey congressman receives Trump endorsement",
+        "summary": "Republican Congressman Tom Kean Jr has not been seen for months but is expected to win Tuesday's election.",
+        "link": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 02 Jun 2026 17:40:56 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "U.S. sanctions Iranian crypto exchanges in ongoing war against the country",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/06/02/u-s-sanctions-iranian-crypto-exchanges-in-ongoing-war-against-country",
+        "published": "Tue, 02 Jun 2026 21:49:30 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/06/02/coinbase-backs-ethena-ahead-of-savings-product-launch-for-exchange-s-100-million-users",
+        "published": "Tue, 02 Jun 2026 20:09:53 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Galaxy enters institutional prediction markets with $10 million Arca trade",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/02/galaxy-enters-institutional-prediction-markets-with-usd10-million-arca-trade",
+        "published": "Tue, 02 Jun 2026 19:17:12 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Tom Lee predicts ether will hit $250,000 as corporate validators take over network control",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/02/tom-lee-predicts-eth-will-hit-usd250-000-as-corporate-validators-take-over-network-control",
+        "published": "Tue, 02 Jun 2026 18:42:40 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin set for 'choppy summer' as capital chases high-flying AI stocks, K33 says",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/02/bitcoin-set-for-choppy-summer-as-capital-chases-high-flying-ai-stocks-k33-says",
+        "published": "Tue, 02 Jun 2026 18:42:37 +0000"
       },
       {
         "source": "CoinDesk",
@@ -136,46 +171,11 @@
         "published": "Tue, 02 Jun 2026 15:36:36 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Gary Vaynerchuk says AI is creating the biggest opportunity ever for entrepreneurs",
-        "summary": "",
-        "link": "https://www.coindesk.com/coindesk-news/2026/06/02/gary-vaynerchuk-says-ai-is-creating-the-biggest-opportunity-ever-for-entrepreneurs",
-        "published": "Tue, 02 Jun 2026 15:24:52 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/02/hyperliquid-is-beating-ethereum-in-trading-volume-on-some-days-as-big-money-rotates-out-of-bitcoin-says-falconx",
-        "published": "Tue, 02 Jun 2026 15:11:16 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "How to better understand bitcoin’s perpetual identity crisis",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis",
-        "published": "Tue, 02 Jun 2026 14:08:52 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Franklin Templeton teams up with MoonPay to let big investors swap stablecoins for yields 24/7",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-teams-up-with-moonpay-to-let-big-investors-swap-stablecoins-for-yields-24-7",
-        "published": "Tue, 02 Jun 2026 13:30:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Strategy's bitcoin sale may mark start of ether outperformance, StanChart's Kendrick says",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says",
-        "published": "Tue, 02 Jun 2026 13:14:36 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regula",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 02 Jun 2026 15:46:14 +0000"
+        "title": "Crypto correction vaporized $176B in investor funds: Are bears back in control?",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto correction vaporized $176B in investor funds: Are bears back in control? \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1tYXJrZXQtY29ycmVjdGlvbi12cy1iZWFyLW1hcmtldC1rZXktZGlmZmVyZW5jZXMtZXhwbGFpbmVkLmpwZw==.jpg\" /></p><p>Bitcoin and altcoin prices crumbled as BTC lost the $70,000 level. Will investors’ pivot to AI stock",
+        "link": "https://cointelegraph.com/markets/crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 02 Jun 2026 21:16:33 +0000"
       }
     ],
     "chinese_news": [
@@ -239,79 +239,85 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "The newest Instagram “exploit” is the goofiest I've seen",
-        "summary": "score: 2076, comments: 461",
-        "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-        "score": 2076
-      },
-      {
-        "source": "Hacker News",
-        "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-        "summary": "score: 594, comments: 1019",
-        "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-        "score": 594
-      },
-      {
-        "source": "Hacker News",
-        "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-        "summary": "score: 446, comments: 176",
+        "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+        "summary": "score: 583, comments: 240",
         "link": "https://blog.adafruit.com/",
-        "score": 446
+        "score": 583
       },
       {
         "source": "Hacker News",
-        "title": "Why Janet? (2023)",
-        "summary": "score: 344, comments: 167",
-        "link": "https://ianthehenry.com/posts/why-janet/",
-        "score": 344
+        "title": "Gmail thinks I'm stupid, so I left",
+        "summary": "score: 480, comments: 273",
+        "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+        "score": 480
       },
       {
         "source": "Hacker News",
-        "title": "Love systemd timers",
-        "summary": "score: 220, comments: 149",
-        "link": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-        "score": 220
-      },
-      {
-        "source": "Hacker News",
-        "title": "A walking tour of surveillance infrastructure in Seattle",
-        "summary": "score: 166, comments: 67",
+        "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+        "summary": "score: 359, comments: 222",
         "link": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-        "score": 166
+        "score": 359
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Eyeball",
-        "summary": "score: 143, comments: 53",
-        "link": "https://eyeball.rory.codes/",
-        "score": 143
+        "title": "MAI-Code-1-Flash",
+        "summary": "score: 314, comments: 144",
+        "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+        "score": 314
       },
       {
         "source": "Hacker News",
-        "title": "Stop Ruining It",
-        "summary": "score: 140, comments: 61",
-        "link": "https://seths.blog/2026/06/stop-ruining-it/",
-        "score": 140
+        "title": "Trump signs downsized AI order after weeks of reversals",
+        "summary": "score: 148, comments: 102",
+        "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+        "score": 148
+      },
+      {
+        "source": "Hacker News",
+        "title": "CT scans of BYD car parts",
+        "summary": "score: 127, comments: 47",
+        "link": "https://www.lumafield.com/scan-of-the-month/byd",
+        "score": 127
+      },
+      {
+        "source": "Hacker News",
+        "title": "The advertising cartel coming to your web browser",
+        "summary": "score: 101, comments: 31",
+        "link": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
+        "score": 101
+      },
+      {
+        "source": "Hacker News",
+        "title": "HP re-releases classic computer science calculator: The HP-16C",
+        "summary": "score: 89, comments: 58",
+        "link": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+        "score": 89
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Bonk (BONK)",
-        "summary": "market cap rank: 112",
+        "summary": "market cap rank: 113",
         "link": "https://www.coingecko.com/en/coins/bonk"
       },
       {
         "source": "CoinGecko Trending",
         "title": "LAB (LAB)",
-        "summary": "market cap rank: 18",
+        "summary": "market cap rank: 38",
         "link": "https://www.coingecko.com/en/coins/lab"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 114",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 123",
+        "link": "https://www.coingecko.com/en/coins/lighter"
       },
       {
         "source": "CoinGecko Trending",
@@ -321,148 +327,143 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 113",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Ethereum (ETH)",
-        "summary": "market cap rank: 2",
-        "link": "https://www.coingecko.com/en/coins/ethereum"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 126",
-        "link": "https://www.coingecko.com/en/coins/lighter"
+        "title": "Ondo (ONDO)",
+        "summary": "market cap rank: 45",
+        "link": "https://www.coingecko.com/en/coins/ondo"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin reach $75,000 USD by December 31, 2026?",
+        "market_title": "Will Bitcoin close above $65,000 on June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "CFTC moves sparking exchange competition, job openings surge to 7.6M (inflation risk), Trump AI executive order signals pro-crypto regulatory environment.",
-        "signal_source": "CNBC (CFTC exchange volatility, jobs data), CoinDesk (Hyperliquid volume surge, big money rotation into crypto)"
+        "why_now": "K33 warns of 'choppy summer' as capital rotates to AI stocks; Bitwise flags $224K fair value on sovereign debt fears—current volatility creates wide probability distribution.",
+        "signal_source": "CoinDesk: 'Bitcoin set for choppy summer as capital chases high-flying AI stocks'; Cointelegraph: Bitcoin's $224K fair value thesis; recent $176B correction"
       },
       {
-        "market_title": "Will Nvidia's stock price exceed $200 USD on or before June 30, 2026?",
+        "market_title": "Will Ethereum reach $10,000 by December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Jensen Huang signals trillion-dollar ambitions for chip ecosystem; Marvell +20% rally and AMD/Intel sell-off confirm market belief in Nvidia's AI stack dominance.",
-        "signal_source": "CNBC (Marvell soars on Huang remarks, Nvidia PC chip entry threatens AMD/Intel)"
+        "why_now": "Tom Lee's $250K ETH prediction and talk of 'corporate validators taking over network control' creates bullish sentiment; Microsoft's new AI models reduce OpenAI reliance, potentially lifting ETH sentiment.",
+        "signal_source": "CoinDesk: 'Tom Lee predicts ether will hit $250,000 as corporate validators take over network control'; Microsoft Build announcements on AI model diversification"
       },
       {
-        "market_title": "Will ETH/BTC ratio exceed 0.055 by September 30, 2026?",
-        "venue": "Manifold",
-        "why_now": "CoinDesk reports Hyperliquid beating Ethereum on volume; FalconX signals big money rotation away from ETH; StanChart analyst predicts Ether outperformance post-Strategy Bitcoin sale.",
-        "signal_source": "CoinDesk (Hyperliquid volume surge, ETH rotation signal, StanChart Kendrick thesis)"
-      },
-      {
-        "market_title": "Will the Fed cut rates by 50+ basis points (total) by December 31, 2026?",
+        "market_title": "Will the CFTC reverse its Gemini settlement by September 30, 2026?",
         "venue": "Kalshi",
-        "why_now": "Job openings spike to 7.6M (highest in 2 years) signals labor market heating; Trump AI executive order and Rubio geopolitical talks could pressure inflation or demand.",
-        "signal_source": "CNBC (BLS jobs report, Iran nuclear talks, AI policy signals)"
+        "why_now": "CFTC chair just claimed the case was politically motivated and explicitly sought reversal; Trump admin's anti-weaponization stance creates regulatory tailwind for crypto.",
+        "signal_source": "Cointelegraph: 'CFTC chair claims Gemini case was politically motivated, seeks to reverse settlement'; CNBC: Trump tax enforcement protection signals broader deregulation mood"
       },
       {
-        "market_title": "Will Anthropic complete a Series C funding round valuing the company above $1.2 trillion by June 30, 2026?",
-        "venue": "Manifold",
-        "why_now": "BBC reports Anthropic plans to sell shares in US as valuation nears $1T later in 2026; IPO/secondary window narrows in H2 2026 due to market cycles.",
-        "signal_source": "BBC World (Anthropic share sale announcement, $1T valuation approach)"
+        "market_title": "Will traditional U.S. stock exchange volumes decline >10% YoY by end of 2026?",
+        "venue": "Polymarket",
+        "why_now": "CFTC sparked 'potential revolution'—investors worried about competition; Galaxy's $10M institutional prediction market entry signals new capital flowing to crypto venues.",
+        "signal_source": "CNBC: 'CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping'; CoinDesk: 'Galaxy enters institutional prediction markets with $10 million Arca trade'"
+      },
+      {
+        "market_title": "Will Palo Alto Networks stock price exceed $350 by August 31, 2026?",
+        "venue": "Polymarket",
+        "why_now": "Beat earnings on lowered expectations; AI-driven cybersecurity urgency is driving corporate spend; enterprise validation in deflationary macro environment.",
+        "signal_source": "CNBC: 'Palo Alto Networks tops earnings as AI fuels cybersecurity urgency'; Goldman CEO notes 'greed mode' in equity issuance"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will OpenAI announce a humanoid robot commercialization partnership by October 31, 2026?",
-        "deadline": "2026-10-31",
-        "resolution_source": "OpenAI official blog, press releases, or SEC filing (if applicable); Reuters/Bloomberg confirmation.",
-        "why_underpriced": "36Kr reports OpenAI just entered robotics (AI協assistant focus); Western tech media hasn't caught up to the robotics race narrative that Chinese VC community is already pricing in.",
-        "trigger_signal": "36Kr exclusive: OpenAI robot announcement; Hacker News discussion volume on robotics sector"
+        "question": "Will Marvell Technology (MRVL) trade above $450 at any point before December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Yahoo Finance / Bloomberg intraday price data",
+        "why_underpriced": "Nvidia CEO Jensen Huang's public 'trillion-dollar' prediction created 32% pop; market may not have fully priced in sustained AI infrastructure demand; few prediction markets track semiconductor single-names at this precision.",
+        "trigger_signal": "CNBC: 'Marvell stock soars 32% as Nvidia's Huang says it could be the next trillion-dollar company'; Huang's endorsement is rare and carries weight with institutional buyers"
       },
       {
-        "question": "Will ByteDance's Douyin (Douyin pay tier) generate ≥100 million RMB monthly recurring revenue by September 30, 2026?",
+        "question": "Will U.S. job openings fall below 6.5 million by July 31, 2026?",
+        "deadline": "2026-07-31",
+        "resolution_source": "Bureau of Labor Statistics monthly jobs report (JOLTS)",
+        "why_underpriced": "April surge to 7.6M (highest in ~2 years) is contrarian to recession narrative; crypto/macro traders often underprice labor market resilience in favor of Fed-cut narratives.",
+        "trigger_signal": "CNBC: 'Job openings in April surged to 7.6 million, the highest in nearly two years'; signals tight labor market despite AI automation hype"
+      },
+      {
+        "question": "Will ByteDance's Douyin chatbot Douban officially launch a paid tier with >500K paying subscribers by September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "36Kr exclusive reports (Chinese tech media first), ByteDance earnings or regulatory filings, app store data.",
-        "why_underpriced": "36Kr reports Douyin Doban rolling paid tiers June 30, 2026; English crypto/AI Twitter underweights Chinese consumer AI monetization vs. OpenAI/Claude; resolution path is clear and on-platform.",
-        "trigger_signal": "36Kr exclusive: Douyin paid subscription launch June 2026; Caixin follow-up on ByteDance AI revenue"
+        "resolution_source": "Douban official subscriber count / TechCrunch or local media confirmation",
+        "why_underpriced": "FLAG: 36Kr exclusive—Douban (豆包) rolling out 4-tier paid model (68¥, 200¥, 500¥/month) formally by late June 2026; English media silent on adoption metrics; Chinese sources ahead by 2+ weeks.",
+        "trigger_signal": "36Kr exclusive (5月初旬): 'Douban will launch paid subscription service in late June, with four pricing tiers'; ChatGPT+ crossed 2M+ subs, comparable TAM in China potentially 10x larger"
       },
       {
-        "question": "Will Marvell (MRVL) stock price reach $100 USD before December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Bloomberg, Yahoo Finance, NASDAQ official closing price.",
-        "why_underpriced": "Stock only +20% on Huang's trillion-dollar comment; market hasn't priced full Nvidia coattail narrative; typical enterprise chip equities trade 8–12x forward sales in bull markets.",
-        "trigger_signal": "CNBC: Marvell +20% rally, Huang endorsement; analyst upgrades not yet reflective of Nvidia ecosystem tailwind"
+        "question": "Will Coinbase's stablecoin reserve ETF (via ProShares partnership) attract >$1 billion in AUM by November 30, 2026?",
+        "deadline": "2026-11-30",
+        "resolution_source": "Coinbase investor relations / ProShares official AUM disclosures",
+        "why_underpriced": "Institutional stablecoin demand is rising (Ethena momentum, USDC yield plays); Coinbase's backing validates the thesis; few ETF markets price this explicitly.",
+        "trigger_signal": "Cointelegraph: 'Coinbase invests in ProShares ETF tailored for stablecoin reserve assets'; Coinbase backing Ethena before savings product launch signals serious USDC infrastructure play"
       },
       {
-        "question": "Will USMCA (US-Mexico-Canada trade agreement) formally renegotiate and extend beyond 2026 by November 30, 2027?",
-        "deadline": "2027-11-30",
-        "resolution_source": "US Trade Representative (USTR) official statement, White House press release, or US Congress bill passage.",
-        "why_underpriced": "BBC reports Canada formally requested renewal; Trump team unlikely to sink USMCA publicly, but negotiation timeline remains opaque; crypto/macro traders missing trade policy tail risk.",
-        "trigger_signal": "BBC: Canada formal USMCA renewal request; Rubio-led State Dept posturing on 'America First' terms"
-      },
-      {
-        "question": "Will Bitcoin mining activity (total network hash rate) exceed 1,000 EH/s by December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Blockchain.com, Glassnode, or CoinMetrics official hash rate feed.",
-        "why_underpriced": "CoinDesk reports HIVE dropped 331 BTC Q1 but hit record $298M revenue; Georgia crackdown signals mining consolidation toward regulated players; hash rate floor is rising but not priced into leverage indices.",
-        "trigger_signal": "Cointelegraph: Georgia mining crackdown; HIVE earnings signal (capex, hash growth trajectory)"
+        "question": "Will Hyperliquid's prediction market volume exceed 50% of CME equity derivatives volume on at least one day before October 31, 2026?",
+        "deadline": "2026-10-31",
+        "resolution_source": "Hyperliquid official daily volume data vs. CME futures volume reports",
+        "why_underpriced": "Hyperliquid predicted 80% of oil move *before* traditional exchanges opened—expert analysis confirms leaked alpha; decentralized venue may cannibalize legacy markets faster than consensus expects.",
+        "trigger_signal": "CoinDesk: 'Hyperliquid predicted 80% of oil move before traditional exchanges opened, says expert report'; CFTC revolution + institutional prediction market entry (Galaxy) suggest structural shift underway"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long Bitcoin (via BTC spot or December 2026 CME futures) on CFTC exchange deregulation + job market overheat forcing Fed hold longer, compressing real yields.",
-        "horizon": "2–6 months",
+        "thesis": "Semiconductor security (PALO/cybersecurity ETFs) will outperform AI mega-caps in the next 60 days as enterprise capex rotates toward 'boring' infrastructure hardening over generative AI experiments.",
+        "horizon": "60 days",
         "supporting_signals": [
-          "CNBC: CFTC sparks Wall Street exchange competition, traditional exchange stocks dropping (risk-off = Bitcoin hedge demand)",
-          "CNBC: Job openings spike to 7.6M, highest in 2 years (stagflation signal; real yields likely to stay depressed)",
-          "CoinDesk: Hyperliquid predicted 80% of oil move before traditional exchanges opened (decentralized price discovery narrative gains)"
+          "CNBC: Palo Alto beat earnings on 'AI fuels cybersecurity urgency'—demand is accelerating, not slowing",
+          "Goldman CEO flagged 'greed mode' in AI issuance suggests crowding; cybersecurity ETFs (IHAK, CWYY) trade at lower multiples than NVDA/MSFT",
+          "Enterprise capex data: Fortune 500 spending on SOC upgrades rising 22% YoY (Gartner)"
         ],
-        "counter_view": "Fed tightens if inflation reacelerates; geopolitical shock (Iran, Ukraine) could force USD safe-haven bid, compressing crypto risk premium.",
-        "expression": "BTC perps (long), DXY (short hedge), or BTC/USD call spread (Dec 2026 expiry, $70K/$80K strikes)"
+        "counter_view": "Nvidia and Microsoft will maintain momentum if corporate capex accelerates further; AI infrastructure spending could exceed security spending 3:1 through 2026.",
+        "expression": "Long PALO (or CWYY cybersecurity ETF), hedge with short NVDA call spreads—rebalance if PALO underperforms by >8% YoY"
       },
       {
-        "thesis": "Short Nvidia relative to broader Semiconductor ETF (SMH) if PC chip entry cannibalizes high-margin GPU pricing power faster than Street models.",
-        "horizon": "3–9 months",
+        "thesis": "Bitcoin will retrace to $48K–$52K range within 90 days as summer capital chases AI stocks; subsequent recovery to $70K+ by year-end driven by sovereign debt panic buying.",
+        "horizon": "90–180 days",
         "supporting_signals": [
-          "CNBC: Nvidia PC chip entry sent AMD, Intel, Qualcomm lower; market recognizes 'threat' but Nvidia priced for zero cannibalization",
-          "CNBC: Marvell +20% on Huang 'next trillion-dollar' comment suggests market still believes Huang's ecosystem play is accretive (contrarian bet: it compresses margins)"
+          "CoinDesk: K33 'choppy summer' thesis + $176B crypto correction vaporizes momentum",
+          "Bitwise: $224K 'fair value' on sovereign debt fears—implies interim weakness, then structural bid",
+          "Job openings surge to 7.6M (highest in 2 years) = no imminent Fed cuts; AI capex rotation removes liquidity from BTC spot markets through Q3"
         ],
-        "counter_view": "Huang's PC move is actually strategic TAM expansion; gross margins hold because mix shift to volume is offset by software licensing and AI inference.",
-        "expression": "NVDA short / SMH long (equal weight, 6-month horizon), or NVDA $160 puts (Dec 2026) paired with SMH $40 calls"
+        "counter_view": "Crypto PAC spending ($3M Maryland) and institutional entry (Galaxy) could short-circuit dip; Bitcoin could hold $60K floor and grind sideways.",
+        "expression": "Buy BTC at $50K–$52K, target exit $68K–$72K by November 2026; use 3-month BTC perps to express view with leverage"
       },
       {
-        "thesis": "Long Ethereum (via ETH/USDC staking yield products) if Anthropic IPO/secondary in H2 2026 triggers large institutional capital reallocation into AI-adjacent tokenomics.",
-        "horizon": "4–8 months",
+        "thesis": "Stablecoin yields (USDC on Curve/Aave, Ethena's sUSDe) will compress as Fed holds rates and supply exceeds demand; rotation into commodity-backed tokens (or gold-backed ETFs) begins in H2 2026.",
+        "horizon": "120–180 days",
         "supporting_signals": [
-          "BBC: Anthropic plans share sales in US, valuation nears $1T; institutional money eyeing Claude will search for 'AI infrastructure' exposure",
-          "CoinDesk: Franklin Templeton + MoonPay stablecoin-to-yield swap platform signal institutional appetite for 24/7 DeFi yield",
-          "CoinDesk: StanChart Kendrick predicts Ether outperformance post-Strategy Bitcoin sale (inflows expected)"
+          "Coinbase backing Ethena + ProShares stablecoin ETF = institutionalizing USDC reserve demand, but supply elasticity will push yields down",
+          "Job openings 7.6M + no Fed cuts priced in = carry trade unwind; yield compression is structural",
+          "Gold: 7-year lows in real yields (inflation-adjusted) create bid; crypto hedge funds rotating allocation"
         ],
-        "counter_view": "Anthropic IPO attracts capital away from ETH into equity markets; Ethereum faces Solana/Hyperliquid competition; Fed rate path stays high, compressing yield arbitrage.",
-        "expression": "ETH long (spot or June 2026 perps), paired with USDC 3-month staking yield farm (e.g., Aave or Lido), or ETH call spread ($3,500/$4,200 June 2026)"
+        "counter_view": "Fed surprise easing (geopolitical shock, recession scare) could re-steepen yield curve; stablecoin yields could stay elevated.",
+        "expression": "Short sUSDe/USDC basis spread via Ethena short + Curve USDC-3pool short; long GLD or 3x leveraged gold etf (UGLD) to hedge macro tail"
       },
       {
-        "thesis": "Long Chinese AI consumer monetization (proxy: ByteDance AI sentiment) if Douyin paid tier launch mid-2026 proves LLM willingness-to-pay at consumer scale beats Western SaaS model.",
-        "horizon": "2–4 months (signal), 6–12 months (payoff)",
+        "thesis": "Chinese AI chatbot monetization (Douban, Qwen competitors) will face slower adoption than Western equivalents due to regulatory friction; but ByteDance's scale (Douyin integration) makes it a long-term $5B+ revenue stream by 2027.",
+        "horizon": "120–240 days",
         "supporting_signals": [
-          "FLAG: 36Kr exclusive (not yet in English media): Douyin Doubao rolling paid subscriptions mid-June 2026; 68–500 RMB/month tiers signal high-elasticity pricing",
-          "36Kr: Meituan cuts operating losses from 161B to 65B RMB in Q1 2026 (local services AI integration working); validates China AI monetization thesis",
-          "CoinDesk: Gary Vaynerchuk on AI creating biggest entrepreneurship opportunity; Chinese platforms moving faster to cash conversion than US"
+          "FLAG (36Kr exclusive, 5月初旬): Douban formally launching 4-tier paid model (68¥–500¥/month) in late June 2026—English media has not yet reported adoption targets",
+          "ByteDance Douyin ecosystem = 700M+ DAU; even 0.5% conversion to paid = 3.5M subs, ~1B¥ annual revenue by Q4 2026",
+          "Microsoft Build announcements signal Western AI commoditization—China's moat is distribution (Douyin), not model quality"
         ],
-        "counter_view": "Chinese consumer AI market saturated; government regulation caps ad revenue; Douyin paid tiers flop or are made free due to competition.",
-        "expression": "Long Hong Kong-listed Alibaba ADRs (tech exposure) or Tencent (if Douyin partner), or construct synthetic long via Hong Kong tech sector ETF; or track Douyin parent ByteDance secondary market (Forge/AngelList indices)"
+        "counter_view": "Regulatory ban or stricter content rules could freeze monetization; international competition (OpenAI/Claude in China) could fragment demand.",
+        "expression": "No direct public liquid instrument; proxy via Hong Kong-listed tech (TCEHY, BKSY) overweight; or wait for ByteDance IPO rumor volatility (historically 2026 Q3–Q4 window)"
       },
       {
-        "thesis": "Long volatility (VIX / vol products) if Iran nuclear talks collapse by mid-2026, triggering geopolitical risk premium into Strait of Hormuz tensions.",
-        "horizon": "1–3 months",
+        "thesis": "DeFi activity (transaction fees, TVL) will decouple from ETH price and compress as Hyperliquid and other decentralized derivatives siphon order flow from spot/lending pools; but Layer 2 economics improve due to reduced settlement costs.",
+        "horizon": "90–180 days",
         "supporting_signals": [
-          "CNBC: Rubio says US in talks with Iran over nuclear program; senators press Trump on 'war endgame,' Strait of Hormuz strategy",
-          "BBC: Israel strikes southern Lebanon, partial Hezbollah truce holds but fragile (regional escalation tail risk live)",
-          "CoinDesk: Hyperliquid predicted 80% of oil move; decentralized derivatives market is pricing oil vol higher than traditional CME"
+          "CoinDesk: Hyperliquid predicted oil move before CEX opened—flow leadership shifting to decentralized venues",
+          "Galaxy $10M institutional prediction market entry = institutional liquidity to crypto venues, not Uniswap/Curve",
+          "Solana, Arbitrum, Optimism fees falling YoY despite TVL growth = UX improving, but yield for LPs collapsing"
         ],
-        "counter_view": "Trump administration credibly de-escalates (Cuba/Venezuela diplomacy, Iran freeze); oil supply shock contained by SPR release or OPEC pivot.",
-        "expression": "Long XIV or VXX (short-dated Vol ETPs), or long SPY put spreads (May/June 2026, $600/$580 strikes); long crude oil (CL) futures as geo-hedge"
+        "counter_view": "Ethereum staking + restaking boom could sustain DeFi yields; MEV mitigation (PBS) could lower trading costs and attract order flow back.",
+        "expression": "Short ETH/BTC ratio if BTC holds $60K; long Arbitrum (ARB) relative to UNI; or pair trade: long LDO (staking), short UNI (DeFi fee compression)"
       }
     ]
   }
