@@ -1,20 +1,48 @@
 {
-  "generated_at_utc": "2026-06-06T07:42:14.910287+00:00",
+  "generated_at_utc": "2026-06-06T14:25:50.019320+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push",
-        "summary": "Meta shares dropped after the Financial Times reported the company could potentially raise tens of billions of dollars in a stock offering to help its AI push.",
-        "link": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
-        "published": "Fri, 05 Jun 2026 20:22:44 GMT"
+        "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
+        "summary": "As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.",
+        "link": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
+        "published": "Sat, 06 Jun 2026 13:28:42 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
-        "summary": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months.",
-        "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-        "published": "Fri, 05 Jun 2026 21:01:53 GMT"
+        "title": "Inside the Obama-era Iran nuclear deal that Trump withdrew from",
+        "summary": "The U.S. and Iran have yet to reach a peace deal or address Iran's nuclear ambitions, despite signals from Trump that talks are progressing.",
+        "link": "https://www.cnbc.com/2026/06/06/trump-iran-jcpoa-nuclear-deal-obama.html",
+        "published": "Sat, 06 Jun 2026 12:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Chinese EVs may hit U.S. within a few years, one way or another",
+        "summary": "Chinese electric vehicles are likely to be sold in the U.S. within years, despite tariffs, strict laws and opposition from the auto industry and politicians.",
+        "link": "https://www.cnbc.com/2026/06/06/chinese-evs-auto-sales-manufacturing-us.html",
+        "published": "Sat, 06 Jun 2026 13:35:07 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses",
+        "summary": "The monster rally in semiconductor stocks hit a wall on Friday, and the VIX at last caught up with other volatility metrics.",
+        "link": "https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html",
+        "published": "Sat, 06 Jun 2026 12:58:29 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Abel goes his own way with new Berkshire investments, including billions for AI",
+        "summary": "Warren Buffett tells CNBC's Becky Quick new Berkshire Hathaway CEO Greg Abel has \"launched\" with his first major deal.",
+        "link": "https://www.cnbc.com/2026/06/06/abel-goes-his-own-way-with-new-berkshire-investments-including-billions-for-ai.html",
+        "published": "Sat, 06 Jun 2026 12:31:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "How ‘Backrooms’ producer Peter Chernin thinks Hollywood needs to change",
+        "summary": "Franchise fatigue could drive an entertainment industry sea change as the appetite for fresh ideas grows and younger audiences make up more box office sales.",
+        "link": "https://www.cnbc.com/2026/06/06/backrooms-peter-chernin-hollywood.html",
+        "published": "Sat, 06 Jun 2026 13:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -25,38 +53,17 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Bitcoin cracks $60,000, sinking to lowest level since October 2024",
-        "summary": "The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.",
-        "link": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
-        "published": "Fri, 05 Jun 2026 20:59:16 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's",
-        "summary": "The move highlights the growing importance of the technology sector to the stock market.",
-        "link": "https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html",
-        "published": "Fri, 05 Jun 2026 21:36:23 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Mythos rejuvenated the cybersecurity sector. Earnings put the recent rally to the test",
-        "summary": "Mythos gave the cybersecurity sector a boost, but upbeat earnings weren't enough for investors in search of an AI payoff.",
-        "link": "https://www.cnbc.com/2026/06/05/mythos-cybersecurity-earnings-palo-alto-crowdstrike.html",
-        "published": "Fri, 05 Jun 2026 20:25:09 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Iran's threats against this Red Sea choke point are a big vulnerability for the oil market",
-        "summary": "Oil prices would spike if Iran's Houthi allies started attacking ships passing through the Bab el-Mandeb Strait.",
-        "link": "https://www.cnbc.com/2026/06/05/iran-war-oil-price-strait-hormuz-bab-el-mandeb-chokepoint.html",
-        "published": "Fri, 05 Jun 2026 22:05:04 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "Warren Buffett disciple Guy Spier built career on value investing. A rare cancer changed everything",
         "summary": "After a glioblastoma diagnosis, value investor Guy Spier rethought wealth, time and legacy — and the impact he can have on rare disease research.",
         "link": "https://www.cnbc.com/2026/06/05/warren-buffett-disciple-guy-spiers-rare-cancer-made-him-revalue-everything.html",
         "published": "Fri, 05 Jun 2026 10:55:02 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+        "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+        "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 06 Jun 2026 13:38:07 GMT"
       },
       {
         "source": "BBC World",
@@ -67,10 +74,38 @@
       },
       {
         "source": "BBC World",
-        "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-        "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-        "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 05 Jun 2026 18:16:15 GMT"
+        "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+        "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+        "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 06 Jun 2026 07:06:43 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Lebanon says three soldiers killed in Israeli attack on car",
+        "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+        "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 06 Jun 2026 10:57:28 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Iran says staff blocked from entering US after players given World Cup visas",
+        "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+        "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 06 Jun 2026 11:56:25 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Man dies after bitten by shark in Western Australia, police say",
+        "summary": "The man was spearfishing off Michaelmas Island with his family, according to local reports.",
+        "link": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 06 Jun 2026 08:20:50 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
+        "summary": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
+        "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 06 Jun 2026 07:33:07 GMT"
       },
       {
         "source": "BBC World",
@@ -80,39 +115,46 @@
         "published": "Sat, 06 Jun 2026 02:28:56 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Armenia braces for election as Russia piles pressure on pro-West government",
-        "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
-        "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 06 Jun 2026 07:06:43 GMT"
+        "source": "CoinDesk",
+        "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
+        "published": "Sat, 06 Jun 2026 13:30:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Iran's football team granted visas to enter US for World Cup, officials say",
-        "summary": "The approval comes just 10 days before the Iranian squad's opening match against New Zealand in Los Angeles.",
-        "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 06 Jun 2026 03:14:56 GMT"
+        "source": "CoinDesk",
+        "title": "A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool",
+        "published": "Sat, 06 Jun 2026 13:00:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
-        "summary": "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
-        "link": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 06 Jun 2026 04:22:25 GMT"
+        "source": "CoinDesk",
+        "title": "Michael Saylor’s rallying cry: Bitcoin needs four forces to win",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win",
+        "published": "Sat, 06 Jun 2026 13:00:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Tributes to Buffy and Ted Lasso star Anthony Head who dies aged 72",
-        "summary": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
-        "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 06 Jun 2026 07:33:07 GMT"
+        "source": "CoinDesk",
+        "title": "Are retail traders selling their bitcoin to buy the SpaceX IPO?",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
+        "published": "Sat, 06 Jun 2026 09:45:15 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
-        "summary": "The Israeli military says Friday's \"incident is under review\", expressing \"deep sorrow for any harm caused\".",
-        "link": "https://www.bbc.com/news/articles/cy828e64vp8o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 05 Jun 2026 23:12:24 GMT"
+        "source": "CoinDesk",
+        "title": "Researcher who found Zcash's bug with AI adds Monero to his audit queue",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue",
+        "published": "Sat, 06 Jun 2026 09:38:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
+        "published": "Sat, 06 Jun 2026 08:25:36 +0000"
       },
       {
         "source": "CoinDesk",
@@ -127,48 +169,6 @@
         "summary": "",
         "link": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
         "published": "Sat, 06 Jun 2026 03:30:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
-        "published": "Fri, 05 Jun 2026 19:27:20 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next",
-        "published": "Fri, 05 Jun 2026 18:02:33 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "BlackRock-backed tokenization firm Securitize clears key hurdle to go public on NYSE",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/06/05/blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-nyse",
-        "published": "Fri, 05 Jun 2026 16:46:28 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Memecoins dogecoin, shiba inu dive 9% as bitcoin nears $60,000",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/05/memecoins-dogecoin-shiba-inu-dive-9-as-bitcoin-nears-usd60-000",
-        "published": "Fri, 05 Jun 2026 16:01:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "U.S. House tax committee weighs crypto bills, including relief for small transactions",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions",
-        "published": "Fri, 05 Jun 2026 15:49:13 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Alsobrooks says Clarity Act needs ethics deal before Senate vote",
-        "summary": "",
-        "link": "https://www.coindesk.com/coindesk-news/2026/06/05/alsobrooks-says-clarity-act-needs-ethics-deal-before-senate-vote",
-        "published": "Fri, 05 Jun 2026 15:05:55 +0000"
       },
       {
         "source": "Cointelegraph",
@@ -239,73 +239,85 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-        "summary": "score: 518, comments: 212",
-        "link": "https://mouseless.click",
-        "score": 518
+        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "summary": "score: 853, comments: 295",
+        "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "score": 853
       },
       {
         "source": "Hacker News",
-        "title": "Did Claude increase bugs in rsync?",
-        "summary": "score: 388, comments: 394",
-        "link": "https://alexispurslane.github.io/rsync-analysis/",
-        "score": 388
-      },
-      {
-        "source": "Hacker News",
-        "title": "pg_durable: Microsoft open sources in-database durable execution",
-        "summary": "score: 381, comments: 87",
-        "link": "https://github.com/microsoft/pg_durable",
-        "score": 381
-      },
-      {
-        "source": "Hacker News",
-        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-        "summary": "score: 380, comments: 247",
-        "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-        "score": 380
+        "title": "How LLMs work",
+        "summary": "score: 548, comments: 162",
+        "link": "https://www.0xkato.xyz/how-llms-actually-work/",
+        "score": 548
       },
       {
         "source": "Hacker News",
         "title": "New method turns ocean water into drinking water, without waste",
-        "summary": "score: 337, comments: 148",
+        "summary": "score: 436, comments: 178",
         "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-        "score": 337
+        "score": 436
       },
       {
         "source": "Hacker News",
-        "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-        "summary": "score: 332, comments: 102",
-        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-        "score": 332
+        "title": "pg_durable: Microsoft open sources in-database durable execution",
+        "summary": "score: 428, comments: 94",
+        "link": "https://github.com/microsoft/pg_durable",
+        "score": 428
       },
       {
         "source": "Hacker News",
         "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-        "summary": "score: 294, comments: 559",
+        "summary": "score: 416, comments: 742",
         "link": "https://news.ycombinator.com/item?id=48406174",
-        "score": 294
+        "score": 416
       },
       {
         "source": "Hacker News",
-        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-        "summary": "score: 253, comments: 63",
-        "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-        "score": 253
+        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+        "summary": "score: 408, comments: 253",
+        "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+        "score": 408
+      },
+      {
+        "source": "Hacker News",
+        "title": "The intracies of modern camera lens repair (2024)",
+        "summary": "score: 200, comments: 70",
+        "link": "https://salvagedcircuitry.com/sigma-45mm.html",
+        "score": 200
+      },
+      {
+        "source": "Hacker News",
+        "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+        "summary": "score: 115, comments: 38",
+        "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+        "score": 115
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
+        "title": "Allora (ALLO)",
+        "summary": "market cap rank: 275",
+        "link": "https://www.coingecko.com/en/coins/allora"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 16",
+        "summary": "market cap rank: 17",
         "link": "https://www.coingecko.com/en/coins/zcash"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 113",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 31",
+        "link": "https://www.coingecko.com/en/coins/sui"
       },
       {
         "source": "CoinGecko Trending",
@@ -315,155 +327,146 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Ethereum (ETH)",
-        "summary": "market cap rank: 2",
-        "link": "https://www.coingecko.com/en/coins/ethereum"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 34",
-        "link": "https://www.coingecko.com/en/coins/sui"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Hyperliquid (HYPE)",
         "summary": "market cap rank: 10",
         "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 81",
-        "link": "https://www.coingecko.com/en/coins/venice-token"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $65,000 by June 30, 2026?",
+        "market_title": "Will Bitcoin close above $65,000 on June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "BTC crashed below $60k on May jobs data; $2.6B short funding trap signals potential squeeze, but macro headwinds (higher yields, risk-off sentiment) persist.",
-        "signal_source": "CNBC (jobs report spike yields), CoinDesk (liquidations, funding rates), Cointelegraph (short squeeze setup)"
+        "why_now": "BTC dropped below $60K then recovered to $61K; $2.6B short squeeze trap signals capitulation bottom, funding rates compressed—watch for reversal into quarter-end.",
+        "signal_source": "Cointelegraph (short squeeze brewing), CoinDesk (liquidations at $1.6B), CNBC (crypto hype cycle shift to hyperliquid platforms)"
       },
       {
-        "market_title": "Will Ethereum fall below $1,400 by end of June 2026?",
-        "venue": "Polymarket",
-        "why_now": "ETH at 13-month lows amid Zcash bug exposure fears and Bitcoin correlation; critical support test underway.",
-        "signal_source": "Cointelegraph (13-month low, $1.4k support breach risk), CoinDesk (network flaw warnings)"
-      },
-      {
-        "market_title": "Will Meta raise $10+ billion in equity offering by end of 2026?",
-        "venue": "Polymarket",
-        "why_now": "Financial Times reported Meta mulling tens-of-billions capital raise for AI; investor sentiment split between AI ambition and dilution concerns.",
-        "signal_source": "CNBC (FT report, stock sink reaction)"
-      },
-      {
-        "market_title": "Will SpaceX IPO price at $100+ billion valuation by November 2026?",
-        "venue": "Polymarket",
-        "why_now": "SpaceX raised Japan target to $2.5B (per 36Kr exclusive); Google signed $920M/month 32-month compute deal; IPO timing tightening.",
-        "signal_source": "CNBC (Google deal, IPO prep), 36Kr (Japan capital raise target raised), Cointelegraph (Kraken xStocks access)"
-      },
-      {
-        "market_title": "Will U.S. House pass crypto relief bill (small-transaction carve-out) before August 31, 2026?",
+        "market_title": "Will the S&P 500 close above 5,500 on December 31, 2026?",
         "venue": "Kalshi",
-        "why_now": "House tax committee actively weighing crypto bills; Senate clarity bill momentum tied to ethics deal (Alsobrooks). Regulatory certainty could unlock $200B+ liquidated holdings.",
-        "signal_source": "CoinDesk (House hearing, tax proposals, clarity act negotiation)"
+        "why_now": "Chip rally hit a wall Friday; VIX finally catching up signals vol regime shift; semiconductor reversal may cascade into broader equity pullback or consolidation.",
+        "signal_source": "CNBC (chip stocks monster rally reverses, VIX spike)"
+      },
+      {
+        "market_title": "Will Ethereum close below $1,500 on July 31, 2026?",
+        "venue": "Polymarket",
+        "why_now": "ETH hit 13-month low on Zcash bug audit fears and systemic crypto liquidation cascade; retail tech risk-off into SpaceX IPO hype suggests sector rotation away from alts.",
+        "signal_source": "Cointelegraph (ETH to 13-month low, sub-$60K BTC), CoinDesk (Zcash AI bug, Cardano social surge on capitulation)"
+      },
+      {
+        "market_title": "Will the US and Iran agree to a nuclear deal framework by September 30, 2026?",
+        "venue": "Manifold",
+        "why_now": "Trump admin signals talks progressing but no deal yet; US–Iran Gulf strikes escalating—ceasefire test failing; binary outcome on negotiation viability before Q4.",
+        "signal_source": "CNBC (Obama-era deal withdrawal backdrop, Trump signals), BBC World (US/Iran exchange strikes, ceasefire test)"
+      },
+      {
+        "market_title": "Will Chinese EVs achieve >5% US market share by December 31, 2027?",
+        "venue": "Polymarket",
+        "why_now": "CNBC reports Chinese EVs likely entering US within years despite tariffs; tariff regime under Trump uncertain—binary on regulatory/market permitting.",
+        "signal_source": "CNBC (Chinese EVs hitting US within years one way or another)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Anthropic's founding team make a public statement calling for global AI development slowdown before September 30, 2026?",
+        "question": "Will Berkshire Hathaway's CEO Greg Abel announce a deal >$10B in AI/tech by October 31, 2026?",
+        "deadline": "2026-10-31",
+        "resolution_source": "Berkshire Hathaway press releases, SEC filings, CNBC reported transactions",
+        "why_underpriced": "Buffett explicitly told CNBC Abel 'launched' with major deals; market underestimates momentum of new CEO's portfolio shift away from traditional Buffett thesis.",
+        "trigger_signal": "CNBC (Abel's first major deal with billions for AI, Buffett public endorsement)"
+      },
+      {
+        "question": "Will Anthropic publish a formal policy recommending global AI development slowdown and gain adoption by 2+ G7 governments by July 31, 2026?",
+        "deadline": "2026-07-31",
+        "resolution_source": "Anthropic official policy statements, G7 summit communiqués, FT/Reuters reporting on government AI policy alignment",
+        "why_underpriced": "36Kr reports Anthropic calling for global AI slowdown and warning of 'self-improvement' risk—this is policy-level signal that could trigger regulatory coordination; market hasn't priced binary on actual policy adoption.",
+        "trigger_signal": "36Kr (Anthropic warnings on AI self-improvement risk, global slowdown call)"
+      },
+      {
+        "question": "Will SpaceX IPO price be announced and >$180/share equivalent valuation by December 15, 2026?",
+        "deadline": "2026-12-15",
+        "resolution_source": "SEC S-1 filing, SpaceX investor roadshow filings, official IPO pricing announcements",
+        "why_underpriced": "36Kr reports SpaceX raised Japan funding target to $2.5B; Kraken/xStocks IPO access, Polymarket hiring wave for IPO betting—massive retail demand signal; S&P 500 rejection of OpenAI/Anthropic may clear path for SpaceX as 'AI-adjacent but proven revenue' narrative.",
+        "trigger_signal": "36Kr (SpaceX Japan $2.5B target raise), CoinDesk (retail trading SpaceX IPO access), Cointelegraph (Kraken xStocks IPO access), Hacker News (S&P rejection of SpaceX—contrarian bullish)"
+      },
+      {
+        "question": "Will ByteDance's Doubao (豆包) monthly active users recover to pre-paywall levels by September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "Anthropic official blog, press releases, or verified statements from Darius Amodei, Daniela Amodei, or Tom Brown via Twitter/LinkedIn",
-        "why_underpriced": "36Kr reported Anthropic warning on AI 'self-improvement' risks; this generates minimal betting volume despite material for existential risk hedgers and AI regulation traders.",
-        "trigger_signal": "36Kr exclusive (Chinese media first): Anthropic calling for global slowdown—English media silence suggests underpricing of Anthropic's next public stance"
+        "resolution_source": "36Kr reports, ByteDance investor updates, third-party app analytics (Sensor Tower, App Annie)",
+        "why_underpriced": "36Kr reports Doubao lost 6.1M MAU post-paywall; market has not priced in whether freemium model will recover churn—binary on China AI/LLM competitive landscape shift.",
+        "trigger_signal": "36Kr (Doubao MAU drop 6.1M post-paywall, AI monetization risk in China)"
       },
       {
-        "question": "Will Huawei Cloud announce partnership with a top-3 global cloud provider (AWS, Azure, GCP) to integrate overseas compute before December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Huawei Cloud official announcements, SEC filings of AWS/Microsoft/Google, or verified joint-venture documents",
-        "why_underpriced": "36Kr's Zhou Yuefeng (Huawei Cloud CEO) stated focus on 'domesticated compute health' over token volume; signals pivot away from standalone token competition—international partnership unlocks Western AI TAM without equity dilution.",
-        "trigger_signal": "36Kr exclusive (June 5, 2026 INSPIRE event): Huawei's third-path strategy between token wars suggests M&A or JV quietly in negotiation"
-      },
-      {
-        "question": "Will Iran's football federation ban use of USDC or stablecoins for player salaries/transfers before June 1, 2027?",
-        "deadline": "2027-06-01",
-        "resolution_source": "Iranian Football Federation public statements, SWIFT/sanctions compliance bulletins, or verified reports in Reuters/Bloomberg",
-        "why_underpriced": "Iran granted visas for World Cup (May 2026); geopolitical thaw could reverse if sanctions tighten. Stablecoin use in sports is unhedged regulatory tail-risk.",
-        "trigger_signal": "BBC (Iran visa approval, US-Iran exchange of strikes); crypto adoption in sanctions-adjacent markets is nascent but unmeasured by current prediction markets"
-      },
-      {
-        "question": "Will Illinois enact crypto transaction tax (proposed FY2027 budget measure) before January 1, 2027?",
-        "deadline": "2027-01-01",
-        "resolution_source": "Illinois state legislature bill tracker, Governor's signature confirmation, or IL Department of Revenue guidance",
-        "why_underpriced": "Cointelegraph: tax bill 'one step away' from law; affects liquidity venues and retail adoption. Low visibility in national prediction markets despite state-level impact on DeFi routing.",
-        "trigger_signal": "Cointelegraph (crypto tax in IL budget imminent); state-level regulation creates arbitrage for exchanges moving revenue to low-tax jurisdictions"
-      },
-      {
-        "question": "Will Securitize IPO price at or above $500M valuation on NYSE before August 31, 2026?",
+        "question": "Will Hyperliquid (HYPE) token maintain >$1.5B market cap through August 31, 2026?",
         "deadline": "2026-08-31",
-        "resolution_source": "SEC S-1 filing, NYSE IPO pricing announcement, or verified post-IPO market cap on Bloomberg/Yahoo Finance",
-        "why_underpriced": "CoinDesk: BlackRock-backed tokenization firm 'clears key hurdle'; IPO catalyst underpriced relative to institutional custody/RWA tailwinds.",
-        "trigger_signal": "CoinDesk (regulatory win); BlackRock backing + tokenization megatrend = underpriced execution risk vs. market sentiment"
+        "resolution_source": "CoinGecko, CoinMarketCap market cap feeds, Hyperliquid protocol TVL data",
+        "why_underpriced": "CNBC headlines crypto hype shift to hyperliquid platforms and HYPE ETFs; CoinDesk reports massive trading firm hiring wave treating Polymarket as mainstream—infrastructure play; retail fomo underpriced given structured volatility into summer.",
+        "trigger_signal": "CNBC (hyperliquid platform hype rising as BTC craters), CoinDesk (trading firms hiring, Polymarket no longer niche)"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Bitcoin oversold on macro headwinds; $2.6B short squeeze trap and declining funding rates suggest 20–30% bounce to $73–78k over 60 days before next macro shock.",
-        "horizon": "60 days (by early July 2026)",
+        "thesis": "Bitcoin capitulation washout on $2.6B short squeeze trap + compressed funding rates signals accumulation entry; reversal to $68K–$72K by August 2026 as macro pivot and Fed rate-cut expectations tighten.",
+        "horizon": "90–120 days",
         "supporting_signals": [
-          "CoinDesk: $2.6B short trap, funding rate compression favors longs",
-          "Cointelegraph: Bitcoin bears cornered; liquidations near",
-          "CNBC: Liquidations ($1.6B) suggest capitulation bottom; job data spike is backward-looking"
+          "Cointelegraph: $2.6B short trap, bears face squeeze brewing",
+          "CoinDesk: $1.6B liquidations at sub-$60K, funding rates collapsed",
+          "Hacker News: S&P rejecting OpenAI/Anthropic clears narrative for non-traditional assets",
+          "36Kr: Institutional (Huawei, Zhipu, Shang Tang) doubling down on AI hardware + domestic compute tokens—macro risk-on for yield-bearing assets"
         ],
-        "counter_view": "Fed tightening cycle continues through summer 2026; recession fears trump short squeeze. BTC could retest $55k if yield curve inverts or Q2 GDP disappoints.",
-        "expression": "Long BTC perpetuals (3:1 leverage, tight stops at $58.5k); or buy 60-day $70k call spreads on CME micro Bitcoin futures"
+        "counter_view": "Zcash audit bug + Monero expanding AI vulnerability scanning signals systemic smart contract risk; crypto infrastructure may face multi-month repricing if audits expose new exploits.",
+        "expression": "Long BTC spot or 3-month BTC/USDC perps; hedge with short ZEC or long ZEC put spread if AI vulnerability audits accelerate"
       },
       {
-        "thesis": "Meta's pending equity raise ($10–30B) will dilute stock by 3–7% but validate AI capex story; buy dips into raise announcement; target re-rating to $600B market cap by Dec 2026.",
-        "horizon": "180 days (announcement likely June–Aug 2026, repricing through year-end)",
+        "thesis": "Semiconductor rally reversal + VIX catching up signals peak 'chip everything' momentum; NVDA, MU, AMD likely consolidate or pull back 8–12% through June; rotate into AI-adjacent but non-chip plays (Huawei cloud, SUI, SOL infrastructure).",
+        "horizon": "30–60 days",
         "supporting_signals": [
-          "CNBC/FT: tens-of-billions raise imminent; market overreacted downward on dilution fear",
-          "Meta's capex trajectory ($37.7B in 2025 → $40B+ in 2026) is credible AI justification",
-          "Nvidia, Oracle capex cycles show cloud/AI players accretive at scale"
+          "CNBC: Monster chip rally hit wall, VIX finally catching up to volatility reality",
+          "36Kr: Huawei Cloud CEO on non-emotion-driven token health; Zhipu/Shang Tang backing robotics (Yuanli Lingji) over pure LLM tokens—infrastructure thesis",
+          "Hacker News: S&P blocking OpenAI/Anthropic suggests regulatory cap on 'AI darling' valuations; hardware commoditization play"
         ],
-        "counter_view": "Market views this as last resort; earnings miss on AI ROI could trigger 20% washout. GenAI ad ROI still unproven.",
-        "expression": "Buy META on any dip below $500; long META/SPY ratio (beat Magnificent 7 momentum); or 180-day $560 call spreads"
+        "counter_view": "Fed easing cycle + AI capex supercycle may keep semiconductor upside momentum alive if corporate earnings beat H2 2026.",
+        "expression": "Short NVDA or MU 3-month calls; long SOL and SUI infrastructure tokens; pair trade: long XLV (healthcare hardware/components) vs. short XLK semis"
       },
       {
-        "thesis": "SpaceX IPO at $100B+ valuation (implied by $2.5B Japan raise + Google $920M/mo recurring revenue) will catalyze 'space capex' rotation into RKLB, LMT, VSAT; SpaceX premium will compress as public comparables emerge.",
-        "horizon": "90–150 days (IPO window Sep–Nov 2026)",
+        "thesis": "Anthropic's public call for global AI development slowdown + G7 policy fragmentation risk is regulatory-tail bullish for DeFi stablecoins and non-custodial yield (Aave, Compound governance); Ethereum consolidation near $1.5K offers entry for ETH upside into 2027 policy clarity cycle.",
+        "horizon": "120–180 days",
         "supporting_signals": [
-          "36Kr exclusive: Japan IPO target raised to $2.5B (signals demand, valuation ~$100B+)",
-          "CNBC: Google's $920M/month = $30B+ TAM validation for compute infrastructure",
-          "Kraken xStocks: retail IPO access confirmed; retail FOMO likely"
+          "36Kr: Anthropic warning on AI self-improvement risk, calling for global slowdown—policy catalyst for regulatory bifurcation",
+          "Cointelegraph: ETH 13-month low on liquidation cascade; retail capitulation signal before policy-driven rerating",
+          "CNBC: Warren Buffett's Greg Abel AI pivot suggests institutional AI capex narrative maturing; non-correlated yield assets (crypto) revalued"
         ],
-        "counter_view": "IPO pops fade; SpaceX's margin profile murky; government dependence creates valuation ceiling. Starlink cannibalization risks.",
-        "expression": "Long RKLB (Rocket Lab) as SpaceX comp-play; short SPAC tunnel vision trades; or pair trade long VSAT (Viasat, telecom infrastructure) vs. short mega-cap cloud (GOOGL) on compute capex divergence"
+        "counter_view": "If Anthropic's call gains traction and leads to enforced AI development caps, compute token valuations (Allora, SUI) could face secular downside; regulatory crackdown may extend crypto volatility.",
+        "expression": "Long ETH spot or 6-month ETH perps; long USDC yield (Compound/Aave governance); short HYPE if regulatory risk crystallizes"
       },
       {
-        "thesis": "Huawei Cloud's 'third-path' domestic compute strategy (per 36Kr exclusive) signals retreat from global token wars; Chinese state-backed AI capex consolidation favors memory/storage (not crypto) but unlocks M&A arbitrage in robotics, linecontrol chassis—watch毫秒智控 (Millisecond Intelligent Control) and原力灵机 (Yuanli Lingji) funding momentum.",
-        "horizon": "120 days (funding rounds, acquisition targets)",
+        "thesis": "SpaceX IPO narrative (36Kr $2.5B Japan raise target, Kraken xStocks access, retail Polymarket hiring spike) creates retail FOMO into 'non-AI tech' narrative; DXY weakness + equity rotation suggest gold and BTC benefit if SpaceX IPO becomes 'safe' AI-adjacent play stealing retail flows from alts.",
+        "horizon": "60–150 days",
         "supporting_signals": [
-          "36Kr exclusive (June 5, 2026): Huawei Cloud CEO Zhou Yuefeng—focus on 'domesticated compute health,' not token volume",
-          "36Kr: Millisecond Intelligent Control (line-control brakes) closed series A+ from Songluo, Sugao (May 2026)",
-          "36Kr: Yuanli Lingji (embodied AI robotics) backed by Zhipu, Shangshang, Stepwise—acquires logistics robot firm"
+          "36Kr: SpaceX Japan funding target raised to $2.5B, IPO imminent narrative",
+          "Cointelegraph: Kraken xStocks offering IPO access; CoinDesk: retail asking if Bitcoin decline driven by SpaceX IPO rotation",
+          "Hacker News: S&P rejecting OpenAI/Anthropic/SpaceX debate signals SpaceX as 'differentiated AI story' with proven revenue",
+          "CNBC: Hyperliquid platform hype rising—prediction markets treat IPO pricing as major event"
         ],
-        "counter_view": "Chinese regulatory cap on private AI capex could stall funding. US export controls on chips limit domestic AI ROI. State subsidy inefficiency.",
-        "expression": "Go long offshore Chinese hardware/robotics plays (if accessible via HK listings or ADRs); avoid direct crypto exposure; size long via BTC/CNY volatility (UUP vs. CNY forwards) as hedge on capital controls"
+        "counter_view": "SpaceX IPO may cannibalize crypto retail demand if priced >$180/share equivalent; valuation cap on private tech IPOs could compress if equities corrected in H2 2026.",
+        "expression": "Long BTC (as 'real asset' vs. SpaceX FOMO); long GLD; pair: long SPY consumer staples (XLP) vs. short growth tech (QQQ) if SpaceX IPO volatility spikes"
       },
       {
-        "thesis": "Zcash bug exposure + Ethereum 13-month low = temporary capitulation in privacy/alt-L1 cohort; but Solana/Sui ecosystem resilience (no CoinDesk-reported critical flaws) suggests 30–40% SOL rally into summer 2026 as risk-on rotates from BTC short squeeze into alt L1 momentum.",
-        "horizon": "45–90 days",
+        "thesis": "Chinese AI/LLM monetization headwind (Doubao paywall losing 6.1M MAU) + Chinese EV tariff uncertainty suggest yuan weakness and DXY strength through Q3 2026; long USD carry, short CNY, favors Bitcoin and commodity-linked crypto (SOL, ALLO) over domestic-denominated assets.",
+        "horizon": "60–120 days",
         "supporting_signals": [
-          "CoinDesk: AI exposed massive Zcash flaw; 'experts warn banks could be next'—privacy coins stigmatized",
-          "Cointelegraph: Cardano social surge despite ADA 4-year low—contrarian signal of bottom capitulation",
-          "CoinDesk: Memecoins dump in tandem (DOGE, SHIB –9%)—retail risk-off; smart money can pick bottoms"
+          "36Kr: Doubao MAU collapse 6.1M post-paywall; AI monetization pressure in China",
+          "36Kr: Huawei Cloud CEO hedging on token economics—domestic compute narrative slowing",
+          "CNBC: Chinese EVs entering US within years despite tariffs—policy uncertainty supports yuan weakness thesis",
+          "Cointelegraph: Allora (ALLO) trending amid macro uncertainty; oracle/prediction infrastructure play"
         ],
-        "counter_view": "Regulatory clampdown on privacy coins accelerates (FinCEN/EU tightens rules). Solana ecosystem risks remain (MEV, centralization narratives).",
-        "expression": "Long SOL/BTC ratio (bet on alt-L1 outperformance vs. macro BTC stability); or buy Solana ecosystem ETF exposure if available (FV, pending); avoid ZEC/ETH entirely until public audit; trim Cardano if social spikes prove false-bottom traps"
+        "counter_view": "China stimulus or yuan support policies could reverse DXY strength; Doubao recovery with freemium model could re-accelerate Chinese AI narrative.",
+        "expression": "Long BTC and ALLO; long DXY (via USDC or short CNH forward); short EEM (emerging market equities); hedge with long CHF or JPY via spot or futures"
       }
     ]
   }
