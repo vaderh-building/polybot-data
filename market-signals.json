@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-06-14T15:05:53.128584+00:00",
+  "generated_at_utc": "2026-06-14T22:03:32.842211+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever",
-        "summary": "SpaceX and Google have a long and complicated relationship, but they were both celebrating this week after Elon Musk's company held its blockbuster IPO.",
-        "link": "https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html",
-        "published": "Sun, 14 Jun 2026 11:30:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "U.S. peace deal with Iran in question as Israel strikes Lebanon",
-        "summary": "An initial deal to end the war and open the Strait of Hormuz was expected to be signed this week.",
-        "link": "https://www.cnbc.com/2026/06/14/iran-deal-teeters-israel-strikes-lebanon.html",
-        "published": "Sun, 14 Jun 2026 14:53:53 GMT"
+        "title": "U.S. and Iran agree on peace deal to end the war, Trump and Pakistan say",
+        "summary": "The deal follows weeks of mixed messaging from both Washington and Tehran on the trajectory of the conflict.",
+        "link": "https://www.cnbc.com/2026/06/14/us-iran-war-peace-deal.html",
+        "published": "Sun, 14 Jun 2026 21:59:52 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -22,6 +15,13 @@
         "summary": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
         "link": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
         "published": "Sun, 14 Jun 2026 15:02:35 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever",
+        "summary": "SpaceX and Google have a long and complicated relationship, but they were both celebrating this week after Elon Musk's company held its blockbuster IPO.",
+        "link": "https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html",
+        "published": "Sun, 14 Jun 2026 11:30:01 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -46,31 +46,24 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+        "summary": "After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company, despite being a fraction the size by revenue of tech's megacaps.",
+        "link": "https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html",
+        "published": "Sat, 13 Jun 2026 15:50:43 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Can Trump Accounts help close the wealth gap? Here's what experts say stands in the way",
         "summary": "Trump Accounts come with free money for some children, but it may not be enough to reduce the wealth gap, some experts say.",
         "link": "https://www.cnbc.com/2026/06/14/trump-accounts-wealth-gap.html",
         "published": "Sun, 14 Jun 2026 13:30:01 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Social Security COLA for 2027 may jump to 4.7%, one estimate finds. This chart shows prices driving the increase",
-        "summary": "As inflation climbs, Social Security beneficiaries may see a higher cost-of-living adjustment in 2027. Here's which costs spiked most over the past 12 months.",
-        "link": "https://www.cnbc.com/2026/06/12/social-security-cola-2027-inflation-estimate.html",
-        "published": "Fri, 12 Jun 2026 21:18:06 GMT"
-      },
-      {
         "source": "BBC World",
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "summary": "The US president's comments come as Iran says an exact date has not been decided.",
-        "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 14 Jun 2026 11:23:36 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Swiss voters reject 10 million population cap, early projections say",
-        "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
+        "title": "Swiss voters reject 10 million population cap",
+        "summary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
         "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 14 Jun 2026 11:31:32 GMT"
+        "published": "Sun, 14 Jun 2026 18:23:52 GMT"
       },
       {
         "source": "BBC World",
@@ -81,6 +74,13 @@
       },
       {
         "source": "BBC World",
+        "title": "Protesters clash with police ahead of G7 summit in Geneva",
+        "summary": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+        "link": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 14 Jun 2026 19:46:36 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
         "summary": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
         "link": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
@@ -88,10 +88,17 @@
       },
       {
         "source": "BBC World",
-        "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
-        "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
-        "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 14 Jun 2026 01:08:20 GMT"
+        "title": "UK and Japan agree £18bn investment deal",
+        "summary": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+        "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 14 Jun 2026 20:29:15 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+        "summary": "Cameras caught Perry running off stage to greet the former Canadian leader with a kiss.",
+        "link": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 14 Jun 2026 14:52:35 GMT"
       },
       {
         "source": "BBC World",
@@ -102,17 +109,24 @@
       },
       {
         "source": "BBC World",
-        "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-        "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
-        "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 13 Jun 2026 23:19:52 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
         "summary": "Marius Borg Høiby will appear via video link, almost three months after his trial came to an end on 40 charges, including four counts of rape.",
         "link": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
         "published": "Sat, 13 Jun 2026 23:11:28 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin could crash to $48,000, if this historical pattern is triggered",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered",
+        "published": "Sun, 14 Jun 2026 19:17:30 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Summer of crypto (regs): State of Crypto",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
+        "published": "Sun, 14 Jun 2026 18:30:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,25 +171,11 @@
         "published": "Sat, 13 Jun 2026 16:51:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
-        "published": "Sat, 13 Jun 2026 16:16:54 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
-        "published": "Sat, 13 Jun 2026 16:00:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG9jdXJyZW5jeS12cy1xdWFudHVtLWNvbXB1dGluZy5qcGc=.jpg\" /></p><p>The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a l",
-        "link": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 14 Jun 2026 13:49:48 +0000"
+        "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aHktc2F5bG9ycy1zdHJhdGVneS1rZWVwcy1idXlpbmctYml0Y29pbi10aGUtbG9uZy10ZXJtLWJldC1leHBsYWluZWQtMi5qcGc=.jpg\" /></p><p>Standard Chartered’s Geoff Kendrick tells clients “winter is over” as the analyst said cr",
+        "link": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 14 Jun 2026 19:05:46 +0000"
       }
     ],
     "chinese_news": [
@@ -210,7 +210,7 @@
       {
         "source": "36氪 36Kr",
         "title": "“宁王系”，排队 IPO",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_58350c4bd51f4d4996cf27cd413e3d9a@5579416_oswg103747oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">越来越多CVC在路上</p>\n  <p>作者 |&nbsp;冯晓亭&nbsp;</p>\n  <p>&nbsp;编辑 | 吾人&nbsp;</p>\n  <p>来源 |&nbsp;融中财经&nbsp;</p>\n  <p>宁德时代，又出手了。</p>\n  <p>近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353亿元（约“41亿元”）认",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_58350c4bd51f4d4996cf27cd413e3d9a@5579416_oswg103747oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">越来越多CVC在路上</p>\n  <p>作者 |&nbsp;冯晓亭&nbsp;</p>\n  <p>&nbsp;编辑 | 吾人&nbsp;</p>\n  <p>来源 |&nbsp;融中财经&nbsp;</p>\n  <p>宁德时代，又出手了。</p>\n  <p>近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科���投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353亿元（约“41亿元”",
         "link": "https://36kr.com/p/3851106394117383?f=rss",
         "published": "2026-06-13 12:59:03  +0800"
       },
@@ -239,79 +239,73 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "GLM 5.2 Is Out",
-        "summary": "score: 699, comments: 413",
-        "link": "https://twitter.com/jietang/status/2065784751345287314",
-        "score": 699
-      },
-      {
-        "source": "Hacker News",
-        "title": "Honda Civics and the Evil Valet",
-        "summary": "score: 350, comments: 78",
-        "link": "https://juniperspring.org/posts/honda-evil-valet/",
-        "score": 350
-      },
-      {
-        "source": "Hacker News",
-        "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-        "summary": "score: 286, comments: 57",
-        "link": "https://sqltoerdiagram.com/",
-        "score": 286
-      },
-      {
-        "source": "Hacker News",
         "title": "Firewood Splitting Simulator",
-        "summary": "score: 181, comments: 60",
+        "summary": "score: 535, comments: 179",
         "link": "https://screen.toys/firewood/",
-        "score": 181
+        "score": 535
       },
       {
         "source": "Hacker News",
-        "title": "How to Earn a Billion Dollars",
-        "summary": "score: 137, comments: 349",
-        "link": "https://paulgraham.com/earn.html",
-        "score": 137
+        "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+        "summary": "score: 277, comments: 61",
+        "link": "https://github.com/tamnd/kage",
+        "score": 277
       },
       {
         "source": "Hacker News",
-        "title": "The Birth and Death of JavaScript (2014)",
-        "summary": "score: 99, comments: 50",
-        "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-        "score": 99
+        "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+        "summary": "score: 231, comments: 125",
+        "link": "https://github.com/nex-agi/Nex-N2/issues/4",
+        "score": 231
       },
       {
         "source": "Hacker News",
         "title": "Lisp's Influence on Ruby",
-        "summary": "score: 96, comments: 4",
+        "summary": "score: 201, comments: 45",
         "link": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
-        "score": 96
+        "score": 201
+      },
+      {
+        "source": "Hacker News",
+        "title": "Formal methods and the future of programming",
+        "summary": "score: 147, comments: 50",
+        "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+        "score": 147
       },
       {
         "source": "Hacker News",
         "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-        "summary": "score: 31, comments: 5",
+        "summary": "score: 135, comments: 41",
         "link": "https://su3.io/posts/zeroserve-caddy-compat",
-        "score": 31
+        "score": 135
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What are you working on? (June 2026)",
+        "summary": "score: 123, comments: 446",
+        "link": "https://news.ycombinator.com/item?id=48528779",
+        "score": 123
+      },
+      {
+        "source": "Hacker News",
+        "title": "The only scalable delete in Postgres is DROP TABLE",
+        "summary": "score: 103, comments: 42",
+        "link": "https://planetscale.com/blog/the-only-scalable-delete",
+        "score": 103
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Humanity (H)",
-        "summary": "market cap rank: 105",
-        "link": "https://www.coingecko.com/en/coins/humanity"
+        "title": "Backpack (BP)",
+        "summary": "market cap rank: 241",
+        "link": "https://www.coingecko.com/en/coins/backpack"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Siren (SIREN)",
-        "summary": "market cap rank: 385",
+        "summary": "market cap rank: 647",
         "link": "https://www.coingecko.com/en/coins/siren-2"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       },
       {
         "source": "CoinGecko Trending",
@@ -321,154 +315,155 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "SpaceX xStock (SPCXX)",
-        "summary": "market cap rank: 716",
-        "link": "https://www.coingecko.com/en/coins/spacex-xstock"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 116",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Backpack (BP)",
-        "summary": "market cap rank: 264",
-        "link": "https://www.coingecko.com/en/coins/backpack"
+        "title": "Bittensor (TAO)",
+        "summary": "market cap rank: 39",
+        "link": "https://www.coingecko.com/en/coins/bittensor"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Plasma (XPL)",
-        "summary": "market cap rank: 167",
-        "link": "https://www.coingecko.com/en/coins/plasma"
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "OpenGradient (OPG)",
+        "summary": "market cap rank: 438",
+        "link": "https://www.coingecko.com/en/coins/opengradient"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will US-Iran peace deal be signed by 2026-05-31?",
+        "market_title": "Will Bitcoin close above $65,000 by end of May 2026?",
         "venue": "Polymarket",
-        "why_now": "Trump announced Sunday signing (2026-05-05) but Iran contradicted timing; market uncertainty on actual execution within 30 days is high-volume arbitrage opportunity.",
-        "signal_source": "CNBC, BBC, CoinDesk (Bitcoin rallied on deal proximity); geopolitical resolution directly moves oil, USD, risk assets."
+        "why_now": "BTC near $65K following Trump's Iran peace deal announcement; geopolitical de-escalation typically bullish for risk assets and crypto.",
+        "signal_source": "Cointelegraph: 'Bitcoin nears $65K as Trump says Hormuz will open to all in Sunday Iran peace deal'"
       },
       {
-        "market_title": "Will Bitcoin close above $70,000 by 2026-06-30?",
-        "venue": "Polymarket",
-        "why_now": "BTC just crossed $65K on Iran deal optimism and SpaceX IPO excitement; macro traders pricing Hormuz reopening (energy deflation) and tokenized treasury growth ($14.6B markets signal institutional crypto shift).",
-        "signal_source": "CoinDesk (BTC $64K+, Pakistan PM statement), Wall Street tokenization surge, SpaceX $1.3B bitcoin reserve disclosed."
-      },
-      {
-        "market_title": "Will the Fed cut rates at least once by 2026-09-30?",
+        "market_title": "Will the U.S.–Iran peace deal be signed and formally ratified by June 30, 2026?",
         "venue": "Kalshi",
-        "why_now": "Social Security COLA 2027 estimate 4.7% signals persistent inflation; G7 meeting (Trump attending) likely to surface global policy divergence; rate derivatives deeply repriced on Iran deal stabilization.",
-        "signal_source": "CNBC (inflation-driven COLA forecast), BBC (G7 Russia/Ukraine agenda), macro macro volatility."
+        "why_now": "Trump announced signing for Sunday (May 5 area); mixed messaging from Tehran creates uncertainty; major macro risk asset.",
+        "signal_source": "CNBC/Cointelegraph: U.S. and Iran agree on peace deal; Trump says deal to be signed Sunday, contradicting Tehran"
       },
       {
-        "market_title": "Will Ethereum close above $4,000 by 2026-08-31?",
-        "venue": "Polymarket",
-        "why_now": "Wall Street moving 'deeper into Ethereum' per Etherealize founder; tokenized treasury markets ($14.6B) running on Ethereum infra; quantum-proofing cost (7 cents) narrative bullish for L1 security upgrade demand.",
-        "signal_source": "CoinDesk (Wall Street Ethereum pivot), Cointelegraph (quantum-proof accounts), SEC tokenization rule clarity improving."
-      },
-      {
-        "market_title": "Will Anthropic's Claude 5 re-launch globally by 2026-06-30?",
+        "market_title": "Will Anthropic's Claude service remain suspended globally past June 15, 2026?",
         "venue": "Manifold",
-        "why_now": "36Kr broke global Claude 5 halt (Chinese media first); Amazon warning triggered US crackdown per Cointelegraph; regulatory limbo creates short-term odds mispricing on resolution speed.",
-        "signal_source": "36Kr exclusive (global Claude 5 stoppage), Cointelegraph (Amazon-triggered US crackdown), Meta/Zuckerberg AI underperformance context."
+        "why_now": "36Kr reported Anthropic global halt on Claude 5; Amazon warning triggered U.S. crackdown; regulatory uncertainty on AI safety could extend restrictions.",
+        "signal_source": "36Kr: '突发！Anthropic全球停用Claude 5' (Breaking: Anthropic globally suspends Claude 5); Cointelegraph: Amazon warning triggered US crackdown on Anthropic AI models"
+      },
+      {
+        "market_title": "Will SpaceX's bitcoin holdings exceed $2 billion by end of Q3 2026?",
+        "venue": "Polymarket",
+        "why_now": "Post-IPO SpaceX now has $1.3B BTC reserve and increased institutional legitimacy; recent IPO inflows and Musk's crypto alignment signal further accumulation.",
+        "signal_source": "CoinDesk: 'Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve'; CNBC: SpaceX IPO reached $2 trillion market cap valuation"
+      },
+      {
+        "market_title": "Will Ethereum quantum-resistance upgrade deploy mainnet code before September 1, 2026?",
+        "venue": "Manifold",
+        "why_now": "Cointelegraph reported quantum-proof accounts possible at 7 cents cost via Kohaku; emerging regulatory and security narrative driving dev priority.",
+        "signal_source": "Cointelegraph: 'Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead'"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the Strait of Hormuz formally reopen to all shipping (zero blockade incidents) for 30+ consecutive days by 2026-08-31?",
+        "question": "Will the Fed cut the federal funds rate below 4.0% by December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Federal Reserve official rate announcement; Federal Reserve Economic Data (FRED)",
+        "why_underpriced": "Iran peace deal and de-escalation may accelerate disinflation narrative, but market currently prices in only 1–2 cuts; inflation sticky in U.S. makes below-4% outcome uncertain.",
+        "trigger_signal": "Trump G7 summit attendance signals foreign policy reset; if Iran deal stabilizes, oil volatility drops and inflation expectations decline."
+      },
+      {
+        "question": "Will the S&P 500 close the second half of 2026 (June 30–Dec 31) with positive returns above 5%?",
+        "deadline": "2026-12-31",
+        "resolution_source": "S&P 500 closing price on June 30, 2026 vs. December 31, 2026; Yahoo Finance or Bloomberg terminal",
+        "why_underpriced": "Geopolitical de-escalation (Iran deal, G7 summit coordination) removes tail risk; SpaceX IPO and tokenized treasury growth ($14.6B) suggest institutional confidence.",
+        "trigger_signal": "Iran peace signing (expected early May 2026) eliminates Strait of Hormuz risk premium; corporate earnings multiples may re-expand on lower risk."
+      },
+      {
+        "question": "Will tokenized U.S. Treasury assets exceed $25 billion in AUM by November 30, 2026?",
+        "deadline": "2026-11-30",
+        "resolution_source": "CoinDesk industry tracker; Ethereum Dune Analytics tokenized treasury dashboard; Ondo Finance and Usual protocol TVL data",
+        "why_underpriced": "Currently at $14.6B; SEC tokenization path widening (CoinDesk: 'SEC's big swing to clear tokenization path'); institutional appetite rising post-SpaceX IPO legitimacy.",
+        "trigger_signal": "Wall Street and crypto convergence accelerating; JP Morgan, BlackRock entering tokenized asset space; Trump administration likely supportive of innovation."
+      },
+      {
+        "question": "Will Meta successfully divest or spin off its new AI model developed by Alexandr Wang by August 31, 2026?",
         "deadline": "2026-08-31",
-        "resolution_source": "US Energy Information Administration (EIA) shipping reports, IMRO vessel tracking, Trump/State Dept statements",
-        "why_underpriced": "Markets pricing binary on deal signature but not on enforcement durability; 30-day operational threshold is harder to clear than signed agreement, yet betting volume on actual enforcement is sparse.",
-        "trigger_signal": "Trump's explicit 'open to all' language in Iran negotiation; Strait blockade has driven 15% of BTC volatility since 2024; reopening deflates oil, rebounds equities."
+        "resolution_source": "SEC filings (8-K, 10-Q); Meta earnings calls and press releases; Crunchbase or Axios deal tracker",
+        "why_underpriced": "CNBC reported underwhelming results from Wang's year-long project; Zuckerberg forced to sell suggests pressure to move fast; limited but viable market for specialized AI.",
+        "trigger_signal": "Meta's continued capex struggles; competitive pressure from OpenAI/Anthropic; potential buyer interest from Microsoft, Google, or sovereign wealth funds."
       },
       {
-        "question": "Will SpaceX's bitcoin reserve grow to $2 billion or more by 2026-12-31?",
+        "question": "Will Bitcoin close 2026 (Dec 31, 2026) above $80,000?",
         "deadline": "2026-12-31",
-        "resolution_source": "SpaceX quarterly filings, regulatory disclosures, Elon Musk public statements on bitcoin strategy",
-        "why_underpriced": "IPO just closed (May 2026); reserve currently $1.3B per CoinDesk; growth path to $2B hinges on BTC price AND accumulation strategy, both uncertain; little retail/institution betting on reserve expansion specifically.",
-        "trigger_signal": "SpaceX IPO catalyst validates space-tech-crypto narrative; Google partnership (Musk/Page alignment per CNBC) suggests Google may follow tokenization/BTC allocation; M&A/treasury allocation announcements likely Q3-Q4 2026."
-      },
-      {
-        "question": "Will the total market cap of tokenized US treasuries exceed $50 billion by 2027-03-31?",
-        "deadline": "2027-03-31",
-        "resolution_source": "CoinDesk on-chain tracking, Chainalysis, RWA aggregators (Goldfinch, Centrifuge dashboards)",
-        "why_underpriced": "Currently $14.6B per CoinDesk; SEC clarity improving (big swing, though not full rule yet); institutional demand (Wall Street deepening Ethereum adoption) is real but market underestimates 3x growth in 10 months.",
-        "trigger_signal": "SEC tokenization path opening; $14.6B already deployed in 2026 suggests 3x multiplier plausible by Q1 2027; BlackRock/Fidelity entry would accelerate."
-      },
-      {
-        "question": "Will at least one Fortune 500 company announce a bitcoin reserve >$500M by 2026-12-31?",
-        "deadline": "2026-12-31",
-        "resolution_source": "SEC Form 8-K filings, company earnings calls, press releases, Twitter",
-        "why_underpriced": "SpaceX ($1.3B) precedent and Musk's Google alignment suggest mimicry cycle; crypto institutional adoption narrative strong; yet specific binary on Fortune 500 bitcoin reserve announcement lacks volume.",
-        "trigger_signal": "SpaceX IPO just priced; Microsoft/Apple/Nvidia decisions on treasury allocation pending; tax reform/TCJA expiration (2025 actual, but 2026 renewal risk) may spur hedging asset allocation."
-      },
-      {
-        "question": "Will the ETH/BTC ratio close above 0.065 on 2026-09-30?",
-        "deadline": "2026-09-30",
-        "resolution_source": "CoinGecko, CoinMarketCap, Kraken/Coinbase ETH/BTC spot price on settlement date",
-        "why_underpriced": "Currently tilted BTC-heavy on macro flight-to-safety (Iran deal rally = risk-on, but Fed policy uncertainty lingers); Wall Street pivoting deeper into Ethereum (tokenization, staking yield) is underpriced in ratio betting.",
-        "trigger_signal": "CoinDesk: 'Wall Street moving deeper into Ethereum'; tokenized treasury growth (~15% annualized growth to $50B) runs on ETH; Shanghai upgrade Q4 2026 yields narrative; BTC dominance will compress as alts recover."
+        "resolution_source": "CoinMarketCap, CoinGecko, or Bitstamp BTC/USD closing price on 2026-12-31",
+        "why_underpriced": "Iran peace deal removes geopolitical premium but opens risk-on environment; SpaceX institutional legitimacy + tokenized treasury growth signal macro tailwinds; current price near $65K allows 23%+ upside.",
+        "trigger_signal": "Fed rate cuts (if executed); stablecoin adoption surge ($14.6B treasury market); corporate BTC reserves (SpaceX model) become mainstream post-2026."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Iran peace deal (expect 2026-05-31 closure) triggers energy supply normalization → oil down 8-12% → deflationary impulse flows to growth equities (QQQ, NVDA) and BTC as macro hedge.",
-        "horizon": "30-90 days (May–August 2026)",
+        "thesis": "Long BTC/USD and short DXY (U.S. Dollar Index) as Iran peace deal reduces geopolitical premium and Fed begins rate-cut cycle in H2 2026.",
+        "horizon": "3–6 months (May–November 2026)",
         "supporting_signals": [
-          "Trump G7 attendance, explicit 'Hormuz open to all' language (CNBC, Cointelegraph)",
-          "Bitcoin rally above $64K on deal proximity (CoinDesk, Cointelegraph)",
-          "Oil forwards already pricing Strait reopening (BP, Shell positioning)",
-          "SPX growth rotation: energy underperformance, tech outperformance expected post-deal"
+          "Trump announces Iran peace signing (May 5, 2026); de-escalation removes Strait of Hormuz risk premium historically bullish for risk assets.",
+          "CoinDesk: Bitcoin nearing $65K on peace deal optimism; historically, BTC rallies 15–25% on geopolitical de-risk.",
+          "Fed likely to cut rates if inflation stabilizes post-oil-shock relief; DXY inversely correlated with rate cuts and risk appetite."
         ],
-        "counter_view": "Iran re-reneges or phased withdrawal delays implementation; deal fails to close by May 31 or June 30, resurrecting volatility and risk-off bid for commodities/USD.",
-        "expression": "Long QQQ (or NVDA directly), short USO crude ETF, long BTC perps; construct 60/30/10 allocation, unwind 50% on first 5% oil decline below $75/bbl."
+        "counter_view": "Iran deal collapses or proves fragile (Tehran contradicting Trump's Sunday deadline claim); geopolitical tensions reignite and push oil higher, forcing Fed hold; DXY strengthens on safe-haven demand.",
+        "expression": "Long BTC perpetual (2–3x leverage, Binance/Deribit), short DXY via ProShares UUP put spreads or FX forward contracts"
       },
       {
-        "thesis": "Wall Street institutional capital flowing into Ethereum (and Ethereum-native RWA tokenization) outpaces Bitcoin this cycle; ETH/BTC ratio re-rates from 0.055 to 0.070+ by Q4 2026.",
-        "horizon": "120-180 days (May–November 2026)",
+        "thesis": "Long tokenized U.S. Treasury ETPs (via Ondo Finance, Usual) and short traditional TLT (iShares 20+ Year Treasury) as institutional adoption accelerates and regulatory clarity emerges.",
+        "horizon": "6–9 months (May–February 2027)",
         "supporting_signals": [
-          "Etherealize founder: 'Wall Street moving past pilots, deeper into Ethereum' (CoinDesk)",
-          "Tokenized treasury markets hit $14.6B, Ethereum is primary rail (CoinDesk)",
-          "SEC tokenization path clearing, benefiting on-chain settlement (CoinDesk: 'big swing')",
-          "Aerodrome upgrade: liquidity → prediction markets signal Ethereum DeFi expansion"
+          "CoinDesk: Tokenized treasuries hit $14.6B AUM; 'Wall Street and crypto are crashing into each other'; SEC pathway widening for tokenization rule.",
+          "Meta, SpaceX, and major tech firms entering tokenized asset space post-IPO liquidity event.",
+          "Ethereum Kohaku and Layer 2 scaling enable sub-cent transaction costs; institutional yield arbitrage favors on-chain treasuries."
         ],
-        "counter_view": "Bitcoin dominance resumes on macro macro flight-to-safety; Fed doesn't cut, USD strengthens, alts bleed into Q4 2026; Ethereum execution risk on Shanghai upgrade delays.",
-        "expression": "Long ETH spot (or ETH/USD call spreads), short BTC perps at 2:1 hedge ratio; or direct ETH/BTC ratio long via dydx/Hyperliquid perps (HYPE token trending) on 3-4x leverage."
+        "counter_view": "SEC stalls tokenization rule indefinitely; traditional TLT remains safer and more liquid for institutions; custody and regulatory uncertainty delay institutional flows.",
+        "expression": "Long Ondo Finance (ONDO) token; long Usual Protocol (USUAL) via Uniswap or Curve; short TLT ETF via put spreads or synthetic short"
       },
       {
-        "thesis": "SpaceX IPO success (just closed, $1.3B BTC reserve disclosed) accelerates corporate bitcoin allocation cycle; expect 5–10 Fortune 500 announcements by Q4 2026, driving BTC >$70K by summer.",
-        "horizon": "90-180 days (May–November 2026)",
+        "thesis": "Long Solana (SOL) and Backpack (BP) as ecosystem consolidation under Backpack wallet and Siren prediction markets drive retail adoption post-Aerodrome upgrade.",
+        "horizon": "2–4 months (May–August 2026)",
         "supporting_signals": [
-          "SpaceX IPO just priced; Musk-Google alignment per CNBC narrative suggests cultural shift in tech M&A treasuries",
-          "Bitcoin rallied on SpaceX IPO announcement (CoinDesk market color)",
-          "$1.3B reserve signals board-level confidence in BTC as strategic asset",
-          "Tax reform (2025 TCJA sunset fears now 2026 renewal cycle) incentivizes diversified hedges"
+          "CoinDesk: 'Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet'; prediction markets are high-engagement, venture-backed trend.",
+          "Backpack (BP) trending on crypto markets; Solana ecosystem increasingly unified under single wallet/DEX stack.",
+          "Siren (SIREN) trending; prediction markets historically drive 3–5x engagement multiples post-launch."
         ],
-        "counter_view": "Corporate BTC adoption stays boutique (only Musk circle); broader board resistance to volatility; SEC/IRS crackdown on corporate crypto holdings dampens announcements.",
-        "expression": "Long BTC spot (or BTC Dec 2026 futures on CME), accumulate on any $65K dips; alternatively, long SPY (S&P tech bias) with call spread on BTC >$75K by 2026-12-31."
+        "counter_view": "Prediction market regulation hardens (SEC cracks down on unregistered gambling); Solana network congestion returns; Ethereum L2s (Aerodrome competitor) capture developer mindshare.",
+        "expression": "Long SOL 3–5x perp (Binance/Deribit); long BP token position via Backpack DEX or Marinade LST; small-cap bet on SIREN prediction market token if liquid"
       },
       {
-        "thesis": "Federal Reserve cut cycle begins 2026-07 or 2026-09 (inflation moderates below 2.5%) due to Iran deal energy deflation + Hormuz normalization → USD weakens 3–5% → EM currencies, gold, BTC rally together.",
-        "horizon": "90-180 days (May–November 2026)",
+        "thesis": "Long ETH/BTC ratio as Ethereum quantum-proofing narrative and tokenized asset regulatory clarity outpace Bitcoin's pure store-of-value narrative through Q3 2026.",
+        "horizon": "4–6 months (May–November 2026)",
         "supporting_signals": [
-          "Social Security COLA 2027 estimated 4.7% signals sticky inflation now, but energy deflationary shock incoming (CNBC)",
-          "Oil futures pricing Hormuz reopening by summer (embedded in current 70–75/bbl range)",
-          "Trump G7 attendance likely to surface policy divergence; Fed already under pressure from White House on rates",
-          "DXY (US Dollar Index) at 20-month highs; USD strength unsustainable if Fed cuts"
+          "Cointelegraph: Ethereum quantum-proof accounts feasible at 7-cent cost via Kohaku; security narrative emerging before NIST post-quantum standards finalize.",
+          "Tokenized treasury and institutional blockchain adoption favor Ethereum Layer 2 economics; Solana struggles with scalability narrative.",
+          "Fed rate clarity + geopolitical de-risk favor yield-bearing assets (ETH staking, tokenized assets) over non-yielding BTC."
         ],
-        "counter_view": "Inflation re-accelerates (wage stickiness, AI capex), Fed holds; USD strengthens further, hurting EM and BTC. Geopolitical escalation (Israel-Lebanon, Ukraine) re-introduces risk-off bid.",
-        "expression": "Long gold (GLD), long EM currency ETF (EEM), long BTC perps; short DXY spot or DXY call spreads. Construct equal-weight 3-way hedge; first target: DXY below 98, gold above $2,500, BTC above $70K."
+        "counter_view": "Bitcoin dominance reasserts as macro tail-hedge; quantum threat remains theoretical; ETH staking yields compress as capital floods in.",
+        "expression": "Long ETH perp 2–3x, short BTC perp 1x, hedge via tight stop-loss; or use Deribit spread: long ETH call, short BTC call, same expiry"
       },
       {
-        "thesis": "Anthropic Claude 5 global halt (36Kr exclusive, Amazon warning triggered US crackdown) creates temporary competitive moat for OpenAI and Google (Gemini). Expect policy resolution by Q3 2026 → Claude re-launch → NVIDIA AI chip demand resilience confirmed.",
-        "horizon": "60-120 days (May–August 2026)",
+        "thesis": "Long consumer hardware and robotics plays (via SoulX capital raise, Chinese VC trend) as AI automation narrative drives home robotics IPOs in 2026–2027.",
+        "horizon": "6–12 months (May 2026–May 2027)",
         "supporting_signals": [
-          "36Kr broke Claude 5 global shutdown first (Chinese media lead on regulatory action)",
-          "Amazon warning → US crackdown per Cointelegraph (real regulatory event, not rumor)",
-          "Meta/Zuckerberg AI underwhelming; AI talent/capital consolidating into OpenAI + Google + Anthropic",
-          "NVDA depends on AI model deployment velocity; clarity on Anthropic regulatory path de-risks chip cycle"
+          "36Kr exclusive: High-end VC (Hillhouse Capital/高瓴) backing SoulX flexible robot company; first product MoYa shipping H2 2026.",
+          "Chinese AI/robotics sentiment strong (36Kr macro coverage); global trend toward embodied AI creates hardware tailwind.",
+          "Anthropic Claude suspension may redirect AI capex toward robotics and edge hardware; consumer robotics less regulatory risk."
         ],
-        "counter_view": "Anthropic faces extended ban (regulatory capture by OpenAI competitors); Claude market share erodes; NVDA demand softens. Or, Anthropic successfully challenges regulation, re-launch stalls into Q4 2026.",
-        "expression": "Long NVDA calls (Jul/Aug 2026 expirations) on any 5% dip; or long NVDA spot at support ($900–920 range). Short puts (sell 850-strike puts) to collect premium and build long on dip. Size: max 2–3% of portfolio risk."
+        "counter_view": "Home robotics remains niche; consumer adoption slower than expected; Tesla Optimus competition or Nvidia edge-AI accelerators cannibalize margins.",
+        "expression": "If SoulX IPOs in 2026–2027, long IPO tranche; otherwise long robotics ETFs (IRBT, PATH) or Nvidia (NVDA) as foundational infrastructure play; direct long Taiwan Semiconductor (TSM) as supply-chain beneficiary"
       }
     ]
   }
