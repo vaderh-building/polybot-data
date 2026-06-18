@@ -1,69 +1,83 @@
 {
-  "generated_at_utc": "2026-06-17T22:41:44.603916+00:00",
+  "generated_at_utc": "2026-06-18T09:10:39.838549+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Intel rises 9% after Trump says company will partner with Apple on U.S. chip design",
+        "summary": "The boost continues Intel's recent rally as the chipmaker bounces back from years of headwinds.",
+        "link": "https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html",
+        "published": "Thu, 18 Jun 2026 09:09:26 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
         "summary": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.",
         "link": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
-        "published": "Wed, 17 Jun 2026 21:31:32 GMT"
+        "published": "Wed, 17 Jun 2026 23:51:33 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump says he likes idea of blaming Vance if Iran deal doesn't work out",
-        "summary": "President Trump at the G7 summit said the memorandum of understanding reached with Iran \"might not be the kind of document that I should be signing.\"",
+        "title": "Trump and Iran's President Pezeshkian sign memorandum aimed to end war",
+        "summary": "President Trump earlier said at the G7 summit that the memorandum of understanding with Iran \"might not be the kind of document that I should be signing.\"",
         "link": "https://www.cnbc.com/2026/06/17/trump-vance-iran-deal-nuclear-g7.html",
-        "published": "Wed, 17 Jun 2026 19:54:13 GMT"
+        "published": "Thu, 18 Jun 2026 03:09:58 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for",
-        "summary": "Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.",
-        "link": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
-        "published": "Wed, 17 Jun 2026 20:26:56 GMT"
+        "title": "SpaceX shares hold steady after three-day rally loses steam",
+        "summary": "Investor bullishness showed signs of waning on Wednesday, as shares sank 5%.",
+        "link": "https://www.cnbc.com/2026/06/18/spacex-stock-elon-musk-rally-cools.html",
+        "published": "Thu, 18 Jun 2026 08:37:42 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Defense contractors would be barred from buying back their stock in bill approved by Senate panel",
-        "summary": "A bill the Senate Armed Services Committee approved would prevent defense contractors from buying back their stock without Pentagon approval.",
-        "link": "https://www.cnbc.com/2026/06/17/defense-contractors-stock-buybacks-senate-warren-trump.html",
-        "published": "Wed, 17 Jun 2026 21:38:31 GMT"
+        "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
+        "summary": "Tech leaders and heads of state, including President Donald Trump, joined a meeting about AI standards at the G7 Summit.",
+        "link": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
+        "published": "Wed, 17 Jun 2026 20:42:27 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Analysis: Chairman Kevin Warsh’s task forces are the key to understanding the new Fed",
-        "summary": "The new leader of the Fed left interest rates alone but made clear how he plans to rewire the central bank.",
-        "link": "https://www.cnbc.com/2026/06/17/kevin-warsh-fed-interest-rates-risk-analysis.html",
-        "published": "Wed, 17 Jun 2026 21:04:15 GMT"
+        "title": "Strait of Hormuz reopening may take weeks to ease shipping backlog and oil pressure",
+        "summary": "The Strait of Hormuz is set to reopen after Iran and the U.S. sign a peace deal, but experts warn backlogs and security checks could delay normal shipping.",
+        "link": "https://www.cnbc.com/2026/06/18/strait-hormuz-reopening-shipping-oil.html",
+        "published": "Thu, 18 Jun 2026 08:10:23 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
-        "summary": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
-        "link": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
-        "published": "Wed, 17 Jun 2026 19:27:43 GMT"
+        "title": "Oil falls as International Energy Agency forecasts supply glut next year after U.S.-Iran deal",
+        "summary": "Oil declines as Mideast peace prospects rise following U.S.-Iran deal.",
+        "link": "https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html",
+        "published": "Thu, 18 Jun 2026 08:43:19 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "2-year Treasury yield rockets higher as many Fed officials signal possible hike this year",
-        "summary": "U.S. Treasury yields rose on Wednesday after the Fed held interest rates steady during Kevin Warsh's first policy meeting as chairman.",
-        "link": "https://www.cnbc.com/2026/06/17/treasury-yields-investors-await-warsh-fed-decision.html",
-        "published": "Wed, 17 Jun 2026 20:02:51 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-        "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
-        "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
-        "published": "Wed, 17 Jun 2026 19:25:18 GMT"
+        "title": "How Elon Musk's second-in-command Gwynne Shotwell helped turn SpaceX into an IPO giant",
+        "summary": "CNBC spoke to people who've worked with SpaceX's president and chief operating officer.",
+        "link": "https://www.cnbc.com/2026/06/16/gwynne-shotwell-spacex-elon-musk-ipo.html",
+        "published": "Tue, 16 Jun 2026 09:39:48 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Iran sends tankers loaded with oil past US military blockade",
-        "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
-        "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 17 Jun 2026 13:27:47 GMT"
+        "title": "What's in the US-Iran agreement?",
+        "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+        "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 18 Jun 2026 01:28:02 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Gunfire heard at Niger capital's airport",
+        "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+        "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 18 Jun 2026 08:30:00 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+        "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
+        "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 17 Jun 2026 22:36:13 GMT"
       },
       {
         "source": "BBC World",
@@ -81,13 +95,6 @@
       },
       {
         "source": "BBC World",
-        "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
-        "summary": "Diezani Alison-Madueke had been accused of receiving bribes from oil tycoons but was found not guilty by a jury at Southwark Crown Court.",
-        "link": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 17 Jun 2026 19:03:10 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
         "summary": "In fiery exchange, judge sentenced him to three life sentences plus 25 years to life on four other charges, all running consecutively.",
         "link": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
@@ -95,211 +102,204 @@
       },
       {
         "source": "BBC World",
-        "title": "Norway's crown princess undergoes successful lung transplant, palace says",
-        "summary": "Crown Princess Mette-Marit, who suffered from pulmonary fibrosis, will now spend several weeks recovering in hospital.",
-        "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 17 Jun 2026 10:15:08 GMT"
+        "title": "Iran sends tankers loaded with oil past US military blockade",
+        "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+        "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 17 Jun 2026 13:27:47 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-        "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
-        "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 17 Jun 2026 10:01:42 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Bystanders smash windows of private jet to rescue passengers after crash",
-        "summary": "One of the six people on board died in the crash, a local official said. The five survivors were taken to hospital and are in a stable condition.",
-        "link": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 17 Jun 2026 12:53:27 GMT"
+        "title": "The Ring and Lilo & Stitch actress Daveigh Chase dies aged 35",
+        "summary": "Chase died from sepsis following a bout with meningitis in a Los Angeles hospital, her longtime manager told the BBC.",
+        "link": "https://www.bbc.com/news/articles/cd0m2mg949yo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 17 Jun 2026 22:55:46 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "Kentucky targets prediction markets, puts red state in potential clash with Trump team",
+        "title": "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team",
-        "published": "Wed, 17 Jun 2026 21:20:05 +0000"
+        "link": "https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note",
+        "published": "Thu, 18 Jun 2026 07:08:27 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Fidelity joins Wall Street's race to manage stablecoin reserves",
+        "title": "Live markets: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves",
-        "published": "Wed, 17 Jun 2026 20:30:48 +0000"
+        "link": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
+        "published": "Thu, 18 Jun 2026 06:02:19 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Here is how Coinbase plan to survive the crypto downturn by ditching its reliance on trading fees",
+        "title": "Strategy's STRC preferred stock hits a record low below par",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/06/17/here-is-how-coinbase-plan-to-survive-the-crypto-downturn-by-ditching-its-reliance-on-trading-fees",
-        "published": "Wed, 17 Jun 2026 19:23:40 +0000"
+        "link": "https://www.coindesk.com/markets/2026/06/18/strategy-s-strc-preferred-stock-hits-a-record-low-below-par",
+        "published": "Thu, 18 Jun 2026 05:49:21 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin layer-2s face a bear-market reality check",
+        "title": "XRP slips 4% below $1.20 after breakout rally stalls near key resistance",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/06/17/bitcoin-layer-2s-face-a-bear-market-reality-check",
-        "published": "Wed, 17 Jun 2026 19:17:07 +0000"
+        "link": "https://www.coindesk.com/markets/2026/06/18/xrp-slips-4-below-usd1-20-after-breakout-rally-stalls-near-key-resistance",
+        "published": "Thu, 18 Jun 2026 05:08:12 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "FIFA wanted Avalanche's blockchain to help curb World Cup ticket scalping. Here's how it's going",
+        "title": "Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/06/17/fifa-wanted-avalanche-s-blockchain-to-help-curb-world-cup-ticket-scalping-here-s-how-it-s-going",
-        "published": "Wed, 17 Jun 2026 19:08:43 +0000"
+        "link": "https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says",
+        "published": "Thu, 18 Jun 2026 05:08:05 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Fed holds rates steady in first decision under new Chairman Kevin Warsh",
+        "title": "Bitcoin, ether slide after a hawkish Fed, even as Trump's signed Iran deal lifts stocks",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/17/fed-holds-rates-steady-in-first-decision-under-new-chairman-kevin-warsh",
-        "published": "Wed, 17 Jun 2026 17:52:23 +0000"
+        "link": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks",
+        "published": "Thu, 18 Jun 2026 04:52:46 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto industry aghast at Illinois' new tax on holding or transferring digital assets in state budget",
+        "title": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/06/17/crypto-industry-aghast-at-illinois-new-tax-on-holding-or-transferring-digital-assets-in-state-budget",
-        "published": "Wed, 17 Jun 2026 16:50:33 +0000"
+        "link": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says",
+        "published": "Thu, 18 Jun 2026 04:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto Long & Short: The measure of a maturing market",
+        "title": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
         "summary": "",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-long-and-short-the-measure-of-a-maturing-market",
-        "published": "Wed, 17 Jun 2026 16:48:04 +0000"
+        "link": "https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval",
+        "published": "Thu, 18 Jun 2026 03:44:30 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Wed, 17 Jun 2026 21:55:42 GMT"
+        "title": "Ryan Salame’s wife to face charges over FTX-funded congressional run",
+        "summary": "A federal judge has denied a bid from Michelle Bond, the wife of former FTX executive Ryan Salame, to have campaign finance charges against her dismissed.",
+        "link": "https://cointelegraph.com/news/ryan-salames-wife-to-face-charges-over-ftx-funded-congressional-run?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "published": "Thu, 18 Jun 2026 06:17:01 GMT"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标",
+        "summary": "<p>文丨小葵</p>\n  <p>编辑丨果脯</p>\n  <p>中国游戏产业正站在一个微妙的分水岭上。</p>\n  <p>一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。</p>\n  <p>今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。</p>\n  <p>在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。</p>\n  <p>当大厂渴望用3A讲述中国故事建立全球品牌壁垒，腰部厂商则在存量市场中持续收割，一个向上押注3A，一个向下蚕食存量。这两条看似背道而驰的路，正共用着同一个起点。</p>\n  <h2>01</h2>\n  <p>本次SGF上，腾讯拿出《穿越火线：潜伏》与《古剑》堪称两张风格迥异的牌。</p>\n  <p>《穿越火线：潜伏》由That's No Moon工作室（核心成员来自顽皮狗、Infinity War",
+        "link": "https://36kr.com/p/3858373969286148?f=rss",
+        "published": "2026-06-18 15:58:27  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "12306要忙着赚钱了",
+        "summary": "<p>作者&nbsp;|&nbsp;王晗玉</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>近日，市场监管总局联合中央网信办、国家铁路局，依法约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家7家旅游出行第三方平台，直指平台在火车票销售领域存在多项不规范经营行为。</p>\n  <p>具体来看，违规行为包括不当宣传“候补帮抢”及付费选座、不当诱导用户“买长乘短”“买短乘长”，不当收集、使用用户个人信息等问题。后续监管部门将加大监管执法力度。</p>\n  <p>此次集中约谈，不仅直指OTA平台火车票业务的乱象根源，也揭开了在线旅游行业围绕出行流量展开的深层博弈。</p>\n  <p>监管收紧的背景下，<strong>传统OTA依赖的流量逻辑正在动摇</strong>，而铁路官方平台跨界拓展酒旅业务的可能性，也让整个在线出行行业迎来新一轮变数。</p>\n  <h3><strong>抢票“加速包”，OTA的“流量加速包”</strong></h3>\n  <p>每逢各大、小长假，打开OTA平台的火车票页面，“极速抢票”“候补加速”“高成功率帮抢”等标语便铺天盖地，甚至",
+        "link": "https://36kr.com/p/3858061678760965?f=rss",
+        "published": "2026-06-18 10:25:26  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
+        "summary": "<p><strong>文 | 孙小雯</strong></p>\n  <p><strong>访谈 / 编辑 | 海若镜</strong></p>\n  <p>「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。</p>\n  <p>当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralink，正是这一叙事的风向标。</p>\n  <p>芯生视界团队集合了多位国家“脑计划”脑机接口方向“青年首席”：创始人王茜来自北京大学心理与认知科学学院、IDG麦戈文脑科学研究所。联合创始人李远宁来自上海科技大学，是卡耐基梅隆大学人工智能和神经科学博士，曾在加州大学旧金山分校Edward Chang实验室（脑机接口顶级实验室）从事博后研究多年。联创团队还包括来自北京大学具身智能、脑机芯片和类脑芯片等方向的专家。</p>\n  <p>这",
+        "link": "https://36kr.com/p/3855480467543042?f=rss",
+        "published": "2026-06-18 09:34:22  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。&nbsp;</p>\n  <p>这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。</p>\n  <p>穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕其构建了覆盖数据采集、模型训练到部署验证、具身机器人应用全流程的软硬件产品体系。</p>\n  <p>具身智能的行业叙事正在经历一次静默的转向。过去两年，赛道内备受追捧的能力是“完成一个动作”，抓取、搬运、行走等任务在实验室或演示台上被反复验证。但自今年以来，一个新的衡量尺度正在浮现：机器人能否在真实物理环境中",
+        "link": "https://36kr.com/p/3856708724315400?f=rss",
+        "published": "2026-06-18 09:28:16  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "36氪「2026最具价值成长企业100」正式发布",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_d44f88b31738421594c403c7cbabbe64@5889148_oswg292792oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p><strong>时代从不被旁观者定义，它只发生在那些正在成长的人身上。</strong></p>\n  <p>今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。</p>\n  <p>在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。</p>\n  <p>商业史本质上是一部成长史。<strong>那些最终改",
+        "link": "https://36kr.com/p/3857980507919622?f=rss",
+        "published": "2026-06-18 09:09:18  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "中科院博士冲上市，市值超105亿港币",
+        "summary": "<p>本文约1900字，建议阅读4分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。</p>\n  <p>上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83亿元（净亏损口径）。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_3237579b3ea840d38302b64c40c60b24@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <h2><strong>这是门什么",
+        "link": "https://36kr.com/p/3857959588418823?f=rss",
+        "published": "2026-06-18 09:00:00  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "8点1氪丨山姆首席采购官张青已提交辞呈；豆包每天收入不足百万；不得以长期、大额补贴扰乱市场秩序，外卖平台新规公开征求意见",
+        "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>SpaceX华裔女工程师辟谣</p>\n  <p>国内成品油价即将迎来两连跌</p>\n  <p>必胜客中国对外投资超60家企业</p>\n  <p>苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone</p>\n  <p>OpenAI 2026年前三个月烧钱37亿美元</p>\n  <h2><strong>TOP 3 大新闻</strong></h2>\n  <p><strong>监管约谈山姆后，沃尔玛中国多位高管变动</strong></p>\n  <p>36氪了解到，山姆会员商店中国CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁��将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony将在完成工作签证流程后于2026年8月正式加入中国团队，并与妻子Meg及孩子一起搬迁至深圳。现任沃尔玛中国战略副总裁杨智安将直接向Tony汇报。</p>\n  <p>过渡期间，Neil Maf",
+        "link": "https://36kr.com/p/3857925631104004?f=rss",
+        "published": "2026-06-18 08:07:03  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
         "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3856940700603655\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>监管约谈山姆后，沃尔玛中国多位高管变动</strong></a></p>\n  <p>36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony将在完成工作签证流程后于2026年8月正式加入中国团队，并与妻子Meg及孩子一起搬迁至深圳。现任沃尔玛中国战略副总裁杨智安将直接向Tony汇报。过渡期间，Neil Maffey，前任山姆会员商店首席采购官及现任全职顾问，将担任代理山姆会员商店首席采购官，直接向刘鹏，山姆会员商店业态总裁汇报，直至新负责人到岗。祝骏，沃尔玛商店业态总裁将扩大其职责，分管沃尔玛中",
         "link": "https://36kr.com/p/3857175761081348?f=rss",
         "published": "2026-06-17 20:08:32  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "风拂阳澄，来半岛解锁夏日限定AI狂欢！",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260617/v2_3631834820eb4c9db708ea939f50ba24@6108898_oswg450945oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260617/v2_984811db2c48460f877eaf52c59d5ff8@6108898_oswg798oswg900oswg60_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>风口已至，静候同行。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms",
-        "link": "https://36kr.com/p/3857051317359622?f=rss",
-        "published": "2026-06-17 18:02:07  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
-        "summary": "<p>6月15日，智能机器人公司仙工智能（06106.HK）开始招股，招股价101.60港元，每手50股，市值112.27亿港元。</p>\n  <p>仙工智能最早于2025年5月第一次向港交所递交招股书，6个月失效后，又于当年11月重新递交，直到今年6月才通过聆讯。仙工智能这次是以18C特专科技公司身份赴港上市，预计6月24日挂牌敲钟。中金独家保荐，招银国际为整体协调人。</p>\n  <p>有意思的是，这家公司的核心壁垒不在机器人本身，而在机器人的\"大脑\"——控制器。灼识咨询按销量计，仙工的机器人控制器全球第一、中国第一，市占率24.8%和45.2%。一个\"卖大脑\"的公司要上市了，但硬氪抽丝剥茧713页招股书后会发现，仙工智能有五大看点：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260617/v2_a9fe62bf8656421d9cd8787f1c6cf4dc@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=ima",
-        "link": "https://36kr.com/p/3857011810112521?f=rss",
-        "published": "2026-06-17 16:36:26  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "把AI当「电子校医」的大学生，一个人看病不慌了",
-        "summary": "<h2><strong>01.深夜急诊室：校医下班后，“电子校医”上线了</strong></h2>\n  <p>深夜11点，宿舍快熄灯了，张雯的小腹突然一阵绞痛，疼得她揪紧被子，直冒冷汗。校医室这个点已经下班了，室友说陪她去校外医院。但张雯犹豫了，大半夜不想折腾，万一一会儿就缓过来了呢？</p>\n  <p>她打开蚂蚁阿福，把自己的症状输进去，“凌晨腹部绞痛，一阵一阵的，没有拉肚子，没有发烧，也不是生理期。”</p>\n  <p>阿福很快给出分析，“大概率是腹部受凉引起的肠道痉挛，可能和夜间受凉、睡前吃了生冷辛辣的食物有关，这些都会引起小腹下坠的绞痛。”还列出了其他可能性，比如尿路小结石、排卵期疼痛等。张雯发现第一条最符合，当天确实吃了辣的东西。</p>\n  <p>阿福马上给出对策：先保暖，调整姿势，不要乱吃止痛药。如果非常痛，必须尽快就医。室友递来暖水袋，张雯敷了一会儿，腹痛果然慢慢减轻了。“居然真的管用”，第二天醒来，她跟没事人一样。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/202",
-        "link": "https://36kr.com/p/3856958075802633?f=rss",
-        "published": "2026-06-17 15:41:18  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
-        "summary": "<p>作者｜梁键强</p>\n  <p>编辑｜王毓婵</p>\n  <p><strong>一句话介绍</strong></p>\n  <p>NoonWake.AI是一家以泛心理为切入点、结合AI技术做情绪消费产品的创业公司，业务覆盖软件和硬件，并同时面向国内外市场。</p>\n  <p>目前，公司产品包括国内AI陪伴应用“万象有灵”、海外应用Starot、桌面AI陪伴硬件“好运日历机”，以及正在探索的智能水晶手串等轻硬件产品。</p>\n  <p><strong>团队介绍</strong></p>\n  <p>NoonWake.AI创始人兼CEO吴尚，本科毕业于中南大学，MBA就读于北京大学光华管理学院。曾先后在中兴、阿里、腾讯和小米任职，参与过OS产品、SaaS、社交产品和智能硬件相关业务。在腾讯期间，吴尚曾参与早期创业项目“我岛”，该项目曾获得600万美元融资。</p>\n  <p>其他核心成员分别负责技术研发、产品与硬件设计、GTM运营等关键模块。技术负责人喜哥曾任小爱端侧模型核心工程师，主要负责公司模型工程、AI技术架构及相关研发工作。</p>\n  <p>产品设计负责人美杰曾参与天梯项目，后",
-        "link": "https://36kr.com/p/3848483761493250?f=rss",
-        "published": "2026-06-17 15:12:01  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "监管约谈山姆后，沃尔玛中国多位高管变动｜独家",
-        "summary": "<p>文｜ 彭倩、 任彩茹&nbsp;</p>\n  <p>编辑 ｜乔芊</p>\n  <p>处于监管和舆论漩涡中的山姆迎来了新的人事调整。</p>\n  <p><span style=\"letter-spacing: 0px;\">36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。对此，沃尔玛中国回应称：“衷心感谢她在任职期间对山姆业务作出的卓越贡献，并诚挚祝愿她在未来一切顺利。目前我们正在全球范围内积极物色继任人选。过渡期间，Neil Maffey将出任代理山姆会员商店首席采购官。Neil曾于2013-2017年间担任山姆首席采购官，卸任后长期担任公司全职顾问至今。”</span></p>\n  <p><span style=\"letter-spacing: 0px;\">此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：</span></p>\n  <ul class=\" list-paddingleft-2\">\n   <li><p><span style=\"letter-spacing: 0px;\">Tony Paladinetti，现任沃尔玛国际部战略副总裁，将",
-        "link": "https://36kr.com/p/3856751835976706?f=rss",
-        "published": "2026-06-17 14:29:32  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "硬氪专访 | 罗剑岚：机器人真正的Scaling Law，发生在真实部署闭环里",
-        "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>过去半年，国内具身智能赛道经历了一场静悄悄的重心转移：聚光灯从硬件本体的“自由度竞赛”，逐渐移向决定机器人智能上限的深水区。</p>\n  <p>只是，当行业反复讨论“机器人能否通过暴力堆数据复刻大语言模型 ScalingLaw”时，上海创智学院副教授、智元机器人首席科学家罗剑岚，给出了一个并不随大流的判断：具身智能不能简单照搬大语言模型的发展路径。</p>\n  <p>罗剑岚的表达风格极具辨识度。他习惯在中英文专业术语之间快速切换，逻辑推进密集，很少给出模糊的折中答案。</p>\n  <p>相比停留在“数据、模型、Infra哪个更重要”的单点争论上，他更倾向于直接指出问题本身：当前具身智能的核心矛盾，不是某一个环节的单独突破，而是这些环节能否在真实部署中形成闭环。</p>\n  <p>这种判断来自他横跨学术研究与产业落地的经历。作为曾经的伯克利博士，他师从具身智能领域奠基性人物Sergey Levine（谢尔盖·列文）。毕业后，他曾任Google X与DeepMind研究科学",
-        "link": "https://36kr.com/p/3856871787189252?f=rss",
-        "published": "2026-06-17 14:14:08  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "36氪首发 | 中科大博士做量子赛道“卖水人”，连续融资两轮",
-        "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，中性原子量子计算平台级核心供应商——太微量子（MQTEK）已连续完成天使轮、天使+轮融资。投资方包括英诺天使、东方嘉富、小苗朗程、云启资本、水木投资、远东远至等知名投资机构，慕石资本担任独家财务顾问。融资资金将主要用于三大核心产品矩阵的扩产与研发。</p>\n  <p>太微量子成立于2021年，专注于中性原子与离子阱两条量子计算路线的上游核心部件。团队成员来自中国科学技术大学、清华大学、浙江大学等国内外高校，聚集了量子、AI、光学、机械、硬件等各领域的前沿人才。创始人兼CEO王宣恺为中科大量子信息与量子物理方向博士，曾开发过显微镜、电流源、激光器等多款精密仪器。</p>\n  <p>王宣恺告诉硬氪，公司定位为“量子计算生态的卖水人”，不做整机，而是为下游整机企业与科研平台提供标准化、高稳定、可量产的关键部件。</p>\n  <p>目前，公司已形成三大产品线：</p>\n  <p>一是量子气体显微镜（QGM），用于单原子成像与操控。相比海外竞品，太微量子的物镜耐受功率更高、成像波段更宽（313–1700 nm），视场可",
-        "link": "https://36kr.com/p/3856755190551811?f=rss",
-        "published": "2026-06-17 12:14:27  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
         "title": "Lore – Open source version control system designed for scalability",
-        "summary": "score: 862, comments: 474",
+        "summary": "score: 1129, comments: 600",
         "link": "https://lore.org/",
-        "score": 862
+        "score": 1129
       },
       {
         "source": "Hacker News",
-        "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-        "summary": "score: 732, comments: 367",
-        "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-        "score": 732
-      },
-      {
-        "source": "Hacker News",
-        "title": "U.S. science is in chaos",
-        "summary": "score: 560, comments: 626",
-        "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-        "score": 560
-      },
-      {
-        "source": "Hacker News",
-        "title": "Volkswagen started blocking GrapheneOS users",
-        "summary": "score: 421, comments: 292",
-        "link": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-        "score": 421
-      },
-      {
-        "source": "Hacker News",
-        "title": "RFC 10008: The new HTTP Query Method",
-        "summary": "score: 297, comments: 135",
-        "link": "https://www.rfc-editor.org/info/rfc10008/",
-        "score": 297
+        "title": "Midjourney Medical",
+        "summary": "score: 688, comments: 468",
+        "link": "https://www.midjourney.com/medical/blogpost",
+        "score": 688
       },
       {
         "source": "Hacker News",
         "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-        "summary": "score: 258, comments: 282",
+        "summary": "score: 454, comments: 502",
         "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-        "score": 258
+        "score": 454
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: An 8-bit live gamecast for baseball",
-        "summary": "score: 172, comments: 106",
-        "link": "https://ribbie.tv/watch",
-        "score": 172
+        "title": "Local Qwen isn't a worse Opus, it's a different tool",
+        "summary": "score: 190, comments: 84",
+        "link": "https://blog.alexellis.io/local-ai-is-not-opus/",
+        "score": 190
       },
       {
         "source": "Hacker News",
-        "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-        "summary": "score: 161, comments: 102",
-        "link": "https://browser-use.com/posts/firecracker-browser-infra",
-        "score": 161
+        "title": "Storied Colors – A catalogue of named colors",
+        "summary": "score: 167, comments: 38",
+        "link": "https://storiedcolors.com/",
+        "score": 167
+      },
+      {
+        "source": "Hacker News",
+        "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+        "summary": "score: 146, comments: 34",
+        "link": "https://www.horg.com/horg/?page_id=921",
+        "score": 146
+      },
+      {
+        "source": "Hacker News",
+        "title": "Clojure Hosted on Go",
+        "summary": "score: 130, comments: 15",
+        "link": "https://github.com/glojurelang/glojure",
+        "score": 130
+      },
+      {
+        "source": "Hacker News",
+        "title": "DeepSeek Introduces Vision",
+        "summary": "score: 116, comments: 49",
+        "link": "https://chat.deepseek.com/",
+        "score": 116
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Plasma (XPL)",
-        "summary": "market cap rank: 139",
-        "link": "https://www.coingecko.com/en/coins/plasma"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 117",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
@@ -309,15 +309,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Synapse (SYN)",
-        "summary": "market cap rank: 844",
-        "link": "https://www.coingecko.com/en/coins/synapse"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       },
       {
         "source": "CoinGecko Trending",
@@ -327,143 +321,147 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Uniswap (UNI)",
-        "summary": "market cap rank: 44",
-        "link": "https://www.coingecko.com/en/coins/uniswap"
+        "title": "Siren (SIREN)",
+        "summary": "market cap rank: 585",
+        "link": "https://www.coingecko.com/en/coins/siren-2"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 81",
-        "link": "https://www.coingecko.com/en/coins/venice-token"
+        "title": "Yooldo Games (ESPORTS)",
+        "summary": "market cap rank: 698",
+        "link": "https://www.coingecko.com/en/coins/yooldo-games"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will the Federal Reserve raise rates at least once by end of 2026?",
+        "market_title": "Will Bitcoin close above $70,000 by 2026-06-30?",
         "venue": "Polymarket",
-        "why_now": "Fed median projection now calls for rates at 3.8% by end-2026 (25bp above current); Warsh's first meeting signals hawkish bias despite holding steady, 2-year yields spiked on rate-hike signals from multiple officials.",
-        "signal_source": "CNBC: 'Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026'; 'Federal funds rate to end 2026 at 3.8%'"
+        "why_now": "Bond market signals (CoinDesk headline) suggest rate-cut narrative dying; Fed's Kevin Warsh maintaining hawkish hold; BTC slid after Fed meeting despite Iran peace deal equity lift, signaling macro headwinds.",
+        "signal_source": "CoinDesk (bond market signals on rates, BTC/ETF flows), CNBC (Warsh Fed meeting takeaways)"
       },
       {
-        "market_title": "Will Bitcoin close above $75,000 on any day before 2026-09-30?",
-        "venue": "Polymarket",
-        "why_now": "Glassnode reports realized losses fell 46% with increasing bid-side liquidity and easing sell pressure; capitulation phase typically precedes rallies; macro backdrop (Iran oil blockade, Fed hold, geopolitical tension) creates volatility opportunity.",
-        "signal_source": "Cointelegraph: 'Bitcoin capitulation twice as weak after spot liquidity turns supportive'; Glassnode data on realized losses"
-      },
-      {
-        "market_title": "Will the CLARITY Act pass at least one chamber of Congress by 2026-12-31?",
-        "venue": "Manifold",
-        "why_now": "Gaming lobby actively pushing Senate to bar CFTC authority over prediction markets; crypto-backed GOP candidate won Alabama runoff with PAC support; prediction markets becoming a partisan issue with clear commercial stakes.",
-        "signal_source": "Cointelegraph: 'Gaming groups urge Congress to ban prediction markets sports betting in CLARITY Act'; 'Crypto-backed GOP candidate wins Alabama Senate runoff'"
-      },
-      {
-        "market_title": "Will Trump administration resolve Iran nuclear deal dispute by 2026-08-31?",
-        "venue": "Polymarket",
-        "why_now": "Trump explicitly signaled doubt about Iran MOU at G7; three Iranian tankers already passed US blockade; geopolitical escalation or de-escalation could drive oil prices and risk-on/risk-off asset flows.",
-        "signal_source": "CNBC: 'Trump says he likes idea of blaming Vance if Iran deal doesn't work out'; BBC: 'Iran sends tankers loaded with oil past US military blockade'"
-      },
-      {
-        "market_title": "Will Kevin Warsh announce Fed rate cut before 2026-10-01?",
+        "market_title": "Will NVIDIA close above $150 by 2026-12-31?",
         "venue": "Kalshi",
-        "why_now": "Warsh's task forces signal intention to 'rewire the central bank'; Gundlach warns Warsh is not 'easy money chairman'; narrative tension between market expectations (futures pricing in cuts) and official hawkish guidance creates rich betting opportunity.",
-        "signal_source": "CNBC: 'Jeffrey Gundlach says Fed's Warsh is not going to be the easy money chairman'; 'Analysis: Chairman Kevin Warsh's task forces are the key to understanding the new Fed'"
+        "why_now": "Intel's 9% rally on Apple-Trump chip partnership news creates near-term competitive narrative; NVDA still dominance play but shifting geopolitical and domestic chip strategy could pressure valuations.",
+        "signal_source": "CNBC (Intel-Apple-Trump partnership announcement)"
+      },
+      {
+        "market_title": "Will the S&P 500 decline >5% from today through 2026-07-31?",
+        "venue": "Polymarket",
+        "why_now": "Fed hawkish hold (Warsh), oil falling (geopolitical tension relief), but macro cross-currents (rate expectations, earnings cycle) create two-way risk; equity rally from Iran deal may stall.",
+        "signal_source": "CNBC (Warsh Fed meeting, oil/Hormuz reopening, equity performance)"
+      },
+      {
+        "market_title": "Will SpaceX successfully conduct an uncrewed Starship orbital refueling test by 2026-09-30?",
+        "venue": "Manifold",
+        "why_now": "SpaceX shares dropped 5% after three-day rally lost steam; IPO expectations high but execution risk on core tech roadmap; orbital refueling is critical near-term milestone.",
+        "signal_source": "CNBC (SpaceX share momentum volatility, Gwynne Shotwell profile on IPO trajectory)"
+      },
+      {
+        "market_title": "Will the Fed cut rates at least once by 2026-08-31?",
+        "venue": "Kalshi",
+        "why_now": "Kevin Warsh's first Fed meeting followed script closely with no rate cut; bond market flashing dovish signals despite hawkish hold; market now pricing in delayed cuts vs. earlier expectations.",
+        "signal_source": "CNBC (Warsh Fed takeaways, bond market signals via CoinDesk)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Nvidia (NVDA) stock close above $150 at any point before 2026-12-31?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Yahoo Finance or NASDAQ official close data",
-        "why_underpriced": "No existing high-resolution prediction market on NVDA price targets; AI capex cycle and Fed rate trajectory create two-way volatility; institutional flows tied to earnings and FOMC are forecastable.",
-        "trigger_signal": "Hacker News attention to AI infrastructure (GLM-5.2, DeepSeek security concerns) and US tech policy shifts; Warsh Fed stance on inflation could impact mega-cap valuations."
+        "question": "Will Anthropic announce a public product launch or partnership with a Fortune 500 company by 2026-09-30?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Anthropic official press release, SEC filings, or verified TechCrunch/CoinDesk announcement",
+        "why_underpriced": "Anthropic CEO's G7 appearance on AI coalition calls suggests elevated policy/corporate engagement; market underprices enterprise AI partnership velocity vs. OpenAI-Microsoft momentum.",
+        "trigger_signal": "CNBC (Anthropic + DeepMind CEOs at G7 on AI standards), no public follow-up partnerships announced yet"
       },
       {
-        "question": "Will Singapore's MAS formally license Bybit or remove it from Investor Alert List by 2026-12-31?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Official MAS regulatory announcements or Bybit press release citing regulatory status change",
-        "why_underpriced": "Bybit just added to MAS alert list; crypto exchange licensing is binary, high-stakes event; current market ignores tail risk of major Asian exchange losing regional credibility.",
-        "trigger_signal": "Cointelegraph: 'Bybit lands on Singapore MAS Investor Alert List'; regulatory arbitrage between Singapore, Hong Kong, UAE will intensify."
+        "question": "Will Strait of Hormuz shipping volumes return to pre-deal baseline within 60 days of Iran-U.S. memorandum execution (by 2026-07-04)?",
+        "deadline": "2026-07-04",
+        "resolution_source": "U.S. Energy Information Administration weekly petroleum data, CIMB shipping indices, or Lloyd's List port throughput reports",
+        "why_underpriced": "IEA forecasts 2027 supply glut; market pricing in immediate Hormuz relief, but CNBC/BBC reporting warns backlogs and security checks will delay normalization; shipping insiders expect 8-12 week lag.",
+        "trigger_signal": "CNBC (IEA supply glut forecast), BBC (Hormuz reopening timeline uncertainty)"
       },
       {
-        "question": "Will Fidelity's stablecoin reserve program (announced 2026-05) onboard at least $500M in AUM by 2026-12-31?",
+        "question": "Will Intel stock close above its 2026-05-05 level on 2026-12-31 (post-Apple partnership announcement)?",
         "deadline": "2026-12-31",
-        "resolution_source": "Fidelity investor relations announcements or third-party onchain analytics (Glassnode, Nansen)",
-        "why_underpriced": "CoinDesk reports Fidelity joining Wall Street race to manage stablecoin reserves; institutional USDC/USDT yield plays are massively underpriced relative to TradFi cash rates; zero existing prediction market on this milestone.",
-        "trigger_signal": "CoinDesk: 'Fidelity joins Wall Street's race to manage stablecoin reserves'; broader tokenized assets adoption trend (Blockchain.com × Ondo Finance rollout) signals institutional demand."
+        "resolution_source": "NASDAQ official closing price (ticker: INTC)",
+        "why_underpriced": "Intel surged 9% on Trump-Apple-U.S. chip design news; market euphoria often fades when partnership details reveal execution/capex burdens; semiconductor cycle headwinds remain.",
+        "trigger_signal": "CNBC (Intel 9% rally on Apple partnership), no details on capex or revenue timeline disclosed"
       },
       {
-        "question": "Will defense contractor stock buyback restrictions pass full Senate and be signed into law by 2026-10-01?",
-        "deadline": "2026-10-01",
-        "resolution_source": "Congress.gov bill status tracker or Presidential signing announcement",
-        "why_underpriced": "Senate Armed Services Committee already approved; Trump administration's relationship with defense sector and stock market health makes this a partisan pressure point; affects LMT, RTX, NOC, GD valuations.",
-        "trigger_signal": "CNBC: 'Defense contractors would be barred from buying back their stock in bill approved by Senate panel'; policy shifts M&A and shareholder return narratives."
+        "question": "Will Bitcoin's realized price fall below its 200-week moving average by 2026-09-15?",
+        "deadline": "2026-09-15",
+        "resolution_source": "Glassnode Realize Price (200W SMA) or CryptoQuant verified data feed",
+        "why_underpriced": "Kraken report: buying BTC below 200W MA historically delivers >100% median returns; current consolidation amid Fed hawkishness creates asymmetric entry; low vol. environment underprices tail upside.",
+        "trigger_signal": "CoinDesk (Kraken analysis), BTC slide post-Fed meeting"
       },
       {
-        "question": "Will Bitcoin's 200-week moving average (price support) hold above $63,000 through 2026-12-31?",
-        "deadline": "2026-12-31",
-        "resolution_source": "TradingView or CoinGecko historical price data (200-week MA calculation)",
-        "why_underpriced": "Capitulation signals (Glassnode) suggest macro bottom-fishing; no existing market on technical support levels; macro traders and quants underweight on-chain flow data.",
-        "trigger_signal": "Cointelegraph: 'Bitcoin capitulation twice as weak after spot liquidity turns supportive'; Iran oil blockade and geopolitical premium could boost risk appetite and crypto inflows."
+        "question": "Will Anthropic or Google DeepMind secure binding U.S. government AI standards commitments by 2026-11-30?",
+        "deadline": "2026-11-30",
+        "resolution_source": "White House official statement, Federal Register notices, or verified press from Anthropic/Google",
+        "why_underpriced": "G7 coalition framing suggests policy momentum, but U.S. bureaucracy moves slowly; market conflates summit visibility with regulatory capture; no binding framework typically emerges <6 months.",
+        "trigger_signal": "CNBC (G7 AI coalition meeting, Trump attendance)"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Fed hawkish bias under Warsh (median 3.8% by YE2026) will compress long-duration equities and favor DXY/USD strength; short high-growth tech (QQQ), long DXY or TLT puts.",
-        "horizon": "60–120 days",
+        "thesis": "USD strength and real rate persistence (DXY >107, 10Y real >1.8%) will pressure BTC and ETH into Q3 2026, creating tactical short positioning despite long-term on-chain demand.",
+        "horizon": "60-120 days",
         "supporting_signals": [
-          "CNBC: Warsh's first meeting saw 2-year yields spike; multiple Fed officials signaled rate hike in 2026",
-          "CNBC: Gundlach warns Warsh is not 'easy money chairman'; reduces risk of overly accommodative policy",
-          "Warsh's task force language suggests structural Fed rewiring, not one-off rate hold"
+          "CoinDesk: Bond market flashing clear signals; Bitcoin/Ether ETF outflows ($111M combined) after Warsh Fed hold",
+          "CNBC: Warsh followed 'script closely' on rates, no dovish pivot; rate-cut hopes died",
+          "CoinDesk: Oil slide pressures inflation expectations but hawkish Fed stance dominates asset allocation"
         ],
-        "counter_view": "Market may front-run hawkish pricing already; inflation data could surprise lower, forcing Warsh to cut; geopolitical shock (Iran, Middle East) could trigger flight-to-safety bid in long bonds.",
-        "expression": "Short QQQ 3x inverse (PSQ) or put spreads on SPY; long DXY via UUPT or FXE; consider short 10Y Treasury position (TLT puts or short IEF)."
+        "counter_view": "Iran deal de-escalation and supply glut forecasts could trigger risk-on rotation faster than Fed hiking cycle; crypto volatility dislocations may create flash-crash buying opportunities before rate cuts materialize.",
+        "expression": "Short BTC perps (25-50% of position) or sell 3-month BTC call spreads; hedge with long DXY ETF (UUP) or short duration Treasuries (PST) as macro hedge."
       },
       {
-        "thesis": "Bitcoin capitulation cycle exhaustion (realized losses down 46%, bid-side liquidity rising) combined with Iran oil blockade and geopolitical premium suggests BTC/ETH rebound toward $70K+ by June 2026; long BTC spot or perps.",
-        "horizon": "30–90 days",
+        "thesis": "Semiconductor capex cycle will disappoint post-Intel rally as geopolitical chip de-risking diverts CapEx toward less efficient domestic fabs; NVDA and foundry exposure outperforms legacy chipmakers into 2026-Q4.",
+        "horizon": "90-180 days",
         "supporting_signals": [
-          "Cointelegraph: 'Bitcoin capitulation twice as weak after spot liquidity turns supportive'",
-          "BBC: 'Iran sends tankers loaded with oil past US military blockade' — geopolitical risk premium",
-          "Glassnode: realized losses fell 46%, easing sell pressure"
+          "CNBC: Intel surges 9% on Trump-Apple partnership, but partnership details (capex, timeline) remain undisclosed",
+          "36Kr (FLAG: Chinese media lead): China gaming and AI inference demand shifting to local Qwen/DeepSeek models; implies reduced NVDA H100/H200 orders from China, supporting U.S. domestic chip subsidy narrative"
         ],
-        "counter_view": "Warsh Fed hawkishness could push macro headwinds further; Illinois crypto tax and regulatory clampdown (Kentucky prediction markets, CFTC/gaming lobby clash) could dampen retail sentiment; spot liquidity data lags execution.",
-        "expression": "Long BTC spot (via Grayscale IBIT, Fidelity FBTC, or spot ETF); long BTC perpetuals 2x leverage on Bybit or Hyperliquid (flagged as regulatory risk but higher leverage); hedge with short DXY."
+        "counter_view": "Apple-Intel partnership could unlock high-margin custom silicon revenue stream, justifying Intel's recent rally; Taiwan geopolitical risk premium may drive TSMC/NVDA outperformance regardless of U.S. subsidy efficiency.",
+        "expression": "Long NVDA relative to SMH (semiconductor ETF); overweight Taiwan-linked names (TSM ADR, TYAN) vs. Intel (INTC) or AMD (AMD)."
       },
       {
-        "thesis": "Stablecoin reserve management and tokenized assets (Fidelity, Blockchain.com × Ondo) will drive institutional USDC/USDT yield compression and liquidity migration; long USDC/USDT yield positions, short high-yield money market ETFs (e.g., VMFXX competitors).",
-        "horizon": "90–180 days",
+        "thesis": "Oil consolidation (down on IEA glut forecast, Iran deal) will maintain sub-$80/barrel into 2026-Q3, supporting consumer energy spending and reducing Fed rate-hike urgency; risk-off narratives overweight geopolitical tail risk.",
+        "horizon": "30-90 days",
         "supporting_signals": [
-          "CoinDesk: 'Fidelity joins Wall Street's race to manage stablecoin reserves'",
-          "CoinDesk: 'Blockchain.com deepens onchain stock offerings as tokenized equities market grows'",
-          "36Kr (Chinese): no specific stablecoin push flagged, but AI + robotics capex could drive onchain settlement demand"
+          "CNBC: Oil falls as IEA forecasts 2027 supply glut post-U.S.-Iran deal",
+          "BBC: Strait of Hormuz reopening, but backlogs/security delays will slow normalization",
+          "36Kr: China crude offtake demand remains stable despite slowdown; Iran redevelopment ($300B) unlikely to drive pricing before 2027"
         ],
-        "counter_view": "Regulatory uncertainty (SEC, FinCEN) could slow TradFi stablecoin adoption; traditional money market funds still offer higher yields and no custody/smart contract risk; tokenized asset market remains niche.",
-        "expression": "Long USDC/DAI staking yields via Aave or Lido; take basis spreads (USDC-USDT premium arb); short money market ETFs (SHV puts) or long USDC calls if derivatives available; monitor Fidelity USDX product launch."
+        "counter_view": "Geopolitical escalation in Niger/Levant or OPEC production cuts could trigger sharp oil rallies; U.S. shale growth constraints may tighten supply faster than IEA models account for.",
+        "expression": "Short crude oil (WTI) or USO calls; long XLE (energy ETF) for relative stability vs. oil volatility; consider commodity futures curve (near-term contango) as hedge."
       },
       {
-        "thesis": "Crypto policy bifurcation: GOP-backed crypto candidates winning (Alabama runoff, PAC spending) while CLARITY Act and CFTC authority clash persist; prediction markets and decentralized protocols will face regulatory tailwinds in red states and headwinds federally; long decentralized prediction market tokens (UMA, HYPE if correlated) and meme-friendly narratives, short centralized US exchanges (COIN short straddle).",
-        "horizon": "60–180 days",
+        "thesis": "Prediction market regulatory pressure (Kentucky suit vs. Kalshi/Polymarket; CME suing CFTC over perpetual futures) will create 6-12 month headwind for betting volumes; Manifold and offshore Polymarket may see client migration.",
+        "horizon": "30-180 days",
         "supporting_signals": [
-          "Cointelegraph: 'Crypto-backed GOP candidate wins Alabama Senate runoff with June primaries looming'",
-          "Cointelegraph: 'Gaming groups urge Congress to ban prediction markets sports betting in CLARITY Act'",
-          "CoinDesk: 'Kentucky targets prediction markets, puts red state in potential clash with Trump team'"
+          "Cointelegraph: Kentucky sues Polymarket, Kalshi, Coinbase, Robinhood, Webull over sports contracts",
+          "CoinDesk: CME chief says company plans to sue CFTC after perpetual futures approval (regulatory arbitrage war heating up)"
         ],
-        "counter_view": "Federal preemption unlikely before 2027; CFTC can move unilaterally on enforcement; Coinbase (COIN) compliance strategy may prove resilient; prediction markets are still tiny slice of crypto market capitalization.",
-        "expression": "Long Hyperliquid (HYPE) or Uniswap governance (UNI) as proxy for DEX regulatory tailwinds; short COIN or neutral straddle; monitor 36Kr for Chinese prediction market moves (no regulation equivalent flagged yet, but opportunity)."
+        "counter_view": "Prediction market adoption accelerating among institutional traders; regulatory clarity (even restrictive) could legitimize markets and increase volumes; betting culture deeply rooted in U.S. political cycles (2026 midterms, 2028 election).",
+        "expression": "Avoid direct prediction market platform trades; if bullish on regulation-resistant models, track Manifold DAO governance token (if tradeable) or observe Polymarket user exodus metrics; short near-term volumes in litigation-exposed U.S. sportsbooks."
       },
       {
-        "thesis": "China's 'AI+' strategy push (36Kr: 国务院 AI+ action plan) and robotics scaling (硬氪 focus on embodied AI deployment loops) will drive demand for quantum computing tools and neutral-atom platforms; Metaqi (太微量子) and similar hard tech plays are early-stage capital plays but signal macro theme; long TSMC, ASML, MU as picks-and-shovels; monitor Chinese robotics IPOs (仙工智能 HK IPO mid-June at HK$112.27B valuation).",
-        "horizon": "90–180 days",
+        "thesis": "Chinese AI inference models (DeepSeek, Qwen) gaining enterprise adoption will disrupt NVDA GPU pricing power for inference workloads by 2026-Q4; U.S. AI capex concentration (data centers, training) will shift toward inference-optimized chips and software.",
+        "horizon": "120-180 days",
         "supporting_signals": [
-          "36Kr: '国务院：深入实施人工智能+行动，探索人机协同的新型工作形态' (state-level AI+ action plan with human-machine collaboration)",
-          "36Kr: '仙工智能 HK IPO招股价101.60港元…预计6月24日挂牌' (robotics unicorn IPO mid-June 2026, HK$112B valuation)",
-          "36Kr: '太微量子已连续完成天使轮、天使+轮融资' (quantum computing platform raising venture capital; Scaling Law for robotics depends on compute)"
+          "Hacker News (Lore, DeepSeek Vision, Qwen discussions): Open-source AI inference tooling maturing; DeepSeek not blacklisted by U.S. (>100 firms blacklisted, but DeepSeek held off), signaling diplomatic AI trade-off",
+          "36Kr: Chinese gaming companies deploying local LLMs (Qwen inference) rather than closed APIs; enterprise shift to cost-efficient local models underway",
+          "CoinDesk/CoinTelegraph: Block's Builderbot (AI coding) handles 15% of code work; inference, not training, is differentiation bottleneck"
         ],
-        "counter_view": "Chinese tech export restrictions (US chip bans) may limit TSMC/ASML upside; robotics adoption slower in China than hype suggests; quantum computing remains 5+ years from practical advantage; valuations already rich (仙工智能 IPO at premium).",
-        "expression": "Long TSMC (TSM) or ASML (ASML) as picks-and-shovels for AI capex; long MU (Micron) for memory cycles; avoid direct exposure to Chinese robotics IPOs due to delisting risk; track 香港上市 robotics valuations as gauge of investor sentiment."
+        "counter_view": "NVDA's software moat (CUDA, ecosystem lock-in) and data center relationships remain dominant; U.S. export controls will persist; geopolitical risk premium justifies NVDA premium valuations despite margin pressure.",
+        "expression": "Long MU (Micron, memory/inference optimized) relative to NVDA; consider semiconductor subsector rotation (SMH vs. XLC for AI infrastructure); tactical short NVDA calls (6-month, 10-15% OTM) to monetize inference disruption narrative."
       }
     ]
   }
