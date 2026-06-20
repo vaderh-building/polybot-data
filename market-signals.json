@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2026-06-20T15:01:16.166878+00:00",
+  "generated_at_utc": "2026-06-20T22:01:29.958344+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
+        "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.",
+        "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+        "published": "Sat, 20 Jun 2026 21:02:47 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "AI buildout gives tech investors new reasons to watch bond market",
@@ -14,7 +21,7 @@
         "title": "The budget airline model in the U.S. is running out of runway",
         "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
         "link": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
-        "published": "Sat, 20 Jun 2026 14:58:19 GMT"
+        "published": "Sat, 20 Jun 2026 15:05:02 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -52,18 +59,46 @@
         "published": "Fri, 19 Jun 2026 13:51:01 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
-        "summary": "The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service.",
-        "link": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
-        "published": "Fri, 19 Jun 2026 22:53:09 GMT"
+        "source": "BBC World",
+        "title": "Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon",
+        "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
+        "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 20 Jun 2026 21:11:57 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-        "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit Hezbollah targets after the group fired over 50 projectiles at Israeli forces.",
-        "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 20 Jun 2026 13:23:40 GMT"
+        "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+        "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
+        "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 20 Jun 2026 17:40:43 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+        "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
+        "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 20 Jun 2026 15:31:12 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Bolivian president declares state of emergency",
+        "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
+        "link": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 20 Jun 2026 15:27:09 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Zelensky returns highest Polish honour after award stripped",
+        "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
+        "link": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 20 Jun 2026 16:34:15 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Tourist dies in Dominican Republic luxury resort fire",
+        "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
+        "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 20 Jun 2026 17:33:25 GMT"
       },
       {
         "source": "BBC World",
@@ -74,45 +109,17 @@
       },
       {
         "source": "BBC World",
-        "title": "Tourist dies in Dominican Republic luxury resort fire",
-        "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
-        "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 20 Jun 2026 07:40:20 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
-        "summary": "Trump said the Italian leader asked \"over and over\" for a picture at G7, after she said the US president \"made-up\" a story that she \"begged\" for a photo.",
-        "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 20 Jun 2026 14:24:35 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "US to stop funding HIV programmes in South Africa",
         "summary": "More than eight million South Africans are living with HIV – the highest number of any country in the world.",
         "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
         "published": "Fri, 19 Jun 2026 23:35:07 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
-        "summary": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
-        "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 20 Jun 2026 03:13:18 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
-        "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
-        "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 20 Jun 2026 03:12:47 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
-        "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
-        "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 20 Jun 2026 02:33:30 GMT"
+        "source": "CoinDesk",
+        "title": "AI is making crypto security cheaper, faster and harder to ignore",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
+        "published": "Sat, 20 Jun 2026 15:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -164,18 +171,11 @@
         "published": "Fri, 19 Jun 2026 08:48:14 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "XRP falls 3% after losing $1.15 support as breakout attempt fades",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/19/xrp-falls-3-after-losing-usd1-15-support-as-breakout-attempt-fades",
-        "published": "Fri, 19 Jun 2026 05:14:20 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
-        "summary": "The NFT-born franchise is bringing its Vibes Series 3 trading cards to Target stores across the US as it expands into physical products and mainstream retail.",
-        "link": "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Sat, 20 Jun 2026 11:49:02 GMT"
+        "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+        "summary": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
+        "link": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "published": "Sat, 20 Jun 2026 19:09:21 GMT"
       }
     ],
     "chinese_news": [
@@ -224,7 +224,7 @@
       {
         "source": "36氪 36Kr",
         "title": "中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标",
-        "summary": "<p>文丨小葵</p>\n  <p>编辑丨果脯</p>\n  <p>中国游戏产业正站在一个微妙的分水岭上。</p>\n  <p>一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。</p>\n  <p>今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。</p>\n  <p>在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。</p>\n  <p>当大厂渴望用3A讲述中国故事建立全球品牌壁垒，腰部厂商则在存量市场中持续收割，一个向上押注3A，一个向下蚕食存量。这两条看似背道而驰的路，正共用着同一个起点。</p>\n  <h2>01</h2>\n  <p>本次SGF上，腾讯拿出《穿越火线：潜伏》与《古剑》堪称两张风格迥异的牌。</p>\n  <p>《穿越火线：潜伏》由That's No Moon工作室（核心成员来���顽皮狗、Infinity W",
+        "summary": "<p>文丨小葵</p>\n  <p>编辑丨果脯</p>\n  <p>中国游戏产业正站在一个微妙的分水岭上。</p>\n  <p>一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。</p>\n  <p>今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。</p>\n  <p>在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。</p>\n  <p>当大厂渴望用3A讲述中国故事建立全球品牌壁垒，腰部厂商则在存量市场中持续收割，一个向上押注3A，一个向下蚕食存量。这两条看似背道而驰的路，正共用着同一个起点。</p>\n  <h2>01</h2>\n  <p>本次SGF上，腾讯拿出《穿越火线：潜伏》与《古剑》堪称两张风格迥异的牌。</p>\n  <p>《穿越火线：潜伏》由That's No Moon工作室（核心成员来自顽皮狗、Infinity War",
         "link": "https://36kr.com/p/3858373969286148?f=rss",
         "published": "2026-06-18 15:58:27  +0800"
       },
@@ -239,73 +239,73 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "There are no instances in ATProto",
-        "summary": "score: 482, comments: 259",
-        "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
-        "score": 482
-      },
-      {
-        "source": "Hacker News",
-        "title": "Where to Find the Colors Your Screen Can't Show You",
-        "summary": "score: 286, comments: 62",
-        "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-        "score": 286
-      },
-      {
-        "source": "Hacker News",
-        "title": "I Stored a Website in a Favicon",
-        "summary": "score: 230, comments: 80",
-        "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-        "score": 230
-      },
-      {
-        "source": "Hacker News",
-        "title": "Can you see three trees?",
-        "summary": "score: 221, comments: 105",
-        "link": "https://www.not-ship.com/can-you-see-three-trees/",
-        "score": 221
-      },
-      {
-        "source": "Hacker News",
         "title": "CSSQuake",
-        "summary": "score: 205, comments: 43",
+        "summary": "score: 414, comments: 88",
         "link": "https://cssquake.com/",
-        "score": 205
+        "score": 414
       },
       {
         "source": "Hacker News",
-        "title": "Data Compression Explained (2012)",
-        "summary": "score: 165, comments: 25",
-        "link": "https://mattmahoney.net/dc/dce.html",
-        "score": 165
+        "title": "The Wholesale Plagiarism of Obscure Sorrows",
+        "summary": "score: 272, comments: 117",
+        "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+        "score": 272
       },
       {
         "source": "Hacker News",
-        "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
-        "summary": "score: 57, comments: 36",
-        "link": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
-        "score": 57
+        "title": "SMPTE Makes Its Standards Freely Accessible",
+        "summary": "score: 171, comments: 53",
+        "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+        "score": 171
       },
       {
         "source": "Hacker News",
-        "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-        "summary": "score: 45, comments: 12",
-        "link": "https://bootimus.com",
-        "score": 45
+        "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+        "summary": "score: 157, comments: 44",
+        "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+        "score": 157
+      },
+      {
+        "source": "Hacker News",
+        "title": "Temporary Cloudflare accounts for AI agents",
+        "summary": "score: 130, comments: 82",
+        "link": "https://blog.cloudflare.com/temporary-accounts/",
+        "score": 130
+      },
+      {
+        "source": "Hacker News",
+        "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+        "summary": "score: 116, comments: 15",
+        "link": "https://www.lispm.net/apps/uhf-x11/",
+        "score": 116
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+        "summary": "score: 114, comments: 34",
+        "link": "https://startupwiki.tech/",
+        "score": 114
+      },
+      {
+        "source": "Hacker News",
+        "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+        "summary": "score: 87, comments: 130",
+        "link": "https://github.com/oven-sh/WebKit/pull/249",
+        "score": 87
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "RE (RE)",
-        "summary": "market cap rank: 205",
+        "summary": "market cap rank: 193",
         "link": "https://www.coingecko.com/en/coins/re"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Backpack (BP)",
-        "summary": "market cap rank: 201",
-        "link": "https://www.coingecko.com/en/coins/backpack"
+        "title": "Biconomy (BICO)",
+        "summary": "market cap rank: 501",
+        "link": "https://www.coingecko.com/en/coins/biconomy"
       },
       {
         "source": "CoinGecko Trending",
@@ -315,15 +315,15 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitway (BTW)",
-        "summary": "market cap rank: 129",
-        "link": "https://www.coingecko.com/en/coins/bitway"
+        "title": "Backpack (BP)",
+        "summary": "market cap rank: 199",
+        "link": "https://www.coingecko.com/en/coins/backpack"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 41",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
+        "title": "Aerodrome Finance (AERO)",
+        "summary": "market cap rank: 100",
+        "link": "https://www.coingecko.com/en/coins/aerodrome-finance"
       },
       {
         "source": "CoinGecko Trending",
@@ -333,136 +333,138 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "Bitway (BTW)",
+        "summary": "market cap rank: 136",
+        "link": "https://www.coingecko.com/en/coins/bitway"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $70,000 by December 31, 2026?",
+        "market_title": "Will Bitcoin reach $75,000 by end of 2026?",
         "venue": "Polymarket",
-        "why_now": "CoinDesk institutional push and Franklin Templeton Bitcoin dividend ETFs signal institutional accumulation; memory crisis and tech capex pullback may reshape macro risk appetite.",
-        "signal_source": "CoinDesk (Franklin Templeton ETF proposal, Bitcoin smartphone narrative); CNBC (tech cash depletion, interest rate pressure)"
+        "why_now": "BTC wilting 4th straight day amid altcoin rotation; CoinDesk indices president bullish on long-term case; memory/AI capex cycle driving tech debt raises signal macro tightening risk.",
+        "signal_source": "CoinDesk (4-day BTC decline, altseason collapse); CNBC (tech giants depleting cash reserves for data center buildouts, forcing bond-market watch)"
       },
       {
-        "market_title": "Will the Fed cut rates at least once by June 30, 2026?",
+        "market_title": "Will Fed funds rate be below 4.5% on December 31, 2026?",
         "venue": "Kalshi",
-        "why_now": "Tech giants raising debt for data center buildout signals refinancing pressure; bond market stress is live and traders are watching yield curve inversion signals.",
-        "signal_source": "CNBC (Tech depleting cash, raising debt, bond market pressure); CoinDesk (memory shortage, price pressures)"
+        "why_now": "Tech giants raising debt aggressively for AI capex; bond market becoming critical monitor; Iran strait closure adds geopolitical rate-shock tail risk into H2 2026.",
+        "signal_source": "CNBC (tech investors forced to watch interest rates due to AI buildout debt); BBC (Iran Strait of Hormuz closure, US military disputes claim)"
       },
       {
-        "market_title": "Will NVIDIA (NVDA) stock outperform the S&P 500 by >10% through December 31, 2026?",
+        "market_title": "Will Tesla stock outperform S&P 500 by >10pp in 2026?",
         "venue": "Polymarket",
-        "why_now": "Memory crisis at extremes—even Apple raising prices; NVDA memory dominance and AI buildout momentum conflict with margin compression risk.",
-        "signal_source": "CNBC (memory shortage unsustainable, Apple price hikes); CoinDesk (AI buildout continues); trending crypto capex signals"
+        "why_now": "Musk's SpaceX stake now worth >$1T post-historic 37% pop; broader 'billionaire equity bet' momentum; Trump presidency continues crypto/deregulation tailwind.",
+        "signal_source": "CNBC (SpaceX shares +37% post-debut at $135, Musk stake >$1T); Trump in office (deregulation signals)"
       },
       {
-        "market_title": "Will Charles Schwab's prediction market offering (S&P 500 event bets) launch and process >$100M notional volume in first 90 days?",
+        "market_title": "Will Nvidia stock price exceed $200 by June 30, 2026?",
+        "venue": "Polymarket",
+        "why_now": "Apple forced to raise prices due to 'unsustainable' memory shortage; DRAM/memory crisis hitting extremes; AI capex buildout sustaining semiconductor demand despite macro headwinds.",
+        "signal_source": "CNBC (Apple CEO Cook calls memory shortage 'unsustainable', poised to raise prices; headline 'even Apple can't be safe')"
+      },
+      {
+        "market_title": "Will Ethereum outperform Bitcoin (ETH/BTC ratio >0.15) by December 31, 2026?",
         "venue": "Manifold",
-        "why_now": "Schwab entering prediction markets with S&P 500 options is a major institutional legitimacy signal; retail and institutional adoption race is accelerating.",
-        "signal_source": "CoinDesk + Cointelegraph (Schwab prediction market S&P 500 wagers via WSJ)"
-      },
-      {
-        "market_title": "Will XRP close above $2.50 by August 31, 2026?",
-        "venue": "Polymarket",
-        "why_now": "XRP just broke below $1.15 support after 4-day downtrend; digital credit market selloff and leverage liquidations are active headwinds.",
-        "signal_source": "CoinDesk (XRP $1.15 breakdown, digital credit selloff, leverage liquidations)"
+        "why_now": "BTC dominance holding above key support; altseason 'disappeared' per Cointelegraph; DeFi/smart-contract coins lead losses; crypto market structure fragile.",
+        "signal_source": "Cointelegraph (BTC dominance at key support, altseason collapse, DeFi/smart-contract coins leading losses)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will SpaceX's share price exceed $200 per share by December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Public SpaceX secondary market pricing (Forge, EquityZen, or official shareholder announcements); last known close was $135 post-debut.",
-        "why_underpriced": "Recent 37% pop post-IPO debut has not yet priced in Starship production ramp or Starlink IPO anticipation; Musk billionaire wealth story drives institutional FOMO.",
-        "trigger_signal": "CNBC: SpaceX shares up 37% post-historic debut; Musk stake worth >$1 trillion; Starship cadence accelerating per aerospace headlines"
-      },
-      {
-        "question": "Will Apple (AAPL) announce a price increase of >5% on average selling price (ASP) in its next earnings call (Q3 2026)?",
-        "deadline": "2026-08-15",
-        "resolution_source": "Apple official earnings call transcript and guidance; CEO Tim Cook's explicit ASP commentary on memory shortage.",
-        "why_underpriced": "Tim Cook called memory shortage 'unsustainable'; Apple rarely raises prices mid-cycle unless supply is truly broken. Market has not fully priced margin defense via ASP.",
-        "trigger_signal": "CNBC: Memory crisis so extreme 'even Apple can't be safe'; Tim Cook signals price action; semiconductor supply chain remains tight"
-      },
-      {
-        "question": "Will Pudgy Penguins (PENGU) trading volume on major exchanges exceed $50M in a single day before June 30, 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "CoinGecko, Coingecko 24h volume tracker, or official PENGU exchange data; resolvable via Twitter/X PENGU community announcement.",
-        "why_underpriced": "Target retail rollout + NFT-to-physical product bridge is a proven model (Pudgy Penguins vibes series 3); mainstream adoption underpriced vs. Blur/OpenSea volume potential.",
-        "trigger_signal": "Cointelegraph: Pudgy Penguins expands to Target stores; Vibes Series 3 trading card rollout signals mainstream product momentum"
-      },
-      {
-        "question": "Will the Philippine SEC formally approve at least one tokenized real estate or utility asset issuance under RWA rules by December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Official Philippine SEC press release or regulatory gazette; Commissioner Rogelio Quevedo's public statement.",
-        "why_underpriced": "SEC commissioner publicly signaled 'readiness'; first-mover advantage in Asia-Pacific RWA tokenization is geopolitically significant and underhyped in Western markets.",
-        "trigger_signal": "Cointelegraph: Philippine SEC Commissioner signals RWA tokenization readiness; framed as fraud-prevention tool for retail investors"
-      },
-      {
-        "question": "Will Solana (SOL) close above $250 USD by September 30, 2026?",
+        "question": "Will Schwab's new prediction market for S&P 500 event-based options launch before September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "CoinGecko, Binance, or Kraken spot SOL/USD daily close price.",
-        "why_underpriced": "SOL in trending top 10; Hyperliquid (HYPE) and Bittensor (TAO) momentum suggest alternative-chain infrastructure play is live; memory crisis favors high-throughput chains.",
-        "trigger_signal": "Crypto trending: Solana, Hyperliquid, Bittensor all top movers; AI buildout + memory constraints favor bandwidth-optimized chains"
+        "resolution_source": "Schwab official press release or regulatory filing (SEC FORM 8-K or company newsroom)",
+        "why_underpriced": "Prediction market adoption by major retail broker signals mainstream institutional acceptance; currently no major retail broker has launched event-based derivatives; first-mover advantage substantial.",
+        "trigger_signal": "CoinDesk (Schwab to join prediction markets race with S&P 500 event-based options per WSJ)"
+      },
+      {
+        "question": "Will at least one Franklin Templeton bitcoin dividend-yield ETF receive SEC approval by August 31, 2026?",
+        "deadline": "2026-08-31",
+        "resolution_source": "SEC EDGAR (Investment Company Act filings, form N-1A approval status); Franklin Templeton investor relations",
+        "why_underpriced": "Novel product combining corporate dividends + BTC exposure; taps both ESG rotation + crypto adoption; FT's track record on innovative ETFs strong; approval odds underestimated.",
+        "trigger_signal": "CoinDesk (Franklin Templeton proposes new ETFs turning corporate dividends into bitcoin)"
+      },
+      {
+        "question": "Will Apple stock decline >15% from May 5, 2026 to December 31, 2026 due to sustained memory shortage and forced price increases?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Yahoo Finance or Bloomberg terminal (AAPL closing price comparison May 5 vs Dec 31, 2026)",
+        "why_underpriced": "Memory crisis headline describes situation as extreme ('even Apple can't be safe'); CEO Cook explicitly flagged as 'unsustainable'; price increases historically signal demand destruction; market pricing in soft landing too aggressively.",
+        "trigger_signal": "CNBC (Apple CEO Tim Cook: memory shortage 'unsustainable'; company poised to raise prices; memory crisis hitting 'such extremes')"
+      },
+      {
+        "question": "Will DeFi protocol Strive recover to pre-liquidation price levels (within 20% of March 2026 highs) by October 31, 2026?",
+        "deadline": "2026-10-31",
+        "resolution_source": "CoinGecko or DeFi Llama (Strive token price feed; use daily close on resolution date)",
+        "why_underpriced": "CEO blame-shifted to 'leverage liquidations' rather than protocol fault; typically signals deeper insolvency; digital credit market broad selloff suggests systemic stress; recovery path unclear.",
+        "trigger_signal": "CoinDesk (Digital credit market hit by huge selloff; Strive CEO blames leverage liquidations)"
+      },
+      {
+        "question": "Will Philippine SEC formally approve the first tokenized real-world asset (RWA) issuance by December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Philippine SEC official announcement or regulatory gazette (SEC website newsroom or business.inquirer.net official SEC release)",
+        "why_underpriced": "SEC Commissioner Rogelio Quevedo explicitly signaled 'readiness'; RWA trend accelerating globally; Philippines significant emerging-market financial-inclusion play; headline signals regulatory green light imminent.",
+        "trigger_signal": "Cointelegraph (Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos legitimate investment options)"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Tech mega-cap debt issuance for data center buildout will steepen the 2Y–10Y yield curve and create tactical long DXY / short long-duration Treasuries opportunity through Q3 2026.",
-        "horizon": "60–120 days",
+        "thesis": "Long MU (Micron) / long semiconductor exposure; memory crisis + AI capex cycle creates sustained DRAM/NAND pricing power and margin expansion through late 2026.",
+        "horizon": "3–6 months",
         "supporting_signals": [
-          "CNBC: Tech giants depleting cash reserves, raising debt for AI capex buildout",
-          "CNBC: Bond market dynamics forcing investors to watch interest rates",
-          "CoinDesk: Memory shortage driving urgent hardware capex cycles"
+          "CNBC: Apple 'forced to raise prices' on memory shortage described as 'unsustainable' by CEO Tim Cook",
+          "CNBC: Tech giants depleting cash and raising debt for data center buildouts, signaling sustained capex demand",
+          "Memory crisis headline explicitly states 'even Apple can't be safe', indicating pricing power across all OEMs"
         ],
-        "counter_view": "If Fed signals imminent rate cuts due to recession fears, duration outperforms and curve flattens, unwinding long-DXY positioning.",
-        "expression": "Long DXY (US Dollar Index ETF), short TLT (iShares 20+ Year Treasury ETF), or DXY/TLT ratio trade"
+        "counter_view": "Demand destruction if OEMs pass through price hikes; China memory players (SMIC, ChangXin) ramp capacity by H2 2026, breaking pricing power; AI adoption curve flattens faster than expected.",
+        "expression": "Long MU calls (6-month tenor, delta 0.50–0.65) or Long SMH (VanEck Semiconductor ETF) vs. Short SOXL on relative weakness; or long MU equity with 30% position size."
       },
       {
-        "thesis": "Memory chip shortage (DRAM/NAND) will persist through Q3 2026, forcing NVDA and MU to sustain pricing power and margin compression will be less severe than consensus expects; buy MU (Micron) over SPY.",
-        "horizon": "90–180 days",
+        "thesis": "Short XLK (Tech sector) / Long DXY (US Dollar Index) into end-Q2 2026; tech debt issuance cycle + Iran geopolitical premium + Fed hold bias crowd out growth valuations.",
+        "horizon": "4–8 weeks",
         "supporting_signals": [
-          "CNBC: Memory crisis at 'unsustainable' extremes, Apple raising prices",
-          "CoinDesk: Memory crisis cascades into AI buildout timelines",
-          "Tech giants capex acceleration signals sustained supply deficit"
+          "CNBC: Tech investors forced to 'watch bond market' as giants deplete cash reserves and raise debt for AI capex",
+          "BBC: Iran closes Strait of Hormuz; US military disputes but headline risk elevated into US-Iran talks on Sunday (May 5 reference date)",
+          "CoinDesk: Bitcoin 4-day decline + altcoin rotation collapse signals risk-off sentiment; digital credit market selloff suggests leverage unwinding"
         ],
-        "counter_view": "New fab capacity from Samsung/SK Hynix comes online faster than expected, flooding DRAM market and collapsing ASP by late 2026.",
-        "expression": "Long MU (Micron Technology), hedge with put ratio on SPY; or MU outperformance vs. SPY (ratio trade)"
+        "counter_view": "Fed may cut rates sooner than priced if inflation data softens; tech earnings remain robust; Strait closure is posturing (US dispute suggests low probability); AI capex growth offsets debt burden.",
+        "expression": "Short XLK 3-month call spreads (sell 5-10% OTM calls, buy 10-15% OTM calls); Long DXY June 2026 contract; or Long TLT (20+ Yr Treasury ETF) pairs trade vs. Short XLK."
       },
       {
-        "thesis": "BTC/USD holds >$65k through June 2026 as institutional adoption (Schwab prediction markets, Franklin Templeton dividend ETF, SpaceX/billionaire wealth narrative) provides bid; retest of 2021 ATH ($69k) becomes consensus by Q4 2026.",
-        "horizon": "30–90 days for directional, 180 days for ATH target",
+        "thesis": "Long BTC spot / Bitcoin perpetual futures on 3–6 month horizon; institutional adoption via Franklin Templeton dividend-yield ETF + Schwab prediction markets de-risks regulatory tail; macro geopolitical premium justified.",
+        "horizon": "3–6 months",
         "supporting_signals": [
-          "CoinDesk: Bitcoin narrative as 'revolutionary as smartphone'; institutional ETF products proliferating",
-          "Franklin Templeton: Dividend-to-BTC conversion ETF signals liability-driven institutional inflows",
-          "CNBC: SpaceX/Musk wealth narrative drives billionaire asset allocation"
+          "CoinDesk: Franklin Templeton proposes ETF turning corporate dividends into BTC (novel institutional wrapper)",
+          "CoinDesk: Schwab entering prediction markets with S&P 500 event-based options (retail mainstream adoption signal)",
+          "CoinDesk: 'AI is making crypto security cheaper, faster and harder to ignore' (infrastructure inflection)",
+          "CNBC: CoinDesk president of indices bullish: 'Bitcoin's future as revolutionary as smartphone; don't count out bitcoin'"
         ],
-        "counter_view": "Macro shock (Fed hawkish surprise, geopolitical escalation Israel/Hezbollah, recession) crushes risk appetite and BTC retests $45k by Q3 2026.",
-        "expression": "Long BTC spot (or BTC USD perps on Binance/Hyperliquid), hedge with long-duration USD or VIX calls"
+        "counter_view": "Iran crisis could trigger risk-off liquidations; USD strength from tech debt issuance headwinds BTC; altcoin rotation collapse suggests retail capitulation and lower lows coming; regulatory crackdown risk (US/EU stablecoin rules).",
+        "expression": "Long BTC spot (25–50% core allocation) + Long GBTC or iShares Bitcoin Mini Trust (IBIT) for tax efficiency; or Long BTC June perps at 2x leverage (capped position size 10% of account)."
       },
       {
-        "thesis": "SOL outperforms BTC/ETH through September 2026 as memory shortage and AI buildout reward high-throughput, low-latency chains; TAO (Bittensor) and HYPE (Hyperliquid) as leveraged plays on same macro.",
-        "horizon": "60–150 days",
+        "thesis": "Long Solana (SOL) / Short ETH on relative basis; Solana ecosystem consolidating (Pudgy Penguins NFT retail expansion to Target signals mainstream consumer adoption); DeFi stress (Strive selloff) benefits leaner L1 architectures.",
+        "horizon": "2–4 months",
         "supporting_signals": [
-          "Crypto trending: SOL, HYPE, TAO all top movers concurrently",
-          "CoinDesk: Smart-contract and DeFi coins lead losses (short-term pain, but consolidation sets up breakout)",
-          "Memory crisis + AI capex = infrastructure play, not L1 war of token narrative"
+          "Cointelegraph: Pudgy Penguins expanding retail via Target trading card rollout (mainstream NFT/gaming crossover validation)",
+          "CoinDesk: Digital credit market selloff (Strive); DeFi/smart-contract coins lead losses; suggests flight to simpler, faster chains (Solana strength vs. Ethereum complexity)",
+          "Trending crypto: Solana (SOL) in top 6 trending; Backpack (BP) [Solana-native wallet] also trending"
         ],
-        "counter_view": "Ethereum Shanghai/Dencun upgrades and staking yield resurgence drive ETH/BTC outperformance; SOL congestion or security incidents trigger relative underperformance.",
-        "expression": "Long SOL/BTC ratio, or long SOL with short ETH/BTC hedge; or long HYPE/TAO as levered exposure"
+        "counter_view": "Ethereum Dencun upgrade enables rollup scaling, reducing fee advantage of Solana; Solana's historical network stability concerns resurface; DeFi dominance remains Ethereum-centric by TVL.",
+        "expression": "Long SOL spot (or SOLUSD perps, 1–2x leverage) / Short ETH spot (or ETHUSD perps) as calendar pairs trade; or isolate via Backpack (BP) token if liquidity permits."
       },
       {
-        "thesis": "SNAP food restriction rollout (spreading to more states) will pressure packaged-food and beverage names (especially sugar/processed); long defensive food staples (MO, KO, PEP), short junky consumer discretionary through 2026.",
-        "horizon": "90–180 days",
+        "thesis": "Long USDC yield (via Compound, Aave, or vanilla stablecoin staking); Fed holds rates through mid-2026; geopolitical premium (Iran, Bolivia unrest, Ukraine) favors risk-free yield over speculative assets.",
+        "horizon": "60–90 days",
         "supporting_signals": [
-          "CNBC: SNAP restrictions spreading; food giants watching; consumers shifting spend away from soda, candy, processed foods",
-          "Policy momentum suggests continued SNAP tightening through 2026 state budgets"
+          "BBC: Iran Strait of Hormuz closure + Bolivia state of emergency + Ukraine-Poland tensions = geopolitical scatter; flight-to-safety premium building",
+          "CNBC: Fed tightening bias via tech bond-market watch and elevated rates environment; no near-term cuts signaled",
+          "CoinDesk: Digital credit market selloff, leverage liquidations; USDC yield providers (Compound, Aave) historically stable during stress"
         ],
-        "counter_view": "SNAP restrictions prove politically unpopular in swing states; rollback accelerates and consumer spending on restricted items rebounds; momentum reverts.",
-        "expression": "Long MO (Altria / tobacco), short IYK (iShares U.S. Food & Beverage ETF) or specific positions in sugary snack names; or long KO relative to PepsiCo (cleaner portfolio)"
+        "counter_view": "Fed cuts rates by 50bp+ if inflation cools sharply; stablecoin yield compression if TVL rotates back to risk assets post-geopolitical resolution; Lido/Curve wars erode Compound/Aave rates.",
+        "expression": "Deposit USDC into Compound cUSDC or Aave aUSDC; target 3–4% annual yield; or use Yearn (yvUSDC) for simplified farming exposure. Size at 5–10% of portfolio (risk: smart contract / credit risk)."
       }
     ]
   }
