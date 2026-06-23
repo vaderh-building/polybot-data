@@ -1,69 +1,83 @@
 {
-  "generated_at_utc": "2026-06-23T15:44:40.952176+00:00",
+  "generated_at_utc": "2026-06-23T22:08:12.589160+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Cerebras falls 8% after chipmaker forecasts shrinking margin in first earnings report since IPO",
+        "summary": "Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.",
+        "link": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
+        "published": "Tue, 23 Jun 2026 21:14:35 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
+        "summary": "SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say.",
+        "link": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
+        "published": "Tue, 23 Jun 2026 21:29:33 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
+        "summary": "Alphabet will replace Verizon in the Dow Jones Industrial Average.",
+        "link": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
+        "published": "Tue, 23 Jun 2026 22:00:07 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
         "summary": "Though the firm's manufacturing index ran better than expected for June, it came largely from an inventory rebuild and despite sharp job cuts.",
         "link": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
-        "published": "Tue, 23 Jun 2026 14:49:04 GMT"
+        "published": "Tue, 23 Jun 2026 16:40:57 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables",
-        "summary": "Meta executives have said they see the lightweight smart glasses as a step towards a more advanced device that includes screens in the lenses.",
-        "link": "https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html",
-        "published": "Tue, 23 Jun 2026 13:23:27 GMT"
+        "title": "FedEx posts strong earnings results in last quarter with freight business",
+        "summary": "FedEx posted strong fiscal fourth quarter earnings on Tuesday in the company's last quarter that included the freight business before its spin-off.",
+        "link": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html",
+        "published": "Tue, 23 Jun 2026 21:58:31 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "SpaceX stock climbs 2% after falling below $150 debut price",
-        "summary": "Gains have been pared back at the space and AI company following an initial surge after its record-breaking IPO.",
-        "link": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
-        "published": "Tue, 23 Jun 2026 14:36:31 GMT"
+        "title": "PGA Tour CEO Brian Rolapp unveils sweeping changes to professional golf",
+        "summary": "Changes to the PGA Tour are designed to elevate competition and raise payouts for winners.",
+        "link": "https://www.cnbc.com/2026/06/23/pga-tour-changes.html",
+        "published": "Tue, 23 Jun 2026 18:31:27 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
-        "summary": "The U.S. issued a sweeping rollback of sanctions on Iranian oil, offering Tehran an economic lifeline as negotiations toward a peace deal proceed.",
-        "link": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
-        "published": "Tue, 23 Jun 2026 14:56:38 GMT"
+        "title": "House expected to pass affordable housing bill, send it to Trump's desk",
+        "summary": "The House on Tuesday could give final passage to a bill aimed at lowering costs for homebuyers and reining in private equity.",
+        "link": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
+        "published": "Tue, 23 Jun 2026 21:42:23 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Sen. Cassidy plans to push 'big idea' for Social Security reform in last days in office",
-        "summary": "As Social Security faces an imminent funding shortfall, Sen. Bill Cassidy said he has come up with a plan to invest in the stock market on the program's behalf.",
-        "link": "https://www.cnbc.com/2026/06/23/social-security-reform-cassidy.html",
-        "published": "Tue, 23 Jun 2026 14:47:27 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Progressive Brad Lander’s surging bid for Congress splinters Democrats' labor union alliance",
-        "summary": "Rep. Dan Goldman, D-N.Y., is fighting for his political life in a race with Brad Lander, who is backed by Mayor Zohran Mamdani and Sen. Bernie Sanders, I-Vt.",
-        "link": "https://www.cnbc.com/2026/06/23/new-york-elections-democrats-congress-dan-goldman-brad-lander.html",
-        "published": "Tue, 23 Jun 2026 14:50:59 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "'I like their money': Trump threatens lawsuits against ABC for reporting on Reflecting Pool",
-        "summary": "The latest action against ABC comes as the broadcaster faces two investigations from the Federal Communications Commission.",
-        "link": "https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html",
-        "published": "Tue, 23 Jun 2026 13:23:18 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump administration to loan $17 billion to speed deployment of 10 big nuclear reactors in U.S.",
-        "summary": "The loans will support the construction of five projects that each host two big nuclear reactors.",
-        "link": "https://www.cnbc.com/2026/06/23/trump-administration-to-loan-17-billion-to-build-10-nuclear-reactors.html",
-        "published": "Tue, 23 Jun 2026 15:41:31 GMT"
+        "title": "Senate backs Iran war powers resolution as GOP pressure grows on Trump's deal to end war",
+        "summary": "Senate Republicans want more details on Trump’s Iran deal as questions swirl around sanctions relief, nuclear restrictions and congressional approval.",
+        "link": "https://www.cnbc.com/2026/06/23/thune-congress-vote-trump-iran-deal.html",
+        "published": "Tue, 23 Jun 2026 20:51:52 GMT"
       },
       {
         "source": "BBC World",
         "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
         "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
         "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 14:37:11 GMT"
+        "published": "Tue, 23 Jun 2026 16:27:17 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+        "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+        "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 23 Jun 2026 21:04:11 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+        "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
+        "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 23 Jun 2026 16:47:45 GMT"
       },
       {
         "source": "BBC World",
@@ -71,13 +85,6 @@
         "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
         "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
         "published": "Tue, 23 Jun 2026 14:55:31 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-        "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-        "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 12:14:58 GMT"
       },
       {
         "source": "BBC World",
@@ -89,9 +96,9 @@
       {
         "source": "BBC World",
         "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
-        "summary": "Edgar Lungu's family and the Zambian government remain in dispute 12 months after he died.",
+        "summary": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
         "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 12:02:29 GMT"
+        "published": "Tue, 23 Jun 2026 17:30:44 GMT"
       },
       {
         "source": "BBC World",
@@ -102,17 +109,31 @@
       },
       {
         "source": "BBC World",
-        "title": "Irish government to contribute £197m to cross-border rail services",
-        "summary": "The money will come from the last allocation from the Irish government's Shared Island Fund.",
-        "link": "https://www.bbc.co.uk/news/articles/cd95yd1y050o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 13:39:03 GMT"
+        "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
+        "summary": "The former Louisiana inmate argued his Rastafarian faith was violated after prison officials focibly shaved off his hair.",
+        "link": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 23 Jun 2026 15:57:29 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Trump anticipates better relationship with Colombia under new leader",
-        "summary": "Abelardo de la Espriella, who preliminary results suggest is Colombia's next president, had Trump's endorsement.",
-        "link": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 10:27:04 GMT"
+        "source": "CoinDesk",
+        "title": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
+        "published": "Tue, 23 Jun 2026 21:54:10 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Meta is developing a prediction market app called ‘Arena’ as sector booms: NYT",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
+        "published": "Tue, 23 Jun 2026 17:54:32 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "BNY sees 'FOMO' driving asset managers into tokenized funds",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/23/bny-sees-fomo-driving-asset-managers-into-tokenized-funds",
+        "published": "Tue, 23 Jun 2026 16:34:34 +0000"
       },
       {
         "source": "CoinDesk",
@@ -150,32 +171,11 @@
         "published": "Tue, 23 Jun 2026 13:45:22 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-may-need-to-plunge-15-or-more-to-mark-bottom-according-to-this-long-time-indicator",
-        "published": "Tue, 23 Jun 2026 13:08:31 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
-        "published": "Tue, 23 Jun 2026 13:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "In Clarity Act's final weeks, its path through U.S. Senate not getting much clearer",
-        "summary": "",
-        "link": "https://www.coindesk.com/news-analysis/2026/06/22/in-clarity-act-s-final-weeks-its-path-through-u-s-senate-not-getting-much-clearer",
-        "published": "Tue, 23 Jun 2026 13:00:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
-        "summary": "Bitcoin stayed volatile while bulls tried to preserve support at local lows while stocks prepared for Micron forward earnings and digested Asia losses.",
-        "link": "https://cointelegraph.com/markets/bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Tue, 23 Jun 2026 15:15:41 GMT"
+        "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
+        "summary": "Burnham brings a dose of optimism to the UK crypto industry, having previously supported the blockchain industry as mayor of Manchester.",
+        "link": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "published": "Tue, 23 Jun 2026 22:00:00 GMT"
       }
     ],
     "chinese_news": [
@@ -239,59 +239,59 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Steam Machine launches today",
-        "summary": "score: 1808, comments: 1537",
-        "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-        "score": 1808
+        "title": "F3",
+        "summary": "score: 560, comments: 125",
+        "link": "https://github.com/future-file-format/f3",
+        "score": 560
       },
       {
         "source": "Hacker News",
-        "title": "GLM-5.2 – How to Run Locally",
-        "summary": "score: 509, comments: 239",
-        "link": "https://unsloth.ai/docs/models/glm-5.2",
-        "score": 509
-      },
-      {
-        "source": "Hacker News",
-        "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-        "summary": "score: 303, comments: 161",
-        "link": "https://arxiv.org/abs/2606.16140",
-        "score": 303
-      },
-      {
-        "source": "Hacker News",
-        "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-        "summary": "score: 257, comments: 71",
+        "title": "Unlimited OCR: One-shot long-horizon parsing",
+        "summary": "score: 415, comments: 96",
         "link": "https://github.com/baidu/Unlimited-OCR",
-        "score": 257
+        "score": 415
       },
       {
         "source": "Hacker News",
-        "title": "Will It Mythos?",
-        "summary": "score: 238, comments: 176",
-        "link": "https://swelljoe.com/post/will-it-mythos/",
-        "score": 238
+        "title": "The deadly rise of giant trucks and SUVs",
+        "summary": "score: 310, comments: 505",
+        "link": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
+        "score": 310
       },
       {
         "source": "Hacker News",
-        "title": "Spying on kids to save kids from spying is stupid",
-        "summary": "score: 189, comments: 128",
-        "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-        "score": 189
+        "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+        "summary": "score: 288, comments: 58",
+        "link": "https://tikz.dev/editor/",
+        "score": 288
       },
       {
         "source": "Hacker News",
-        "title": "Plotnine",
-        "summary": "score: 170, comments: 54",
-        "link": "https://plotnine.org/",
-        "score": 170
+        "title": "The Coming Loop",
+        "summary": "score: 266, comments: 205",
+        "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+        "score": 266
       },
       {
         "source": "Hacker News",
-        "title": "Mistral OCR 4",
-        "summary": "score: 126, comments: 38",
-        "link": "https://mistral.ai/news/ocr-4/",
-        "score": 126
+        "title": "Jerry's Map",
+        "summary": "score: 245, comments: 29",
+        "link": "http://www.jerrysmap.com/the-map",
+        "score": 245
+      },
+      {
+        "source": "Hacker News",
+        "title": "FUTO Swipe – A new swipe typing model",
+        "summary": "score: 141, comments: 45",
+        "link": "https://swipe.futo.tech/",
+        "score": 141
+      },
+      {
+        "source": "Hacker News",
+        "title": "Swift Package Index joins Apple",
+        "summary": "score: 137, comments: 42",
+        "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+        "score": 137
       }
     ],
     "crypto_trending": [
@@ -309,9 +309,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Arcium (ARX)",
-        "summary": "market cap rank: 329",
-        "link": "https://www.coingecko.com/en/coins/arcium"
+        "title": "Collector Crypt (CARDS)",
+        "summary": "market cap rank: 324",
+        "link": "https://www.coingecko.com/en/coins/collector-crypt"
       },
       {
         "source": "CoinGecko Trending",
@@ -321,149 +321,149 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Arcium (ARX)",
+        "summary": "market cap rank: 349",
+        "link": "https://www.coingecko.com/en/coins/arcium"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 117",
-        "link": "https://www.coingecko.com/en/coins/lighter"
+        "title": "Bittensor (TAO)",
+        "summary": "market cap rank: 42",
+        "link": "https://www.coingecko.com/en/coins/bittensor"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 114",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Venice Token (VVV)",
+        "summary": "market cap rank: 87",
+        "link": "https://www.coingecko.com/en/coins/venice-token"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $62,000 on or before July 31, 2026?",
+        "market_title": "Will Bitcoin close above $65,000 on June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "BTC dropped below $60K amid SpaceX selloff and Fed rate signals; Deutsche Bank and Cointelegraph flag 15% further downside risk, creating asymmetric odds if support holds.",
-        "signal_source": "Cointelegraph (Bitcoin teases $62K breakdown), CoinDesk (Fed/ETF/AI pressures), SpaceX $600B wipeout ripple effect"
+        "why_now": "Deutsche Bank signals Fed/ETF/AI pressures pushing BTC below $60k; multi-year holder selling at 19-month low suggests capitulation bottom near, creating asymmetric upside if cycle inflects.",
+        "signal_source": "CoinDesk (Deutsche Bank analysis); Cointelegraph (OG holder spending low, Sept 2026 cycle bottom flagged)"
       },
       {
-        "market_title": "Will the Federal Reserve cut rates by at least 75 basis points total by December 31, 2026?",
+        "market_title": "Will Ethereum close above $3,500 by September 30, 2026?",
+        "venue": "Polymarket",
+        "why_now": "Ethereum Foundation cutting 40% budget and 20% staff signals contraction; leadership exodus may depress sentiment short-term, but protocol strength and ETH/BTC ratio divergence historically recovers post-exodus.",
+        "signal_source": "CoinDesk (EF budget cut, staff reduction)"
+      },
+      {
+        "market_title": "Will Trump's Iran deal avoid Senate rejection by August 31, 2026?",
         "venue": "Kalshi",
-        "why_now": "Factory job cuts neared crisis/Covid levels (S&P manufacturing), Fed pivot signals mounting; market currently prices partial easing—extreme labor weakness may force aggressive action.",
-        "signal_source": "CNBC (June job cuts near financial crisis levels), CoinDesk (Fed pressures on BTC), macro context"
+        "why_now": "GOP Senate pressure mounting on deal details (sanctions relief, nuclear restrictions); Rubio stance signals hawkish pushback; deal's survival hinges on congressional approval dynamics.",
+        "signal_source": "BBC (Senate backs Iran war powers resolution; GOP pressure on Trump deal)"
       },
       {
-        "market_title": "Will Ethereum close 2026 trading at or below $2,000?",
-        "venue": "Polymarket",
-        "why_now": "Ethereum Foundation cutting budget 40%, 20% staff cuts, leadership exodus; narrative shift from growth to contraction in a major L1 foundation.",
-        "signal_source": "CoinDesk (Vitalik announces 40% budget cut, 20% staff layoffs, leadership exodus)"
-      },
-      {
-        "market_title": "Will Meta's new smart glasses product generate >$500M in annualized revenue by June 30, 2027?",
+        "market_title": "Will SpaceX's valuation exceed $200 billion by December 31, 2026?",
         "venue": "Manifold",
-        "why_now": "Meta launches $299 smart glasses; Zuckerberg pushing wearables as stepping stone to AR lenses—early commercial signal with low bar for investor sentiment test.",
-        "signal_source": "CNBC (Meta announces new smart glasses starting $299, Zuckerberg wearables push)"
+        "why_now": "Recent $25B debt raise post-IPO signals investor appetite and strong order book ($90B); debt capital structure typically precedes equity revaluation rounds in growth-phase privates.",
+        "signal_source": "CNBC (SpaceX $25B debt sale, $90B orders)"
       },
       {
-        "market_title": "Will the U.S. Senate pass a Social Security reform bill involving equity market investment by December 31, 2026?",
-        "venue": "Kalshi",
-        "why_now": "Sen. Cassidy planning 'big idea' Social Security stock market reform in final days; imminent funding shortfall + potential lame-duck window creates narrow legislative window.",
-        "signal_source": "CNBC (Cassidy Social Security stock market reform plan)"
+        "market_title": "Will Alphabet outperform Verizon by >500 bps through end-2026?",
+        "venue": "Polymarket",
+        "why_now": "Alphabet's inclusion in Dow replacing Verizon signals institutional rotation into mega-cap tech; market repricing Verizon downward while tech momentum remains strong.",
+        "signal_source": "CNBC (Alphabet added to DJIA, replacing Verizon)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will SpaceX's public stock price close above $200 by September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Yahoo Finance or official SpaceX IPO listing closing price",
-        "why_underpriced": "SpaceX fell below $150 debut after record IPO surge; market currently pricing in sharp correction, but tokenized share demand exceeded $1B—institutional FOMO may drive recovery if nuclear loan ($17B) accelerates deployment narrative.",
-        "trigger_signal": "SpaceX $600B market cap wipeout (Cointelegraph), but underlying demand signals (tokenized shares oversubscribed) suggest contrarian long setup"
-      },
-      {
-        "question": "Will Iran's crude oil exports exceed 2.5M barrels per day by November 30, 2026?",
-        "deadline": "2026-11-30",
-        "resolution_source": "U.S. Energy Information Administration (EIA) weekly petroleum status report or Reuters/Bloomberg oil flows data",
-        "why_underpriced": "U.S. issued sweeping Iran oil sanctions waivers, unlocking billions in revenue; market has not fully priced in ramping Iranian supply, potential downward pressure on oil prices and petro-currency strength.",
-        "trigger_signal": "BBC (Iran sanctions rollback, 42+ ships through Strait of Hormuz in single day), though Iran-nuclear inspection commitments remain unclear"
-      },
-      {
-        "question": "Will the EU's digital euro pilot launch with live transaction capability by March 31, 2027?",
-        "deadline": "2027-03-31",
-        "resolution_source": "European Central Bank official announcement or ECB press release confirming live pilot phase start",
-        "why_underpriced": "EU committee advanced digital euro bill with offline/online capability, privacy safeguards; crypto market underestimates central bank stablecoin regulatory precedent—early launch signals accelerated CBDC timeline globally.",
-        "trigger_signal": "Cointelegraph (EU committee advances digital euro bill after key vote)"
-      },
-      {
-        "question": "Will Chainlink's (LINK) token price exceed $50 by August 31, 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "CoinGecko or CoinMarketCap daily closing price (USD)",
-        "why_underpriced": "Chainlink teams up with 47 South Korean + European banks for cross-border money transfer infrastructure; enterprise adoption signal bullish for oracle/interop thesis but retail sentiment lags institutional deal flow.",
-        "trigger_signal": "CoinDesk (Chainlink 47-bank partnership for intl. money transfers), banking infrastructure acceleration in Asia-Europe corridor"
-      },
-      {
-        "question": "Will Oracle (ORCL) stock close above $250 by December 31, 2026?",
+        "question": "Will the Ethereum Foundation's budget cuts delay a major protocol upgrade scheduled for 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Yahoo Finance or official ORCL closing price",
-        "why_underpriced": "Oracle laid off ~21K employees (36Kr/CoinDesk digest); layoff scale rivals NVDA/Meta, yet Oracle's AI pivot (database, cloud infra) less visible in narrative than competitors—potential undervaluation if supply-chain demand (AI data centers) sustains.",
-        "trigger_signal": "36Kr (Oracle ~21K layoffs), but broader AI capex cycle may offset headcount cuts"
+        "resolution_source": "Ethereum roadmap official announcements; ethereum.org; Ethereum Research forums",
+        "why_underpriced": "Market conflates budget/staff cuts with capability loss, but EF is non-core; protocol development is community-driven; cuts signal discipline rather than architectural risk.",
+        "trigger_signal": "CoinDesk (EF 40% budget cut, 20% staff exodus); Vitalik public statements on priorities"
+      },
+      {
+        "question": "Will Meta's 'Arena' prediction market reach 1 million monthly active users by September 30, 2026?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Meta earnings calls; app store ranking data (Apple App Store, Google Play); Meta investor relations",
+        "why_underpriced": "Meta has 3B+ monthly users; points-based betting (not money) removes regulatory friction; Zuckerberg's direct order signals priority; prediction markets are hot (Roubini pivot, Chainlink banks).",
+        "trigger_signal": "CoinDesk/Cointelegraph (Meta developing Arena, Zuckerberg moneyless prediction market order); prediction market sector boom (Roubini tokenization, Chainlink bank partnerships)"
+      },
+      {
+        "question": "Will US factory job losses in July-August 2026 exceed June's crisis-level cuts?",
+        "deadline": "2026-09-15",
+        "resolution_source": "S&P Global Manufacturing PMI; Bureau of Labor Statistics (BLS) non-farm payroll data",
+        "why_underpriced": "June saw crisis/Covid-level job cuts masked by inventory rebuild; forward guidance weak; recession signals compound; market pricing is too sanguine on labor resilience.",
+        "trigger_signal": "CNBC (S&P: factory cuts near financial crisis/Covid levels; manufacturing PMI beat driven by inventory, not demand)"
+      },
+      {
+        "question": "Will the House-passed affordable housing bill secure Trump's signature by October 31, 2026?",
+        "deadline": "2026-10-31",
+        "resolution_source": "White House official announcements; Congress.gov bill tracking; official Trump statements",
+        "why_underpriced": "Bill targets private equity restraint and homebuyer cost relief—Trump has populist instincts on housing; margins on realty/credit sensitive; signing would boost 2026 mid-year sentiment.",
+        "trigger_signal": "CNBC (House expected to pass affordable housing bill, send to Trump's desk)"
+      },
+      {
+        "question": "Will Cerebras' gross margins recover above 40% by Q4 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Cerebras quarterly earnings reports (SEC filings, investor relations)",
+        "why_underpriced": "Recent 8% drop on margin compression guidance; IPO timing (May 2026) suggests early revenue scaling phase; pureplay AI chip exposure; margin recovery trajectory is market-sensitive but achievable with volume ramp.",
+        "trigger_signal": "CNBC (Cerebras fell 8% on margin shrinkage forecast in first earnings post-IPO)"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long USD/commodity baskets via DXY on Iran sanctions rollback creating near-term petro-supply shock; rebalance into energy names (XLE) if Strait of Hormuz crude flow exceeds 3M bbl/day by August.",
-        "horizon": "60-90 days (June-August 2026)",
+        "thesis": "Bitcoin capitulation cycle bottom in sight (likely Sep 2026); multi-year holder selling at 19-month lows + halving model convergence create asymmetric entry for 6-month horizon.",
+        "horizon": "6 months (May–November 2026)",
         "supporting_signals": [
-          "BBC: 42+ ships transiting Strait of Hormuz in single day post-US-Iran deal",
-          "U.S. sanctions waiver unlock billions in Iranian revenue",
-          "Normalized Iranian supply pressures oil prices, supports USD strength vs. commodity currencies"
+          "Cointelegraph: OG Bitcoin holder spending at 19-month low",
+          "Cointelegraph: Halving model flags September 2026 as potential market bottom date",
+          "CoinDesk: Deutsche Bank signals Fed/ETF/AI pressures depressing BTC below $60k"
         ],
-        "counter_view": "Iran cannot ramp production quickly due to sanctions-era underinvestment; global demand weakness (manufacturing job cuts) may offset supply gains, keeping oil range-bound.",
-        "expression": "Long DXY (Dollar Index ETF), or pair trade: Long XLE (Energy ETF) / Short crude oil futures if flow data confirms ramp"
+        "counter_view": "Macro regime shift (higher rates, stronger USD) could extend downside; Fed pivot delayed to late 2026 or 2027; geopolitical tail risks (Iran deal collapse, renewed Middle East escalation) could spike volatility downward.",
+        "expression": "BTC long via spot or 3-month call spreads (strike: $62.5k / $67.5k); or BTC/USD perps at 5–10x leverage, target $70k+ by Sep 2026"
       },
       {
-        "thesis": "Short BTC/long volatility (buy BTC put spreads or short perps) until Fed signals explicit rate cut path; $60K support tested by AI capex rotation and margin flush, expect 15% downside to $51K before summer low.",
-        "horizon": "30-45 days (June-July 2026)",
+        "thesis": "Ethereum Foundation retrenchment (40% budget cut, 20% staff exodus) is capitulation selling opportunity; protocol layer + community development remain intact; ETH/BTC ratio bottoming.",
+        "horizon": "4–6 months (May–October 2026)",
         "supporting_signals": [
-          "CoinDesk: Deutsche Bank flags Fed, ETF, AI pressures on BTC; 15% plunge indicator triggered",
-          "Cointelegraph: SpaceX $600B wipeout (tech equity selloff), BTC support at $60K threatened",
-          "CNBC: Factory job cuts neared crisis levels, but Fed rate guidance remains hawkish (no imminent cuts priced)"
+          "CoinDesk: Ethereum Foundation cuts 40% budget, major leadership exodus",
+          "CoinDesk: Vitalik Buterin confirms reset; institutional narrative shifts from drawdown to discipline",
+          "Crypto market: ETH underperforming BTC despite Layer 2 growth, Dencun roadmap maturation"
         ],
-        "counter_view": "BTC historically bottoms ahead of Fed cuts by 6-8 weeks; if inflation data rolls over, market reprices cuts faster than fed funds futures, causing short squeeze above $65K.",
-        "expression": "Short BTC perps (1-2x leverage) on Bybit/Dydx, or buy OTM BTC put spreads (Jun/Jul expiry, 55K/50K strikes) if IV still compressed"
+        "counter_view": "EF exodus signals protocol governance fragility; Layer 2 fragmentation may persist; Solana/competing L1s stealing developer mindshare; regulatory uncertainty on staking could suppress ETH yield.",
+        "expression": "ETH long via 3-month call spreads (strike: $2.8k / $3.3k); or ETH/BTC ratio long (target 0.08–0.09 by Sep 2026)"
       },
       {
-        "thesis": "Long ETH/BTC ratio on Foundation budget cuts + leadership exodus signaling protocol-level risk re-pricing; Ethereum increasingly viewed as legacy L1, ratio compressed vs. risk-adjusted fundamentals.",
-        "horizon": "45-90 days (July-September 2026)",
+        "thesis": "Prediction market sector boom (Meta Arena, Roubini tokenization pivot, Chainlink bank integrations) signals imminent institutional/retail adoption wave; tokenization narrative re-entering mainstream consensus.",
+        "horizon": "3–6 months (May–November 2026)",
         "supporting_signals": [
-          "CoinDesk: Ethereum Foundation 40% budget cut, 20% staff layoffs, leadership exodus announced",
-          "Narrative shift from Ethereum growth story to contraction/consolidation",
-          "BTC dominance rising on macro (Fed uncertainty), structural ETH headwinds"
+          "CoinDesk: Meta developing Arena prediction market (moneyless, points-based); Zuckerberg direct order",
+          "CoinDesk: Crypto critic Roubini launches tokenization play (Technodollar)",
+          "CoinDesk: Chainlink partners 47 South Korean/European banks on cross-border transfers; BNY notes 'FOMO' in tokenized asset managers"
         ],
-        "counter_view": "Foundation cuts may be prudent fiscal discipline; core protocol (Dencun, EOF upgrades) proceeds without foundation funding—developer exodus may be temporary, ratio recovers if rollups (Arbitrum, Optimism) momentum continues.",
-        "expression": "Long ETH/BTC ratio via spot (sell BTC, buy ETH equal notional) or use perpetual ratio futures if available; alternatively, long ETH short vol (if IV curve inverted)"
+        "counter_view": "Regulatory backlash on prediction markets (especially if real-money bets proliferate); market saturation (already >100 prediction platforms); Meta's Arena may cannibalize Polymarket/Kalshi rather than expand TAM.",
+        "expression": "Long Chainlink (LINK) spot or 3-month calls; or long tokenization-exposed crypto basket (LINK, Polygon, Avalanche); or construct synthetic long via Solana (SOL) if viewing prediction market infra as Solana-ecosystem play"
       },
       {
-        "thesis": "Long consumption hardware names (AR/VR, smart glasses TAM) on Meta $299 smart glasses launch; near-term margin pressure but 2027 revenue upside priced too low; Meta premium to Snap justified by wearables narrative.",
-        "horizon": "90-180 days (August 2026–February 2027)",
+        "thesis": "US labor market compression (factory job cuts at crisis/Covid levels, inventory-driven PMI beat masking demand weakness) telegraphs mid-2026 recession; equities frontrun Fed cut cycle—sell duration, buy volatility.",
+        "horizon": "2–4 months (May–August 2026)",
         "supporting_signals": [
-          "CNBC: Meta announces $299 smart glasses, Zuckerberg pushing wearables as AR pathway",
-          "36Kr: Chinese VC forum indicates AI hardware (consumption + robotics) entering consensus phase post-hype",
-          "Hacker News: Steam Machine launch, consumer hardware discussion spiking (1800+ score)"
+          "CNBC: S&P reports June factory job cuts near financial crisis/Covid levels despite PMI beat",
+          "CNBC: Inventory rebuild driving PMI, not organic demand",
+          "Macro context: Fed policy lag + forward guidance suggest tightening bias through Q3 2026"
         ],
-        "counter_view": "Smart glasses adoption curve historically slower than expected (Glass, Hololens); battery life, app ecosystem, killer use case still unclear—$299 price point may canibalize iPad/tablet, not generate incremental revenue.",
-        "expression": "Long META stock (or META calls, 3-6 month expiry, 10-15% OTM), or long specific hardware suppliers (e.g., MU for NAND supply to Meta manufacturing if they ramp)"
+        "counter_view": "Seasonal factory weakness; inventory rebuild precursor to demand spike; Fed may cut sooner than market prices; geopolitical de-escalation (Iran deal, Strait of Hormuz normalization) could unlock growth repricing.",
+        "expression": "Short SPY via 2-month put spreads (strike: $520 / $500); or buy VIX calls (strike: 22); or short 10-year Treasuries duration via long TLT puts"
       },
       {
-        "thesis": "Long nuclear infrastructure via TMF/IVN on $17B U.S. government loan for 10 reactors; de-risking capex for utilities, accelerates deployment timeline, supports uranium/nuclear narrative through 2026-27.",
-        "horizon": "120-180 days (August 2026–February 2027)",
+        "thesis": "Alphabet's inclusion in DJIA + Verizon's exclusion signals mega-cap tech rotation completing; AI/infrastructure outflow from telecom into semiconductor/AI-native software; Mag 7 cluster tightens around NVDA, MSFT, GOOGL.",
+        "horizon": "3–6 months (May–November 2026)",
         "supporting_signals": [
-          "CNBC: Trump administration loans $17B to speed 10 big nuclear reactors (5 projects × 2 reactors each)",
-          "Narrative: AI data centers driving power demand, nuclear as clean/baseload solution",
-          "Policy: Bipartisan nuclear support (loan extends across administrations)"
+          "CNBC: Alphabet added to DJIA, Verizon removed; institutional index tracking forces capital reallocation",
+          "Market structure: Mag 7 dominance, AI capex cycle (SpaceX, semiconductor demand via Cerebras/Nvidia)",
+          "36Kr + Chinese context: Pinduoduo buying real estate in Xiong'an (capex signal); Chinese AI competition heating up"
         ],
-        "counter_view": "Nuclear construction timelines have historically slipped; permitting, labor shortages, supply-chain constraints may delay deployment beyond 2026-27; loan capital may not fully deploy for 2-3 years.",
-        "expression": "Long uranium ETF (URA, URG) or buy call options on nuclear-exposed utilities (NEE, DUK 6-month calls); alternatively, long infrastructure/renewable energy ETF (ICLN) weighted toward nuclear component"
+        "counter_view": "Valuations of Mag 7 already stretched; regulatory scrutiny on Big Tech antitrust; geopolitical US-China AI sanctions could reverse capital flows; Verizon dividend yield attractive for rotation-weary portfolios.",
+        "expression": "Long NVDA vs. VZ (pairs trade); or long QQQ (Nasdaq 100) vs. IJR (Russell 2000); or long AI-adjacent semiconductor ETF (SOXX) via 3-month call spreads"
       }
     ]
   }
