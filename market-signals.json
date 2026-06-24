@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-06-23T22:08:12.589160+00:00",
+  "generated_at_utc": "2026-06-24T08:18:45.184305+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Cerebras falls 8% after chipmaker forecasts shrinking margin in first earnings report since IPO",
+        "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose",
+        "summary": "Two candidates backed by the Democratic Socialist of America won their primaries, a year after the DSA-backed Zohran Mamdani won New York mayor's race.",
+        "link": "https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html",
+        "published": "Wed, 24 Jun 2026 03:56:45 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Ukraine is raising the cost of war for Russia — and testing Putin's resolve",
+        "summary": "A string of political victories and deep-strike successes has bolstered confidence in Ukraine amid its long-running war with Russia.",
+        "link": "https://www.cnbc.com/2026/06/24/ukraine-russia-drone-strikes-moscow-escalation.html",
+        "published": "Wed, 24 Jun 2026 05:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Brent falls below $76, notching its lowest level since day before U.S.-Iran war",
+        "summary": "U.S. President Donald Trump intensified pressure on oil companies to lower gasoline prices following the recent decline in crude.",
+        "link": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
+        "published": "Wed, 24 Jun 2026 08:17:40 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Defense stocks plummet after Germany to scrap warship plans; Rheinmetall stock down 13%",
+        "summary": "Berlin is planning to scrap a multi-billion-euro project to build the F126 frigates, according to the Financial Times.",
+        "link": "https://www.cnbc.com/2026/06/24/rheinmetall-stock-defense-germany-warship-scrap-plans.html",
+        "published": "Wed, 24 Jun 2026 07:53:25 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Defense giant KNDS plans IPO in Paris and Frankfurt",
+        "summary": "KNDS plans to list shares in Paris and Frankfurt, with current shareholders expected to sell up to 20% of existing share capital.",
+        "link": "https://www.cnbc.com/2026/06/24/knds-ipo-paris-frankfurt.html",
+        "published": "Wed, 24 Jun 2026 06:53:21 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Asia tech stocks rebound after global rout; Samsung jumps 9%",
+        "summary": "Asia's technology stocks mostly rebounded on Wednesday amid choppy trading following a global selloff in the previous session.",
+        "link": "https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html",
+        "published": "Wed, 24 Jun 2026 08:02:22 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates",
+        "summary": "Morgan Stanley has sharply raised its outlook for China's humanoid robotics market, as early commercial deployment in real-world scenarios accelerated.",
+        "link": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
+        "published": "Wed, 24 Jun 2026 06:39:10 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO",
         "summary": "Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.",
         "link": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
-        "published": "Tue, 23 Jun 2026 21:14:35 GMT"
+        "published": "Tue, 23 Jun 2026 22:11:21 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
-        "summary": "SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say.",
-        "link": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
-        "published": "Tue, 23 Jun 2026 21:29:33 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
-        "summary": "Alphabet will replace Verizon in the Dow Jones Industrial Average.",
-        "link": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
-        "published": "Tue, 23 Jun 2026 22:00:07 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
-        "summary": "Though the firm's manufacturing index ran better than expected for June, it came largely from an inventory rebuild and despite sharp job cuts.",
-        "link": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
-        "published": "Tue, 23 Jun 2026 16:40:57 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "FedEx posts strong earnings results in last quarter with freight business",
-        "summary": "FedEx posted strong fiscal fourth quarter earnings on Tuesday in the company's last quarter that included the freight business before its spin-off.",
-        "link": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html",
-        "published": "Tue, 23 Jun 2026 21:58:31 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "PGA Tour CEO Brian Rolapp unveils sweeping changes to professional golf",
-        "summary": "Changes to the PGA Tour are designed to elevate competition and raise payouts for winners.",
-        "link": "https://www.cnbc.com/2026/06/23/pga-tour-changes.html",
-        "published": "Tue, 23 Jun 2026 18:31:27 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "House expected to pass affordable housing bill, send it to Trump's desk",
-        "summary": "The House on Tuesday could give final passage to a bill aimed at lowering costs for homebuyers and reining in private equity.",
-        "link": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
-        "published": "Tue, 23 Jun 2026 21:42:23 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Senate backs Iran war powers resolution as GOP pressure grows on Trump's deal to end war",
-        "summary": "Senate Republicans want more details on Trump’s Iran deal as questions swirl around sanctions relief, nuclear restrictions and congressional approval.",
-        "link": "https://www.cnbc.com/2026/06/23/thune-congress-vote-trump-iran-deal.html",
-        "published": "Tue, 23 Jun 2026 20:51:52 GMT"
+        "source": "BBC World",
+        "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+        "summary": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+        "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 03:57:59 GMT"
       },
       {
         "source": "BBC World",
@@ -74,10 +81,17 @@
       },
       {
         "source": "BBC World",
-        "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-        "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
-        "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 16:47:45 GMT"
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
+        "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 05:07:55 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+        "summary": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
+        "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 01:42:43 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +102,66 @@
       },
       {
         "source": "BBC World",
-        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-        "summary": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
-        "link": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 11:10:06 GMT"
+        "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+        "summary": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
+        "link": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 00:00:06 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
-        "summary": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
-        "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 17:30:44 GMT"
+        "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
+        "summary": "Ahmed al Ahmed tackled one of the gunmen who killed 15 people at a Jewish event in December.",
+        "link": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 04:06:51 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Spider which uses spring trap to capture prey discovered in Australia",
-        "summary": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented.",
-        "link": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 10:05:53 GMT"
+        "source": "CoinDesk",
+        "title": "CryptoQuant says Michael Saylor's Strategy should halt its bitcoin buying",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/24/strategy-should-pause-its-bitcoin-buying-and-rebuild-cash-cryptoquant-says",
+        "published": "Wed, 24 Jun 2026 08:15:18 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
-        "summary": "The former Louisiana inmate argued his Rastafarian faith was violated after prison officials focibly shaved off his hair.",
-        "link": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 23 Jun 2026 15:57:29 GMT"
+        "source": "CoinDesk",
+        "title": "Trump lands in Senate's crosshairs over $500 million UAE investment in his crypto venture",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/06/24/trump-lands-in-senate-s-crosshairs-over-usd500-million-uae-investment-in-his-crypto-venture",
+        "published": "Wed, 24 Jun 2026 07:18:21 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin’s ‘OG’ investors have slowed selling in a bullish sign for the market",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-s-og-investors-have-slowed-selling-in-a-bullish-sign-for-the-market",
+        "published": "Wed, 24 Jun 2026 06:39:41 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Live markets: Bitcoin could drop to $59,000 in the short-term as liquidity dries up",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up",
+        "published": "Wed, 24 Jun 2026 05:13:27 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin drops toward $62,000 as the chip selloff deepens for a second day",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-drops-toward-usd62-000-as-the-chip-selloff-deepens-for-a-second-day",
+        "published": "Wed, 24 Jun 2026 04:33:03 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
+        "published": "Wed, 24 Jun 2026 03:00:34 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "AI chipmaker Cerebras down 11% after first public earnings report",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report",
+        "published": "Tue, 23 Jun 2026 22:58:44 +0000"
       },
       {
         "source": "CoinDesk",
@@ -122,220 +171,171 @@
         "published": "Tue, 23 Jun 2026 21:54:10 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Meta is developing a prediction market app called ‘Arena’ as sector booms: NYT",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
-        "published": "Tue, 23 Jun 2026 17:54:32 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "BNY sees 'FOMO' driving asset managers into tokenized funds",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/23/bny-sees-fomo-driving-asset-managers-into-tokenized-funds",
-        "published": "Tue, 23 Jun 2026 16:34:34 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
-        "published": "Tue, 23 Jun 2026 15:40:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset",
-        "published": "Tue, 23 Jun 2026 15:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
-        "published": "Tue, 23 Jun 2026 14:54:17 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief",
-        "published": "Tue, 23 Jun 2026 14:01:44 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
-        "published": "Tue, 23 Jun 2026 13:45:22 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
-        "summary": "Burnham brings a dose of optimism to the UK crypto industry, having previously supported the blockchain industry as mayor of Manchester.",
-        "link": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Tue, 23 Jun 2026 22:00:00 GMT"
+        "title": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
+        "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
+        "link": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "published": "Wed, 24 Jun 2026 07:17:46 GMT"
       }
     ],
     "chinese_news": [
       {
         "source": "36氪 36Kr",
-        "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
-        "summary": "<p>AI不是一阵风，它正在变成地平线。而地平线的意思是——你看不到它的尽头，但它一直在那里。</p>\n  <p>当下AI热潮涌动，行业共识尚未形成，但真正的机遇往往诞生在共识之前。接下来就让我们进入比共识更早一步 AI 创投的真实棋局圆桌论坛 !</p>\n  <p>以下为圆桌对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_2b9ea055c8c54ad4a4566b9764479d7e@6381723_oswg3361412oswg4800oswg3200_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>巴芮｜暗涌副主编（主持人）</p>\n  <p>朱天宇｜蓝驰创投 管理合伙人</p>\n  <p>秦深涛｜OriginFlow创始人&amp;CEO</p>\n  <p>&nbsp;</p>\n  <p>巴芮：大家好！我们这场对谈的主题",
-        "link": "https://36kr.com/p/3865630193030145?f=rss",
-        "published": "2026-06-23 18:43:59  +0800"
+        "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_238ebf0c7c0b42f4844ffa0ffeebda4d@6381723_oswg132679oswg1280oswg853_img_jpeg?x-oss-process=imag",
+        "link": "https://36kr.com/p/3866900608701449?f=rss",
+        "published": "2026-06-24 16:17:52  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "只租办公室的拼多多，在雄安买了一栋楼",
-        "summary": "<p>扎堆雄安的互联网大厂又多了一个。</p>\n  <p>6月21日，拼多多集团与中国电建完成正式签约，通过整体购置方式持有雄安·电建智汇城数字新消费电商产业园的办公楼。</p>\n  <p><strong>这是拼多多第一次“买楼”。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_c815ca07f207412385280760daf46836@6208419_oswg7050370oswg2830oswg1981_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">雄安新区产业园</p>\n  <p>拼多多自2015年9月正式成立上线以来，尽管已经发展到了约2.55万员工，超4300亿营收，但它始终采取轻资产办公模式，坚持不买楼、不盖楼。目前拼多多所在的办公地，包括金虹桥国际中心、艺丰中心、晶耀虹桥、星展银行大厦等",
-        "link": "https://36kr.com/p/3865625576297476?f=rss",
-        "published": "2026-06-23 18:38:04  +0800"
+        "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>6月17日下午，WAVES2026新浪潮大会进行了一场圆桌对话，主题为「生命的新算法——AI+医疗圆桌」。</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_55c57425ed5b4581b5aa461fdb50c2d",
+        "link": "https://36kr.com/p/3866854221698313?f=rss",
+        "published": "2026-06-24 15:31:56  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "以“高导热+高强韧”镁合金切入机器人等高端制造领域，「宜镁华」完成数千万元天使轮融资｜36氪首发",
-        "summary": "<p><strong>36氪获悉，「宜镁华」近期宣布完成数千万元天使轮融资。本轮融资由星河创投与华中实业集团投资。资金将用于产能建设、研发投入和团队扩充等。</strong></p>\n  <p>宜镁华专注于镁合金材料研发，零部件开发设计与零部件产品制造，背靠上海交通大学轻合金精密成型国家工程研究中心，自研高导高强合金设计技术、超高导热复材设计及界面调控技术与半固态注塑成型工艺，切入机器人关节电机模组、外骨骼、汽车结构件等高附加值场景，目前已与包含头部机器人本体厂商在内的超10家机器人本体、零部件厂商开展合作，确定镁合金替代产品超15种，并且获得多个汽车领域客户定点。</p>\n  <p>公司创始人兼CEO程轩挺是上海交通大学材料工程硕士、复旦大学MBA，拥有20余年汽车行业产业化经验，曾主导技术产业化项目实现年营收超16亿元，后创立苏州和健汽车科技成功开发吉利、智己等头部客户。</p>\n  <h2><strong>以配方和工艺创新，突破镁合金性能局限</strong></h2>\n  <p>“新能源汽车变得越来越重，加上各种智能硬件，每辆车上市时实际重量都远超最初设定，所以轻量化成了车企必",
-        "link": "https://36kr.com/p/3864082158785539?f=rss",
-        "published": "2026-06-23 18:22:21  +0800"
+        "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
+        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_1bfb748fc2ad4e5cb8c6455bd993f82e@6381723_oswg633088oswg832oswg555_img_png?x-oss-process=image/",
+        "link": "https://36kr.com/p/3866787672773888?f=rss",
+        "published": "2026-06-24 14:39:25  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "WAVES 2026：盛夏的这场讨论，留下了创投圈值得反复回看的观点",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_9427f8ffef054a8b84bd93a42d8d980b@6381723_oswg330867oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_7214795004444c09a3a590e4888a2006@6381723_oswg798oswg900oswg60_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>WAVES 2026汇聚众多投资人、产业领袖与创业者，围绕AI与产业未来展开深度对话。嘉宾核心观点现集中呈现。</p>\n  <p class=\"image-wrapper\"><i",
-        "link": "https://36kr.com/p/3865596826768643?f=rss",
-        "published": "2026-06-23 18:09:10  +0800"
+        "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
+        "summary": "<p>本文约1100字，建议阅读3分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月24日，仙工智能（06106.HK）正式在港交所敲钟上市，开盘平开，报101.6港元，随后一路拉升，<strong>最高冲到140.50（+38.3%）。</strong>之后回落，截至发稿报115.70港元，<strong>仍涨13.88%</strong>。振幅38.29%，成交5.33亿，市值127.8亿港元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_16a304a6303841b1aee9cfffbc91f7d2@430412560_oswg669681oswg1080oswg2341_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>按这个市值算，其去年4.42亿元收入，静态市销率已升到约25倍，成为港股估值最贵的机器人新股。全球AMR第一的极智嘉约9倍，",
+        "link": "https://36kr.com/p/3866666733835522?f=rss",
+        "published": "2026-06-24 12:17:53  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "回到没有AI的那一天，寻找第一性原理 | WAVES2026",
-        "summary": "<p>我们不妨想一下，如果有一天，AI突然消失了，我们会失去什么？这个问题不是为了制造恐慌，而是为了让我们想清楚：我们今天投AI，到底是在投它的能力，还是投它背后的人性需求？接下来这个环节当中，回到没有AI的那一天，去找第一性原理。上一场李丰的演讲给了我们一个思考的起点，现在，我们要把它变成一场辩论。</p>\n  <p>以下为圆桌对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_ae781c0abfe44965a28d9597055d2437@5452796_oswg116849oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：Waves现场</p>\n  <p>海若镜｜暗涌副主编（主持人）</p>\n  <p>王鹤宇｜CMC AI创意基金</p>\n  <p>张毅｜",
-        "link": "https://36kr.com/p/3865565708752134?f=rss",
-        "published": "2026-06-23 17:44:46  +0800"
+        "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
+        "summary": "<p>2026年6月16日，36氪2026 WAVES 新浪潮大会在广州番禺良仓新造创意园开幕。以下这场圆桌论坛是大会首日下午的收官议题，探讨 AI 时代 OPC（One Person Company）的真实生态。</p>\n  <p>八九十年代，一辆三轮车、一个摊位，就能撑起一门生意。今天的 OPC 看起来形似，但底层逻辑已经彻底不同。</p>\n  <p>过去个体户的杠杆是体力、经验和地理位置，本质上是基于本地的 LBS 服务，脱不开那个具体的摊位。今天 OPC 的杠杆是代码和媒体——边际成本几乎为零的杠杆，加上 AI 带来的生产力平权，让一个人第一次拥有了接近公司的交付能力。</p>\n  <p>这场圆桌汇集了 OPC 生态的上中下游：已经跑出商业闭环的 OPC 创业者、每天和年轻创业者打交道的高校创新创业负责人、云计算和底层算力平台的专家。几个值得关注的行业趋势在讨论中浮出水面：</p>\n  <p>第一，云的用户画像正在发生迁移，云平台的产品逻辑也在随之重构。阿里云今年2月的用户调研发现，传统“写代码的开发者”仅占现场用户的20%，产品与运营背景的人已占35%，企业主占21%。基础设",
+        "link": "https://36kr.com/p/3866649515938825?f=rss",
+        "published": "2026-06-24 12:00:08  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026",
-        "summary": "<p>消费硬件曾经一度被投资人“冷落”，因为它太慢、太重、太不性感。但现在，一批新的消费硬件正在从无声到轰鸣。它们不靠故事，靠体验。不靠流量，靠复购。相信之后，是产品。这一场，我们来看一看那些被“最早相信的人”投出来的硬件，长成了什么样子。</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_652e5fcf43e34e90b8d8dc59e4d4b73d@6381723_oswg11426935oswg4743oswg3162_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>刘可心｜深渡资本 创始合伙人（主持人）</p>\n  <p>郑华良｜跃迁资本 创始合伙人</p>\n  <p>梁昊｜云启资本 执行董事</p>\n  <p>余乐｜绿动资本 管理合伙人</p>\n  <p>高俊巍｜复星锐正 董事总经理</p>\n  ",
-        "link": "https://36kr.com/p/3865523201692931?f=rss",
-        "published": "2026-06-23 16:56:37  +0800"
+        "title": "主题圆桌: 迎风而立的人，那些漂洋过海寻找的答案｜36氪WAVES2026新浪潮",
+        "summary": "<p>&nbsp;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪 · <strong>暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为演讲内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_5ac747e8d37b4c149a5c5a4dd5f1bb28@6381723_oswg125754oswg1280oswg853_img_jpeg?x-oss-proces",
+        "link": "https://36kr.com/p/3866622738060553?f=rss",
+        "published": "2026-06-24 11:38:08  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "氪星晚报｜索尼集团计划近三十年来首次发行美元债券；甲骨文上财年裁员约2.1万；豆包发布2.1 Pro模型",
-        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3864942405129479\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>甲骨文上财年裁员约2.1万</strong></a></p>\n  <p>甲骨文上财年裁员约2.1万，减员规模大于此前已知水平，其中包括因使用人工智能（AI）而被取消的岗位。甲骨文周一在年度财务监管申报文件中称：“我们在各项业务中采用和部署AI技术，已经导致并且未来可能继续导致员工人数减少。”</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3864949184484611\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>英伟达宣布Vera Rubin NVL4系统Q4起供货</strong></a></p>\n  <p>6月22日，英伟达宣布推出Vera Rubin超级计算平台，用于支撑气候建模",
-        "link": "https://36kr.com/p/3865513055540481?f=rss",
-        "published": "2026-06-23 16:47:50  +0800"
+        "title": "主题演讲：全密态计算，破解AI时代的数据安全难题 | 36氪WAVES2026新浪潮",
+        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪 <strong>· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_a039e58af8784995a0c37f3dc58c8b9f@6381723_oswg1056582oswg1280oswg852_img_png?x-oss-process=imag",
+        "link": "https://36kr.com/p/3866604451845377?f=rss",
+        "published": "2026-06-24 11:14:46  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_48405f90b9744f9eb67076c5b18af9aa@6381723_oswg836377oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_fb53918e55b4414c9c44f9fe3e13cac1@6381723_oswg798oswg900oswg60_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>有智青年挑战赛暨全国AI+场景应用大赛决赛在WAVES新浪潮大会期间举行，汇聚多支青年团队围绕AI与数字经济前沿场景展开角逐，展现青年创业者的技术探索与落地能力。</p>\n  <",
-        "link": "https://36kr.com/p/3865480064504835?f=rss",
-        "published": "2026-06-23 16:16:45  +0800"
+        "title": "微信AI助手小微，还有许多做不到的事情｜产品观察",
+        "summary": "<p>文｜王毓婵</p>\n  <p>编辑｜张雨忻</p>\n  <p>微信AI助手“小微”正在灰度内测，36氪智能涌现拿到了首批测试资格。</p>\n  <p>先说结论：一些简单操作，小微做得没那么好；一些复杂操作，小微反而做得比较好。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_7e8467cfb6264eccacf2caf69ddf2edb@10269314_oswg76481oswg1170oswg420_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小微入口</p>\n  <p>小微的服务主要基于微信自研模型WeLM，部分回答可能会调用DeepSeek来处理。主入口在微信首页左上角，默认交互方式是语音转文字，亦可直接手动打字输入。</p>\n  <p>小微会默认开启记忆能力、个性化服务和授权帮助模型改进效果。用户也可以在",
+        "link": "https://36kr.com/p/3865425714795525?f=rss",
+        "published": "2026-06-24 10:00:00  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "F3",
-        "summary": "score: 560, comments: 125",
-        "link": "https://github.com/future-file-format/f3",
-        "score": 560
-      },
-      {
-        "source": "Hacker News",
-        "title": "Unlimited OCR: One-shot long-horizon parsing",
-        "summary": "score: 415, comments: 96",
-        "link": "https://github.com/baidu/Unlimited-OCR",
-        "score": 415
-      },
-      {
-        "source": "Hacker News",
-        "title": "The deadly rise of giant trucks and SUVs",
-        "summary": "score: 310, comments: 505",
-        "link": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
-        "score": 310
-      },
-      {
-        "source": "Hacker News",
-        "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-        "summary": "score: 288, comments: 58",
-        "link": "https://tikz.dev/editor/",
-        "score": 288
-      },
-      {
-        "source": "Hacker News",
-        "title": "The Coming Loop",
-        "summary": "score: 266, comments: 205",
-        "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-        "score": 266
+        "title": "FUTO Swipe – A new swipe typing model",
+        "summary": "score: 509, comments: 157",
+        "link": "https://swipe.futo.tech/",
+        "score": 509
       },
       {
         "source": "Hacker News",
         "title": "Jerry's Map",
-        "summary": "score: 245, comments: 29",
+        "summary": "score: 452, comments: 52",
         "link": "http://www.jerrysmap.com/the-map",
-        "score": 245
+        "score": 452
       },
       {
         "source": "Hacker News",
-        "title": "FUTO Swipe – A new swipe typing model",
-        "summary": "score: 141, comments: 45",
-        "link": "https://swipe.futo.tech/",
-        "score": 141
+        "title": "In memory of the man who put red and green squiggles under words",
+        "summary": "score: 349, comments: 49",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+        "score": 349
+      },
+      {
+        "source": "Hacker News",
+        "title": "Printing Gaussian Splats",
+        "summary": "score: 280, comments: 30",
+        "link": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+        "score": 280
+      },
+      {
+        "source": "Hacker News",
+        "title": "Vulnerability reports are not special anymore",
+        "summary": "score: 239, comments: 129",
+        "link": "https://words.filippo.io/vuln-reports/",
+        "score": 239
       },
       {
         "source": "Hacker News",
         "title": "Swift Package Index joins Apple",
-        "summary": "score: 137, comments: 42",
+        "summary": "score: 201, comments: 66",
         "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-        "score": 137
+        "score": 201
+      },
+      {
+        "source": "Hacker News",
+        "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+        "summary": "score: 160, comments: 93",
+        "link": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+        "score": 160
+      },
+      {
+        "source": "Hacker News",
+        "title": "Rhombus Language 1.0",
+        "summary": "score: 151, comments: 37",
+        "link": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+        "score": 151
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Rain (RAIN)",
-        "summary": "market cap rank: 13",
-        "link": "https://www.coingecko.com/en/coins/rain"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Collector Crypt (CARDS)",
-        "summary": "market cap rank: 324",
+        "summary": "market cap rank: 314",
         "link": "https://www.coingecko.com/en/coins/collector-crypt"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
+        "title": "Solstice (SLX)",
+        "summary": "market cap rank: 361",
+        "link": "https://www.coingecko.com/en/coins/solstice"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 116",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Grass (GRASS)",
+        "summary": "market cap rank: 136",
+        "link": "https://www.coingecko.com/en/coins/grass"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Arcium (ARX)",
-        "summary": "market cap rank: 349",
+        "summary": "market cap rank: 377",
         "link": "https://www.coingecko.com/en/coins/arcium"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 42",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
+        "title": "Audiera (BEAT)",
+        "summary": "market cap rank: 86",
+        "link": "https://www.coingecko.com/en/coins/audiera"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 87",
-        "link": "https://www.coingecko.com/en/coins/venice-token"
+        "title": "Siren (SIREN)",
+        "summary": "market cap rank: 319",
+        "link": "https://www.coingecko.com/en/coins/siren-2"
       }
     ]
   },
@@ -344,126 +344,126 @@
       {
         "market_title": "Will Bitcoin close above $65,000 on June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "Deutsche Bank signals Fed/ETF/AI pressures pushing BTC below $60k; multi-year holder selling at 19-month low suggests capitulation bottom near, creating asymmetric upside if cycle inflects.",
-        "signal_source": "CoinDesk (Deutsche Bank analysis); Cointelegraph (OG holder spending low, Sept 2026 cycle bottom flagged)"
+        "why_now": "Bitcoin dropped toward $62k amid chip selloff; CryptoQuant warns of $59k floor; OG accumulation signal bullish but short-term liquidity stress evident.",
+        "signal_source": "CoinDesk live markets + CryptoQuant analysis"
       },
       {
-        "market_title": "Will Ethereum close above $3,500 by September 30, 2026?",
-        "venue": "Polymarket",
-        "why_now": "Ethereum Foundation cutting 40% budget and 20% staff signals contraction; leadership exodus may depress sentiment short-term, but protocol strength and ETH/BTC ratio divergence historically recovers post-exodus.",
-        "signal_source": "CoinDesk (EF budget cut, staff reduction)"
-      },
-      {
-        "market_title": "Will Trump's Iran deal avoid Senate rejection by August 31, 2026?",
+        "market_title": "Will the US pass a CBDC ban until 2030 by July 31, 2026?",
         "venue": "Kalshi",
-        "why_now": "GOP Senate pressure mounting on deal details (sanctions relief, nuclear restrictions); Rubio stance signals hawkish pushback; deal's survival hinges on congressional approval dynamics.",
-        "signal_source": "BBC (Senate backs Iran war powers resolution; GOP pressure on Trump deal)"
+        "why_now": "House-passed housing bill with CBDC ban clause now awaits Trump signature; crypto PAC momentum strong with Maryland win; regulatory certainty narrative growing.",
+        "signal_source": "Cointelegraph + CoinDesk Congress tracking"
       },
       {
-        "market_title": "Will SpaceX's valuation exceed $200 billion by December 31, 2026?",
-        "venue": "Manifold",
-        "why_now": "Recent $25B debt raise post-IPO signals investor appetite and strong order book ($90B); debt capital structure typically precedes equity revaluation rounds in growth-phase privates.",
-        "signal_source": "CNBC (SpaceX $25B debt sale, $90B orders)"
-      },
-      {
-        "market_title": "Will Alphabet outperform Verizon by >500 bps through end-2026?",
+        "market_title": "Will NVDA close 2026 above $120?",
         "venue": "Polymarket",
-        "why_now": "Alphabet's inclusion in Dow replacing Verizon signals institutional rotation into mega-cap tech; market repricing Verizon downward while tech momentum remains strong.",
-        "signal_source": "CNBC (Alphabet added to DJIA, replacing Verizon)"
+        "why_now": "Global chip selloff ongoing; Cerebras (AI chip pureplay) down 11% post-IPO earnings; but Morgan Stanley raises China humanoid robot shipment forecast sharply.",
+        "signal_source": "CNBC earnings + Morgan Stanley equity research"
+      },
+      {
+        "market_title": "Will Ethereum/Bitcoin ratio exceed 0.055 by September 30, 2026?",
+        "venue": "Manifold",
+        "why_now": "Asia tech rebound (Samsung +9%) signals risk-on; Cerebras IPO weakness suggests AI chip correction; but StarkWare privacy innovation and MiCA stablecoin adoption indicate layer-2/L1 differentiation.",
+        "signal_source": "CoinDesk + Cointelegraph ecosystem news"
+      },
+      {
+        "market_title": "Will the Senate hold hearings on Trump-UAE $500M crypto deal by August 31, 2026?",
+        "venue": "Polymarket",
+        "why_now": "Senate Democrats formally urged probe; Roubini tokenization entry signals legitimization; World Liberty Financial under scrutiny but bipartisan crypto acceptance rising.",
+        "signal_source": "Cointelegraph Senate news + CoinDesk political tracking"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the Ethereum Foundation's budget cuts delay a major protocol upgrade scheduled for 2026?",
+        "question": "Will crude oil (Brent) close below $70/barrel on July 31, 2026?",
+        "deadline": "2026-07-31",
+        "resolution_source": "ICE Brent front-month settlement price",
+        "why_underpriced": "Trump actively pressuring oil companies to lower prices; Brent already at lowest since pre-Iran escalation ($76); but geopolitical tail risk (Strait of Hormuz, Ukraine) not fully priced.",
+        "trigger_signal": "CNBC oil market news; Rubio warnings; US-Iran deal shipping surge (42 ships Saturday)"
+      },
+      {
+        "question": "Will the China humanoid robotics market ship >500,000 units in 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Ethereum roadmap official announcements; ethereum.org; Ethereum Research forums",
-        "why_underpriced": "Market conflates budget/staff cuts with capability loss, but EF is non-core; protocol development is community-driven; cuts signal discipline rather than architectural risk.",
-        "trigger_signal": "CoinDesk (EF 40% budget cut, 20% staff exodus); Vitalik public statements on priorities"
+        "resolution_source": "Morgan Stanley equity research report or China robotics industry association shipment data",
+        "why_underpriced": "Morgan Stanley doubled forecast as commercialization accelerates; but consensus still treats Chinese robotics as fringe; early real-world deployment signals ignored by Western markets.",
+        "trigger_signal": "Morgan Stanley sharply raised outlook; 36Kr WAVES 2026 AI/hardware focus; Xianggong Robotics (仙工智能) Hong Kong IPO +38.3% (06106.HK)"
       },
       {
-        "question": "Will Meta's 'Arena' prediction market reach 1 million monthly active users by September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Meta earnings calls; app store ranking data (Apple App Store, Google Play); Meta investor relations",
-        "why_underpriced": "Meta has 3B+ monthly users; points-based betting (not money) removes regulatory friction; Zuckerberg's direct order signals priority; prediction markets are hot (Roubini pivot, Chainlink banks).",
-        "trigger_signal": "CoinDesk/Cointelegraph (Meta developing Arena, Zuckerberg moneyless prediction market order); prediction market sector boom (Roubini tokenization, Chainlink bank partnerships)"
-      },
-      {
-        "question": "Will US factory job losses in July-August 2026 exceed June's crisis-level cuts?",
-        "deadline": "2026-09-15",
-        "resolution_source": "S&P Global Manufacturing PMI; Bureau of Labor Statistics (BLS) non-farm payroll data",
-        "why_underpriced": "June saw crisis/Covid-level job cuts masked by inventory rebuild; forward guidance weak; recession signals compound; market pricing is too sanguine on labor resilience.",
-        "trigger_signal": "CNBC (S&P: factory cuts near financial crisis/Covid levels; manufacturing PMI beat driven by inventory, not demand)"
-      },
-      {
-        "question": "Will the House-passed affordable housing bill secure Trump's signature by October 31, 2026?",
+        "question": "Will MiCA-regulated stablecoin transaction volume in EU exceed $50 billion (30-day rolling) by October 31, 2026?",
         "deadline": "2026-10-31",
-        "resolution_source": "White House official announcements; Congress.gov bill tracking; official Trump statements",
-        "why_underpriced": "Bill targets private equity restraint and homebuyer cost relief—Trump has populist instincts on housing; margins on realty/credit sensitive; signing would boost 2026 mid-year sentiment.",
-        "trigger_signal": "CNBC (House expected to pass affordable housing bill, send to Trump's desk)"
+        "resolution_source": "Glassnode or Chainalysis EU stablecoin volume dashboard",
+        "why_underpriced": "OpenPayd just secured license; CLARITY Act debate heating up; but crypto adoption in regulated zones still niche; early-mover regulatory arbitrage not yet valued.",
+        "trigger_signal": "Cointelegraph MiCA licensing news; Catholic leaders/law enforcement challenging CLARITY Act transparency"
       },
       {
-        "question": "Will Cerebras' gross margins recover above 40% by Q4 2026?",
+        "question": "Will DXY (US Dollar Index) close 2026 below 103?",
         "deadline": "2026-12-31",
-        "resolution_source": "Cerebras quarterly earnings reports (SEC filings, investor relations)",
-        "why_underpriced": "Recent 8% drop on margin compression guidance; IPO timing (May 2026) suggests early revenue scaling phase; pureplay AI chip exposure; margin recovery trajectory is market-sensitive but achievable with volume ramp.",
-        "trigger_signal": "CNBC (Cerebras fell 8% on margin shrinkage forecast in first earnings post-IPO)"
+        "resolution_source": "ICE US Dollar Index (DXY) year-end settlement",
+        "why_underpriced": "Trump-era trade pressure, oil price cuts, and Ukraine military momentum signal USD weakness; but geopolitical risk (Iran, France heatwave displacement) supports safe-haven demand.",
+        "trigger_signal": "Oil declining; Ukraine bolstering confidence; Congress breaking with Trump on Iran war powers"
+      },
+      {
+        "question": "Will any Mamdani-backed NYC Democratic candidate win a state or federal office in the November 2026 general election?",
+        "deadline": "2026-11-04",
+        "resolution_source": "NY State Board of Elections official results",
+        "why_underpriced": "3 primary wins (including Brad Lander House primary); DSA momentum in NYC post-mayoralty; but general election swing voter behavior vs. primary base divergence underestimated.",
+        "trigger_signal": "BBC/CNBC primary sweep; CLARITY Act debate on accountability suggests movement politics resonating"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Bitcoin capitulation cycle bottom in sight (likely Sep 2026); multi-year holder selling at 19-month lows + halving model convergence create asymmetric entry for 6-month horizon.",
-        "horizon": "6 months (May–November 2026)",
+        "thesis": "Short DXY / Long commodity futures (oil, gold) as Trump pressure on energy prices and Ukraine military success signal USD structural weakness through 2026-Q4.",
+        "horizon": "3-6 months",
         "supporting_signals": [
-          "Cointelegraph: OG Bitcoin holder spending at 19-month low",
-          "Cointelegraph: Halving model flags September 2026 as potential market bottom date",
-          "CoinDesk: Deutsche Bank signals Fed/ETF/AI pressures depressing BTC below $60k"
+          "Brent crude collapsed to lowest since pre-Iran escalation; Trump publicly demanding price cuts from oil companies (CNBC)",
+          "Ukraine string of political victories and deep-strike successes bolstering confidence (CNBC)",
+          "Strait of Hormuz traffic surge (42 ships Saturday) after US-Iran deal signals de-escalation and petrodollar risk-off (BBC)"
         ],
-        "counter_view": "Macro regime shift (higher rates, stronger USD) could extend downside; Fed pivot delayed to late 2026 or 2027; geopolitical tail risks (Iran deal collapse, renewed Middle East escalation) could spike volatility downward.",
-        "expression": "BTC long via spot or 3-month call spreads (strike: $62.5k / $67.5k); or BTC/USD perps at 5–10x leverage, target $70k+ by Sep 2026"
+        "counter_view": "Geopolitical shock (heatwave-driven migration crisis in France, anti-ICE riot in Texas, Bondi shooting aftermath) could reignite safe-haven demand and push USD higher.",
+        "expression": "DXY put spreads (103 strike 6-month expiry) + long GLD (gold ETF) / USO (crude ETF) equal weight"
       },
       {
-        "thesis": "Ethereum Foundation retrenchment (40% budget cut, 20% staff exodus) is capitulation selling opportunity; protocol layer + community development remain intact; ETH/BTC ratio bottoming.",
-        "horizon": "4–6 months (May–October 2026)",
+        "thesis": "Overweight China humanoid robotics / AI hardware exposure (via Hang Seng or HSI) as Morgan Stanley sharply raises commercialization forecast and 36Kr WAVES 2026 signals mainstreaming of hard tech.",
+        "horizon": "6-12 months",
         "supporting_signals": [
-          "CoinDesk: Ethereum Foundation cuts 40% budget, major leadership exodus",
-          "CoinDesk: Vitalik Buterin confirms reset; institutional narrative shifts from drawdown to discipline",
-          "Crypto market: ETH underperforming BTC despite Layer 2 growth, Dencun roadmap maturation"
+          "Morgan Stanley doubled China humanoid robot shipment forecast; early commercial deployment accelerating (CNBC)",
+          "Xianggong Robotics (仙工智能) Hong Kong IPO +38.3% on first day despite dark pool -7% break (06106.HK, 36Kr)",
+          "36Kr WAVES 2026 major theme: 'AI从技术概念走进产业深水区' (AI moving from tech concept into deep industrial waters); OPC + AI wave (36Kr)"
         ],
-        "counter_view": "EF exodus signals protocol governance fragility; Layer 2 fragmentation may persist; Solana/competing L1s stealing developer mindshare; regulatory uncertainty on staking could suppress ETH yield.",
-        "expression": "ETH long via 3-month call spreads (strike: $2.8k / $3.3k); or ETH/BTC ratio long (target 0.08–0.09 by Sep 2026)"
+        "counter_view": "Cerebras (pure-play AI chip) down 11% post-IPO; global chip selloff ongoing; margin compression in AI hardware may dampen Chinese pure-plays valuation.",
+        "expression": "HSI Hang Seng Index (Hong Kong) futures or EWH (iShares MSCI Hong Kong ETF) + selective long Xianggong-like robotics names via Alibaba or Tencent tech portfolios"
       },
       {
-        "thesis": "Prediction market sector boom (Meta Arena, Roubini tokenization pivot, Chainlink bank integrations) signals imminent institutional/retail adoption wave; tokenization narrative re-entering mainstream consensus.",
-        "horizon": "3–6 months (May–November 2026)",
+        "thesis": "Long Bitcoin but tactically underweight near-term (target $59-62k floor) as OG accumulation signals bullish macro but liquidity dries up and chip selloff cascades into crypto.",
+        "horizon": "2-4 weeks → 3 months",
         "supporting_signals": [
-          "CoinDesk: Meta developing Arena prediction market (moneyless, points-based); Zuckerberg direct order",
-          "CoinDesk: Crypto critic Roubini launches tokenization play (Technodollar)",
-          "CoinDesk: Chainlink partners 47 South Korean/European banks on cross-border transfers; BNY notes 'FOMO' in tokenized asset managers"
+          "Bitcoin 'OG' investors slowed selling (bullish signal); but CryptoQuant warns halt to Saylor/MicroStrategy buying (CoinDesk)",
+          "Bitcoin dropped toward $62k as chip selloff deepens second day (CoinDesk live markets)",
+          "CBDC ban passage near + crypto PAC $5.5M Congress wins; World Liberty Financial scrutiny pressuring sentiment short-term (CoinDesk political + Cointelegraph)"
         ],
-        "counter_view": "Regulatory backlash on prediction markets (especially if real-money bets proliferate); market saturation (already >100 prediction platforms); Meta's Arena may cannibalize Polymarket/Kalshi rather than expand TAM.",
-        "expression": "Long Chainlink (LINK) spot or 3-month calls; or long tokenization-exposed crypto basket (LINK, Polygon, Avalanche); or construct synthetic long via Solana (SOL) if viewing prediction market infra as Solana-ecosystem play"
+        "counter_view": "Senate hearings on Trump-UAE $500M deal may accelerate regulatory clarity and crypto legitimacy narrative, supporting near-term floor and upside re-acceleration.",
+        "expression": "BTC spot (buy dips to $60-62k, sell rips to $67-70k) or BTC 3-month perpetual futures (short-term hedge, long-term bull)"
       },
       {
-        "thesis": "US labor market compression (factory job cuts at crisis/Covid levels, inventory-driven PMI beat masking demand weakness) telegraphs mid-2026 recession; equities frontrun Fed cut cycle—sell duration, buy volatility.",
-        "horizon": "2–4 months (May–August 2026)",
+        "thesis": "Avoid pure-play AI chip stocks (NVDA, Cerebras) near-term; rotate into EU-regulated crypto infrastructure (OpenPayd, MiCA-eligible stablecoin platforms) as regulatory tailwind + Roubini tokenization entry validates compliance moat.",
+        "horizon": "1-3 months",
         "supporting_signals": [
-          "CNBC: S&P reports June factory job cuts near financial crisis/Covid levels despite PMI beat",
-          "CNBC: Inventory rebuild driving PMI, not organic demand",
-          "Macro context: Fed policy lag + forward guidance suggest tightening bias through Q3 2026"
+          "Cerebras down 11% after IPO earnings; global chip selloff persistent (CNBC, CoinDesk)",
+          "OpenPayd secures MiCA license; stablecoin adoption growing in Europe (Cointelegraph)",
+          "Roubini (prominent crypto critic) launches 'Technodollar' tokenization project; signals mainstream acceptance of regulated assets (CoinDesk)"
         ],
-        "counter_view": "Seasonal factory weakness; inventory rebuild precursor to demand spike; Fed may cut sooner than market prices; geopolitical de-escalation (Iran deal, Strait of Hormuz normalization) could unlock growth repricing.",
-        "expression": "Short SPY via 2-month put spreads (strike: $520 / $500); or buy VIX calls (strike: 22); or short 10-year Treasuries duration via long TLT puts"
+        "counter_view": "NVDA upside intact if China humanoid robot boom drives GPU demand; Morgan Stanley forecasts signal AI infrastructure capex not slowing.",
+        "expression": "Short NVDA calls (sell upside above $125) + long crypto infrastructure ETFs or select tokens with MiCA exposure (USDC, Kraken ecosystem proxies)"
       },
       {
-        "thesis": "Alphabet's inclusion in DJIA + Verizon's exclusion signals mega-cap tech rotation completing; AI/infrastructure outflow from telecom into semiconductor/AI-native software; Mag 7 cluster tightens around NVDA, MSFT, GOOGL.",
-        "horizon": "3–6 months (May–November 2026)",
+        "thesis": "Long political-uncertainty hedges (gold, VIX calls) through November 2026 US midterms given Mamdani DSA sweep in NYC, Senate-Trump clash on Iran war powers, and crypto PAC momentum signaling unpredictable policy outcomes.",
+        "horizon": "5-7 months",
         "supporting_signals": [
-          "CNBC: Alphabet added to DJIA, Verizon removed; institutional index tracking forces capital reallocation",
-          "Market structure: Mag 7 dominance, AI capex cycle (SpaceX, semiconductor demand via Cerebras/Nvidia)",
-          "36Kr + Chinese context: Pinduoduo buying real estate in Xiong'an (capex signal); Chinese AI competition heating up"
+          "Three Mamdani DSA-backed candidates won NYC House primaries; Brad Lander unseated Dan Goldman over Israel-Gaza (BBC, CNBC)",
+          "Congress passed war powers measure breaking with Trump over Iran for first time (BBC)",
+          "Crypto PAC $5.5M Congress picks advance; crypto allies gaining (CoinDesk)"
         ],
-        "counter_view": "Valuations of Mag 7 already stretched; regulatory scrutiny on Big Tech antitrust; geopolitical US-China AI sanctions could reverse capital flows; Verizon dividend yield attractive for rotation-weary portfolios.",
-        "expression": "Long NVDA vs. VZ (pairs trade); or long QQQ (Nasdaq 100) vs. IJR (Russell 2000); or long AI-adjacent semiconductor ETF (SOXX) via 3-month call spreads"
+        "counter_view": "Trump consolidation of Congress may accelerate and stabilize policy; pro-crypto, pro-energy executive action could reduce near-term volatility.",
+        "expression": "GLD (gold ETF) 20% + VIX 3-month call spreads (20-25 strike) 5% hedge + long DBC (commodities) 10% vs. cash 65% allocation"
       }
     ]
   }
