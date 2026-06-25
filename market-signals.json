@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-06-24T22:09:37.141935+00:00",
+  "generated_at_utc": "2026-06-25T08:18:35.250711+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Micron stock jumps 12% as soaring prices from memory crunch lead to quadrupling of revenue",
+        "title": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+        "summary": "The stern warning underscores Tehran's resolve to retain control over the Strait of Hormuz and to resist transits that bypass its authorization.",
+        "link": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html",
+        "published": "Thu, 25 Jun 2026 06:08:46 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
+        "summary": "Shares of South Korean chip giant SK Hynix surged 12% on Thursday after the company said it is seeking to raise as much as $29.4 billion.",
+        "link": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+        "published": "Thu, 25 Jun 2026 04:17:22 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill dozens",
+        "summary": "The swift U.S. offer of assistance reflects a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government.",
+        "link": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html",
+        "published": "Thu, 25 Jun 2026 07:12:37 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta",
+        "summary": "Micron said in its earnings report that its gross margin jumped to 84.9% from 39% a year ago.",
+        "link": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
+        "published": "Wed, 24 Jun 2026 22:33:45 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Oil prices erase wartime gains as supply concerns ease with Hormuz tanker traffic resuming",
+        "summary": "Oil prices fell as investors bet global crude supplies will improve, as tankers stranded in the Persian Gulf for months have begun leaving the Strait of Hormuz.",
+        "link": "https://www.cnbc.com/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html",
+        "published": "Thu, 25 Jun 2026 05:59:43 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next",
+        "summary": "The AI lab is hiring for AI data center roles in Australia and Japan as it rushes to expand compute capacity overseas.",
+        "link": "https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html",
+        "published": "Thu, 25 Jun 2026 05:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "One of India's largest gold exporters paid its managing director just $180 a month, investigators say in accounting probe",
+        "summary": "Indian authorities have found accounting discrepancies in books of Indian gold company Rajesh Exports, and owner of Swiss refiner Valcambi.",
+        "link": "https://www.cnbc.com/2026/06/25/india-rajesh-exports-investigation-accounting-irregularities-valcambi.html",
+        "published": "Thu, 25 Jun 2026 07:23:53 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue",
         "summary": "Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year.",
         "link": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
-        "published": "Wed, 24 Jun 2026 21:15:23 GMT"
+        "published": "Wed, 24 Jun 2026 22:39:58 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
-        "summary": "White House Office of Management and Budget Director Russell Vought asked House Speaker Mike Johnson for billions in extra spending for the Iran war.",
-        "link": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
-        "published": "Wed, 24 Jun 2026 21:55:39 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue",
-        "summary": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter.",
-        "link": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
-        "published": "Wed, 24 Jun 2026 20:44:53 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump meets defense CEOs as Iran operations strain U.S. missile stockpiles",
-        "summary": "The White House is pressing major defense firms to expand missile and munitions output as Iran talks and weapons stockpile concerns put new pressure on the Pentagon’s industrial base.",
-        "link": "https://www.cnbc.com/2026/06/24/trump-defense-contractors-boeing-lockheed-honeywell-weapons-production-iran.html",
-        "published": "Wed, 24 Jun 2026 21:34:36 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
-        "summary": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony.",
-        "link": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
-        "published": "Wed, 24 Jun 2026 20:35:48 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
-        "summary": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
-        "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
-        "published": "Wed, 24 Jun 2026 21:19:27 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
-        "summary": "The letter, which was obtained by CNBC, claims Alibaba carried out \"the largest known distillation attack on Anthropic to date.\"",
-        "link": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
-        "published": "Wed, 24 Jun 2026 21:18:44 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-        "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
-        "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
-        "published": "Wed, 24 Jun 2026 21:42:05 GMT"
+        "source": "BBC World",
+        "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
+        "summary": "Two quakes hit the capital seconds apart, the first at a magnitude of 7.2 and the second at 7.5.",
+        "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 25 Jun 2026 02:27:27 GMT"
       },
       {
         "source": "BBC World",
@@ -67,10 +74,24 @@
       },
       {
         "source": "BBC World",
+        "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+        "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
+        "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 25 Jun 2026 00:51:28 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Air conditioning creates political divide after France records hottest day",
         "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
         "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
         "published": "Wed, 24 Jun 2026 13:51:24 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Philippines bans video game played by alleged high school shooter",
+        "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
+        "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 22:14:12 GMT"
       },
       {
         "source": "BBC World",
@@ -81,38 +102,66 @@
       },
       {
         "source": "BBC World",
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-        "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 24 Jun 2026 13:03:35 GMT"
+        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+        "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 25 Jun 2026 03:12:17 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Biggest city in Crimea without power after Ukraine strikes",
-        "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
-        "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 24 Jun 2026 09:48:24 GMT"
+        "title": "Independent MPs launch new Australian centrist party",
+        "summary": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 25 Jun 2026 02:41:28 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "France confirms first Ebola case",
-        "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
-        "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 24 Jun 2026 15:00:52 GMT"
+        "source": "CoinDesk",
+        "title": "Forget max pain theory. Bitcoin is well below the $72,000 magnet going into $10 billion options expiry",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/25/forget-max-pain-bitcoin-is-well-below-the-usd72-000-magnet-ahead-of-usd10-billion-options-expiry",
+        "published": "Thu, 25 Jun 2026 07:24:59 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
-        "summary": "Yasmina alleges she was held along with her five children, and they were all cut off from the outside world.",
-        "link": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 24 Jun 2026 08:29:06 GMT"
+        "source": "CoinDesk",
+        "title": "Live markets: Bitcoin, ether lead $1 billion liquidation losses as AI trade keeps going",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going",
+        "published": "Thu, 25 Jun 2026 06:01:07 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Colombia's left-wing presidential candidate concedes defeat",
-        "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
-        "link": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 24 Jun 2026 15:50:22 GMT"
+        "source": "CoinDesk",
+        "title": "MemeCore's M token suddenly crashes 80% with no clear trigger",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/25/memecore-s-m-token-suddenly-crashes-80-with-no-clear-trigger",
+        "published": "Thu, 25 Jun 2026 05:35:43 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
+        "published": "Thu, 25 Jun 2026 05:02:34 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin has a new line in the sand. Thursday’s core PCE could stress test it.",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-has-a-new-line-in-the-sand-thursday-s-core-pce-could-stress-test-it",
+        "published": "Thu, 25 Jun 2026 04:53:31 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "XRP slides 2.8% as weak bounce keeps $1 support in focus",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/25/xrp-slides-2-8-as-weak-bounce-keeps-usd1-support-in-focus",
+        "published": "Thu, 25 Jun 2026 04:32:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin back above $60,000, ETH, SOL recoup losses as AI stocks stage rebound",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound",
+        "published": "Thu, 25 Jun 2026 04:29:03 +0000"
       },
       {
         "source": "CoinDesk",
@@ -122,190 +171,135 @@
         "published": "Wed, 24 Jun 2026 19:52:39 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
-        "published": "Wed, 24 Jun 2026 19:48:23 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
-        "published": "Wed, 24 Jun 2026 17:18:08 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
-        "published": "Wed, 24 Jun 2026 16:01:02 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
-        "summary": "",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
-        "published": "Wed, 24 Jun 2026 16:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
-        "published": "Wed, 24 Jun 2026 15:45:42 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Trump's refusal to sign housing bill could delay Congress and imperil Clarity Act",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/06/24/trump-refuses-to-sign-law-with-u-s-cbdc-ban-demands-approval-of-elections-bill",
-        "published": "Wed, 24 Jun 2026 15:42:51 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Ex-FCA policy insider explains the ‘great divide’ in the UK’s crypto ambition",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
-        "published": "Wed, 24 Jun 2026 15:23:07 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "FTX exec’s wife scheduled for November trial on campaign finance charges",
-        "summary": "A Manhattan judge ordered that Michelle Bond’s criminal trial start in November after he denied a motion to dismiss the indictment based on claims that prosecutors misled her husband over her charges.",
-        "link": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Wed, 24 Jun 2026 21:07:03 GMT"
+        "title": "US arbitration giant rolls out ‘legal layer’ for agentic commerce",
+        "summary": "As agentic AI transactions increase, “we need to know there’s a clear answer to what happens if something goes wrong,” said Mance Harmon, co-founder of Hedera.",
+        "link": "https://cointelegraph.com/news/ai-is-getting-a-legal-layer-as-agentic-commerce-accelerates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "published": "Thu, 25 Jun 2026 06:26:29 GMT"
       }
     ],
     "chinese_news": [
       {
         "source": "36氪 36Kr",
-        "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
-        "summary": "<h2>大公司：</h2>\n  <p><strong>华东医药：全资子公司获得注射用HDM2005药物临床试验批准通知书</strong><br />36氪获悉，华东医药公告，全资子公司杭州中美华东制药有限公司收到国家药监局核准签发的《药物临床试验批准通知书》，注射用HDM2005联合PD-1单抗和AD用于治疗经典型霍奇金淋巴瘤的临床试验申请获批。该药物为靶向ROR1的ADC药物，目前正围绕恶性肿瘤开展多适应症临床开发。本次获批将提升公司在肿瘤治疗领域的核心竞争力，但药物从临床试验到上市存在不确定性，对近期业绩无重大影响。</p>\n  <p><strong>SK海力士已提交美国IPO申请</strong></p>\n  <p>据报道，据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次公开募股（IPO）的承销商。（财联社）</p>\n  <p><strong>江西齐云山食品股份有限公司通过港交所上市聆讯</strong></p>\n  <p>36氪获悉，港交所文件显示，江西齐云山食品股份有限公司更新聆讯后资料集，意味着该公司港交所IPO通过聆",
-        "link": "https://36kr.com/p/3867032586867972?f=rss",
-        "published": "2026-06-24 18:35:25  +0800"
+        "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。</p>\n  <p>大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和模型可以在不同场景之间复用。但具身智能至今没有一个被行业公认的基础表征单元，其决定了数据如何采、模型从哪学、以及学习后是否能迁移至新场景。</p>\n  <p>过去两年，行业主流做法是让模型直接学习机器人的关节运动轨迹，即复刻某一个特定硬件在特定任务下的动作坐标。这套逻辑的问题在于，换一台机器人、换一个物体、换一个场景，模型此前所习得能力无法直接迁移复用。它学会的是“夹爪怎么抓起杯子”，而非理解“抓取”这个动作本身，即什么是抓、需要多大的力、物体受力后会怎么反应。</p>\n  <p>RoboScience机器科学创始人兼CEO田野指出，当前机器人操作面临",
+        "link": "https://36kr.com/p/3868276479710466?f=rss",
+        "published": "2026-06-25 15:42:21  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
-        "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>2026 年开年来，3D&nbsp;生成模型赛道相当热闹。</p>\n  <p>今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST&nbsp;官宣了新一轮融资，Meshy&nbsp;也紧随其后，宣称自己发布了全球首款&nbsp;3D AI Agent。</p>\n  <p>近日，影眸科技——这支扎根学术圈、创业早、年轻的&nbsp;3D&nbsp;模型团队，带着最新的技术研究成果，以及新一轮融资，再添了一把火。</p>\n  <p>这支团队创立于&nbsp;2020&nbsp;年，创始人兼&nbsp;CEO 吴迪、和联合创始人兼 CTO 张启煊以及另外两位联合创始人张龙文、曾初啸均来自上海科技大学。团队约&nbsp;60&nbsp;人，平均年龄不到&nbsp;25&nbsp;岁。</p>\n  <p>尽管看起来年轻，但在&nbsp;B&nbsp;端市场，影眸几乎站稳了头部地",
-        "link": "https://36kr.com/p/3865060112438533?f=rss",
-        "published": "2026-06-24 18:06:36  +0800"
+        "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
+        "summary": "<p>2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。</p>\n  <p>在激烈的竞争态势下，全球领先消费级 AR 品牌雷鸟创新（RayNeo）持续巩固其头部优势。Counterpoint Research、IDC、CINNO Research 三大权威机构数据一致显示，2026 年第一季度，雷鸟创新在全球及中国 AR 眼镜市场的出货量、销量均稳居第一，618 抢占国内主流电商平台 AR+智能眼镜全品类销量第一，实现上半年市场表现的“开门红”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260625/v2_f4f3a4bf33a94a6c81562191bd4250de@517825446_oswg152103oswg",
+        "link": "https://36kr.com/p/3868204527457287?f=rss",
+        "published": "2026-06-25 14:21:18  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
-        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_238ebf0c7c0b42f4844ffa0ffeebda4d@6381723_oswg132679oswg1280oswg853_img_jpeg?x-oss-process=imag",
-        "link": "https://36kr.com/p/3866900608701449?f=rss",
-        "published": "2026-06-24 16:17:52  +0800"
+        "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
+        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p><strong>李丰｜峰瑞资本 创始合伙人</strong></p>\n  <p>以下为演讲内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260625/v2_1e270c850b084048ac423ecd60e12b16@6381723_oswg61658oswg",
+        "link": "https://36kr.com/p/3868045479711745?f=rss",
+        "published": "2026-06-25 13:23:29  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
-        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>6月17日下午，WAVES2026新浪潮大会进行了一场圆桌对话，主题为「生命的新算法——AI+医疗圆桌」。</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_55c57425ed5b4581b5aa461fdb50c2d",
-        "link": "https://36kr.com/p/3866854221698313?f=rss",
-        "published": "2026-06-24 15:31:56  +0800"
+        "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
+        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260625/v2_e72cabff2f9f4b8e918fff5fdf768382@6381723_oswg79447oswg830oswg554_img_jpeg?x-oss-process=image/",
+        "link": "https://36kr.com/p/3867998907667462?f=rss",
+        "published": "2026-06-25 11:42:26  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
-        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_1bfb748fc2ad4e5cb8c6455bd993f82e@6381723_oswg633088oswg832oswg555_img_png?x-oss-process=image/",
-        "link": "https://36kr.com/p/3866787672773888?f=rss",
-        "published": "2026-06-24 14:39:25  +0800"
+        "title": "实现光学载荷批��化交付，苏州商业航天企业再获数亿元融资｜36氪首发",
+        "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>商业航天投资关注度持续向产业链上游延伸。</p>\n  <p>从押注火箭运力、卫星平台和星座运营的宏大叙事，到元器件国产化、核心部件性能跃升，具有自研技术壁垒、能够批产交付并更快跑通商业闭环的上游供应商，正成为抢手的投资标的。</p>\n  <p>36氪获悉，宇航级光学载荷研发制造商苏州吉天星舟空间技术有限公司（以下简称“吉天星舟”）已<strong>完成数亿元B轮融资，由苏高新金控、和基资本、卓璞资本、聚合资本、元禾原点、元禾厚望、致道资本、中时资本、邦盛资本等机构联合投资</strong>，资金主要用于新一代超高分辨率光学载荷及星敏感器研发、智能制造产线扩建。</p>\n  <p>吉天星舟是我们持续关注的企业，其成立5年来始终专注于一件事：<strong>光学载荷，给卫星做“眼睛”。</strong></p>\n  <p>光学载荷是遥感卫星最核心的部件，要理解它为什么重要，一个更直观的数据是产业链价值占比。在传统的遥感卫星产业链当中，卫星平台提供供电和姿控，光学载荷负责成像观测，地面系统完成数据处理，三者之中，光学载荷技术壁垒最高、",
+        "link": "https://36kr.com/p/3868029247034371?f=rss",
+        "published": "2026-06-25 11:26:07  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
-        "summary": "<p>本文约1100字，建议阅读3分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月24日，仙工智能（06106.HK）正式在港交所敲钟上市，开盘平开，报101.6港元，随后一路拉升，<strong>最高冲到140.50（+38.3%）。</strong>之后回落，截至发稿报115.70港元，<strong>仍涨13.88%</strong>。振幅38.29%，成交5.33亿，市值127.8亿港元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_16a304a6303841b1aee9cfffbc91f7d2@430412560_oswg669681oswg1080oswg2341_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>按这个市值算，其去年4.42亿元收入，静态市销率已升到约25倍，成为港股估值最贵的机器人新股。全球AMR第一的极智嘉约9倍，",
-        "link": "https://36kr.com/p/3866666733835522?f=rss",
-        "published": "2026-06-24 12:17:53  +0800"
+        "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
+        "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。</p>\n  <p>这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。</p>\n  <p>在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。</p>\n  <p>我们了解到，<strong>云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产业基金、亦庄新城实业、厚天资本、成都科创投和中丽基金</strong>，资金将主要投入于技术研发、核心产品的适航取证以及产能扩建。</p>\n  <p>去年底，我们曾报道过云际航电天使轮的融资进展，由北京经开区种子投资基金领投。</p>\n  <p>不到8个月的时间，这家国产航电黑马已完成三轮融资。</p>\n  <p>在商业",
+        "link": "https://36kr.com/p/3868030861645058?f=rss",
+        "published": "2026-06-25 11:25:46  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
-        "summary": "<p>2026年6月16日，36氪2026 WAVES 新浪潮大会在广州番禺良仓新造创意园开幕。以下这场圆桌论坛是大会首日下午的收官议题，探讨 AI 时代 OPC（One Person Company）的真实生态。</p>\n  <p>八九十年代，一辆三轮车、一个摊位，就能撑起一门生意。今天的 OPC 看起来形似，但底层逻辑已经彻底不同。</p>\n  <p>过去个体户的杠杆是体力、经验和地理位置，本质上是基于本地的 LBS 服务，脱不开那个具体的摊位。今天 OPC 的杠杆是代码和媒体——边际成本几乎为零的杠杆，加上 AI 带来的生产力平权，让一个人第一次拥有了接近公司的交付能力。</p>\n  <p>这场圆桌汇集了 OPC 生态的上中下游：已经跑出商业闭环的 OPC 创业者、每天和年轻创业者打交道的高校创新创业负责人、云计算和底层算力平台的专家。几个值得关注的行业趋势在讨论中浮出水面：</p>\n  <p>第一，云的用户画像正在发生迁移，云平台的产品逻辑也在随之重构。阿里云今年2月的用户调研发现，传统“写代码的开发者”仅占现场用户的20%，产品与运营背景的人已占35%，企业主占21%。基础设",
-        "link": "https://36kr.com/p/3866649515938825?f=rss",
-        "published": "2026-06-24 12:00:08  +0800"
+        "title": "秋声 | 紫鸟浏览器冲港股IPO，两个草根逆袭的暴利故事",
+        "summary": "<p>本文约4500字，建议阅读7分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。</p>\n   <p>鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第二期，紫讯。</p>\n  </blockquote>\n  <p>6月24日，紫讯技术（福建）股份有限公司向港交所递交了上市申请，国泰君安担任独家保荐人。和这两年扎堆赴港的未盈利18C不同，紫讯走的是主板 ——换句话说，这是一家<strong>已经实打实赚钱</strong>的公司。</p>\n  <p>紫讯招股书把自己定义为\"一家电商科技公司，致力于结合行业专业知识与AI技术来革新电商营运模式\"。开篇七个加粗数字：2023—2025年收入复合增速51.7%、经营利润复合增速145.4%、经营现金流复合增速111.1%、",
+        "link": "https://36kr.com/p/3868019442881537?f=rss",
+        "published": "2026-06-25 11:14:02  +0800"
       },
       {
         "source": "36氪 36Kr",
-        "title": "主题圆桌: 迎风而立的人，那些漂洋过海寻找的答案｜36氪WAVES2026新浪潮",
-        "summary": "<p>&nbsp;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪 · <strong>暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为演讲内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_5ac747e8d37b4c149a5c5a4dd5f1bb28@6381723_oswg125754oswg1280oswg853_img_jpeg?x-oss-proces",
-        "link": "https://36kr.com/p/3866622738060553?f=rss",
-        "published": "2026-06-24 11:38:08  +0800"
+        "title": "36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资",
+        "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。</p>\n  <p>矽迪半导体成立于2023年，主要从事功率半导体模组的研发、制造与销售，产品覆盖全碳化硅（SiC）功率模组、IGBT+SiC混合模组以及定制化功率解决方案，应用方向包括光伏储能、数据中心电源以及固态变压器等场景。</p>\n  <p>据介绍，公司目前已累计开发约60款产品，其中近50余款产品进入量产阶段，量产产品以碳化硅三电平功率模组为主，主要面向新型电力、绿色能源、智能终端三大领域供货，覆盖SST、光伏、储能、及智能充电产业链相关企业。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260625/v2_8c5d9e5c60d6461091e5df0a5a6ac",
+        "link": "https://36kr.com/p/3867975570035717?f=rss",
+        "published": "2026-06-25 10:29:39  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "We’re making Bunny DNS free",
-        "summary": "score: 794, comments: 249",
-        "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-        "score": 794
-      },
-      {
-        "source": "Hacker News",
-        "title": "There are a few things that I look back on as my mistakes in the early days",
-        "summary": "score: 442, comments: 220",
-        "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-        "score": 442
-      },
-      {
-        "source": "Hacker News",
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
-        "summary": "score: 381, comments: 264",
+        "summary": "score: 681, comments: 379",
         "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-        "score": 381
+        "score": 681
       },
       {
         "source": "Hacker News",
-        "title": "RubyLLM: A Ruby framework for all major AI providers",
-        "summary": "score: 311, comments: 47",
-        "link": "https://rubyllm.com/",
-        "score": 311
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "summary": "score: 366, comments: 618",
+        "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "score": 366
       },
       {
         "source": "Hacker News",
-        "title": "Krea 2: SOTA open-weights 12B image model",
-        "summary": "score: 298, comments: 34",
-        "link": "https://www.krea.ai/blog/krea-2-technical-report",
-        "score": 298
+        "title": "45°C cooling design cuts data center water use to near zero",
+        "summary": "score: 316, comments: 204",
+        "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+        "score": 316
       },
       {
         "source": "Hacker News",
-        "title": "Stealing Is a Skill",
-        "summary": "score: 181, comments: 117",
-        "link": "https://ben-mini.com/2026/stealing-is-a-skill",
-        "score": 181
+        "title": "Blogging can just be stating the obvious",
+        "summary": "score: 208, comments: 70",
+        "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+        "score": 208
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-        "summary": "score: 170, comments: 45",
-        "link": "https://github.com/nubjs/nub",
-        "score": 170
+        "title": "Half-Life 2 in a Browser",
+        "summary": "score: 156, comments: 47",
+        "link": "https://hl2.slqnt.dev/",
+        "score": 156
       },
       {
         "source": "Hacker News",
-        "title": "PR spam today looks like email spam in the early 2000s",
-        "summary": "score: 137, comments: 86",
-        "link": "https://www.greptile.com/blog/prs-on-openclaw",
-        "score": 137
+        "title": "LuaJIT 3.0 proposed syntax extensions",
+        "summary": "score: 142, comments: 85",
+        "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+        "score": 142
+      },
+      {
+        "source": "Hacker News",
+        "title": "Dostoyevsky isn't difficult",
+        "summary": "score: 141, comments: 140",
+        "link": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+        "score": 141
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cloudflare launched self-managed OAuth for all",
+        "summary": "score: 136, comments: 54",
+        "link": "https://blog.cloudflare.com/oauth-for-all/",
+        "score": 136
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Zano (ZANO)",
-        "summary": "market cap rank: 193",
+        "summary": "market cap rank: 197",
         "link": "https://www.coingecko.com/en/coins/zano"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Rain (RAIN)",
-        "summary": "market cap rank: 13",
-        "link": "https://www.coingecko.com/en/coins/rain"
       },
       {
         "source": "CoinGecko Trending",
@@ -315,155 +309,161 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Synapse (SYN)",
-        "summary": "market cap rank: 330",
-        "link": "https://www.coingecko.com/en/coins/synapse"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Aave (AAVE)",
-        "summary": "market cap rank: 60",
+        "summary": "market cap rank: 59",
         "link": "https://www.coingecko.com/en/coins/aave"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 112",
-        "link": "https://www.coingecko.com/en/coins/lighter"
+        "title": "MemeCore (M)",
+        "summary": "market cap rank: 68",
+        "link": "https://www.coingecko.com/en/coins/memecore"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Synapse (SYN)",
+        "summary": "market cap rank: 304",
+        "link": "https://www.coingecko.com/en/coins/synapse"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solstice (SLX)",
+        "summary": "market cap rank: 288",
+        "link": "https://www.coingecko.com/en/coins/solstice"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Nesa (NES)",
+        "summary": "market cap rank: 578",
+        "link": "https://www.coingecko.com/en/coins/nesa"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $65,000 by June 30, 2026?",
+        "market_title": "Will Bitcoin close above $65,000 on or before June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "BTC dropped below $60K amid DXY surge and spot ETF outflows; traders betting 15% relief bounce but macro headwinds (Iran war spending, Fed tightening signals) create genuine volatility.",
-        "signal_source": "Cointelegraph (BTC near $59K, DXY surges); CoinDesk (spot ETF outflows, slowing accumulation)"
+        "why_now": "Bitcoin recently bounced above $60,000 amid AI stock rebound and core PCE test; $10B options expiry Thursday creates volatility compression with $72k magnet overhead.",
+        "signal_source": "CoinDesk live markets, core PCE economic calendar impact"
       },
       {
-        "market_title": "Will Micron (MU) stock remain above $180 through Q3 2026 earnings?",
+        "market_title": "Will Micron (MU) stock remain above $150 through Q3 2026?",
         "venue": "Kalshi",
-        "why_now": "MU jumped 12% on memory crunch/revenue quadrupling; 700% YoY rally creates profit-taking risk if semiconductor cycle softens or capex plans falter mid-year.",
-        "signal_source": "CNBC (MU +12%, quadrupled revenue, 700% YTD surge)"
+        "why_now": "Micron surged 15% post-earnings on 84.9% gross margin (up from 39% YoY); memory crisis pricing power now priced in—watch for supply normalization risk.",
+        "signal_source": "CNBC earnings reports, Nasdaq equity technicals"
       },
       {
-        "market_title": "Will the Federal Reserve cut rates by ≥50bp before December 31, 2026?",
-        "venue": "Polymarket",
-        "why_now": "Fed stress test shows $708B loss resilience; White House requesting $87.6B supplemental for Iran war signals fiscal expansion pressure on inflation narrative.",
-        "signal_source": "CNBC (Fed capital stress test, supplemental spending request); macro context on rate path uncertainty"
+        "market_title": "Will the Fed cut rates at least once before September 30, 2026?",
+        "venue": "Kalshi",
+        "why_now": "Core PCE scheduled for Thursday is a key stress test; European heatwave and geopolitical tensions (Iran, Venezuela earthquakes, Trump $87B budget request) could force policy pivot.",
+        "signal_source": "Fed calendar, CNBC macro coverage, Trump defense spending announcements"
       },
       {
-        "market_title": "Will Qualcomm (QCOM) non-handset revenue exceed 45% of total by 2028?",
+        "market_title": "Will Anthropic announce a new AI data center in Japan operational by December 31, 2026?",
         "venue": "Manifold",
-        "why_now": "QCOM +15% after nearly doubling 2029 non-handset projection; validates AI/automotive pivot but execution risk in 2027-28 is real.",
-        "signal_source": "CNBC (QCOM doubled non-handset revenue projection for 2029)"
+        "why_now": "CNBC reports Anthropic is hiring AI data center roles in Australia and Japan as it races to expand compute; Japan regulatory green light likely imminent.",
+        "signal_source": "CNBC hiring/expansion coverage, Anthropic job postings"
       },
       {
-        "market_title": "Will Kalshi's valuation reach $50 billion by end of Q2 2027?",
+        "market_title": "Will Ethereum Foundation leadership shake-up result in a new CEO appointment by August 31, 2026?",
         "venue": "Manifold",
-        "why_now": "Kalshi raised valuation to $40B and is aggressively expanding (sued Illinois over July 1 restrictions); rapid growth and regulatory wins/losses will determine 2027 valuation.",
-        "signal_source": "CoinDesk (Kalshi $40B valuation, widening lead over Polymarket); Cointelegraph (Kalshi-Illinois lawsuit on prediction market restrictions)"
+        "why_now": "CoinDesk reports upheaval at Ethereum Foundation with some major names 'feeling bullish'—suggests significant governance change in motion.",
+        "signal_source": "CoinDesk Ethereum Foundation coverage"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the U.S. defense industrial base announce ≥$15 billion in new missile/munition capacity expansion by September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "SEC filings (Raytheon, Lockheed Martin, Northrop Grumman), Bloomberg/Reuters press releases",
-        "why_underpriced": "White House pressing defense CEOs for expanded output amid Iran tensions and missile stockpile concerns; market has not fully priced major capex announcements.",
-        "trigger_signal": "CNBC: Trump meets defense CEOs as Iran operations strain U.S. missile stockpiles; direct Pentagon pressure signals imminent contract awards."
+        "question": "Will Brent crude oil average above $75/barrel for the month of June 2026?",
+        "deadline": "2026-07-01",
+        "resolution_source": "Bloomberg Brent crude spot price monthly average",
+        "why_underpriced": "Hormuz tanker traffic resuming and oil prices erasing 'wartime gains,' but Iran's stern warning and Trump's $87B Iran war budget request create tail risk of renewed supply shock.",
+        "trigger_signal": "CNBC oil market coverage, geopolitical escalation risk tied to Iran tensions and Trump administration rhetoric"
       },
       {
-        "question": "Will Apple announce mass production of first foldable iPhone by September 1, 2026?",
-        "deadline": "2026-09-01",
-        "resolution_source": "Apple press release, SEC filing, or confirmed reporting by Bloomberg/WSJ/MacRumors",
-        "why_underpriced": "Chinese sources (36Kr) reporting July mass production timeline before English media; historical pattern shows iPhone foldable rumors overblown, but July date is specific.",
-        "trigger_signal": "FLAG: 36Kr reported Apple foldable iPhone mass production in late July 2026—predates English media coverage; if confirmed by Reuters/Bloomberg by late June, probability should rise sharply."
-      },
-      {
-        "question": "Will Ethereum Foundation leadership upheaval result in ≥3 C-level departures by December 31, 2026?",
+        "question": "Will Kalshi's valuation exceed $50 billion by end of 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Official Ethereum Foundation announcements, LinkedIn departures/appointments, on-chain governance disclosures",
-        "why_underpriced": "CoinDesk flagged 'upheaval' with bullish crypto sentiment, but institutional risk of fractured leadership is underpriced; resolution depends on public announcements.",
-        "trigger_signal": "CoinDesk: Upheaval at Ethereum Foundation has some of crypto's biggest names feeling bullish—suggests significant organizational changes in progress."
+        "resolution_source": "Crunchbase or official Kalshi funding announcement",
+        "why_underpriced": "Recent report of $40B valuation fundraise shows explosive momentum in regulated prediction markets; regulatory tailwind and crypto market recovery could push valuation 25%+ higher.",
+        "trigger_signal": "Cointelegraph Kalshi funding report, regulatory approval of agentic AI trading (Hedera/arbitration layer)"
       },
       {
-        "question": "Will Anthropic win a trade secret lawsuit against Alibaba by June 30, 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "U.S. court filing/judgment, arbitration award, settlement disclosure",
-        "why_underpriced": "CNBC obtained letter accusing Alibaba of largest known distillation attack on Anthropic; legal outcome carries massive AI IP precedent, but enforcement timeline is long.",
-        "trigger_signal": "CNBC: Anthropic accuses Alibaba of 'brazenly' and 'illicitly' extracting AI capabilities in largest known distillation attack; escalating AI IP tensions."
+        "question": "Will global AR smart glasses shipments exceed 15 million units in 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "IDC Worldwide Quarterly Augmented and Virtual Reality Device Tracker",
+        "why_underpriced": "36Kr reports 168.6% YoY growth in global AR market in H1 2026; China smart eyeglass sales up 161.9% YoY Jan-Mar 2026 (commercial data). Market consensus likely underestimates consumer adoption.",
+        "trigger_signal": "36Kr market data (Chinese source ahead of English consensus), Raytheon Innovation (雷鸟创新) Q1 global shipment leadership"
       },
       {
-        "question": "Will U.S. housing starts exceed 1.5M annualized units in Q3 2026?",
+        "question": "Will U.S. Congress approve Trump's $87 billion Iran war budget request by September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "U.S. Census Bureau housing starts data (monthly release, third month of Q3)",
-        "why_underpriced": "Trump canceled signing of bipartisan housing bill, signaling regulatory delay; market underestimating recession risk in housing completions vs. macro stimulus.",
-        "trigger_signal": "CNBC: Trump cancels bipartisan housing bill signing; political friction on housing policy creates near-term supply constraint uncertainty."
+        "resolution_source": "Congress.gov bill tracker, House/Senate vote records",
+        "why_underpriced": "BBC reports lawmakers 'rebuked' Trump's military action one day prior; but war costs often pass with bipartisan support once framed as defense necessity. Geopolitical escalation (Iran inspections, Venezuela relief) adds urgency.",
+        "trigger_signal": "BBC Trump defense budget, UN nuclear chief visit to Iran sites, Trump Venezuela earthquake aid realignment"
+      },
+      {
+        "question": "Will Anthropic's public statement on Alibaba Claude extraction incident lead to IP litigation filing by June 30, 2026?",
+        "deadline": "2026-06-30",
+        "resolution_source": "U.S. District Court PACER docket search, Anthropic press releases",
+        "why_underpriced": "BBC and Hacker News both report high-profile accusation of 'illicit' data extraction; Anthropic has legal firepower and IP incentive to sue. Market underprices legal follow-through.",
+        "trigger_signal": "BBC/HN Anthropic vs. Alibaba story (366 HN comments), prior AI company litigious behavior (OpenAI/Microsoft precedents)"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Defense & aerospace capex cycle inflates Q3-Q4 2026 as Iran escalation and U.S. missile stockpile concerns force Pentagon to unlock budget; overweight LMT, RTX, NOC.",
-        "horizon": "3-6 months",
+        "thesis": "Memory chip spot pricing power (MU, SK Hynix) will compress 40-60% by Q4 2026 as TSMC/Samsung supply ramps, unwinding the current margin bonanza.",
+        "horizon": "4-6 months",
         "supporting_signals": [
-          "CNBC: White House requesting $87.6B supplemental for Iran war and pressing defense CEOs for expanded output",
-          "Trump-defense CEO meeting signals imminent contract acceleration",
-          "Missile stockpile depletion concerns create genuine capex urgency (not just budget talk)"
+          "Micron gross margin 84.9% (vs. 39% YoY) is historically unsustainable; MU +700% in 12 months signals exhaustion",
+          "SK Hynix +12% on Micron earnings shows momentum-driven buying, not fundamental justification",
+          "Semiconductor cycle history: DRAM/NAND spot prices mean-revert within 12-18 months of spike"
         ],
-        "counter_view": "Congressional budget gridlock (Trump housing bill cancellation, GOP tensions) could delay Defense appropriations into late 2026 or 2027.",
-        "expression": "Long LMT, RTX call spreads (Jul/Aug strike, 2-3 month duration); or equal-weight defensives/aerospace vs. SPY"
+        "counter_view": "AI data center demand (Anthropic, OpenAI custom chip buildout) could sustain elevated memory prices through 2027 if capex stays elevated.",
+        "expression": "Short MU via June 2027 puts (strike: $140) or short MU/long SPY ratio spread; pair-trade: long NVDA (fabless upside), short MU (memory compression)"
       },
       {
-        "thesis": "Memory semiconductor supercycle extends into Q4 2026 on AI chip demand + data center capex boom; Micron's 700% YTD run underprices continued margin expansion until Q4 saturation.",
-        "horizon": "2-4 months",
+        "thesis": "Bitcoin's $60k bounce is a bear trap; core PCE Thursday and Iran/geopolitical tail risk will trigger 15-20% retracement to $50-52k by mid-June 2026.",
+        "horizon": "2-4 weeks",
         "supporting_signals": [
-          "CNBC: Micron +12% on memory crunch, revenue quadrupled, 700% YTD surge",
-          "AI model inference scaling (3D generation, medical AI adoption from 36Kr) requires sustained DRAM/NAND",
-          "Qualcomm +15% on non-handset (AI/auto) uplift confirms chip capex secular tailwind"
+          "CoinDesk: $10B options expiry Thursday; BTC still $12k below $72k magnet, suggesting weak follow-through",
+          "$1B liquidation losses as 'AI trade keeps going'—equity correlation risk if tech selloff resumes",
+          "Trump $87B Iran war budget + Hormuz tanker warning suggest geopolitical black swan (safe-haven USD, not BTC)"
         ],
-        "counter_view": "Micron's valuation is stretched; mean-reversion and inventory normalization in H2 2026 could trigger 20-30% drawdown.",
-        "expression": "Long MU Sept 2026 $200 calls; or pair long MU / short NAND ETF (if available) to isolate memory cycle vs. foundry risk"
+        "counter_view": "If Fed signals rate cuts at PCE (due to eurozone slowdown, Venezuela crisis), risk-on sentiment could push BTC above $70k by summer.",
+        "expression": "BTC perp shorts (5-10% position) with stops at $62k; or June 2026 $55k put spread on spot via crypto derivatives (Deribit, OKX)"
       },
       {
-        "thesis": "Bitcoin technical support at $60K holds into June 2026 as Iran war fiscal stimulus (not tightening) dominates macro narrative; DXY weakness reverses, reopening BTC bid.",
-        "horizon": "4-8 weeks",
+        "thesis": "Prediction market infrastructure (Kalshi, Polymarket, Manifold) will attract $500M+ institutional AUM by EOY 2026 as SEC AI agent enforcement creates compliance arbitrage.",
+        "horizon": "6-9 months",
         "supporting_signals": [
-          "Cointelegraph: BTC near $59K but traders anticipate 15% relief bounce",
-          "White House $87.6B supplemental spending (Iran war) signals fiscal expansion, not QT",
-          "Spot BTC ETF outflows are tactical (profit-taking), not structural capitulation"
+          "Kalshi fundraising at $40B valuation (nearly 2x last round); regulated derivatives exchange momentum",
+          "House Democrats questioning SEC on AI advisers—regulatory clarity needed, favors licensed prediction markets over crypto perps",
+          "Hedera Hashgraph rolling 'legal layer' for agentic commerce; Cointelegraph reports rising institutional interest in arbitration/settlement"
         ],
-        "counter_view": "DXY surge persists; Iran escalation triggers risk-off and USD safe haven demand, pushing BTC lower into $55K.",
-        "expression": "Long BTC 2026 Jun/Jul $62K-$65K call spreads; or BTC/DXY ratio trade (long BTC perps, short DXY futures) to isolate currency thesis"
+        "counter_view": "Regulatory backlash if prediction markets bet on elections or geopolitical events; SEC could restrict retail access, capping AUM growth.",
+        "expression": "Long Kalshi Series C paper (secondary market) if available; track Polymarket volume via Blockchain Capital/Dragonfly Research; consider thesis via long NVDA (beneficiary of AI compliance infrastructure compute)"
       },
       {
-        "thesis": "Kalshi prediction market equity appreciates 25-50% by EOY 2026 as litigation wins and Illinois court challenge (July 1 deadline) boost regulatory clarity and user acquisition.",
-        "horizon": "6-8 months",
+        "thesis": "Chinese AR/smart glasses market (36Kr data: +161.9% H1 2026) will capture 40%+ global mindshare by EOY 2026; non-META AR players (e.g., Raytheon, Xiaomi) outperform Western incumbents.",
+        "horizon": "6-12 months",
         "supporting_signals": [
-          "CoinDesk: Kalshi $40B valuation, widening lead over Polymarket (valuation momentum)",
-          "Cointelegraph: Kalshi sues Illinois over prediction market restrictions; July 1 effective date creates high-stakes legal inflection",
-          "Crypto-backed political candidates winning primaries (Fairshake PAC, $8M spend) signals demand for prediction markets as political infrastructure"
+          "36Kr: Global AR market +168.6% YoY; China domestic smart eyeglass sales +161.9% Jan-Mar 2026 (ahead of English media)",
+          "Raytheon Innovation (雷鸟创新) leading Q1 global shipments; RoboScience (机器科学) publishing Visics embodied AI architecture June 2026",
+          "IDC data showing China as growth engine; consumer adoption widening beyond enthusiasts"
         ],
-        "counter_view": "Regulatory losses (Illinois ruling upheld) or competitor (Polymarket) fundraising at higher valuation could dilute Kalshi equity gains.",
-        "expression": "Secondary share purchases if available (AngelList, Forge, Carta); or synthetic via crypto prediction market ETFs if launched in 2026"
+        "counter_view": "U.S. export controls on semiconductor/optical tech could limit Chinese AR scaling; Meta Quest Pro successor could reclaim market share.",
+        "expression": "Long ASML (optical capex play for China AR expansion); long QCOM (AR SoC demand); short META relative to Chinese tech indices (HSI, SZSE) via cross-listed ADRs"
       },
       {
-        "thesis": "AI chip custom silicon (OpenAI/Broadcom partnership, Qualcomm non-handset AI) outpaces Nvidia's foundry lead into 2027; ETH/BTC ratio compresses as Nvidia margin pressure offsets BTC macro tailwind.",
-        "horizon": "3-6 months",
+        "thesis": "USD strength (DXY +2-3% by August 2026) as geopolitical risk premium widens (Iran escalation, Venezuela crisis, Trump defense spending) and Fed holds steady on rate cuts.",
+        "horizon": "3-4 months",
         "supporting_signals": [
-          "Hacker News: OpenAI unveils first custom chip built by Broadcom (281 comments, high engagement)",
-          "CNBC: Qualcomm +15%, doubling 2029 non-handset (AI/auto) projection",
-          "36Kr: AI OPC (One Person Company) culture and 3D generative model funding signals sustained AI capex fragmentation vs. NVDA moat"
+          "Trump $87B Iran war budget + 'rapid response' to Venezuela suggests military spending cycle; historical: defense capex spikes strengthen USD",
+          "BBC: UN nuclear chief visiting Iran sites; talks fragile—escalation risk priced into JPY, CHF (safe havens), but not yet into broad DXY",
+          "Fed core PCE Thursday likely sticky; no near-term rate cut catalyst despite global slowdown signals"
         ],
-        "counter_view": "Nvidia's software/CUDA ecosystem durability and memory bandwidth advantage keep foundry competition at bay; NVDA re-rates higher in 2026.",
-        "expression": "Long QCOM / short NVDA pairs trade; or short NVDA call spreads (sell $200 calls, buy $190 puts, Jun/Jul 2026)"
+        "counter_view": "If recession risk rises (eurozone heatwave, stagflation), risk-off could weaken USD despite geopolitical premium.",
+        "expression": "Long DXY via ETF (UUP) or futures; long USD/MXN, USD/JPY vol; short EUR/USD directional via June 2026 options; pair-trade: long DXY, short gold futures (liquidity)"
       }
     ]
   }
