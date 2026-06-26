@@ -1,83 +1,111 @@
 {
-  "generated_at_utc": "2026-06-26T15:20:35.638000+00:00",
+  "generated_at_utc": "2026-06-26T22:04:28.680377+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
+        "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
+        "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+        "published": "Fri, 26 Jun 2026 21:34:56 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
         "summary": "President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.",
         "link": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
-        "published": "Fri, 26 Jun 2026 14:54:15 GMT"
+        "published": "Fri, 26 Jun 2026 17:39:09 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million",
-        "summary": "\"I knew Jekyll. I didn't know Hyde,\" Leon Black says about Jeffrey Epstein in his prepared statement to the House Oversight and Government Reform Committee.",
-        "link": "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html",
-        "published": "Fri, 26 Jun 2026 14:01:51 GMT"
+        "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+        "summary": "Oracle's surging spending, negative free cash flow and $130 billion debt pile are weighing on the stock.",
+        "link": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+        "published": "Fri, 26 Jun 2026 20:21:09 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Ex-Trump advisor John Bolton pleads guilty to retaining national defense information",
-        "summary": "John Bolton is one of several foes of President Donald Trump who has been indicted since Trump regained the White House.",
-        "link": "https://www.cnbc.com/2026/06/26/john-bolton-guilty-defense-trump.html",
-        "published": "Fri, 26 Jun 2026 15:14:50 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Jeremy Grantham says this is 'the most expensive market in 'American history'",
+        "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
         "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
         "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-        "published": "Fri, 26 Jun 2026 14:36:05 GMT"
+        "published": "Fri, 26 Jun 2026 15:34:09 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
-        "summary": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
-        "link": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-        "published": "Fri, 26 Jun 2026 12:10:01 GMT"
+        "title": "Rubio says Israel, Lebanon reach framework agreement aimed at 'lasting peace and security'",
+        "summary": "Israel and Lebanon agreed to implement a ceasefire. But that is contingent on the paramilitary group Hezbollah agreeing to halt hostilities.",
+        "link": "https://www.cnbc.com/2026/06/26/israel-lebanon-hezbollah-ceasefire-rubio.html",
+        "published": "Fri, 26 Jun 2026 18:09:07 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "One factor that may be partly behind the S&P 500's curious action this week",
-        "summary": "There were plenty of reasons for stocks to post a big move on Thursday, but the S&amp;P 500 ended almost exactly where it closed Wednesday.",
-        "link": "https://www.cnbc.com/2026/06/26/one-factor-that-may-be-partly-behind-the-sp-500s-curious-action-this-week.html",
-        "published": "Fri, 26 Jun 2026 12:02:21 GMT"
+        "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
+        "summary": "Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and his wife, Samantha, are residents of Chicago.",
+        "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
+        "published": "Fri, 26 Jun 2026 21:07:22 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Billionaire investor Jeremy Grantham says bitcoin will 'dwindle away with a whimper'",
-        "summary": "Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.",
-        "link": "https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html",
-        "published": "Fri, 26 Jun 2026 14:13:57 GMT"
+        "title": "Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset'",
+        "summary": "California Gov. Gavin Newsom said he supports imposing \"a true minimum tax on billionaires\" and closing \"tax-free lifestyle loan\" loopholes for the rich.",
+        "link": "https://www.cnbc.com/2026/06/26/gavin-newsom-national-billionaires-tax-california.html",
+        "published": "Fri, 26 Jun 2026 20:37:56 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
-        "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
-        "link": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
-        "published": "Fri, 26 Jun 2026 14:46:01 GMT"
+        "title": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies'",
+        "summary": "\"This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not,\" President Donald Trump wrote in a Truth Social post.",
+        "link": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
+        "published": "Fri, 26 Jun 2026 18:25:36 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-        "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
-        "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 02:12:07 GMT"
+        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+        "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+        "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 21:15:37 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Aerial footage reveals destruction in coastal Venezuela",
-        "summary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
-        "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 05:13:22 GMT"
+        "title": "Mother dies saving daughter in Venezuela earthquakes",
+        "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+        "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 18:36:32 GMT"
       },
       {
         "source": "BBC World",
-        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-        "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-        "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 11:27:59 GMT"
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 21:30:59 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Europe's deadly heatwave breaks German record and halts public events",
+        "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 18:14:36 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "DR Congo takes Rwanda to international court over decades of conflict",
+        "summary": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+        "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 17:05:22 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+        "summary": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
+        "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 21:33:34 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+        "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+        "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 16:45:21 GMT"
       },
       {
         "source": "BBC World",
@@ -87,38 +115,45 @@
         "published": "Fri, 26 Jun 2026 10:49:11 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
-        "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 10:38:37 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-        "summary": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
-        "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 06:16:01 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Four men held over child-marriage in Sierra Leone set to appear in landmark court case",
-        "summary": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
-        "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 14:56:26 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Canada eligible to join Eurovision competition",
-        "summary": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
-        "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 13:41:36 GMT"
+        "source": "CoinDesk",
+        "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+        "published": "Fri, 26 Jun 2026 20:15:03 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Securitize aims to raise $400 million as tokenization firm nears public debut",
+        "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/06/26/securitize-aims-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
+        "link": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
+        "published": "Fri, 26 Jun 2026 19:38:12 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
+        "published": "Fri, 26 Jun 2026 18:37:50 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability",
+        "published": "Fri, 26 Jun 2026 18:24:24 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
+        "summary": "",
+        "link": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
+        "published": "Fri, 26 Jun 2026 18:04:22 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Securitize expects to raise $400 million as tokenization firm nears public debut",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
         "published": "Fri, 26 Jun 2026 15:04:44 +0000"
       },
       {
@@ -136,46 +171,11 @@
         "published": "Fri, 26 Jun 2026 12:25:36 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
-        "published": "Fri, 26 Jun 2026 11:36:01 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
-        "published": "Fri, 26 Jun 2026 11:03:20 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
-        "published": "Fri, 26 Jun 2026 10:28:24 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
-        "published": "Fri, 26 Jun 2026 10:19:22 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
-        "published": "Fri, 26 Jun 2026 09:47:07 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 26 Jun 2026 14:06:06 +0000"
+        "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cryptocurrency-coin-pressure-machine-regulation-government-law-mica-1.jpg\" /></p><p>Carlos San Basilio said that “there will be no exceptions ​or extensions” to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed.</p>",
+        "link": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 26 Jun 2026 19:20:33 +0000"
       }
     ],
     "chinese_news": [
@@ -217,7 +217,7 @@
       {
         "source": "36氪 36Kr",
         "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
-        "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜周鑫雨</strong></p>\n  <p>半年前，我们第一次和基点起源创始人兼&nbsp;CEO&nbsp;戴宗宏交流时，这家逆流入局&nbsp;B&nbsp;端定制化的AI公司，刚刚推进了&nbsp;7、8&nbsp;个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。</p>\n  <p>半年后，基点对质疑声的回应，是数千万元的在手订单。</p>\n  <p>戴宗宏对《智能涌现》透露，基点起源的订单数翻了一番<strong>，订单合同金额较半年前提升了一个数量级，</strong>AI&nbsp;解决方���已经落地到了冶金、化工、精密制造、半导体、纺织等&nbsp;10&nbsp;多个行业。</p>\n  <p>伴随订单而来的，基点起源<strong>半年内完成3轮融资，融资金额数亿元</strong>。《智能涌现》独家获悉，国科投资、电控产投、上海半导体产投、建投投资、鑫和达、崇麟资本与硬核坚果资本，押注基点起源发展。</p>\n  <p>戴宗宏，AI To B&nb",
+        "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜周鑫雨</strong></p>\n  <p>半年前，我们第一次和基点起源创始人兼&nbsp;CEO&nbsp;戴宗宏交流时，这家逆流入局&nbsp;B&nbsp;端定制化的AI公司，刚刚推进了&nbsp;7、8&nbsp;个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。</p>\n  <p>半年后，基点对质疑声的回应，是数千万元的在手订单。</p>\n  <p>戴宗宏对《智能涌现》透露，基点起源的订单数翻了一番<strong>，订单合同金额较半年前提升了一个数量级，</strong>AI&nbsp;解决方案已经落地到了冶金、化工、精密制造、半导体、纺织等&nbsp;10&nbsp;多个行业。</p>\n  <p>伴随订单而来的，基点起源<strong>半年内完成3轮融资，融资金额数亿元</strong>。《智能涌现》独家获悉，国科投资、电控产投、上海半导体产投、建投投资、鑫和达、崇麟资本与硬核坚果资本，押注基点起源发展。</p>\n  <p>戴宗宏，AI To B&nbsp",
         "link": "https://36kr.com/p/3869445453305090?f=rss",
         "published": "2026-06-26 13:36:55  +0800"
       },
@@ -239,67 +239,67 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "An entire Herculaneum scroll has been read for the first time",
-        "summary": "score: 1484, comments: 317",
-        "link": "https://scrollprize.org/firstscroll",
-        "score": 1484
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "summary": "score: 673, comments: 409",
+        "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "score": 673
       },
       {
         "source": "Hacker News",
-        "title": "Om Malik has died",
-        "summary": "score: 1118, comments: 131",
-        "link": "https://om.co/2026/06/24/1966-2026/",
-        "score": 1118
+        "title": "U.S. government will decide who gets to use GPT-5.6",
+        "summary": "score: 584, comments: 732",
+        "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+        "score": 584
       },
       {
         "source": "Hacker News",
-        "title": "The 'papers, please' era of the internet will decimate your privacy",
-        "summary": "score: 922, comments: 455",
-        "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-        "score": 922
+        "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+        "summary": "score: 213, comments: 126",
+        "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+        "score": 213
       },
       {
         "source": "Hacker News",
-        "title": "What happened after 2k people tried to hack my AI assistant",
-        "summary": "score: 273, comments: 118",
-        "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
-        "score": 273
+        "title": "Ultrasound imaging of the brain",
+        "summary": "score: 206, comments: 76",
+        "link": "https://alephneuro.com/blog/ultrasound-brain",
+        "score": 206
       },
       {
         "source": "Hacker News",
-        "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-        "summary": "score: 257, comments: 139",
-        "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-        "score": 257
+        "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+        "summary": "score: 113, comments: 79",
+        "link": "https://github.com/workweave/router",
+        "score": 113
       },
       {
         "source": "Hacker News",
-        "title": "Libre Barcode Project",
-        "summary": "score: 231, comments: 37",
-        "link": "https://graphicore.github.io/librebarcode/",
-        "score": 231
+        "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+        "summary": "score: 58, comments: 5",
+        "link": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+        "score": 58
       },
       {
         "source": "Hacker News",
-        "title": "Incident CVE-2026-LGTM",
-        "summary": "score: 179, comments: 30",
-        "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-        "score": 179
+        "title": "What Is a Nomogram and Why Would It Interest Me?",
+        "summary": "score: 52, comments: 13",
+        "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+        "score": 52
       },
       {
         "source": "Hacker News",
-        "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
-        "summary": "score: 156, comments: 40",
-        "link": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
-        "score": 156
+        "title": "Modern GPU Programming for MLSys",
+        "summary": "score: 48, comments: 5",
+        "link": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+        "score": 48
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Cap (CAP)",
-        "summary": "market cap rank: 414",
-        "link": "https://www.coingecko.com/en/coins/cap"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 118",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
@@ -309,21 +309,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 109",
-        "link": "https://www.coingecko.com/en/coins/lighter"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Rain (RAIN)",
-        "summary": "market cap rank: 12",
-        "link": "https://www.coingecko.com/en/coins/rain"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Aave (AAVE)",
-        "summary": "market cap rank: 56",
-        "link": "https://www.coingecko.com/en/coins/aave"
+        "title": "Cap (CAP)",
+        "summary": "market cap rank: 443",
+        "link": "https://www.coingecko.com/en/coins/cap"
       },
       {
         "source": "CoinGecko Trending",
@@ -333,9 +321,21 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 119",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Aave (AAVE)",
+        "summary": "market cap rank: 54",
+        "link": "https://www.coingecko.com/en/coins/aave"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Jito (JTO)",
+        "summary": "market cap rank: 114",
+        "link": "https://www.coingecko.com/en/coins/jito"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcS6cx43LS9GQCcCbvfrx'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcSdRGte6c6f7cvfwjfU5'}"
   }
 }
