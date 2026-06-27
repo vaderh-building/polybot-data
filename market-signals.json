@@ -1,13 +1,41 @@
 {
-  "generated_at_utc": "2026-06-26T22:04:28.680377+00:00",
+  "generated_at_utc": "2026-06-27T07:43:59.835190+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "SpaceX will join Nasdaq-100",
+        "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
+        "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
+        "published": "Sat, 27 Jun 2026 00:23:27 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
         "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
         "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
-        "published": "Fri, 26 Jun 2026 21:34:56 GMT"
+        "published": "Fri, 26 Jun 2026 22:59:20 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
+        "summary": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
+        "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+        "published": "Sat, 27 Jun 2026 00:34:50 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "From concerts to train rides, bots are winning the ticket wars — but they're only part of the problem",
+        "summary": "From concerts to train reservations, automated bots have become the latest target in the fight against ticket scalping.",
+        "link": "https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html",
+        "published": "Sat, 27 Jun 2026 05:00:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman",
+        "summary": "Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while absorbing a flurry of Persian Gulf news.",
+        "link": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
+        "published": "Fri, 26 Jun 2026 21:12:05 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -21,7 +49,7 @@
         "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
         "summary": "Oracle's surging spending, negative free cash flow and $130 billion debt pile are weighing on the stock.",
         "link": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
-        "published": "Fri, 26 Jun 2026 20:21:09 GMT"
+        "published": "Fri, 26 Jun 2026 22:29:27 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -31,39 +59,18 @@
         "published": "Fri, 26 Jun 2026 15:34:09 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Rubio says Israel, Lebanon reach framework agreement aimed at 'lasting peace and security'",
-        "summary": "Israel and Lebanon agreed to implement a ceasefire. But that is contingent on the paramilitary group Hezbollah agreeing to halt hostilities.",
-        "link": "https://www.cnbc.com/2026/06/26/israel-lebanon-hezbollah-ceasefire-rubio.html",
-        "published": "Fri, 26 Jun 2026 18:09:07 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
-        "summary": "Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and his wife, Samantha, are residents of Chicago.",
-        "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
-        "published": "Fri, 26 Jun 2026 21:07:22 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset'",
-        "summary": "California Gov. Gavin Newsom said he supports imposing \"a true minimum tax on billionaires\" and closing \"tax-free lifestyle loan\" loopholes for the rich.",
-        "link": "https://www.cnbc.com/2026/06/26/gavin-newsom-national-billionaires-tax-california.html",
-        "published": "Fri, 26 Jun 2026 20:37:56 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies'",
-        "summary": "\"This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not,\" President Donald Trump wrote in a Truth Social post.",
-        "link": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
-        "published": "Fri, 26 Jun 2026 18:25:36 GMT"
+        "source": "BBC World",
+        "title": "US strikes Iran after attack on cargo ship",
+        "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 27 Jun 2026 02:48:12 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-        "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+        "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+        "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
         "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 21:15:37 GMT"
+        "published": "Sat, 27 Jun 2026 04:09:24 GMT"
       },
       {
         "source": "BBC World",
@@ -74,10 +81,10 @@
       },
       {
         "source": "BBC World",
-        "title": "US conducts strikes on Iran after attack on cargo ship",
-        "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 21:30:59 GMT"
+        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+        "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+        "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 23:01:50 GMT"
       },
       {
         "source": "BBC World",
@@ -85,6 +92,13 @@
         "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
         "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
         "published": "Fri, 26 Jun 2026 18:14:36 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Religion row as Texas makes Bible stories required reading in schools",
+        "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 27 Jun 2026 00:31:42 GMT"
       },
       {
         "source": "BBC World",
@@ -96,23 +110,9 @@
       {
         "source": "BBC World",
         "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-        "summary": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
+        "summary": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
         "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 21:33:34 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-        "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-        "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 16:45:21 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Christmas market attacker jailed for life for murdering six in Germany",
-        "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
-        "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 26 Jun 2026 10:49:11 GMT"
+        "published": "Fri, 26 Jun 2026 22:55:28 GMT"
       },
       {
         "source": "CoinDesk",
@@ -172,13 +172,48 @@
       },
       {
         "source": "Cointelegraph",
-        "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cryptocurrency-coin-pressure-machine-regulation-government-law-mica-1.jpg\" /></p><p>Carlos San Basilio said that “there will be no exceptions ​or extensions” to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed.</p>",
-        "link": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 26 Jun 2026 19:20:33 +0000"
+        "title": "Securitize expects to raise $400M ahead of public debut",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize expects to raise $400M ahead of public debut\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-types-of-consensus-mechanisms-in-blockchain-1.jpg\" /></p><p>Securitize says less than 30% of shareholders in the acquisition firm taking it public elected to redeem, giving it an expected $400 million on its upcoming debut.</p>",
+        "link": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 27 Jun 2026 05:35:27 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+        "summary": "<p>本文约2500字，建议阅读5分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。</p>\n   <p>鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。</p>\n  </blockquote>\n  <p>6月26日，储能公司大秦数字能源向港交所递交了上市申请。</p>\n  <p>2025年，大秦数字能源收入<strong>25.25亿元，同比增长244.3%</strong>；毛利率从2024年的-19.9%反弹到23.2%；净利润由2024年的亏3.78亿元转为盈利<strong>1.25亿</strong>。一家刚从“亏损”爬出来的公司，转头就来敲港交所的门了。</p>\n  <p>大秦数字能源的毛利率，怎么会在2024年做到-19.9%？硬氪",
+        "link": "https://36kr.com/p/3871109381035011?f=rss",
+        "published": "2026-06-27 15:37:59  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。</p>\n  <p>从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。</p>\n  <p>物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37%</p>\n  <p>过去几年，行业花了大量精力把车上的事“看见”。位置、温度、驾驶行为、货物状态等环节的数字化程度相对成熟。其中，G7易流于2025年发布的AI主机“紫宝盒”便是这一阶段的产品之一，目前累计服务超150家客户，装车超万台。</p>\n  <p>但G7易流创始人兼CEO翟学魂在穿戴式AI硬件拍拍豆的发布会上直言：“如果货还在车上，这件事还没",
+        "link": "https://36kr.com/p/3869740772316162?f=rss",
+        "published": "2026-06-27 09:40:53  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+        "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>OpenAI官宣推出GPT-5.6</p>\n  <p>亚洲“果链”股价几乎全线大幅下跌</p>\n  <p><strong>SpaceX计划为美国消费者推出新的星链移动服务</strong></p>\n  <p><strong>美团股价低迷，王兴回应</strong></p>\n  <p><strong>小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人</strong></p>\n  <p><strong>微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹</strong></p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>苹果涨价引山姆代购潮，部分门店已卖断货</strong></p>\n  <p>近日，社交媒体上多名网友反馈，多地山姆会员超市的iPad及Mac系列产品出现抢购、代购的情况。原因在于，苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整。6月26日，有多名代购称可加价45元至300元不等前往山姆代购，并表示代购需求超级多，",
+        "link": "https://36kr.com/p/3870720040588295?f=rss",
+        "published": "2026-06-27 09:02:37  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_245e2d5a160e4ed9af72f125da58d25e@6310690_oswg338035oswg1024oswg683_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源视觉中国</p>\n  <p><br />动力电池一直是新能源汽车里高频博弈的战场。</p>\n  <p>它通常占据一辆新能源车30%-40%的BOM（物料）成本；与此同时，作为电车心脏，又直接决定续航、补能效率、安全性和寿命等核心体验，是少数能够同时影响产品力与成本结构的零部件。</p>\n  <p>这意味着，围绕动力电池的博弈在车企与供应商之间，甚至电池产业内部从未间断。过去几年，无论是特斯拉、比亚迪、吉利，还是国内头部新势力，都相继走向电池的自研或自制。</p>\n  <p>理想汽车同样如此。伴随理想新款L8上",
+        "link": "https://36kr.com/p/3866946087867394?f=rss",
+        "published": "2026-06-27 07:31:16  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "追赶FSD V14，理想在补哪些课？｜最前线",
+        "summary": "<p>过去几年，智能驾驶行业的竞争重心经历了几次明显变化。</p>\n  <p>最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。</p>\n  <p>到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间能否形成一个持续迭代的闭环。</p>\n  <p>这也是为什么越来越多车企开始走向自研。</p>\n  <p>特斯拉几乎覆盖了从数据采集、训练基础设施、FSD模型到Dojo、自研芯片的全部环节。国内，无论小鹏、蔚来，还是理想，也都在不断向更底层延伸。</p>\n  <p>今年发布的 L8、L9 车型上，理想已经用上了自研的马赫M100芯片，这个采用数据流架构的芯片被理想认为是for AI的一个大的技术方向。在马赫M100上，理想也跑了自研的马赫 VLA 模型。</p>\n  <p>但对于行业而言，更值得关注的问题并不是\"有没有自研\"，而是这些投入究竟能够解决什么问题。</p",
+        "link": "https://36kr.com/p/3870292939658242?f=rss",
+        "published": "2026-06-27 07:30:20  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
@@ -199,99 +234,64 @@
         "summary": "<p>文 | 海若镜</p>\n  <p>访谈 | 海若镜 巴芮</p>\n  <p>6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。</p>\n  <p>访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。</p>\n  <p>五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已经毕业；这里<strong>孵化、走出的十家公司，累计“融资约150亿元，估值1500亿元”</strong>。其中，华深智药、它石智航等独角兽，在资本市场备受追捧。</p>\n  <p>1500亿估值是个亮眼数据，但张亚勤却告诉我们：AIR首要任务是做科研；孵化公司只是自然长出的副产品，多数公司正处在“证明能力”的阶段。</p>\n  <p>作为国内最年轻的IEEE fellow、中国工程院院士，张亚勤经历过技术革命和资本周期的潮起潮落。在他看来，<strong>当下AI所处阶段，像1998-1999年的互联网，正在大规模投资基建（电力",
         "link": "https://36kr.com/p/3866837793952769?f=rss",
         "published": "2026-06-26 16:52:52  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
-        "summary": "<p>本文约900字，建议阅读2分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260626/v2_0f869b9048f0444d9175f9e0a3f9ccde@430412560_oswg643375oswg1080oswg2341_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>关于中科闻歌深度报道，可查看此前报道——中科院博士冲上市，市值超105亿港币。</p>\n  <p>在昨日下午先行的暗盘中，其以<strong>115.40港元收盘</strong>，",
-        "link": "https://36kr.com/p/3869622921041156?f=rss",
-        "published": "2026-06-26 14:24:40  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
-        "summary": "<p><strong>北京时间&nbsp;&nbsp;2026 年 6 月 25 日，</strong>DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码：<strong>\"DSC\"</strong>）正式在美国纳斯达克全球市场挂牌交易，成为 <strong>2026 年首家赴美上市的中国企业</strong>。公司本次发行 <strong>3,000,000 份美国存托股份（ADS）</strong>，<strong>发行价定为每股 ADS 17.00 美元</strong>，<strong>总发行规模约 5,100 万美元</strong>（未计超额配售权）。公司另授予承销商 30 天的超额配售权，可按发行价额外购买最多 <strong>450,000 份 ADS</strong>。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260626/v2_58e5c18d980144c2acd5e88dc9a01de9@6162492_oswg691843o",
-        "link": "https://36kr.com/p/3869474592363528?f=rss",
-        "published": "2026-06-26 13:38:23  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
-        "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜周鑫雨</strong></p>\n  <p>半年前，我们第一次和基点起源创始人兼&nbsp;CEO&nbsp;戴宗宏交流时，这家逆流入局&nbsp;B&nbsp;端定制化的AI公司，刚刚推进了&nbsp;7、8&nbsp;个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。</p>\n  <p>半年后，基点对质疑声的回应，是数千万元的在手订单。</p>\n  <p>戴宗宏对《智能涌现》透露，基点起源的订单数翻了一番<strong>，订单合同金额较半年前提升了一个数量级，</strong>AI&nbsp;解决方案已经落地到了冶金、化工、精密制造、半导体、纺织等&nbsp;10&nbsp;多个行业。</p>\n  <p>伴随订单而来的，基点起源<strong>半年内完成3轮融资，融资金额数亿元</strong>。《智能涌现》独家获悉，国科投资、电控产投、上海半导体产投、建投投资、鑫和达、崇麟资本与硬核坚果资本，押注基点起源发展。</p>\n  <p>戴宗宏，AI To B&nbsp",
-        "link": "https://36kr.com/p/3869445453305090?f=rss",
-        "published": "2026-06-26 13:36:55  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "年入27亿，一颗中国糖果拿捏「美国味」",
-        "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子</p>\n  <p><strong>编辑 | </strong>张帆</p>\n  <p>在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。</p>\n  <p>走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回流”至国内。</p>\n  <p>打开中国山姆APP，阿麦斯旗下的两款产品Peelerz与“贝欧宝Biobor活性益生菌软糖”，位列“糖果热销榜单”第一、第二，月销量分别超过20万件及10万件。</p>\n  <p>品牌势能的积累在资本市场爆发。</p>\n  <p>不久前，阿麦斯向港交所递交招股书。据其援引的弗若斯特沙利文数据，按2025年零售额计算，阿麦斯是中国最大的糖果公司。若顺利过会，阿麦斯也将摘下“中国糖果第一股”的头衔。</p>\n  <p><strong>但细看招股书，一个更复杂的故事浮出水面：这家年收入27亿元的中国糖果大王，一半以上的营收来自北美，本土市场的贡献不到四",
-        "link": "https://36kr.com/p/3868550907237636?f=rss",
-        "published": "2026-06-26 10:23:48  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
-        "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260626/v2_6c3eb3eeda5e46f89f4065250a861b95@6381723_oswg140947oswg1280oswg853_img_jpeg?x-oss-process=imag",
-        "link": "https://36kr.com/p/3869378164397313?f=rss",
-        "published": "2026-06-26 10:17:40  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-        "summary": "score: 673, comments: 409",
-        "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-        "score": 673
+        "title": "U.S. government will decide who gets to use GPT-5.6",
+        "summary": "score: 984, comments: 1042",
+        "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+        "score": 984
       },
       {
         "source": "Hacker News",
-        "title": "U.S. government will decide who gets to use GPT-5.6",
-        "summary": "score: 584, comments: 732",
-        "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-        "score": 584
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "summary": "score: 967, comments: 601",
+        "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "score": 967
+      },
+      {
+        "source": "Hacker News",
+        "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+        "summary": "score: 391, comments: 391",
+        "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+        "score": 391
+      },
+      {
+        "source": "Hacker News",
+        "title": "Om",
+        "summary": "score: 325, comments: 15",
+        "link": "https://daringfireball.net/2026/06/om",
+        "score": 325
       },
       {
         "source": "Hacker News",
         "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-        "summary": "score: 213, comments: 126",
+        "summary": "score: 317, comments: 182",
         "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-        "score": 213
+        "score": 317
       },
       {
         "source": "Hacker News",
-        "title": "Ultrasound imaging of the brain",
-        "summary": "score: 206, comments: 76",
-        "link": "https://alephneuro.com/blog/ultrasound-brain",
-        "score": 206
+        "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+        "summary": "score: 215, comments: 101",
+        "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+        "score": 215
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-        "summary": "score: 113, comments: 79",
-        "link": "https://github.com/workweave/router",
-        "score": 113
+        "title": "OpenTTD 16.0-Beta1",
+        "summary": "score: 94, comments: 11",
+        "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+        "score": 94
       },
       {
         "source": "Hacker News",
-        "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-        "summary": "score: 58, comments: 5",
-        "link": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-        "score": 58
-      },
-      {
-        "source": "Hacker News",
-        "title": "What Is a Nomogram and Why Would It Interest Me?",
-        "summary": "score: 52, comments: 13",
-        "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-        "score": 52
-      },
-      {
-        "source": "Hacker News",
-        "title": "Modern GPU Programming for MLSys",
-        "summary": "score: 48, comments: 5",
-        "link": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-        "score": 48
+        "title": "WordStar: A Writer's Word Processor (1996)",
+        "summary": "score: 68, comments: 23",
+        "link": "https://www.sfwriter.com/wordstar.htm",
+        "score": 68
       }
     ],
     "crypto_trending": [
@@ -303,15 +303,27 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "Kled AI (KLED)",
+        "summary": "market cap rank: 732",
+        "link": "https://www.coingecko.com/en/coins/kled-ai"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Velvet (VELVET)",
+        "summary": "market cap rank: 121",
+        "link": "https://www.coingecko.com/en/coins/velvet"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Cap (CAP)",
-        "summary": "market cap rank: 443",
+        "summary": "market cap rank: 472",
         "link": "https://www.coingecko.com/en/coins/cap"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Aave (AAVE)",
+        "summary": "market cap rank: 51",
+        "link": "https://www.coingecko.com/en/coins/aave"
       },
       {
         "source": "CoinGecko Trending",
@@ -321,21 +333,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Aave (AAVE)",
-        "summary": "market cap rank: 54",
-        "link": "https://www.coingecko.com/en/coins/aave"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Jito (JTO)",
-        "summary": "market cap rank: 114",
-        "link": "https://www.coingecko.com/en/coins/jito"
+        "title": "Arcium (ARX)",
+        "summary": "market cap rank: 379",
+        "link": "https://www.coingecko.com/en/coins/arcium"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcSdRGte6c6f7cvfwjfU5'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcTPcQViaEVNLGDBaabnW'}"
   }
 }
