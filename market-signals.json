@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-07-02T15:07:40.833680+00:00",
+  "generated_at_utc": "2026-07-02T22:00:32.806680+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "summary": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
+        "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+        "published": "Thu, 02 Jul 2026 18:09:31 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
+        "summary": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
+        "link": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+        "published": "Thu, 02 Jul 2026 21:03:39 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
         "summary": "Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
         "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
-        "published": "Thu, 02 Jul 2026 13:26:28 GMT"
+        "published": "Thu, 02 Jul 2026 16:50:27 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
-        "summary": "Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence.",
-        "link": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-        "published": "Thu, 02 Jul 2026 13:00:02 GMT"
+        "title": "Saudi Arabia has ramped up oil shipments through the Strait of Hormuz since U.S.-Iran deal",
+        "summary": "Saudi Arabia is restarting its export logistics in the Persian Gulf after a three-month pause, according to Kpler.",
+        "link": "https://www.cnbc.com/2026/07/02/saudi-arabia-iran-strait-hormuz-persian-gulf-oil.html",
+        "published": "Thu, 02 Jul 2026 20:47:06 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Tesla stock sinks 6% despite strong deliveries report",
+        "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
         "summary": "Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.",
         "link": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
-        "published": "Thu, 02 Jul 2026 14:41:13 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
-        "summary": "Defense tech startups are raising record amounts on both sides of the Atlantic amid a flurry of investment in the sector.",
-        "link": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
-        "published": "Thu, 02 Jul 2026 14:27:31 GMT"
+        "published": "Thu, 02 Jul 2026 20:18:02 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -39,52 +46,45 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand",
-        "summary": "Ford said its EV sales fell by 40.7% during the quarter compared with a year earlier, while sales of its F-Series trucks, including the F-150, fell 11%.",
-        "link": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html",
-        "published": "Thu, 02 Jul 2026 13:45:57 GMT"
+        "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
+        "summary": "Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence.",
+        "link": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+        "published": "Thu, 02 Jul 2026 13:00:02 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter",
-        "summary": "Rivian is increasing its delivery outlook to between 65,000 and 70,000 EVs, up from 62,000 to 67,000 units.",
-        "link": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html",
-        "published": "Thu, 02 Jul 2026 13:32:40 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins",
-        "summary": "Meta appears poised to enter the cloud computing market in an effort to monetize its massive AI infrastructure.",
-        "link": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
-        "published": "Thu, 02 Jul 2026 12:22:51 GMT"
+        "title": "High-end camping and a capital raise: AutoCamp is banking on summer travel to fuel growth",
+        "summary": "AutoCamp offers Airstream suites, polished cabins, fire pits, design-forward amenities and access to iconic outdoor destinations.",
+        "link": "https://www.cnbc.com/2026/07/02/autocamp-high-end-camping-summer-travel-capital-raise.html",
+        "published": "Thu, 02 Jul 2026 16:34:27 GMT"
       },
       {
         "source": "BBC World",
         "title": "Venezuela quake survivor pulled out alive after eight days",
-        "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and cheered rescuers on as they inched closer to him.",
+        "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
         "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 02 Jul 2026 14:11:50 GMT"
+        "published": "Thu, 02 Jul 2026 16:11:24 GMT"
       },
       {
         "source": "BBC World",
-        "title": "'Most massive' Russian attack on Kyiv kills at least 20",
-        "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+        "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
         "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 02 Jul 2026 14:43:07 GMT"
+        "published": "Thu, 02 Jul 2026 20:18:14 GMT"
       },
       {
         "source": "BBC World",
-        "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-        "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
-        "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 02 Jul 2026 05:00:03 GMT"
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 02 Jul 2026 17:56:18 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
-        "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
-        "link": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 02 Jul 2026 03:07:39 GMT"
+        "title": "Vatican excommunicates followers of global Catholic sect",
+        "summary": "Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 02 Jul 2026 17:27:36 GMT"
       },
       {
         "source": "BBC World",
@@ -95,24 +95,45 @@
       },
       {
         "source": "BBC World",
-        "title": "South Africa and Ghana in diplomatic row over killing of migrant",
+        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+        "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+        "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 02 Jul 2026 20:34:52 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
         "summary": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
         "link": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
         "published": "Thu, 02 Jul 2026 13:11:16 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-        "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
-        "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 02 Jul 2026 00:26:13 GMT"
+        "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
+        "summary": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
+        "link": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 02 Jul 2026 21:21:36 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths",
-        "summary": "Some residents reluctantly hung their dogs to avoid being arrested or fined, locals tell the BBC.",
-        "link": "https://www.bbc.co.uk/news/articles/c1wy4d5p4pxo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 02 Jul 2026 14:04:39 GMT"
+        "source": "CoinDesk",
+        "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+        "published": "Thu, 02 Jul 2026 19:00:03 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
+        "published": "Thu, 02 Jul 2026 17:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point",
+        "published": "Thu, 02 Jul 2026 16:51:36 +0000"
       },
       {
         "source": "CoinDesk",
@@ -150,32 +171,11 @@
         "published": "Thu, 02 Jul 2026 12:37:50 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "A struggling Nasdaq-listed company that tried to copy Saylor's Bitcoin playbook is completely dumping crypto for AI",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/02/a-struggling-nasdaq-listed-company-that-tried-to-copy-saylor-s-bitcoin-playbook-is-completely-dumping-crypto-for-ai",
-        "published": "Thu, 02 Jul 2026 12:10:15 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink",
-        "published": "Thu, 02 Jul 2026 11:55:03 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Warsh's comments set the stage for U.S. jobs data to ignite bitcoin, gold rally",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/07/02/warsh-s-comments-set-the-stage-for-u-s-jobs-data-to-ignite-bitcoin-gold-rally",
-        "published": "Thu, 02 Jul 2026 11:47:06 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "The biggest blockchain upgrades still to come in 2026",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The biggest blockchain upgrades still to come in 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-upgrade.jpg\" /></p><p>From Ethereum’s Glamsterdam to Solana’s Alpenglow, 2026’s most important developments are protocol upgrades, not price charts.</p>",
-        "link": "https://cointelegraph.com/features/the-biggest-blockchain-upgrades-still-to-come-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 02 Jul 2026 13:30:00 +0000"
+        "title": "IMF says tokenization could transform settlement and financial stability",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IMF says tokenization could transform settlement and financial stability\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-blockchain.jpg\" /></p><p>The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.\n</p>",
+        "link": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 02 Jul 2026 19:17:32 +0000"
       }
     ],
     "chinese_news": [
@@ -239,73 +239,67 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Android Developer Verification: Threat masquerading as Protection",
-        "summary": "score: 1145, comments: 470",
-        "link": "https://f-droid.org/2026/07/01/adv-malware.html",
-        "score": 1145
+        "title": "PeerTube is a free, decentralized and federated video platform",
+        "summary": "score: 430, comments: 188",
+        "link": "https://github.com/Chocobozzz/PeerTube",
+        "score": 430
       },
       {
         "source": "Hacker News",
-        "title": "Oomwoo, an open-source robot vacuum you build yourself",
-        "summary": "score: 403, comments: 77",
-        "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-        "score": 403
+        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "summary": "score: 350, comments: 169",
+        "link": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "score": 350
       },
       {
         "source": "Hacker News",
-        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-        "summary": "score: 287, comments: 121",
-        "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-        "score": 287
+        "title": "How to ask for help from people who don't know you",
+        "summary": "score: 310, comments: 48",
+        "link": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+        "score": 310
       },
       {
         "source": "Hacker News",
-        "title": "Vite+ Beta",
-        "summary": "score: 145, comments: 81",
-        "link": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-        "score": 145
+        "title": "Podman v6.0.0",
+        "summary": "score: 283, comments: 107",
+        "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+        "score": 283
       },
       {
         "source": "Hacker News",
-        "title": "The fall of the theorem economy",
-        "summary": "score: 144, comments: 59",
-        "link": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-        "score": 144
+        "title": "Exapunks (2018)",
+        "summary": "score: 174, comments: 66",
+        "link": "https://www.zachtronics.com/exapunks/",
+        "score": 174
       },
       {
         "source": "Hacker News",
-        "title": "Many people misunderstand the purpose of code review",
-        "summary": "score: 112, comments: 79",
-        "link": "https://mathstodon.xyz/@mjd/115096720350507897",
-        "score": 112
+        "title": "Virginia bans sale of geolocation data",
+        "summary": "score: 103, comments: 13",
+        "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+        "score": 103
       },
       {
         "source": "Hacker News",
-        "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-        "summary": "score: 49, comments: 15",
-        "link": "https://arxiv.org/abs/2607.01232",
-        "score": 49
+        "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+        "summary": "score: 68, comments: 17",
+        "link": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+        "score": 68
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
-        "summary": "score: 47, comments: 28",
-        "link": "https://www.zerofs.net/",
-        "score": 47
+        "title": "Postgres transactions are a distributed systems superpower",
+        "summary": "score: 59, comments: 27",
+        "link": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+        "score": 59
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 320",
-        "link": "https://www.coingecko.com/en/coins/the-black-bull"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 100",
-        "link": "https://www.coingecko.com/en/coins/lighter"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 118",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
@@ -315,27 +309,33 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Grass (GRASS)",
-        "summary": "market cap rank: 129",
-        "link": "https://www.coingecko.com/en/coins/grass"
+        "title": "The Black Bull (ANSEM)",
+        "summary": "market cap rank: 332",
+        "link": "https://www.coingecko.com/en/coins/the-black-bull"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 92",
-        "link": "https://www.coingecko.com/en/coins/venice-token"
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 102",
+        "link": "https://www.coingecko.com/en/coins/lighter"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Taiko (TAIKO)",
-        "summary": "market cap rank: 699",
-        "link": "https://www.coingecko.com/en/coins/taiko"
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 32",
+        "link": "https://www.coingecko.com/en/coins/sui"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "Uniswap (UNI)",
+        "summary": "market cap rank: 43",
+        "link": "https://www.coingecko.com/en/coins/uniswap"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Fartcoin (FARTCOIN)",
+        "summary": "market cap rank: 193",
+        "link": "https://www.coingecko.com/en/coins/fartcoin"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcdSVLEvjP5fJt5G89AVi'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcdyyP4jBA1kfoJSJS3zV'}"
   }
 }
