@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-04T14:24:05.748738+00:00",
+  "generated_at_utc": "2026-07-04T21:50:40.772267+00:00",
   "live_signals": {
     "english_news": [
       {
@@ -18,10 +18,24 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "Trump Accounts for kids launch July 4: What parents need to know",
+        "summary": "Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn.",
+        "link": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
+        "published": "Wed, 01 Jul 2026 12:15:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
         "summary": "Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad.",
         "link": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
         "published": "Sat, 04 Jul 2026 05:20:52 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "5 takeaways from President Donald Trump's interview with CNBC",
+        "summary": "The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments.",
+        "link": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
+        "published": "Thu, 02 Jul 2026 23:20:58 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -39,31 +53,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "5 takeaways from President Donald Trump's interview with CNBC",
-        "summary": "The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments.",
-        "link": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
-        "published": "Thu, 02 Jul 2026 23:20:58 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
         "summary": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
         "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
         "published": "Sat, 04 Jul 2026 09:33:19 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "I've worked with over 5,000 kids: I swear by this No. 1 parenting rule—it's 'surprisingly simple'",
-        "summary": "Child development expert Siggie Cohen, who has worked with over 5,000 families, shares one communication mistake she sees parents make every day. Here's why she says it can backfire, when to set clear boundaries and how to use questions more effectively.",
-        "link": "https://www.cnbc.com/2026/07/04/ive-studied-over-5000-kidsi-keep-giving-parents-the-same-surprisingly-simple-advice.html",
-        "published": "Sat, 04 Jul 2026 13:00:54 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-        "summary": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
-        "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 04 Jul 2026 02:26:54 GMT"
       },
       {
         "source": "BBC World",
@@ -74,10 +67,10 @@
       },
       {
         "source": "BBC World",
-        "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-        "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
-        "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 04 Jul 2026 07:52:55 GMT"
+        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+        "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+        "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 04 Jul 2026 18:41:25 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +81,80 @@
       },
       {
         "source": "BBC World",
-        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-        "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 04 Jul 2026 14:07:31 GMT"
+        "title": "Former chess champion Kramnik banned over cheating remarks",
+        "summary": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
+        "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 04 Jul 2026 15:45:15 GMT"
       },
       {
         "source": "BBC World",
-        "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
-        "summary": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development.",
-        "link": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 04 Jul 2026 00:43:26 GMT"
+        "title": "Injury ends Williams' Wimbledon comeback",
+        "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 04 Jul 2026 17:22:46 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+        "title": "Pope urges Europe to do more for migrants as he visits gateway island",
         "summary": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
         "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
         "published": "Sat, 04 Jul 2026 11:25:57 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-        "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
-        "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 03 Jul 2026 21:00:53 GMT"
+        "title": "Row after Indian state drops eggs from school lunch menu",
+        "summary": "West Bengal's move to replace eggs in some school meals has sparked a wider debate over nutrition and choice.",
+        "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 04 Jul 2026 00:55:10 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
+        "summary": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
+        "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 04 Jul 2026 02:26:54 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+        "published": "Sat, 04 Jul 2026 20:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin jumps above $63,000, reversing end-June losses",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+        "published": "Sat, 04 Jul 2026 18:07:17 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
+        "published": "Sat, 04 Jul 2026 18:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+        "published": "Sat, 04 Jul 2026 18:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Why bitcoin's disconnect from record-high stocks won't last",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
+        "published": "Sat, 04 Jul 2026 16:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
+        "published": "Sat, 04 Jul 2026 15:30:52 +0000"
       },
       {
         "source": "CoinDesk",
@@ -129,53 +171,11 @@
         "published": "Sat, 04 Jul 2026 13:56:27 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
-        "published": "Sat, 04 Jul 2026 12:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
-        "published": "Sat, 04 Jul 2026 07:08:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
-        "published": "Sat, 04 Jul 2026 06:48:42 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
-        "published": "Fri, 03 Jul 2026 19:18:59 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Trump says there is ‘nothing wrong’ with family’s crypto windfall",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/03/trump-says-there-is-nothing-wrong-with-family-s-crypto-windfall",
-        "published": "Fri, 03 Jul 2026 12:04:15 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/03/bitcoin-whales-bought-270-000-btc-in-two-weeks-even-as-etfs-bled-a-record-usd4-billion",
-        "published": "Fri, 03 Jul 2026 11:45:33 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-layoffs-mount-as-exchanges-continue-to-be-ravaged-by-the-prevailing-bear-market-bitcoin-1.jpg\" /></p><p>Bitcoin price strength could \"break\" the entire downtrend if the reversal pattern completed, John Bollinger suggested in light of the BTC rebound.</p>",
-        "link": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 04 Jul 2026 13:09:16 +0000"
+        "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken lets traders use tokenized stocks as collateral for leveraged trades\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cover-imagereview-of-us-stocks.png\" /></p><p>Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.</p>",
+        "link": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 04 Jul 2026 19:37:11 +0000"
       }
     ],
     "chinese_news": [
@@ -239,103 +239,103 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "The bottleneck might be the air in the room",
-        "summary": "score: 506, comments: 311",
-        "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-        "score": 506
+        "title": "Leaking YouTube creators' private videos",
+        "summary": "score: 387, comments: 194",
+        "link": "https://javoriuski.com/post/youtube",
+        "score": 387
       },
       {
         "source": "Hacker News",
-        "title": "Costco is the anti-Amazon",
-        "summary": "score: 463, comments: 420",
-        "link": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-        "score": 463
+        "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+        "summary": "score: 348, comments: 46",
+        "link": "https://peteris.rocks/blog/htop/",
+        "score": 348
       },
       {
         "source": "Hacker News",
-        "title": "Performance per dollar is getting faster and cheaper",
-        "summary": "score: 298, comments: 108",
-        "link": "https://www.wafer.ai/blog/glm52-amd",
-        "score": 298
+        "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+        "summary": "score: 252, comments: 118",
+        "link": "https://github.com/anthropics/claude-code/issues/74066",
+        "score": 252
       },
       {
         "source": "Hacker News",
-        "title": "Leanstral 1.5: Proof abundance for all",
-        "summary": "score: 292, comments: 85",
-        "link": "https://mistral.ai/news/leanstral-1-5/",
-        "score": 292
+        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+        "summary": "score: 238, comments: 121",
+        "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+        "score": 238
       },
       {
         "source": "Hacker News",
-        "title": "Giant trees have no trouble pumping water to top branches: new research",
-        "summary": "score: 232, comments: 103",
-        "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-        "score": 232
+        "title": "Meta data center water discharges suspended for contaminating water supply",
+        "summary": "score: 182, comments: 65",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+        "score": 182
       },
       {
         "source": "Hacker News",
-        "title": "Maybe you should learn something",
-        "summary": "score: 225, comments: 106",
-        "link": "https://www.marginalia.nu/log/a_135_learn/",
-        "score": 225
+        "title": "Astrophysicists Puzzle over Webb’s New Universe",
+        "summary": "score: 177, comments: 113",
+        "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+        "score": 177
       },
       {
         "source": "Hacker News",
-        "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-        "summary": "score: 166, comments: 36",
-        "link": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-        "score": 166
+        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+        "summary": "score: 174, comments: 78",
+        "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+        "score": 174
       },
       {
         "source": "Hacker News",
-        "title": "Agentic coding notes from Galapagos Island",
-        "summary": "score: 134, comments: 63",
-        "link": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-        "score": 134
+        "title": "Verizon is About to Break our Watches",
+        "summary": "score: 97, comments: 38",
+        "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+        "score": 97
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "manlet (MANLET)",
-        "summary": "market cap rank: 859",
-        "link": "https://www.coingecko.com/en/coins/manlet"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 210",
+        "summary": "market cap rank: 219",
         "link": "https://www.coingecko.com/en/coins/the-black-bull"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hamster Kombat (HMSTR)",
-        "summary": "market cap rank: 749",
-        "link": "https://www.coingecko.com/en/coins/hamster-kombat"
+        "title": "LAB (LAB)",
+        "summary": "market cap rank: 23",
+        "link": "https://www.coingecko.com/en/coins/lab"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "LAB (LAB)",
-        "summary": "market cap rank: 27",
-        "link": "https://www.coingecko.com/en/coins/lab"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 115",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Siren (SIREN)",
+        "summary": "market cap rank: 306",
+        "link": "https://www.coingecko.com/en/coins/siren-2"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ether.fi (ETHFI)",
+        "summary": "market cap rank: 120",
+        "link": "https://www.coingecko.com/en/coins/ether-fi"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Bitcoin (BTC)",
         "summary": "market cap rank: 1",
         "link": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 98",
-        "link": "https://www.coingecko.com/en/coins/lighter"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 114",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CchAnPqbTkrKhHYrw9UCP'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CchkqZXoEijBuXJ3Rjpeu'}"
   }
 }
