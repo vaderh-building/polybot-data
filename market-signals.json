@@ -1,69 +1,90 @@
 {
-  "generated_at_utc": "2026-07-06T08:55:22.619970+00:00",
+  "generated_at_utc": "2026-07-06T16:14:05.707951+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime",
+        "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
+        "summary": "Microsoft is cutting jobs in its commercial business and its Xbox gaming group, where revenue has been shrinking.",
+        "link": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+        "published": "Mon, 06 Jul 2026 14:56:55 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump plugs Dell at first-ever White House opening bell, sending shares soaring",
+        "summary": "Trump rang the bell in the Oval Office to open Monday's trading as he launched investment accounts for babies born from 2025 through 2028.",
+        "link": "https://www.cnbc.com/2026/07/06/trump-opening-bell-ceo-nyse-nasdaq-stocks-accounts.html",
+        "published": "Mon, 06 Jul 2026 14:53:12 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump defends call urging Balogun red card review: 'It wasn't a foul'",
+        "summary": "\"I didn't know what the hell a red card was,\" said Trump, who called FIFA President Gianni Infantino about the suspension of Folarin Balogun.",
+        "link": "https://www.cnbc.com/2026/07/06/trump-balogun-fifa-world-cup-us-belgium.html",
+        "published": "Mon, 06 Jul 2026 16:12:09 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
+        "summary": "Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system.",
+        "link": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
+        "published": "Mon, 06 Jul 2026 15:36:23 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
+        "summary": "President Donald Trump told CNBC's Joe Kernen last week that he thought SpaceX CEO Elon Musk would donate company stock to the program.",
+        "link": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
+        "published": "Mon, 06 Jul 2026 15:40:20 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Lockheed Martin to buy naval defense firm Ultra Maritime for $3.45 billion",
         "summary": "Ultra is owned by private equity firm Advent International, and specialises in anti-submarine technology.",
         "link": "https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html",
-        "published": "Mon, 06 Jul 2026 02:51:03 GMT"
+        "published": "Mon, 06 Jul 2026 12:54:26 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
-        "summary": "Trump reportedly spoke with Putin and Zelenskyy as Ukraine struck Russian targets and Moscow launched another deadly attack on Kyiv.",
-        "link": "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html",
-        "published": "Mon, 06 Jul 2026 08:50:04 GMT"
+        "title": "Versant agrees to buy golf simulator company Full Swing for $530 million",
+        "summary": "The deal for Full Swing will expand Versant's nontraditional media assets in an effort to diversify revenue from cable television.",
+        "link": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html",
+        "published": "Mon, 06 Jul 2026 12:53:00 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Belgium set to appeal as FIFA reverses Balogun's World Cup suspension after Trump reportedly intervenes",
-        "summary": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
-        "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
-        "published": "Mon, 06 Jul 2026 08:45:11 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "'NATO 3.0': Defense spending pledges face the Trump test",
-        "summary": "Leaders are expected to focus on whether Europe can turn higher defense spending into military power as Washington pushes allies to shoulder more of the burden.",
-        "link": "https://www.cnbc.com/2026/07/06/nato-summit-turkey-us-trump-defense-spending.html",
-        "published": "Mon, 06 Jul 2026 05:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Why Iran may find it difficult to clear its oil inventories even after sanctions relief",
-        "summary": "Iran may face challenges in clearing oil inventories even after restrictions have been lifted, amid oil supplies elsewhere while China becomes less enthusiastic",
-        "link": "https://www.cnbc.com/2026/07/06/iran-oil-supply-hormuz-china-energy.html",
-        "published": "Mon, 06 Jul 2026 06:50:12 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says",
-        "summary": "The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits.",
-        "link": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
-        "published": "Mon, 06 Jul 2026 03:21:27 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Ebola outbreak containment hampered by USAID closure, experts say",
-        "summary": "Foreign aid cuts have \"demonstrably worsened\" the Ebola crisis, a virologist told CNBC.",
-        "link": "https://www.cnbc.com/2026/07/06/ebola-drc-uganda-usaid-trump-musk.html",
-        "published": "Mon, 06 Jul 2026 05:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "World Cup fans spent anywhere from $2,500 to $150,000 to see matches—they say it was worth it",
-        "summary": "Soccer fans heading to World Cup matches at MetLife Stadium shared how much they expected to spend with CNBC Make It outside New York's Penn Station.",
-        "link": "https://www.cnbc.com/2026/07/05/world-cup-fans-spent-anywhere-from-2500-to-150000-to-see-matches.html",
-        "published": "Sun, 05 Jul 2026 14:42:38 GMT"
+        "title": "NATO tensions are ‘growing pains,’ U.S. ambassador says as Trump presses allies",
+        "summary": "U.S. Ambassador to NATO Matthew Whitaker said NATO's allies boosting defense spending under pressure from Trump reflects “growing pains,” not a crisis.",
+        "link": "https://www.cnbc.com/2026/07/06/nato-trump-defense-spending-whitaker.html",
+        "published": "Mon, 06 Jul 2026 14:23:27 GMT"
       },
       {
         "source": "BBC World",
-        "title": "At least 11 killed in second Russian strikes on Kyiv in a week",
-        "summary": "Rescue efforts are continuing at more than 20 locations, the city's top military administrator says.",
+        "title": "Trump confirms he asked Fifa to review Balogun ban",
+        "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 15:27:59 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
+        "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
         "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 06 Jul 2026 07:15:58 GMT"
+        "published": "Mon, 06 Jul 2026 15:09:57 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+        "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+        "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 12:07:44 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Wildfire in southern France forces evacuation of 10,000 people",
+        "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+        "link": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 13:08:23 GMT"
       },
       {
         "source": "BBC World",
@@ -74,10 +95,10 @@
       },
       {
         "source": "BBC World",
-        "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
-        "summary": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
-        "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 06 Jul 2026 01:46:29 GMT"
+        "title": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
+        "summary": "The two days of violence at Negombo Prison are the worst prison riots in the country in years.",
+        "link": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 14:19:26 GMT"
       },
       {
         "source": "BBC World",
@@ -88,97 +109,83 @@
       },
       {
         "source": "BBC World",
-        "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
-        "summary": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
-        "link": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 05 Jul 2026 22:01:43 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-        "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
-        "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 06 Jul 2026 00:20:20 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Australia space agency has found 'likely source' of mystery space balls",
-        "summary": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\".",
-        "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 06 Jul 2026 02:49:15 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
-        "summary": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 05 Jul 2026 18:18:40 GMT"
+        "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+        "summary": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
+        "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 01:46:29 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead",
+        "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/06/fomc-minutes-spacex-joins-nasdaq-100-crypto-week-ahead",
-        "published": "Mon, 06 Jul 2026 08:18:05 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+        "published": "Mon, 06 Jul 2026 16:00:15 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
+        "title": "One month that shook the market: Saylor's struggles over bitcoin strategy yields big losses",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
-        "published": "Mon, 06 Jul 2026 07:44:58 +0000"
+        "link": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
+        "published": "Mon, 06 Jul 2026 15:47:12 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Live markets: Bitcoin pops to $63,900, then reverses, as week begins",
+        "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins",
-        "published": "Mon, 06 Jul 2026 07:43:21 +0000"
+        "link": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
+        "published": "Mon, 06 Jul 2026 15:34:33 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "I am contemplating selling some of my bitcoin for gold, veteran trader Peter Brandt says",
+        "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/06/i-am-contemplating-selling-some-of-my-bitcoin-for-gold-veteran-trader-peter-brandt-says",
-        "published": "Mon, 06 Jul 2026 06:03:29 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
+        "published": "Mon, 06 Jul 2026 14:25:32 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "XRP rises 3% as $1.14 breakout turns into support test",
+        "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/06/xrp-rises-3-as-usd1-14-breakout-turns-into-support-test",
-        "published": "Mon, 06 Jul 2026 05:15:01 +0000"
+        "link": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
+        "published": "Mon, 06 Jul 2026 13:42:12 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Ether leads crypto's hold above key levels as bitcoin steadies over $63,000",
+        "title": "Cantor says Strategy's recovery hinges on restoring STRC to par",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000",
-        "published": "Mon, 06 Jul 2026 05:09:07 +0000"
+        "link": "https://www.coindesk.com/markets/2026/07/06/cantor-says-strategy-s-recovery-hinges-on-restoring-strc-to-par",
+        "published": "Mon, 06 Jul 2026 13:06:09 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Clarity and Congress's summer break: State of Crypto",
+        "title": "Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
-        "published": "Sun, 05 Jul 2026 18:30:00 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/06/bitmine-added-another-usd74-million-in-ether-as-tom-lee-bets-on-clarity-act-boost",
+        "published": "Mon, 06 Jul 2026 12:54:37 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+        "title": "Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
-        "published": "Sun, 05 Jul 2026 15:00:00 +0000"
+        "link": "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million",
+        "published": "Mon, 06 Jul 2026 12:16:28 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Nigel Farage accepted gifts from crypto-linked fraudster: Report",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nigel Farage accepted gifts from crypto-linked fraudster: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-tightens-aml-laws-and-mentions-crypto-as-suspicious.jpg\" /></p><p>Before he was an MP, Nigel Farage was reportedly gifted staff, security and other benefits from George Cottrell, a convicted fraudster involved in a crypto casino.</p>",
-        "link": "https://cointelegraph.com/news/nigel-farage-accepted-gifts-from-crypto-linked-fraudster-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 06 Jul 2026 06:02:55 +0000"
+        "title": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-escrow-services-and-how-do-they-work-strategyb-1.jpg\" /></p><p>Bitcoin wiped out much of its latest gains thanks to a market reaction to Strategy's 3,600 BTC sell-off, but analysis eyed a potential buy announcement in the coming days.</p>",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 06 Jul 2026 15:22:45 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+        "summary": "<h2>大公司：</h2>\n  <p><strong>郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销”</strong></p>\n  <p>知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至2500美元左右，而供应限制将导致转售价格溢价50%至100%。他认为判断可折叠iPhone销售前景的关键在于2026年末至2027年第一季度。（财联社）</p>\n  <p><strong>千问大模型升级实时语音识别大模型Fun-ASR-Realtime</strong></p>\n  <p>36氪获悉，千问大模型正式升级实时语音识别大模型Fun-ASR-Realtime——一款首字延迟控制在百毫秒级别、识别准确率接近离线模型的流式语音识别模型，支持16种方言和30种语言。</p>\n  <p><strong>沙利文全栈AI云服务报告：阿里云占比40.1%</st",
+        "link": "https://36kr.com/p/3884024701874183?f=rss",
+        "published": "2026-07-06 18:39:24  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
@@ -227,102 +234,95 @@
         "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260706/v2_cc7b1492ca7445ce866e3d611c6aae50@6221844_oswg609236oswg642oswg422_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/视觉中国</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>如果在七年前，有人告诉一个投资人，量子计算公司会有订单，还能在纳斯达克上市，市值破150亿美元，对方大概率会把这人当个骗子。</p>\n  <p>他们很多人都记得前几年那场“量子寒冬”。那一年，谷歌用量子处理器完成了一项计算， 200秒算出了超级计算机1万年才能得出的结果。人们以为， 量子霸权实现了，量子计算机真的能解决经典计算机无法解决的问题。</p>\n  <p>狂欢转瞬即逝。那终究只是一次炫目的实验，“大家很快意识到，现",
         "link": "https://36kr.com/p/3883513899380744?f=rss",
         "published": "2026-07-06 10:15:39  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价",
-        "summary": "<h2>今日热点导览</h2>\n  <p>苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型</p>\n  <p>蒋方舟再回应被清华教授指控论文造假</p>\n  <p>张雪称负债接近1亿元，本月将还清全部债务</p>\n  <p>黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产</p>\n  <p>印度政府：正调查苹果手机信息泄露事件</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>7-11起诉耐克，指控其新鞋配色抄袭7-11标志性颜色</strong></p>\n  <p>据报道，跨国连锁零售公司7-Eleven（7-11）已在美国得克萨斯州联邦法院起诉运动品牌耐克，指控该公司计划于7月11日推出的运动鞋抄袭了7-11便利店标志性的橙、绿、红三色条纹设计。</p>\n  <p>7-11在2日向法院提交的诉状中称，耐克即将推出的Air Max 95运动鞋采用的颜色与7-11品牌商标极易混淆，消费者会将该设计与7-11品牌联系起来。此外，耐克将该运动鞋的发售日期定为7月11日，这一天恰逢该零售商一年一度的促销活动。（财联社）</p>\n  <p ",
-        "link": "https://36kr.com/p/3883400536453381?f=rss",
-        "published": "2026-07-06 08:02:20  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Organic Maps",
-        "summary": "score: 964, comments: 290",
-        "link": "https://organicmaps.app/",
-        "score": 964
+        "title": "Real-time map of Great Britain's rail network",
+        "summary": "score: 299, comments: 114",
+        "link": "https://www.map.signalbox.io",
+        "score": 299
       },
       {
         "source": "Hacker News",
-        "title": "OpenPrinter",
-        "summary": "score: 822, comments: 201",
-        "link": "https://www.opentools.studio/",
-        "score": 822
+        "title": "Road to Elm 1.0",
+        "summary": "score: 185, comments: 83",
+        "link": "https://elm-lang.org/news/faster-builds",
+        "score": 185
       },
       {
         "source": "Hacker News",
-        "title": "It's not about physical vs. digital games, it's about ownership",
-        "summary": "score: 473, comments: 347",
-        "link": "https://popcar.bearblog.dev/its-about-ownership/",
-        "score": 473
+        "title": "Introduction to Genomics for Engineers",
+        "summary": "score: 151, comments: 25",
+        "link": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+        "score": 151
       },
       {
         "source": "Hacker News",
-        "title": "GPT-5.6 Sol Ultra will be in Codex",
-        "summary": "score: 268, comments: 196",
-        "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
-        "score": 268
+        "title": "Aluminum foil (2021)",
+        "summary": "score: 98, comments: 33",
+        "link": "https://dernocua.github.io/notes/aluminum-foil.html",
+        "score": 98
       },
       {
         "source": "Hacker News",
-        "title": "Has_not_been_viewed_much",
-        "summary": "score: 268, comments: 69",
-        "link": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-        "score": 268
+        "title": "Clojure 1.13 adds support for checked keys",
+        "summary": "score: 95, comments: 11",
+        "link": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+        "score": 95
       },
       {
         "source": "Hacker News",
-        "title": "Starring the Computer",
-        "summary": "score: 225, comments: 50",
-        "link": "https://www.starringthecomputer.com/computers.html",
-        "score": 225
+        "title": "How Kalshi Infects the News",
+        "summary": "score: 84, comments: 55",
+        "link": "https://www.publicnotice.co/p/kalshi-cnn-cnbc",
+        "score": 84
       },
       {
         "source": "Hacker News",
-        "title": "Zuckerberg says AI agent development going slower than expected",
-        "summary": "score: 218, comments: 379",
-        "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-        "score": 218
+        "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+        "summary": "score: 84, comments: 39",
+        "link": "https://andonlabs.com/blog/fable5-vending-bench",
+        "score": 84
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-        "summary": "score: 172, comments: 41",
-        "link": "https://homegames.io",
-        "score": 172
+        "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
+        "summary": "score: 84, comments: 84",
+        "link": "https://spectrum.ieee.org/stochastic-parrot",
+        "score": 84
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Lighter (LIT)",
-        "summary": "market cap rank: 93",
+        "summary": "market cap rank: 92",
         "link": "https://www.coingecko.com/en/coins/lighter"
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Vanar Chain (VANRY)",
+        "summary": "market cap rank: 881",
+        "link": "https://www.coingecko.com/en/coins/vanar-chain"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 202",
+        "summary": "market cap rank: 201",
         "link": "https://www.coingecko.com/en/coins/the-black-bull"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Monad (MON)",
-        "summary": "market cap rank: 144",
+        "summary": "market cap rank: 137",
         "link": "https://www.coingecko.com/en/coins/monad"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 114",
+        "summary": "market cap rank: 113",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
@@ -333,9 +333,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Synapse (SYN)",
-        "summary": "market cap rank: 301",
-        "link": "https://www.coingecko.com/en/coins/synapse"
+        "title": "Ethereum (ETH)",
+        "summary": "market cap rank: 2",
+        "link": "https://www.coingecko.com/en/coins/ethereum"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CckXLMJ38uLoL68fhgLRx'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ccm6njmx8ZYikVQLgdoPp'}"
   }
 }
