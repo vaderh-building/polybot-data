@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-07-06T22:11:38.829132+00:00",
+  "generated_at_utc": "2026-07-07T08:15:35.686763+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience",
+        "summary": "Trump frequently vented about NATO members' refusal to heed U.S. calls for help clearing the Strait of Hormuz during its campaign against Iran.",
+        "link": "https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html",
+        "published": "Tue, 07 Jul 2026 07:18:55 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Why oil investors fear the next toll fight could be the Strait of Malacca",
+        "summary": "The prospect of fees to transit the Strait of Hormuz has sparked alarm, not least by investors who fear it could be replicated in other maritime corridors.",
+        "link": "https://www.cnbc.com/2026/07/07/malacca-hormuz-oil-shipping-indonesia.html",
+        "published": "Tue, 07 Jul 2026 06:16:44 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+        "summary": "Recent model releases from Chinese companies including DeepSeek and Z.ai are seen by many as highly competitive compared to leading U.S. frontier systems.",
+        "link": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+        "published": "Tue, 07 Jul 2026 05:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Google backs nuclear fusion startup targeting Europe’s first commercial power plant",
+        "summary": "Proxima Fusion has raised $468 million as it looks to move towards commercializing the promising but infamously difficult technical challenge of nuclear fusion.",
+        "link": "https://www.cnbc.com/2026/07/07/google-proxima-fusion-funding.html",
+        "published": "Tue, 07 Jul 2026 06:24:28 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. loses to Belgium 4-1; Balogun plays after Trump calls FIFA",
+        "summary": "FIFA reversed Folarin Balogun’s suspension after Trump sought a review, letting the U.S. striker play Belgium over objections.",
+        "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+        "published": "Tue, 07 Jul 2026 02:18:50 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines",
+        "summary": "Canadian Prime Minister Mark Carney announced Monday that Germany's Thyssenkrupp Marine Systems would be the preferred supplier for delivering the submarines.",
+        "link": "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html",
+        "published": "Tue, 07 Jul 2026 05:29:18 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
@@ -11,52 +53,17 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Platner Senate campaign taking 'time to reflect' on path forward after sexual assault allegation",
-        "summary": "Platner and his campaign denied the accusations made by 41-year-old Maine resident Jenny Racicot in a POLITICO article published Monday.",
-        "link": "https://www.cnbc.com/2026/07/06/graham-platner-maine-senate-allegation-response.html",
-        "published": "Mon, 06 Jul 2026 21:43:29 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Belgium loses appeal of Balogun eligibility after Trump defends intervention with FIFA",
-        "summary": "FIFA reversed Folarin Balogun’s suspension after Trump sought a review, letting the U.S. striker play Belgium as officials objected.",
-        "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
-        "published": "Mon, 06 Jul 2026 20:11:06 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas",
         "summary": "Toyota said it is investing $3.6 billion to move production of the Tacoma midsize pickup truck from Mexico to its San Antonio manufacturing campus in Texas.",
         "link": "https://www.cnbc.com/2026/07/06/toyota-tacoma-truck-san-antonio-plant.html",
         "published": "Mon, 06 Jul 2026 20:30:01 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
-        "summary": "Chinese e-commerce giant Alibaba has put Anthropic's Claude Code on a high-risk software list.",
-        "link": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
-        "published": "Mon, 06 Jul 2026 21:26:17 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Here's how SpaceX's Nasdaq-100 inclusion might affect options pricing",
-        "summary": "About half-a-million SpaceX options traded by midday Monday, a little below the average since inception.",
-        "link": "https://www.cnbc.com/2026/07/06/heres-how-spacexs-nasdaq-100-inclusion-might-affect-options-pricing.html",
-        "published": "Mon, 06 Jul 2026 18:27:06 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Student loan servicers begin 90-day countdown for borrowers to leave SAVE plan",
-        "summary": "Student loan servicers have begun alerting borrowers that they have 90 days to leave the Biden-era SAVE plan. Here's what comes next.",
-        "link": "https://www.cnbc.com/2026/07/06/student-loan-servicers-save-plan-exit-notices.html",
-        "published": "Mon, 06 Jul 2026 16:37:10 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump defends call urging Balogun red card review: 'It wasn't a foul'",
-        "summary": "\"I didn't know what the hell a red card was,\" said Trump, who called FIFA President Gianni Infantino about the suspension of Folarin Balogun.",
-        "link": "https://www.cnbc.com/2026/07/06/trump-balogun-fifa-world-cup-us-belgium.html",
-        "published": "Mon, 06 Jul 2026 16:36:28 GMT"
+        "source": "BBC World",
+        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+        "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+        "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 07 Jul 2026 04:18:19 GMT"
       },
       {
         "source": "BBC World",
@@ -67,17 +74,31 @@
       },
       {
         "source": "BBC World",
-        "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-        "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-        "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 06 Jul 2026 21:02:37 GMT"
+        "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+        "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 23:55:53 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-        "summary": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
+        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+        "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
+        "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 07 Jul 2026 00:46:03 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
+        "summary": "Questions have been raised over alleged theft of cash, valuable jewellery, gold and silver offered by devotees.",
+        "link": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 07 Jul 2026 06:23:04 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Erika Kirk attends hearing for suspect charged with husband's murder",
+        "summary": "The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.",
         "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 06 Jul 2026 19:06:26 GMT"
+        "published": "Tue, 07 Jul 2026 02:33:18 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +109,45 @@
       },
       {
         "source": "BBC World",
-        "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-        "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-        "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 06 Jul 2026 18:50:44 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Wildfire in southern France forces evacuation of 10,000 people",
         "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
         "link": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
         "published": "Mon, 06 Jul 2026 13:08:23 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "More than 1,000 arrested as part of global human trafficking crackdown",
-        "summary": "Interpol says the vast majority of the 2,070 victims or potential victims identified were women being trafficked for sex.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 06 Jul 2026 17:24:31 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
+        "published": "Tue, 07 Jul 2026 07:50:57 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-        "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
-        "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 06 Jul 2026 05:04:28 GMT"
+        "source": "CoinDesk",
+        "title": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
+        "published": "Tue, 07 Jul 2026 06:51:28 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+        "published": "Tue, 07 Jul 2026 05:40:58 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "XRP stalls near $1.14 as breakout attempt struggles for volume",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume",
+        "published": "Tue, 07 Jul 2026 04:46:30 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale",
+        "published": "Tue, 07 Jul 2026 04:33:15 +0000"
       },
       {
         "source": "CoinDesk",
@@ -136,49 +171,56 @@
         "published": "Mon, 06 Jul 2026 15:47:12 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
-        "published": "Mon, 06 Jul 2026 15:34:33 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
-        "published": "Mon, 06 Jul 2026 14:25:32 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
-        "summary": "",
-        "link": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
-        "published": "Mon, 06 Jul 2026 13:42:12 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Cantor says Strategy's recovery hinges on restoring STRC to par",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/06/cantor-says-strategy-s-recovery-hinges-on-restoring-strc-to-par",
-        "published": "Mon, 06 Jul 2026 13:06:09 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/06/bitmine-added-another-usd74-million-in-ether-as-tom-lee-bets-on-clarity-act-boost",
-        "published": "Mon, 06 Jul 2026 12:54:37 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sponsor-screen-traid-bnb-chain.png\" /></p><p>The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.</p>",
-        "link": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 06 Jul 2026 21:57:20 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 07 Jul 2026 06:02:08 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "揭秘字节 Seedance：中国第一台大模型印钞机启动了 | 深氪",
+        "summary": "<p><strong>采访 | 邓咏仪 肖思佳 李小霞</strong></p>\n  <p><strong>文 | 张雨忻 邓咏仪</strong></p>\n  <p><strong>编辑 | 张雨忻 杨轩</strong></p>\n  <p>2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。</p>\n  <p>曾妍是字节 Seed 一位非常年轻的研究员，2021 年校招生，研究方向始终聚焦在视频理解与生成上。“她一直都挺有自己的技术判断。” 一位与曾妍打过交道的人告诉 36 氪，“而且很主动，对于相信的事情比较坚持，会想办法争取资源去实现。”</p>\n  <p>这个评价几乎复现了曾妍做 Seedance2.0 训练时的处境。“她想训一个参数量更大的模型，但当时团队内部有一些分歧，有人觉得把模型直接 scale up 到 200B-300B 的级别有点冒进了，并且整体的训练资源也紧张，可能先训一个 100B 级别的模型技更安全。”一位知情人士告诉 36 氪。</p>\n",
+        "link": "https://36kr.com/p/3885177884078083?f=rss",
+        "published": "2026-07-07 15:30:26  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "\"龙虾\"为什么这么火？OpenClaw登顶GitHub后，AI Agent时代真的来了？",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260707/v2_8697ba07ba554ad9b304c03d1c07bd39@6390519_oswg137495oswg830oswg619_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">GitHubStar-history</p>\n  <h2>最近Openclaw以25.2万星标，超越Meta的React登顶GitHub开源项目历史第一！</h2>\n  <p>要知道React是Facebook(现改名Meta）打造的经典前端框架，过去十余年间，互联网上绝大多数我们熟知的网站与App，底层技术架构皆由它构筑。Openclaw官方更是高调发文嘲讽Meta“我们在迭代创新，而你只在办会议”。</p>\n  <p>这只被全球开发者亲昵称作“龙虾”的OpenClaw，凭一己之力点燃了AI Agent领域的全民狂欢，成为2026年科技圈最",
+        "link": "https://36kr.com/p/3885061350617350?f=rss",
+        "published": "2026-07-07 14:23:00  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。</p>\n  <p>工程师背景出身，曾就职于大疆、美团等头部大厂，拿过顶级机构的钱，履历足以支撑他选择任何一个被市场验证过的热门赛道，在最短时间内做出产品、讲故事、滚动融资。</p>\n  <p>但胡文鑫扎进了一个过去三十年几乎无人问津的品类：家用纺织机。</p>\n  <p>很少有人知道胡文鑫具体在做什么。浪爪智能成立于2022年12月，近几年里，团队刻意保持水下状态——BP从不外发，没有主动路演或公司传播，有投资人对产品方向感兴趣就直接到办公室看Demo。</p>\n  <p>硬氪独家获悉，过去几年，浪爪智能已连续完成数轮超亿元融资，Pre-A2轮由元璟资本领投、老股东顺为资本超额加注，Pre-A3轮由米哈游领投、老股东元璟及顺为大幅超额加注。此前投资方包括红杉等。</p>\n  <p>选择纺织方向，基于一个极为朴素的认知。“纺织天然切中‘衣食住行’的首位，是一件足够大且真实存在的需求。而定制化DIY，是在刚性需求被满足之后，用户向内探索自我表达",
+        "link": "https://36kr.com/p/3876837605585160?f=rss",
+        "published": "2026-07-07 10:29:47  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
+        "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。</p>\n  <p>华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库等单位专家组成科学顾问委员会，形成科研与产业协同的团队架构。公司CEO杜润诗就读于加州大学洛杉矶分校，是AI领域连续创业者；CTO王艺璇为香港中文大学计算机科学与工程专业博士生，曾在百图生科牵头搭建基因扰动转录效应的预测模型xTrimoSC Perturb。此外，香港中文大学算机科学与工程系助理教授李煜任华源智因首席AI科学家。</p>\n  <p>在新药研发领域，“10年、10亿美金”是公认困境。其中，九成资源流向人体临床试验阶段，但最终仅有10%左右的候选药物能够顺利通过全部临床、成功上市。造成超高失败率的核心原因之一，是动物实验与人体真实生理环境的巨大差异。</p>\n  <p>那么",
+        "link": "https://36kr.com/p/3883943959621634?f=rss",
+        "published": "2026-07-07 09:05:00  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260706/v2_86e8a7fe5e73441aa2345416e68dcc99@6221844_oswg884550oswg1073oswg723_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2000</strong>字，建议阅读<strong>5</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，上海快粼光电科技有限公司（以下简称“快粼光电”）近期已完成数千万元天使轮融资。本轮融资由小苗朗程领投，一村资本跟投。中岚科创担任长期财务顾问，提供产业协同和资本对接服务。此次募集资金将主要用于公司超高速光探测芯片的研发迭代与送样验证，",
+        "link": "https://36kr.com/p/3884289424437511?f=rss",
+        "published": "2026-07-07 09:00:00  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+        "summary": "<h2>今日热点导览</h2>\n  <p>华为Mate90系列有望搭载基于韬定律的新麒麟芯片</p>\n  <p>央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置&nbsp;</p>\n  <p>千问大模型升级实时语音识别大模型Fun-ASR-Realtime</p>\n  <p>WPS回应“滥收费、背刺用户”言论</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模</strong></p>\n  <p>据报道，SK海力士将以约44万亿韩元规模的美国存托凭证（ADR）在纳斯达克上市，挑战外资企业在美国股市上市的历史最大规模。纳斯达克上市后，SK海力士可在美国正规市场进行交易，并获得纳入纳斯达克100等主要指数的资格，追踪相关指数的交易所交易基金（ETF）的买入资金流入也备受期待。不过，也有声音对AI存储半导体板块的急涨势头是否过热提出警示。随着大型科技企业持续通过债券和股票市场筹集数据中心投资资金，外界对存储行业景气能否持续的担忧与日俱增。（界面新闻）</p>\n  <p><strong>99",
+        "link": "https://36kr.com/p/3884831072514309?f=rss",
+        "published": "2026-07-07 08:15:11  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
@@ -192,150 +234,108 @@
         "summary": "<p>文｜吴思瑾</p>\n  <p>编辑｜邓咏仪</p>\n  <h2>01 一句话介绍</h2>\n  <p>北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。</p>\n  <p>简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。</p>\n  <p>近期，APTSell宣布已经完成由DCM Ventures独家投资的数百万美元种子轮融资，该资金将用于产品技术的研发迭代，并积极开展深入的商业化合作。此前，APTSell还曾获得来自Atom Capital的天使轮投资。</p>\n  <h2>02 团队介绍</h2>\n  <ul>\n   <li>创始人赵雷曾在Oracle就职10年，从一线销售到北区总经理，他搭建了一套规模化的行业销售体系，实现单一行业3年3亿收入，YoY&gt;150%。此后，赵雷在微步在线任职销售VP，5年时间为公司",
         "link": "https://36kr.com/p/3883591654895873?f=rss",
         "published": "2026-07-06 15:53:03  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "36氪首发｜前西门子、罗罗电动飞行团队创业做航空电驱系统，两轮连融数千万元",
-        "summary": "<p>本文约3000字，建议阅读6分钟</p>\n  <p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，开普动能航空技术有限责任公司（以下简称“开普动能”）近期连续完成种子轮及天使轮融资，两轮融资合计金额达数千万元人民币，由零以资本领投、新鼎资本跟投，唯快资本担任长期财务顾问。</p>\n  <p>随着eVTOL产业进入工程化阶段，航空电驱系统正成为产业链中技术壁垒最高的核心环节之一。作为电动飞行器“三电系统”的关键组成部分，航空电驱系统成本约占整机成本的30-40%，不仅需要兼顾高功率密度、高扭矩密度和高效率，还需满足极高的安全性、可靠性、可测试维护性等适航要求（包括多通道冗余设计、单点失效保护以及复杂热管理等能力），同时电机控制器的软/硬件还需要进行DO-178C、DO-254的适航认证，对研发团队的航空工程经验提出了极高要求。</p>\n  <p>目前，国内eVTOL电驱领域虽已有不少企业布局，但中高端产品国产化率仍然较低，在轻量化设计、可靠性、适航经验等方面与国际领先水平仍存在差距，行业整体仍处于研发和认证",
-        "link": "https://36kr.com/p/3883721315971078?f=rss",
-        "published": "2026-07-06 13:26:21  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "上市前夜 | 哈工大在读博士以百亿市值冲港股IPO，创始三人只剩一人",
-        "summary": "<p>本文约3600字，建议阅读8分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第二期——<strong>珞石机器人</strong>。</p>\n  </blockquote>\n  <p>7月6日上午10点，<strong>珞石机器人</strong>港股IPO招股结束。此次IPO定价38港元，每手100股，对应市值99.46亿港元。合计募资8.75亿港元，五家基石认购31.4%。</p>\n  <p>珞石的IPO之路并不顺利，早在2024年12月，它就和国泰海通签了A股上市辅导协议。但2025年8月，就主动叫停A股，掉头奔向港股。有意思的是，虽然其总部落在<strong>山东济宁邹城</strong>，但创始团队却出自北京。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20",
-        "link": "https://36kr.com/p/3883708118921480?f=rss",
-        "published": "2026-07-06 13:13:02  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "上市前夜｜4个月净利润38.4亿元，深圳存储黑马冲港股IPO",
-        "summary": "<p>本文约3400字，建议阅读7分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第一期——深圳宏芯宇电子。</p>\n  </blockquote>\n  <p>7月3日，一家名叫宏芯宇电子的深圳公司，向港交所递交了招股书，此次IPO独家保荐人是<strong>中信建投</strong>。</p>\n  <p>招股书里最亮眼的是这么一组数字：<strong>2026年前四个月，宏芯宇净利润38.41亿元，比上年同期的1.23亿元暴涨3020.8%</strong>。整体毛利率从一年前的13.8%一路飙到<strong>62.0%</strong>。</p>\n  <p>一家2023年还在亏1.18亿、经营现金流失血10.5亿的模组厂，忽然之间成了印钞机。硬氪从这份481页招股书中看到，比净利润暴涨30倍更复杂的是——它有多少是本事，有多少是这轮存储涨价超级周期带来的。</p>\n  ",
-        "link": "https://36kr.com/p/3883706720727303?f=rss",
-        "published": "2026-07-06 13:11:37  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "跨境电商风向转变：新生代不再只拼价格，开始争“定价权”丨最前线",
-        "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨最前线</p>\n  <p>6月30日，亚马逊全球开店与福布斯中国联合发布“2026福布斯中国新生代跨境电商30人评选”，30位入选者平均年龄仅35岁，95后已开始崭露头角。</p>\n  <p>入选者既有3D打印、庭院机器人、AI助听器等硬核科技赛道的开拓者，也有家具、家居、服装等传统产业的变革者。他们来自广东、浙江、江苏三省，占比超过75%。更重要的是，这些年轻创业者共同票选出了三个年度关键词：“星辰大海”、“快与慢”和“定价权”。</p>\n  <p>这三个词背后的指向也很有意思：全球化视野、长期主义决心，以及跳出价格战的野心。</p>\n  <p>过去一年，昂听ELEHEAR在美国亚马逊助听器类目做到品牌第一。创始人苗健彰长期深耕AI声学算法，2021年切入助听器赛道，走了一条“很慢”的路——全栈自研。</p>\n  <p>硬氪了解到，助听器行业有一个长期矛盾：传统医疗级产品性能好但价格高昂，线上廉价产品体验糟糕，啸叫、降噪差等问题普遍存在。</p>\n  <p>昂听ELEHEAR的做法是打造全新的AI助听器+远程实时验配模式，自研VOCCLEAR",
-        "link": "https://36kr.com/p/3883561480876297?f=rss",
-        "published": "2026-07-06 10:43:23  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
-        "summary": "<p>访谈｜任彩茹 兰杰 彭倩</p>\n  <p>文｜任彩茹</p>\n  <p>编辑｜乔芊 杨轩</p>\n  <h3><strong>“630”减员，AI是祸首还是替罪羊?</strong></h3>\n  <p>“现在公司有（减员）名单，你在这里面。”5月中的一天，林越被组长叫进会议室，对方开门见山。</p>\n  <p>林越的第一反应是平静，他早有预料。早在今年三四月，一些互联网公司内部便传出要裁员的风声。开年以来，中国互联网大公司围绕AI提效激进开展的token竞赛、培训会、隐形考核等，无处不在。当所有人都被卷入一场“all in AI”的运动时，“裁员一定会发生”就是大家心照不宣的共识。</p>\n  <p>但站在HR门口时，他还是迎来了情绪崩溃的瞬间：手开始发抖，犹豫了很长时间，想着怎么开头，怎么调整自己的举止表情。“我再也不想经历这样的事。”</p>\n  <p>林越月薪2万5，一年前本科毕业，入职携程当后端工程师——当时看，他是极其幸运的一个。互联网招聘红利不再，携程几千份简历只录取不到500人，但他进入的是公司最赚钱的酒店部门，负责为商业化产品写代码。</p>\n  <p>但现在",
-        "link": "https://36kr.com/p/3883456791163138?f=rss",
-        "published": "2026-07-06 10:26:34  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260706/v2_cc7b1492ca7445ce866e3d611c6aae50@6221844_oswg609236oswg642oswg422_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/视觉中国</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>如果在七年前，有人告诉一个投资人，量子计算公司会有订单，还能在纳斯达克上市，市值破150亿美元，对方大概率会把这人当个骗子。</p>\n  <p>他们很多人都记得前几年那场“量子寒冬”。那一年，谷歌用量子处理器完成了一项计算， 200秒算出了超级计算机1万年才能得出的结果。人们以为， 量子霸权实现了，量子计算机真的能解决经典计算机无法解决的问题。</p>\n  <p>狂欢转瞬即逝。那终究只是一次炫目的实验，“大家很快意识到，现",
-        "link": "https://36kr.com/p/3883513899380744?f=rss",
-        "published": "2026-07-06 10:15:39  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
         "title": "Resetting Xbox",
-        "summary": "score: 403, comments: 355",
+        "summary": "score: 595, comments: 613",
         "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-        "score": 403
+        "score": 595
       },
       {
         "source": "Hacker News",
         "title": "OpenWrt One – Open Hardware Router",
-        "summary": "score: 289, comments: 126",
+        "summary": "score: 577, comments: 225",
         "link": "https://openwrt.org/toh/openwrt/one",
-        "score": 289
-      },
-      {
-        "source": "Hacker News",
-        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-        "summary": "score: 247, comments: 174",
-        "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-        "score": 247
-      },
-      {
-        "source": "Hacker News",
-        "title": "Aluminum foil (2021)",
-        "summary": "score: 217, comments: 101",
-        "link": "https://dernocua.github.io/notes/aluminum-foil.html",
-        "score": 217
+        "score": 577
       },
       {
         "source": "Hacker News",
         "title": "CoMaps – FOSS Offline Maps",
-        "summary": "score: 196, comments: 36",
+        "summary": "score: 510, comments: 100",
         "link": "https://www.comaps.app/",
-        "score": 196
+        "score": 510
+      },
+      {
+        "source": "Hacker News",
+        "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+        "summary": "score: 400, comments: 226",
+        "link": "https://github.com/MaximeRivest/Riddle",
+        "score": 400
+      },
+      {
+        "source": "Hacker News",
+        "title": "GLM 5.2 and the coming AI margin collapse",
+        "summary": "score: 368, comments: 230",
+        "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "score": 368
       },
       {
         "source": "Hacker News",
         "title": "A global workspace in language models",
-        "summary": "score: 187, comments: 57",
+        "summary": "score: 353, comments: 128",
         "link": "https://www.anthropic.com/research/global-workspace",
-        "score": 187
+        "score": 353
       },
       {
         "source": "Hacker News",
-        "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-        "summary": "score: 87, comments: 25",
-        "link": "https://github.com/iOfficeAI/OfficeCLI",
-        "score": 87
+        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+        "summary": "score: 319, comments: 220",
+        "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+        "score": 319
       },
       {
         "source": "Hacker News",
-        "title": "Linux on the Atari Jaguar",
-        "summary": "score: 80, comments: 13",
-        "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-        "score": 80
+        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+        "summary": "score: 202, comments: 48",
+        "link": "https://ternlight-demo.vercel.app/",
+        "score": 202
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 180",
+        "summary": "market cap rank: 182",
         "link": "https://www.coingecko.com/en/coins/the-black-bull"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 113",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Monad (MON)",
-        "summary": "market cap rank: 135",
-        "link": "https://www.coingecko.com/en/coins/monad"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 93",
-        "link": "https://www.coingecko.com/en/coins/lighter"
+        "title": "Venice Token (VVV)",
+        "summary": "market cap rank: 103",
+        "link": "https://www.coingecko.com/en/coins/venice-token"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Bonk (BONK)",
-        "summary": "market cap rank: 118",
+        "summary": "market cap rank: 120",
         "link": "https://www.coingecko.com/en/coins/bonk"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "yearn.finance (YFI)",
-        "summary": "market cap rank: 287",
-        "link": "https://www.coingecko.com/en/coins/yearn-finance"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 114",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Grove (GROVE)",
+        "summary": "market cap rank: 164",
+        "link": "https://www.coingecko.com/en/coins/grove"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Monad (MON)",
+        "summary": "market cap rank: 136",
+        "link": "https://www.coingecko.com/en/coins/monad"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "OpenGradient (OPG)",
+        "summary": "market cap rank: 677",
+        "link": "https://www.coingecko.com/en/coins/opengradient"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ccma497TZMqfW8W52Zdyy'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcnN7JdePsb3xXEVuR5T4'}"
   }
 }
