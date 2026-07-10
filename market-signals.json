@@ -1,69 +1,62 @@
 {
-  "generated_at_utc": "2026-07-10T08:16:02.089079+00:00",
+  "generated_at_utc": "2026-07-10T15:27:11.972904+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'",
+        "title": "Trump says he won't sign housing bill, which would become law automatically",
+        "summary": "Congress passed the bill that aims to address the costs of homes and rein in institutional investors with strong bipartisan support in June.",
+        "link": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html",
+        "published": "Fri, 10 Jul 2026 14:17:24 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SK Hynix stock set for Nasdaq debut, opening the trillion-dollar chip giant to U.S. investors",
+        "summary": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
+        "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+        "published": "Fri, 10 Jul 2026 14:47:07 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 7%",
+        "summary": "Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.",
+        "link": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
+        "published": "Fri, 10 Jul 2026 14:55:07 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump says U.S. to continue talks with Iran despite scrapped ceasefire",
         "summary": "The ceasefire signed last month came under serious strain in recent days as the U.S. and Iranian forces exchanged attacks for consecutive days this week.",
         "link": "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
-        "published": "Fri, 10 Jul 2026 02:51:57 GMT"
+        "published": "Fri, 10 Jul 2026 15:23:05 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Will SK Hynix’s Wall Street debut narrow its 'Korea discount'?",
-        "summary": "As global chip giant SK Hynix makes its Nasdaq debut Friday, the listing serves as a major test of whether the company can shed its long standing \"Korea Discount.\"",
-        "link": "https://www.cnbc.com/2026/07/10/sk-hynix-debuts-on-nasdaq-will-that-bridge-its-korea-discount-.html",
-        "published": "Fri, 10 Jul 2026 06:21:42 GMT"
+        "title": "Kraken to launch agentic trading as crypto exchanges evolve beyond crypto",
+        "summary": "Kraken is preparing to relaunch its app with agentic trading at its core, the company told CNBC exclusively.",
+        "link": "https://www.cnbc.com/2026/07/10/kraken-to-launch-agentic-trading-as-crypto-exchanges-evolve-beyond-crypto.html",
+        "published": "Fri, 10 Jul 2026 15:18:14 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
-        "summary": "Steve Sedgwick goes behind the scenes of NATO's dramatic 48 hours, where Trump's changing tone reshaped diplomacy and left allies guessing.",
-        "link": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
-        "published": "Thu, 09 Jul 2026 23:00:52 GMT"
+        "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
+        "summary": "Delta is the first of the U.S. airlines to report second-quarter results.",
+        "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
+        "published": "Fri, 10 Jul 2026 11:59:16 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "EasyJet pops 13% as airline weighs $7.7 billion rival takeover bid from Apollo",
-        "summary": "A bidding war has broken out for budget carrier easyJet after Apollo and Castlelake have both submitted takeover offers.",
-        "link": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html",
-        "published": "Fri, 10 Jul 2026 08:00:03 GMT"
+        "title": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs",
+        "summary": "Instagram and Facebook's \"addictive\" designs have put Meta in breach of the European Union's digital laws, the EU concluded Friday in a preliminary report.",
+        "link": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
+        "published": "Fri, 10 Jul 2026 11:48:12 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
-        "summary": "Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.",
-        "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
-        "published": "Thu, 09 Jul 2026 19:53:20 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "A huge trade just happened on the Nasdaq 100. Bulls are taking notice",
-        "summary": "Tech bulls may not have to wait much longer for fresh highs, if the single-biggest trade in the Invesco QQQ Trust ETF on Thursday is any indication.",
-        "link": "https://www.cnbc.com/2026/07/09/a-huge-trade-just-happened-on-the-nasdaq-100-bulls-are-taking-notice.html",
-        "published": "Thu, 09 Jul 2026 19:26:44 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Alleged Reflecting Pool vandal David Hearn pleads not guilty; lawyer calls him 'scapegoat'",
-        "summary": "\"If Mr. Hearn can be charged with a felony for touching the Reflecting Pool, every American is at risk,\" a lawyer said as he blasted the Trump administration.",
-        "link": "https://www.cnbc.com/2026/07/09/reflecting-pool-david-hearn-washington-trump-olympian.html",
-        "published": "Thu, 09 Jul 2026 17:35:10 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
-        "summary": "CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.",
-        "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
-        "published": "Thu, 09 Jul 2026 18:52:22 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "At least 11 dead and 19 missing in wildfire in southern Spain",
-        "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
-        "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 10 Jul 2026 07:39:39 GMT"
+        "title": "Private chef salaries reach $300,000 as the rich seek their own Michelin stars",
+        "summary": "Demand for chefs, personal assistants, butlers, nannies, housekeepers, chauffeurs and estate managers have reached records, according to Morgan & Mallet.",
+        "link": "https://www.cnbc.com/2026/07/10/private-chef-salaries.html",
+        "published": "Fri, 10 Jul 2026 15:05:24 GMT"
       },
       {
         "source": "BBC World",
@@ -81,31 +74,31 @@
       },
       {
         "source": "BBC World",
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
-        "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 09 Jul 2026 21:04:09 GMT"
+        "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+        "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+        "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Jul 2026 13:53:11 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+        "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
+        "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Jul 2026 12:31:08 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "China lands reusable rocket for first time, state media says",
+        "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Jul 2026 06:44:21 GMT"
       },
       {
         "source": "BBC World",
         "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
         "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
         "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 10 Jul 2026 02:48:18 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-        "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
-        "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 09 Jul 2026 14:41:54 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
-        "summary": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing.",
-        "link": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 09 Jul 2026 11:09:17 GMT"
+        "published": "Fri, 10 Jul 2026 12:38:38 GMT"
       },
       {
         "source": "BBC World",
@@ -115,70 +108,84 @@
         "published": "Thu, 09 Jul 2026 15:21:17 GMT"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch",
-        "published": "Fri, 10 Jul 2026 06:49:13 +0000"
+        "source": "BBC World",
+        "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+        "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+        "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 09 Jul 2026 14:37:19 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "Live markets: Bitcoin tops $64,000 as selling pressure on Coinbase eases",
+        "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
-        "published": "Fri, 10 Jul 2026 06:21:34 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+        "published": "Fri, 10 Jul 2026 15:26:43 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "XRP up 2% as buyers push through $1.10 resistance",
+        "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
-        "published": "Fri, 10 Jul 2026 05:13:48 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
+        "published": "Fri, 10 Jul 2026 12:29:08 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears",
+        "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
-        "published": "Fri, 10 Jul 2026 04:34:06 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
+        "published": "Fri, 10 Jul 2026 11:41:47 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
+        "title": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
-        "published": "Fri, 10 Jul 2026 03:57:58 +0000"
+        "link": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
+        "published": "Fri, 10 Jul 2026 11:37:31 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+        "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
-        "published": "Thu, 09 Jul 2026 22:19:54 +0000"
+        "link": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
+        "published": "Fri, 10 Jul 2026 10:37:44 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
+        "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
-        "published": "Thu, 09 Jul 2026 20:42:49 +0000"
+        "link": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
+        "published": "Fri, 10 Jul 2026 09:35:21 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
+        "title": "Bitcoin's $60,000-$70,000 range becomes third most traded range in history",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
-        "published": "Thu, 09 Jul 2026 20:31:39 +0000"
+        "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history",
+        "published": "Fri, 10 Jul 2026 09:16:52 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
+        "published": "Fri, 10 Jul 2026 09:08:20 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "EU parliament passes ‘chat control,’ allowing private chat scans until 2028",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU parliament passes ‘chat control,’ allowing private chat scans until 2028\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-why-setup-matters-for-cryptocurrency-privacy2.jpg\" /></p><p>EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages.</p>",
-        "link": "https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 10 Jul 2026 06:05:38 +0000"
+        "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-experts-discuss-what-the-current-number-of-whales-interest-in-futures-means-for-the-market1.jpg\" /></p><p>Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported. </p>",
+        "link": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 10 Jul 2026 14:59:30 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
+        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3889116670016000\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元</strong></a></p>\n  <p>参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行的投行，总佣金池规模或将突破1.4亿美元；佣金由两部分构成，一是募资总额0.5%的基础承销费，二是SK海力士另行支付的浮动激励奖金。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3889106112002561\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>谷歌要求AI广告必须标注：涵",
+        "link": "https://36kr.com/p/3889551814916614?f=rss",
+        "published": "2026-07-10 18:23:02  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
@@ -189,7 +196,7 @@
       {
         "source": "36氪 36Kr",
         "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
-        "summary": "<p>文 | 胡香赟</p>\n  <p>编辑 | 海若镜</p>\n  <p>36氪获悉，前传奇生物创始人/首席科学家范晓虎创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。</p>\n  <p>过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的一关又一关。</p>\n  <p>在中国细胞与基因治疗（CGT）领域，“范晓虎”这个名字很难被绕开。2022年3月，他主导的传奇生物细胞药物西达基奥仑赛在欧美上市，是目前全球唯一一款销售额逼近20亿美金的CAR-T细胞疗法。</p>\n  <p>然而，西达基奥仑赛在美国获批不到一个月，范晓虎出走传奇生物、成立湾岛细胞。传奇生物母公司金斯瑞以“侵害商业秘密”为由对其发起诉讼，称后者在2017年创办传奇生物初期将“6份自己撰写/负责的立项报告等文件发送至个人邮箱”，以及在公开场合披露不准确财务数据。</p>\n  <p>2025年底，最高法终审判决驳回金斯瑞全部",
+        "summary": "<p>文 | 胡香赟</p>\n  <p>编辑 | 海若镜</p>\n  <p>36氪获悉，前传奇生物创始人/首席科学家范晓��创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。</p>\n  <p>过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的一关又一关。</p>\n  <p>在中国细胞与基因治疗（CGT）领域，“范晓虎”这个名字很难被绕开。2022年3月，他主导的传奇生物细胞药物西达基奥仑赛在欧美上市，是目前全球唯一一款销售额逼近20亿美金的CAR-T细胞疗法。</p>\n  <p>然而，西达基奥仑赛在美国获批不到一个月，范晓虎出走传奇生物、成立湾岛细胞。传奇生物母公司金斯瑞以“侵害商业秘密”为由对其发起诉讼，称后者在2017年创办传奇生物初期将“6份自己撰写/负责的立项报告等文件发送至个人邮箱”，以及在公开场合披露不准确财务数据。</p>\n  <p>2025年底，最高法终审判决驳回金斯瑞全",
         "link": "https://36kr.com/p/3888284244720131?f=rss",
         "published": "2026-07-10 11:26:25  +0800"
       },
@@ -227,97 +234,84 @@
         "summary": "<p>Alpha will be made, not found。</p>\n  <p>麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不断膨胀的估值倍数、唾手可得的廉价融资，这些放大利润的旧杠杆们，在过去十年间逐一消失。以至于，全球封闭式PE募资在2025年同比下滑17%，亚太地区的跌幅接近一半。</p>\n  <p>中国市场的故事更加复杂。钱的源头变了，美元基金退潮之后，国资和产业资本接过了定价权，也接过了游戏规则的书写权。退出的通道也变了，PPT里的“多元化退出策略”，变成了真实发生的交易（至少是一部分GP不得不学会的新手艺）。</p>\n  <p>与此同时，主线变了。<strong>一级市场关于人工智能的叙事，已悄然完成了一次逻辑的更替。</strong></p>\n  <p>2025年，仅具身智能一个方向就吸纳了超过656亿元融资，涌入了近千家公司。更长期看，硬科技在VC投资中的占比五年内从38%攀升至62%。毫无疑问，资本的重心正在沿着技术栈向下游迁移。AI不再是众多赛道之一。它正在以一种几乎不可逆",
         "link": "https://36kr.com/p/3888289009678854?f=rss",
         "published": "2026-07-09 18:53:27  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "2026·Under36丨绕过旧答案的一代人",
-        "summary": "<p>为什么颠覆性的突破总是由年轻人完成？</p>\n  <p>因为他们还没有被旧范式驯服。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260709/v2_f03cb1b75955471cb9807dccd1cb6038@5352461_oswg269oswg900oswg80_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>几乎所有开创一种新范式、完成根本性发明的人，都有某种相似之处：<strong>他们要么足够年轻，要么刚刚进入那个即将被他们改写的领域。</strong></p>\n  <p>1962年，科学哲学家托马斯·库恩在《科学革命的结构》中留下了这个观察。他当时谈论的是物理科学：哥白尼提出日心说时不到四十岁，牛顿发明微积分时二十三岁，爱因斯坦发表狭义相对论时二十六岁。</p>\n  <p>而库恩试图回答的问题是，<strong>为什么颠覆性的突破总是由年轻人完成？答案是简单而残酷的，因为他们还没",
-        "link": "https://36kr.com/p/3888279614274048?f=rss",
-        "published": "2026-07-09 18:45:37  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "EU Parliament greenlights Chat Control 1.0",
-        "summary": "score: 1323, comments: 616",
-        "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-        "score": 1323
-      },
-      {
-        "source": "Hacker News",
         "title": "GPT-5.6",
-        "summary": "score: 1226, comments: 880",
+        "summary": "score: 1442, comments: 1011",
         "link": "https://openai.com/index/gpt-5-6/",
-        "score": 1226
-      },
-      {
-        "source": "Hacker News",
-        "title": "Show HN: 18 Words",
-        "summary": "score: 970, comments: 315",
-        "link": "https://18words.com/",
-        "score": 970
-      },
-      {
-        "source": "Hacker News",
-        "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-        "summary": "score: 620, comments: 523",
-        "link": "https://github.com/malisper/pgrust",
-        "score": 620
+        "score": 1442
       },
       {
         "source": "Hacker News",
         "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-        "summary": "score: 618, comments: 143",
+        "summary": "score: 792, comments: 196",
         "link": "https://github.com/JustVugg/colibri",
-        "score": 618
+        "score": 792
       },
       {
         "source": "Hacker News",
         "title": "Train sim created by just one person is being called the best ever made",
-        "summary": "score: 523, comments: 184",
+        "summary": "score: 749, comments: 302",
         "link": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-        "score": 523
+        "score": 749
       },
       {
         "source": "Hacker News",
-        "title": "Hy3",
-        "summary": "score: 455, comments: 91",
-        "link": "https://hy.tencent.com/research/hy3",
-        "score": 455
+        "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+        "summary": "score: 148, comments: 103",
+        "link": "https://ec.europa.eu/commission/presscorner/home/en",
+        "score": 148
       },
       {
         "source": "Hacker News",
-        "title": "The glass backbone: Why the Army's logistics will break in the next war",
-        "summary": "score: 366, comments: 447",
-        "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-        "score": 366
+        "title": "Late Bronze Age Collapse",
+        "summary": "score: 144, comments: 56",
+        "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+        "score": 144
+      },
+      {
+        "source": "Hacker News",
+        "title": "Write code like a human will maintain it",
+        "summary": "score: 135, comments: 100",
+        "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+        "score": 135
+      },
+      {
+        "source": "Hacker News",
+        "title": "Good Tools Are Invisible",
+        "summary": "score: 124, comments: 93",
+        "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+        "score": 124
+      },
+      {
+        "source": "Hacker News",
+        "title": "In Emacs, Everything Looks Like a Service",
+        "summary": "score: 101, comments: 56",
+        "link": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+        "score": 101
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 205",
+        "summary": "market cap rank: 194",
         "link": "https://www.coingecko.com/en/coins/cash-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "SKALE (SKL)",
-        "summary": "market cap rank: 573",
-        "link": "https://www.coingecko.com/en/coins/skale"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 289",
-        "link": "https://www.coingecko.com/en/coins/the-black-bull"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "LAB (LAB)",
-        "summary": "market cap rank: 121",
+        "summary": "market cap rank: 118",
         "link": "https://www.coingecko.com/en/coins/lab"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Zano (ZANO)",
+        "summary": "market cap rank: 208",
+        "link": "https://www.coingecko.com/en/coins/zano"
       },
       {
         "source": "CoinGecko Trending",
@@ -327,15 +321,21 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Arbitrum (ARB)",
-        "summary": "market cap rank: 95",
-        "link": "https://www.coingecko.com/en/coins/arbitrum"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "The Black Bull (ANSEM)",
+        "summary": "market cap rank: 293",
+        "link": "https://www.coingecko.com/en/coins/the-black-bull"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Arbitrum (ARB)",
+        "summary": "market cap rank: 94",
+        "link": "https://www.coingecko.com/en/coins/arbitrum"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cct3a1CiJx1cmLVrQtgKs'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CctcSz9MeJSfMhY6jGy6M'}"
   }
 }
