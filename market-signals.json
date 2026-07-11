@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2026-07-11T14:18:43.005518+00:00",
+  "generated_at_utc": "2026-07-11T21:40:57.189409+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
+        "summary": "Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.",
+        "link": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
+        "published": "Sat, 11 Jul 2026 12:47:23 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
         "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
         "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-        "published": "Sat, 11 Jul 2026 12:51:50 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
-        "summary": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
-        "link": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
-        "published": "Sat, 11 Jul 2026 12:00:01 GMT"
+        "published": "Sat, 11 Jul 2026 20:35:21 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -25,10 +25,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
-        "summary": "Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.",
-        "link": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
-        "published": "Sat, 11 Jul 2026 12:47:23 GMT"
+        "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
+        "summary": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
+        "link": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
+        "published": "Sat, 11 Jul 2026 12:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -36,6 +36,13 @@
         "summary": "While the legislation is aimed at least partly at addressing affordability, experts say the benefits of the measure will take time to show up in the market.",
         "link": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
         "published": "Sat, 11 Jul 2026 13:41:13 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "These underperforming trades could yield big returns over next six months",
+        "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
+        "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+        "published": "Sat, 11 Jul 2026 15:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -52,67 +59,81 @@
         "published": "Sat, 11 Jul 2026 12:00:01 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?",
-        "summary": "For years, AstraZeneca has commanded one of the richest valuations among large European pharma companies on the assumption that it consistently delivers results.",
-        "link": "https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html",
-        "published": "Sat, 11 Jul 2026 05:00:01 GMT"
+        "source": "BBC World",
+        "title": "China's second typhoon in a week makes landfall",
+        "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Jul 2026 17:41:56 GMT"
       },
       {
         "source": "BBC World",
-        "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-        "summary": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
-        "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 14:08:07 GMT"
+        "title": "Iran supreme leader calls for revenge for father's killing",
+        "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Jul 2026 19:30:36 GMT"
       },
       {
         "source": "BBC World",
         "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
         "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
         "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 09:01:15 GMT"
+        "published": "Sat, 11 Jul 2026 15:03:45 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
-        "summary": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 13:44:03 GMT"
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+        "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Jul 2026 16:11:33 GMT"
       },
       {
         "source": "BBC World",
-        "title": "China braced for second typhoon in a week as Bavi approaches landfall",
-        "summary": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-        "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 12:06:47 GMT"
+        "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+        "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+        "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Jul 2026 19:32:07 GMT"
       },
       {
         "source": "BBC World",
-        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-        "summary": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
-        "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 13:11:52 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Meet the crypto billionaires building a world where money buys you a vote",
-        "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 10 Jul 2026 23:03:11 GMT"
+        "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+        "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+        "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Jul 2026 18:00:09 GMT"
       },
       {
         "source": "BBC World",
         "title": "South Africa World Cup midfielder Adams dies aged 25",
         "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 13:29:51 GMT"
+        "published": "Sat, 11 Jul 2026 14:47:47 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Landmark US housing bill becomes law despite Trump protest",
-        "summary": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
-        "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 13:35:09 GMT"
+        "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+        "summary": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
+        "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Jul 2026 14:19:34 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+        "summary": "",
+        "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+        "published": "Sat, 11 Jul 2026 18:06:58 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+        "published": "Sat, 11 Jul 2026 17:07:24 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "The UK has finally shown it’s serious about crypto",
+        "summary": "",
+        "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+        "published": "Sat, 11 Jul 2026 15:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -148,27 +169,6 @@
         "summary": "",
         "link": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
         "published": "Fri, 10 Jul 2026 16:02:21 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-        "published": "Fri, 10 Jul 2026 15:26:43 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
-        "published": "Fri, 10 Jul 2026 12:29:08 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
-        "published": "Fri, 10 Jul 2026 11:41:47 +0000"
       },
       {
         "source": "Cointelegraph",
@@ -239,79 +239,73 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-        "summary": "score: 1268, comments: 685",
-        "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-        "score": 1268
+        "title": "Female US rower completes historic solo journey from California to Hawaii",
+        "summary": "score: 172, comments: 64",
+        "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+        "score": 172
       },
       {
         "source": "Hacker News",
-        "title": "QuadRF can spot drones and see WiFi through my wall",
-        "summary": "score: 644, comments: 210",
-        "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-        "score": 644
+        "title": "Prefer strict tables in SQLite",
+        "summary": "score: 155, comments: 58",
+        "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+        "score": 155
       },
       {
         "source": "Hacker News",
-        "title": "Good Tools Are Invisible",
-        "summary": "score: 491, comments: 222",
-        "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-        "score": 491
+        "title": "We scaled PgBouncer to 4x throughput",
+        "summary": "score: 149, comments: 23",
+        "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+        "score": 149
       },
       {
         "source": "Hacker News",
-        "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-        "summary": "score: 309, comments: 130",
-        "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-        "score": 309
+        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+        "summary": "score: 90, comments: 41",
+        "link": "https://antjs.org",
+        "score": 90
       },
       {
         "source": "Hacker News",
-        "title": "An update on residential proxies and the scraper situation",
-        "summary": "score: 248, comments: 250",
-        "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-        "score": 248
+        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+        "summary": "score: 84, comments: 31",
+        "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+        "score": 84
       },
       {
         "source": "Hacker News",
-        "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-        "summary": "score: 230, comments: 767",
-        "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-        "score": 230
+        "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+        "summary": "score: 80, comments: 32",
+        "link": "https://shipthatcode.com",
+        "score": 80
       },
       {
         "source": "Hacker News",
-        "title": "The vintage beauty of Soviet control rooms (2018)",
-        "summary": "score: 153, comments: 50",
-        "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-        "score": 153
+        "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+        "summary": "score: 73, comments: 35",
+        "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+        "score": 73
       },
       {
         "source": "Hacker News",
-        "title": "An iroh powered smart fan",
-        "summary": "score: 134, comments: 38",
-        "link": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-        "score": 134
+        "title": "How to hide from killer drones",
+        "summary": "score: 69, comments: 78",
+        "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+        "score": 69
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "HOODIE (HOODIE)",
-        "summary": "market cap rank: 700",
+        "summary": "market cap rank: 690",
         "link": "https://www.coingecko.com/en/coins/hoodie-2"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 174",
+        "summary": "market cap rank: 160",
         "link": "https://www.coingecko.com/en/coins/cash-cat"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 116",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
@@ -321,21 +315,27 @@
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 116",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "LAB (LAB)",
-        "summary": "market cap rank: 141",
+        "summary": "market cap rank: 161",
         "link": "https://www.coingecko.com/en/coins/lab"
       },
       {
         "source": "CoinGecko Trending",
         "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 266",
+        "summary": "market cap rank: 289",
         "link": "https://www.coingecko.com/en/coins/the-black-bull"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hedera (HBAR)",
-        "summary": "market cap rank: 31",
-        "link": "https://www.coingecko.com/en/coins/hedera"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcvR31YFdzZYDFXKNNLdU'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcvzkxkLqCw4NcD2vSkA7'}"
   }
 }
