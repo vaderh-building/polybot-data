@@ -1,13 +1,34 @@
 {
-  "generated_at_utc": "2026-07-12T07:24:51.439630+00:00",
+  "generated_at_utc": "2026-07-12T14:23:22.643308+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
+        "summary": "Graham, a prominent Republican senator from South Carolina, had just returned from a trip to Ukraine.",
+        "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+        "published": "Sun, 12 Jul 2026 14:09:01 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
         "summary": "Iran has attacked ships using a route along Oman's coast protected by the U.S. military. Tehran demands vessels use a northern route through its waters.",
         "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
-        "published": "Sun, 12 Jul 2026 05:51:05 GMT"
+        "published": "Sun, 12 Jul 2026 13:11:21 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
+        "summary": "A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.",
+        "link": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
+        "published": "Sun, 12 Jul 2026 12:27:55 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
+        "summary": "AI-related chip stocks have been volatile amid a debate over AI demand and spending.",
+        "link": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
+        "published": "Sun, 12 Jul 2026 05:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -18,20 +39,6 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
-        "summary": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
-        "link": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
-        "published": "Sat, 11 Jul 2026 04:09:20 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
-        "summary": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
-        "link": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
-        "published": "Sat, 11 Jul 2026 12:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "New housing law targets affordability — what it means for homebuyers and sellers",
         "summary": "While the legislation is aimed at least partly at addressing affordability, experts say the benefits of the measure will take time to show up in the market.",
         "link": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
@@ -39,24 +46,17 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "These underperforming trades could yield big returns over next six months",
-        "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
-        "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
-        "published": "Sat, 11 Jul 2026 15:00:01 GMT"
+        "title": "Top Wall Street analysts are confident about these 3 stocks for the long haul",
+        "summary": "Those looking for attractive stock picks amid the ongoing volatility can gain key insights by tracking the recommendations of top Wall Street analysts.",
+        "link": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
+        "published": "Sun, 12 Jul 2026 12:05:02 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Berkshire Hathaway gains ground, but still trails the S&P 500 as '26 enters second half",
-        "summary": "With 2026 a bit more than half over, Berkshire Hathaway's B shares are down 1.8% year-to-date and 12.4 percentage points behind the S&amp;P 500's 10.7% gain.",
-        "link": "https://www.cnbc.com/2026/07/11/berkshire-hathaway-gains-ground-but-still-trails-the-sp-500-as-26-enters-second-half.html",
-        "published": "Sat, 11 Jul 2026 13:07:41 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss",
-        "summary": "Vivani Medical is developing an implant of semaglutide, the active ingredient in Novo Nordisk's obesity injection Wegovy and diabetes counterpart Ozempic.",
-        "link": "https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html",
-        "published": "Sat, 11 Jul 2026 12:00:01 GMT"
+        "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+        "summary": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
+        "link": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+        "published": "Sat, 11 Jul 2026 04:09:20 GMT"
       },
       {
         "source": "BBC World",
@@ -67,17 +67,24 @@
       },
       {
         "source": "BBC World",
-        "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-        "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 23:58:40 GMT"
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 12 Jul 2026 14:18:45 GMT"
       },
       {
         "source": "BBC World",
-        "title": "China's second typhoon in a week makes landfall",
-        "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+        "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 12 Jul 2026 13:35:01 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+        "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
         "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 12 Jul 2026 06:44:09 GMT"
+        "published": "Sun, 12 Jul 2026 07:39:45 GMT"
       },
       {
         "source": "BBC World",
@@ -88,17 +95,17 @@
       },
       {
         "source": "BBC World",
+        "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+        "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Jul 2026 23:58:40 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
         "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
         "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
         "published": "Sat, 11 Jul 2026 16:11:33 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-        "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-        "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 15:03:45 GMT"
       },
       {
         "source": "BBC World",
@@ -108,11 +115,18 @@
         "published": "Sat, 11 Jul 2026 18:00:09 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
-        "summary": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
-        "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 12 Jul 2026 00:49:24 GMT"
+        "source": "CoinDesk",
+        "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
+        "published": "Sun, 12 Jul 2026 13:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
+        "published": "Sun, 12 Jul 2026 11:30:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,28 +171,28 @@
         "published": "Sat, 11 Jul 2026 15:00:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
-        "published": "Sat, 11 Jul 2026 12:25:05 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
-        "published": "Sat, 11 Jul 2026 12:00:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 12 Jul 2026 04:24:58 +0000"
+        "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pakistan crypto chief seeks dialogue after scholar rules against crypto payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrency-in-islamic-banking-and-finance.jpg\" /></p><p>Pakistan’s virtual-assets regulator called for continued dialogue on the treatment of digital assets after meeting an Islamic scholar who backed a ruling against purchases made with crypto.<",
+        "link": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 12 Jul 2026 12:26:09 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "“背后空无一人”的LV，这次中国人彻底不买账了",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_151ed01a2ca44322849efe08bf9ed073@5579416_oswg92435oswg1024oswg764_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">LV</p>\n  <p>最近，广西一场洪水，又双叒叕让不少品牌登上热搜。</p>\n  <p>在一众的品牌捐款名单里，除了常见的消费巨头互联网大厂之外，人们还看到了一个新面孔，那就是茉莉奶白。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_e60ecdabea92463a9c0f4ce12d094481@5579416_oswg129585oswg1080oswg602_img_000?x-oss-process=imag",
+        "link": "https://36kr.com/p/3892442708032264?f=rss",
+        "published": "2026-07-12 17:29:03  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "腾讯重仓一个IPO",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_c894ac412b53423a9e1b8871398bc19b@5579416_oswg950837oswg960oswg640_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：视觉中国</p>\n  <p>作者/杨继云</p>\n  <p>报道/投资界PEdaily</p>\n  <p>深圳超级IPO来了。</p>\n  <p>日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。</p>\n  <p>回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着腾讯等一支长长的投资人队伍。</p>\n  <p>腾讯无疑最为重仓，已成为云豹智能最大",
+        "link": "https://36kr.com/p/3892352153942530?f=rss",
+        "published": "2026-07-12 15:59:37  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "消失的150亿美元，有下文了",
@@ -220,104 +234,90 @@
         "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>“全球首款智能体手机”已备货8万至10万台？知情人士：假的</p>\n  <p>百亿私募数量达142家，再次刷新历史纪录</p>\n  <p>三星李在镕拟于7月底赴美会晤英伟达黄仁勋</p>\n  <p>德国大众拟大裁员，最高或裁减12万个岗位</p>\n  <p>OpenAI高管层再现变动，首席运营官因病离职</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>长鑫科技，承销团阵容公布&nbsp;</strong></p>\n  <p>长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后的承销团阵容也随之浮出水面。最新披露的招股意向书显示，长鑫科技预计7月16日发行。本次IPO中，中金公司、中信建投担任联席保荐机构及主承销商，国泰海通、国元证券、华泰联合、招商证券担任联席主承销商，合计6家券商组成承销团。</p>\n  <p>这是一支少见的“豪华承销团”。一边是中金、中信建投、国泰海通、华泰联合、招商证券等头部投行密集出现，另一边是安徽本土券商国元证券进入主承销名",
         "link": "https://36kr.com/p/3890553690192384?f=rss",
         "published": "2026-07-11 09:24:06  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260710/v2_65133adab2b0471884c9250eef7228ae@6221844_oswg362165oswg1269oswg715_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2400</strong>字，建议阅读<strong>6</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑",
-        "link": "https://36kr.com/p/3889516712065799?f=rss",
-        "published": "2026-07-11 09:00:00  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
-        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3889116670016000\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元</strong></a></p>\n  <p>参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行的投行，总佣金池规模或将突破1.4亿美元；佣金由两部分构成，一是募资总额0.5%的基础承销费，二是SK海力士另行支付的浮动激励奖金。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3889106112002561\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>谷歌要求AI广告必须标注：涵",
-        "link": "https://36kr.com/p/3889551814916614?f=rss",
-        "published": "2026-07-10 18:23:02  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-        "summary": "score: 241, comments: 104",
-        "link": "https://antjs.org",
-        "score": 241
-      },
-      {
-        "source": "Hacker News",
         "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-        "summary": "score: 231, comments: 77",
+        "summary": "score: 311, comments: 126",
         "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-        "score": 231
-      },
-      {
-        "source": "Hacker News",
-        "title": "We scaled PgBouncer to 4x throughput",
-        "summary": "score: 201, comments: 41",
-        "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-        "score": 201
+        "score": 311
       },
       {
         "source": "Hacker News",
         "title": "Mesh LLM: distributed AI computing on iroh",
-        "summary": "score: 198, comments: 44",
+        "summary": "score: 294, comments: 69",
         "link": "https://www.iroh.computer/blog/mesh-llm",
-        "score": 198
-      },
-      {
-        "source": "Hacker News",
-        "title": "UPI: Anatomy of a Payment Transaction",
-        "summary": "score: 160, comments: 63",
-        "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-        "score": 160
-      },
-      {
-        "source": "Hacker News",
-        "title": "RISCBoy is an open-source portable games console, designed from scratch",
-        "summary": "score: 118, comments: 17",
-        "link": "https://github.com/Wren6991/RISCBoy",
-        "score": 118
+        "score": 294
       },
       {
         "source": "Hacker News",
         "title": "An agent in 100 lines of Lisp",
-        "summary": "score: 114, comments: 11",
+        "summary": "score: 186, comments: 51",
         "link": "https://thebeach.dev/posts/lisp-agent/",
-        "score": 114
+        "score": 186
       },
       {
         "source": "Hacker News",
-        "title": "Unexpected Solidlike Fracture in Simple Liquids",
-        "summary": "score: 85, comments: 42",
-        "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-        "score": 85
+        "title": "Vint Cerf, a “father of the Internet”, is retiring",
+        "summary": "score: 179, comments: 105",
+        "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "score": 179
+      },
+      {
+        "source": "Hacker News",
+        "title": "Old and new apps, via modern coding agents by Terry Tao",
+        "summary": "score: 145, comments: 31",
+        "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+        "score": 145
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+        "summary": "score: 109, comments: 46",
+        "link": "https://github.com/cosmtrek/mindwalk",
+        "score": 109
+      },
+      {
+        "source": "Hacker News",
+        "title": "Protobuf-py: Protobuf for Python, without compromises",
+        "summary": "score: 96, comments: 24",
+        "link": "https://buf.build/blog/protobuf-py",
+        "score": 96
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ghostel.el: Terminal emulator powered by libghostty",
+        "summary": "score: 90, comments: 5",
+        "link": "https://dakra.github.io/ghostel/",
+        "score": 90
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "HOODIE (HOODIE)",
-        "summary": "market cap rank: 706",
-        "link": "https://www.coingecko.com/en/coins/hoodie-2"
+        "title": "Cat in Hood (HOODCAT)",
+        "summary": "market cap rank: 963",
+        "link": "https://www.coingecko.com/en/coins/cat-in-hood"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "$1 is all you need ($1)",
+        "summary": "market cap rank: 560",
+        "link": "https://www.coingecko.com/en/coins/1-is-all-you-need"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 177",
+        "summary": "market cap rank: 176",
         "link": "https://www.coingecko.com/en/coins/cash-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 118",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Ethereum (ETH)",
-        "summary": "market cap rank: 2",
-        "link": "https://www.coingecko.com/en/coins/ethereum"
+        "title": "DeXe (DEXE)",
+        "summary": "market cap rank: 40",
+        "link": "https://www.coingecko.com/en/coins/dexe"
       },
       {
         "source": "CoinGecko Trending",
@@ -327,15 +327,15 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 91",
-        "link": "https://www.coingecko.com/en/coins/lighter"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 117",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "DeXe (DEXE)",
-        "summary": "market cap rank: 42",
-        "link": "https://www.coingecko.com/en/coins/dexe"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcwmHVK5NMjtKKg427gCb'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcxKCYNTdE2JgLdENLehY'}"
   }
 }
