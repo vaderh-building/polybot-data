@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2026-07-11T21:40:57.189409+00:00",
+  "generated_at_utc": "2026-07-12T07:24:51.439630+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
+        "summary": "Iran has attacked ships using a route along Oman's coast protected by the U.S. military. Tehran demands vessels use a northern route through its waters.",
+        "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+        "published": "Sun, 12 Jul 2026 05:51:05 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
         "summary": "Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.",
         "link": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
         "published": "Sat, 11 Jul 2026 12:47:23 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-        "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
-        "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-        "published": "Sat, 11 Jul 2026 20:35:21 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -60,24 +60,31 @@
       },
       {
         "source": "BBC World",
+        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+        "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 12 Jul 2026 06:49:46 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+        "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Jul 2026 23:58:40 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "China's second typhoon in a week makes landfall",
         "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
         "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 17:41:56 GMT"
+        "published": "Sun, 12 Jul 2026 06:44:09 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Iran supreme leader calls for revenge for father's killing",
-        "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
-        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 19:30:36 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-        "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-        "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 15:03:45 GMT"
+        "title": "At least two killed in Toronto street festival shooting",
+        "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 12 Jul 2026 03:56:02 GMT"
       },
       {
         "source": "BBC World",
@@ -88,10 +95,10 @@
       },
       {
         "source": "BBC World",
-        "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-        "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-        "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 19:32:07 GMT"
+        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+        "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+        "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Jul 2026 15:03:45 GMT"
       },
       {
         "source": "BBC World",
@@ -102,17 +109,31 @@
       },
       {
         "source": "BBC World",
-        "title": "South Africa World Cup midfielder Adams dies aged 25",
-        "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 14:47:47 GMT"
+        "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+        "summary": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
+        "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 12 Jul 2026 00:49:24 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-        "summary": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
-        "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 11 Jul 2026 14:19:34 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
+        "published": "Sun, 12 Jul 2026 06:18:15 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+        "published": "Sun, 12 Jul 2026 06:09:49 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+        "published": "Sun, 12 Jul 2026 05:49:52 +0000"
       },
       {
         "source": "CoinDesk",
@@ -150,35 +171,42 @@
         "published": "Sat, 11 Jul 2026 12:00:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
-        "published": "Sat, 11 Jul 2026 02:30:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-        "summary": "",
-        "link": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
-        "published": "Fri, 10 Jul 2026 21:26:55 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
-        "published": "Fri, 10 Jul 2026 16:02:21 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interview-10-07-2027.jpg\" /></p><p>Real Vision chief crypto analyst Jamie Coutts said it's far too early to call $1 million by 2030, but he's confident Bitcoin could climb up to $250,000 over the next couple of years.</p>",
-        "link": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 11 Jul 2026 13:30:00 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 12 Jul 2026 04:24:58 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "消失的150亿美元，有下文了",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_fefded03ae9e4b91aef653818623f8b9@5579416_oswg20884oswg1080oswg606_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">这场秘密增持的故事断续延宕了二十余年。</p>\n  <p>作者 黎曼</p>\n  <p>2026年7月，奢侈品行业的目光同时聚焦在两个法庭上。</p>\n  <p>一个是中国法庭。苏州市中级人民法院就LV诉新茶饮品牌茉莉奶白商标侵权案作出一审判决，认定茉莉奶白侵害LV七件四叶花卉图形注册商标专用权，判赔金额合计1030万元。目前该判决尚未生效，茉莉奶白方面已公开回应将依法提起上诉。</p>\n  <p>了解LV的朋友会知道，茉莉奶白商标侵权案只是LVMH执着于商标维权的冰山一角。从韩国炸鸡店的招牌字体，到美国作坊的老花洗手液瓶，再到荷兰艺术家画布",
+        "link": "https://36kr.com/p/3892321158773251?f=rss",
+        "published": "2026-07-12 15:16:34  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_b77ea2d60b684a10ac185e0ffbb5c0f8@5579416_oswg84131oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">换更大的模型就等于更聪明？</p>\n  <p><strong>【导读】</strong>换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。很多人为此一路换到最贵的Fable，近日，Anthropic，亲手澄清了这个误区。</p>\n  <p>你有没有过这种时刻：Claude Code写代码写砸了，第一反应，就是赶紧换个更强的模型。</p>\n  <p>但这一招，很多时候并不管用，甚至是在白花钱。</p>\n  <p>近日，Anthropic官方发了一篇长文专门来讲这件事。</p>\n  <p class=\"image-wrapp",
+        "link": "https://36kr.com/p/3892222176574211?f=rss",
+        "published": "2026-07-12 13:47:23  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "这个周末，科技投资人都得飞一趟成都",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_75afdcf0da7b4484b5d9e07781e9deec@5579416_oswg110056oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">新能源基金的下半场</p>\n  <p>作者 | 吕敬之编辑 | 吾人</p>\n  <p>来源 |&nbsp;融中财经</p>\n  <p>一只新能源基金落子成都。</p>\n  <p>近日，成都交通投资集团有限公司、成都濛江投资集团有限公司、杭州碧澄能源发展有限公司、洛能（杭州）股权投资有限公司四方签署新能源产业战略合作协议。根据协议，四方将联合设立总规模10亿元的新能源并购基金，推动碧澄能源西南总部及智能运维、资产运营等专业化经营主体落户成都彭州市，助力当地构建产融协同、全域联动的绿色能源产业发展新格局。</p>\n  <p>资本市场上的突破和",
+        "link": "https://36kr.com/p/3892096788396806?f=rss",
+        "published": "2026-07-12 11:27:05  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+        "summary": "<p>林方舟 发自 凹非寺</p>\n  <p>在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。</p>\n  <p>首期投放的1000套设备，满产状态下每年能采集100万小时数据。我仿佛听到了商家心里打的小算盘：既采了数据，又赚了眼球，4A广告公司都应该来学学。（doge）</p>\n  <p>具身数采类似的“花活”还有不少：有的为了采数据免费上门保洁（欢迎来我家），有的把数采做成VR游戏，还有的把机器人接入互联网，采集员不用跑到数采工厂，远程就能“云操控”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_426cea8d4ed241cb84408213126fa22e@5579416_oswg1018637oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p clas",
+        "link": "https://36kr.com/p/3892027841362694?f=rss",
+        "published": "2026-07-12 10:16:07  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
@@ -206,106 +234,96 @@
         "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3889116670016000\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元</strong></a></p>\n  <p>参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行的投行，总佣金池规模或将突破1.4亿美元；佣金由两部分构成，一是募资总额0.5%的基础承销费，二是SK海力士另行支付的浮动激励奖金。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3889106112002561\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>谷歌要求AI广告必须标注：涵",
         "link": "https://36kr.com/p/3889551814916614?f=rss",
         "published": "2026-07-10 18:23:02  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260710/v2_df085fd87c51435797d88ce8cac144ac@6221844_oswg3271346oswg2226oswg1426_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">徕芬珠海超级工厂（图源/企业）</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>7月8日，徕芬科技在珠海斗门的超级工厂举办媒体探访活动。</p>\n  <p>这座总投资超5亿元、占地超20万平方米的制造基地，自2025年8月投产以来，首次较大规模地向外界开放参观。</p>\n  <p>该工厂目前承接电动牙刷、剃须刀及部分新品的生产，并配套了电机车间、精密成型车间、喷涂车间、组装车间及约3000平方米的可靠性实验室。</p>\n  <p class=\"image-wrapper\"><im",
-        "link": "https://36kr.com/p/3889524008303363?f=rss",
-        "published": "2026-07-10 15:49:14  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
-        "summary": "<p>文 | 胡香赟</p>\n  <p>编辑 | 海若镜</p>\n  <p>36氪获悉，前传奇生物创始人/首席科学家范晓虎创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。</p>\n  <p>过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的一关又一关。</p>\n  <p>在中国细胞与基因治疗（CGT）领域，“范晓虎”这个名字很难被绕开。2022年3月，他主导的传奇生物细胞药物西达基奥仑赛在欧美上市，是目前全球唯一一款销售额逼近20亿美金的CAR-T细胞疗法。</p>\n  <p>然而，西达基奥仑赛在美国获批不到一个月，范晓虎出走传奇生物、成立湾岛细胞。传奇生物母公司金斯瑞以“侵害商业秘密”为由对其发起诉讼，称后者在2017年创办传奇生物初期将“6份自己撰写/负责的立项报告等文件发送至个人邮箱”，以及在公开场合披露不准确财务数据。</p>\n  <p>2025年底，最高法终审判决驳回金斯瑞全部",
-        "link": "https://36kr.com/p/3888284244720131?f=rss",
-        "published": "2026-07-10 11:26:25  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
-        "summary": "<p>先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真正地被留下来？</p>\n  <p>一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。</p>\n  <p>更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，让人分不清是真心还是广告。</p>\n  <p>这也是我们做 36 氪 AI 测评的初衷：<strong>我们希望搭建一套标准化、客观公正的评测平台，不仅是AI行业的大众点评，还要打造属于 AI 行业的“米其林指南”</strong>—— 摒弃流水线打卡文案与软性广告吹捧，只沉淀真实用户亲身试用后，真切实用的原生使用体验。</p>\n  <p>以下两种渠道均可直达，欢迎体验：</p>\n  <p>网页端：<a href=\"https://ai.36kr.com/\" rel=\"noopener noreferrer\" target=\"_blank\">https://ai.36",
-        "link": "https://36kr.com/p/3883780969083137?f=rss",
-        "published": "2026-07-10 11:03:33  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260710/v2_27f38c78baa0435ebc1c560de3f3bb69@6221844_oswg1150800oswg1268oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3100</strong>字，建议阅读<strong>7</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，北京他山科技有限公司（以下简称“他山科技”）已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道",
-        "link": "https://36kr.com/p/3889141540370949?f=rss",
-        "published": "2026-07-10 09:19:37  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Female US rower completes historic solo journey from California to Hawaii",
-        "summary": "score: 172, comments: 64",
-        "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-        "score": 172
-      },
-      {
-        "source": "Hacker News",
-        "title": "Prefer strict tables in SQLite",
-        "summary": "score: 155, comments: 58",
-        "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-        "score": 155
-      },
-      {
-        "source": "Hacker News",
-        "title": "We scaled PgBouncer to 4x throughput",
-        "summary": "score: 149, comments: 23",
-        "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-        "score": 149
-      },
-      {
-        "source": "Hacker News",
         "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-        "summary": "score: 90, comments: 41",
+        "summary": "score: 241, comments: 104",
         "link": "https://antjs.org",
-        "score": 90
+        "score": 241
       },
       {
         "source": "Hacker News",
         "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-        "summary": "score: 84, comments: 31",
+        "summary": "score: 231, comments: 77",
         "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-        "score": 84
+        "score": 231
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-        "summary": "score: 80, comments: 32",
-        "link": "https://shipthatcode.com",
-        "score": 80
+        "title": "We scaled PgBouncer to 4x throughput",
+        "summary": "score: 201, comments: 41",
+        "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+        "score": 201
       },
       {
         "source": "Hacker News",
-        "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-        "summary": "score: 73, comments: 35",
-        "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-        "score": 73
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "summary": "score: 198, comments: 44",
+        "link": "https://www.iroh.computer/blog/mesh-llm",
+        "score": 198
       },
       {
         "source": "Hacker News",
-        "title": "How to hide from killer drones",
-        "summary": "score: 69, comments: 78",
-        "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-        "score": 69
+        "title": "UPI: Anatomy of a Payment Transaction",
+        "summary": "score: 160, comments: 63",
+        "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+        "score": 160
+      },
+      {
+        "source": "Hacker News",
+        "title": "RISCBoy is an open-source portable games console, designed from scratch",
+        "summary": "score: 118, comments: 17",
+        "link": "https://github.com/Wren6991/RISCBoy",
+        "score": 118
+      },
+      {
+        "source": "Hacker News",
+        "title": "An agent in 100 lines of Lisp",
+        "summary": "score: 114, comments: 11",
+        "link": "https://thebeach.dev/posts/lisp-agent/",
+        "score": 114
+      },
+      {
+        "source": "Hacker News",
+        "title": "Unexpected Solidlike Fracture in Simple Liquids",
+        "summary": "score: 85, comments: 42",
+        "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+        "score": 85
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "HOODIE (HOODIE)",
-        "summary": "market cap rank: 690",
+        "summary": "market cap rank: 706",
         "link": "https://www.coingecko.com/en/coins/hoodie-2"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 160",
+        "summary": "market cap rank: 177",
         "link": "https://www.coingecko.com/en/coins/cash-cat"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 118",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ethereum (ETH)",
+        "summary": "market cap rank: 2",
+        "link": "https://www.coingecko.com/en/coins/ethereum"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "LAB (LAB)",
+        "summary": "market cap rank: 197",
+        "link": "https://www.coingecko.com/en/coins/lab"
       },
       {
         "source": "CoinGecko Trending",
@@ -315,27 +333,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 116",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "LAB (LAB)",
-        "summary": "market cap rank: 161",
-        "link": "https://www.coingecko.com/en/coins/lab"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 289",
-        "link": "https://www.coingecko.com/en/coins/the-black-bull"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "DeXe (DEXE)",
+        "summary": "market cap rank: 42",
+        "link": "https://www.coingecko.com/en/coins/dexe"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcvzkxkLqCw4NcD2vSkA7'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcwmHVK5NMjtKKg427gCb'}"
   }
 }
