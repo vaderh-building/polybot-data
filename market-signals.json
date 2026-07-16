@@ -1,13 +1,48 @@
 {
-  "generated_at_utc": "2026-07-15T21:51:32.902273+00:00",
+  "generated_at_utc": "2026-07-16T07:17:53.715268+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'",
+        "summary": "A separate U.S. probe into forced-labor enforcement could see an additional 12.5% duty on Brazilian goods on top of the 25%, with the decision due next week.",
+        "link": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html",
+        "published": "Thu, 16 Jul 2026 06:32:39 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "TSMC second-quarter profit jumps over 77%, beating estimates, on high-end chip boom",
+        "summary": "TSMC announced a second-quarter profit, following its June revenue figures released earlier this week.",
+        "link": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
+        "published": "Thu, 16 Jul 2026 05:52:58 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
+        "summary": "Asian semiconductor stocks tumbled on Thursday as a selloff in U.S. chipmakers spilled into the region.",
+        "link": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+        "published": "Thu, 16 Jul 2026 07:02:36 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
+        "summary": "The technological rivalry between China and the U.S. has intensified, as they race for AI dominance.",
+        "link": "https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html",
+        "published": "Thu, 16 Jul 2026 03:17:20 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence",
         "summary": "Kevin Warsh said Wednesday that he speaks with Treasury Secretary Scott Bessent frequently outside their regular weekly meetings.",
         "link": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
-        "published": "Wed, 15 Jul 2026 17:16:14 GMT"
+        "published": "Wed, 15 Jul 2026 22:48:57 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Ex-Fed advisor gets over three years in prison for lying about China ties",
+        "summary": "The case marks one of the most prominent U.S. prosecutions alleging Chinese intelligence targeting of U.S. institutions, as Trump intensifies its pursuit of foreign economic espionage.",
+        "link": "https://www.cnbc.com/2026/07/16/ex-fed-adviser-gets-jailtime-lying-about-china-ties-economic-espionage-.html",
+        "published": "Thu, 16 Jul 2026 01:47:30 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -18,66 +53,45 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
-        "summary": "The latest edition of the Fed's Beige Book indicated that the soccer tournament wasn't necessarily translating to broader economic growth.",
-        "link": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html",
-        "published": "Wed, 15 Jul 2026 21:49:50 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Kalshi traders see gas prices crossing $4 by end of July",
-        "summary": "Like last month's average, Kalshi traders see gas prices surpassing $4 by the end of July.",
-        "link": "https://www.cnbc.com/2026/07/15/kalshi-traders-see-gas-prices-crossing-4-by-end-of-july-.html",
-        "published": "Wed, 15 Jul 2026 21:11:03 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump's pick to head national intelligence, Jay Clayton, won't tell senators Biden won the 2020 election",
-        "summary": "The Senate Intelligence Committee is considering Jay Clayton's nomination to be the director of national intelligence.",
-        "link": "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html",
-        "published": "Wed, 15 Jul 2026 19:48:29 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
-        "summary": "The investor has been sharply critical of the stock market, one that he says is increasingly defined by speculative trading as opposed to long-term investing.",
-        "link": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
-        "published": "Wed, 15 Jul 2026 15:08:40 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Historic IBM stock crash sets up unique options strategy",
-        "summary": "IBM shares fell just over $73 to ~$217 — a jaw-dropping 25% single-day decapitation.",
-        "link": "https://www.cnbc.com/2026/07/15/historic-ibm-stock-crash-sets-up-unique-options-strategy.html",
-        "published": "Wed, 15 Jul 2026 17:17:38 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump blasts New York AI data center moratorium, says state should change policy 'immediately'",
-        "summary": "New York became the first state in the U.S. to impose a ban of its kind when the governor signed the executive order Tuesday.",
-        "link": "https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html",
-        "published": "Wed, 15 Jul 2026 20:35:40 GMT"
+        "title": "Bank of Korea raises rates to 2.75% in first hike in over three years",
+        "summary": "The 25 basis point hike by the Bank of Korea was in line with a survey of economists polled by Reuters.",
+        "link": "https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html",
+        "published": "Thu, 16 Jul 2026 02:12:44 GMT"
       },
       {
         "source": "BBC World",
-        "title": "French MPs approve assisted dying law with strict rules after years of argument",
-        "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 15 Jul 2026 17:29:26 GMT"
+        "title": "Iran targets military bases as US launches wave of strikes",
+        "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 16 Jul 2026 07:06:38 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-        "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
-        "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 15 Jul 2026 18:41:21 GMT"
+        "title": "Argentina face action after waving Falklands banner",
+        "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 15 Jul 2026 22:49:47 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-        "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-        "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 14 Jul 2026 23:17:27 GMT"
+        "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+        "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
+        "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 15 Jul 2026 23:02:37 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "US military to start screening for testosterone deficiency, Hegseth says",
+        "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
+        "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 16 Jul 2026 02:33:40 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Actor Sam Neill died from pneumonia, agent confirms",
+        "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
+        "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 16 Jul 2026 04:28:22 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +102,52 @@
       },
       {
         "source": "BBC World",
-        "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-        "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
-        "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 15 Jul 2026 21:21:19 GMT"
+        "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+        "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+        "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 15 Jul 2026 23:02:49 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
-        "summary": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 15 Jul 2026 15:33:30 GMT"
+        "title": "French MPs approve assisted dying law with strict rules after years of argument",
+        "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+        "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 15 Jul 2026 17:29:26 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "summary": "Officials say they are suspected of selling \"seditious\" books which incited \"hatred\" against authorities.",
-        "link": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 15 Jul 2026 16:51:07 GMT"
+        "source": "CoinDesk",
+        "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
+        "published": "Thu, 16 Jul 2026 06:20:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-        "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
-        "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 15 Jul 2026 11:44:28 GMT"
+        "source": "CoinDesk",
+        "title": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
+        "published": "Thu, 16 Jul 2026 06:00:43 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million",
+        "published": "Thu, 16 Jul 2026 05:12:26 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
+        "published": "Thu, 16 Jul 2026 04:56:15 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Two groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
+        "published": "Thu, 16 Jul 2026 04:09:10 +0000"
       },
       {
         "source": "CoinDesk",
@@ -136,49 +171,49 @@
         "published": "Wed, 15 Jul 2026 16:52:28 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
-        "published": "Wed, 15 Jul 2026 15:27:43 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "The privacy paradox of protecting kids online",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online",
-        "published": "Wed, 15 Jul 2026 14:58:50 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?",
-        "summary": "",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
-        "published": "Wed, 15 Jul 2026 14:58:09 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "President Trump expected to meet with senators to work on ethics concerns in crypto bill",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
-        "published": "Wed, 15 Jul 2026 14:37:36 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
-        "published": "Wed, 15 Jul 2026 14:35:26 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 15 Jul 2026 20:13:29 +0000"
+        "title": "Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analitycs2021-hype.jpg\" /></p><p>The deal gives Hyperion an equity stake in Skew and a share of listing-service revenue as it expands the utility of its HYPE treasury assets.</p>",
+        "link": "https://cointelegraph.com/news/hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 16 Jul 2026 06:41:14 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "大厂医疗AI战，开始“卷”减重",
+        "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>互联网大厂做医疗AI，越来越偏爱“减重”场景。</p>\n  <p>近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。</p>\n  <p>2021年，薄荷健康完成D轮融资，估值为20亿人民币。本次投资，据接近交易人士介绍，“从战投角度来做，蚂蚁整体投资金额为数亿人民币，价格比较合理”。关于对价，蚂蚁方面并未回应。</p>\n  <p>据36氪了解，薄荷健康的主要收入来源包括食品、功效产品等电商销售，会员付费。近两年，在严肃医疗场景，薄荷健康与减重创新药企、CRO公司的合作，增长势头也较强。多位AI医疗从业者认为，这种把单一健康管理场景服务做深，并形成强用户粘性和商业转化的能力，是蚂蚁看重薄荷健康的重要因素之一。</p>\n  <p>在大健康赛道，医疗是相对低频的场景。为提高医疗AI类应用的用户留存和粘性，各家纷纷看中了高频、刚需且下游可拓展品类广阔的“减重”场景。</p>",
+        "link": "https://36kr.com/p/3896639942592134?f=rss",
+        "published": "2026-07-16 10:21:30  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段",
+        "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，民用航空动力企业汉发长空近日完成近亿元Pre-A轮融资，本轮融资由方广资本领投，致道资本、六翼投资共同投资。</p>\n  <p>融资资金将主要用于提升400kW级通用核心机平台的技术成熟度与工程化验证，加速发动机向量产阶段迈进。400kW级平台包括涡轴发动机S4、涡桨发动机P4以及涡电发动机H4。涡轴发动机S4已进入挂飞测试阶段；涡桨发动机P4与涡电发动机H4预计将在今年下半年完成首装下线并开展地面试验。</p>\n  <p>在航空涡轮发动机领域，国内长期以军用动力为主，面向低空经济领域的民用动力长期处于空缺状态，而国际航发巨头则长期垄断着市场。动力产品的现状，不仅推高了飞行器整机成本，也制约了无人机、eVTOL等低空飞行器的大规模商业化，成为当前低空经济发展的核心瓶颈之一。</p>\n  <p>汉发长空针对国内全新的无人物流场景、复杂地形运输场景、长航程大载重的evtol场景，采用“核心机平台化”的构型衍生模式，全流程正向研发400千瓦级通用核心机平台。<str",
+        "link": "https://36kr.com/p/3897686922266244?f=rss",
+        "published": "2026-07-16 10:12:48  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。</p>\n  <p>这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。</p>\n  <p>但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。</p>\n  <p>庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一智能体育AI教练机器人Aura发布，完成了从网球场景的训练工具、到多运动AI教练机器人的落地。这款产品在Kickstarter上线当天，仅5小时众筹金额便超过100万美金，累计金额近400万美元。</p>\n  <p>它的核心思路很直接：与其让用户为每一项运动分别买单，不如用一台设备覆盖尽可能多的场景，包括时下热门的板式网球、匹克球等等。基于所搭载的AI Coach智能教练体系，拓宽产品适用场景与用户覆盖范围。</p>\n  <p>从单一专项的训练工具，到兼容多类",
+        "link": "https://36kr.com/p/3896586337978244?f=rss",
+        "published": "2026-07-16 09:30:00  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家",
+        "summary": "<p>自动驾驶重卡赛道，今年显著升温。</p>\n  <p>36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。</p>\n  <p>2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物流等开放场景也伴随政策开始逐渐落地，进入规模化前夜。</p>\n  <p>斯年智驾成立于2020年4月，是一家专注于重载物流领域无人驾驶技术研发与落地的公司，提供港口、园区、干线等多场景的自动驾驶解决方案。</p>\n  <p>目前，斯年智驾的商业模式呈现多车型、多场景、多作业链路的特点。</p>\n  <p>在产品端，无人集卡、无人自卸车和无人平板车构成了斯年的主力阵容。支撑这些产品的，是其自研的一段式世界模型自动驾驶方案，以及域控制器、定位板卡在内的核心硬件。</p>\n  <p>落地模式上，斯年智驾提供两种方案：既可以直接卖整车，也可以提供运力服务。在封闭场景，公司已",
+        "link": "https://36kr.com/p/3895721094842249?f=rss",
+        "published": "2026-07-16 08:00:00  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+        "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>澳洲将设AI办公室，限制数据中心能源消耗</p>\n  <p>巴菲特宣布8年内清仓伯克希尔股票</p>\n  <p>前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队</p>\n  <p>长鑫科技：上市后仍将保持无实际控制人的控制权架构</p>\n  <p>谷歌参与建设美国最大太阳能项目，总规模达2.5GW</p>\n  <h2><strong>TOP 3大新闻</strong></h2>\n  <p><strong>阿里、百度分别为苹果智能提供AI相关能力支撑</strong></p>\n  <p>36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“Apple智能”大模型7月8日完成备案。阿里千问将为苹果全系列国行设备提供文本、图像生成AI能力，百度则负责配套AI搜索功能，二者共同完善国内版苹果智能套件与Siri功能。</p>\n  <p><strong>三家共享单车上调起步价，拉长基础骑行时长</strong></p>\n  <p>近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了",
+        "link": "https://36kr.com/p/3897553391978371?f=rss",
+        "published": "2026-07-16 07:59:41  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
@@ -196,122 +231,81 @@
       {
         "source": "36氪 36Kr",
         "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
-        "summary": "<p>2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。</p>\n  <p>但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。</p>\n  <p>AI&nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏&nbsp;UGC&nbsp;领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。</p>\n  <p>只不过，过去的UGC&nbsp;创作者大多停留在&nbsp;「用爱发电」&nbsp;的业余阶段，受限于工具能力与变现空间，很难成长为真正意义上的微型创业主体。直到&nbsp;AI&nbsp;的深度渗透，让这层天花板开始松动。</p>\n  <p>上周末，网易《蛋���派对》举办了第四届创作者大会，在公布了自己在UGC生态成果的同时，正式推出行业首个同时覆盖帧同步与状态同步的UGC编辑器体——「双子星」编辑器体系，",
+        "summary": "<p>2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。</p>\n  <p>但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。</p>\n  <p>AI&nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏&nbsp;UGC&nbsp;领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。</p>\n  <p>只不过，过去的UGC&nbsp;创作者大多停留在&nbsp;「用爱发电」&nbsp;的业余阶段，受限于工具能力与变现空间，很难成长为真正意义上的微型创业主体。直到&nbsp;AI&nbsp;的深度渗透，让这层天花板开始松动。</p>\n  <p>上周末，网易《蛋仔派对》举办了第四届创作者大会，在公布了自己在UGC生态成果的同时，正式推出行业首个同时覆盖帧同步与状态同步的UGC编辑器体——「双子星」编辑器体系，并进",
         "link": "https://36kr.com/p/3896755010963333?f=rss",
         "published": "2026-07-15 18:36:56  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "支付宝不想做AI时代的配角",
-        "summary": "<p>作者&nbsp;|&nbsp;王晗玉</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。</p>\n  <p>最近，支付宝完成了上线22年来最大一次改版。</p>\n  <p>本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkBuddy中落地。</p>\n  <p>进入2026年以来，从头部平台到各家支付机构密集亮出AI底牌，支付行业的智能体竞争悄然开场。</p>\n  <h3><strong>从“用完即走”到“主动来聊”</strong></h3>\n  <p>伴随AI化进程，支付APP第一次出现了非工具属性的用户行为。</p>\n  <p>在AI版本开启内测后，支付宝相关人士告诉36氪，在此期间一个现象让团队意外：很多用户打开阿宝不是为了办事，而是单纯来“遛”它——比如闲聊、问脑洞问题、测试各种反应等。“‘阿宝’的活人感增加了用户的沟通兴趣，很多人来‘遛’阿宝，这个我们也挺意",
-        "link": "https://36kr.com/p/3896720584738435?f=rss",
-        "published": "2026-07-15 17:50:30  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
-        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260715/v2_ff327a59564e4aabba6f26d61cd4d748@6108898_oswg167386oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260715/v2_621d99ff7d4441a8b0b27f81910ce5e5@6108898_oswg9538oswg1080oswg127_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>这个夏天，阳澄湖畔的吸引力有了新的注脚。</p>\n",
-        "link": "https://36kr.com/p/3896639400183687?f=rss",
-        "published": "2026-07-15 16:30:35  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "四大一线城市房价继续修复上涨",
-        "summary": "<p>7月15日，国家统计局公布《6月份70个大中城市商品住宅销售价格变动情况》，统计数据显示，一线城市新房、二手房价格继续整体环比上涨，维持修复回暖信号。</p>\n  <p>自2026年3月以来，一线城市新房和二手房销售价格指数已经连续上涨四个月。6月份，一线城市新建商品住宅销售价格涨幅有回落态势，环比上涨0.1%，涨幅比上月回落了0.1个百分点。其中，北京是唯一一个房价继续环比下降的城市，降幅为0.3%，上海、广州和深圳分别上涨0.3%、0.2%和0.3%。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260715/v2_adce2b1138bb4d1c9fd8bf4d47348fdd@6208419_oswg183689oswg1055oswg1209_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">来源：统计局</p>\n  <p>二手",
-        "link": "https://36kr.com/p/3896544104793993?f=rss",
-        "published": "2026-07-15 14:49:46  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "优衣库再失一枚棋子",
-        "summary": "<p>上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。</p>\n  <p>资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U系列，2026秋冬系列或将成为两人与优衣库合作十年的收官之作。</p>\n  <p>她同时透露，迅销集团对Lemaire同名品牌的持股已经下调。迅销内部曾讨论U系列能否在没有两位设计师的情况下独立存续，但这一提议被柳井正本人否决了。截至发稿，Lemaire与迅销均拒绝置评。Sherman也提醒：“未来几个月情况可能会有变化。”</p>\n  <p>优衣库与德国设计师Jil Sander合作的+J系列未能长期延续，曾是柳井正心目中的“巨大遗憾”。U系列谢幕消息虽尚未落定，行业内部人士已普遍预期这段合作将走向终点——一段持续了整整十年、被行业观察者形容为“既坚定又互利”的关系。</p>\n  <h2>一场各取所需的十年联姻</h2>\n  <p>Uniqlo U的前身，是2015",
-        "link": "https://36kr.com/p/3885699885445122?f=rss",
-        "published": "2026-07-15 13:25:41  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "耐克中国，壮士断腕",
-        "summary": "<p>上周，一则关于耐克计划调整中国线上经销体系的消息引发行业震动。</p>\n  <p>消息称，耐克拟收回部分线上渠道运营权，涉及包括滔搏在内的核心合作伙伴。消息传出后，滔搏迅速发布公告，但并未直接否认，仅表示\"尚未接获耐克正式通知\"，同时透露双方一直就包括线上销售安排在内的合作模式保持沟通。</p>\n  <p><strong>如果最终全面实施，这项改革可能影响耐克中国约10亿美元规模的批发业务，是上一财年大中华区总营收的17%。</strong></p>\n  <p>几天后的2026财年第四季度财报电话会上，面对分析师追问，耐克全球CEO Elliott Hill没有正面回应这一传闻，只表示：</p>\n  <blockquote>\n   <p>\"中国市场的成功需要更深入的本地合作伙伴关系，我们正在围绕线上和线下渠道，持续推进调整。\"</p>\n  </blockquote>\n  <p>6月29日，一位接近耐克的人士向36氪表示，上述消息\"基本属实\"。据其透露，耐克内部已经做好了承受短期阵痛的准备。\"真正恢复增长，可能要等到2027，甚至2028年。\"</p>\n  <p>与此同时，WWD援",
-        "link": "https://36kr.com/p/3876646017216516?f=rss",
-        "published": "2026-07-15 13:25:28  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
         "title": "Inkling: Our Open-Weights Model",
-        "summary": "score: 427, comments: 106",
+        "summary": "score: 904, comments: 221",
         "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-        "score": 427
+        "score": 904
       },
       {
         "source": "Hacker News",
         "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-        "summary": "score: 266, comments: 140",
+        "summary": "score: 419, comments: 229",
         "link": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-        "score": 266
+        "score": 419
       },
       {
         "source": "Hacker News",
-        "title": "Prioritize mental health, and why communication is so important",
-        "summary": "score: 256, comments: 204",
-        "link": "https://ramones.dev/posts/mental-health/",
-        "score": 256
-      },
-      {
-        "source": "Hacker News",
-        "title": "Mysteries of Telegram Data Centers (2022)",
-        "summary": "score: 221, comments: 110",
-        "link": "https://dev.moe/en/3025",
-        "score": 221
-      },
-      {
-        "source": "Hacker News",
-        "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-        "summary": "score: 199, comments: 114",
-        "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-        "score": 199
-      },
-      {
-        "source": "Hacker News",
-        "title": "Collection of Digital Clock Designs",
-        "summary": "score: 132, comments: 32",
-        "link": "https://clocks.dev",
-        "score": 132
-      },
-      {
-        "source": "Hacker News",
-        "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-        "summary": "score: 115, comments: 37",
-        "link": "https://github.com/welcome-to-the-sunny-side/misa77",
-        "score": 115
-      },
-      {
-        "source": "Hacker News",
-        "title": "Grok Build",
-        "summary": "score: 87, comments: 98",
+        "title": "Grok Build is open source",
+        "summary": "score: 395, comments: 420",
         "link": "https://github.com/xai-org/grok-build",
-        "score": 87
+        "score": 395
+      },
+      {
+        "source": "Hacker News",
+        "title": "SQLite should have (Rust-style) editions",
+        "summary": "score: 225, comments: 82",
+        "link": "https://mort.coffee/home/sqlite-editions/",
+        "score": 225
+      },
+      {
+        "source": "Hacker News",
+        "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "summary": "score: 161, comments: 57",
+        "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "score": 161
+      },
+      {
+        "source": "Hacker News",
+        "title": "The lost joy of music piracy",
+        "summary": "score: 142, comments: 64",
+        "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+        "score": 142
+      },
+      {
+        "source": "Hacker News",
+        "title": "I also filed the corners off my MacBook",
+        "summary": "score: 135, comments: 34",
+        "link": "https://www.brt.fyi/posts/mac-book-filing/",
+        "score": 135
+      },
+      {
+        "source": "Hacker News",
+        "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+        "summary": "score: 82, comments: 45",
+        "link": "https://davidobando.github.io/gsharp/",
+        "score": 82
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Akedo (AKE)",
-        "summary": "market cap rank: 921",
+        "summary": "market cap rank: 852",
         "link": "https://www.coingecko.com/en/coins/akedo"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 118",
+        "summary": "market cap rank: 119",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Ondo (ONDO)",
-        "summary": "market cap rank: 44",
-        "link": "https://www.coingecko.com/en/coins/ondo"
       },
       {
         "source": "CoinGecko Trending",
@@ -321,21 +315,27 @@
       },
       {
         "source": "CoinGecko Trending",
+        "title": "LAB (LAB)",
+        "summary": "market cap rank: 347",
+        "link": "https://www.coingecko.com/en/coins/lab"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pi Network (PI)",
+        "summary": "market cap rank: 76",
+        "link": "https://www.coingecko.com/en/coins/pi-network"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ondo (ONDO)",
+        "summary": "market cap rank: 43",
+        "link": "https://www.coingecko.com/en/coins/ondo"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 267",
+        "summary": "market cap rank: 261",
         "link": "https://www.coingecko.com/en/coins/cash-cat"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 296",
-        "link": "https://www.coingecko.com/en/coins/the-black-bull"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 92",
-        "link": "https://www.coingecko.com/en/coins/lighter"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd4aoUvLrZLPZCTF5HFy8'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd5KzMuEBroT6VPpzaJJV'}"
   }
 }
