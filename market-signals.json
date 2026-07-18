@@ -1,20 +1,48 @@
 {
-  "generated_at_utc": "2026-07-18T06:54:35.291201+00:00",
+  "generated_at_utc": "2026-07-18T14:17:07.070060+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+        "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+        "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+        "published": "Sat, 18 Jul 2026 11:31:03 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
+        "summary": "Nearly half of registered voters watched the 2026 World Cup, with income and education shaping viewership more than party affiliation, the survey found.",
+        "link": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
+        "published": "Sat, 18 Jul 2026 12:00:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
+        "summary": "U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
+        "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+        "published": "Sat, 18 Jul 2026 14:01:46 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+        "summary": "Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026.",
+        "link": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
+        "published": "Sat, 18 Jul 2026 11:45:35 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "How are prediction markets taxed? The IRS hasn’t provided guidance yet",
+        "summary": "Experts say the lack of federal guidance makes it's unclear on how prediction markets winnings should be reported and levied.",
+        "link": "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html",
+        "published": "Sat, 18 Jul 2026 11:24:54 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
         "summary": "The smoke coming from active wildfires in Canada has led to unhealthy air quality in swaths of the U.S., which could affect the World Cup final in New Jersey.",
         "link": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
         "published": "Fri, 17 Jul 2026 23:08:24 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-        "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
-        "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-        "published": "Fri, 17 Jul 2026 13:12:11 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -25,52 +53,17 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Taco Bell says it has removed lettuce linked to cyclosporiasis outbreak from its restaurants",
-        "summary": "Taco Bell, which the CDC linked to the cyclosporiasis outbreak, will likely recover soon from the health safety scare, according to analysts.",
-        "link": "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html",
-        "published": "Fri, 17 Jul 2026 22:16:23 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
-        "summary": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.",
-        "link": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-        "published": "Fri, 17 Jul 2026 19:49:17 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
-        "summary": "The high price for the garment is a sign that collectors are looking to bid on artifacts and collectibles from the artificial intelligence boom.",
-        "link": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
-        "published": "Fri, 17 Jul 2026 23:18:35 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
-        "summary": "It's the latest AI model from China to close the performance gap with leading U.S. AI labs.",
-        "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
-        "published": "Sat, 18 Jul 2026 01:03:47 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Epstein victims blast Trump attorney general nominee Todd Blanche after meeting",
-        "summary": "\"Todd Blanche treated the meeting as a mere 'check-the-box' exercise intended to secure votes for his confirmation,\" said Epstein survivor Dani Bensky.",
-        "link": "https://www.cnbc.com/2026/07/17/epstein-victims-todd-blanche-doj-trump-tillis.html",
-        "published": "Fri, 17 Jul 2026 19:51:42 GMT"
+        "title": "Scam victims can owe taxes on stolen money. A bill in Congress could offer relief",
+        "summary": "A bill in the House would restore a pre-2018 rule that generally allowed a tax deduction for theft losses and would add other relief for fraud victims.",
+        "link": "https://www.cnbc.com/2026/07/18/scam-victims-irs-tax-stolen-money.html",
+        "published": "Sat, 18 Jul 2026 13:30:01 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-        "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 18 Jul 2026 01:29:47 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "US strikes hit Iran for seventh consecutive night",
-        "summary": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
-        "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 18 Jul 2026 04:40:11 GMT"
+        "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+        "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+        "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 18 Jul 2026 13:06:25 GMT"
       },
       {
         "source": "BBC World",
@@ -81,17 +74,31 @@
       },
       {
         "source": "BBC World",
-        "title": "White House defends Argentina team over Falklands banner",
-        "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 17 Jul 2026 22:12:54 GMT"
+        "title": "US strikes hit Iran for seventh consecutive night",
+        "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+        "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 18 Jul 2026 11:48:44 GMT"
       },
       {
         "source": "BBC World",
-        "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
-        "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 17 Jul 2026 20:00:54 GMT"
+        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+        "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 18 Jul 2026 01:29:47 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+        "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+        "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 18 Jul 2026 07:05:19 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
+        "summary": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
+        "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 18 Jul 2026 11:10:20 GMT"
       },
       {
         "source": "BBC World",
@@ -102,17 +109,24 @@
       },
       {
         "source": "BBC World",
-        "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-        "summary": "India's first space-tech unicorn Skyroot Aerospace is set to launch Vikram-1 on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 18 Jul 2026 00:39:18 GMT"
+        "title": "White House defends Argentina team over Falklands banner",
+        "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 17 Jul 2026 22:12:54 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-        "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 17 Jul 2026 18:34:04 GMT"
+        "source": "CoinDesk",
+        "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+        "published": "Sat, 18 Jul 2026 14:15:15 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Tokenization has become a strategic priority for 84% of financial firms",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+        "published": "Sat, 18 Jul 2026 14:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,25 +171,11 @@
         "published": "Fri, 17 Jul 2026 12:45:11 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "AI frenzy losing steam leaves bitcoin less volatile than South Korean stocks",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/07/17/ai-frenzy-losing-steam-leaves-bitcoin-less-volatile-than-south-korean-stocks",
-        "published": "Fri, 17 Jul 2026 11:48:20 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
-        "published": "Fri, 17 Jul 2026 10:43:57 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "FTX to distribute $900M to creditors in fifth payment round",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FTX to distribute $900M to creditors in fifth payment round\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ftx-distribution.png\" /></p><p>The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds.</p>",
-        "link": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 17 Jul 2026 21:40:18 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 18 Jul 2026 11:42:51 +0000"
       }
     ],
     "chinese_news": [
@@ -240,61 +240,67 @@
       {
         "source": "Hacker News",
         "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-        "summary": "score: 1136, comments: 676",
+        "summary": "score: 1234, comments: 718",
         "link": "https://news.ycombinator.com/item?id=48945241",
-        "score": 1136
+        "score": 1234
       },
       {
         "source": "Hacker News",
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
-        "summary": "score: 514, comments: 50",
+        "summary": "score: 695, comments: 80",
         "link": "https://news.ycombinator.com/item?id=48949551",
-        "score": 514
+        "score": 695
       },
       {
         "source": "Hacker News",
-        "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-        "summary": "score: 465, comments: 299",
-        "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-        "score": 465
+        "title": "Regressive JPEGs",
+        "summary": "score: 493, comments: 47",
+        "link": "https://maurycyz.com/projects/bad_jpeg/",
+        "score": 493
       },
       {
         "source": "Hacker News",
         "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-        "summary": "score: 429, comments: 253",
+        "summary": "score: 481, comments: 283",
         "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-        "score": 429
+        "score": 481
       },
       {
         "source": "Hacker News",
-        "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-        "summary": "score: 316, comments: 166",
-        "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-        "score": 316
-      },
-      {
-        "source": "Hacker News",
-        "title": "Learning a few things about running SQLite",
-        "summary": "score: 216, comments: 56",
-        "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-        "score": 216
+        "title": "LG monitors silently install software through Windows Update without consent",
+        "summary": "score: 426, comments: 224",
+        "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+        "score": 426
       },
       {
         "source": "Hacker News",
         "title": "The Zilog Z80 has turned 50",
-        "summary": "score: 203, comments: 63",
+        "summary": "score: 245, comments: 97",
         "link": "https://goliath32.com/blog/z80.html",
-        "score": 203
+        "score": 245
       },
       {
         "source": "Hacker News",
-        "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
-        "summary": "score: 130, comments: 27",
-        "link": "https://prathosh.in/vagdhenu/",
-        "score": 130
+        "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+        "summary": "score: 168, comments: 60",
+        "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+        "score": 168
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reviving a 15-year-old netbook with Arch Linux",
+        "summary": "score: 164, comments: 97",
+        "link": "https://parksb.github.io/en/article/41.html",
+        "score": 164
       }
     ],
     "crypto_trending": [
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 119",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
       {
         "source": "CoinGecko Trending",
         "title": "ADI (ADI)",
@@ -303,38 +309,32 @@
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Akedo (AKE)",
+        "summary": "market cap rank: 521",
+        "link": "https://www.coingecko.com/en/coins/akedo"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 411",
+        "summary": "market cap rank: 406",
         "link": "https://www.coingecko.com/en/coins/cash-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Ondo (ONDO)",
-        "summary": "market cap rank: 43",
-        "link": "https://www.coingecko.com/en/coins/ondo"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 332",
+        "summary": "market cap rank: 341",
         "link": "https://www.coingecko.com/en/coins/the-black-bull"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Toshi (TOSHI)",
-        "summary": "market cap rank: 441",
-        "link": "https://www.coingecko.com/en/coins/toshi"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "LAB (LAB)",
-        "summary": "market cap rank: 383",
+        "summary": "market cap rank: 376",
         "link": "https://www.coingecko.com/en/coins/lab"
       }
     ]
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd95q7MFuABiHDTXXE7bL'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd9faMY5MjxDYSuZwgiC2'}"
   }
 }
