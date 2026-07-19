@@ -1,20 +1,48 @@
 {
-  "generated_at_utc": "2026-07-19T07:22:47.342866+00:00",
+  "generated_at_utc": "2026-07-19T14:20:59.491024+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement",
-        "summary": "When asked about Iran no longer abiding by the interim peace agreement, U.S. President Donald Trump reportedly said, \"I couldn't care less.\"",
-        "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-        "published": "Sat, 18 Jul 2026 23:04:22 GMT"
+        "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
+        "summary": "Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on Jordan.",
+        "link": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+        "published": "Sun, 19 Jul 2026 11:36:45 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
-        "summary": "Nearly half of registered voters watched the 2026 World Cup, with income and education shaping viewership more than party affiliation, the survey found.",
-        "link": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
-        "published": "Sat, 18 Jul 2026 12:00:02 GMT"
+        "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+        "summary": "The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.",
+        "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+        "published": "Sun, 19 Jul 2026 12:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
+        "summary": "The automotive industry's increasing use of over-the-air technology makes it more susceptible to cyberattacks, analysts say.",
+        "link": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
+        "published": "Sat, 18 Jul 2026 23:01:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
+        "summary": "The cost of housing is the top priority for voters ages 18 to 34, besting food and healthcare cost concerns, the CNBC All-America Economic Survey found.",
+        "link": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
+        "published": "Sun, 19 Jul 2026 12:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+        "summary": "The prediction market has launched some ads featuring soccer players, as well as formed a partnership to display its brand in more places during the tournament.",
+        "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
+        "published": "Sun, 19 Jul 2026 12:42:30 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
+        "summary": "Here are three dividend-paying stocks that are highlighted by Wall Street's top pros, as tracked by TipRanks.",
+        "link": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
+        "published": "Sun, 19 Jul 2026 12:46:25 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -31,67 +59,25 @@
         "published": "Sat, 18 Jul 2026 18:16:42 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Why Dana White thinks much more of UFC's future will be Power Slap and boxing",
-        "summary": "UFC president and CEO Dana White predicted that Power Slap may become as big as his flagship fighting sport at the Game Plan conference in New York.",
-        "link": "https://www.cnbc.com/2026/07/18/ufc-dana-white-power-slap-boxing.html",
-        "published": "Sat, 18 Jul 2026 14:41:49 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
-        "summary": "The new Fed chairman avoided major stumbles in two days of testimony before the House and Senate, but faces a rapid test of his commitment to price stability.",
-        "link": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
-        "published": "Fri, 17 Jul 2026 20:28:40 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Two unexpected revelations in Warren Buffett's CNBC interview",
-        "summary": "Warren Buffett tells CNBC that Bill Gates' ties to Jeffrey Epstein didn't drive his termination of donations.",
-        "link": "https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html",
-        "published": "Sat, 18 Jul 2026 14:53:36 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Fanatics CEO Michael Rubin on two sports businesses his multibillion-dollar conglomerate won't enter",
-        "summary": "Fanatics has become one of the most influential companies in sports, building out a massive merchandise, collectibles and sports gambling platform.",
-        "link": "https://www.cnbc.com/2026/07/18/fanatics-fanfest-michael-rubin.html",
-        "published": "Sat, 18 Jul 2026 16:20:28 GMT"
-      },
-      {
         "source": "BBC World",
-        "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-        "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+        "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+        "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
         "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 19 Jul 2026 05:10:57 GMT"
+        "published": "Sun, 19 Jul 2026 13:10:57 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+        "title": "Tate brothers arrested in US as further UK charges take total to 59",
         "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
         "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 19 Jul 2026 02:17:07 GMT"
+        "published": "Sun, 19 Jul 2026 12:53:20 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-        "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 18 Jul 2026 23:59:26 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-        "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-        "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 18 Jul 2026 13:06:25 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Hungary's president agrees to stand down after parliament backs removal",
-        "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-        "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 18 Jul 2026 19:34:16 GMT"
+        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+        "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+        "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 19 Jul 2026 11:28:24 GMT"
       },
       {
         "source": "BBC World",
@@ -102,17 +88,59 @@
       },
       {
         "source": "BBC World",
-        "title": "German politician resigns over surrogacy child controversy",
-        "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-        "link": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 18 Jul 2026 15:23:31 GMT"
+        "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+        "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 19 Jul 2026 07:47:02 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-        "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 18 Jul 2026 07:05:19 GMT"
+        "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+        "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 19 Jul 2026 14:00:03 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Hungary's president agrees to stand down after parliament backs removal",
+        "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
+        "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 18 Jul 2026 19:34:16 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Runners take on 'world's coolest marathon' on drifting North Pole ice",
+        "summary": "Organisers say 23 runners from seven countries took part in races at the Arctic's geographic North Pole.",
+        "link": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 19 Jul 2026 14:06:08 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "AI is destroying the internet. Math is our only hope.",
+        "summary": "",
+        "link": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
+        "published": "Sun, 19 Jul 2026 14:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+        "summary": "",
+        "link": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+        "published": "Sun, 19 Jul 2026 13:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Kraken says simpler options can unlock crypto's next derivatives market",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
+        "published": "Sun, 19 Jul 2026 13:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+        "published": "Sun, 19 Jul 2026 10:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -143,42 +171,21 @@
         "published": "Sat, 18 Jul 2026 17:00:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
-        "published": "Sat, 18 Jul 2026 16:09:59 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
-        "summary": "",
-        "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
-        "published": "Sat, 18 Jul 2026 15:50:31 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
-        "published": "Sat, 18 Jul 2026 14:15:15 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Tokenization has become a strategic priority for 84% of financial firms",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
-        "published": "Sat, 18 Jul 2026 14:00:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
         "title": "Here’s what happened in crypto today",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 18 Jul 2026 11:42:51 +0000"
+        "published": "Sun, 19 Jul 2026 13:20:25 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+        "summary": "<p>在2026世界人工智能大会（WAIC 2026）上，安顿健康以两项首发引发广泛关注：我国首个生命预警表标准，以及行业首个七诊合参中医机器人——安顿中医机器人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_85bdc624ce684fc98a9d450b4b2090e5@517825446_oswg7073557oswg3004oswg1684_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">WAIC现场图片</p>\n  <p>两项首发背后，是一套从感知层到算法层再到输出层的完整技术体系。</p>\n  <p><strong>核心引擎：天回·AI脉诊算法与三重置信体系</strong></p>\n  <p>安顿双核首发的技术底座，是一套名为\"天回·AI脉诊算法\"的自研核心技术。该算法首次将中医24种脉象细分为120余个可量化",
+        "link": "https://36kr.com/p/3902428274427525?f=rss",
+        "published": "2026-07-19 18:35:30  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
@@ -227,79 +234,72 @@
         "summary": "<p>我们有多久没有长久地喜欢过一个东西了？</p>\n  <p>在这个注意力被成倍压缩、审美红利稍纵即逝的快消时代，新鲜感的贬值速度快得惊人。换一部手机，追一个新坑，或者刷完几个短视频，我们的注意力就被迅速瓜分干净，连喜爱都变得行色匆匆。</p>\n  <p>但在这个热闹又健忘的环境里，却存在着反常的例外——<strong>一个不说话，甚至从不微笑的潮流手办，竟然被人们安静地喜爱了整整二十年。 &nbsp;</strong></p>\n  <p>为什么不同年龄、不同背景的人，都愿意和她建立情感链接？为什么每个人眼里的她，好像都不太一样，却又都觉得她始终陪伴着自己？</p>\n  <p><strong>带着这些疑问，我们一起重新回看MOLLY这个潮流手办的20年。</strong></p>\n  <h2><strong>不被定义的“不讨好”</strong></h2>\n  <p>北京798的展厅里，人比想象中还要多。</p>\n  <p>仔细观察看展人潮，你会发现他们来自不同的世界：<strong>有60多岁的奶奶，牛仔裤、白T恤，看起来特别潮流，</strong>她已经喜欢MOLLY十多年了。走",
         "link": "https://36kr.com/p/3899428949132932?f=rss",
         "published": "2026-07-17 15:46:38  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
-        "summary": "<p>[中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（&lt;20Mbps）占比仅0.1%。优异的现网测评结果标志着联通好网络在北京区域已经从5G-A全城点亮迈向全域大上行的发展新阶段。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260717/v2_f3e09491e03042b7a249906c12161a42@517825446_oswg1556881oswg1990oswg660_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">“5G Capital”路上见媒体路测</p>\n",
-        "link": "https://36kr.com/p/3899398088509319?f=rss",
-        "published": "2026-07-17 15:13:05  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-        "summary": "score: 548, comments: 350",
-        "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-        "score": 548
-      },
-      {
-        "source": "Hacker News",
-        "title": "Speech Recognition and TTS in less than 500kb",
-        "summary": "score: 406, comments: 49",
-        "link": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-        "score": 406
-      },
-      {
-        "source": "Hacker News",
         "title": "Transcribe.cpp",
-        "summary": "score: 387, comments: 70",
+        "summary": "score: 610, comments: 130",
         "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
-        "score": 387
-      },
-      {
-        "source": "Hacker News",
-        "title": "If You Build It, They Will Come",
-        "summary": "score: 370, comments: 130",
-        "link": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-        "score": 370
+        "score": 610
       },
       {
         "source": "Hacker News",
         "title": "The Kimi K3 Moment",
-        "summary": "score: 331, comments: 362",
+        "summary": "score: 515, comments: 501",
         "link": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-        "score": 331
+        "score": 515
       },
       {
         "source": "Hacker News",
-        "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "summary": "score: 217, comments: 150",
-        "link": "https://ykdojo.github.io/claude-controls-mac/",
-        "score": 217
+        "title": "Speech Recognition and TTS in less than 500kb",
+        "summary": "score: 488, comments: 68",
+        "link": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+        "score": 488
       },
       {
         "source": "Hacker News",
-        "title": "Better and Cheaper Than IPTV",
-        "summary": "score: 146, comments: 36",
-        "link": "https://github.com/stupside/castor",
-        "score": 146
+        "title": "Qwen3.8 is launching and going open-weight soon",
+        "summary": "score: 318, comments: 165",
+        "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "score": 318
       },
       {
         "source": "Hacker News",
-        "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-        "summary": "score: 140, comments: 87",
-        "link": "https://www.neatnik.net/hardcore-indieweb",
-        "score": 140
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "summary": "score: 145, comments: 77",
+        "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+        "score": 145
+      },
+      {
+        "source": "Hacker News",
+        "title": "Blender 5.2 LTS",
+        "summary": "score: 136, comments: 56",
+        "link": "https://www.blender.org/download/releases/5-2/",
+        "score": 136
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+        "summary": "score: 94, comments: 45",
+        "link": "https://github.com/openai/codex/pull/33972/files",
+        "score": 94
+      },
+      {
+        "source": "Hacker News",
+        "title": "Minecraft: Java Edition now uses SDL3",
+        "summary": "score: 61, comments: 30",
+        "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+        "score": 61
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 403",
-        "link": "https://www.coingecko.com/en/coins/cash-cat"
+        "title": "Lorenzo Protocol (BANK)",
+        "summary": "market cap rank: 297",
+        "link": "https://www.coingecko.com/en/coins/lorenzo-protocol"
       },
       {
         "source": "CoinGecko Trending",
@@ -309,33 +309,33 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "LAB (LAB)",
-        "summary": "market cap rank: 394",
-        "link": "https://www.coingecko.com/en/coins/lab"
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Gram (prev. Toncoin) (GRAM)",
-        "summary": "market cap rank: 26",
-        "link": "https://www.coingecko.com/en/coins/gram"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Credible Finance (CRED)",
-        "summary": "market cap rank: 970",
-        "link": "https://www.coingecko.com/en/coins/credible-finance"
+        "title": "Ondo (ONDO)",
+        "summary": "market cap rank: 44",
+        "link": "https://www.coingecko.com/en/coins/ondo"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pi Network (PI)",
-        "summary": "market cap rank: 68",
+        "summary": "market cap rank: 64",
         "link": "https://www.coingecko.com/en/coins/pi-network"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 41",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
+        "title": "The Black Bull (ANSEM)",
+        "summary": "market cap rank: 307",
+        "link": "https://www.coingecko.com/en/coins/the-black-bull"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "TENDIES (TENDIES)",
+        "summary": "market cap rank: 723",
+        "link": "https://www.coingecko.com/en/coins/tendies-2"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdB1nkZLj715cUSfM86bz'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdBZgPh2yded9ezJgyiBA'}"
   }
 }
