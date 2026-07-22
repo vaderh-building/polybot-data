@@ -1,111 +1,90 @@
 {
-  "generated_at_utc": "2026-07-22T14:58:12.923198+00:00",
+  "generated_at_utc": "2026-07-22T21:58:49.220931+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+        "summary": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
+        "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+        "published": "Wed, 22 Jul 2026 20:55:53 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "IBM lowers full-year forecast after earnings warning",
+        "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
+        "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+        "published": "Wed, 22 Jul 2026 21:38:52 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. signs nuclear power agreement with Saudi Arabia",
+        "summary": "The agreement will provide U.S. companies with access to Saudi Arabia's nuclear energy program, the Department of Energy said.",
+        "link": "https://www.cnbc.com/2026/07/22/trump-saudi-arabia-nuclear-power.html",
+        "published": "Wed, 22 Jul 2026 21:56:58 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
+        "summary": "Southwest Airlines reported a more than 9% increase in second-quarter profit as higher fares are increasingly helping the airline cover its fuel tab.",
+        "link": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+        "published": "Wed, 22 Jul 2026 21:05:15 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
         "summary": "Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports.",
         "link": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
-        "published": "Wed, 22 Jul 2026 14:05:45 GMT"
+        "published": "Wed, 22 Jul 2026 18:45:55 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Mortgage rates are rising again, but homebuyers are seeing some advantages",
-        "summary": "Mortgage rates last week rose to the highest level since last August, but homebuyer demand climbed as well, as buyers see more supply.",
-        "link": "https://www.cnbc.com/2026/07/22/mortgage-rates-are-rising-again.html",
-        "published": "Wed, 22 Jul 2026 11:31:31 GMT"
+        "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+        "summary": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
+        "link": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+        "published": "Wed, 22 Jul 2026 18:37:37 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Sen. Wyden introduces bill to curb Trump's tariff powers",
-        "summary": "Sen. Ron Wyden said Trump has \"abused every trade authority at his disposal\" and called his new tariffs on Canadian goods a \"shakedown.\"",
-        "link": "https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
-        "published": "Wed, 22 Jul 2026 13:00:15 GMT"
+        "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+        "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+        "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+        "published": "Wed, 22 Jul 2026 20:41:53 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
-        "summary": "Samsung launched the Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8.",
-        "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html",
-        "published": "Wed, 22 Jul 2026 13:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
-        "summary": "Anthropic's agreement with AMD is the latest in a string of infrastructure deals the company has announced this year to increase its computing capacity.",
-        "link": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
-        "published": "Wed, 22 Jul 2026 13:58:10 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Peacock is getting a lift from World Cup, Spanish-language content",
-        "summary": "Peacock attracted new subscribers with the Spanish-language telecast of the World Cup, and executives say advertisers are taking notice.",
-        "link": "https://www.cnbc.com/2026/07/22/peacock-is-getting-a-lift-from-world-cup-spanish-language-content.html",
-        "published": "Wed, 22 Jul 2026 11:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump's generic drug tariffs: What they could mean for medicine prices, manufacturers and supply",
-        "summary": "Trump's generic drug tariff plan raises questions over prices, U.S. manufacturing and which drugmakers stand to gain or lose as details remain unclear.",
-        "link": "https://www.cnbc.com/2026/07/22/trump-generic-drug-tariffs-prices-explained.html",
-        "published": "Wed, 22 Jul 2026 13:16:35 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Samsung details features of its smart glasses as it enters market dominated by Meta",
-        "summary": "The Samsung smart glasses are the tech giant's first foray into the product category which is currently dominated by Meta.",
-        "link": "https://www.cnbc.com/2026/07/22/samsung-smart-glasses-features-specs-price-meta.html",
-        "published": "Wed, 22 Jul 2026 13:00:01 GMT"
+        "title": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison",
+        "summary": "The notorious New Jersey deli fraud case led to losses of more than $5 million for victims that included two U.S. universities.",
+        "link": "https://www.cnbc.com/2026/07/21/new-jersey-deli-fraud-james-patten-sentenced.html",
+        "published": "Wed, 22 Jul 2026 02:04:23 GMT"
       },
       {
         "source": "BBC World",
-        "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
-        "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+        "title": "US signs landmark nuclear deal with Saudi Arabia",
+        "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
         "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 22 Jul 2026 14:49:12 GMT"
+        "published": "Wed, 22 Jul 2026 21:31:25 GMT"
       },
       {
         "source": "BBC World",
         "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
         "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
         "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 22 Jul 2026 10:15:03 GMT"
+        "published": "Wed, 22 Jul 2026 18:57:46 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-        "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
-        "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 22 Jul 2026 14:52:25 GMT"
+        "title": "Tankers make sharp U-turns after Houthi shipping threat",
+        "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 22 Jul 2026 14:42:49 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-        "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-        "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 22 Jul 2026 05:37:43 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-        "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
-        "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 22 Jul 2026 02:15:05 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-        "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
-        "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 22 Jul 2026 08:02:04 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Modelling scout linked to Epstein found dead in Paris",
-        "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
-        "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 22 Jul 2026 14:54:27 GMT"
+        "title": "Fire kills 10 members of same family in Peru, police say",
+        "summary": "Authorities are investigating the cause of the blaze in Lima as local media report\n it may have been arson.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 22 Jul 2026 20:56:26 GMT"
       },
       {
         "source": "BBC World",
@@ -113,6 +92,69 @@
         "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
         "link": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
         "published": "Wed, 22 Jul 2026 14:14:16 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+        "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 22 Jul 2026 15:50:17 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+        "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+        "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 22 Jul 2026 17:54:57 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
+        "summary": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
+        "link": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 22 Jul 2026 16:34:35 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
+        "published": "Wed, 22 Jul 2026 20:40:24 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+        "published": "Wed, 22 Jul 2026 16:15:55 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
+        "published": "Wed, 22 Jul 2026 15:53:54 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+        "published": "Wed, 22 Jul 2026 15:37:36 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "UK digital bond plans hinge on one missing piece: onchain cash",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+        "published": "Wed, 22 Jul 2026 15:36:49 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
+        "summary": "",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
+        "published": "Wed, 22 Jul 2026 15:09:47 +0000"
       },
       {
         "source": "CoinDesk",
@@ -129,53 +171,11 @@
         "published": "Wed, 22 Jul 2026 13:32:40 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s",
-        "published": "Wed, 22 Jul 2026 12:12:10 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
-        "published": "Wed, 22 Jul 2026 11:45:42 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Here's why bitcoin bulls should take a closer look at interest rates",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates",
-        "published": "Wed, 22 Jul 2026 11:23:36 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
-        "summary": "",
-        "link": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
-        "published": "Wed, 22 Jul 2026 11:10:27 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface",
-        "published": "Wed, 22 Jul 2026 10:33:33 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
-        "published": "Wed, 22 Jul 2026 10:30:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "The digital euro: Surveillance money, or a better alternative to cash?",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The digital euro: Surveillance money, or a better alternative to cash?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro.jpg\" /></p><p>Proponents of the digital euro say its a better alternative to cash that’s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens.</p>",
-        "link": "https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 22 Jul 2026 13:30:00 +0000"
+        "title": "S&P launches blockchain fundamentals index for digital assets",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"S&amp;P launches blockchain fundamentals index for digital assets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-goes-for-nasdaq-crypto-etf.png\" /></p><p>The benchmark tracks blockchain networks using protocol revenue, offering an alternative to traditional market capitalization-weighted crypto indexes.</p>",
+        "link": "https://cointelegraph.com/news/sp-launches-blockchain-fundamentals-index-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 22 Jul 2026 21:09:59 +0000"
       }
     ],
     "chinese_news": [
@@ -210,7 +210,7 @@
       {
         "source": "36氪 36Kr",
         "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
-        "summary": "<p>硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。</p>\n  <p>同舟智航2025年6月成立，核心理念是用人工智能赋能船舶。创始人张呈伦拥有10余年汽车自动驾驶行业经验，曾任华为商用车解决方案部负责人，并创立过规模超百人的矿山自动驾驶公司。</p>\n  <p>团队自动驾驶基因雄厚，首席科学家为美国康涅狄格大学AI博士及博士后，曾任某自动驾驶独角兽公司的感知预测负责人；智能航行技术VP为法国巴黎萨克雷大学AI硕士，历任Intel算法科学家、驭势科技高级研究员及挚途科技规控部部长；商务合伙人拥有12年华为大客户及10年欧洲市场拓展经验，曾任华为全球大客户系统部部长、数字能源销售总监，在欧洲政企市场实现过数亿美金的订单突破。</p>\n  <p>随着行业发展，水上智能有越来越多公司涌入，同舟智能对自己的定位非常清晰：不做环保生态产品，专攻休闲艇。张呈伦解释，他曾和团队调研，发现船舶的智能化水平非常落后，“而休闲艇市场足够大、容易标准化，又有to C的属性，产品做",
+        "summary": "<p>硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。</p>\n  <p>同舟智航2025年6月成立，核心理念是用人工智能赋能船舶。创始人张呈伦拥有10余年汽车自动驾驶行业经验，曾任华为商用车解决方案部负责人，并创立过规模超百人的矿山自动驾驶公司。</p>\n  <p>团队自动驾驶基因雄厚，首席科学家为美国康涅狄格大学AI博士及博士后，曾任某自动驾驶独角兽公司的感知预测负责人；智能航行技术VP为法国巴黎萨克雷大学AI硕士，历任Intel算法科学家、驭势科技高级研究员及挚途科技规控部部长；商务合伙人拥有12年华为大客户及10年欧洲市场拓展经验，曾任华为全球大客户系统部部长、数字能源销售总监，在欧洲政企市场实现过数亿美金的订单突破。</p>\n  <p>随着行业发展，水上智能有越来越多公司涌入，同舟智能对自己��定位非常清晰：不做环保生态产品，专攻休闲艇。张呈伦解释，他曾和团队调研，发现船舶的智能化水平非常落后，“而休闲艇市场足够大、容易标准化，又有to C的属性，产品",
         "link": "https://36kr.com/p/3906468088042886?f=rss",
         "published": "2026-07-22 15:06:04  +0800"
       },
@@ -239,73 +239,79 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "OpenAI and Hugging Face address security incident during model evaluation",
-        "summary": "score: 1415, comments: 957",
-        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "score": 1415
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "summary": "score: 555, comments: 128",
+        "link": "https://bento.page/slides/",
+        "score": 555
       },
       {
         "source": "Hacker News",
-        "title": "Advertise in ChatGPT",
-        "summary": "score: 984, comments: 751",
-        "link": "https://ads.openai.com/",
-        "score": 984
+        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "summary": "score: 451, comments: 250",
+        "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "score": 451
       },
       {
         "source": "Hacker News",
-        "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-        "summary": "score: 792, comments: 404",
-        "link": "https://fireworks.ai/blog/kimik3-fable",
-        "score": 792
+        "title": "John C. Dvorak has died",
+        "summary": "score: 328, comments: 70",
+        "link": "https://twitter.com/na_announce/status/2079952538040672302",
+        "score": 328
       },
       {
         "source": "Hacker News",
-        "title": "FreeInk: Open ecosystem for e-readers",
-        "summary": "score: 656, comments: 139",
-        "link": "https://freeink.org/",
-        "score": 656
+        "title": "Are AI Labs Pelicanmaxxing?",
+        "summary": "score: 276, comments: 117",
+        "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "score": 276
       },
       {
         "source": "Hacker News",
-        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-        "summary": "score: 491, comments: 466",
-        "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-        "score": 491
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "summary": "score: 272, comments: 50",
+        "link": "https://github.com/marcelroed/gigatoken/",
+        "score": 272
       },
       {
         "source": "Hacker News",
-        "title": "Intel Starts Shipping High-NA EUV Silicon",
-        "summary": "score: 173, comments: 62",
-        "link": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
-        "score": 173
+        "title": "Making",
+        "summary": "score: 231, comments: 97",
+        "link": "https://beej.us/blog/data/ai-making/",
+        "score": 231
       },
       {
         "source": "Hacker News",
-        "title": "Introduction to Formal Verification with Lean Part 1",
-        "summary": "score: 155, comments: 17",
-        "link": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-        "score": 155
+        "title": "Everyone Should Know SIMD",
+        "summary": "score: 151, comments: 43",
+        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "score": 151
       },
       {
         "source": "Hacker News",
-        "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-        "summary": "score: 128, comments: 40",
-        "link": "https://github.com/chrislgarry/Apollo-11",
-        "score": 128
+        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+        "summary": "score: 142, comments: 26",
+        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+        "score": 142
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "DeXe (DEXE)",
-        "summary": "market cap rank: 153",
-        "link": "https://www.coingecko.com/en/coins/dexe"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
         "summary": "market cap rank: 114",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pons (PONS)",
+        "summary": "market cap rank: 774",
+        "link": "https://www.coingecko.com/en/coins/pons"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Zama (ZAMA)",
+        "summary": "market cap rank: 264",
+        "link": "https://www.coingecko.com/en/coins/zama"
       },
       {
         "source": "CoinGecko Trending",
@@ -315,27 +321,21 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 30",
+        "link": "https://www.coingecko.com/en/coins/sui"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 672",
-        "link": "https://www.coingecko.com/en/coins/pons"
+        "title": "Ondo (ONDO)",
+        "summary": "market cap rank: 41",
+        "link": "https://www.coingecko.com/en/coins/ondo"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Movement (MOVE)",
-        "summary": "market cap rank: 474",
-        "link": "https://www.coingecko.com/en/coins/movement"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 95",
-        "link": "https://www.coingecko.com/en/coins/lighter"
+        "title": "Jimothy The Raccoon (JIMOTHY)",
+        "summary": "market cap rank: 495",
+        "link": "https://www.coingecko.com/en/coins/jimothy-the-raccoon"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdHHwnYY6GcwLhoLue1Jk'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdHr24NdZZfuFX3sDPcu2'}"
   }
 }
