@@ -1,83 +1,97 @@
 {
-  "generated_at_utc": "2026-07-24T14:46:50.252148+00:00",
+  "generated_at_utc": "2026-07-24T21:57:34.596327+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
-        "summary": "The president told Axios he was considering an operation \"bigger than ever before.\"",
+        "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+        "summary": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
+        "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+        "published": "Fri, 24 Jul 2026 19:39:50 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "CDC says massive cyclospora outbreak is now in nine states",
+        "summary": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
+        "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+        "published": "Fri, 24 Jul 2026 19:53:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+        "summary": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
+        "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+        "published": "Fri, 24 Jul 2026 21:24:09 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
+        "summary": "The DOJ is investigating the leak to The New York Times of security concerns about President Donald Trump's new Air Force One plane, donated by Qatar.",
+        "link": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
+        "published": "Fri, 24 Jul 2026 20:23:12 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+        "summary": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
+        "link": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+        "published": "Fri, 24 Jul 2026 21:57:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Bond market anxiety is growing over AI capex budgets",
+        "summary": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to.",
+        "link": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+        "published": "Fri, 24 Jul 2026 20:07:36 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
+        "summary": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
         "link": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
-        "published": "Fri, 24 Jul 2026 11:57:15 GMT"
+        "published": "Fri, 24 Jul 2026 18:48:10 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
-        "summary": "Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.",
-        "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-        "published": "Fri, 24 Jul 2026 14:15:47 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Why Costco keeps gas prices so low—it's 'straight out of the retail playbook,' expert says",
-        "summary": "Higher gas prices are driving record demand for Costco's gas stations as more Americans look to save at the pump.",
-        "link": "https://www.cnbc.com/2026/07/24/why-costco-keeps-gas-prices-so-low.html",
-        "published": "Fri, 24 Jul 2026 14:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
-        "summary": "Intel's revenue jumped 25%, the most robust growth for any period since the third quarter of 2011.",
-        "link": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
-        "published": "Fri, 24 Jul 2026 14:05:35 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Pentagon lowers official Iran war death toll, omitting four killed this month",
-        "summary": "The Pentagon lowered its official Iran war death toll to 14 from 18, removing four service members killed this month.",
-        "link": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html",
-        "published": "Fri, 24 Jul 2026 12:26:37 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Treasury yields retreat, 10-year hovers around January 2025 highs",
-        "summary": "U.S. Treasury yields retreated on Friday after briefly hitting the highest level since January 2025 the day before.",
-        "link": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
-        "published": "Fri, 24 Jul 2026 14:23:14 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-        "summary": "U.S. trading partners have rejected the forced labor rationale behind Trump's new global tariffs, while most signaled plans to keep negotiating.",
-        "link": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
-        "published": "Fri, 24 Jul 2026 12:09:09 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack",
-        "summary": "The origin of the model Hugging Face used to combat the rogue AI is turning heads.",
-        "link": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
-        "published": "Fri, 24 Jul 2026 13:01:54 GMT"
+        "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
+        "summary": "More than 60 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz and Gulf of Oman since March 1.",
+        "link": "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
+        "published": "Fri, 24 Jul 2026 18:47:41 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
-        "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 11:50:17 GMT"
+        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+        "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 24 Jul 2026 21:47:16 GMT"
       },
       {
         "source": "BBC World",
-        "title": "US hits dozens of countries with new wave of tariffs",
-        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 12:40:44 GMT"
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+        "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 24 Jul 2026 18:51:17 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Trump vows to investigate EU over fining of US tech companies",
+        "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 24 Jul 2026 20:23:58 GMT"
       },
       {
         "source": "BBC World",
         "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
         "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
         "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 09:20:07 GMT"
+        "published": "Fri, 24 Jul 2026 18:13:02 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "ICC top prosecutor removed over sexual misconduct allegations",
+        "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+        "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 24 Jul 2026 21:02:30 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +102,31 @@
       },
       {
         "source": "BBC World",
-        "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-        "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
-        "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 11:53:49 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Four Palestinians and two Israelis killed in West Bank shooting",
         "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
         "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 14:41:32 GMT"
+        "published": "Fri, 24 Jul 2026 18:19:23 GMT"
       },
       {
         "source": "BBC World",
-        "title": "India's 'cockroach' protesters hold talks with government as stalemate continues",
-        "summary": "The meeting came hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
-        "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 10:31:10 GMT"
+        "title": "US hits dozens of countries with new wave of tariffs",
+        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 24 Jul 2026 12:40:44 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
-        "summary": "He is among more than 130 people detained over planned protests calling for democratic reforms.",
-        "link": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 12:55:58 GMT"
+        "source": "CoinDesk",
+        "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
+        "published": "Fri, 24 Jul 2026 15:01:46 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
+        "published": "Fri, 24 Jul 2026 15:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,25 +171,11 @@
         "published": "Fri, 24 Jul 2026 11:35:48 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "A $5 billion cluster has formed in bitcoin options. It tells a bullish story",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/24/a-usd5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story",
-        "published": "Fri, 24 Jul 2026 11:34:53 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market",
-        "published": "Fri, 24 Jul 2026 11:19:38 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bungee-jumping-bitcoin-1.jpg\" /></p><p>Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protection team” reemerged with bid liquidity to avoid a deeper BTC price rout.</p>",
-        "link": "https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 24 Jul 2026 14:28:03 +0000"
+        "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive’s SATA recovers most of June decline, trades within 3% of par \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-3.png\" /></p><p>Jan3 CEO Samson Mow says the recovery could signal renewed confidence in preferred-share products used by Bitcoin treasury companies.</p>",
+        "link": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 24 Jul 2026 21:02:22 +0000"
       }
     ],
     "chinese_news": [
@@ -239,73 +239,91 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Flux 3",
-        "summary": "score: 449, comments: 111",
-        "link": "https://bfl.ai/blog/flux-3",
-        "score": 449
-      },
-      {
-        "source": "Hacker News",
-        "title": "It's getting harder to focus every day",
-        "summary": "score: 388, comments: 197",
-        "link": "https://glyphack.com/attention/",
-        "score": 388
-      },
-      {
-        "source": "Hacker News",
-        "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-        "summary": "score: 220, comments: 28",
-        "link": "https://bfl.ai/blog/flux-3-mimic",
-        "score": 220
-      },
-      {
-        "source": "Hacker News",
-        "title": "Claude Cookbook",
-        "summary": "score: 198, comments: 96",
-        "link": "https://platform.claude.com/cookbook/",
-        "score": 198
-      },
-      {
-        "source": "Hacker News",
-        "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
-        "summary": "score: 137, comments: 94",
-        "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-        "score": 137
+        "title": "Claude Opus 5",
+        "summary": "score: 1084, comments: 575",
+        "link": "https://www.anthropic.com/news/claude-opus-5",
+        "score": 1084
       },
       {
         "source": "Hacker News",
         "title": "My security camera shipped a GitHub admin token in its login page",
-        "summary": "score: 129, comments: 47",
+        "summary": "score: 456, comments: 162",
         "link": "https://hhh.hn/hanwha-github-token/",
-        "score": 129
-      },
-      {
-        "source": "Hacker News",
-        "title": "Em dashes are fucking amazing",
-        "summary": "score: 108, comments: 101",
-        "link": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-        "score": 108
+        "score": 456
       },
       {
         "source": "Hacker News",
         "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-        "summary": "score: 107, comments: 23",
+        "summary": "score: 412, comments: 128",
         "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-        "score": 107
+        "score": 412
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+        "summary": "score: 398, comments: 193",
+        "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+        "score": 398
+      },
+      {
+        "source": "Hacker News",
+        "title": "If coding has been solved, why does software keep getting worse?",
+        "summary": "score: 346, comments: 286",
+        "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+        "score": 346
+      },
+      {
+        "source": "Hacker News",
+        "title": "Half-Life 2 running natively on HaikuOS",
+        "summary": "score: 236, comments: 42",
+        "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+        "score": 236
+      },
+      {
+        "source": "Hacker News",
+        "title": "Postgres LISTEN/NOTIFY actually scales",
+        "summary": "score: 119, comments: 19",
+        "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+        "score": 119
+      },
+      {
+        "source": "Hacker News",
+        "title": "Kimi K3 exploited the latest Redis server",
+        "summary": "score: 85, comments: 22",
+        "link": "https://twitter.com/fried_rice/status/2080059356322918777",
+        "score": 85
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Pons (PONS)",
-        "summary": "market cap rank: 590",
+        "summary": "market cap rank: 564",
         "link": "https://www.coingecko.com/en/coins/pons"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "DeXe (DEXE)",
+        "summary": "market cap rank: 183",
+        "link": "https://www.coingecko.com/en/coins/dexe"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 82",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 113",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 31",
+        "link": "https://www.coingecko.com/en/coins/sui"
       },
       {
         "source": "CoinGecko Trending",
@@ -315,27 +333,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Akedo (AKE)",
-        "summary": "market cap rank: 374",
-        "link": "https://www.coingecko.com/en/coins/akedo"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 43",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "DeXe (DEXE)",
-        "summary": "market cap rank: 217",
-        "link": "https://www.coingecko.com/en/coins/dexe"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lorenzo Protocol (BANK)",
-        "summary": "market cap rank: 219",
-        "link": "https://www.coingecko.com/en/coins/lorenzo-protocol"
+        "title": "LAB (LAB)",
+        "summary": "market cap rank: 419",
+        "link": "https://www.coingecko.com/en/coins/lab"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdM4hHuxiqwLb728kGHy6'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdMdYPb7NmrkBeanCwc3V'}"
   }
 }
