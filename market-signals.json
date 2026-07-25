@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-24T21:57:34.596327+00:00",
+  "generated_at_utc": "2026-07-25T07:10:28.076923+00:00",
   "live_signals": {
     "english_news": [
       {
@@ -18,10 +18,31 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+        "summary": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
+        "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+        "published": "Sat, 25 Jul 2026 00:18:53 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
         "summary": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
         "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
         "published": "Fri, 24 Jul 2026 21:24:09 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
+        "summary": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
+        "link": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
+        "published": "Sat, 25 Jul 2026 02:17:11 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
+        "summary": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
+        "link": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
+        "published": "Fri, 24 Jul 2026 21:48:45 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -38,39 +59,46 @@
         "published": "Fri, 24 Jul 2026 21:57:01 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Bond market anxiety is growing over AI capex budgets",
-        "summary": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to.",
-        "link": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
-        "published": "Fri, 24 Jul 2026 20:07:36 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
-        "summary": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
-        "link": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
-        "published": "Fri, 24 Jul 2026 18:48:10 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
-        "summary": "More than 60 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz and Gulf of Oman since March 1.",
-        "link": "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
-        "published": "Fri, 24 Jul 2026 18:47:41 GMT"
-      },
-      {
         "source": "BBC World",
-        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-        "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
         "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 21:47:16 GMT"
+        "published": "Sat, 25 Jul 2026 02:29:36 GMT"
       },
       {
         "source": "BBC World",
         "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
         "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 18:51:17 GMT"
+        "published": "Sat, 25 Jul 2026 00:06:53 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+        "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+        "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 24 Jul 2026 23:01:06 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+        "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 24 Jul 2026 22:49:59 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+        "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+        "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 25 Jul 2026 02:14:50 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+        "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+        "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 25 Jul 2026 06:34:40 GMT"
       },
       {
         "source": "BBC World",
@@ -81,38 +109,10 @@
       },
       {
         "source": "BBC World",
-        "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-        "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-        "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 18:13:02 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "ICC top prosecutor removed over sexual misconduct allegations",
         "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
         "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
         "published": "Fri, 24 Jul 2026 21:02:30 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
-        "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 13:33:06 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-        "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 18:19:23 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "US hits dozens of countries with new wave of tariffs",
-        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 24 Jul 2026 12:40:44 GMT"
       },
       {
         "source": "CoinDesk",
@@ -172,13 +172,20 @@
       },
       {
         "source": "Cointelegraph",
-        "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive’s SATA recovers most of June decline, trades within 3% of par \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-3.png\" /></p><p>Jan3 CEO Samson Mow says the recovery could signal renewed confidence in preferred-share products used by Bitcoin treasury companies.</p>",
-        "link": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 24 Jul 2026 21:02:22 +0000"
+        "title": "EU authorities include HTX exchange in Russian sanctions",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU authorities include HTX exchange in Russian sanctions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-do-eus-new-sanctions-mean-for-russian-crypto-users-1.jpg\" /></p><p>The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia.</p>",
+        "link": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 24 Jul 2026 21:53:05 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+        "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患</li>\n   <li>微信撤回消息后可删除提示字</li>\n   <li>怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权</li>\n   <li>菲尔兹奖得主雅各布·齐默曼将加入OpenAI</li>\n   <li>欧盟对谷歌处以8.9亿欧元罚款</li>\n  </ul>\n  <h2>TOP3大新闻</h2>\n  <p><strong>宇树科技CEO王兴兴登上《时代》杂志封面</strong></p>\n  <p>当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。</p>\n  <p>据悉，距上次中国企业家登上该刊物封面，已过去整整8年。</p>\n  <p>《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈论机器人技术时，带着一种安静而坚定的信念”。（澎湃新闻）</p>\n  <p class=\"image-wrapp",
+        "link": "https://36kr.com/p/3910351337821318?f=rss",
+        "published": "2026-07-25 08:57:52  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
@@ -227,115 +234,108 @@
         "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型</li>\n   <li>极氪回应“海外锁车”事件</li>\n   <li>客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知</li>\n   <li>哈兰德和亚马尔2.2亿欧元身价破纪录</li>\n   <li>张雪峰女儿再接手三家公司股份</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>段永平：10年内大概率不会卖泡泡玛特</strong></p>\n  <p>7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去买马斯克的SpaceX吧？”对此，段永平回应称：</p>\n  <p>泡泡玛特我才刚开始买啊！我猜10年内大概率是不会卖的。不过，我的水果（苹果）已经比较成熟了，刚刚被call（看涨期权）走了一些，买了t-bill（美国短期国债）了。虽然现在价格比call走的价格还要低一点点，但这个价位我并不是很想买入。前几天我已经卖了一些MU（美光",
         "link": "https://36kr.com/p/3908881985901959?f=rss",
         "published": "2026-07-24 08:00:48  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "氪星晚报 ｜马斯克：FSD是拉动特斯拉汽车需求的核心驱动力；字节跳动在中卫成立新科技公司，注册资本22亿",
-        "summary": "<h2>大公司：</h2>\n  <p><strong>淡马锡旗下凯德投资与丰树合并谈判据悉陷入停滞</strong></p>\n  <p>7月23日，据报道，由淡马锡控股支持的两大房地产资产管理公司——凯德投资与丰树投资的合并谈判已陷入停滞，双方在估值等问题上存在分歧。双方经过数月讨论后已放缓推进潜在合并交易，其他分歧还包括合并后公司管理层安排、人员调整方案以及部分业务表现疲弱等问题。不过，双方未来仍可能恢复谈判。（界面）</p>\n  <p><strong>阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务</strong></p>\n  <p>36氪获悉，7月23日，阿里真武M890超节点已成功适配Qwen3.8，并上线阿里云百炼平台提供模型推理服务，这是国内首个成功运行超2万亿参数大模型的超节点。</p>\n  <p><strong>雀巢上半年销售额431亿瑞士法郎</strong></p>\n  <p>36氪获悉，雀巢集团正式发布2026年上半年业绩财报。上半年，雀巢集团实现销售额431亿瑞士法郎，实际内部增长率达到1.5%，净利润为35亿瑞士法郎，基本每股收益（EPS",
-        "link": "https://36kr.com/p/3908051015488640?f=rss",
-        "published": "2026-07-23 18:09:52  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
         "title": "Claude Opus 5",
-        "summary": "score: 1084, comments: 575",
+        "summary": "score: 1481, comments: 812",
         "link": "https://www.anthropic.com/news/claude-opus-5",
-        "score": 1084
+        "score": 1481
+      },
+      {
+        "source": "Hacker News",
+        "title": "India's first privately-developed rocket reaches orbit on debut launch",
+        "summary": "score: 572, comments: 164",
+        "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+        "score": 572
       },
       {
         "source": "Hacker News",
         "title": "My security camera shipped a GitHub admin token in its login page",
-        "summary": "score: 456, comments: 162",
+        "summary": "score: 562, comments: 188",
         "link": "https://hhh.hn/hanwha-github-token/",
-        "score": 456
-      },
-      {
-        "source": "Hacker News",
-        "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-        "summary": "score: 412, comments: 128",
-        "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-        "score": 412
-      },
-      {
-        "source": "Hacker News",
-        "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-        "summary": "score: 398, comments: 193",
-        "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-        "score": 398
-      },
-      {
-        "source": "Hacker News",
-        "title": "If coding has been solved, why does software keep getting worse?",
-        "summary": "score: 346, comments: 286",
-        "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-        "score": 346
-      },
-      {
-        "source": "Hacker News",
-        "title": "Half-Life 2 running natively on HaikuOS",
-        "summary": "score: 236, comments: 42",
-        "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-        "score": 236
+        "score": 562
       },
       {
         "source": "Hacker News",
         "title": "Postgres LISTEN/NOTIFY actually scales",
-        "summary": "score: 119, comments: 19",
+        "summary": "score: 280, comments: 51",
         "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-        "score": 119
+        "score": 280
       },
       {
         "source": "Hacker News",
-        "title": "Kimi K3 exploited the latest Redis server",
-        "summary": "score: 85, comments: 22",
-        "link": "https://twitter.com/fried_rice/status/2080059356322918777",
-        "score": 85
+        "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+        "summary": "score: 245, comments: 145",
+        "link": "https://artificialanalysis.ai/models",
+        "score": 245
+      },
+      {
+        "source": "Hacker News",
+        "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+        "summary": "score: 182, comments: 70",
+        "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+        "score": 182
+      },
+      {
+        "source": "Hacker News",
+        "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+        "summary": "score: 176, comments: 36",
+        "link": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+        "score": 176
+      },
+      {
+        "source": "Hacker News",
+        "title": "Designing an Ethernet Switch ASIC",
+        "summary": "score: 164, comments: 43",
+        "link": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+        "score": 164
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 564",
-        "link": "https://www.coingecko.com/en/coins/pons"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "DeXe (DEXE)",
-        "summary": "market cap rank: 183",
+        "summary": "market cap rank: 146",
         "link": "https://www.coingecko.com/en/coins/dexe"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pump.fun (PUMP)",
-        "summary": "market cap rank: 82",
-        "link": "https://www.coingecko.com/en/coins/pump-fun"
+        "title": "Zama (ZAMA)",
+        "summary": "market cap rank: 212",
+        "link": "https://www.coingecko.com/en/coins/zama"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 113",
+        "summary": "market cap rank: 114",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 31",
-        "link": "https://www.coingecko.com/en/coins/sui"
+        "title": "Bittensor (TAO)",
+        "summary": "market cap rank: 42",
+        "link": "https://www.coingecko.com/en/coins/bittensor"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "The Black Bull (ANSEM)",
+        "summary": "market cap rank: 340",
+        "link": "https://www.coingecko.com/en/coins/the-black-bull"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "LAB (LAB)",
-        "summary": "market cap rank: 419",
-        "link": "https://www.coingecko.com/en/coins/lab"
+        "title": "Euler (EUL)",
+        "summary": "market cap rank: 545",
+        "link": "https://www.coingecko.com/en/coins/euler"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdMdYPb7NmrkBeanCwc3V'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdNMhkZpamM3wbhzByCKM'}"
   }
 }
