@@ -1,184 +1,219 @@
 {
-  "generated_at_utc": "2026-07-28T07:33:32.127685+00:00",
+  "generated_at_utc": "2026-07-28T15:12:57.359169+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
-        "summary": "Talks over the Strait of Hormuz continue as Iran's foreign ministry discussed the strategically vital maritime passage with Saudi and Omani counterparts.",
-        "link": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
-        "published": "Tue, 28 Jul 2026 06:59:36 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes",
-        "summary": "Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons.",
-        "link": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
-        "published": "Tue, 28 Jul 2026 07:23:55 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
-        "summary": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
-        "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
-        "published": "Tue, 28 Jul 2026 01:34:28 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Apple ends day as world's most valuable company, passing Nvidia",
-        "summary": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
-        "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
-        "published": "Mon, 27 Jul 2026 21:12:26 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "SK Hynix shares plunge nearly 15% in Seoul as chip sell-off deepens",
-        "summary": "South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
+        "title": "AMD, Micron and Nvidia extend losses as chip stocks get clobbered",
+        "summary": "Semiconductor stocks fell on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
         "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-        "published": "Tue, 28 Jul 2026 07:30:11 GMT"
+        "published": "Tue, 28 Jul 2026 14:23:12 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
-        "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
-        "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
-        "published": "Mon, 27 Jul 2026 22:23:50 GMT"
+        "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+        "summary": "Brokerages, startups and even retail investors are building AI agents that can help oversee portfolios and automate investing tasks once handled by humans.",
+        "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+        "published": "Tue, 28 Jul 2026 15:00:21 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
-        "summary": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
-        "link": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
-        "published": "Mon, 27 Jul 2026 23:43:50 GMT"
+        "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+        "summary": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
+        "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+        "published": "Tue, 28 Jul 2026 14:42:56 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
-        "summary": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
-        "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
-        "published": "Mon, 27 Jul 2026 21:26:03 GMT"
+        "title": "Trump: New tariffs 'doing the same thing' as the ones struck down by Supreme Court",
+        "summary": "Trump dismissed fears that his tariffs could hurt the economy — especially as affordability concerns have become a key issue of the upcoming midterm elections.",
+        "link": "https://www.cnbc.com/2026/07/28/trump-usmca-canada-mexico-trade-deal.html",
+        "published": "Tue, 28 Jul 2026 14:38:29 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
+        "summary": "Apple is announcing an iPhone lease option weeks after raising iPad and Mac prices due to the global memory shortage.",
+        "link": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
+        "published": "Tue, 28 Jul 2026 12:38:50 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
+        "summary": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
+        "link": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+        "published": "Tue, 28 Jul 2026 13:56:52 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands",
+        "summary": "Coca-Cola said demand for its drinks rose in every market in the second quarter, helped in part by the World Cup.",
+        "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+        "published": "Tue, 28 Jul 2026 14:42:59 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
+        "summary": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
+        "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+        "published": "Tue, 28 Jul 2026 15:08:42 GMT"
       },
       {
         "source": "BBC World",
-        "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+        "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+        "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 13:25:13 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
         "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
         "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
         "published": "Tue, 28 Jul 2026 05:01:19 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Trump says Iran war talks taking place during lull in strikes",
-        "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-        "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 21:10:56 GMT"
+        "title": "US walks out of UN Security Council meeting during France's remarks",
+        "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+        "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 09:32:25 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-        "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-        "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 28 Jul 2026 01:53:58 GMT"
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 11:50:59 GMT"
       },
       {
         "source": "BBC World",
-        "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-        "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-        "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 28 Jul 2026 01:39:50 GMT"
+        "title": "Mancini reappointed Italy boss after Pirlo controversy",
+        "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 13:54:00 GMT"
       },
       {
         "source": "BBC World",
-        "title": "China's new challenge as natural disasters strike - fake AI videos",
-        "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
-        "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 22:07:23 GMT"
+        "title": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
+        "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
+        "link": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 12:27:48 GMT"
       },
       {
         "source": "BBC World",
-        "title": "A Japanese town wrestles with identity after protests over its first mosque",
-        "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
-        "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 22:08:21 GMT"
+        "title": "French Navy carries out 'shooting drill' mid interview",
+        "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+        "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 13:53:26 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-        "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 16:33:05 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Shots fired at US consulate in Toronto for a second time this year",
-        "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 28 Jul 2026 00:36:16 GMT"
+        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+        "summary": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
+        "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 04:59:36 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+        "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
-        "published": "Tue, 28 Jul 2026 04:32:39 +0000"
+        "link": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
+        "published": "Tue, 28 Jul 2026 14:49:50 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
+        "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
-        "published": "Mon, 27 Jul 2026 23:55:16 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
+        "published": "Tue, 28 Jul 2026 14:49:01 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
+        "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
-        "published": "Mon, 27 Jul 2026 23:29:38 +0000"
+        "link": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
+        "published": "Tue, 28 Jul 2026 14:35:28 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+        "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
-        "published": "Mon, 27 Jul 2026 19:55:45 +0000"
+        "link": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
+        "published": "Tue, 28 Jul 2026 14:30:57 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
+        "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
-        "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
+        "published": "Tue, 28 Jul 2026 12:46:05 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
+        "title": "Binance makes fighting crypto crime more difficult, says new report",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
-        "published": "Mon, 27 Jul 2026 16:47:06 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
+        "published": "Tue, 28 Jul 2026 12:24:02 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
+        "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument",
-        "published": "Mon, 27 Jul 2026 15:00:00 +0000"
+        "link": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
+        "published": "Tue, 28 Jul 2026 11:59:17 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
+        "title": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
-        "published": "Mon, 27 Jul 2026 14:46:10 +0000"
+        "link": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
+        "published": "Tue, 28 Jul 2026 11:37:31 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance co-founder CZ backs crypto license passporting across ASEAN \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cz-vs-eu.png\" /></p><p>Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.</p>",
-        "link": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 28 Jul 2026 06:00:54 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 28 Jul 2026 13:42:17 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+        "summary": "<p>7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技术研究院联合主办，东莞市相关职能部门、顶尖高校、三甲医疗机构、产业链核心企业、投资机构及主流媒体代表约300人参会。</p>\n  <p>推进会同步举行聘任与授牌仪式，正式聘任中科院院士、华中科技大学副校长尹周平为东莞市数字人体与智慧睡眠创新联合体首席科学家，聘任慕思集团CTO陈文泽为行政总师。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260728/v2_a3b3238c71314b798e6fc4aaf75b9913@517825446_oswg729268oswg1269oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官",
+        "link": "https://36kr.com/p/3915239611739781?f=rss",
+        "published": "2026-07-28 19:48:20  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3915055595607170\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>YouTube与NBC环球达成合作协议，将为美用户提供流媒体捆绑服务</strong></a></p>\n  <p>7月27日，美国流媒体平台YouTube与媒体巨头NBC环球（NBCUniversal）宣布深化战略合作。根据双方达成的协议，自2027年初起，美国本土的YouTube Premium订阅用户将无需支付额外费用，直接获取NBC环球旗下流媒体平台Peacock Premium的会员权益。（新浪财经）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3915125531333760\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心</stron",
+        "link": "https://36kr.com/p/3913321294369924?f=rss",
+        "published": "2026-07-28 19:39:56  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+        "summary": "<p>作者&nbsp;|&nbsp;黄楠</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和头部财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备的量产与数据闭环建设，扩充核心研发团队，以推动技术在真实工业场景中的工程化落地与验证。</p>\n  <p>这也是公司成立半年内完成的第六轮融资，此前，投资方包括北京通研院、智元机器人、乐聚机器人、星海图等人形机器人主机厂，高瓴创投、元禾控股、复星锐正、华映资本、联想创投等财务机构，以及汽车、半导体领域资本。</p>\n  <p>德塔智能成立于2026年1月，专注研究原生通用人形机器人基础模型 HFMs（Humanoid Foundation Models），最终实现通用的人形全身协同操作（Loco-Manipulation），推动具身智能向工业与家庭场景的真实应用。以人形机器人为载体，加速物理通用人工智能（Physical AGI）的到来。</p>\n  <",
+        "link": "https://36kr.com/p/3913213962540164?f=rss",
+        "published": "2026-07-28 18:38:46  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
+        "summary": "<p>从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。</p>\n  <p>36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示，<strong>新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。</strong></p>\n  <p>今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。</p>\n  <p>沃尔沃内部代号为“561”的D级轿车项目，是这位\"豪华车操盘手\"履新后的首场硬仗。这款车的成败，将影响他交给沃尔沃的第一份答卷成色。</p>\n  <p>36氪了解到，这款新车拟定为中国专属车型，将采用与XC70等车型相同的联合开发模式。具体而言，<strong>沃尔沃中国负责产品定义、把控安全标准与整车认证等，三电开发、整车工程及供应链等则由吉利中国研发团队负责。</strong></p>\n  <p>7月17日，沃尔沃全球CEO在Q2季度财报会上透露，将在今年初秋披露两",
+        "link": "https://36kr.com/p/3913637793059968?f=rss",
+        "published": "2026-07-28 17:24:01  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
+        "summary": "<p><strong>文｜邓咏仪</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>吴秉哲每天至少复盘一次。</p>\n  <p>作为北大计算机博士，他同时也是一个高频的投资者。每天盘后，他会回顾当天的判断——哪些预案执行了，哪些被盘面的新信息打乱了，哪些潜意识的决策事后被验证是对的。</p>\n  <p>这个习惯持续了很多年。但有一个问题是，大部分复盘都没被系统性地沉淀下来。</p>\n  <p>“你的认知是一种资产，但现在所有东西都停留在人脑里。”吴秉哲说。他和Kando AI CEO毛书翰同为活跃的二级市场投资者。两个人的共性是，都在高频地做不确定性环境下的决策，而且也意识到，这些决策背后的认知模式，从未被数字化。</p>\n  <p>2026年6月，两人正式创立了Kando AI，希望让AI从真实决策及其结果中持续学习，构建下一代自进化决策系统。</p>\n  <p><strong>《智能涌现》获悉，Kando AI已完成数千万元种子轮融资，星连资本领投，力合金控跟投，知名产业方参与投资。</strong>Kando团队目前约有10人，",
+        "link": "https://36kr.com/p/3915057199535233?f=rss",
+        "published": "2026-07-28 16:42:58  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "重估老铺黄金",
@@ -199,131 +234,78 @@
         "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>2026暑期档电影票房已突破57亿</li>\n   <li>茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶</li>\n   <li>长鑫科技上市半日，7名高管晋升“10亿身家”</li>\n   <li>巴西总统卢拉：美持续在关税上对巴施压系战略错误</li>\n   <li>苹果公司称多项服务出现故障，包括App Store</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>蔚来战投长鑫科技浮盈超7亿，李斌现身答谢晚宴</strong></p>\n  <p>7月27日，国产存储龙头企业长鑫科技正式登陆科创板，一举成为A股最大市值公司。截至当天收盘，公司报49元/股，全天涨幅465.82%，总市值3.31万亿元。值得注意的是，近日，蔚来现身长鑫科技IPO战略配售名单，承诺认购金额1.58亿元人民币，锁定期18个月。按发行价8.66元/股计算，蔚来认购约1824.48万股。以27日收盘价49元/股计算，蔚来账面浮盈约7.4亿元，收益率超465%。当天，有博主发布照片显示，长鑫",
         "link": "https://36kr.com/p/3914520847570307?f=rss",
         "published": "2026-07-28 07:36:45  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
-        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3913742527714433\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家</strong></a></p>\n  <p>汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913798998201732\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一</strong></a></p>\n  <p",
-        "link": "https://36kr.com/p/3913320648971395?f=rss",
-        "published": "2026-07-27 19:37:06  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
-        "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>航空新能源动力系统，正在酝酿新的变革。</p>\n  <p>36氪获悉，航空新能源动力系统解决方案供应商<strong>「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投。</strong>本轮资金主要用于航空级液冷燃料电池产品的开发及验证，以及空冷燃料电池在多场景的商业化推广及应用。</p>\n  <p>过去十年，氢燃料电池研发与产业化应用主要集中在汽车领域，已形成相对清晰的降本路线和成熟标准，但在航空领域，国内氢能应用的发展并不同步。</p>\n  <p>氢能航空并非新的概念，事实上，欧洲早在21世纪初就开始论证航空新能源动力系统不同路线方向的优缺点和路径可行性。氢燃料电池的核心优势在于，能量密度高、环境适应性更强。相对于动力电池，其航程可提高3倍以上，并且补能快、低温性能好，<strong>更适合eVTOL“空中出租车”高频周转的商业模式。</strong></p>\n  <p>对比传统航空煤油和SAF，从长期来看，其燃料成本更低，在兼顾性",
-        "link": "https://36kr.com/p/3913736066028932?f=rss",
-        "published": "2026-07-27 18:19:29  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
-        "summary": "<p>今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。</p>\n  <p>过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。</p>\n  <p>估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年颇被资本市场追着看的指标。</p>\n  <p>足以证明，用户规模虽仍旧重要，但不再是 AI 应用估值的唯一硬通货，新的叙事主线，重新回到了产品形态长期可持续的商业化。</p>\n  <p>资本评估 AI 的 benchmark 变了：过去两年盛行的是算力补贴换规模，但账面 DAU 只撑得起估值，撑不起毛利。资本市场发现，互联网时代的圈地打法在 AI 这里行不通，算力成本和留存曲线接连“显出原形”，曾经被寄予厚望的爆款产品也开始一批批退场。</p>\n  <p>行业拐点由此到来，资本不再为规模本身买单，转向了商业化质量验证。</p>\n  <p>新逻辑之下，拥有稳健商业模型",
-        "link": "https://36kr.com/p/3913706151400583?f=rss",
-        "published": "2026-07-27 17:48:07  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
-        "summary": "<p>文 | 张卓倩</p>\n  <p>编辑 | 袁斯来</p>\n  <p>低空经济领域迎来里程碑式突破！牧羽天航空近日正式宣布，旗下飞行重卡 AT8000 整机机身已经在无锡市新吴区空港园区隆重下线。作为全球已知最大的eVTOL，飞行重卡AT8000 的下线标志着我国在重载低空物流装备领域实现全球领跑，为低空经济商业化落地应用注入核心动力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260726/v2_8d96bf1237474d739b80a982e540b79d@5721530_oswg3876062oswg2796oswg1558_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">飞行重卡 AT8000&nbsp;</p>\n  <p><strong>全球重载无人货运标杆，8 吨级 “空中重卡” 定义行业新高度</strong></p>\n",
-        "link": "https://36kr.com/p/3912369056240772?f=rss",
-        "published": "2026-07-27 16:23:39  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
-        "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。</p>\n  <p>一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职于投资机构和机器人公司，长期关注智能硬件领域投资与运营增长。团队覆盖无人机、无人车、商用清洁、割草、泳池清洁等机器人方向，此前积累了较丰富的消费硬件出海经验，具备从产品定义、研发到市场推广的完整链路能力。</p>\n  <p>随着AI能力、机器人技术和传感器技术逐渐成熟，体育消费领域正在出现智能化升级趋势。相比传统运动装备，智能体育硬件正在从记录数据向辅助训练、提升体验方向发展，覆盖智能健身设备、运动穿戴、AI陪练等多个场景。其中，网球、羽毛球、高尔夫等强训",
-        "link": "https://36kr.com/p/3913490184754313?f=rss",
-        "published": "2026-07-27 14:08:54  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
         "title": "Our position on open-weights models",
-        "summary": "score: 804, comments: 1135",
+        "summary": "score: 1072, comments: 1543",
         "link": "https://www.anthropic.com/news/position-open-weights-models",
-        "score": 804
+        "score": 1072
       },
       {
         "source": "Hacker News",
-        "title": "Benchmarking Opus 5 on SlopCodeBench",
-        "summary": "score: 248, comments: 57",
-        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-        "score": 248
-      },
-      {
-        "source": "Hacker News",
-        "title": "Using an open model feels surprisingly good",
-        "summary": "score: 244, comments: 72",
-        "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-        "score": 244
-      },
-      {
-        "source": "Hacker News",
-        "title": "Watching Go's new garbage collector move through the heap",
-        "summary": "score: 208, comments: 23",
-        "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-        "score": 208
+        "title": "7.1 Earthquake in Japan",
+        "summary": "score: 564, comments: 112",
+        "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+        "score": 564
       },
       {
         "source": "Hacker News",
         "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-        "summary": "score: 141, comments: 40",
+        "summary": "score: 268, comments: 90",
         "link": "https://fermisense.com/when-machines-take-the-wheel/",
-        "score": 141
+        "score": 268
       },
       {
         "source": "Hacker News",
-        "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-        "summary": "score: 86, comments: 51",
-        "link": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-        "score": 86
+        "title": "How to Survive Boiling Water",
+        "summary": "score: 219, comments: 34",
+        "link": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+        "score": 219
       },
       {
         "source": "Hacker News",
-        "title": "Vehicle Motion Cues",
-        "summary": "score: 76, comments: 31",
-        "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-        "score": 76
+        "title": "New HIV vaccine shows unprecedented success in preclinical study",
+        "summary": "score: 200, comments: 80",
+        "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+        "score": 200
       },
       {
         "source": "Hacker News",
-        "title": "DConf 2026 in London",
-        "summary": "score: 75, comments: 36",
-        "link": "https://dconf.org/2026/index.html",
-        "score": 75
+        "title": "About the security content of macOS Tahoe 26.6",
+        "summary": "score: 155, comments: 101",
+        "link": "https://support.apple.com/en-us/128067",
+        "score": 155
+      },
+      {
+        "source": "Hacker News",
+        "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+        "summary": "score: 96, comments: 23",
+        "link": "https://arxiv.org/abs/2510.26692",
+        "score": 96
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+        "summary": "score: 78, comments: 42",
+        "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+        "score": 78
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Casper Network (CSPR)",
-        "summary": "market cap rank: 667",
-        "link": "https://www.coingecko.com/en/coins/casper-network"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "COTI (COTI)",
-        "summary": "market cap rank: 550",
+        "summary": "market cap rank: 549",
         "link": "https://www.coingecko.com/en/coins/coti"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "AEON (AEON)",
-        "summary": "market cap rank: 881",
-        "link": "https://www.coingecko.com/en/coins/aeon-xyz"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 94",
-        "link": "https://www.coingecko.com/en/coins/lighter"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "Bittensor (TAO)",
+        "summary": "market cap rank: 42",
+        "link": "https://www.coingecko.com/en/coins/bittensor"
       },
       {
         "source": "CoinGecko Trending",
@@ -333,9 +315,27 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pi Network (PI)",
-        "summary": "market cap rank: 76",
-        "link": "https://www.coingecko.com/en/coins/pi-network"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 112",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ondo (ONDO)",
+        "summary": "market cap rank: 41",
+        "link": "https://www.coingecko.com/en/coins/ondo"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Zama (ZAMA)",
+        "summary": "market cap rank: 213",
+        "link": "https://www.coingecko.com/en/coins/zama"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdU4tXGia37HctuZqn5JX'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdUfvTugvs5XWMjixQjMB'}"
   }
 }
