@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-07-27T21:57:42.269108+00:00",
+  "generated_at_utc": "2026-07-28T07:33:32.127685+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
+        "summary": "Talks over the Strait of Hormuz continue as Iran's foreign ministry discussed the strategically vital maritime passage with Saudi and Omani counterparts.",
+        "link": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
+        "published": "Tue, 28 Jul 2026 06:59:36 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes",
+        "summary": "Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons.",
+        "link": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+        "published": "Tue, 28 Jul 2026 07:23:55 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
+        "summary": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
+        "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+        "published": "Tue, 28 Jul 2026 01:34:28 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Apple ends day as world's most valuable company, passing Nvidia",
@@ -11,10 +32,24 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "SK Hynix shares plunge nearly 15% in Seoul as chip sell-off deepens",
+        "summary": "South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
+        "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+        "published": "Tue, 28 Jul 2026 07:30:11 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
         "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
         "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
-        "published": "Mon, 27 Jul 2026 21:56:00 GMT"
+        "published": "Mon, 27 Jul 2026 22:23:50 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+        "summary": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
+        "link": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+        "published": "Mon, 27 Jul 2026 23:43:50 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -24,46 +59,11 @@
         "published": "Mon, 27 Jul 2026 21:26:03 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-        "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
-        "link": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-        "published": "Mon, 27 Jul 2026 21:29:50 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
-        "summary": "President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.",
-        "link": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
-        "published": "Mon, 27 Jul 2026 20:51:08 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
-        "summary": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.",
-        "link": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
-        "published": "Mon, 27 Jul 2026 19:48:30 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chairman Kevin Warsh will say this week",
-        "summary": "Kalshi traders are predicting Warsh will mention last week's supply shock at this week's Federal Reserve press conference.",
-        "link": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
-        "published": "Mon, 27 Jul 2026 20:52:29 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
-        "summary": "President Trump Monday voiced support for Federal Reserve Chairman Kevin Warsh while insisting that the U.S. should have the lowest interest rates in the world.",
-        "link": "https://www.cnbc.com/2026/07/27/trump-warsh-interest-rates.html",
-        "published": "Mon, 27 Jul 2026 18:15:18 GMT"
-      },
-      {
         "source": "BBC World",
-        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-        "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 20:34:55 GMT"
+        "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+        "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+        "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 05:01:19 GMT"
       },
       {
         "source": "BBC World",
@@ -74,6 +74,34 @@
       },
       {
         "source": "BBC World",
+        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+        "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 01:53:58 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+        "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+        "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 28 Jul 2026 01:39:50 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "China's new challenge as natural disasters strike - fake AI videos",
+        "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
+        "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 27 Jul 2026 22:07:23 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "A Japanese town wrestles with identity after protests over its first mosque",
+        "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+        "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 27 Jul 2026 22:08:21 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
         "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
         "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
@@ -81,38 +109,31 @@
       },
       {
         "source": "BBC World",
-        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-        "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-        "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 12:33:31 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "US singer D4vd to go on trial for murder in death of teen",
-        "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-        "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 21:37:59 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Shots fired at US consulate in Toronto for a second time this year",
         "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
         "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 16:56:57 GMT"
+        "published": "Tue, 28 Jul 2026 00:36:16 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Carly Simon reveals Parkinson's diagnosis",
-        "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 14:04:01 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+        "published": "Tue, 28 Jul 2026 04:32:39 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Wildfire witnesses describe 'wall of flames', fear and stress",
-        "summary": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate.",
-        "link": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 27 Jul 2026 19:50:35 GMT"
+        "source": "CoinDesk",
+        "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
+        "published": "Mon, 27 Jul 2026 23:55:16 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
+        "published": "Mon, 27 Jul 2026 23:29:38 +0000"
       },
       {
         "source": "CoinDesk",
@@ -150,35 +171,35 @@
         "published": "Mon, 27 Jul 2026 14:46:10 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Cantor is advising crypto bank AMINA on path to potential public listing",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
-        "published": "Mon, 27 Jul 2026 14:36:30 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
-        "published": "Mon, 27 Jul 2026 14:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
-        "published": "Mon, 27 Jul 2026 13:32:16 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Cross River to enable P2P payments, banking services for X Money",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cross River to enable P2P payments, banking services for X Money\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-is-the-next-step-toward-a-cashless-society-eu.png\" /></p><p>The banking-as-a-service provider will power X Money’s peer-to-peer payments, FDIC-insured accounts and Visa debit cards as the platform expands its financial services.</p>",
-        "link": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 27 Jul 2026 21:05:05 +0000"
+        "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance co-founder CZ backs crypto license passporting across ASEAN \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cz-vs-eu.png\" /></p><p>Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.</p>",
+        "link": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 28 Jul 2026 06:00:54 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "重估老铺黄金",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260728/v2_46213e3ea8754211bc0335bd834908c2@6062546_oswg804526oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>撰文｜张晶</strong></p>\n  <p>2026年的老铺黄金，正在面对一场严重的割裂。</p>\n  <p>一边是线下门店人气未减。7月23日，北京SKP开启七夕预售第一天，老铺黄金门店前再次排起长队，上演了一场疯狂星期四。商场还没开门，已有顾客在大门外排起长队，准备冲一把老铺黄金。<strong>熟悉SKP的人曾说，SKP现在的业绩，在老铺。</strong></p>\n  <p>另一边割裂的是，老铺黄金在资本市场的持续低迷。从今年年初至今，老铺股价大幅下跌，较2025年7月创下的历史高点已经腰斩有余。同时，2026 年金价出现史诗级宽幅震荡，跌回20",
+        "link": "https://36kr.com/p/3914752931976583?f=rss",
+        "published": "2026-07-28 11:37:18  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "🎁36氪送福利！免费抽大疆 Osmo Pocket 4、DJI MIC MINI，还有专属礼品！",
+        "summary": "<h3><strong>参与门槛超简单，全程仅需 15 秒</strong></h3>\n  <p>打开抽奖小程序，简单操作两步就能解锁抽奖资格：</p>\n  <ol>\n   <li>进入36氪企业全情报小程序快速体验，耗时不超15秒。</li>\n   <li>任选一家企业完成订阅</li>\n  </ol>\n  <p><strong>完成以上操作，直接免费获得抽奖机会，不用充值、不用拉人，人人可参与！</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260727/v2_47cc887578c34718ada1d70d590ca5ae@5284654_oswg1708821oswg941oswg1672_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码参与抽奖！</p>\n  <h3><strong>🎁豪华奖品池，中奖好物全实拍</",
+        "link": "https://36kr.com/p/3913529825039745?f=rss",
+        "published": "2026-07-28 11:34:04  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+        "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>2026暑期档电影票房已突破57亿</li>\n   <li>茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶</li>\n   <li>长鑫科技上市半日，7名高管晋升“10亿身家”</li>\n   <li>巴西总统卢拉：美持续在关税上对巴施压系战略错误</li>\n   <li>苹果公司称多项服务出现故障，包括App Store</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>蔚来战投长鑫科技浮盈超7亿，李斌现身答谢晚宴</strong></p>\n  <p>7月27日，国产存储龙头企业长鑫科技正式登陆科创板，一举成为A股最大市值公司。截至当天收盘，公司报49元/股，全天涨幅465.82%，总市值3.31万亿元。值得注意的是，近日，蔚来现身长鑫科技IPO战略配售名单，承诺认购金额1.58亿元人民币，锁定期18个月。按发行价8.66元/股计算，蔚来认购约1824.48万股。以27日收盘价49元/股计算，蔚来账面浮盈约7.4亿元，收益率超465%。当天，有博主发布照片显示，长鑫",
+        "link": "https://36kr.com/p/3914520847570307?f=rss",
+        "published": "2026-07-28 07:36:45  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
@@ -213,105 +234,90 @@
         "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。</p>\n  <p>一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职于投资机构和机器人公司，长期关注智能硬件领域投资与运营增长。团队覆盖无人机、无人车、商用清洁、割草、泳池清洁等机器人方向，此前积累了较丰富的消费硬件出海经验，具备从产品定义、研发到市场推广的完整链路能力。</p>\n  <p>随着AI能力、机器人技术和传感器技术逐渐成熟，体育消费领域正在出现智能化升级趋势。相比传统运动装备，智能体育硬件正在从记录数据向辅助训练、提升体验方向发展，覆盖智能健身设备、运动穿戴、AI陪练等多个场景。其中，网球、羽毛球、高尔夫等强训",
         "link": "https://36kr.com/p/3913490184754313?f=rss",
         "published": "2026-07-27 14:08:54  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "优衣库一边关店，一边赚钱",
-        "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子</p>\n  <p><strong>编辑 |</strong> 张帆</p>\n  <p>优衣库在悄悄赚钱。</p>\n  <p>近日，优衣库母公司迅销集团上调了对2026财年的盈利指引，预计全年销售额增长17%至3.97万亿日元，约合214亿欧元。对比来看，H&amp;M集团2026财年预期营收在199亿至208亿欧元。</p>\n  <p>这意味着，迅销将取代H&amp;M，成为全球第二的“自有服装品牌零售商”，仅次于Zara的母公司Inditex。支撑迅销这一高目标的，是刚刚发布的超预期财报。</p>\n  <p>截至5月31日的2026财年前三季度，迅销集团三项核心指标均创新高——累计营收3.07万亿日元，同比增长17.1%；业务利润5927亿日元，同比增长33.6%；归母净利润达到4260亿日元，同比增长25.6%。</p>\n  <p><strong>最引人注目的变化发生在中国市场。</strong></p>\n  <p>前三季度，迅销大中华区销售额为5608.39亿日元，同比增长9.86%，营业利润也获得两位数增长。其",
-        "link": "https://36kr.com/p/3913266058826880?f=rss",
-        "published": "2026-07-27 10:43:30  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
-        "summary": "<p>36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。</p>\n  <p>2024年，36氪曾率先报道MORROR ART的近亿元B轮融资，由海控天程基金领投、零一创投跟投。其后，MORROR ART营收继续保持高速增长，2025年增速显著高于音频行业平均水平。</p>\n  <p><strong>与此同时，MORROR ART面向海外市场孵化子品牌「MorningBlues」，其推出的新一代产品SonicGlass A1，在Kickstarter获得来自欧美等主要市场用户的支持。项目众筹金额已突破120万美元，成为公司验证全球市场的重要节点。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms",
-        "link": "https://36kr.com/p/3910655616521348?f=rss",
-        "published": "2026-07-27 09:20:17  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
-        "summary": "<p>文｜阿至</p>\n  <p>过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。</p>\n  <p>根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。</p>\n  <p>“未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核心观点。</p>\n  <p>更具体点说就是，未来卫星不能\"只有眼睛、没有脑子\"。</p>\n  <p>7月26号，商业航天加速《数字空间战略》发展大会暨“数字空间一号”试验星启航大会在北京举行。</p>\n  <p>作为《数字空间战略》的提出者，魏奉思院士在现场指出，面对空间环境复杂多变、轨道资源日益拥挤以及大规模星座协同运行等挑战，未来空间",
-        "link": "https://36kr.com/p/3912546487637378?f=rss",
-        "published": "2026-07-27 09:00:00  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Kimi-K3 on HuggingFace",
-        "summary": "score: 1272, comments: 495",
-        "link": "https://huggingface.co/moonshotai/Kimi-K3",
-        "score": 1272
+        "title": "Our position on open-weights models",
+        "summary": "score: 804, comments: 1135",
+        "link": "https://www.anthropic.com/news/position-open-weights-models",
+        "score": 804
       },
       {
         "source": "Hacker News",
-        "title": "MAI-Cyber-1-Flash inside MDASH",
-        "summary": "score: 198, comments: 105",
-        "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-        "score": 198
+        "title": "Benchmarking Opus 5 on SlopCodeBench",
+        "summary": "score: 248, comments: 57",
+        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "score": 248
       },
       {
         "source": "Hacker News",
-        "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-        "summary": "score: 198, comments: 147",
-        "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-        "score": 198
-      },
-      {
-        "source": "Hacker News",
-        "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-        "summary": "score: 178, comments: 66",
-        "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-        "score": 178
-      },
-      {
-        "source": "Hacker News",
-        "title": "The computer that helped win World War II",
-        "summary": "score: 148, comments: 63",
-        "link": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-        "score": 148
-      },
-      {
-        "source": "Hacker News",
-        "title": "Paged Out #9 [pdf]",
-        "summary": "score: 138, comments: 20",
-        "link": "https://pagedout.institute/download/PagedOut_009.pdf",
-        "score": 138
-      },
-      {
-        "source": "Hacker News",
-        "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-        "summary": "score: 127, comments: 64",
-        "link": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-        "score": 127
+        "title": "Using an open model feels surprisingly good",
+        "summary": "score: 244, comments: 72",
+        "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+        "score": 244
       },
       {
         "source": "Hacker News",
         "title": "Watching Go's new garbage collector move through the heap",
-        "summary": "score: 121, comments: 10",
+        "summary": "score: 208, comments: 23",
         "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-        "score": 121
+        "score": 208
+      },
+      {
+        "source": "Hacker News",
+        "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+        "summary": "score: 141, comments: 40",
+        "link": "https://fermisense.com/when-machines-take-the-wheel/",
+        "score": 141
+      },
+      {
+        "source": "Hacker News",
+        "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+        "summary": "score: 86, comments: 51",
+        "link": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+        "score": 86
+      },
+      {
+        "source": "Hacker News",
+        "title": "Vehicle Motion Cues",
+        "summary": "score: 76, comments: 31",
+        "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+        "score": 76
+      },
+      {
+        "source": "Hacker News",
+        "title": "DConf 2026 in London",
+        "summary": "score: 75, comments: 36",
+        "link": "https://dconf.org/2026/index.html",
+        "score": 75
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Casper Network (CSPR)",
-        "summary": "market cap rank: 678",
+        "summary": "market cap rank: 667",
         "link": "https://www.coingecko.com/en/coins/casper-network"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "ZIGChain (ZIG)",
-        "summary": "market cap rank: 376",
-        "link": "https://www.coingecko.com/en/coins/zigchain"
+        "title": "COTI (COTI)",
+        "summary": "market cap rank: 550",
+        "link": "https://www.coingecko.com/en/coins/coti"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pump.fun (PUMP)",
-        "summary": "market cap rank: 72",
-        "link": "https://www.coingecko.com/en/coins/pump-fun"
+        "title": "AEON (AEON)",
+        "summary": "market cap rank: 881",
+        "link": "https://www.coingecko.com/en/coins/aeon-xyz"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 94",
+        "link": "https://www.coingecko.com/en/coins/lighter"
       },
       {
         "source": "CoinGecko Trending",
@@ -321,21 +327,15 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "COTI (COTI)",
-        "summary": "market cap rank: 556",
-        "link": "https://www.coingecko.com/en/coins/coti"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 96",
-        "link": "https://www.coingecko.com/en/coins/lighter"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
+        "title": "Pi Network (PI)",
+        "summary": "market cap rank: 76",
+        "link": "https://www.coingecko.com/en/coins/pi-network"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdTJygvQdiEEASpZNThFT'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdU4tXGia37HctuZqn5JX'}"
   }
 }
