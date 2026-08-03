@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-08-03T08:21:25.344317+00:00",
+  "generated_at_utc": "2026-08-03T15:38:51.263100+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+        "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
+        "link": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+        "published": "Mon, 03 Aug 2026 13:45:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+        "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+        "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+        "published": "Mon, 03 Aug 2026 15:27:52 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+        "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
+        "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+        "published": "Mon, 03 Aug 2026 15:35:00 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "What the market is saying about the U.S. intervention to prop up the yen",
+        "summary": "Following the joint involvement the yen now sits at 157 to the dollar, down from just above 163, which represented its lowest level in four decades.",
+        "link": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
+        "published": "Mon, 03 Aug 2026 13:43:55 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
+        "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
+        "link": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
+        "published": "Mon, 03 Aug 2026 14:55:29 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Senate appears ready to advance Blanche after Cornyn strikes deal",
+        "summary": "Sen. John Cornyn, R-Texas, a key holdout on confirming Todd Blanche for attorney general, struck a deal to end the controversial \"anti-weaponization fund.\"",
+        "link": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
+        "published": "Mon, 03 Aug 2026 12:52:20 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
         "summary": "The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.",
         "link": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
-        "published": "Mon, 03 Aug 2026 07:58:45 GMT"
+        "published": "Mon, 03 Aug 2026 14:38:05 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "AstraZeneca shares drop 7% after report on $400 billion merger talks with Bristol Myers Squibb",
-        "summary": "The companies have discussed a potential merger over several months, the Financial Times reported on Sunday.",
-        "link": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
-        "published": "Mon, 03 Aug 2026 07:52:36 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
-        "summary": "Washington's decision to join Japan in supporting the battered yen has prompted questions over what motivated the rare coordinated intervention.",
-        "link": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
-        "published": "Mon, 03 Aug 2026 07:28:46 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
-        "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
-        "link": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
-        "published": "Mon, 03 Aug 2026 05:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
-        "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
-        "link": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
-        "published": "Mon, 03 Aug 2026 07:44:34 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
-        "summary": "Japan's finance ministry said Monday it conducted a coordinated yen-buying intervention with the U.S. Treasury on Friday.",
-        "link": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html",
-        "published": "Mon, 03 Aug 2026 04:03:08 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
-        "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" snared $355 million in estimated domestic box office on its opening weekend, the second-highest debut of all time.",
-        "link": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
-        "published": "Sun, 02 Aug 2026 15:54:05 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Why flights are so expensive and will likely stay that way",
-        "summary": "Airlines are paying billions of dollars more in fuel costs this year",
-        "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
-        "published": "Sun, 02 Aug 2026 12:00:01 GMT"
+        "title": "Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds",
+        "summary": "Greece is entering its second week of wildfires spread by extreme winds as more countries in Southern Europe battle with intensifying climate change.",
+        "link": "https://www.cnbc.com/2026/08/03/greece-wildfire-pictures-winds-heatwave.html",
+        "published": "Mon, 03 Aug 2026 12:11:05 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Trump suggests new talks with Iran to begin on Monday",
-        "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
         "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 08:03:15 GMT"
+        "published": "Mon, 03 Aug 2026 14:18:30 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+        "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+        "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 03 Aug 2026 14:38:48 GMT"
       },
       {
         "source": "BBC World",
@@ -77,7 +84,21 @@
         "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
         "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
         "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 06:53:09 GMT"
+        "published": "Mon, 03 Aug 2026 14:20:56 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+        "summary": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+        "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 03 Aug 2026 08:40:22 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+        "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+        "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 03 Aug 2026 10:59:12 GMT"
       },
       {
         "source": "BBC World",
@@ -88,97 +109,90 @@
       },
       {
         "source": "BBC World",
-        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-        "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 01:03:31 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-        "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
-        "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 07:31:21 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Malaysian boy on trial for allegedly murdering girl in school",
-        "summary": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
-        "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 01:43:16 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-        "summary": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
-        "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 05:31:55 GMT"
+        "title": "Sudan army drone strike on court session kills 35, rights group says",
+        "summary": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+        "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 03 Aug 2026 10:29:24 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead",
+        "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
-        "published": "Mon, 03 Aug 2026 08:16:28 +0000"
+        "link": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
+        "published": "Mon, 03 Aug 2026 15:24:45 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
+        "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
-        "published": "Mon, 03 Aug 2026 06:15:38 +0000"
+        "link": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
+        "published": "Mon, 03 Aug 2026 14:46:08 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
+        "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
-        "published": "Mon, 03 Aug 2026 05:52:29 +0000"
+        "link": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+        "published": "Mon, 03 Aug 2026 13:59:50 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
+        "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
-        "published": "Mon, 03 Aug 2026 05:07:49 +0000"
+        "link": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
+        "published": "Mon, 03 Aug 2026 13:49:40 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Counting down the days: State of Crypto",
+        "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
-        "published": "Sun, 02 Aug 2026 18:30:00 +0000"
+        "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
+        "published": "Mon, 03 Aug 2026 13:15:46 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+        "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
         "summary": "",
-        "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
-        "published": "Sun, 02 Aug 2026 17:00:00 +0000"
+        "link": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
+        "published": "Mon, 03 Aug 2026 12:53:21 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+        "title": "Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-        "published": "Sun, 02 Aug 2026 16:00:00 +0000"
+        "link": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
+        "published": "Mon, 03 Aug 2026 12:17:10 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "The reverse bridge: Crypto meets Wall Street using perps",
+        "title": "Bitget set to exit Japan, close all remaining positions by year-end",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
-        "published": "Sun, 02 Aug 2026 13:00:00 +0000"
+        "link": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
+        "published": "Mon, 03 Aug 2026 12:03:41 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-company-buys-ethereum-expands-treasury-to-thousands-eth.png\" /></p><p>The Nasdaq-listed company relies largely on staking rewards to fund operations, while its 0G holdings were valued 91% below their recorded costs. </p>",
-        "link": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 03 Aug 2026 07:15:56 +0000"
+        "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hashdex to shut smallest Bitcoin ETF after more than two years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg\" /></p><p>The spot price Bitcoin exchange-traded fund, which was never able to attract more than $18 million in net assets, will pay out investors and sell its 225 BTC in the coming weeks.</p>",
+        "link": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 03 Aug 2026 15:24:43 +0000"
       }
     ],
     "chinese_news": [
+      {
+        "source": "36氪 36Kr",
+        "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+        "summary": "<p>AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？</p>\n  <p>内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨。</p>\n  <p><strong>圆桌嘉宾：</strong></p>\n  <p><strong>刘士武丨36氪游戏主编（主持）</strong></p>\n  <p><strong>吴同丨Funloom&nbsp;AI&nbsp;CEO&nbsp;</strong></p>\n  <p><strong>艾文丨阿里云智能集团公共云AI原生事业部副总经理</strong></p>\n  <p><strong>罗小我丨VAST战略负责人</strong></p>",
+        "link": "https://36kr.com/p/3923717502072969?f=rss",
+        "published": "2026-08-03 19:39:13  +0800"
+      },
+      {
+        "source": "36氪 36Kr",
+        "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+        "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_d4d3e685b30f4f4c904ddc0fe3c2f434@5284654_oswg693586oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片1</p>\n  <p>&nbsp;</p>\n  <h3><strong>今日A股收盘数据</strong></h3>\n  <p>上证指数：3809.66&nbsp;点，-0.59%</p>\n  <p>深证成指：13448.29&nbsp;点，-0.96%</p>\n  <p>创业板指：3302.55&nbsp;点，-1.24%</p>\n  <p>&nbsp;</p>\n  <h3><strong>德明利8月3日下跌9.56%</strong></h3>\n  <p><strong>349.00 &nbsp;-36.90 &nbsp;-9.56",
+        "link": "https://36kr.com/p/3923603053686151?f=rss",
+        "published": "2026-08-03 17:44:31  +0800"
+      },
       {
         "source": "36氪 36Kr",
         "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
@@ -220,122 +234,108 @@
         "summary": "<p>文 | 赵京娜</p>\n  <p>访谈 编辑 | 海若镜</p>\n  <p>36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。</p>\n  <p>奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。</p>\n  <p>“<strong>今天，Agent已经像能力出众的个体，但它们还没有真正进入组织</strong>，”薛传奕介绍道。</p>\n  <p>一个越来越常见的工作日可能是这样开始的：产品经理把需求交给一个Agent梳理，研发同时让另一个Agent修改代码，运营则在第三个对话窗口里研究发布方案。几个小时后，每个Agent都完成了自己的部分，也各自拥有一段完整的上下文。但当三项工作需要合并时，团队才发现，没人清楚另一个Agent做",
         "link": "https://36kr.com/p/3919025939246727?f=rss",
         "published": "2026-08-03 08:10:16  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
-        "summary": "<h2>今日热点导览</h2>\n  <p>马斯克关注了DeepSeek的X账号</p>\n  <p>祥鹏航空回应航班误发过期方便面</p>\n  <p>OpenAI或将IPO推迟到明年</p>\n  <p>SpaceX首份财报即将发布</p>\n  <p>小米多款手机正式涨价</p>\n  <p>每月10万美元，特朗普“真实社交”售卖“优先访问权”</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>蔡崇信宣布离婚，不涉及出售阿里股份</strong></p>\n  <p>8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在个人生活上逐渐疏远，但商业合作关系仍将保持牢固和专业。</p>\n  <p>此外，声明明确表示，蔡崇信目前没有出售任何阿里巴巴股票的计划，其担任阿里巴巴集团董事会主席的职务也不会因离婚受到影响。此次离婚也不会改变双方在布鲁克林体",
-        "link": "https://36kr.com/p/3923043072634498?f=rss",
-        "published": "2026-08-03 08:07:39  +0800"
-      },
-      {
-        "source": "36氪 36Kr",
-        "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-        "summary": "<p>如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp;</p>\n  <p>因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp;</p>\n  <p>但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp;</p>\n  <p>2026年，ChinaJoy 即将在7月底的上海举办第二十三届展会。&nbsp;</p>\n  <p><strong>如今的 ChinaJoy 还只是游戏展吗？</strong></p>\n  <p>它依然是全国最爱玩、最关注游戏的年轻人一年一度的线下聚会，这件事从未改变。但同时，ChinaJoy 正在悄然成为「科技 + 数字娱乐」行业一年一度的线下交汇点。&nbsp;</p>\n  <p>过去三年，科技对数字娱乐的改造速度超过了所有人的预期：AI ",
-        "link": "https://36kr.com/p/3920595518533250?f=rss",
-        "published": "2026-08-01 14:37:32  +0800"
       }
     ],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Karpathy’s Pelican",
-        "summary": "score: 553, comments: 387",
-        "link": "https://twitter.com/karpathy/status/2083749667410727319",
-        "score": 553
+        "title": "Don't be a meat proxy",
+        "summary": "score: 1275, comments: 531",
+        "link": "https://gruhn.me/blog/2026-08-03/",
+        "score": 1275
       },
       {
         "source": "Hacker News",
         "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-        "summary": "score: 493, comments: 226",
+        "summary": "score: 871, comments: 449",
         "link": "https://qwen.ai/blog?id=qwen3.8",
-        "score": 493
+        "score": 871
       },
       {
         "source": "Hacker News",
-        "title": "Don't be a meat proxy",
-        "summary": "score: 318, comments: 131",
-        "link": "https://gruhn.me/blog/2026-08-03/",
-        "score": 318
+        "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+        "summary": "score: 471, comments: 153",
+        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "score": 471
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-        "summary": "score: 213, comments: 52",
-        "link": "https://github.com/wie-project/kakehashi",
-        "score": 213
+        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "summary": "score: 248, comments: 201",
+        "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+        "score": 248
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Isopolis – Isometric pixel map of SF",
-        "summary": "score: 201, comments: 43",
-        "link": "https://sf.isopolis.city/",
-        "score": 201
+        "title": "Bonsai: Janestreet's UI Library",
+        "summary": "score: 182, comments: 66",
+        "link": "https://github.com/janestreet/bonsai",
+        "score": 182
       },
       {
         "source": "Hacker News",
-        "title": "Note-Taking and Personal Knowledge Management",
-        "summary": "score: 191, comments: 53",
-        "link": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-        "score": 191
+        "title": "Rust project goals: Immobile types and guaranteed destructors",
+        "summary": "score: 165, comments: 60",
+        "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+        "score": 165
       },
       {
         "source": "Hacker News",
-        "title": "More German than many Germans",
-        "summary": "score: 166, comments: 59",
-        "link": "https://mertbulan.com/more-german-than-many-germans/",
-        "score": 166
+        "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
+        "summary": "score: 113, comments: 82",
+        "link": "https://defector.com/abandoned-fish-sauce-canada-interview",
+        "score": 113
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: ssh ssh.place",
-        "summary": "score: 105, comments: 57",
-        "link": "https://ssh.place",
-        "score": 105
+        "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+        "summary": "score: 103, comments: 38",
+        "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+        "score": 103
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Bless (BLESS)",
-        "summary": "market cap rank: 562",
-        "link": "https://www.coingecko.com/en/coins/bless"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "GRVT Token (GRVT)",
-        "summary": "market cap rank: 581",
-        "link": "https://www.coingecko.com/en/coins/grvt"
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 10",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 32",
+        "link": "https://www.coingecko.com/en/coins/sui"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "XRP (XRP)",
+        "summary": "market cap rank: 6",
+        "link": "https://www.coingecko.com/en/coins/xrp"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 111",
+        "summary": "market cap rank: 110",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Ondo (ONDO)",
-        "summary": "market cap rank: 43",
-        "link": "https://www.coingecko.com/en/coins/ondo"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 765",
-        "link": "https://www.coingecko.com/en/coins/pons"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 288",
-        "link": "https://www.coingecko.com/en/coins/the-black-bull"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lorenzo Protocol (BANK)",
-        "summary": "market cap rank: 828",
-        "link": "https://www.coingecko.com/en/coins/lorenzo-protocol"
+        "title": "Ethena (ENA)",
+        "summary": "market cap rank: 72",
+        "link": "https://www.coingecko.com/en/coins/ethena"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdfVPp6teMHwL49V28fEy'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdg4kWcrBnjq38e8saufB'}"
   }
 }
