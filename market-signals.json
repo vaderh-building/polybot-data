@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-08-03T15:38:51.263100+00:00",
+  "generated_at_utc": "2026-08-03T21:59:23.261784+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+        "summary": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+        "link": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+        "published": "Mon, 03 Aug 2026 21:34:43 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Snap's stock jumps 10% on earnings beat and strong sales forecast",
+        "summary": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
+        "link": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
+        "published": "Mon, 03 Aug 2026 21:44:19 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Twenty five states sue Trump administration over latest global tariffs",
+        "summary": "Twenty five states sued the Trump administration, arguing its latest global tariffs unlawfully replace duties already struck down by courts.",
+        "link": "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
+        "published": "Mon, 03 Aug 2026 20:57:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+        "summary": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+        "link": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+        "published": "Mon, 03 Aug 2026 21:57:34 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
@@ -11,73 +39,73 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-        "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
-        "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-        "published": "Mon, 03 Aug 2026 15:27:52 GMT"
+        "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+        "summary": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
+        "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+        "published": "Mon, 03 Aug 2026 17:28:17 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
+        "summary": "Trump on Truth Social accused Iran's leaders of lying about peace talks, which he said are underway \"whether Iran wants to admit it or not.\"",
+        "link": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+        "published": "Mon, 03 Aug 2026 16:39:37 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
         "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
         "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
-        "published": "Mon, 03 Aug 2026 15:35:00 GMT"
+        "published": "Mon, 03 Aug 2026 20:02:17 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "What the market is saying about the U.S. intervention to prop up the yen",
-        "summary": "Following the joint involvement the yen now sits at 157 to the dollar, down from just above 163, which represented its lowest level in four decades.",
-        "link": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
-        "published": "Mon, 03 Aug 2026 13:43:55 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
-        "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
-        "link": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
-        "published": "Mon, 03 Aug 2026 14:55:29 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Senate appears ready to advance Blanche after Cornyn strikes deal",
-        "summary": "Sen. John Cornyn, R-Texas, a key holdout on confirming Todd Blanche for attorney general, struck a deal to end the controversial \"anti-weaponization fund.\"",
-        "link": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
-        "published": "Mon, 03 Aug 2026 12:52:20 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
-        "summary": "The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.",
-        "link": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
-        "published": "Mon, 03 Aug 2026 14:38:05 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds",
-        "summary": "Greece is entering its second week of wildfires spread by extreme winds as more countries in Southern Europe battle with intensifying climate change.",
-        "link": "https://www.cnbc.com/2026/08/03/greece-wildfire-pictures-winds-heatwave.html",
-        "published": "Mon, 03 Aug 2026 12:11:05 GMT"
+        "source": "BBC World",
+        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+        "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+        "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 03 Aug 2026 18:04:30 GMT"
       },
       {
         "source": "BBC World",
         "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
+        "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
         "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 14:18:30 GMT"
+        "published": "Mon, 03 Aug 2026 19:42:55 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+        "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+        "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 03 Aug 2026 15:57:27 GMT"
       },
       {
         "source": "BBC World",
         "title": "Rhine falls to record low levels as drought strains Europe's rivers",
         "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
         "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 14:38:48 GMT"
+        "published": "Mon, 03 Aug 2026 16:27:43 GMT"
       },
       {
         "source": "BBC World",
-        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 03:32:21 GMT"
+        "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+        "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 03 Aug 2026 20:05:46 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "EU calls for stronger borders after Ceuta migrant crossings",
+        "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+        "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 03 Aug 2026 21:43:10 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+        "summary": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 03 Aug 2026 07:49:33 GMT"
       },
       {
         "source": "BBC World",
@@ -85,34 +113,6 @@
         "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
         "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
         "published": "Mon, 03 Aug 2026 14:20:56 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-        "summary": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-        "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 08:40:22 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-        "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
-        "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 10:59:12 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "US and Japan take action to prop up yen in rare joint move",
-        "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-        "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 07:30:52 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Sudan army drone strike on court session kills 35, rights group says",
-        "summary": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-        "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 03 Aug 2026 10:29:24 GMT"
       },
       {
         "source": "CoinDesk",
@@ -172,10 +172,10 @@
       },
       {
         "source": "Cointelegraph",
-        "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hashdex to shut smallest Bitcoin ETF after more than two years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg\" /></p><p>The spot price Bitcoin exchange-traded fund, which was never able to attract more than $18 million in net assets, will pay out investors and sell its 225 BTC in the coming weeks.</p>",
-        "link": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 03 Aug 2026 15:24:43 +0000"
+        "title": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec.jpg\" /></p><p>A key architect of the Trump administration’s digital asset agenda is leaving the Treasury Department as Congress struggles to advance landmark crypto legislation.\n</p>",
+        "link": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 03 Aug 2026 20:29:47 +0000"
       }
     ],
     "chinese_news": [
@@ -239,73 +239,73 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Don't be a meat proxy",
-        "summary": "score: 1275, comments: 531",
-        "link": "https://gruhn.me/blog/2026-08-03/",
-        "score": 1275
+        "title": "Devtools must be open source",
+        "summary": "score: 435, comments: 157",
+        "link": "https://blog.exe.dev/devtools-must-be-open-source",
+        "score": 435
       },
       {
         "source": "Hacker News",
-        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-        "summary": "score: 871, comments: 449",
-        "link": "https://qwen.ai/blog?id=qwen3.8",
-        "score": 871
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "summary": "score: 346, comments: 630",
+        "link": "https://openai.com/index/ten-advances-in-mathematics/",
+        "score": 346
       },
       {
         "source": "Hacker News",
-        "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-        "summary": "score: 471, comments: 153",
-        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "score": 471
-      },
-      {
-        "source": "Hacker News",
-        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "summary": "score: 248, comments: 201",
-        "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-        "score": 248
-      },
-      {
-        "source": "Hacker News",
-        "title": "Bonsai: Janestreet's UI Library",
-        "summary": "score: 182, comments: 66",
-        "link": "https://github.com/janestreet/bonsai",
-        "score": 182
-      },
-      {
-        "source": "Hacker News",
-        "title": "Rust project goals: Immobile types and guaranteed destructors",
-        "summary": "score: 165, comments: 60",
-        "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-        "score": 165
-      },
-      {
-        "source": "Hacker News",
-        "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
-        "summary": "score: 113, comments: 82",
-        "link": "https://defector.com/abandoned-fish-sauce-canada-interview",
-        "score": 113
+        "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+        "summary": "score: 237, comments: 49",
+        "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+        "score": 237
       },
       {
         "source": "Hacker News",
         "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-        "summary": "score: 103, comments: 38",
+        "summary": "score: 229, comments: 71",
         "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-        "score": 103
+        "score": 229
+      },
+      {
+        "source": "Hacker News",
+        "title": "How Hollywood stopped making movies in Hollywood",
+        "summary": "score: 142, comments: 162",
+        "link": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+        "score": 142
+      },
+      {
+        "source": "Hacker News",
+        "title": "LLMs reward expertise",
+        "summary": "score: 109, comments: 35",
+        "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "score": 109
+      },
+      {
+        "source": "Hacker News",
+        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+        "summary": "score: 106, comments: 29",
+        "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+        "score": 106
+      },
+      {
+        "source": "Hacker News",
+        "title": "200 Milliseconds",
+        "summary": "score: 96, comments: 31",
+        "link": "https://200ms.thenodebook.com",
+        "score": 96
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Cosmos Hub (ATOM)",
+        "summary": "market cap rank: 82",
+        "link": "https://www.coingecko.com/en/coins/cosmos-hub"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 76",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
       },
       {
         "source": "CoinGecko Trending",
@@ -315,27 +315,27 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 32",
-        "link": "https://www.coingecko.com/en/coins/sui"
+        "title": "Bittensor (TAO)",
+        "summary": "market cap rank: 41",
+        "link": "https://www.coingecko.com/en/coins/bittensor"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "XRP (XRP)",
-        "summary": "market cap rank: 6",
-        "link": "https://www.coingecko.com/en/coins/xrp"
+        "title": "Cash Cat (CASHCAT)",
+        "summary": "market cap rank: 335",
+        "link": "https://www.coingecko.com/en/coins/cash-cat"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Kaspa (KAS)",
+        "summary": "market cap rank: 80",
+        "link": "https://www.coingecko.com/en/coins/kaspa"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 110",
+        "summary": "market cap rank: 111",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Ethena (ENA)",
-        "summary": "market cap rank: 72",
-        "link": "https://www.coingecko.com/en/coins/ethena"
       }
     ]
   },
@@ -343,6 +343,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdg4kWcrBnjq38e8saufB'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdgZmZ9Jbt9pUEP9mNGKA'}"
   }
 }
