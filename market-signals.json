@@ -1,7 +1,42 @@
 {
-  "generated_at_utc": "2026-08-05T22:06:10.826962+00:00",
+  "generated_at_utc": "2026-08-06T07:34:04.306977+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near",
+        "summary": "Iran denied it was in talks with Washington, despite claims by Trump to the contrary.",
+        "link": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
+        "published": "Thu, 06 Aug 2026 06:22:09 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Google is expanding its AI empire — and losing the people who built it",
+        "summary": "Google’s cloud boom is testing the company's commitment to frontier AI as commercial returns take priority.",
+        "link": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
+        "published": "Thu, 06 Aug 2026 06:06:18 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+        "summary": "JPMorgan Chief Executive Officer Jamie Dimon warned that leverage across financial markets remains elevated, adding that investors should be mindful that hidden borrowing could amplify market disruptions.",
+        "link": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
+        "published": "Thu, 06 Aug 2026 02:02:39 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SoftBank posts profit beat boosted by $8.2 billion investment gain from Intel",
+        "summary": "SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations.",
+        "link": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+        "published": "Thu, 06 Aug 2026 07:23:27 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Inside India newsletter: What's behind India’s rush to sell shares in state-owned firms",
+        "summary": "India is ramping up stake sales in state-owned companies to keep the growth engine running amid growing fiscal constraints",
+        "link": "https://www.cnbc.com/2026/08/06/india-lic-shares-economy-disinvestment-.html",
+        "published": "Thu, 06 Aug 2026 00:11:08 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
@@ -11,45 +46,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Iran, Oman say Strait of Hormuz talks in final stages, as Trump again teases a deal being close",
-        "summary": "Trump's latest remarks signaling again that a deal with Iran to reopen the Hormuz Strait is close at hand drove oil prices lower and sent stocks soaring.",
-        "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
-        "published": "Wed, 05 Aug 2026 18:47:59 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
-        "summary": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
-        "link": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
-        "published": "Wed, 05 Aug 2026 20:36:16 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
-        "summary": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
-        "link": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
-        "published": "Wed, 05 Aug 2026 21:32:34 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Etsy laying off 12% of staff in bid to streamline business, position for growth",
-        "summary": "Etsy announced the layoffs along with second-quarter earnings.",
-        "link": "https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html",
-        "published": "Wed, 05 Aug 2026 21:22:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
-        "summary": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
-        "link": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
-        "published": "Wed, 05 Aug 2026 21:55:46 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
-        "summary": "Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.",
-        "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
-        "published": "Wed, 05 Aug 2026 19:21:24 GMT"
+        "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+        "summary": "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.",
+        "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+        "published": "Wed, 05 Aug 2026 16:18:29 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -60,10 +60,52 @@
       },
       {
         "source": "BBC World",
-        "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-        "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+        "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+        "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 06 Aug 2026 05:00:54 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 05 Aug 2026 21:37:08 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
         "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 05 Aug 2026 21:21:51 GMT"
+        "published": "Thu, 06 Aug 2026 01:19:59 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
+        "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 06 Aug 2026 07:27:17 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Outrage as Ugandan football captain murdered in street gang attack",
+        "summary": "The 27-year-old was beaten to death by suspected robbers after resisting an attempt to steal his belongings, police say.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 06 Aug 2026 06:04:28 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+        "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 06 Aug 2026 04:44:22 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Nigerian security forces rescue more than 300 abductees",
+        "summary": "The government says the rescue is the country's largest single-day operation by joint security forces.",
+        "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 06 Aug 2026 04:35:33 GMT"
       },
       {
         "source": "BBC World",
@@ -73,46 +115,46 @@
         "published": "Wed, 05 Aug 2026 18:19:51 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Drone carrying explosives found at German airport, police say",
-        "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-        "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 05 Aug 2026 20:01:51 GMT"
+        "source": "CoinDesk",
+        "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
+        "published": "Thu, 06 Aug 2026 07:26:23 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-        "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
-        "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 05 Aug 2026 20:03:36 GMT"
+        "source": "CoinDesk",
+        "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
+        "published": "Thu, 06 Aug 2026 06:10:43 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Fifa admits mistakes but Infantino remains president",
-        "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 05 Aug 2026 21:37:08 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
+        "published": "Thu, 06 Aug 2026 04:59:11 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
-        "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
-        "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 05 Aug 2026 11:19:24 GMT"
+        "source": "CoinDesk",
+        "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
+        "published": "Thu, 06 Aug 2026 04:46:17 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-        "summary": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
-        "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 05 Aug 2026 12:33:43 GMT"
+        "source": "CoinDesk",
+        "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
+        "published": "Thu, 06 Aug 2026 04:31:41 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-        "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 05 Aug 2026 19:02:06 GMT"
+        "source": "CoinDesk",
+        "title": "Here are the possible outcomes for Clarity right now",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
+        "published": "Thu, 06 Aug 2026 03:49:04 +0000"
       },
       {
         "source": "CoinDesk",
@@ -129,53 +171,11 @@
         "published": "Wed, 05 Aug 2026 18:15:21 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
-        "published": "Wed, 05 Aug 2026 15:44:08 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
-        "summary": "",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test",
-        "published": "Wed, 05 Aug 2026 15:03:19 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes",
-        "published": "Wed, 05 Aug 2026 14:44:30 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
-        "published": "Wed, 05 Aug 2026 13:25:04 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
-        "published": "Wed, 05 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
-        "published": "Wed, 05 Aug 2026 13:00:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senator Warren questions US AI chip policy after Trump crypto investment: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-chip-maker-crypto-company.png\" /></p><p>The lawmaker reportedly sent a letter to the Commerce Secretary demanding answers about the administration’s treatment of the UAE following investments in the Trump family’s crypto company.</p>",
-        "link": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 05 Aug 2026 21:15:37 +0000"
+        "title": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-2.jpg\" /></p><p>US-listed Bitcoin ETFs attracted $244.4 million on Wednesday, marking three consecutive inflow days for a combined $626 million.</p>",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 06 Aug 2026 06:57:31 +0000"
       }
     ],
     "chinese_news": [],
@@ -183,102 +183,102 @@
       {
         "source": "Hacker News",
         "title": "Discovery Loop",
-        "summary": "score: 465, comments: 291",
+        "summary": "score: 708, comments: 443",
         "link": "https://www.discoveryloop.com/",
-        "score": 465
+        "score": 708
       },
       {
         "source": "Hacker News",
         "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-        "summary": "score: 342, comments: 487",
+        "summary": "score: 613, comments: 668",
         "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-        "score": 342
+        "score": 613
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cloudflare OS: an open platform for agents, apps, and work",
+        "summary": "score: 542, comments: 262",
+        "link": "https://blog.cloudflare.com/cloudflare-os/",
+        "score": 542
       },
       {
         "source": "Hacker News",
         "title": "Zed DeltaDB",
-        "summary": "score: 211, comments: 92",
+        "summary": "score: 385, comments: 210",
         "link": "https://zed.dev/deltadb",
-        "score": 211
-      },
-      {
-        "source": "Hacker News",
-        "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-        "summary": "score: 157, comments: 115",
-        "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-        "score": 157
+        "score": 385
       },
       {
         "source": "Hacker News",
         "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-        "summary": "score: 144, comments: 29",
+        "summary": "score: 296, comments: 75",
         "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-        "score": 144
-      },
-      {
-        "source": "Hacker News",
-        "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-        "summary": "score: 123, comments: 39",
-        "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-        "score": 123
+        "score": 296
       },
       {
         "source": "Hacker News",
         "title": "Muse Code and Muse Spark 1.2",
-        "summary": "score: 109, comments: 61",
+        "summary": "score: 243, comments: 142",
         "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-        "score": 109
+        "score": 243
       },
       {
         "source": "Hacker News",
-        "title": "Celld: Self-hosted, distributed Durable Objects",
-        "summary": "score: 98, comments: 15",
-        "link": "https://github.com/denoland/celld",
-        "score": 98
+        "title": "The title cards in Blade Runner are amazing",
+        "summary": "score: 239, comments: 108",
+        "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+        "score": 239
+      },
+      {
+        "source": "Hacker News",
+        "title": "Born Against, or why hobby programming communities are against LLM usage",
+        "summary": "score: 237, comments: 218",
+        "link": "https://blog.fogus.me/llm/born-against.html",
+        "score": 237
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "ZIGChain (ZIG)",
-        "summary": "market cap rank: 388",
-        "link": "https://www.coingecko.com/en/coins/zigchain"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 108",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 270",
+        "summary": "market cap rank: 257",
         "link": "https://www.coingecko.com/en/coins/cash-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Uniswap (UNI)",
-        "summary": "market cap rank: 38",
-        "link": "https://www.coingecko.com/en/coins/uniswap"
+        "title": "Pi Network (PI)",
+        "summary": "market cap rank: 64",
+        "link": "https://www.coingecko.com/en/coins/pi-network"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pump.fun (PUMP)",
-        "summary": "market cap rank: 68",
-        "link": "https://www.coingecko.com/en/coins/pump-fun"
+        "title": "Heima (HEI)",
+        "summary": "market cap rank: 531",
+        "link": "https://www.coingecko.com/en/coins/heima"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "StonkBroker (STONKBROKER)",
+        "summary": "market cap rank: 631",
+        "link": "https://www.coingecko.com/en/coins/stonkbroker"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 10",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Bitcoin (BTC)",
         "summary": "market cap rank: 1",
         "link": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 992",
-        "link": "https://www.coingecko.com/en/coins/pons"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bless (BLESS)",
-        "summary": "market cap rank: 466",
-        "link": "https://www.coingecko.com/en/coins/bless"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdkMuS5F4WQZTM47tB81H'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdm7D8ogdw6LqB2eq3qk7'}"
   }
 }
