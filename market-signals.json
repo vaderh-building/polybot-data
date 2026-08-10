@@ -1,13 +1,41 @@
 {
-  "generated_at_utc": "2026-08-09T21:22:50.571958+00:00",
+  "generated_at_utc": "2026-08-10T06:06:43.193865+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
+        "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+        "link": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+        "published": "Mon, 10 Aug 2026 04:24:45 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump says oil supermajors are making too much money. What will they do with it?",
+        "summary": "The windfall is fueling fresh political and environmental backlash, with Trump accusing Exxon Mobil and Chevron of making “too much money.”",
+        "link": "https://www.cnbc.com/2026/08/10/oil-iran-war-profits-windfall-tax.html",
+        "published": "Mon, 10 Aug 2026 05:00:02 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
         "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
         "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
         "published": "Sun, 09 Aug 2026 11:31:42 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+        "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.",
+        "link": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+        "published": "Mon, 10 Aug 2026 05:52:41 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Abel puts a big chunk of Berkshire's cash to work",
+        "summary": "In his second quarter as the new CEO of Berkshire Hathaway, Greg Abel did some serious spending, including $4.5 billion on buybacks.",
+        "link": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
+        "published": "Sun, 09 Aug 2026 12:00:33 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -25,45 +53,38 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Abel puts a big chunk of Berkshire's cash to work",
-        "summary": "In his second quarter as the new CEO of Berkshire Hathaway, Greg Abel did some serious spending, including $4.5 billion on buybacks.",
-        "link": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
-        "published": "Sun, 09 Aug 2026 12:00:33 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
         "summary": "The congresswoman, who has emerged as a polling favorite to be the Democratic nominee, said she also has not ruled out a run for the Senate in 2028.",
         "link": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
         "published": "Sun, 09 Aug 2026 14:45:17 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
-        "summary": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
-        "link": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
-        "published": "Sun, 09 Aug 2026 18:38:23 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-        "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
-        "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-        "published": "Sat, 08 Aug 2026 13:28:00 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
-        "summary": "Investors are closely monitoring earnings releases of AI companies amid concerns about the durability of high spending and demand.",
-        "link": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
-        "published": "Sun, 09 Aug 2026 12:01:56 GMT"
+        "source": "BBC World",
+        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+        "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 09 Aug 2026 20:58:18 GMT"
       },
       {
         "source": "BBC World",
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
         "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 09 Aug 2026 14:18:10 GMT"
+        "published": "Sun, 09 Aug 2026 21:25:04 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Evidence that South African special forces murdered top detective shared with BBC",
+        "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 09 Aug 2026 23:05:29 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Drones spotted over German base days after Leipzig bomb incident",
+        "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 09 Aug 2026 16:18:10 GMT"
       },
       {
         "source": "BBC World",
@@ -75,9 +96,9 @@
       {
         "source": "BBC World",
         "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-        "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+        "summary": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
         "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 09 Aug 2026 18:03:55 GMT"
+        "published": "Mon, 10 Aug 2026 03:33:51 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +109,24 @@
       },
       {
         "source": "BBC World",
-        "title": "Drones spotted over German base days after Leipzig bomb incident",
-        "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 09 Aug 2026 16:18:10 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
         "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
         "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
         "published": "Sun, 09 Aug 2026 19:57:28 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-        "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-        "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 09 Aug 2026 04:32:06 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin tops $65,000 with US inflation data due this week",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+        "published": "Mon, 10 Aug 2026 04:39:37 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Puerto Rico rations water supplies due to intense drought",
-        "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
-        "link": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 09 Aug 2026 16:43:23 GMT"
+        "source": "CoinDesk",
+        "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
+        "published": "Mon, 10 Aug 2026 04:26:01 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,111 +171,73 @@
         "published": "Sat, 08 Aug 2026 20:06:47 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
-        "published": "Sat, 08 Aug 2026 17:48:02 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
-        "published": "Sat, 08 Aug 2026 15:25:38 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIP-110 Bitcoin branch stalls after two blocks as gap widens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-seeks-ipo.png\" /></p><p>The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.</p>",
-        "link": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 09 Aug 2026 11:00:53 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 10 Aug 2026 06:00:00 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Mea Culpa – Dark Hours",
-        "summary": "score: 491, comments: 222",
-        "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-        "score": 491
-      },
-      {
-        "source": "Hacker News",
         "title": "How I use LLMs to learn complex topics",
-        "summary": "score: 169, comments: 96",
+        "summary": "score: 560, comments: 315",
         "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-        "score": 169
-      },
-      {
-        "source": "Hacker News",
-        "title": "Cool URIs Don't Change (1998)",
-        "summary": "score: 123, comments: 23",
-        "link": "https://www.w3.org/Provider/Style/URI",
-        "score": 123
-      },
-      {
-        "source": "Hacker News",
-        "title": "Ask HN: What are you working on? (August 2026)",
-        "summary": "score: 121, comments: 442",
-        "link": "https://news.ycombinator.com/item?id=49233423",
-        "score": 121
-      },
-      {
-        "source": "Hacker News",
-        "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-        "summary": "score: 101, comments: 55",
-        "link": "https://kibotronics.net/unlisted/lilly-machines/",
-        "score": 101
+        "score": 560
       },
       {
         "source": "Hacker News",
         "title": "Taxi drivers rarely die of Alzheimer's",
-        "summary": "score: 92, comments: 79",
+        "summary": "score: 245, comments: 177",
         "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-        "score": 92
+        "score": 245
       },
       {
         "source": "Hacker News",
-        "title": "Saying No",
-        "summary": "score: 86, comments: 67",
-        "link": "https://rozumem.xyz/posts/19",
-        "score": 86
+        "title": "Ask HN: What are you working on? (August 2026)",
+        "summary": "score: 218, comments: 766",
+        "link": "https://news.ycombinator.com/item?id=49233423",
+        "score": 218
       },
       {
         "source": "Hacker News",
-        "title": "OpenChamber: An Agentic Development Environment",
-        "summary": "score: 71, comments: 42",
-        "link": "https://openchamber.dev/",
-        "score": 71
+        "title": "What Happened to HackerOne?",
+        "summary": "score: 148, comments: 44",
+        "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+        "score": 148
+      },
+      {
+        "source": "Hacker News",
+        "title": "Auto mode is now the default in Claude Code",
+        "summary": "score: 108, comments: 67",
+        "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "score": 108
+      },
+      {
+        "source": "Hacker News",
+        "title": "The tragedy of the commons, AI edition",
+        "summary": "score: 105, comments: 57",
+        "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+        "score": 105
+      },
+      {
+        "source": "Hacker News",
+        "title": "How We Pushed CDC into Postgres",
+        "summary": "score: 69, comments: 6",
+        "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+        "score": 69
+      },
+      {
+        "source": "Hacker News",
+        "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
+        "summary": "score: 52, comments: 13",
+        "link": "https://www.nber.org/papers/w35560",
+        "score": 52
       }
     ],
     "crypto_trending": [
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 40",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pump.fun (PUMP)",
-        "summary": "market cap rank: 63",
-        "link": "https://www.coingecko.com/en/coins/pump-fun"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Tutorial (TUT)",
-        "summary": "market cap rank: 202",
-        "link": "https://www.coingecko.com/en/coins/tutorial"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 212",
-        "link": "https://www.coingecko.com/en/coins/cash-cat"
-      },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
@@ -270,15 +246,39 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
+        "title": "Cash Cat (CASHCAT)",
+        "summary": "market cap rank: 197",
+        "link": "https://www.coingecko.com/en/coins/cash-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "StonkBroker (STONKBROKER)",
-        "summary": "market cap rank: 412",
-        "link": "https://www.coingecko.com/en/coins/stonkbroker"
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 62",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bubblemaps (BMT)",
+        "summary": "market cap rank: 658",
+        "link": "https://www.coingecko.com/en/coins/bubblemaps"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Tutorial (TUT)",
+        "summary": "market cap rank: 200",
+        "link": "https://www.coingecko.com/en/coins/tutorial"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Nillion (NIL)",
+        "summary": "market cap rank: 752",
+        "link": "https://www.coingecko.com/en/coins/nillion"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdssqQRgWvS4u6dLZuR1Y'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdtZnT22iwQDRqTwiQmqT'}"
   }
 }
