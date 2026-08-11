@@ -1,69 +1,104 @@
 {
-  "generated_at_utc": "2026-08-11T05:50:33.344265+00:00",
+  "generated_at_utc": "2026-08-11T14:13:32.129585+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
+        "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+        "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+        "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+        "published": "Tue, 11 Aug 2026 14:11:05 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
         "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
         "link": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-        "published": "Tue, 11 Aug 2026 01:52:04 GMT"
+        "published": "Tue, 11 Aug 2026 13:48:36 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
-        "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
-        "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-        "published": "Mon, 10 Aug 2026 22:09:00 GMT"
+        "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
+        "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+        "link": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+        "published": "Tue, 11 Aug 2026 07:17:00 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade",
-        "summary": "Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.",
-        "link": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
-        "published": "Tue, 11 Aug 2026 05:01:40 GMT"
+        "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
+        "summary": "The marketing changes come amid an investigation by the Commodity Futures Trading Commission into the company's promotional practices.",
+        "link": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
+        "published": "Tue, 11 Aug 2026 13:56:28 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
-        "summary": "A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani on graft charges.",
-        "link": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html",
-        "published": "Tue, 11 Aug 2026 04:59:53 GMT"
+        "title": "Baby products company Frida is expanding into kids’ personal care",
+        "summary": "Baby products company Frida is launching a new category of personal care items for kids, tapping into a growing market and largely untapped space.",
+        "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+        "published": "Tue, 11 Aug 2026 12:00:02 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
-        "summary": "More American movie stars have appeared in China this year, reflecting Hollywood's market interests amid political tensions.",
-        "link": "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html",
-        "published": "Mon, 10 Aug 2026 23:00:14 GMT"
+        "title": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
+        "summary": "His comments come shortly after deadly Russian attacks on cities across Ukraine overnight.",
+        "link": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
+        "published": "Tue, 11 Aug 2026 12:55:25 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
-        "summary": "GDP growth for 2026 is now expected to come in at 4.5% to 5.5%, more than double the low end of its previous forecast of 2%-4%",
-        "link": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html",
-        "published": "Tue, 11 Aug 2026 02:58:27 GMT"
+        "title": "Parents could put pre-tax paycheck money into Trump Accounts, with employers matching, Treasury says",
+        "summary": "The U.S. Department of Treasury issued guidance that could allow parents to make pre-tax contributions to a child's Trump Account directly from their paycheck.",
+        "link": "https://www.cnbc.com/2026/08/11/trump-accounts-employer-match-paycheck-contributions-treasury.html",
+        "published": "Tue, 11 Aug 2026 13:49:30 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
-        "summary": "The order builds on the Trump administration's efforts to reshape the childhood shot schedule under HHS Secretary RFK Jr., a longtime vaccine skeptic.",
-        "link": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
-        "published": "Mon, 10 Aug 2026 20:51:17 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump Media posts $238 million second-quarter loss as crypto declines",
-        "summary": "TMTG said it has signed more than 10 customer agreements for Truth API, the service offering faster access to President Donald Trump's posts.",
-        "link": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
-        "published": "Mon, 10 Aug 2026 22:33:55 GMT"
+        "title": "Interest rates may stay higher for longer. What that means for consumers",
+        "summary": "Any move toward higher rates would increase borrowing costs for consumers at a time when affordability pressures are already mounting.",
+        "link": "https://www.cnbc.com/2026/08/10/fed-rate-hike-prospects-higher-interest-rates.html",
+        "published": "Mon, 10 Aug 2026 16:10:05 GMT"
       },
       {
         "source": "BBC World",
-        "title": "At least 132 killed in Colombia's largest  earthquake in years",
+        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+        "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 11 Aug 2026 09:58:45 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 11 Aug 2026 09:39:58 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+        "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+        "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 11 Aug 2026 10:43:07 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "At least 169 killed in Colombia's largest  earthquake in years",
         "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
         "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 11 Aug 2026 04:06:07 GMT"
+        "published": "Tue, 11 Aug 2026 13:21:32 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Libyan authorities battle big blaze at major oil refinery",
+        "summary": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
+        "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 11 Aug 2026 08:28:24 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
+        "summary": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
+        "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 11 Aug 2026 07:55:22 GMT"
       },
       {
         "source": "BBC World",
@@ -80,205 +115,170 @@
         "published": "Mon, 10 Aug 2026 20:45:29 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 10 Aug 2026 14:34:25 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 10 Aug 2026 14:43:08 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-        "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 10 Aug 2026 19:17:11 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-        "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
-        "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 10 Aug 2026 16:52:47 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-        "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 11 Aug 2026 02:43:01 GMT"
+        "source": "CoinDesk",
+        "title": "Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
+        "published": "Tue, 11 Aug 2026 13:06:07 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
+        "title": "MoneyGram expands on Solana with global crypto-to-cash service",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
-        "published": "Tue, 11 Aug 2026 05:26:37 +0000"
+        "link": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
+        "published": "Tue, 11 Aug 2026 12:02:22 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+        "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
-        "published": "Tue, 11 Aug 2026 04:50:23 +0000"
+        "link": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+        "published": "Tue, 11 Aug 2026 11:45:47 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+        "title": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-        "published": "Tue, 11 Aug 2026 04:07:48 +0000"
+        "link": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
+        "published": "Tue, 11 Aug 2026 11:24:56 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
+        "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
-        "published": "Tue, 11 Aug 2026 03:48:40 +0000"
+        "link": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
+        "published": "Tue, 11 Aug 2026 11:23:25 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+        "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
-        "published": "Mon, 10 Aug 2026 21:12:07 +0000"
+        "link": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
+        "published": "Tue, 11 Aug 2026 11:13:55 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+        "title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
         "summary": "",
-        "link": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
-        "published": "Mon, 10 Aug 2026 20:20:06 +0000"
+        "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
+        "published": "Tue, 11 Aug 2026 11:04:28 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
+        "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
         "summary": "",
-        "link": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-        "published": "Mon, 10 Aug 2026 20:03:24 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
-        "published": "Mon, 10 Aug 2026 15:02:14 +0000"
+        "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
+        "published": "Tue, 11 Aug 2026 10:48:08 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 11 Aug 2026 05:39:31 +0000"
+        "title": "ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-inside-the-mas-sandbox-how-ripple-is-testing-rlusd-for-real-trade-settlements.png\" /></p><p>Shipfinex plans to bring 35 vessels onchain through ADI Chain as tokenization expands into the multitrillion-dollar maritime industry.</p>",
+        "link": "https://cointelegraph.com/news/adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 11 Aug 2026 13:59:20 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-        "summary": "score: 449, comments: 419",
-        "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-        "score": 449
+        "title": "France to ban unsolicited telemarketing calls",
+        "summary": "score: 598, comments: 328",
+        "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+        "score": 598
       },
       {
         "source": "Hacker News",
-        "title": "Sonic Pi v5",
-        "summary": "score: 340, comments: 84",
-        "link": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-        "score": 340
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "summary": "score: 559, comments: 529",
+        "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "score": 559
+      },
+      {
+        "source": "Hacker News",
+        "title": "As AI eats the web, the internet’s collective memory is disappearing",
+        "summary": "score: 527, comments: 616",
+        "link": "https://thewalrus.ca/google-search-is-dying/",
+        "score": 527
       },
       {
         "source": "Hacker News",
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-        "summary": "score: 261, comments: 100",
+        "summary": "score: 420, comments: 155",
         "link": "https://cactuscompute.com/needle",
-        "score": 261
-      },
-      {
-        "source": "Hacker News",
-        "title": "Stowaway – Take the window seat on any plane or satellite overhead",
-        "summary": "score: 203, comments: 25",
-        "link": "https://stowaway.live/",
-        "score": 203
-      },
-      {
-        "source": "Hacker News",
-        "title": "Rust SIMD on the GPU",
-        "summary": "score: 162, comments: 75",
-        "link": "https://www.vectorware.com/blog/simd-on-gpu/",
-        "score": 162
+        "score": 420
       },
       {
         "source": "Hacker News",
         "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-        "summary": "score: 159, comments: 18",
+        "summary": "score: 355, comments: 77",
         "link": "https://github.com/antirez/h3.c",
-        "score": 159
+        "score": 355
       },
       {
         "source": "Hacker News",
         "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-        "summary": "score: 137, comments: 37",
+        "summary": "score: 240, comments: 85",
         "link": "https://everycube.alen.is/",
-        "score": 137
+        "score": 240
       },
       {
         "source": "Hacker News",
         "title": "Chicken Scheme 6.0",
-        "summary": "score: 123, comments: 15",
+        "summary": "score: 239, comments: 32",
         "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-        "score": 123
+        "score": 239
+      },
+      {
+        "source": "Hacker News",
+        "title": "LFM2.5 2.6B model competitive with 4x larger models",
+        "summary": "score: 108, comments: 31",
+        "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "score": 108
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "DAPPOS (DOS)",
-        "summary": "market cap rank: 257",
-        "link": "https://www.coingecko.com/en/coins/dappos"
+        "title": "Velvet (VELVET)",
+        "summary": "market cap rank: 123",
+        "link": "https://www.coingecko.com/en/coins/velvet"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pons (PONS)",
+        "summary": "market cap rank: 587",
+        "link": "https://www.coingecko.com/en/coins/pons"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 203",
+        "summary": "market cap rank: 195",
         "link": "https://www.coingecko.com/en/coins/cash-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Cysic (CYS)",
-        "summary": "market cap rank: 153",
-        "link": "https://www.coingecko.com/en/coins/cysic"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "StonkBroker (STONKBROKER)",
-        "summary": "market cap rank: 419",
-        "link": "https://www.coingecko.com/en/coins/stonkbroker"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pump.fun (PUMP)",
-        "summary": "market cap rank: 63",
-        "link": "https://www.coingecko.com/en/coins/pump-fun"
+        "title": "DAPPOS (DOS)",
+        "summary": "market cap rank: 274",
+        "link": "https://www.coingecko.com/en/coins/dappos"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 107",
+        "summary": "market cap rank: 105",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Audiera (BEAT)",
+        "summary": "market cap rank: 131",
+        "link": "https://www.coingecko.com/en/coins/audiera"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdvSMrh4qRFd2vgKe5Fue'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdw6iUzrNMMNiAtRjw8eK'}"
   }
 }
