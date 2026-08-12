@@ -1,69 +1,62 @@
 {
-  "generated_at_utc": "2026-08-12T06:07:20.311857+00:00",
+  "generated_at_utc": "2026-08-12T14:15:13.128906+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+        "summary": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
+        "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+        "published": "Wed, 12 Aug 2026 13:29:29 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Mortgage rates finally stop rising, causing demand to trickle back",
+        "summary": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
+        "link": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
+        "published": "Wed, 12 Aug 2026 12:13:45 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+        "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+        "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+        "published": "Wed, 12 Aug 2026 14:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
+        "summary": "It's been a wild summer for stocks, even if it may not feel like it at surface level.",
+        "link": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
+        "published": "Wed, 12 Aug 2026 13:59:17 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
         "summary": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
         "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-        "published": "Wed, 12 Aug 2026 05:58:30 GMT"
+        "published": "Wed, 12 Aug 2026 12:28:39 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
-        "summary": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
-        "link": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-        "published": "Wed, 12 Aug 2026 03:37:00 GMT"
+        "title": "CoreWeave surges 18% after a 'cleaner quarter.' Here's what's happening",
+        "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
+        "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+        "published": "Wed, 12 Aug 2026 14:13:03 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
-        "summary": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
-        "link": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
-        "published": "Wed, 12 Aug 2026 05:00:01 GMT"
+        "title": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
+        "summary": "Eclipse demand pushed some Spain and Iceland stays above $1,000 a night, while Iceland hotels cut prices sharply closer to Aug. 12.",
+        "link": "https://www.cnbc.com/2026/08/12/solar-eclipse-europe-hotel-prices.html",
+        "published": "Wed, 12 Aug 2026 13:40:40 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
-        "summary": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
-        "link": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
-        "published": "Wed, 12 Aug 2026 02:58:04 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
-        "summary": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
-        "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
-        "published": "Tue, 11 Aug 2026 22:51:06 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
-        "summary": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.",
-        "link": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
-        "published": "Tue, 11 Aug 2026 19:41:17 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-        "summary": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
-        "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-        "published": "Tue, 11 Aug 2026 18:09:08 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-        "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
-        "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-        "published": "Tue, 11 Aug 2026 21:01:13 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-        "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-        "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 11 Aug 2026 19:09:52 GMT"
+        "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
+        "summary": "With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.",
+        "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
+        "published": "Wed, 12 Aug 2026 12:00:01 GMT"
       },
       {
         "source": "BBC World",
@@ -81,192 +74,193 @@
       },
       {
         "source": "BBC World",
-        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-        "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 11 Aug 2026 21:14:56 GMT"
+        "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+        "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 12 Aug 2026 11:28:02 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Baby Shark Boy set to make K-pop debut",
-        "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
-        "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 12 Aug 2026 03:26:32 GMT"
+        "title": "Israeli settlers besieging Palestinian families in West Bank village",
+        "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 12 Aug 2026 14:03:48 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-        "summary": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings.",
-        "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 12 Aug 2026 04:29:02 GMT"
+        "title": "US inflation eases as food and fuel costs cool",
+        "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+        "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 12 Aug 2026 14:09:48 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Lebanon parliament votes to abolish death penalty",
-        "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-        "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 11 Aug 2026 15:24:07 GMT"
+        "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+        "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 12 Aug 2026 11:28:05 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Bondi Beach shooting hero's assault charges dropped by police",
-        "summary": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home.",
-        "link": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 12 Aug 2026 02:59:51 GMT"
+        "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+        "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 12 Aug 2026 12:10:45 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
+        "summary": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+        "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 12 Aug 2026 13:35:12 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
+        "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-        "published": "Wed, 12 Aug 2026 06:00:00 +0000"
+        "link": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
+        "published": "Wed, 12 Aug 2026 13:39:31 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+        "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-        "published": "Wed, 12 Aug 2026 05:26:55 +0000"
+        "link": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+        "published": "Wed, 12 Aug 2026 13:13:49 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Harmony’s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
+        "title": "America doesn’t need a second-class payments system",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
-        "published": "Wed, 12 Aug 2026 05:18:40 +0000"
+        "link": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
+        "published": "Wed, 12 Aug 2026 13:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+        "title": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
-        "published": "Wed, 12 Aug 2026 04:53:46 +0000"
+        "link": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected",
+        "published": "Wed, 12 Aug 2026 12:44:39 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
+        "title": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
-        "published": "Wed, 12 Aug 2026 04:33:25 +0000"
+        "link": "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
+        "published": "Wed, 12 Aug 2026 11:44:10 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
+        "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
-        "published": "Tue, 11 Aug 2026 21:38:13 +0000"
+        "link": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
+        "published": "Wed, 12 Aug 2026 11:19:32 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
+        "title": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
-        "published": "Tue, 11 Aug 2026 21:28:59 +0000"
+        "link": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
+        "published": "Wed, 12 Aug 2026 11:15:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
+        "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
-        "published": "Tue, 11 Aug 2026 19:06:23 +0000"
+        "link": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
+        "published": "Wed, 12 Aug 2026 10:30:10 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC invokes emergency powers to keep Kalshi operating in New York fight\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cftc-vs-binance.png\" /></p><p>The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.</p>",
-        "link": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 12 Aug 2026 04:53:26 +0000"
+        "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi launches sports and crypto perps data feed on DoubleZero\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-comparison-us-elections-2.jpg\" /></p><p>Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero’s dedicated fiber network to bolster institutional data access.</p>",
+        "link": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 12 Aug 2026 13:58:41 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "summary": "score: 579, comments: 259",
-        "link": "https://stolen-thoughts.com/",
-        "score": 579
+        "title": "LinkedIn CringeBot 3000",
+        "summary": "score: 413, comments: 169",
+        "link": "https://www.cringebot3000.com/",
+        "score": 413
       },
       {
         "source": "Hacker News",
-        "title": "Compression is prediction",
-        "summary": "score: 428, comments: 172",
-        "link": "https://ngrok.com/blog/compression-is-prediction",
-        "score": 428
+        "title": "Facebook is paying controversial creators to produce rage-bait content",
+        "summary": "score: 350, comments: 213",
+        "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+        "score": 350
       },
       {
         "source": "Hacker News",
-        "title": "OpenAI’s head of ethics leaves less than a year after joining",
-        "summary": "score: 365, comments: 381",
-        "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-        "score": 365
+        "title": "The hardest working font in Manhattan (2025)",
+        "summary": "score: 294, comments: 46",
+        "link": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+        "score": 294
       },
       {
         "source": "Hacker News",
-        "title": "Mojo 1.0",
-        "summary": "score: 354, comments: 163",
-        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-        "score": 354
+        "title": "2026 Eclipse Webcams",
+        "summary": "score: 206, comments: 51",
+        "link": "https://jonty.github.io/2026_eclipse_webcams/",
+        "score": 206
       },
       {
         "source": "Hacker News",
-        "title": "Grok Bot",
-        "summary": "score: 233, comments: 183",
-        "link": "https://x.ai/bot",
-        "score": 233
+        "title": "What sort of maths are LLMs good at?",
+        "summary": "score: 158, comments: 67",
+        "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+        "score": 158
       },
       {
         "source": "Hacker News",
-        "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-        "summary": "score: 208, comments: 110",
-        "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-        "score": 208
+        "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+        "summary": "score: 140, comments: 15",
+        "link": "https://woxi.ad-si.com",
+        "score": 140
       },
       {
         "source": "Hacker News",
-        "title": "WorldClaw Agentic 3D open-world generation at scale",
-        "summary": "score: 184, comments: 56",
-        "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-        "score": 184
+        "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+        "summary": "score: 78, comments: 6",
+        "link": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+        "score": 78
       },
       {
         "source": "Hacker News",
-        "title": "Making holograms with a pen plotter",
-        "summary": "score: 142, comments: 14",
-        "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-        "score": 142
+        "title": "Delphi 13 Community Edition Is Now Available",
+        "summary": "score: 68, comments: 52",
+        "link": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+        "score": 68
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
+        "title": "aPriori (APR)",
+        "summary": "market cap rank: 243",
+        "link": "https://www.coingecko.com/en/coins/apriori"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Thinking Cat (HMM)",
-        "summary": "market cap rank: 896",
+        "summary": "market cap rank: 833",
         "link": "https://www.coingecko.com/en/coins/thinking-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 207",
-        "link": "https://www.coingecko.com/en/coins/cash-cat"
+        "title": "StonkBroker (STONKBROKER)",
+        "summary": "market cap rank: 430",
+        "link": "https://www.coingecko.com/en/coins/stonkbroker"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pi Network (PI)",
-        "summary": "market cap rank: 66",
-        "link": "https://www.coingecko.com/en/coins/pi-network"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Holoworld (HOLO)",
-        "summary": "market cap rank: 172",
-        "link": "https://www.coingecko.com/en/coins/holoworld"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Cysic (CYS)",
-        "summary": "market cap rank: 159",
-        "link": "https://www.coingecko.com/en/coins/cysic"
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 64",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
       },
       {
         "source": "CoinGecko Trending",
@@ -279,6 +273,12 @@
         "title": "Bitcoin (BTC)",
         "summary": "market cap rank: 1",
         "link": "https://www.coingecko.com/en/coins/bitcoin"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Virtuals Protocol (VIRTUAL)",
+        "summary": "market cap rank: 110",
+        "link": "https://www.coingecko.com/en/coins/virtual-protocol"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdxMT2BsuscEVHVtzQ2ND'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdxzeqy7TPUwiSJScgysi'}"
   }
 }
