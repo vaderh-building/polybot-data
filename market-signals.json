@@ -1,13 +1,34 @@
 {
-  "generated_at_utc": "2026-08-15T13:23:29.435746+00:00",
+  "generated_at_utc": "2026-08-15T21:12:41.623174+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+        "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
+        "link": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+        "published": "Sat, 15 Aug 2026 14:19:35 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+        "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
+        "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "published": "Sat, 15 Aug 2026 14:45:31 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
         "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
         "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-        "published": "Sat, 15 Aug 2026 11:00:36 GMT"
+        "published": "Sat, 15 Aug 2026 20:38:29 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+        "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
+        "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
+        "published": "Sat, 15 Aug 2026 14:46:43 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -18,13 +39,6 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-        "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
-        "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
-        "published": "Fri, 14 Aug 2026 23:41:50 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "Berkshire adds $17 billion to Alphabet stake",
         "summary": "Google parent Alphabet is now the third largest holding in Berkshire Hathaway's equity portfolio.",
         "link": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
@@ -32,45 +46,45 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
-        "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.",
-        "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
-        "published": "Sat, 15 Aug 2026 12:30:01 GMT"
+        "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+        "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
+        "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+        "published": "Sat, 15 Aug 2026 17:35:09 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Beijing is said to move to clarify tax rules stoking confusion among China's ultra-wealthy",
-        "summary": "Beijing is said to be moving to clarify ambiguities in new tax rules on offshore trusts after the policy sowed confusion among wealthy Chinese and advisors.",
-        "link": "https://www.cnbc.com/2026/08/15/china-rich-tycoons-tax-overseas-investment-trust-insurance-capital-flows.html",
-        "published": "Sat, 15 Aug 2026 06:11:11 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
-        "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
-        "link": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
-        "published": "Sat, 15 Aug 2026 05:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
-        "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
-        "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-        "published": "Sat, 15 Aug 2026 12:00:01 GMT"
+        "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+        "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
+        "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+        "published": "Fri, 14 Aug 2026 23:41:50 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
         "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 12:31:55 GMT"
+        "published": "Sat, 15 Aug 2026 20:00:15 GMT"
       },
       {
         "source": "BBC World",
-        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-        "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
-        "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 00:01:53 GMT"
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 15 Aug 2026 20:58:31 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 15 Aug 2026 20:21:14 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+        "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+        "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 15 Aug 2026 19:41:57 GMT"
       },
       {
         "source": "BBC World",
@@ -81,38 +95,59 @@
       },
       {
         "source": "BBC World",
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 12:25:11 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "South Korea proposes talks to officially end war with North",
-        "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-        "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 09:35:23 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
         "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
         "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 10:56:22 GMT"
+        "published": "Sat, 15 Aug 2026 13:41:09 GMT"
       },
       {
         "source": "BBC World",
-        "title": "France's top court blocks social media ban for under-15s",
-        "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 14 Aug 2026 16:35:06 GMT"
+        "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+        "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+        "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 15 Aug 2026 19:34:22 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-        "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 14 Aug 2026 17:03:17 GMT"
+        "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+        "summary": "The fire burning through the major park was described as the country's worst in recent years.",
+        "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 15 Aug 2026 17:47:42 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
+        "published": "Sat, 15 Aug 2026 16:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
+        "published": "Sat, 15 Aug 2026 15:56:05 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
+        "published": "Sat, 15 Aug 2026 15:21:15 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
+        "published": "Sat, 15 Aug 2026 15:12:29 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+        "published": "Sat, 15 Aug 2026 14:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -136,149 +171,114 @@
         "published": "Fri, 14 Aug 2026 23:41:49 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
-        "published": "Fri, 14 Aug 2026 21:05:23 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
-        "published": "Fri, 14 Aug 2026 17:48:04 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
-        "published": "Fri, 14 Aug 2026 14:12:34 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Israel’s largest bank to offer crypto trading with Galaxy",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
-        "published": "Fri, 14 Aug 2026 13:51:37 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
-        "published": "Fri, 14 Aug 2026 11:33:50 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin-2.jpg\" /></p><p>Klippsten said Bitcoin could bottom about a year after its previous peak and argued that crypto’s best outcome is to become part of TradFi.</p>",
-        "link": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 15 Aug 2026 12:57:58 +0000"
+        "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg\" /></p><p>The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.</p>",
+        "link": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 15 Aug 2026 19:27:29 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Firefox is now the last major browser that still supports uBlock Origin",
-        "summary": "score: 1285, comments: 485",
-        "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-        "score": 1285
-      },
-      {
-        "source": "Hacker News",
-        "title": "Qwen 3.8 27B",
-        "summary": "score: 1221, comments: 723",
-        "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-        "score": 1221
-      },
-      {
-        "source": "Hacker News",
-        "title": "Google is making private AI practical with homomorphic encryption",
-        "summary": "score: 435, comments: 259",
-        "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-        "score": 435
-      },
-      {
-        "source": "Hacker News",
-        "title": "Going Dark, and the era of law enforcement hacking",
-        "summary": "score: 382, comments: 180",
-        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "score": 382
-      },
-      {
-        "source": "Hacker News",
         "title": "The other Sean Byrne doesn't exist",
-        "summary": "score: 256, comments: 127",
+        "summary": "score: 356, comments: 173",
         "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "score": 256
+        "score": 356
       },
       {
         "source": "Hacker News",
         "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "summary": "score: 84, comments: 20",
+        "summary": "score: 345, comments: 82",
         "link": "https://sankalp.bearblog.dev/autoresearch/",
-        "score": 84
+        "score": 345
       },
       {
         "source": "Hacker News",
-        "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
-        "summary": "score: 70, comments: 39",
-        "link": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
-        "score": 70
+        "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "summary": "score: 270, comments: 233",
+        "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "score": 270
       },
       {
         "source": "Hacker News",
-        "title": "The mathematical beauty of hyperbezier curves",
-        "summary": "score: 54, comments: 5",
-        "link": "https://linebender.org/blog/hyperbezier/",
-        "score": 54
+        "title": "Semaglutide linked to lower predicted dementia risk",
+        "summary": "score: 254, comments: 180",
+        "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+        "score": 254
+      },
+      {
+        "source": "Hacker News",
+        "title": "Working with AI Feels More Like Leadership Than Coding",
+        "summary": "score: 215, comments: 154",
+        "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+        "score": 215
+      },
+      {
+        "source": "Hacker News",
+        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+        "summary": "score: 171, comments: 58",
+        "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+        "score": 171
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+        "summary": "score: 167, comments: 86",
+        "link": "https://baselashraf81.github.io/eigendrum/",
+        "score": 167
+      },
+      {
+        "source": "Hacker News",
+        "title": "RISC-V: They Should Have Known Better",
+        "summary": "score: 165, comments: 269",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "score": 165
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "CoW Protocol (COW)",
-        "summary": "market cap rank: 258",
-        "link": "https://www.coingecko.com/en/coins/cow-protocol"
+        "title": "Nillion (NIL)",
+        "summary": "market cap rank: 698",
+        "link": "https://www.coingecko.com/en/coins/nillion"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "The Black Bull (ANSEM)",
-        "summary": "market cap rank: 242",
-        "link": "https://www.coingecko.com/en/coins/the-black-bull"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 108",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Venice Token (VVV)",
+        "summary": "market cap rank: 88",
+        "link": "https://www.coingecko.com/en/coins/venice-token"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Avalanche (AVAX)",
+        "summary": "market cap rank: 30",
+        "link": "https://www.coingecko.com/en/coins/avalanche"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Morpho (MORPHO)",
+        "summary": "market cap rank: 55",
+        "link": "https://www.coingecko.com/en/coins/morpho"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Sui (SUI)",
-        "summary": "market cap rank: 31",
+        "summary": "market cap rank: 32",
         "link": "https://www.coingecko.com/en/coins/sui"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "KiiChain (KII)",
-        "summary": "market cap rank: 719",
-        "link": "https://www.coingecko.com/en/coins/kiichain"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Walrus (WAL)",
-        "summary": "market cap rank: 328",
-        "link": "https://www.coingecko.com/en/coins/walrus-2"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Chainlink (LINK)",
-        "summary": "market cap rank: 17",
-        "link": "https://www.coingecko.com/en/coins/chainlink"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pump.fun (PUMP)",
-        "summary": "market cap rank: 64",
-        "link": "https://www.coingecko.com/en/coins/pump-fun"
+        "title": "Artificial Superintelligence Alliance (FET)",
+        "summary": "market cap rank: 128",
+        "link": "https://www.coingecko.com/en/coins/artificial-superintelligence-alliance"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce4c8omHGKqWEberSdosS'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce5Dv2Qd3pCe1KC5ApaYL'}"
   }
 }
