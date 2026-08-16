@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T21:12:41.623174+00:00",
+  "generated_at_utc": "2026-08-16T05:19:57.083800+00:00",
   "live_signals": {
     "english_news": [
       {
@@ -39,6 +39,13 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
+        "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.",
+        "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
+        "published": "Sat, 15 Aug 2026 12:30:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Berkshire adds $17 billion to Alphabet stake",
         "summary": "Google parent Alphabet is now the third largest holding in Berkshire Hathaway's equity portfolio.",
         "link": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
@@ -46,24 +53,17 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-        "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
-        "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-        "published": "Sat, 15 Aug 2026 17:35:09 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-        "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
-        "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
-        "published": "Fri, 14 Aug 2026 23:41:50 GMT"
+        "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+        "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+        "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+        "published": "Sat, 15 Aug 2026 12:00:01 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-        "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 20:00:15 GMT"
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 16 Aug 2026 04:13:32 GMT"
       },
       {
         "source": "BBC World",
@@ -88,17 +88,10 @@
       },
       {
         "source": "BBC World",
-        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-        "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-        "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 14 Aug 2026 17:36:27 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-        "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-        "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 13:41:09 GMT"
+        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+        "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 15 Aug 2026 21:03:57 GMT"
       },
       {
         "source": "BBC World",
@@ -109,10 +102,17 @@
       },
       {
         "source": "BBC World",
-        "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-        "summary": "The fire burning through the major park was described as the country's worst in recent years.",
-        "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 17:47:42 GMT"
+        "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+        "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 16 Aug 2026 03:54:11 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Australian state to launch gun buyback after Bondi Beach attack",
+        "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+        "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 15 Aug 2026 21:41:43 GMT"
       },
       {
         "source": "CoinDesk",
@@ -182,68 +182,62 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "The other Sean Byrne doesn't exist",
-        "summary": "score: 356, comments: 173",
-        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "score": 356
-      },
-      {
-        "source": "Hacker News",
-        "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "summary": "score: 345, comments: 82",
-        "link": "https://sankalp.bearblog.dev/autoresearch/",
-        "score": 345
-      },
-      {
-        "source": "Hacker News",
-        "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-        "summary": "score: 270, comments: 233",
-        "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "score": 270
-      },
-      {
-        "source": "Hacker News",
         "title": "Semaglutide linked to lower predicted dementia risk",
-        "summary": "score: 254, comments: 180",
+        "summary": "score: 390, comments: 273",
         "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-        "score": 254
-      },
-      {
-        "source": "Hacker News",
-        "title": "Working with AI Feels More Like Leadership Than Coding",
-        "summary": "score: 215, comments: 154",
-        "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-        "score": 215
-      },
-      {
-        "source": "Hacker News",
-        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-        "summary": "score: 171, comments: 58",
-        "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "score": 171
-      },
-      {
-        "source": "Hacker News",
-        "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-        "summary": "score: 167, comments: 86",
-        "link": "https://baselashraf81.github.io/eigendrum/",
-        "score": 167
+        "score": 390
       },
       {
         "source": "Hacker News",
         "title": "RISC-V: They Should Have Known Better",
-        "summary": "score: 165, comments: 269",
+        "summary": "score: 266, comments: 322",
         "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "score": 165
+        "score": 266
+      },
+      {
+        "source": "Hacker News",
+        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+        "summary": "score: 241, comments: 83",
+        "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+        "score": 241
+      },
+      {
+        "source": "Hacker News",
+        "title": "Asus Bike Booster",
+        "summary": "score: 233, comments: 126",
+        "link": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+        "score": 233
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cultivating a state of mind where new ideas are born (2023)",
+        "summary": "score: 122, comments: 30",
+        "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+        "score": 122
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI in drug discovery – what it is, where we stand and the path forward",
+        "summary": "score: 121, comments: 61",
+        "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "score": 121
+      },
+      {
+        "source": "Hacker News",
+        "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+        "summary": "score: 85, comments: 7",
+        "link": "https://duckdb.org/2026/07/31/asynchronous-io",
+        "score": 85
+      },
+      {
+        "source": "Hacker News",
+        "title": "Software Engineering fundamentals matter more",
+        "summary": "score: 54, comments: 5",
+        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+        "score": 54
       }
     ],
     "crypto_trending": [
-      {
-        "source": "CoinGecko Trending",
-        "title": "Nillion (NIL)",
-        "summary": "market cap rank: 698",
-        "link": "https://www.coingecko.com/en/coins/nillion"
-      },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
@@ -252,33 +246,39 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 88",
-        "link": "https://www.coingecko.com/en/coins/venice-token"
+        "title": "Ronin (RON)",
+        "summary": "market cap rank: 494",
+        "link": "https://www.coingecko.com/en/coins/ronin"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Avalanche (AVAX)",
-        "summary": "market cap rank: 30",
-        "link": "https://www.coingecko.com/en/coins/avalanche"
+        "title": "Chainlink (LINK)",
+        "summary": "market cap rank: 16",
+        "link": "https://www.coingecko.com/en/coins/chainlink"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Morpho (MORPHO)",
-        "summary": "market cap rank: 55",
-        "link": "https://www.coingecko.com/en/coins/morpho"
+        "title": "Pi Network (PI)",
+        "summary": "market cap rank: 67",
+        "link": "https://www.coingecko.com/en/coins/pi-network"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 32",
-        "link": "https://www.coingecko.com/en/coins/sui"
+        "title": "CoW Protocol (COW)",
+        "summary": "market cap rank: 292",
+        "link": "https://www.coingecko.com/en/coins/cow-protocol"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Artificial Superintelligence Alliance (FET)",
-        "summary": "market cap rank: 128",
-        "link": "https://www.coingecko.com/en/coins/artificial-superintelligence-alliance"
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ondo (ONDO)",
+        "summary": "market cap rank: 46",
+        "link": "https://www.coingecko.com/en/coins/ondo"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce5Dv2Qd3pCe1KC5ApaYL'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce5s56VkFAuzte6U7td45'}"
   }
 }
