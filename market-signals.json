@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2026-08-16T05:19:57.083800+00:00",
+  "generated_at_utc": "2026-08-16T13:24:14.363304+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+        "summary": "European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.",
+        "link": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+        "published": "Sun, 16 Aug 2026 09:45:45 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
@@ -25,31 +32,17 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+        "summary": "Investors looking for steady income can add dividend-paying energy stocks to their portfolios.",
+        "link": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+        "published": "Sun, 16 Aug 2026 11:58:15 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
         "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
         "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
         "published": "Sat, 15 Aug 2026 14:46:43 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-        "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
-        "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-        "published": "Fri, 14 Aug 2026 21:45:19 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
-        "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.",
-        "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
-        "published": "Sat, 15 Aug 2026 12:30:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Berkshire adds $17 billion to Alphabet stake",
-        "summary": "Google parent Alphabet is now the third largest holding in Berkshire Hathaway's equity portfolio.",
-        "link": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
-        "published": "Sat, 15 Aug 2026 12:50:41 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -59,11 +52,46 @@
         "published": "Sat, 15 Aug 2026 12:00:01 GMT"
       },
       {
+        "source": "CNBC Top News",
+        "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+        "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
+        "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+        "published": "Fri, 14 Aug 2026 18:00:01 GMT"
+      },
+      {
         "source": "BBC World",
-        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-        "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+        "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 16 Aug 2026 10:52:08 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
         "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 16 Aug 2026 04:13:32 GMT"
+        "published": "Sun, 16 Aug 2026 12:37:21 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+        "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 16 Aug 2026 12:53:43 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+        "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 16 Aug 2026 10:53:50 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+        "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+        "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 16 Aug 2026 11:35:25 GMT"
       },
       {
         "source": "BBC World",
@@ -74,10 +102,10 @@
       },
       {
         "source": "BBC World",
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 20:21:14 GMT"
+        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+        "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 16 Aug 2026 09:27:58 GMT"
       },
       {
         "source": "BBC World",
@@ -87,32 +115,18 @@
         "published": "Sat, 15 Aug 2026 19:41:57 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-        "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 21:03:57 GMT"
+        "source": "CoinDesk",
+        "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+        "summary": "",
+        "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+        "published": "Sun, 16 Aug 2026 13:00:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-        "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 19:34:22 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-        "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 16 Aug 2026 03:54:11 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Australian state to launch gun buyback after Bondi Beach attack",
-        "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
-        "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 15 Aug 2026 21:41:43 GMT"
+        "source": "CoinDesk",
+        "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+        "published": "Sun, 16 Aug 2026 12:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,128 +171,114 @@
         "published": "Sat, 15 Aug 2026 13:00:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-        "published": "Sat, 15 Aug 2026 12:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-        "published": "Fri, 14 Aug 2026 23:41:49 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg\" /></p><p>The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.</p>",
-        "link": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 15 Aug 2026 19:27:29 +0000"
+        "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hackers-fishing.jpg\" /></p><p>DefiLlama’s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet.</p>",
+        "link": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 16 Aug 2026 12:48:09 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Semaglutide linked to lower predicted dementia risk",
-        "summary": "score: 390, comments: 273",
-        "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-        "score": 390
-      },
-      {
-        "source": "Hacker News",
-        "title": "RISC-V: They Should Have Known Better",
-        "summary": "score: 266, comments: 322",
-        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "score": 266
-      },
-      {
-        "source": "Hacker News",
-        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-        "summary": "score: 241, comments: 83",
-        "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "score": 241
-      },
-      {
-        "source": "Hacker News",
         "title": "Asus Bike Booster",
-        "summary": "score: 233, comments: 126",
+        "summary": "score: 494, comments: 334",
         "link": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-        "score": 233
-      },
-      {
-        "source": "Hacker News",
-        "title": "Cultivating a state of mind where new ideas are born (2023)",
-        "summary": "score: 122, comments: 30",
-        "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
-        "score": 122
-      },
-      {
-        "source": "Hacker News",
-        "title": "AI in drug discovery – what it is, where we stand and the path forward",
-        "summary": "score: 121, comments: 61",
-        "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "score": 121
-      },
-      {
-        "source": "Hacker News",
-        "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-        "summary": "score: 85, comments: 7",
-        "link": "https://duckdb.org/2026/07/31/asynchronous-io",
-        "score": 85
+        "score": 494
       },
       {
         "source": "Hacker News",
         "title": "Software Engineering fundamentals matter more",
-        "summary": "score: 54, comments: 5",
+        "summary": "score: 207, comments: 138",
         "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-        "score": 54
+        "score": 207
+      },
+      {
+        "source": "Hacker News",
+        "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+        "summary": "score: 203, comments: 22",
+        "link": "https://duckdb.org/2026/07/31/asynchronous-io",
+        "score": 203
+      },
+      {
+        "source": "Hacker News",
+        "title": "Patterns and problems in emerging multi-agent systems",
+        "summary": "score: 141, comments: 95",
+        "link": "https://www.anthropic.com/research/multiagent-systems",
+        "score": 141
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chestnut – eGPU dock with open-source firmware",
+        "summary": "score: 51, comments: 11",
+        "link": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+        "score": 51
+      },
+      {
+        "source": "Hacker News",
+        "title": "Superconducting monolayer cuprate with a single CuO2 plane",
+        "summary": "score: 31, comments: 8",
+        "link": "https://www.nature.com/articles/s41586-026-10857-1",
+        "score": 31
+      },
+      {
+        "source": "Hacker News",
+        "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+        "summary": "score: 27, comments: 15",
+        "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+        "score": 27
+      },
+      {
+        "source": "Hacker News",
+        "title": "A SAT Attack on Tarski's High School Algebra Problem",
+        "summary": "score: 25, comments: 10",
+        "link": "https://arxiv.org/abs/2608.08421",
+        "score": 25
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
+        "title": "USD.AI (CHIP)",
+        "summary": "market cap rank: 377",
+        "link": "https://www.coingecko.com/en/coins/usd-ai"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "MarsCoin (MARSCOIN)",
+        "summary": "market cap rank: 412",
+        "link": "https://www.coingecko.com/en/coins/marscoin-4"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 108",
+        "summary": "market cap rank: 109",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Ronin (RON)",
-        "summary": "market cap rank: 494",
-        "link": "https://www.coingecko.com/en/coins/ronin"
+        "title": "Cash Cat (CASHCAT)",
+        "summary": "market cap rank: 223",
+        "link": "https://www.coingecko.com/en/coins/cash-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Chainlink (LINK)",
-        "summary": "market cap rank: 16",
-        "link": "https://www.coingecko.com/en/coins/chainlink"
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 9",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pi Network (PI)",
-        "summary": "market cap rank: 67",
-        "link": "https://www.coingecko.com/en/coins/pi-network"
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 30",
+        "link": "https://www.coingecko.com/en/coins/sui"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "CoW Protocol (COW)",
-        "summary": "market cap rank: 292",
-        "link": "https://www.coingecko.com/en/coins/cow-protocol"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Ondo (ONDO)",
-        "summary": "market cap rank: 46",
-        "link": "https://www.coingecko.com/en/coins/ondo"
+        "title": "Portal (PORTAL)",
+        "summary": "market cap rank: 978",
+        "link": "https://www.coingecko.com/en/coins/portal"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce5s56VkFAuzte6U7td45'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce6W12y7b2U5MnwRA2fez'}"
   }
 }
