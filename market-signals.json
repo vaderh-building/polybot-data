@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2026-08-16T21:11:51.555981+00:00",
+  "generated_at_utc": "2026-08-17T05:27:47.936715+00:00",
   "live_signals": {
     "english_news": [
-      {
-        "source": "CNBC Top News",
-        "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-        "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
-        "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
-        "published": "Sat, 15 Aug 2026 14:46:43 GMT"
-      },
       {
         "source": "CNBC Top News",
         "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
         "summary": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
         "link": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
         "published": "Sun, 16 Aug 2026 19:58:32 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
+        "summary": "On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.",
+        "link": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
+        "published": "Mon, 17 Aug 2026 02:21:02 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -39,17 +39,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
-        "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.",
-        "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
-        "published": "Sat, 15 Aug 2026 12:30:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-        "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
-        "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-        "published": "Sat, 15 Aug 2026 14:45:31 GMT"
+        "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+        "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
+        "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
+        "published": "Sat, 15 Aug 2026 14:46:43 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -59,11 +52,25 @@
         "published": "Sat, 15 Aug 2026 14:35:01 GMT"
       },
       {
+        "source": "CNBC Top News",
+        "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+        "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+        "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+        "published": "Sat, 15 Aug 2026 12:00:01 GMT"
+      },
+      {
         "source": "BBC World",
-        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-        "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+        "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
         "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 16 Aug 2026 19:58:14 GMT"
+        "published": "Mon, 17 Aug 2026 04:50:56 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 17 Aug 2026 05:06:47 GMT"
       },
       {
         "source": "BBC World",
@@ -74,45 +81,52 @@
       },
       {
         "source": "BBC World",
+        "title": "Heroes actress Hayden Panettiere dies aged 36",
+        "summary": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.",
+        "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 17 Aug 2026 05:15:46 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+        "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 17 Aug 2026 04:41:31 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Record rains drench South Korean city as landslide kills one",
+        "summary": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 17 Aug 2026 04:34:09 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+        "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+        "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 16 Aug 2026 13:34:38 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
         "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
         "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
         "published": "Sun, 16 Aug 2026 19:50:36 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-        "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
-        "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 16 Aug 2026 19:00:23 GMT"
+        "source": "CoinDesk",
+        "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
+        "published": "Mon, 17 Aug 2026 04:43:03 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-        "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
-        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 16 Aug 2026 18:46:12 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 16 Aug 2026 12:37:21 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-        "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
-        "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 16 Aug 2026 11:35:25 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-        "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 16 Aug 2026 09:27:58 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+        "published": "Mon, 17 Aug 2026 04:14:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,104 +171,102 @@
         "published": "Sun, 16 Aug 2026 12:00:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
-        "published": "Sat, 15 Aug 2026 16:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
-        "published": "Sat, 15 Aug 2026 15:56:05 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hackers-fishing.jpg\" /></p><p>DefiLlama’s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet.</p>",
-        "link": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 16 Aug 2026 12:48:09 +0000"
+        "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainalysis sues US over $95M ICE contract with TRM Labs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/court-crypto-lawsuit-us.png\" /></p><p>The sealed complaint leaves Chainalysis’ specific objections and requested remedy undisclosed as briefing continues.</p>",
+        "link": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 17 Aug 2026 03:42:48 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Firefox for iOS now has a native adblocker",
-        "summary": "score: 445, comments: 189",
-        "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-        "score": 445
-      },
-      {
-        "source": "Hacker News",
         "title": "Claude: System Prompts",
-        "summary": "score: 435, comments: 190",
+        "summary": "score: 597, comments: 244",
         "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "score": 435
+        "score": 597
       },
       {
         "source": "Hacker News",
-        "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-        "summary": "score: 224, comments: 120",
+        "title": "A third world engineer responds to ”RISC-V: They should have known better“",
+        "summary": "score: 426, comments: 230",
         "link": "https://rvembedded.com/blog_post/12/",
-        "score": 224
+        "score": 426
       },
       {
         "source": "Hacker News",
-        "title": "The AI Credit Resale Economy",
-        "summary": "score: 187, comments: 69",
-        "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "score": 187
+        "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+        "summary": "score: 237, comments: 99",
+        "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+        "score": 237
       },
       {
         "source": "Hacker News",
-        "title": "Models Are Getting Dumber on Purpose",
-        "summary": "score: 148, comments: 92",
-        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-        "score": 148
+        "title": "The Life and Death of Direct File [pdf]",
+        "summary": "score: 142, comments: 64",
+        "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+        "score": 142
       },
       {
         "source": "Hacker News",
-        "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-        "summary": "score: 125, comments: 89",
-        "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-        "score": 125
+        "title": "Low-Tech Ceramic Water Filter",
+        "summary": "score: 139, comments: 34",
+        "link": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+        "score": 139
       },
       {
         "source": "Hacker News",
-        "title": "NIH is ending a key grant for budding clinical researchers",
-        "summary": "score: 111, comments: 53",
-        "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-        "score": 111
+        "title": "Protobuf has LSP support. You're welcome",
+        "summary": "score: 135, comments: 87",
+        "link": "https://buf.build/blog/protobuf-lsp",
+        "score": 135
       },
       {
         "source": "Hacker News",
-        "title": "Clamiga: Common Lisp for the Amiga",
-        "summary": "score: 61, comments: 4",
-        "link": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-        "score": 61
+        "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+        "summary": "score: 96, comments: 41",
+        "link": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+        "score": 96
+      },
+      {
+        "source": "Hacker News",
+        "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
+        "summary": "score: 59, comments: 22",
+        "link": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
+        "score": 59
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Bitway (BTW)",
-        "summary": "market cap rank: 64",
-        "link": "https://www.coingecko.com/en/coins/bitway"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 109",
+        "summary": "market cap rank: 110",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 42",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
+        "title": "Fusionist (ACE)",
+        "summary": "market cap rank: 866",
+        "link": "https://www.coingecko.com/en/coins/fusionist"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 61",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Cash Cat (CASHCAT)",
+        "summary": "market cap rank: 235",
+        "link": "https://www.coingecko.com/en/coins/cash-cat"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 9",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       },
       {
         "source": "CoinGecko Trending",
@@ -264,21 +276,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "USD.AI (CHIP)",
-        "summary": "market cap rank: 365",
-        "link": "https://www.coingecko.com/en/coins/usd-ai"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Portal (PORTAL)",
-        "summary": "market cap rank: 925",
-        "link": "https://www.coingecko.com/en/coins/portal"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 9",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "Uniswap (UNI)",
+        "summary": "market cap rank: 39",
+        "link": "https://www.coingecko.com/en/coins/uniswap"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce77fFP81JNkaspDtzgZF'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce7mUin1WfVRtHVvdykJv'}"
   }
 }
