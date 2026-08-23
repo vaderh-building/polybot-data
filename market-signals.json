@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2026-08-23T13:25:46.161181+00:00",
+  "generated_at_utc": "2026-08-23T21:13:12.789416+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+        "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+        "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+        "published": "Sun, 23 Aug 2026 12:00:01 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
@@ -11,10 +18,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-        "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
-        "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-        "published": "Sun, 23 Aug 2026 12:00:01 GMT"
+        "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+        "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
+        "link": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+        "published": "Sun, 23 Aug 2026 17:58:06 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -32,13 +39,6 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-        "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
-        "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-        "published": "Sun, 23 Aug 2026 06:39:00 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
         "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
         "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
@@ -46,24 +46,17 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
-        "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
-        "link": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
-        "published": "Sun, 23 Aug 2026 12:46:01 GMT"
+        "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+        "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+        "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+        "published": "Sun, 23 Aug 2026 06:39:00 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
-        "summary": "A new survey shows even a $500 unexpected expense may throw households off track when it comes to big life goals like saving for retirement.",
-        "link": "https://www.cnbc.com/2026/08/22/emergency-savings-workers-financial-strain.html",
-        "published": "Sat, 22 Aug 2026 13:30:01 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 23 Aug 2026 05:46:43 GMT"
+        "title": "Here are the 2 big things we're watching in the stock market this week",
+        "summary": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.",
+        "link": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+        "published": "Sun, 23 Aug 2026 16:56:02 GMT"
       },
       {
         "source": "BBC World",
@@ -74,10 +67,31 @@
       },
       {
         "source": "BBC World",
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 23 Aug 2026 19:11:30 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Guinea rubbish landfill collapse kills 30",
+        "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 23 Aug 2026 18:17:37 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "DR Congo and M23 rebels agree roadmap for peace talks",
         "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
         "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
         "published": "Sun, 23 Aug 2026 12:52:08 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "France links sharp rise in drownings to heatwaves",
+        "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+        "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 23 Aug 2026 17:39:33 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +102,45 @@
       },
       {
         "source": "BBC World",
-        "title": "The hotel booking mix-up that could free mushroom murderer",
-        "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
-        "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 22 Aug 2026 19:03:03 GMT"
+        "title": "Trump waves green flag to start IndyCar race through Washington streets",
+        "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+        "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 23 Aug 2026 20:19:36 GMT"
       },
       {
         "source": "BBC World",
-        "title": "'New season, new trim' - Haaland reveals buzzcut",
-        "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 23 Aug 2026 12:36:54 GMT"
+        "title": "Frustration builds in Indiana town struggling without power for 12 days",
+        "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+        "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 23 Aug 2026 15:54:32 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-        "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
-        "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 22 Aug 2026 23:45:01 GMT"
+        "source": "CoinDesk",
+        "title": "Regulation Crypto is here: State of Crypto",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+        "published": "Sun, 23 Aug 2026 18:30:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-        "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-        "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 23 Aug 2026 03:44:19 GMT"
+        "source": "CoinDesk",
+        "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+        "published": "Sun, 23 Aug 2026 15:52:21 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+        "published": "Sun, 23 Aug 2026 15:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+        "published": "Sun, 23 Aug 2026 13:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -143,130 +171,84 @@
         "published": "Sat, 22 Aug 2026 13:30:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-        "published": "Sat, 22 Aug 2026 12:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-        "published": "Sat, 22 Aug 2026 05:37:43 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-        "published": "Sat, 22 Aug 2026 05:05:13 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Crypto advocates join in suing Illinois over digital asset tax",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
-        "published": "Fri, 21 Aug 2026 22:10:28 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA is coming for DeFi vaults, but regulation will be difficult\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg\" /></p><p>Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.</p>",
-        "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 22 Aug 2026 13:30:00 +0000"
+        "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed study finds crypto investors driven by beliefs, easily swayed by returns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg\" /></p><p>A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both de",
+        "link": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 23 Aug 2026 15:30:53 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-        "summary": "score: 424, comments: 128",
-        "link": "https://quantumi.sh/public/labs.html",
-        "score": 424
+        "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+        "summary": "score: 549, comments: 237",
+        "link": "https://ericpardee.github.io/fire-hd-ownership/",
+        "score": 549
       },
       {
         "source": "Hacker News",
-        "title": "Hister – A private, full content search index that you control",
-        "summary": "score: 397, comments: 87",
-        "link": "https://hister.org/",
-        "score": 397
+        "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+        "summary": "score: 306, comments: 122",
+        "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+        "score": 306
       },
       {
         "source": "Hacker News",
-        "title": "Why your local LLM feels dumber than it is",
-        "summary": "score: 395, comments: 156",
-        "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "score": 395
+        "title": "What Is a Harness?",
+        "summary": "score: 205, comments: 110",
+        "link": "https://earendil.com/posts/what-is-a-harness/",
+        "score": 205
       },
       {
         "source": "Hacker News",
-        "title": "Scrap (2006)",
-        "summary": "score: 384, comments: 205",
-        "link": "https://twitter.com/moxie/status/2091218652133732491",
-        "score": 384
+        "title": "Malware infects Android-based automotive head unit firmware",
+        "summary": "score: 189, comments: 87",
+        "link": "https://securelist.com/android-head-unit-malware/121106/",
+        "score": 189
       },
       {
         "source": "Hacker News",
-        "title": "To become a better writer, read as much as you can",
-        "summary": "score: 256, comments: 167",
-        "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-        "score": 256
+        "title": "A website for debloated open source alternatives",
+        "summary": "score: 185, comments: 70",
+        "link": "https://debloat.dev/",
+        "score": 185
       },
       {
         "source": "Hacker News",
-        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-        "summary": "score: 143, comments: 53",
-        "link": "https://martypc.net/",
-        "score": 143
+        "title": "How Complex Systems Fail (1998)",
+        "summary": "score: 171, comments: 50",
+        "link": "https://how.complexsystems.fail/",
+        "score": 171
       },
       {
         "source": "Hacker News",
-        "title": "The End of an Athlon",
-        "summary": "score: 128, comments: 50",
-        "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-        "score": 128
+        "title": "My favorite nonfiction books about cults, scams, and schemes",
+        "summary": "score: 163, comments: 58",
+        "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+        "score": 163
       },
       {
         "source": "Hacker News",
-        "title": "The Art and Beauty of Blade Runner (2015)",
-        "summary": "score: 117, comments: 50",
-        "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-        "score": 117
+        "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+        "summary": "score: 114, comments: 101",
+        "link": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+        "score": 114
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "The Interfold (FOLD)",
-        "summary": "market cap rank: 536",
-        "link": "https://www.coingecko.com/en/coins/interfold"
+        "title": "Elon's Space Cat (CATALORIAN)",
+        "summary": "market cap rank: 939",
+        "link": "https://www.coingecko.com/en/coins/elon-s-space-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pump.fun (PUMP)",
-        "summary": "market cap rank: 43",
-        "link": "https://www.coingecko.com/en/coins/pump-fun"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 80",
-        "link": "https://www.coingecko.com/en/coins/lighter"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Ethena (ENA)",
-        "summary": "market cap rank: 50",
-        "link": "https://www.coingecko.com/en/coins/ethena"
+        "title": "CyberLeek (CYBERLEEK)",
+        "summary": "market cap rank: 975",
+        "link": "https://www.coingecko.com/en/coins/cyberleek"
       },
       {
         "source": "CoinGecko Trending",
@@ -276,9 +258,27 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "pipedog (PIPEDOG)",
-        "summary": "market cap rank: 693",
-        "link": "https://www.coingecko.com/en/coins/pipedog"
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 45",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Zcash (ZEC)",
+        "summary": "market cap rank: 10",
+        "link": "https://www.coingecko.com/en/coins/zcash"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 78",
+        "link": "https://www.coingecko.com/en/coins/lighter"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bittensor (TAO)",
+        "summary": "market cap rank: 40",
+        "link": "https://www.coingecko.com/en/coins/bittensor"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeKknDCwn2Tt5e8hqF4tX'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeLNReT6hGfJkbKHxDTKq'}"
   }
 }
