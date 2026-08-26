@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-08-25T21:19:02.169697+00:00",
+  "generated_at_utc": "2026-08-26T05:25:29.108521+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
+        "summary": "Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.",
+        "link": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
+        "published": "Wed, 26 Aug 2026 02:34:28 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
+        "summary": "Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.",
+        "link": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
+        "published": "Wed, 26 Aug 2026 01:07:28 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+        "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
+        "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+        "published": "Wed, 26 Aug 2026 04:20:31 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+        "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+        "link": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+        "published": "Tue, 25 Aug 2026 21:26:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+        "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+        "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+        "published": "Tue, 25 Aug 2026 16:00:40 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+        "summary": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
+        "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
+        "published": "Wed, 26 Aug 2026 02:06:21 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
@@ -11,52 +53,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-        "summary": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
-        "link": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
-        "published": "Tue, 25 Aug 2026 17:15:50 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-        "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
-        "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-        "published": "Tue, 25 Aug 2026 20:32:15 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Is the K-shaped economy ending? Finance pros weigh in",
-        "summary": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story.",
-        "link": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
-        "published": "Tue, 25 Aug 2026 21:05:27 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
-        "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
-        "link": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
-        "published": "Tue, 25 Aug 2026 20:05:46 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Bond rout ending? Massive bets on bond rally dominate options market",
-        "summary": "There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out.",
-        "link": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
-        "published": "Tue, 25 Aug 2026 19:42:17 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
-        "summary": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year.",
-        "link": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
-        "published": "Tue, 25 Aug 2026 19:52:43 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Cash is no longer king in home sales",
-        "summary": "Cash buyers are a diminishing share of the overall housing market, as more supply and weaker prices give all buyers more purchasing power.",
-        "link": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
-        "published": "Tue, 25 Aug 2026 16:38:40 GMT"
+        "title": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
+        "summary": "Indonesia has set an ambitious growth target, but economists aren't sure it can get there while keeping the deficit in check.",
+        "link": "https://www.cnbc.com/2026/08/26/indonesia-economy-growth-ambitions-economists.html",
+        "published": "Wed, 26 Aug 2026 04:50:05 GMT"
       },
       {
         "source": "BBC World",
@@ -116,6 +116,41 @@
       },
       {
         "source": "CoinDesk",
+        "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
+        "published": "Wed, 26 Aug 2026 05:16:32 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
+        "published": "Wed, 26 Aug 2026 04:51:49 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+        "published": "Wed, 26 Aug 2026 04:13:10 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+        "published": "Tue, 25 Aug 2026 21:56:57 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Zerohash back for second effort at OCC trust bank charter",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
+        "published": "Tue, 25 Aug 2026 21:38:28 +0000"
+      },
+      {
+        "source": "CoinDesk",
         "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
         "summary": "",
         "link": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
@@ -136,137 +171,96 @@
         "published": "Tue, 25 Aug 2026 14:50:22 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
-        "published": "Tue, 25 Aug 2026 13:48:50 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
-        "published": "Tue, 25 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
-        "published": "Tue, 25 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
-        "published": "Tue, 25 Aug 2026 12:03:55 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
-        "published": "Tue, 25 Aug 2026 11:46:18 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "World Liberty Financial launches USD1 natively on Canton Network",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Liberty Financial launches USD1 natively on Canton Network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu.png\" /></p><p>USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data. </p>",
-        "link": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 25 Aug 2026 20:35:10 +0000"
+        "title": "US banking groups plan nationwide blockchain network for 2027",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US banking groups plan nationwide blockchain network for 2027 \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.png\" /></p><p>BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.</p>",
+        "link": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 26 Aug 2026 04:17:39 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Dolly Parton has died",
-        "summary": "score: 856, comments: 125",
-        "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-        "score": 856
+        "title": "Apple introduces M6 and M5 Ultra",
+        "summary": "score: 1040, comments: 962",
+        "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+        "score": 1040
       },
       {
         "source": "Hacker News",
-        "title": "Apple introduces M6 and M5 Ultra",
-        "summary": "score: 830, comments: 754",
-        "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-        "score": 830
+        "title": "Nitter and XCancel receive cease and desist notices",
+        "summary": "score: 749, comments: 634",
+        "link": "https://github.com/zedeus/nitter/issues/1442",
+        "score": 749
       },
       {
         "source": "Hacker News",
         "title": "New Mac Studio with M5 Max and M5 Ultra",
-        "summary": "score: 646, comments: 394",
+        "summary": "score: 733, comments: 482",
         "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-        "score": 646
+        "score": 733
       },
       {
         "source": "Hacker News",
         "title": "New Mac mini, featuring M6 and M5 Pro",
-        "summary": "score: 376, comments: 208",
+        "summary": "score: 460, comments: 284",
         "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-        "score": 376
+        "score": 460
       },
       {
         "source": "Hacker News",
-        "title": "Nitter project received cease and desist",
-        "summary": "score: 376, comments: 255",
-        "link": "https://github.com/zedeus/nitter/issues/1442",
-        "score": 376
+        "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+        "summary": "score: 393, comments: 260",
+        "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+        "score": 393
       },
       {
         "source": "Hacker News",
-        "title": "My Friend Aaron",
-        "summary": "score: 320, comments: 82",
-        "link": "https://rorz.io/writing/my-friend-aaron",
-        "score": 320
-      },
-      {
-        "source": "Hacker News",
-        "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-        "summary": "score: 217, comments: 120",
-        "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-        "score": 217
+        "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+        "summary": "score: 330, comments: 161",
+        "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "score": 330
       },
       {
         "source": "Hacker News",
         "title": "Building a backyard office, the build and cost breakdown",
-        "summary": "score: 204, comments: 156",
+        "summary": "score: 304, comments: 203",
         "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-        "score": 204
+        "score": 304
+      },
+      {
+        "source": "Hacker News",
+        "title": "Black hole singularity is a surface not a point",
+        "summary": "score: 215, comments: 158",
+        "link": "https://arxiv.org/abs/2608.21590",
+        "score": 215
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 177",
-        "link": "https://www.coingecko.com/en/coins/cash-cat"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Pons (PONS)",
-        "summary": "market cap rank: 362",
+        "summary": "market cap rank: 281",
         "link": "https://www.coingecko.com/en/coins/pons"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "LayerZero (ZRO)",
-        "summary": "market cap rank: 116",
-        "link": "https://www.coingecko.com/en/coins/layerzero"
+        "title": "Dog (Bitcoin) (DOG)",
+        "summary": "market cap rank: 220",
+        "link": "https://www.coingecko.com/en/coins/dog-bitcoin"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Cash Cat (CASHCAT)",
+        "summary": "market cap rank: 167",
+        "link": "https://www.coingecko.com/en/coins/cash-cat"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 10",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       },
       {
         "source": "CoinGecko Trending",
@@ -276,9 +270,15 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "XRP (XRP)",
-        "summary": "market cap rank: 5",
-        "link": "https://www.coingecko.com/en/coins/xrp"
+        "title": "LayerZero (ZRO)",
+        "summary": "market cap rank: 116",
+        "link": "https://www.coingecko.com/en/coins/layerzero"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "The Index (INDEX)",
+        "summary": "market cap rank: 854",
+        "link": "https://www.coingecko.com/en/coins/the-index"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQAVEUSJQaCpxy36jSiu'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQoajE1assYsXc49SUas'}"
   }
 }
