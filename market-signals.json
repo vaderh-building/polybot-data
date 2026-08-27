@@ -1,69 +1,90 @@
 {
-  "generated_at_utc": "2026-08-26T13:46:51.656626+00:00",
+  "generated_at_utc": "2026-08-27T00:21:33.465176+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+        "summary": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
+        "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+        "published": "Wed, 26 Aug 2026 22:39:49 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
         "summary": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
         "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
-        "published": "Wed, 26 Aug 2026 13:41:01 GMT"
+        "published": "Wed, 26 Aug 2026 21:17:46 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-        "summary": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
-        "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
-        "published": "Wed, 26 Aug 2026 13:35:50 GMT"
+        "title": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
+        "summary": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
+        "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
+        "published": "Wed, 26 Aug 2026 21:27:53 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
-        "summary": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
-        "link": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
-        "published": "Wed, 26 Aug 2026 13:06:55 GMT"
+        "title": "Fed Gov Lisa Cook’s lawyer fires back at Trump's renewed threat to oust her",
+        "summary": "The Supreme Court in late June blocked Trump from firing Cook from the Federal Reserve, but left the president with a path to try again to remove her.",
+        "link": "https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html",
+        "published": "Thu, 27 Aug 2026 00:15:35 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh",
-        "summary": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
-        "link": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
-        "published": "Wed, 26 Aug 2026 13:35:18 GMT"
+        "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
+        "summary": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools.",
+        "link": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
+        "published": "Wed, 26 Aug 2026 22:20:20 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-        "summary": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
-        "link": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
-        "published": "Wed, 26 Aug 2026 13:46:16 GMT"
+        "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
+        "summary": "\"We're delivering a dynamic interface that thinks, reasons, and acts,\" Salesforce CEO Marc Benioff said in a statement.",
+        "link": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
+        "published": "Wed, 26 Aug 2026 20:50:45 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-        "summary": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
-        "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-        "published": "Wed, 26 Aug 2026 13:27:35 GMT"
+        "title": "Republicans are dismissing affordability. That could be a problem in November",
+        "summary": "President Donald Trump quipped that affordability was \"devised\" by Democrats, while Vice President JD Vance said groceries \"cost what they cost.\"",
+        "link": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
+        "published": "Wed, 26 Aug 2026 23:17:46 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-        "summary": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
-        "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-        "published": "Wed, 26 Aug 2026 13:13:53 GMT"
+        "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+        "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
+        "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+        "published": "Wed, 26 Aug 2026 13:15:24 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
-        "summary": "The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.",
-        "link": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
-        "published": "Wed, 26 Aug 2026 12:00:01 GMT"
+        "source": "BBC World",
+        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+        "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+        "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 26 Aug 2026 11:32:11 GMT"
       },
       {
         "source": "BBC World",
         "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-        "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+        "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
         "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 26 Aug 2026 12:32:47 GMT"
+        "published": "Wed, 26 Aug 2026 14:42:03 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+        "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+        "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 26 Aug 2026 15:42:45 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+        "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+        "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 26 Aug 2026 22:02:18 GMT"
       },
       {
         "source": "BBC World",
@@ -74,17 +95,17 @@
       },
       {
         "source": "BBC World",
-        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-        "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 26 Aug 2026 11:02:22 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
         "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
         "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
         "published": "Wed, 26 Aug 2026 08:17:45 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+        "summary": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
+        "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 26 Aug 2026 19:19:46 GMT"
       },
       {
         "source": "BBC World",
@@ -94,25 +115,32 @@
         "published": "Wed, 26 Aug 2026 08:01:56 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-        "summary": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
-        "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 26 Aug 2026 12:17:12 GMT"
+        "source": "CoinDesk",
+        "title": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
+        "summary": "",
+        "link": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
+        "published": "Wed, 26 Aug 2026 23:01:44 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Radiation link in flight attendant's breast cancer, French court finds",
-        "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 26 Aug 2026 10:29:36 GMT"
+        "source": "CoinDesk",
+        "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+        "published": "Wed, 26 Aug 2026 20:24:31 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-        "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
-        "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 25 Aug 2026 17:12:21 GMT"
+        "source": "CoinDesk",
+        "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+        "published": "Wed, 26 Aug 2026 15:15:13 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto Long & Short: Tokenized equities: the model underneath the trade",
+        "summary": "",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/08/26/crypto-long-and-short-tokenized-equities-the-model-underneath-the-trade",
+        "published": "Wed, 26 Aug 2026 15:00:09 +0000"
       },
       {
         "source": "CoinDesk",
@@ -143,142 +171,114 @@
         "published": "Wed, 26 Aug 2026 11:14:16 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "The 3 catalysts that could define bitcoin's next move",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
-        "published": "Wed, 26 Aug 2026 11:02:33 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
-        "published": "Wed, 26 Aug 2026 10:45:29 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
-        "published": "Wed, 26 Aug 2026 10:42:52 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
-        "published": "Wed, 26 Aug 2026 10:03:43 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC’s proposed crypto rules probably won’t spark new ICO boom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazine-lambo-guy.jpg\" /></p><p>The SEC’s ‘regulation crypto assets’ proposals could create early-round FOMO. But some tokens may still fall into the no-man’s land between security and non-security.</p>",
-        "link": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 26 Aug 2026 13:30:00 +0000"
+        "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Better launches Bitcoin-backed mortgages powered by Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-what-is-a-housing-loan2.jpg\" /></p><p>Better and Coinbase have launched a crypto-backed mortgage product that lets US homebuyers pledge Bitcoin as collateral for a down payment without having to sell it.</p>",
+        "link": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 26 Aug 2026 20:09:23 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Apple introduces M6 and M5 Ultra",
-        "summary": "score: 1230, comments: 1178",
-        "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-        "score": 1230
-      },
-      {
-        "source": "Hacker News",
-        "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-        "summary": "score: 458, comments: 210",
-        "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "score": 458
-      },
-      {
-        "source": "Hacker News",
-        "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-        "summary": "score: 250, comments: 99",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-        "score": 250
-      },
-      {
-        "source": "Hacker News",
-        "title": "AWS Acquires DuckDB",
-        "summary": "score: 225, comments: 49",
+        "title": "AWS Acquires DuckLabs",
+        "summary": "score: 952, comments: 284",
         "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+        "score": 952
+      },
+      {
+        "source": "Hacker News",
+        "title": "GLM-5.3-Flash",
+        "summary": "score: 852, comments: 426",
+        "link": "https://z.ai/blog/glm-5.3-flash",
+        "score": 852
+      },
+      {
+        "source": "Hacker News",
+        "title": "Qwen3.8-Flash-Next",
+        "summary": "score: 605, comments: 196",
+        "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+        "score": 605
+      },
+      {
+        "source": "Hacker News",
+        "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+        "summary": "score: 445, comments: 89",
+        "link": "https://github.com/tailscale/tailcat",
+        "score": 445
+      },
+      {
+        "source": "Hacker News",
+        "title": "An ongoing 3D-printer AGPL violation",
+        "summary": "score: 291, comments: 125",
+        "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+        "score": 291
+      },
+      {
+        "source": "Hacker News",
+        "title": "U.S. State Department Pauses Immigrant Visa Applications",
+        "summary": "score: 225, comments: 254",
+        "link": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
         "score": 225
       },
       {
         "source": "Hacker News",
-        "title": "RAG Is Simpler Than You Think",
-        "summary": "score: 215, comments: 99",
-        "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-        "score": 215
+        "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+        "summary": "score: 182, comments: 45",
+        "link": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+        "score": 182
       },
       {
         "source": "Hacker News",
-        "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-        "summary": "score: 193, comments: 71",
-        "link": "https://news.ycombinator.com/item?id=49446210",
-        "score": 193
-      },
-      {
-        "source": "Hacker News",
-        "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
-        "summary": "score: 169, comments: 48",
-        "link": "https://www.youtube.com/watch?v=656058JxTM0",
-        "score": 169
-      },
-      {
-        "source": "Hacker News",
-        "title": "Oldinsurancemaps.net is now a Charter Project",
-        "summary": "score: 115, comments: 18",
-        "link": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-        "score": 115
+        "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+        "summary": "score: 154, comments: 76",
+        "link": "https://isgithubcooked.com/",
+        "score": 154
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "PolySwarm (NCT)",
-        "summary": "market cap rank: 505",
-        "link": "https://www.coingecko.com/en/coins/polyswarm"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bitlayer (BTR)",
-        "summary": "market cap rank: 615",
-        "link": "https://www.coingecko.com/en/coins/bitlayer"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Pons (PONS)",
-        "summary": "market cap rank: 313",
+        "summary": "market cap rank: 284",
         "link": "https://www.coingecko.com/en/coins/pons"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 10",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "Bitlayer (BTR)",
+        "summary": "market cap rank: 597",
+        "link": "https://www.coingecko.com/en/coins/bitlayer"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 12",
-        "link": "https://www.coingecko.com/en/coins/zcash"
+        "title": "Cash Cat (CASHCAT)",
+        "summary": "market cap rank: 158",
+        "link": "https://www.coingecko.com/en/coins/cash-cat"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 47",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Derive (DRV)",
-        "summary": "market cap rank: 184",
-        "link": "https://www.coingecko.com/en/coins/derive"
+        "title": "Ontology Gas (ONG)",
+        "summary": "market cap rank: 246",
+        "link": "https://www.coingecko.com/en/coins/ontology-gas"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "XRP (XRP)",
+        "summary": "market cap rank: 5",
+        "link": "https://www.coingecko.com/en/coins/xrp"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 93",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeRTpExiJrotEnnFPGNbk'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeSJDRANMXbweJmNtZ1sX'}"
   }
 }
