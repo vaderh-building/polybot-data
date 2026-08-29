@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2026-08-29T11:25:26.054153+00:00",
+  "generated_at_utc": "2026-08-29T16:55:36.919332+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+        "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+        "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+        "published": "Sat, 29 Aug 2026 12:16:03 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
@@ -11,45 +18,38 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+        "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
+        "link": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
+        "published": "Sat, 29 Aug 2026 12:22:50 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+        "summary": "Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar.",
+        "link": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
+        "published": "Sat, 29 Aug 2026 12:08:08 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Buffett remains active at 96, but Berkshire's shares aren't doing much",
+        "summary": "Warren Buffett will be celebrating his 96th birthday on Sunday, but Berkshire Hathaway investors aren't celebrating the stock's anemic performance.",
+        "link": "https://www.cnbc.com/2026/08/29/buffett-remains-active-at-96-but-berkshires-shares-arent-doing-much.html",
+        "published": "Sat, 29 Aug 2026 11:53:36 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Goodyear burning rubber and cash as turnaround plan continues",
+        "summary": "The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.",
+        "link": "https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html",
+        "published": "Sat, 29 Aug 2026 13:56:58 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
         "summary": "Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details.",
         "link": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
         "published": "Fri, 28 Aug 2026 20:31:58 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
-        "summary": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online.",
-        "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
-        "published": "Sat, 29 Aug 2026 05:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump’s Greenland fixation puts security at the heart of Iceland’s knife-edge EU vote",
-        "summary": "Trump’s push to acquire Greenland and growing uncertainty over U.S. security commitments have added a geopolitical dimension to Iceland’s EU debate.",
-        "link": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
-        "published": "Fri, 28 Aug 2026 13:45:42 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
-        "summary": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.",
-        "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
-        "published": "Fri, 28 Aug 2026 17:44:02 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Corn and wheat prices jump to highest prices in more than three years",
-        "summary": "Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different.",
-        "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
-        "published": "Fri, 28 Aug 2026 20:00:56 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
-        "summary": "The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&amp;P 500 Index, fell to as low as 14.1.",
-        "link": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html",
-        "published": "Fri, 28 Aug 2026 19:35:09 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -67,17 +67,17 @@
       },
       {
         "source": "BBC World",
-        "title": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
-        "summary": "The attack sparked a series of explosions, prompting an investigation into whether ammunition was being stored on site.",
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
         "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 29 Aug 2026 10:28:41 GMT"
+        "published": "Sat, 29 Aug 2026 15:27:56 GMT"
       },
       {
         "source": "BBC World",
         "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
         "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
         "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 29 Aug 2026 02:42:27 GMT"
+        "published": "Sat, 29 Aug 2026 16:15:56 GMT"
       },
       {
         "source": "BBC World",
@@ -116,6 +116,34 @@
       },
       {
         "source": "CoinDesk",
+        "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+        "published": "Sat, 29 Aug 2026 15:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+        "published": "Sat, 29 Aug 2026 15:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+        "published": "Sat, 29 Aug 2026 15:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Tokenized assets are busier than the data shows",
+        "summary": "",
+        "link": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+        "published": "Sat, 29 Aug 2026 13:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
         "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
         "summary": "",
         "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
@@ -143,39 +171,11 @@
         "published": "Fri, 28 Aug 2026 16:12:45 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
-        "published": "Fri, 28 Aug 2026 14:37:14 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
-        "published": "Fri, 28 Aug 2026 14:05:12 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "The Clarity Act slipped to September. Banks are building anyway",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
-        "published": "Fri, 28 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
-        "published": "Fri, 28 Aug 2026 12:30:57 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Trump-promoted brand touts GOLD before token collapse",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-promoted brand touts GOLD before token collapse\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M16D9NH0P7JYVR3ND526E5F5/trumps-influence-on-crypto.jpg\" /></p><p>Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%.</p>",
-        "link": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 29 Aug 2026 10:53:41 +0000"
+        "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock transfer volume jumps 415% in 30 days to $29.5B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png\" /></p><p>Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.</p>",
+        "link": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 29 Aug 2026 16:27:28 +0000"
       }
     ],
     "chinese_news": [],
@@ -183,102 +183,102 @@
       {
         "source": "Hacker News",
         "title": "GUIs should be fully keyboard-driven",
-        "summary": "score: 837, comments: 420",
+        "summary": "score: 958, comments: 470",
         "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-        "score": 837
+        "score": 958
       },
       {
         "source": "Hacker News",
         "title": "Htmx 4.0",
-        "summary": "score: 678, comments: 170",
+        "summary": "score: 751, comments: 188",
         "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "score": 678
-      },
-      {
-        "source": "Hacker News",
-        "title": "U.S. sanctions against the A/I Collective",
-        "summary": "score: 619, comments: 603",
-        "link": "https://www.inventati.org/",
-        "score": 619
-      },
-      {
-        "source": "Hacker News",
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "summary": "score: 557, comments: 312",
-        "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-        "score": 557
-      },
-      {
-        "source": "Hacker News",
-        "title": "Inception-style curved map for turn-by-turn directions",
-        "summary": "score: 517, comments: 175",
-        "link": "https://www.orbify.eu/demo/",
-        "score": 517
-      },
-      {
-        "source": "Hacker News",
-        "title": "Just the rumour of a bug is enough to find an exploit these days",
-        "summary": "score: 336, comments: 113",
-        "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-        "score": 336
+        "score": 751
       },
       {
         "source": "Hacker News",
         "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-        "summary": "score: 284, comments: 81",
+        "summary": "score: 347, comments: 92",
         "link": "https://github.com/Lakr233/vphone-cli",
-        "score": 284
+        "score": 347
       },
       {
         "source": "Hacker News",
-        "title": "I accidentally turned LLM memory into program analysis",
-        "summary": "score: 166, comments: 38",
-        "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
-        "score": 166
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "summary": "score: 304, comments: 243",
+        "link": "https://lwn.net/Articles/1091231/",
+        "score": 304
+      },
+      {
+        "source": "Hacker News",
+        "title": "Samsung's Processing-in-Memory (PIM)",
+        "summary": "score: 198, comments: 66",
+        "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+        "score": 198
+      },
+      {
+        "source": "Hacker News",
+        "title": "EVE Online moves to Python 3",
+        "summary": "score: 158, comments: 80",
+        "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+        "score": 158
+      },
+      {
+        "source": "Hacker News",
+        "title": "Glacier Mice",
+        "summary": "score: 149, comments: 30",
+        "link": "https://en.wikipedia.org/wiki/Glacier_mice",
+        "score": 149
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+        "summary": "score: 67, comments: 19",
+        "link": "https://galaxium.app",
+        "score": 67
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Helium (HNT)",
-        "summary": "market cap rank: 313",
-        "link": "https://www.coingecko.com/en/coins/helium"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Pons (PONS)",
-        "summary": "market cap rank: 210",
+        "summary": "market cap rank: 201",
         "link": "https://www.coingecko.com/en/coins/pons"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Ethena (ENA)",
-        "summary": "market cap rank: 54",
-        "link": "https://www.coingecko.com/en/coins/ethena"
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 10",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 175",
+        "summary": "market cap rank: 165",
         "link": "https://www.coingecko.com/en/coins/cash-cat"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 93",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Solana (SOL)",
         "summary": "market cap rank: 7",
         "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 46",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Zcash (ZEC)",
+        "summary": "market cap rank: 11",
+        "link": "https://www.coingecko.com/en/coins/zcash"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Helium (HNT)",
+        "summary": "market cap rank: 375",
+        "link": "https://www.coingecko.com/en/coins/helium"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeWxTUgn5aXNMVj8PeWL6'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeXPdpdXFzUCCUD5XjES5'}"
   }
 }
