@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-09-03T09:19:17.602688+00:00",
+  "generated_at_utc": "2026-09-03T16:47:02.850796+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
+        "summary": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods, which are set to take effect next week.",
+        "link": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+        "published": "Thu, 03 Sep 2026 16:06:13 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+        "summary": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\"",
+        "link": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+        "published": "Thu, 03 Sep 2026 16:43:22 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "The world appears to be entering a higher-rate era. Here’s who will pay the price",
@@ -11,52 +25,38 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
-        "summary": "Putin said peace with Ukraine remains possible while calling Kyiv’s warning on Russian airspace “state terrorism,” as NATO flags fresh risks.",
-        "link": "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
-        "published": "Thu, 03 Sep 2026 09:09:09 GMT"
+        "title": "Elon Musk starts spending his midterm election millions, revealing his key Senate targets",
+        "summary": "Elon Musk’s America PAC is spending in key Senate races including Texas and Maine, days after Musk met with House Speaker Mike Johnson.",
+        "link": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html",
+        "published": "Thu, 03 Sep 2026 15:46:23 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-        "summary": "On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.",
-        "link": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
-        "published": "Thu, 03 Sep 2026 06:33:19 GMT"
+        "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday",
+        "summary": "Black's attorneys say the NDAs being sought by the panel have nothing to do with his dealings with notorious sex offender Jeffrey Epstein.",
+        "link": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
+        "published": "Thu, 03 Sep 2026 15:12:24 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
-        "summary": "DNB said gold stored with the Bank of England is more readily tradable, allowing it to be deployed more quickly in a severe crisis.",
-        "link": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
-        "published": "Thu, 03 Sep 2026 07:12:34 GMT"
+        "title": "ChargePoint CEO says 50% stock surge 'is the beginning of the momentum'",
+        "summary": "The infrastructure company is toward the end of a three-year business plan that has boosted revenue and significantly cut the company's losses.",
+        "link": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
+        "published": "Thu, 03 Sep 2026 16:08:18 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-        "summary": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
-        "link": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-        "published": "Thu, 03 Sep 2026 03:28:07 GMT"
+        "title": "How Meta will pull off massive changes to its social media apps",
+        "summary": "Meta settled its child safety case. Now comes the hard part of actually implementing changes to its social media platforms. Here's what to expect.",
+        "link": "https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html",
+        "published": "Thu, 03 Sep 2026 12:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Snowflake spikes 22% on healthy results and AI coding momentum",
-        "summary": "Snowflake business is growing quickly, in part thanks to adoption of an artificial intelligence agent for writing code.",
-        "link": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
-        "published": "Wed, 02 Sep 2026 20:28:39 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
-        "summary": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
-        "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
-        "published": "Thu, 03 Sep 2026 02:39:48 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-        "summary": "Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.",
-        "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
-        "published": "Wed, 02 Sep 2026 22:37:13 GMT"
+        "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
+        "summary": "Foreign adversaries have been illegally accessing American AI systems to train competing technology, and selling copycat versions at a lower price.",
+        "link": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+        "published": "Thu, 03 Sep 2026 11:45:01 GMT"
       },
       {
         "source": "BBC World",
@@ -67,6 +67,20 @@
       },
       {
         "source": "BBC World",
+        "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+        "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 03 Sep 2026 11:35:52 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+        "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+        "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 03 Sep 2026 13:52:18 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
         "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
         "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
@@ -74,108 +88,94 @@
       },
       {
         "source": "BBC World",
-        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-        "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 02 Sep 2026 17:33:45 GMT"
+        "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+        "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
+        "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 03 Sep 2026 15:05:57 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-        "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
-        "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 02 Sep 2026 23:56:29 GMT"
+        "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+        "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
+        "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 03 Sep 2026 13:54:49 GMT"
       },
       {
         "source": "BBC World",
         "title": "Trump $1 coin makes him first living president on US currency in a century",
         "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
         "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 03 Sep 2026 03:39:53 GMT"
+        "published": "Thu, 03 Sep 2026 15:35:47 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
-        "summary": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
-        "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 02 Sep 2026 19:05:31 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "'Below the dignity of the office': Canadian officials condemn Pete Hegseth cadet post",
-        "summary": "The US Defence Secretary is facing criticism for his apparent online mocking of members of Canada's cadet programme.",
-        "link": "https://www.bbc.co.uk/news/articles/clyk32nr1emo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 02 Sep 2026 19:20:50 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
-        "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 02 Sep 2026 21:34:27 GMT"
+        "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+        "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
+        "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 03 Sep 2026 10:37:06 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
+        "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
-        "published": "Thu, 03 Sep 2026 09:13:40 +0000"
+        "link": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+        "published": "Thu, 03 Sep 2026 15:58:02 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
+        "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
-        "published": "Thu, 03 Sep 2026 08:30:00 +0000"
+        "link": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
+        "published": "Thu, 03 Sep 2026 15:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
+        "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
-        "published": "Thu, 03 Sep 2026 07:01:28 +0000"
+        "link": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
+        "published": "Thu, 03 Sep 2026 14:51:39 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+        "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
-        "published": "Thu, 03 Sep 2026 04:58:05 +0000"
+        "link": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
+        "published": "Thu, 03 Sep 2026 14:41:25 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+        "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
-        "published": "Thu, 03 Sep 2026 04:22:40 +0000"
+        "link": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
+        "published": "Thu, 03 Sep 2026 12:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+        "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
-        "published": "Wed, 02 Sep 2026 21:24:26 +0000"
+        "link": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
+        "published": "Thu, 03 Sep 2026 11:26:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
+        "title": "The yen is surging and it’s helping bitcoin, for now",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
-        "published": "Wed, 02 Sep 2026 20:08:34 +0000"
+        "link": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
+        "published": "Thu, 03 Sep 2026 11:19:56 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
+        "title": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
         "summary": "",
-        "link": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
-        "published": "Wed, 02 Sep 2026 17:39:00 +0000"
+        "link": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
+        "published": "Thu, 03 Sep 2026 10:42:15 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia warns unlicensed crypto firms of fines up to 10% of annual turnover\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K3G0K6ACW549NXWWTXAETH/hi-time-to-switch-license-australia-1.jpg\" /></p><p>ASIC has recorded more than 45 digital asset-related license applications as its temporary enforcement relief approaches Sept. 30 expiration.</p>",
-        "link": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 03 Sep 2026 07:47:54 +0000"
+        "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KYWSE94CPJJA8YZQS23VKP/hi-what-is-a-decentralized-money-market-and-kraken.png\" /></p><p>The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.</p>",
+        "link": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 03 Sep 2026 16:04:11 +0000"
       }
     ],
     "chinese_news": [],
@@ -183,58 +183,58 @@
       {
         "source": "Hacker News",
         "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "summary": "score: 1012, comments: 568",
+        "summary": "score: 1125, comments: 636",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-        "score": 1012
+        "score": 1125
       },
       {
         "source": "Hacker News",
-        "title": "Muse Spark 1.3",
-        "summary": "score: 573, comments: 379",
-        "link": "https://developer.meta.com/ai/models/muse-spark/",
-        "score": 573
+        "title": "Audacity 4.0",
+        "summary": "score: 781, comments: 174",
+        "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+        "score": 781
       },
       {
         "source": "Hacker News",
-        "title": "Can I opt out of my input or output data being used for training?",
-        "summary": "score: 440, comments: 198",
-        "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-        "score": 440
+        "title": "Pre-Release of Polars 2.0",
+        "summary": "score: 323, comments: 107",
+        "link": "https://pola.rs/posts/announcing-polars-2/",
+        "score": 323
       },
       {
         "source": "Hacker News",
-        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-        "summary": "score: 411, comments: 200",
-        "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "score": 411
+        "title": "The browser's main thread is expensive",
+        "summary": "score: 297, comments: 100",
+        "link": "https://kciter.so/posts/the-expensive-main-thread/en/",
+        "score": 297
       },
       {
         "source": "Hacker News",
-        "title": "Google avoids a breakup of its ad tech business",
-        "summary": "score: 374, comments: 277",
-        "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-        "score": 374
+        "title": ".name Termination",
+        "summary": "score: 216, comments: 58",
+        "link": "https://neil.fraser.name/news/2026/09/03/",
+        "score": 216
       },
       {
         "source": "Hacker News",
-        "title": "Fable 5.1 World Modeling",
-        "summary": "score: 241, comments: 70",
-        "link": "https://github.com/PhiloLabs/fable51-worlds",
-        "score": 241
+        "title": "Nvidia to Acquire Hugging Face",
+        "summary": "score: 205, comments: 58",
+        "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+        "score": 205
       },
       {
         "source": "Hacker News",
-        "title": "Reverse Engineering Unknown File Formats with ImHex",
-        "summary": "score: 197, comments: 35",
-        "link": "https://werwolv.net/posts/file_format_reverse_engineering/",
-        "score": 197
+        "title": "What I Learned from My Mom (1941-2026)",
+        "summary": "score: 199, comments: 8",
+        "link": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
+        "score": 199
       },
       {
         "source": "Hacker News",
-        "title": "Holden's Lightning Flight",
-        "summary": "score: 151, comments: 33",
-        "link": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-        "score": 151
+        "title": "Invisible Companies",
+        "summary": "score: 118, comments: 36",
+        "link": "https://colossus.com/article/invisible-companies/",
+        "score": 118
       }
     ],
     "crypto_trending": [
@@ -246,39 +246,39 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "MarsCoin (MARSCOIN)",
-        "summary": "market cap rank: 263",
-        "link": "https://www.coingecko.com/en/coins/marscoin-4"
+        "title": "Zcash (ZEC)",
+        "summary": "market cap rank: 11",
+        "link": "https://www.coingecko.com/en/coins/zcash"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 70",
+        "link": "https://www.coingecko.com/en/coins/lighter"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Arbitrum (ARB)",
-        "summary": "market cap rank: 74",
+        "summary": "market cap rank: 77",
         "link": "https://www.coingecko.com/en/coins/arbitrum"
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Lil' Shrub (SHRUB)",
+        "summary": "market cap rank: 466",
+        "link": "https://www.coingecko.com/en/coins/lil-shrub"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Useless Coin (USELESS)",
-        "summary": "market cap rank: 206",
+        "summary": "market cap rank: 180",
         "link": "https://www.coingecko.com/en/coins/useless-3"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 148",
-        "link": "https://www.coingecko.com/en/coins/cash-cat"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "USD.AI (CHIP)",
-        "summary": "market cap rank: 257",
-        "link": "https://www.coingecko.com/en/coins/usd-ai"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 9",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CegFt9nh5P13arWDCW2Fa'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cegr2WMsfoF8tH8XjDguN'}"
   }
 }
