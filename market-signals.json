@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-09-05T15:42:50.308790+00:00",
+  "generated_at_utc": "2026-09-05T22:30:40.122460+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
-        "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
-        "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
-        "published": "Sat, 05 Sep 2026 12:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-        "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
-        "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
-        "published": "Sat, 05 Sep 2026 12:00:01 GMT"
+        "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+        "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
+        "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+        "published": "Sat, 05 Sep 2026 19:12:53 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -25,10 +18,31 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "LeBron James teases partnership with Polymarket",
+        "summary": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.",
+        "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
+        "published": "Sat, 05 Sep 2026 19:40:11 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
         "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.",
         "link": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
-        "published": "Sat, 05 Sep 2026 15:00:03 GMT"
+        "published": "Sat, 05 Sep 2026 15:43:08 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+        "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
+        "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+        "published": "Sat, 05 Sep 2026 12:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+        "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
+        "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+        "published": "Sat, 05 Sep 2026 12:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -45,32 +59,18 @@
         "published": "Sat, 05 Sep 2026 13:33:08 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Abel: Two ways Berkshire hopes to cash in on AI",
-        "summary": "Berkshire Hathaway CEO Greg Abel tells CNBC the company is pursuing AI opportunities on two paths.",
-        "link": "https://www.cnbc.com/2026/09/05/abel-two-ways-berkshire-hopes-in-cash-in-on-ai.html",
-        "published": "Sat, 05 Sep 2026 12:45:44 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
-        "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
-        "link": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-        "published": "Fri, 04 Sep 2026 19:48:08 GMT"
+        "source": "BBC World",
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 05 Sep 2026 21:39:02 GMT"
       },
       {
         "source": "BBC World",
         "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-        "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+        "summary": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
         "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 05 Sep 2026 15:14:21 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-        "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 05 Sep 2026 15:05:14 GMT"
+        "published": "Sat, 05 Sep 2026 20:41:59 GMT"
       },
       {
         "source": "BBC World",
@@ -88,10 +88,24 @@
       },
       {
         "source": "BBC World",
+        "title": "Prince William to attend King Harald's funeral in Norway",
+        "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+        "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 05 Sep 2026 21:00:02 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 05 Sep 2026 21:29:38 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "What different world maps get right - and what they get wrong",
         "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
         "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 05 Sep 2026 13:46:02 GMT"
+        "published": "Sat, 05 Sep 2026 16:14:24 GMT"
       },
       {
         "source": "BBC World",
@@ -101,18 +115,18 @@
         "published": "Sat, 05 Sep 2026 09:12:48 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-        "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 04 Sep 2026 16:49:15 GMT"
+        "source": "CoinDesk",
+        "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+        "published": "Sat, 05 Sep 2026 18:05:11 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-        "summary": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
-        "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 04 Sep 2026 12:30:56 GMT"
+        "source": "CoinDesk",
+        "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+        "published": "Sat, 05 Sep 2026 16:43:13 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,20 +171,6 @@
         "published": "Fri, 04 Sep 2026 14:12:34 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-        "published": "Fri, 04 Sep 2026 12:31:47 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
-        "published": "Fri, 04 Sep 2026 11:29:05 +0000"
-      },
-      {
         "source": "Cointelegraph",
         "title": "Here’s what happened in crypto today",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
@@ -183,102 +183,102 @@
       {
         "source": "Hacker News",
         "title": "Discovery of a new OpenAI agent message board",
-        "summary": "score: 1876, comments: 1425",
+        "summary": "score: 2058, comments: 1497",
         "link": "https://collusion.wiki/",
-        "score": 1876
-      },
-      {
-        "source": "Hacker News",
-        "title": "Formalizing Fermat's Last Theorem",
-        "summary": "score: 680, comments: 427",
-        "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "score": 680
+        "score": 2058
       },
       {
         "source": "Hacker News",
         "title": "Actively exploited sandbox RCE in all Chromium versions",
-        "summary": "score: 632, comments: 356",
+        "summary": "score: 729, comments: 422",
         "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-        "score": 632
+        "score": 729
       },
       {
         "source": "Hacker News",
         "title": "Nitter has more working instances than before the takedowns",
-        "summary": "score: 415, comments: 168",
+        "summary": "score: 587, comments: 276",
         "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-        "score": 415
+        "score": 587
       },
       {
         "source": "Hacker News",
-        "title": "Statichost.eu – European static site hosting",
-        "summary": "score: 371, comments: 173",
-        "link": "https://www.statichost.eu/",
-        "score": 371
+        "title": "The Real Luxuries In Life",
+        "summary": "score: 378, comments: 163",
+        "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+        "score": 378
       },
       {
         "source": "Hacker News",
-        "title": "AI handles incidents, engineers lose touch with their systems",
-        "summary": "score: 271, comments: 235",
-        "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "score": 271
+        "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+        "summary": "score: 236, comments: 73",
+        "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+        "score": 236
       },
       {
         "source": "Hacker News",
-        "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-        "summary": "score: 233, comments: 135",
-        "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-        "score": 233
+        "title": "Private German rocket makes history, reaches orbit from European soil",
+        "summary": "score: 188, comments: 76",
+        "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+        "score": 188
       },
       {
         "source": "Hacker News",
-        "title": "Git hosting that never leaves Europe",
-        "summary": "score: 178, comments: 95",
-        "link": "https://pushin.eu",
-        "score": 178
+        "title": "Learn Programming with OCaml",
+        "summary": "score: 128, comments: 57",
+        "link": "https://usr.lmf.cnrs.fr/lpo/",
+        "score": 128
+      },
+      {
+        "source": "Hacker News",
+        "title": "LLMs as a Cognitive Virus",
+        "summary": "score: 112, comments: 78",
+        "link": "https://arxiv.org/abs/2609.03344",
+        "score": 112
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Lil' Shrub (SHRUB)",
-        "summary": "market cap rank: 308",
-        "link": "https://www.coingecko.com/en/coins/lil-shrub"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 93",
-        "link": "https://www.coingecko.com/en/coins/pons"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Firo (FIRO)",
-        "summary": "market cap rank: 976",
+        "summary": "market cap rank: 916",
         "link": "https://www.coingecko.com/en/coins/firo"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Aster (ASTER)",
-        "summary": "market cap rank: 45",
-        "link": "https://www.coingecko.com/en/coins/aster-2"
+        "title": "Pons (PONS)",
+        "summary": "market cap rank: 94",
+        "link": "https://www.coingecko.com/en/coins/pons"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Cash Cat (CASHCAT)",
-        "summary": "market cap rank: 148",
-        "link": "https://www.coingecko.com/en/coins/cash-cat"
+        "title": "CLUSTER PROTOCOL (CP)",
+        "summary": "market cap rank: 509",
+        "link": "https://www.coingecko.com/en/coins/cluster-protocol"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 11",
-        "link": "https://www.coingecko.com/en/coins/zcash"
+        "title": "Arbitrum (ARB)",
+        "summary": "market cap rank: 69",
+        "link": "https://www.coingecko.com/en/coins/arbitrum"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
         "summary": "market cap rank: 105",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Uniswap (UNI)",
+        "summary": "market cap rank: 23",
+        "link": "https://www.coingecko.com/en/coins/uniswap"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Lil' Shrub (SHRUB)",
+        "summary": "market cap rank: 494",
+        "link": "https://www.coingecko.com/en/coins/lil-shrub"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CekYkMMEHcE3LxJBjhcni'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cem5r87mvphwevdpmBWtK'}"
   }
 }
