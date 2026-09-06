@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-09-06T09:04:49.928288+00:00",
+  "generated_at_utc": "2026-09-06T15:54:52.220789+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+        "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
+        "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+        "published": "Sun, 06 Sep 2026 12:13:49 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+        "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
+        "link": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+        "published": "Sun, 06 Sep 2026 15:52:07 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+        "summary": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers.",
+        "link": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+        "published": "Sun, 06 Sep 2026 15:35:16 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
@@ -11,66 +32,52 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
+        "summary": "The sweetener's prices surged last week, reflecting a sharp deterioration in the global supply outlook.",
+        "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
+        "published": "Sun, 06 Sep 2026 13:19:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "AI data centers are transforming rural land markets — and fueling a backlash",
+        "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
+        "link": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
+        "published": "Sun, 06 Sep 2026 12:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
+        "summary": "Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.",
+        "link": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
+        "published": "Sat, 05 Sep 2026 12:20:42 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
         "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.",
         "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
         "published": "Sat, 05 Sep 2026 15:11:03 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "LeBron James teases partnership with Polymarket",
-        "summary": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.",
-        "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
-        "published": "Sat, 05 Sep 2026 19:40:11 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-        "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.",
-        "link": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
-        "published": "Sat, 05 Sep 2026 15:43:08 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-        "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
-        "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
-        "published": "Sat, 05 Sep 2026 12:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
-        "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
-        "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
-        "published": "Sat, 05 Sep 2026 12:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
-        "summary": "Walmart's deal to deliver for Dunkin' follows one earlier this year for Subway sandwiches, as the nation's largest retailer targets Uber Eats and DoorDash.",
-        "link": "https://www.cnbc.com/2026/09/05/walmart-dunkin-subway-delivery-uber-eats-doordash.html",
-        "published": "Sat, 05 Sep 2026 14:46:14 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Many truckers don't feel like the rest of America about AI data centers as business booms",
-        "summary": "Sprawling data center components from HVAC systems to tubing, wiring and semiconductors arrive primarily by truck, a boon for a business hit hard by trade wars.",
-        "link": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
-        "published": "Sat, 05 Sep 2026 13:33:08 GMT"
-      },
-      {
         "source": "BBC World",
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
-        "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+        "summary": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
         "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 06 Sep 2026 02:24:16 GMT"
+        "published": "Sun, 06 Sep 2026 15:32:27 GMT"
       },
       {
         "source": "BBC World",
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 05 Sep 2026 22:44:07 GMT"
+        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+        "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 06 Sep 2026 09:56:39 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Dozens feared trapped in collapsed building in Delhi",
+        "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+        "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 06 Sep 2026 14:07:35 GMT"
       },
       {
         "source": "BBC World",
@@ -81,17 +88,10 @@
       },
       {
         "source": "BBC World",
-        "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-        "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 06 Sep 2026 07:06:50 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-        "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-        "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 06 Sep 2026 01:54:29 GMT"
+        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 05 Sep 2026 22:44:07 GMT"
       },
       {
         "source": "BBC World",
@@ -113,6 +113,13 @@
         "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
         "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
         "published": "Sat, 05 Sep 2026 09:12:48 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+        "published": "Sun, 06 Sep 2026 14:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -164,121 +171,114 @@
         "published": "Fri, 04 Sep 2026 14:23:11 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
-        "published": "Fri, 04 Sep 2026 14:12:34 +0000"
-      },
-      {
         "source": "Cointelegraph",
         "title": "Here’s what happened in crypto today",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 05 Sep 2026 11:16:19 +0000"
+        "published": "Sun, 06 Sep 2026 13:24:43 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Discovery of a new OpenAI agent message board",
-        "summary": "score: 2182, comments: 1541",
-        "link": "https://collusion.wiki/",
-        "score": 2182
-      },
-      {
-        "source": "Hacker News",
-        "title": "Chrome again exempts Google from user site data settings",
-        "summary": "score: 382, comments: 50",
-        "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
-        "score": 382
-      },
-      {
-        "source": "Hacker News",
         "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-        "summary": "score: 381, comments: 170",
+        "summary": "score: 529, comments: 262",
         "link": "https://cloudinabottle.org/blog/launch-post",
-        "score": 381
+        "score": 529
       },
       {
         "source": "Hacker News",
         "title": "The revolt of the reader",
-        "summary": "score: 344, comments: 136",
+        "summary": "score: 493, comments: 232",
         "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "score": 344
+        "score": 493
       },
       {
         "source": "Hacker News",
-        "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-        "summary": "score: 339, comments: 98",
-        "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-        "score": 339
+        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+        "summary": "score: 396, comments: 113",
+        "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+        "score": 396
       },
       {
         "source": "Hacker News",
-        "title": "Learn Programming with OCaml",
-        "summary": "score: 246, comments: 93",
-        "link": "https://usr.lmf.cnrs.fr/lpo/",
-        "score": 246
+        "title": "Intellectual Fly Is Open (2025)",
+        "summary": "score: 250, comments: 142",
+        "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "score": 250
       },
       {
         "source": "Hacker News",
-        "title": "GPT-6 Astra on robot arms",
-        "summary": "score: 176, comments: 124",
-        "link": "https://openai.robocurve.org/gpt-6-astra/",
-        "score": 176
+        "title": "Doomscrolling Ourselves to Death",
+        "summary": "score: 192, comments: 130",
+        "link": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+        "score": 192
       },
       {
         "source": "Hacker News",
-        "title": "Music Theory for Programmers",
-        "summary": "score: 109, comments: 43",
-        "link": "https://runjs.app/blog/music-theory-for-programmers",
-        "score": 109
+        "title": "A/I shuts down – Stay human",
+        "summary": "score: 191, comments: 69",
+        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "score": 191
+      },
+      {
+        "source": "Hacker News",
+        "title": "QBittorrent breaks out of sandbox to commit crimes",
+        "summary": "score: 155, comments: 22",
+        "link": "https://beige.party/@intransitivelie/117057396732763183",
+        "score": 155
+      },
+      {
+        "source": "Hacker News",
+        "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+        "summary": "score: 120, comments: 46",
+        "link": "https://en.wikipedia.org/wiki/M-DISC",
+        "score": 120
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Firo (FIRO)",
-        "summary": "market cap rank: 910",
+        "summary": "market cap rank: 892",
         "link": "https://www.coingecko.com/en/coins/firo"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Arbitrum (ARB)",
-        "summary": "market cap rank: 64",
-        "link": "https://www.coingecko.com/en/coins/arbitrum"
+        "title": "Lil' Shrub (SHRUB)",
+        "summary": "market cap rank: 648",
+        "link": "https://www.coingecko.com/en/coins/lil-shrub"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "CLUSTER PROTOCOL (CP)",
+        "summary": "market cap rank: 545",
+        "link": "https://www.coingecko.com/en/coins/cluster-protocol"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pons (PONS)",
-        "summary": "market cap rank: 92",
+        "summary": "market cap rank: 96",
         "link": "https://www.coingecko.com/en/coins/pons"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Arbitrum (ARB)",
+        "summary": "market cap rank: 65",
+        "link": "https://www.coingecko.com/en/coins/arbitrum"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "STONK (STONK)",
+        "summary": "market cap rank: 211",
+        "link": "https://www.coingecko.com/en/coins/stonk-2"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Zcash (ZEC)",
         "summary": "market cap rank: 9",
         "link": "https://www.coingecko.com/en/coins/zcash"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lil' Shrub (SHRUB)",
-        "summary": "market cap rank: 762",
-        "link": "https://www.coingecko.com/en/coins/lil-shrub"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "STONK (STONK)",
-        "summary": "market cap rank: 247",
-        "link": "https://www.coingecko.com/en/coins/stonk-2"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 103",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CemvCwaCBJ8tKzpsMnybd'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CenTUUrQnwADdrnYv5Mrd'}"
   }
 }
