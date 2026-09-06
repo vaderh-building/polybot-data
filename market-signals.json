@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2026-09-06T15:54:52.220789+00:00",
+  "generated_at_utc": "2026-09-06T22:35:13.760434+00:00",
   "live_signals": {
     "english_news": [
-      {
-        "source": "CNBC Top News",
-        "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-        "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
-        "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-        "published": "Sun, 06 Sep 2026 12:13:49 GMT"
-      },
       {
         "source": "CNBC Top News",
         "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
         "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
         "link": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-        "published": "Sun, 06 Sep 2026 15:52:07 GMT"
+        "published": "Sun, 06 Sep 2026 19:41:23 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "AI data centers are transforming rural land markets — and fueling a backlash",
+        "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
+        "link": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
+        "published": "Sun, 06 Sep 2026 12:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
         "summary": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers.",
         "link": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
-        "published": "Sun, 06 Sep 2026 15:35:16 GMT"
+        "published": "Sun, 06 Sep 2026 17:53:53 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -39,45 +39,59 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "AI data centers are transforming rural land markets — and fueling a backlash",
-        "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
-        "link": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
-        "published": "Sun, 06 Sep 2026 12:00:01 GMT"
+        "title": "With HSAs, employers are turning to the 401(k) playbook",
+        "summary": "More employers are automatically enrolling workers into health savings accounts and paying contributions like a \"match.\"",
+        "link": "https://www.cnbc.com/2026/09/05/hsa-401k-plan-retirement-automatic-enrollment.html",
+        "published": "Sat, 05 Sep 2026 12:15:42 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
-        "summary": "Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.",
-        "link": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
-        "published": "Sat, 05 Sep 2026 12:20:42 GMT"
+        "title": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
+        "summary": "The Treasury has proposed regulations that would strip thousands of private schools of their tax-exempt status and threaten a valuable tax break for donations.",
+        "link": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
+        "published": "Fri, 04 Sep 2026 12:15:44 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
-        "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.",
-        "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-        "published": "Sat, 05 Sep 2026 15:11:03 GMT"
+        "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+        "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
+        "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+        "published": "Sat, 05 Sep 2026 12:00:01 GMT"
       },
       {
         "source": "BBC World",
-        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-        "summary": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+        "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 06 Sep 2026 21:37:05 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+        "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
         "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 06 Sep 2026 15:32:27 GMT"
+        "published": "Sun, 06 Sep 2026 20:41:58 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-        "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+        "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+        "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 06 Sep 2026 20:52:12 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
         "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 06 Sep 2026 09:56:39 GMT"
+        "published": "Sun, 06 Sep 2026 16:00:21 GMT"
       },
       {
         "source": "BBC World",
         "title": "Dozens feared trapped in collapsed building in Delhi",
         "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
         "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 06 Sep 2026 14:07:35 GMT"
+        "published": "Sun, 06 Sep 2026 16:54:34 GMT"
       },
       {
         "source": "BBC World",
@@ -88,10 +102,10 @@
       },
       {
         "source": "BBC World",
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 05 Sep 2026 22:44:07 GMT"
+        "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+        "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+        "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 06 Sep 2026 17:00:56 GMT"
       },
       {
         "source": "BBC World",
@@ -101,18 +115,18 @@
         "published": "Sat, 05 Sep 2026 21:00:02 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-        "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-        "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 04 Sep 2026 22:48:38 GMT"
+        "source": "CoinDesk",
+        "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+        "summary": "",
+        "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+        "published": "Sun, 06 Sep 2026 18:30:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Trump signs order to remove endangered species protection for grey wolves",
-        "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-        "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 05 Sep 2026 09:12:48 GMT"
+        "source": "CoinDesk",
+        "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+        "published": "Sun, 06 Sep 2026 16:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,20 +171,6 @@
         "published": "Sat, 05 Sep 2026 05:00:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
-        "published": "Fri, 04 Sep 2026 14:56:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
-        "published": "Fri, 04 Sep 2026 14:23:11 +0000"
-      },
-      {
         "source": "Cointelegraph",
         "title": "Here’s what happened in crypto today",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
@@ -182,103 +182,103 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-        "summary": "score: 529, comments: 262",
-        "link": "https://cloudinabottle.org/blog/launch-post",
-        "score": 529
-      },
-      {
-        "source": "Hacker News",
-        "title": "The revolt of the reader",
-        "summary": "score: 493, comments: 232",
-        "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "score": 493
-      },
-      {
-        "source": "Hacker News",
         "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-        "summary": "score: 396, comments: 113",
+        "summary": "score: 527, comments: 170",
         "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-        "score": 396
-      },
-      {
-        "source": "Hacker News",
-        "title": "Intellectual Fly Is Open (2025)",
-        "summary": "score: 250, comments: 142",
-        "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-        "score": 250
-      },
-      {
-        "source": "Hacker News",
-        "title": "Doomscrolling Ourselves to Death",
-        "summary": "score: 192, comments: 130",
-        "link": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-        "score": 192
+        "score": 527
       },
       {
         "source": "Hacker News",
         "title": "A/I shuts down – Stay human",
-        "summary": "score: 191, comments: 69",
+        "summary": "score: 468, comments: 327",
         "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "score": 191
+        "score": 468
       },
       {
         "source": "Hacker News",
-        "title": "QBittorrent breaks out of sandbox to commit crimes",
-        "summary": "score: 155, comments: 22",
-        "link": "https://beige.party/@intransitivelie/117057396732763183",
-        "score": 155
+        "title": "Your intellectual fly is open (2025)",
+        "summary": "score: 452, comments: 291",
+        "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "score": 452
       },
       {
         "source": "Hacker News",
-        "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-        "summary": "score: 120, comments: 46",
-        "link": "https://en.wikipedia.org/wiki/M-DISC",
-        "score": 120
+        "title": "Doomscrolling Ourselves to Death",
+        "summary": "score: 345, comments: 233",
+        "link": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+        "score": 345
+      },
+      {
+        "source": "Hacker News",
+        "title": "Asahi Linux on M3",
+        "summary": "score: 285, comments: 164",
+        "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+        "score": 285
+      },
+      {
+        "source": "Hacker News",
+        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+        "summary": "score: 96, comments: 4",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+        "score": 96
+      },
+      {
+        "source": "Hacker News",
+        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "summary": "score: 86, comments: 25",
+        "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "score": 86
+      },
+      {
+        "source": "Hacker News",
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "summary": "score: 86, comments: 53",
+        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "score": 86
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Firo (FIRO)",
-        "summary": "market cap rank: 892",
+        "summary": "market cap rank: 893",
         "link": "https://www.coingecko.com/en/coins/firo"
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Robin the Frog (ROBIN)",
+        "summary": "market cap rank: 996",
+        "link": "https://www.coingecko.com/en/coins/robin-the-frog"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Lil' Shrub (SHRUB)",
-        "summary": "market cap rank: 648",
+        "summary": "market cap rank: 331",
         "link": "https://www.coingecko.com/en/coins/lil-shrub"
       },
       {
         "source": "CoinGecko Trending",
         "title": "CLUSTER PROTOCOL (CP)",
-        "summary": "market cap rank: 545",
+        "summary": "market cap rank: 645",
         "link": "https://www.coingecko.com/en/coins/cluster-protocol"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 96",
-        "link": "https://www.coingecko.com/en/coins/pons"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Arbitrum (ARB)",
-        "summary": "market cap rank: 65",
-        "link": "https://www.coingecko.com/en/coins/arbitrum"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "STONK (STONK)",
-        "summary": "market cap rank: 211",
-        "link": "https://www.coingecko.com/en/coins/stonk-2"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Zcash (ZEC)",
         "summary": "market cap rank: 9",
         "link": "https://www.coingecko.com/en/coins/zcash"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pons (PONS)",
+        "summary": "market cap rank: 97",
+        "link": "https://www.coingecko.com/en/coins/pons"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bittensor (TAO)",
+        "summary": "market cap rank: 40",
+        "link": "https://www.coingecko.com/en/coins/bittensor"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CenTUUrQnwADdrnYv5Mrd'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cenz1DGeTLHdcuEQLuccm'}"
   }
 }
