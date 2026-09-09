@@ -1,284 +1,284 @@
 {
-  "generated_at_utc": "2026-09-09T09:18:59.107635+00:00",
+  "generated_at_utc": "2026-09-09T16:57:13.367128+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Brent crude hovers around $100 as U.S.-Iran tit-for-tat strikes stoke oil supply worries",
+        "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level",
+        "summary": "The much-anticipated announcement triples the normal buyback operation and follows an announcement  from Treasury Secretary Scott Bessent.",
+        "link": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
+        "published": "Wed, 09 Sep 2026 15:57:05 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Robinhood CEO says companies can't control how their stock is tokenized as AMC clash escalates",
+        "summary": "Robinhood's Vlad Tenev said public companies can’t control financial products built around their stock while acknowledging token holders don’t get voting rights.",
+        "link": "https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html",
+        "published": "Wed, 09 Sep 2026 14:38:32 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
+        "summary": "CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week.",
+        "link": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+        "published": "Wed, 09 Sep 2026 16:46:38 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
+        "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\"",
+        "link": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+        "published": "Wed, 09 Sep 2026 16:50:10 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf",
         "summary": "Oil prices extended gains on Wednesday as escalating tensions between the U.S. and Iran fueled concerns over further disruptions to Middle East energy supplies.",
         "link": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
-        "published": "Wed, 09 Sep 2026 08:16:39 GMT"
+        "published": "Wed, 09 Sep 2026 16:40:53 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
-        "summary": "Google on Wednesday said it would invest $15.1 billion into AI infrastructure in Finland, marking the tech giant's largest single investment in Europe.",
-        "link": "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
-        "published": "Wed, 09 Sep 2026 09:15:41 GMT"
+        "title": "Trump's oil investments have gained millions during Iran war as his accounts keep trading",
+        "summary": "Donald Trump retained major oil and gas investments as the Iran war has moved energy markets. CNBC analyzed his holdings, trades and estimated gains.",
+        "link": "https://www.cnbc.com/2026/09/09/trump-oil-gas-holdings-iran-war.html",
+        "published": "Wed, 09 Sep 2026 10:30:01 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
-        "summary": "An Anthropic safety researcher said there is a greater than 10% chance AI could \"kill all humans\" after a former colleague quits over safety concerns.",
-        "link": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-        "published": "Wed, 09 Sep 2026 08:48:01 GMT"
+        "title": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
+        "summary": "The Rams spent five years building their brand in Australia. This week, Los Angeles will face San Francisco in the NFL’s first regular-season game Down Under.",
+        "link": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
+        "published": "Wed, 09 Sep 2026 16:47:24 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours",
-        "summary": "OpenAI says 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours, but one mathematician has challenged the claim.",
-        "link": "https://www.cnbc.com/2026/09/09/openai-navier-stokes-math-problem-solved.html",
-        "published": "Wed, 09 Sep 2026 08:34:55 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-        "summary": "Import bans are due to come into effect on Sept. 29 as the rift between the countries deepens.",
-        "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-        "published": "Wed, 09 Sep 2026 09:01:05 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump told Putin U.S.-Russia ties could be 'fully restored' with swift end to Ukraine war, Kremlin says",
-        "summary": "The leaders were said to have discussed recent U.S. envoy visits to Moscow and Kyiv as peace talks remain stalled.",
-        "link": "https://www.cnbc.com/2026/09/09/trump-putin-us-russia-ukraine-war.html",
-        "published": "Wed, 09 Sep 2026 09:00:49 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Volatile yen risks ‘confused’ global markets, chairman of Japanese shipping giant says",
-        "summary": "Hashimoto said sharp currency swings risk creating a “confused situation” in financial and global markets.",
-        "link": "https://www.cnbc.com/2026/09/09/mitsui-chairman-yen-markets-hormuz.html",
-        "published": "Wed, 09 Sep 2026 08:00:46 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "G10’s ‘surprise’ currency star could stumble as peers hike interest rates",
-        "summary": "The British pound has benefited from a resilient economy and rate hike expectations, but the BOE looks increasingly dovish while a crucial budget lies ahead.",
-        "link": "https://www.cnbc.com/2026/09/09/fx-currencies-interest-rate-hikes.html",
-        "published": "Wed, 09 Sep 2026 05:32:16 GMT"
+        "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
+        "summary": "The U.S. denied Iran’s claim that it struck two American vessels as the two sides traded attacks near the Strait of Hormuz and Brent crude hit $100 a barrel.",
+        "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+        "published": "Wed, 09 Sep 2026 13:46:11 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Oil hits $100 a barrel for first time since July after flare up in US-Iran conflict",
+        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+        "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+        "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 09 Sep 2026 13:29:33 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
         "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
         "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 09 Sep 2026 09:03:41 GMT"
+        "published": "Wed, 09 Sep 2026 16:46:53 GMT"
       },
       {
         "source": "BBC World",
-        "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-        "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+        "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+        "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
         "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 09 Sep 2026 06:28:57 GMT"
+        "published": "Wed, 09 Sep 2026 10:20:40 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-        "summary": "The billion dollar payout marks the largest divorce settlement in the country's history.",
-        "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 09 Sep 2026 08:21:39 GMT"
+        "title": "Europe's royalty pay respects to King Harald V in Norway",
+        "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+        "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 09 Sep 2026 16:30:28 GMT"
       },
       {
         "source": "BBC World",
-        "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-        "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-        "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 08 Sep 2026 23:11:32 GMT"
+        "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+        "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 09 Sep 2026 16:01:54 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-        "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-        "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 08 Sep 2026 23:27:23 GMT"
+        "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+        "summary": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 09 Sep 2026 11:29:59 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-        "summary": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 09 Sep 2026 07:44:20 GMT"
+        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+        "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 09 Sep 2026 15:01:58 GMT"
       },
       {
         "source": "BBC World",
-        "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-        "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
-        "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 09 Sep 2026 06:42:01 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Hong Kong's first leader after British handover dies",
-        "summary": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
-        "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 09 Sep 2026 04:24:30 GMT"
+        "title": "Family of killed teen call for death penalty in D4vd trial",
+        "summary": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
+        "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 09 Sep 2026 09:58:48 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
+        "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
-        "published": "Wed, 09 Sep 2026 08:17:54 +0000"
+        "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+        "published": "Wed, 09 Sep 2026 16:11:07 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin holds above $79,000",
+        "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-        "published": "Wed, 09 Sep 2026 07:20:51 +0000"
+        "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+        "published": "Wed, 09 Sep 2026 16:05:11 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Anthropic researcher quits with a warning on AI that echoes 'The Terminator' script",
+        "title": "Tether pushes into private credit with $400 million fund with Fasanara",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
-        "published": "Wed, 09 Sep 2026 06:20:38 +0000"
+        "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+        "published": "Wed, 09 Sep 2026 15:51:25 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
+        "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
-        "published": "Wed, 09 Sep 2026 05:22:57 +0000"
+        "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+        "published": "Wed, 09 Sep 2026 15:30:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
+        "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
-        "published": "Wed, 09 Sep 2026 04:40:54 +0000"
+        "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+        "published": "Wed, 09 Sep 2026 15:24:01 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
+        "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
-        "published": "Wed, 09 Sep 2026 04:35:55 +0000"
+        "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+        "published": "Wed, 09 Sep 2026 14:58:07 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
+        "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
-        "published": "Tue, 08 Sep 2026 15:23:46 +0000"
+        "link": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
+        "published": "Wed, 09 Sep 2026 14:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+        "title": "PayPal expands stablecoin rails with custom token issuance platform",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
-        "published": "Tue, 08 Sep 2026 14:40:46 +0000"
+        "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+        "published": "Wed, 09 Sep 2026 14:00:00 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Iran eases currency rules to bypass US sanctions with crypto: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22ESE8ZYFYS2R1YN4CJ0FMK/hi-iran-launching-a-currency.jpg\" /></p><p>Exporters can now fund imports with overseas earnings without first selling their foreign currency at official rates, the Financial Times reported.</p>",
-        "link": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 09 Sep 2026 07:36:39 +0000"
+        "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png\" /></p><p>The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain.</p>",
+        "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 09 Sep 2026 16:37:08 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-        "summary": "score: 1649, comments: 699",
-        "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
-        "score": 1649
+        "title": "Claude, change the \"Add to Cart\" button to blue",
+        "summary": "score: 645, comments: 251",
+        "link": "https://opusfived.dev/",
+        "score": 645
       },
       {
         "source": "Hacker News",
-        "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-        "summary": "score: 558, comments: 119",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-        "score": 558
+        "title": "Tailwind Labs is joining Shopify",
+        "summary": "score: 506, comments: 199",
+        "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+        "score": 506
       },
       {
         "source": "Hacker News",
-        "title": "Muse – Meta’s personal AI agent",
-        "summary": "score: 497, comments: 538",
-        "link": "https://ai.meta.com/muse/",
-        "score": 497
+        "title": "Desert Ant Labs: local, fast models that run on device",
+        "summary": "score: 271, comments: 69",
+        "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
+        "score": 271
       },
       {
         "source": "Hacker News",
-        "title": "DaVinci Resolve 21.1",
-        "summary": "score: 402, comments: 177",
-        "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
-        "score": 402
+        "title": "I advertise malicious software on Google Ads",
+        "summary": "score: 257, comments: 155",
+        "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
+        "score": 257
       },
       {
         "source": "Hacker News",
-        "title": "How to build a printer",
-        "summary": "score: 323, comments: 63",
-        "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-        "score": 323
-      },
-      {
-        "source": "Hacker News",
-        "title": "Copyright does more harm than good and should be abolished",
-        "summary": "score: 212, comments: 156",
-        "link": "https://grapheneos.social/@GrapheneOS/117231186011306184",
-        "score": 212
-      },
-      {
-        "source": "Hacker News",
-        "title": "Mercury 2.5",
-        "summary": "score: 196, comments: 30",
-        "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-        "score": 196
-      },
-      {
-        "source": "Hacker News",
-        "title": "Large language models develop novel social biases through adaptive exploration",
-        "summary": "score: 156, comments: 80",
-        "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+        "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+        "summary": "score: 156, comments: 55",
+        "link": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
         "score": 156
+      },
+      {
+        "source": "Hacker News",
+        "title": "No Man's Sky Cosmos",
+        "summary": "score: 97, comments: 73",
+        "link": "https://www.nomanssky.com/cosmos-update/",
+        "score": 97
+      },
+      {
+        "source": "Hacker News",
+        "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+        "summary": "score: 94, comments: 15",
+        "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "score": 94
+      },
+      {
+        "source": "Hacker News",
+        "title": "Investing in Mothers? The Long-Run Impact of a Universal Child Care",
+        "summary": "score: 60, comments: 53",
+        "link": "https://www.nber.org/papers/w35514",
+        "score": 60
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
+        "title": "Hunter Biden's Laptop (LAPTOP)",
+        "summary": "market cap rank: 99",
+        "link": "https://www.coingecko.com/en/coins/hunter-bidens-laptop"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "USELESS STONK (STONKLESS)",
+        "summary": "market cap rank: 912",
+        "link": "https://www.coingecko.com/en/coins/useless-stonk"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Cluster Protocol (CP)",
+        "summary": "market cap rank: 812",
+        "link": "https://www.coingecko.com/en/coins/cluster-protocol"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 67",
+        "summary": "market cap rank: 70",
         "link": "https://www.coingecko.com/en/coins/venice-token"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 65",
-        "link": "https://www.coingecko.com/en/coins/lighter"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 99",
-        "link": "https://www.coingecko.com/en/coins/pons"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Useless Coin (USELESS)",
-        "summary": "market cap rank: 135",
-        "link": "https://www.coingecko.com/en/coins/useless-3"
+        "title": "STONK (STONK)",
+        "summary": "market cap rank: 181",
+        "link": "https://www.coingecko.com/en/coins/stonk-2"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 9",
+        "summary": "market cap rank: 10",
         "link": "https://www.coingecko.com/en/coins/zcash"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 40",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 107",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Pons (PONS)",
+        "summary": "market cap rank: 109",
+        "link": "https://www.coingecko.com/en/coins/pons"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CesciHSmY9njkWk7bGeSb'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CetDezXXccqbPJXn79Evi'}"
   }
 }
