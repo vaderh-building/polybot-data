@@ -1,20 +1,48 @@
 {
-  "generated_at_utc": "2026-09-17T17:22:51.116840+00:00",
+  "generated_at_utc": "2026-09-17T23:17:25.545325+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Here are five key takeaways from Wednesday's Fed rate hike",
-        "summary": "The Fed on Wednesday delivered a much-expected interest rate hike.",
-        "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
-        "published": "Wed, 16 Sep 2026 21:23:51 GMT"
+        "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
+        "summary": "As the midterm elections approach, Republicans are touting President Donald Trump's \"big beautiful bill\" to voters. Here's who benefited from the tax cuts.",
+        "link": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
+        "published": "Thu, 17 Sep 2026 20:32:07 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+        "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+        "summary": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.",
+        "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
+        "published": "Thu, 17 Sep 2026 22:22:53 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
         "summary": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.",
         "link": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-        "published": "Thu, 17 Sep 2026 17:14:39 GMT"
+        "published": "Thu, 17 Sep 2026 20:22:20 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Lawmakers must 'keep their options open' on Social Security reform, former Treasury Secretary Jack Lew says",
+        "summary": "The next U.S. president and candidates for Senate this November will be tasked with addressing Social Security's funding shortfall.",
+        "link": "https://www.cnbc.com/2026/09/17/social-security-reform-cant-wait-former-treasury-secretary-jack-lew.html",
+        "published": "Thu, 17 Sep 2026 19:57:41 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+        "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
+        "link": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+        "published": "Thu, 17 Sep 2026 21:00:47 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+        "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.",
+        "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+        "published": "Thu, 17 Sep 2026 17:59:51 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -25,38 +53,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales",
-        "summary": "The large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things.",
-        "link": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
-        "published": "Thu, 17 Sep 2026 14:39:40 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
-        "summary": "Record diesel prices are already walloping the transportation sector, and if energy prices stay high, the economic impact will spread.",
-        "link": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
-        "published": "Thu, 17 Sep 2026 17:02:07 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
-        "summary": "U.S. President Donald Trump had described the prospect of Canada becoming the first associate member of the EU as \"laughable.\"",
-        "link": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
-        "published": "Thu, 17 Sep 2026 12:36:54 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
-        "summary": "The long awaited Innovation Exemption comes two days after the Senate voted to block the Clarity Act crypto market structure bill from advancing.",
-        "link": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
-        "published": "Thu, 17 Sep 2026 13:00:28 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
-        "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
-        "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-        "published": "Thu, 17 Sep 2026 14:28:39 GMT"
+        "title": "House heads home to campaign amid calls for urgent AI action",
+        "summary": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
+        "link": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+        "published": "Thu, 17 Sep 2026 22:48:08 GMT"
       },
       {
         "source": "BBC World",
@@ -74,31 +74,31 @@
       },
       {
         "source": "BBC World",
-        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-        "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-        "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 17 Sep 2026 05:00:18 GMT"
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 17 Sep 2026 20:34:30 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-        "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 17 Sep 2026 08:22:12 GMT"
+        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+        "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 17 Sep 2026 21:41:19 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Swedish PM Kristersson resigns after election loss",
-        "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-        "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 17 Sep 2026 12:41:05 GMT"
+        "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+        "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+        "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 17 Sep 2026 17:08:00 GMT"
       },
       {
         "source": "BBC World",
-        "title": "EU announces plan to restrict social media access for under-15s",
-        "summary": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
-        "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 17 Sep 2026 10:00:14 GMT"
+        "title": "Hyrox athlete apologises for continuing race after soiling herself",
+        "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+        "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 17 Sep 2026 15:05:13 GMT"
       },
       {
         "source": "BBC World",
@@ -109,10 +109,38 @@
       },
       {
         "source": "BBC World",
-        "title": "Klopp wants to 'reclaim' flag amid German elections",
-        "summary": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 17 Sep 2026 13:02:40 GMT"
+        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+        "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+        "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 17 Sep 2026 05:00:18 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+        "published": "Thu, 17 Sep 2026 21:47:22 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+        "published": "Thu, 17 Sep 2026 21:28:35 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
+        "published": "Thu, 17 Sep 2026 18:40:38 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
+        "published": "Thu, 17 Sep 2026 18:38:10 +0000"
       },
       {
         "source": "CoinDesk",
@@ -143,130 +171,84 @@
         "published": "Thu, 17 Sep 2026 14:50:58 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
-        "published": "Thu, 17 Sep 2026 13:15:21 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
-        "published": "Thu, 17 Sep 2026 13:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
-        "published": "Thu, 17 Sep 2026 12:37:21 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
-        "published": "Thu, 17 Sep 2026 12:00:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Is there any chance left to save the CLARITY Act?",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Is there any chance left to save the CLARITY Act?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20RQ63SNVA0RPYQR00172VH/hi-in-a-labyrinth-clarity-act-us.jpg\" /></p><p>CLARITY isn’t dead after failing a key Senate vote, but with time running short and Democrats still demanding changes, its path forward is narrowing.</p>",
-        "link": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 17 Sep 2026 17:00:00 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 17 Sep 2026 20:44:00 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Nvidia announces native GPU programming in Rust",
-        "summary": "score: 894, comments: 355",
-        "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "score": 894
-      },
-      {
-        "source": "Hacker News",
         "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-        "summary": "score: 309, comments: 121",
+        "summary": "score: 479, comments: 176",
         "link": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-        "score": 309
+        "score": 479
       },
       {
         "source": "Hacker News",
-        "title": "One Year of Sponsored Servo Development",
-        "summary": "score: 285, comments: 124",
-        "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-        "score": 285
+        "title": "Hister: A private search engine for the pages you visit and the files you keep",
+        "summary": "score: 398, comments: 122",
+        "link": "https://github.com/asciimoo/hister",
+        "score": 398
       },
       {
         "source": "Hacker News",
-        "title": "CCC invites all model citizens to 40C3",
-        "summary": "score: 231, comments: 76",
-        "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-        "score": 231
+        "title": "Astra for Law",
+        "summary": "score: 212, comments: 226",
+        "link": "https://openai.com/index/astra-for-law/",
+        "score": 212
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Share your AI Setup, Learn from others",
-        "summary": "score: 74, comments: 38",
-        "link": "https://mysetup.ai/",
-        "score": 74
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+        "summary": "score: 204, comments: 114",
+        "link": "https://bend-lang.com/",
+        "score": 204
+      },
+      {
+        "source": "Hacker News",
+        "title": "Wax motor",
+        "summary": "score: 185, comments: 38",
+        "link": "https://en.wikipedia.org/wiki/Wax_motor",
+        "score": 185
       },
       {
         "source": "Hacker News",
         "title": "Rate limits on GitLab.com are changing",
-        "summary": "score: 62, comments: 55",
+        "summary": "score: 141, comments: 103",
         "link": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-        "score": 62
+        "score": 141
       },
       {
         "source": "Hacker News",
-        "title": "Why I didn’t sign the Fields medallists’ letter",
-        "summary": "score: 61, comments: 95",
-        "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-        "score": 61
+        "title": "CrowdSec Source Code Leak",
+        "summary": "score: 120, comments: 35",
+        "link": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+        "score": 120
       },
       {
         "source": "Hacker News",
-        "title": "Whoisinspace.com/",
-        "summary": "score: 53, comments: 18",
-        "link": "https://whoisinspace.com",
-        "score": 53
+        "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+        "summary": "score: 111, comments: 31",
+        "link": "https://prismml.com/news/bonsai-2-27b",
+        "score": 111
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 9",
-        "link": "https://www.coingecko.com/en/coins/zcash"
+        "title": "Official Trump (TRUMP)",
+        "summary": "market cap rank: 102",
+        "link": "https://www.coingecko.com/en/coins/official-trump"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 28",
-        "link": "https://www.coingecko.com/en/coins/near"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 114",
-        "link": "https://www.coingecko.com/en/coins/pons"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "STONK (STONK)",
-        "summary": "market cap rank: 182",
-        "link": "https://www.coingecko.com/en/coins/stonk-2"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 113",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Firo (FIRO)",
+        "summary": "market cap rank: 891",
+        "link": "https://www.coingecko.com/en/coins/firo"
       },
       {
         "source": "CoinGecko Trending",
@@ -276,9 +258,27 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Derive (DRV)",
-        "summary": "market cap rank: 166",
-        "link": "https://www.coingecko.com/en/coins/derive"
+        "title": "Zcash (ZEC)",
+        "summary": "market cap rank: 9",
+        "link": "https://www.coingecko.com/en/coins/zcash"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 114",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "NEAR Protocol (NEAR)",
+        "summary": "market cap rank: 27",
+        "link": "https://www.coingecko.com/en/coins/near"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pearl (PRL)",
+        "summary": "market cap rank: 181",
+        "link": "https://www.coingecko.com/en/coins/pearl-2"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf9Q5gAtKDCnaSSSm8P8q'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf9s7uhRwxaNzNeB4NZ2L'}"
   }
 }
