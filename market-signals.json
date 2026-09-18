@@ -1,83 +1,97 @@
 {
-  "generated_at_utc": "2026-09-18T16:50:41.801468+00:00",
+  "generated_at_utc": "2026-09-18T22:55:34.014749+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
+        "summary": "Trump, who often accuses mainstream media outlets of writing \"fake news,\" said on Truth Social that those outlets shouldn't be allowed to \"FICTION and LIES.\"",
+        "link": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+        "published": "Fri, 18 Sep 2026 21:20:17 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+        "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+        "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+        "published": "Fri, 18 Sep 2026 22:32:08 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
         "summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
         "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-        "published": "Fri, 18 Sep 2026 14:36:55 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
-        "summary": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-        "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
-        "published": "Fri, 18 Sep 2026 16:21:20 GMT"
+        "published": "Fri, 18 Sep 2026 21:35:55 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
         "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
         "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
-        "published": "Fri, 18 Sep 2026 16:33:43 GMT"
+        "published": "Fri, 18 Sep 2026 18:28:31 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
-        "summary": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player.",
-        "link": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
-        "published": "Fri, 18 Sep 2026 16:42:14 GMT"
+        "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+        "summary": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
+        "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+        "published": "Fri, 18 Sep 2026 21:37:38 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-        "summary": "Leaders of six major auto trade groups joined to sign a letter to the president.",
-        "link": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
-        "published": "Fri, 18 Sep 2026 16:26:27 GMT"
+        "title": "AI cloud provider Nscale files to go public",
+        "summary": "Nscale is the latest artificial intelligence neocloud to turn to public markets.",
+        "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+        "published": "Fri, 18 Sep 2026 21:08:28 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
-        "summary": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets.",
-        "link": "https://www.cnbc.com/2026/09/18/trump-election-ad-spend-maga-inc.html",
-        "published": "Fri, 18 Sep 2026 16:49:03 GMT"
+        "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+        "summary": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
+        "link": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+        "published": "Fri, 18 Sep 2026 19:15:24 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-        "summary": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
-        "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-        "published": "Fri, 18 Sep 2026 12:04:02 GMT"
+        "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+        "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+        "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+        "published": "Fri, 18 Sep 2026 17:34:49 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
-        "summary": "Senators elected this November will be in office when Social Security's retirement trust fund is projected to run dry.",
-        "link": "https://www.cnbc.com/2026/09/18/social-security-senate-races-battleground-voters-survey.html",
-        "published": "Fri, 18 Sep 2026 13:15:01 GMT"
+        "source": "BBC World",
+        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 18 Sep 2026 22:51:12 GMT"
       },
       {
         "source": "BBC World",
         "title": "Russian hybrid attacks against Europe intensifying, says Macron",
         "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
         "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 18 Sep 2026 15:14:35 GMT"
+        "published": "Fri, 18 Sep 2026 18:04:38 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Three dead and eight injured in Philippines school shooting",
-        "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 18 Sep 2026 11:01:46 GMT"
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+        "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 18 Sep 2026 21:45:19 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Police begin operation to move migrants from Ceuta beaches",
-        "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 18 Sep 2026 11:59:42 GMT"
+        "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+        "summary": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
+        "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 18 Sep 2026 18:56:17 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+        "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+        "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 18 Sep 2026 20:17:50 GMT"
       },
       {
         "source": "BBC World",
@@ -88,31 +102,17 @@
       },
       {
         "source": "BBC World",
-        "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
-        "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-        "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 18 Sep 2026 15:08:12 GMT"
+        "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+        "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 18 Sep 2026 17:10:58 GMT"
       },
       {
         "source": "BBC World",
-        "title": "New wild cat species discovered - with only one known living member",
-        "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 17 Sep 2026 23:15:55 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-        "summary": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 18 Sep 2026 12:45:25 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Dozens of suspected illegal miners die in Nigerian custody",
-        "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-        "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 18 Sep 2026 15:47:28 GMT"
+        "title": "North Korean anthem played for South Korea at Asian Games",
+        "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+        "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 18 Sep 2026 17:18:09 GMT"
       },
       {
         "source": "CoinDesk",
@@ -172,89 +172,83 @@
       },
       {
         "source": "Cointelegraph",
-        "title": "CFTC submits crypto market regulation plan for White House review",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC submits crypto market regulation plan for White House review  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg\" /></p><p>The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act.\n</p>",
-        "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 18 Sep 2026 16:04:22 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 18 Sep 2026 21:00:00 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "I don't like passkeys",
-        "summary": "score: 494, comments: 467",
-        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-        "score": 494
-      },
-      {
-        "source": "Hacker News",
-        "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-        "summary": "score: 418, comments: 175",
-        "link": "https://www.hacktron.ai/blog/hacking-openai",
-        "score": 418
-      },
-      {
-        "source": "Hacker News",
         "title": "OpenJev",
-        "summary": "score: 372, comments: 200",
+        "summary": "score: 520, comments: 235",
         "link": "https://openjev.com/",
-        "score": 372
+        "score": 520
       },
       {
         "source": "Hacker News",
         "title": "Cloudflare Quick Tunnels",
-        "summary": "score: 181, comments: 84",
+        "summary": "score: 502, comments: 218",
         "link": "https://try.cloudflare.com/",
-        "score": 181
+        "score": 502
       },
       {
         "source": "Hacker News",
-        "title": "An Empirical Study of Harness Design for Coding Agents",
+        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "summary": "score: 385, comments: 175",
+        "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "score": 385
+      },
+      {
+        "source": "Hacker News",
+        "title": "How to Write with an LLM",
+        "summary": "score: 346, comments: 237",
+        "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "score": 346
+      },
+      {
+        "source": "Hacker News",
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "summary": "score: 292, comments: 120",
+        "link": "https://code.claude.com/docs/en/changelog",
+        "score": 292
+      },
+      {
+        "source": "Hacker News",
+        "title": "Saving another 100TB of RAM",
         "summary": "score: 156, comments: 33",
-        "link": "https://arxiv.org/abs/2609.20804",
+        "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
         "score": 156
       },
       {
         "source": "Hacker News",
-        "title": "I vibed a proof of Conway's conjecture",
-        "summary": "score: 85, comments: 84",
-        "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-        "score": 85
+        "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+        "summary": "score: 144, comments: 71",
+        "link": "https://cactuscompute.com/needle",
+        "score": 144
       },
       {
         "source": "Hacker News",
-        "title": "North Korean nuclear test sets off years of earthquakes",
-        "summary": "score: 72, comments: 54",
-        "link": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-        "score": 72
-      },
-      {
-        "source": "Hacker News",
-        "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
-        "summary": "score: 51, comments: 22",
-        "link": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
-        "score": 51
+        "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+        "summary": "score: 136, comments: 42",
+        "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+        "score": 136
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Firo (FIRO)",
-        "summary": "market cap rank: 843",
-        "link": "https://www.coingecko.com/en/coins/firo"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Zano (ZANO)",
-        "summary": "market cap rank: 267",
+        "summary": "market cap rank: 248",
         "link": "https://www.coingecko.com/en/coins/zano"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 9",
-        "link": "https://www.coingecko.com/en/coins/zcash"
+        "title": "Firo (FIRO)",
+        "summary": "market cap rank: 830",
+        "link": "https://www.coingecko.com/en/coins/firo"
       },
       {
         "source": "CoinGecko Trending",
@@ -265,20 +259,26 @@
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 109",
+        "summary": "market cap rank: 108",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Derive (DRV)",
-        "summary": "market cap rank: 155",
-        "link": "https://www.coingecko.com/en/coins/derive"
+        "title": "Pearl (PRL)",
+        "summary": "market cap rank: 159",
+        "link": "https://www.coingecko.com/en/coins/pearl-2"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Arbitrum (ARB)",
-        "summary": "market cap rank: 62",
-        "link": "https://www.coingecko.com/en/coins/arbitrum"
+        "title": "Starknet (STRK)",
+        "summary": "market cap rank: 134",
+        "link": "https://www.coingecko.com/en/coins/starknet"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Zcash (ZEC)",
+        "summary": "market cap rank: 9",
+        "link": "https://www.coingecko.com/en/coins/zcash"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfBFSP242AQ7uxp8ARULj'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfBjG9QjkKcho2SVEboDA'}"
   }
 }
