@@ -1,62 +1,62 @@
 {
-  "generated_at_utc": "2026-09-21T18:24:27.168288+00:00",
+  "generated_at_utc": "2026-09-21T23:44:56.034146+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Much of Trump’s promised midterm election spending has yet to surface, new filing shows",
+        "summary": "MAGA Inc. entered September with $415.8 million as much of Trump’s promised midterm spending had yet to surface publicly.",
+        "link": "https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html",
+        "published": "Mon, 21 Sep 2026 20:34:33 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
+        "summary": "The market just posted major gains, but the latest performance is not as strong as it may seem.",
+        "link": "https://www.cnbc.com/2026/09/21/stocks-had-a-great-day-on-the-surface-but-something-alarming-occurred-not-seen-since-1999.html",
+        "published": "Mon, 21 Sep 2026 21:20:41 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
+        "summary": "Jacob Coxon's post nearly two weeks ago that Anthropic and OpenAI were \"gambling with our lives\" set off a global debate about AI safety.",
+        "link": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
+        "published": "Mon, 21 Sep 2026 20:51:11 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
+        "summary": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
+        "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+        "published": "Mon, 21 Sep 2026 23:03:04 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
         "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
         "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-        "published": "Mon, 21 Sep 2026 18:12:51 GMT"
+        "published": "Mon, 21 Sep 2026 20:13:15 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally",
-        "summary": "AMD has had a monster 2026 with the stock up more than 180% so far.",
-        "link": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
-        "published": "Mon, 21 Sep 2026 16:47:40 GMT"
+        "title": "Investors discover their new favorite consumer AI play in Meta. Options volume is surging",
+        "summary": "Shares of the social media giant surged 12% Monday.",
+        "link": "https://www.cnbc.com/2026/09/21/meta-investors-discover-new-ai-play.html",
+        "published": "Mon, 21 Sep 2026 20:13:33 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "White House TV pool won't cover Trump after press ban: CNN",
-        "summary": "The decision comes as CNN, MS NOW and Politico said they are suing Trump to overturn his new ban of those three media outlets from the White House.",
-        "link": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-        "published": "Mon, 21 Sep 2026 16:44:53 GMT"
+        "title": "Retailer Revolve announces partnership with Donatella Versace",
+        "summary": "REVOLVE's partnership with Donatella Versace is the retailer's latest bid to create for young consumers.",
+        "link": "https://www.cnbc.com/2026/09/21/revolve-partnership-donatella-versace.html",
+        "published": "Mon, 21 Sep 2026 19:44:52 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production",
-        "summary": "Eli Lilly is trying to catch up in the GLP-1 pill market to Novo, which got a head start in the space.",
-        "link": "https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html",
-        "published": "Mon, 21 Sep 2026 17:14:29 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump says DOJ will rein in AI 'if we have to'",
-        "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
-        "link": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
-        "published": "Mon, 21 Sep 2026 16:46:24 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "FAA halts flights to Newark, Philadelphia, New York because of equipment problem",
-        "summary": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
-        "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
-        "published": "Mon, 21 Sep 2026 17:45:27 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
-        "summary": "Bessent spoke with CNBC's \"Squawk Box\" about AI safety concerns and this week's summit between Chinese President Xi Jinping and President Donald Trump.",
-        "link": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
-        "published": "Mon, 21 Sep 2026 15:14:18 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Stock boom is fueling a ‘retirement party,’ economists say — what it means for workers",
-        "summary": "Stocks have surged and the resulting \"wealth effect\" has led older workers to retire at a faster clip.",
-        "link": "https://www.cnbc.com/2026/09/21/stock-gains-fuel-retirements-among-older-workers-economists.html",
-        "published": "Mon, 21 Sep 2026 17:14:25 GMT"
+        "title": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
+        "summary": "Data centers have been a flash point in the 2026 midterm elections, including Abbott's bid for reelection against Democratic state Rep. Gina Hinojosa.",
+        "link": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
+        "published": "Mon, 21 Sep 2026 22:46:26 GMT"
       },
       {
         "source": "BBC World",
@@ -70,7 +70,7 @@
         "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
         "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
         "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 21 Sep 2026 15:58:53 GMT"
+        "published": "Mon, 21 Sep 2026 22:48:33 GMT"
       },
       {
         "source": "BBC World",
@@ -89,9 +89,9 @@
       {
         "source": "BBC World",
         "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-        "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+        "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
         "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 21 Sep 2026 14:06:12 GMT"
+        "published": "Mon, 21 Sep 2026 20:26:41 GMT"
       },
       {
         "source": "BBC World",
@@ -113,6 +113,20 @@
         "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
         "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
         "published": "Mon, 21 Sep 2026 17:02:47 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+        "published": "Mon, 21 Sep 2026 20:39:39 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+        "published": "Mon, 21 Sep 2026 19:08:40 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,105 +171,73 @@
         "published": "Mon, 21 Sep 2026 12:17:48 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-        "published": "Mon, 21 Sep 2026 12:08:02 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
-        "published": "Mon, 21 Sep 2026 11:36:11 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle launches Bitcoin-backed USDC borrowing for institutional clients\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg\" /></p><p>Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for USDC liquidity without selling their Bitcoin.</p>",
-        "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 21 Sep 2026 16:56:53 +0000"
+        "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saudi Arabia exits China-backed mBridge CBDC project: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32QR8FM0NWT9YWDG9WEJZ7M/bank-building-hall-entrance-revolving-doorsthreetether-2.png\" /></p><p>Saudi Arabia has left mBridge, a cross-border CBDC platform that has drawn scrutiny from US policymakers, according to the Financial Times.</p>",
+        "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 21 Sep 2026 20:37:15 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "What happened to the Snowden archive",
-        "summary": "score: 625, comments: 436",
-        "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-        "score": 625
-      },
-      {
-        "source": "Hacker News",
-        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-        "summary": "score: 331, comments: 73",
-        "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-        "score": 331
+        "title": "Attention is all you have",
+        "summary": "score: 544, comments: 155",
+        "link": "https://alicegg.tech/2026/09/21/attention",
+        "score": 544
       },
       {
         "source": "Hacker News",
         "title": "What Sun got wrong",
-        "summary": "score: 326, comments: 176",
+        "summary": "score: 477, comments: 263",
         "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-        "score": 326
+        "score": 477
       },
       {
         "source": "Hacker News",
-        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-        "summary": "score: 321, comments: 151",
-        "link": "https://github.com/jaredpalmer/kev/tree/main",
-        "score": 321
+        "title": "Xiaomi MiMo v2.6",
+        "summary": "score: 426, comments: 211",
+        "link": "https://mimo.xiaomi.com/mimo-v2-6",
+        "score": 426
       },
       {
         "source": "Hacker News",
-        "title": "Attention is all you have",
-        "summary": "score: 278, comments: 75",
-        "link": "https://alicegg.tech/2026/09/21/attention",
-        "score": 278
+        "title": "NASA’s Mars Sample Return mission is dead",
+        "summary": "score: 264, comments: 196",
+        "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+        "score": 264
       },
       {
         "source": "Hacker News",
-        "title": "Grok 4.7",
-        "summary": "score: 267, comments: 211",
-        "link": "https://x.ai/news/grok-4-7",
-        "score": 267
+        "title": "Transformers Explained Visually",
+        "summary": "score: 146, comments: 24",
+        "link": "https://poloclub.github.io/transformer-explainer/",
+        "score": 146
       },
       {
         "source": "Hacker News",
-        "title": "M5 Ultra Mac Studio Review",
-        "summary": "score: 167, comments: 138",
-        "link": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-        "score": 167
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "summary": "score: 112, comments: 95",
+        "link": "https://linear.app/now/ci-bottleneck-reworked",
+        "score": 112
       },
       {
         "source": "Hacker News",
-        "title": "Fable 5 – Median thinking declined in August",
-        "summary": "score: 155, comments: 93",
-        "link": "https://twitter.com/Lon/status/2101793422487204027",
-        "score": 155
+        "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+        "summary": "score: 107, comments: 62",
+        "link": "https://www.personalimportation.org/advocacy",
+        "score": 107
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why does mathmain need an encrypted loader?",
+        "summary": "score: 95, comments: 27",
+        "link": "https://safedep.io/mathmain-encrypted-loader/",
+        "score": 95
       }
     ],
     "crypto_trending": [
-      {
-        "source": "CoinGecko Trending",
-        "title": "astronaut (ASTRO)",
-        "summary": "market cap rank: 683",
-        "link": "https://www.coingecko.com/en/coins/astronaut-2"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Firo (FIRO)",
-        "summary": "market cap rank: 814",
-        "link": "https://www.coingecko.com/en/coins/firo"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Zano (ZANO)",
-        "summary": "market cap rank: 244",
-        "link": "https://www.coingecko.com/en/coins/zano"
-      },
       {
         "source": "CoinGecko Trending",
         "title": "Official Trump (TRUMP)",
@@ -264,9 +246,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Edel (EDEL)",
-        "summary": "market cap rank: 869",
-        "link": "https://www.coingecko.com/en/coins/edel"
+        "title": "Firo (FIRO)",
+        "summary": "market cap rank: 833",
+        "link": "https://www.coingecko.com/en/coins/firo"
       },
       {
         "source": "CoinGecko Trending",
@@ -276,140 +258,155 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 23",
-        "link": "https://www.coingecko.com/en/coins/near"
+        "title": "Edel (EDEL)",
+        "summary": "market cap rank: 885",
+        "link": "https://www.coingecko.com/en/coins/edel"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bittensor (TAO)",
+        "summary": "market cap rank: 33",
+        "link": "https://www.coingecko.com/en/coins/bittensor"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "STONK (STONK)",
+        "summary": "market cap rank: 150",
+        "link": "https://www.coingecko.com/en/coins/stonk-2"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Zcash (ZEC)",
+        "summary": "market cap rank: 9",
+        "link": "https://www.coingecko.com/en/coins/zcash"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $90,000 by end of 2026-Q2?",
+        "market_title": "Will Bitcoin close above $90,000 by June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "BTC at $86K with institutional accumulation signals (Bitmine $75M, Strategy $75M buys) and 44% Q3 gains suggest momentum continuation into May-June.",
-        "signal_source": "Cointelegraph, CoinDesk institutional buyer activity; Bitcoin price at $86K"
+        "why_now": "CoinDesk reports shorts being squeezed with Bitcoin at $86K; trader leverage warnings suggest asymmetric upside if shorts capitulate.",
+        "signal_source": "CoinDesk: 'Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building'"
       },
       {
-        "market_title": "Will AMD stock remain above $200 by 2026-12-31?",
-        "venue": "Polymarket",
-        "why_now": "AMD hit $1T market cap on 180% YTD rally; market euphoria peaks, pullback risk high but semiconductor cycle strength remains.",
-        "signal_source": "CNBC AMD market cap milestone; technical sentiment extremes"
-      },
-      {
-        "market_title": "Will Eli Lilly's Foundayo capture >40% of new GLP-1 pill market share by 2026-12-31?",
-        "venue": "Manifold",
-        "why_now": "CEO disclosed one-third of new patients already on Foundayo; production ramp underway against Novo's head start—addressable market clarity emerging.",
-        "signal_source": "CNBC Eli Lilly earnings commentary"
-      },
-      {
-        "market_title": "Will the ECB tokenized bond purchase initiative (Pontes) process >€1B notional by 2026-Q4?",
+        "market_title": "Will Sherrod Brown lose his Ohio Senate seat in November 2026?",
         "venue": "Kalshi",
-        "why_now": "ECB officially launched Pontes for tokenized asset settlement; institutional adoption curve and regulatory endorsement now measurable.",
-        "signal_source": "Cointelegraph ECB tokenization announcement; Google/Apple stablecoin hiring signals broader institutional demand"
+        "why_now": "Crypto PAC allocated $30M to oppose Brown; this direct political spend is rare and signals high confidence in his vulnerability.",
+        "signal_source": "CoinDesk & Cointelegraph: 'Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid'"
       },
       {
-        "market_title": "Will Solana (SOL) flip Ethereum in 24h on-chain transaction volume by 2026-09-30?",
+        "market_title": "Will the Paramount-Warner Bros. merger close by December 31, 2026?",
+        "venue": "Polymarket",
+        "why_now": "Antitrust settlement filed; CNBC reports lawsuit threatened delay until mid-2027, but settlement clears path—bet on acceleration vs. further delays.",
+        "signal_source": "CNBC: 'Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed'"
+      },
+      {
+        "market_title": "Will the ECB announce a tokenized bond purchase program by September 30, 2026?",
         "venue": "Manifold",
-        "why_now": "Kyle Samani prediction gaining traction in crypto Twitter; SOL ecosystem maturation and MEV dynamics provide testable thesis.",
-        "signal_source": "Cointelegraph Kyle Samani flippening prediction; NEAR Protocol trending alongside SOL alternatives"
+        "why_now": "ECB already signaled intent to buy tokenized bonds with its own funds; formalization of this into a published program is the next catalyst.",
+        "signal_source": "CoinDesk: 'ECB plans to buy tokenized bonds with its own funds'"
+      },
+      {
+        "market_title": "Will Saudi Arabia re-enter the mBridge CBDC project by December 31, 2026?",
+        "venue": "Manifold",
+        "why_now": "FT reports Saudi exit from China-backed project; geopolitical pivot away from Beijing is significant—market should price odds of reversal.",
+        "signal_source": "Cointelegraph: 'Saudi Arabia exits China-backed mBridge CBDC project: FT'"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the US DOJ announce formal AI regulation framework or executive order by 2026-11-30?",
-        "deadline": "2026-11-30",
-        "resolution_source": "Official White House press release or DOJ statement; Federal Register publication",
-        "why_underpriced": "Trump stated DOJ will 'rein in AI if we have to' but markets pricing minimal regulatory risk; Bessent's refusal of liability shield signals actual intervention coming.",
-        "trigger_signal": "CNBC Trump AI regulation threat; Bessent liability shield statement"
-      },
-      {
-        "question": "Will Paramount's Warner Bros. merger close before 2026-12-31?",
-        "deadline": "2026-12-31",
-        "resolution_source": "SEC merger completion filing or company investor relations announcement",
-        "why_underpriced": "Antitrust settlement removes mid-2027 deadline risk; deal now de-risked but market still pricing delayed close.",
-        "trigger_signal": "CNBC antitrust settlement announcement; timeline acceleration"
-      },
-      {
-        "question": "Will Circle's Bitcoin-backed USDC borrowing facility reach $500M in deposits by 2026-09-30?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Circle official blog, Dune Analytics dashboard, or company financial disclosure",
-        "why_underpriced": "Institutional demand for BTC collateral lending underestimated; institutional adoption phase beginning with zero analyst coverage.",
-        "trigger_signal": "Cointelegraph Circle institutional USDC borrowing launch; Bitmine/Strategy BTC accumulation signal"
-      },
-      {
-        "question": "Will Treasury Secretary Bessent formally propose stablecoin reserve backing framework by 2026-08-31?",
+        "question": "Will Meta stock close above $500 by August 31, 2026?",
         "deadline": "2026-08-31",
-        "resolution_source": "Treasury Department policy paper, Congressional testimony transcript, or White House announcement",
-        "why_underpriced": "Bessent championing 'dollar dominance across global markets and stablecoins'—signals policy action; crypto markets not pricing pro-stablecoin advocacy.",
-        "trigger_signal": "CoinDesk Bessent stablecoin dominance statement; Google/Apple crypto talent hiring"
+        "resolution_source": "Yahoo Finance / NASDAQ official closing price",
+        "why_underpriced": "CNBC reports Meta surged 12% Monday as 'investors discover their new favorite consumer AI play'; options volume exploding suggests bullish gamma ramp—retail-driven euphoria may not be fully priced into long-dated options.",
+        "trigger_signal": "CNBC: 'Investors discover their new favorite consumer AI play in Meta. Options volume is surging'"
       },
       {
-        "question": "Will Crypto PAC spending against Senator Sherrod Brown exceed $50M by 2026-11-04?",
-        "deadline": "2026-11-04",
-        "resolution_source": "FEC disclosure database, campaign finance tracker (Ballotpedia), or crypto industry reporting",
-        "why_underpriced": "Group committed $30M floor with clear funding mechanism; midterm crypto political power consolidation underpriced by traditional finance.",
-        "trigger_signal": "CoinDesk $30M crypto political spending announcement"
+        "question": "Will OpenAI and Anthropic jointly publish a global AI alignment standard by June 30, 2026?",
+        "deadline": "2026-06-30",
+        "resolution_source": "Official announcements from OpenAI and Anthropic websites or SEC/FTC filings",
+        "why_underpriced": "Jacob Coxon's 'gambling with our lives' post sparked global AI safety debate; OpenAI's proposed development of global standards is credible—first-mover advantage in standards-setting is material for both valuations and regulatory standing.",
+        "trigger_signal": "CNBC: 'OpenAI proposes development of global AI standards to guide alignment, RSI'"
+      },
+      {
+        "question": "Will Texas data center permit halt remain in effect through the November 2026 midterm election?",
+        "deadline": "2026-11-03",
+        "resolution_source": "Official Texas Public Utility Commission or Gov. Abbott executive order statements",
+        "why_underpriced": "Abbott's moratorium tied to his reelection bid against Gina Hinojosa; data centers are a 2026 midterm flashpoint—political leverage makes reversal before Nov unlikely, and long-duration outages benefit alternative jurisdictions (Nevada, Arizona).",
+        "trigger_signal": "CNBC: 'Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium'"
+      },
+      {
+        "question": "Will Circle's Bitcoin-backed USDC borrowing product exceed $500M in total collateral by December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Circle public blog posts, on-chain transaction data (Etherscan), or official quarterly reports",
+        "why_underpriced": "Institutional adoption of native BTC-backed stablecoin borrowing is nascent; Circle's launch signals demand—early-stage institutional credit products historically compound rapidly as custodial confidence grows.",
+        "trigger_signal": "Cointelegraph: 'Circle launches Bitcoin-backed USDC borrowing for institutional clients'"
+      },
+      {
+        "question": "Will Google or Apple hire a total of 50+ crypto/blockchain engineers by September 30, 2026?",
+        "deadline": "2026-09-30",
+        "resolution_source": "LinkedIn job posting history, SEC proxy statements (headcount disclosures), or official company announcements",
+        "why_underpriced": "Both firms seeking crypto talent for stablecoin and tokenization rails—hiring velocity in crypto/tech is a leading indicator of serious product roadmap commitment, yet public equity markets haven't fully priced Big Tech's tokenization pivot.",
+        "trigger_signal": "CoinDesk: 'Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails'"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Bitcoin breakout above $90K in May-June driven by institutional asset manager accumulation (Bitmine, Strategy adding $75M+ each) combined with ECB/tokenization tailwinds will sustain through Q3 2026.",
-        "horizon": "180 days (May 2026 → October 2026)",
+        "thesis": "Bitcoin breaks $95K by August 2026 as institutional short-covering and Trump-era pro-crypto policy catalyze a new bull leg; leverage unwind accelerates on break of $88K.",
+        "horizon": "3 months",
         "supporting_signals": [
-          "Bitmine $75M ETH purchase, Strategy $75M BTC + $174M STRC buyback (CoinDesk)",
-          "BTC at $86K with 44% Q3 gains (Cointelegraph)",
-          "ECB Pontes launch removes regulatory headwind (Cointelegraph)",
-          "Google/Apple crypto talent hiring signals institutional tooling acceleration (CoinDesk)"
+          "CoinDesk: Bitcoin near $86K with shorts 'getting squeezed' and analyst calls for $90K test",
+          "CoinDesk: Bitmine bought $75M ether; institutions still underweight crypto per Tom Lee",
+          "Trump administration signals pro-crypto stance (Bessent championing dollar/stablecoin dominance)"
         ],
-        "counter_view": "Trump administration AI regulation uncertainty and Red Sea shipping disruption (geopolitical risk) could trigger risk-off and BTC correction below $80K; institutional accumulation may be levered speculation, not core allocation.",
-        "expression": "Long BTC perps (2-3x leverage) with stop at $78K; or BTC/USD call spread: short $100K calls, long $90K calls for June 2026 expiration"
+        "counter_view": "Leverage warning in same CoinDesk article suggests position crowding; sharp correction possible on Fed tightening signal or geopolitical shock.",
+        "expression": "Long BTC perps (Binance/Deribit) with 5-10x leverage, or GBTC call spreads (95K/100K, August 2026 expiry)"
       },
       {
-        "thesis": "Ethereum underperformance vs. SOL will persist through 2026 as institutional demand pivots to Solana MEV efficiency and finality guarantees; SOL/ETH ratio breaks 0.04 by Q4 2026.",
-        "horizon": "120 days (May 2026 → August 2026)",
+        "thesis": "Crypto-friendly Senate wins (Sherrod Brown losing to crypto PAC $30M spend signals broader anti-crypto incumbent rout) will unlock stablecoin and tokenization regulation by Q4 2026; Circle/Ondo/Onchain Finance benefit disproportionately.",
+        "horizon": "6 months",
         "supporting_signals": [
-          "Kyle Samani flippening prediction gaining social traction (Cointelegraph)",
-          "NEAR Protocol trending alongside SOL alternatives (Crypto trending data)",
-          "Solana ecosystem MEV tooling maturation (implied by Kyle Samani thesis)",
-          "Institutional shift toward speed + cost (Google/Apple stablecoin hiring suggests throughput focus)"
+          "CoinDesk: Crypto PAC spending $30M against Sherrod Brown (highest spend ever on single Senate race)",
+          "CoinDesk: 'Senate killing Clarity Act' signals crypto-friendly shift",
+          "Cointelegraph: Google, Apple, Circle all accelerating product launches ahead of regulatory clarity"
         ],
-        "counter_view": "Ethereum Shanghai/Dencun upgrades unlock new staking yield and rollup scaling; institutional demand for Ethereum L2 bridges may prove orthogonal to L1 token price; SOL network outages in bull market could reverse narrative.",
-        "expression": "Short ETH/BTC ratio (or buy SOL/ETH pairs); alternatively, long NEAR (NEAR) as flippening hedge, sell June 2026 ETH calls above $3,200"
+        "counter_view": "Regulatory clarity could come with strict custodial/AML requirements that favor incumbents; surprise hawkish turnover in Senate Finance Committee.",
+        "expression": "Long DeFi/tokenization basket (AAVE, UNI, MKR) or Solana (SOL) as infrastructure play, 6-month horizon"
       },
       {
-        "thesis": "AMD's 180% YTD rally unsustainable; stock corrects 20-25% into Q3 2026 as semiconductor inventory normalizes and AI demand inflates near-term estimates; rotate into NVIDIA for sustained fab capacity advantage.",
-        "horizon": "90 days (May 2026 → August 2026)",
+        "thesis": "Meta's consumer AI surge ($4.8B quarterly revenue from AI ads, +12% stock move) is overdone on near-term realization; rotate to NVDA/TSMC (capex beneficiaries) and away from Meta call overweight through September 2026.",
+        "horizon": "4 months",
         "supporting_signals": [
-          "AMD hit $1T market cap on momentum rally (CNBC)",
-          "Euphoria sentiment peaks when retail accumulation accelerates (historical pattern)",
-          "NVIDIA retained fab partnership moat and consumer datacenter lock-in (structural advantage)"
+          "CNBC: Meta surged 12% on one trading day; options volume 'surging' suggests retail euphoria",
+          "CNBC: 'Market gains not as strong as they appear' (broadness warning); valuations stretched in consumer AI",
+          "Implicit: Big Tech chip capex (NVDA, MU, Taiwan Semiconductor) is real, Meta AI is crowded"
         ],
-        "counter_view": "AMD's MI300X adoption accelerating; competitive intensity with NVIDIA reducing price realization risk; stock buyback support (STRC repurchases noted) can sustain elevated multiples.",
-        "expression": "Short AMD shares or sell May/June call spreads; long NVDA equal weight or rotate SPY tech allocation from AMD overweight to NVDA/MU underweight"
+        "counter_view": "Meta AI ad targeting could compound; Instagram/Threads user growth still accelerating; regulatory tailwind under Trump.",
+        "expression": "Short META stock (or sell call spreads 180/200, Jun 2026), pair with long NVDA or MU shares"
       },
       {
-        "thesis": "Stablecoin ecosystem expansion (Circle BTC-backed USDC, ECB Pontes, Bessent endorsement) will lift USDC yield and collateral demand; long USDC 3-6 month lending yield (4-6% forward) is underpriced vs. FX carry.",
-        "horizon": "180 days (May 2026 → October 2026)",
+        "thesis": "Dollar strength to persist through Q3 2026 (Bessent's 'dominance' messaging + stablecoin adoption tailwind); DXY stays above 106 as Fed keeps rates sticky higher than consensus expects.",
+        "horizon": "5 months",
         "supporting_signals": [
-          "Circle institutional BTC-backed USDC borrowing launch (Cointelegraph)",
-          "Bessent formally championing 'dollar dominance and stablecoins' (CoinDesk)",
-          "ECB Pontes tokenized settlement removes friction; Treasury stablecoin backing proposal imminent (2026-08-31 deadline signal)",
-          "Google/Apple crypto infrastructure hiring signals enterprise stablecoin demand spike"
+          "CoinDesk: 'Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins'",
+          "CoinDesk: Saudi Arabia exiting mBridge signals shift away from China-denominated cross-border settlement",
+          "Circle Bitcoin-backed USDC borrowing launch signals institutional demand for USD-denominated collateral"
         ],
-        "counter_view": "Regulatory backlash on stablecoins (Trump DOJ threat); Bessent's 'liability shield' refusal signals actual enforcement risk; USDC yield could compress if Fed cuts rates in H2 2026.",
-        "expression": "Long USDC 6-month term lending rates via Aave, Compound, or Lido LST staking; or long DXY vs. JPY (stablecoin carry expression)"
+        "counter_view": "Fed cuts sooner than expected; stagflation spike could weaken USD vs. gold; crypto adoption accelerates alternative settlement rails.",
+        "expression": "Long DXY via UUP (dollar ETF) or long USD/JPY FX (carry unwind hedge), 5-month horizon"
       },
       {
-        "thesis": "Media antitrust litigation against Trump administration will create binary tail-risk events (CNN/MSNOW/Politico lawsuit acceleration) that can be hedged via VIX calls; regulatory uncertainty premium persists into election cycle.",
-        "horizon": "60-90 days (May 2026 → August 2026)",
+        "thesis": "Ondo's tokenized equity play (stocks -> on-chain shares) gaining institutional traction signals multi-year shift in custody and settlement; overweight regulatory-compliant tokenization infrastructure (blockchain settlement, custody) vs. pure DeFi through 2026.",
+        "horizon": "12 months",
         "supporting_signals": [
-          "CNN, MSNBC, Politico filing joint lawsuit over White House ban (BBC, CNBC)",
-          "Trump administration press ban escalation signals political turbulence ahead",
-          "FAA equipment outages (logistics vulnerability) add to macro fragility backdrop"
+          "Cointelegraph: 'Ondo lets institutions convert stocks directly into tokenized shares' (live product)",
+          "CoinDesk: ECB signaling intent to buy tokenized bonds (central bank validation)",
+          "Circle Bitcoin borrowing launch + Google/Apple crypto hiring suggests institutional plumbing is next"
         ],
-        "counter_view": "Media litigation will be resolved in lower courts with minimal market impact; Trump administration maintains market confidence via pro-business policies (AI deregulation signals); VIX overpriced at current implied vol.",
-        "expression": "Long VIX calls (June 2026 18-20 strikes) or long SPY puts 5-10% OTM; hedge with long TLT (10Y Treasury bonds) for haven positioning"
+        "counter_view": "T+0 settlement benefits may not accrue fast enough to justify tokenization premiums; traditional custodians (BNY Mellon, State Street) may co-opt flow before crypto platforms scale.",
+        "expression": "Long SOL (tokenization/settlement infrastructure) and ETH staking (institutional settlement layers) as correlated plays; avoid pure DeFi governance tokens"
       }
     ]
   }
