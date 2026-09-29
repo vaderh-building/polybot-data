@@ -1,13 +1,55 @@
 {
-  "generated_at_utc": "2026-09-28T19:55:40.694905+00:00",
+  "generated_at_utc": "2026-09-29T00:45:47.414288+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+        "summary": "The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development.",
+        "link": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+        "published": "Mon, 28 Sep 2026 23:19:46 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
         "summary": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
         "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
-        "published": "Mon, 28 Sep 2026 19:37:50 GMT"
+        "published": "Mon, 28 Sep 2026 21:20:00 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
+        "summary": "Samsung Electronics and its five affiliates are investing $1 billion in KKR-launched Helix as the group expands its push into global AI infrastructure.",
+        "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
+        "published": "Tue, 29 Sep 2026 00:00:10 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Supreme Court Justice Alito will not participate in big climate change case next week",
+        "summary": "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
+        "link": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
+        "published": "Mon, 28 Sep 2026 20:13:00 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+        "summary": "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
+        "link": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+        "published": "Mon, 28 Sep 2026 20:16:04 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets",
+        "summary": "Luckin is weighing a push into Gulf markets while deepening its foothold in Southeast Asia, with backing from sovereign wealth funds in both regions.",
+        "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+        "published": "Tue, 29 Sep 2026 00:33:48 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
+        "summary": "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales and economic activity",
+        "link": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
+        "published": "Mon, 28 Sep 2026 22:49:39 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -15,48 +57,6 @@
         "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
         "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
         "published": "Mon, 28 Sep 2026 16:01:50 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
-        "summary": "Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.",
-        "link": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
-        "published": "Mon, 28 Sep 2026 18:47:21 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
-        "summary": "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales, and economic activity",
-        "link": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
-        "published": "Mon, 28 Sep 2026 19:27:48 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Nvidia share buyback plan gets $150 billion boost",
-        "summary": "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
-        "link": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
-        "published": "Mon, 28 Sep 2026 14:46:36 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
-        "summary": "The company said Sonnet 5.5 doesn't advance the frontier, but that it is better at coding and knowledge work tasks than its predecessor.",
-        "link": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
-        "published": "Mon, 28 Sep 2026 18:00:06 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
-        "summary": "The New York City Council issued a subpoena to Musk, requiring that he or another representative of SpaceXAI testify in an investigation concerning AI safety.",
-        "link": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
-        "published": "Mon, 28 Sep 2026 19:01:56 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Supreme Court Justice Alito will not participate in big climate change case next week",
-        "summary": "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
-        "link": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
-        "published": "Mon, 28 Sep 2026 18:58:47 GMT"
       },
       {
         "source": "BBC World",
@@ -67,10 +67,31 @@
       },
       {
         "source": "BBC World",
+        "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+        "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+        "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 28 Sep 2026 20:50:03 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
         "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
         "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
         "published": "Mon, 28 Sep 2026 14:57:31 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "French PM warns against escalation of school protests after 164 arrested",
+        "summary": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
+        "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 28 Sep 2026 21:46:53 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+        "summary": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.",
+        "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 28 Sep 2026 22:27:33 GMT"
       },
       {
         "source": "BBC World",
@@ -81,13 +102,6 @@
       },
       {
         "source": "BBC World",
-        "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-        "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
-        "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 28 Sep 2026 17:15:00 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
         "summary": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
         "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
@@ -95,24 +109,10 @@
       },
       {
         "source": "BBC World",
-        "title": "Stand-up comic released after being convicted of insulting Erdoğan",
-        "summary": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
-        "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 28 Sep 2026 19:26:15 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Four bodies found after avalanche hits Himalayan climbing group",
-        "summary": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
-        "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 28 Sep 2026 16:13:44 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Plan for controversial Sydney data centre scrapped after push-back",
-        "summary": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
-        "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 28 Sep 2026 12:47:09 GMT"
+        "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+        "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+        "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 28 Sep 2026 17:15:00 GMT"
       },
       {
         "source": "CoinDesk",
@@ -172,95 +172,83 @@
       },
       {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 28 Sep 2026 19:02:45 +0000"
+        "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canadian ‘crypto king’ set to represent himself at fraud trial\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canada.jpg\" /></p><p>Aiden Pleterski was allegedly behind a crypto Ponzi scheme between 2021 and 2022 that resulted in a kidnapping and related criminal charges.</p>",
+        "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 28 Sep 2026 20:41:44 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "When did Google get so weird?",
-        "summary": "score: 1768, comments: 978",
-        "link": "https://sancho.bearblog.dev/google-weird/",
-        "score": 1768
-      },
-      {
-        "source": "Hacker News",
-        "title": "Sonnet 5.5",
-        "summary": "score: 304, comments: 197",
-        "link": "https://www.anthropic.com/claude-sonnet-5-5",
-        "score": 304
+        "title": "Pirating the Pirates",
+        "summary": "score: 396, comments: 206",
+        "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+        "score": 396
       },
       {
         "source": "Hacker News",
         "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-        "summary": "score: 255, comments: 130",
+        "summary": "score: 298, comments: 167",
         "link": "https://git.mills.io/prologic/parley",
-        "score": 255
+        "score": 298
       },
       {
         "source": "Hacker News",
-        "title": "Pirating the Pirates",
-        "summary": "score: 248, comments: 91",
-        "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-        "score": 248
+        "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+        "summary": "score: 267, comments: 167",
+        "link": "https://www.thisamericanlife.org/897/transcript",
+        "score": 267
       },
       {
         "source": "Hacker News",
-        "title": "MongoDB CEO resigns to join Meta",
-        "summary": "score: 233, comments: 204",
-        "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
-        "score": 233
+        "title": "It's Time to Investigate the AI Labs",
+        "summary": "score: 254, comments: 82",
+        "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+        "score": 254
+      },
+      {
+        "source": "Hacker News",
+        "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+        "summary": "score: 230, comments: 79",
+        "link": "https://github.com/firelex/jeff",
+        "score": 230
       },
       {
         "source": "Hacker News",
         "title": "Hijacking the PS5's RTMP stream",
-        "summary": "score: 123, comments: 32",
+        "summary": "score: 181, comments: 61",
         "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-        "score": 123
+        "score": 181
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-        "summary": "score: 108, comments: 41",
-        "link": "https://hn.watch/",
-        "score": 108
+        "title": "World Labs Is Joining AMD",
+        "summary": "score: 166, comments: 63",
+        "link": "https://www.worldlabs.ai/blog/amd-announcement",
+        "score": 166
       },
       {
         "source": "Hacker News",
-        "title": "What heraldry and Japanese mon can teach about visual-identity generators",
-        "summary": "score: 47, comments: 14",
-        "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
-        "score": 47
+        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+        "summary": "score: 114, comments: 56",
+        "link": "https://stateofutopia.com/experiments/microllmlab/",
+        "score": 114
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Baby Cali (BABYCALI)",
-        "summary": "market cap rank: 920",
-        "link": "https://www.coingecko.com/en/coins/baby-cali"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Firo (FIRO)",
-        "summary": "market cap rank: 802",
+        "summary": "market cap rank: 813",
         "link": "https://www.coingecko.com/en/coins/firo"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Quant (QNT)",
-        "summary": "market cap rank: 33",
+        "summary": "market cap rank: 38",
         "link": "https://www.coingecko.com/en/coins/quant"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Hedera (HBAR)",
-        "summary": "market cap rank: 23",
-        "link": "https://www.coingecko.com/en/coins/hedera"
       },
       {
         "source": "CoinGecko Trending",
@@ -270,141 +258,160 @@
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Hedera (HBAR)",
+        "summary": "market cap rank: 25",
+        "link": "https://www.coingecko.com/en/coins/hedera"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 22",
+        "summary": "market cap rank: 21",
         "link": "https://www.coingecko.com/en/coins/near"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Stellar (XLM)",
-        "summary": "market cap rank: 20",
-        "link": "https://www.coingecko.com/en/coins/stellar"
+        "title": "Chainlink (LINK)",
+        "summary": "market cap rank: 13",
+        "link": "https://www.coingecko.com/en/coins/chainlink"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pyth Network (PYTH)",
+        "summary": "market cap rank: 99",
+        "link": "https://www.coingecko.com/en/coins/pyth-network"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $70,000 on June 30, 2026?",
+        "market_title": "Will OpenAI release a new frontier model before 2027-01-01?",
         "venue": "Polymarket",
-        "why_now": "Goldman Sachs' $100B Treasury fund entry into crypto institutional plumbing signals major institutional accumulation phase; cooling sentiment reported by CoinDesk suggests mispricing of bullish fundamentals.",
-        "signal_source": "CoinDesk (Goldman Sachs Treasury crypto move, cooling sentiment despite institutional inflows)"
+        "why_now": "OpenAI just abandoned a planned model release citing safety concerns; market pricing on delayed vs. accelerated launch timelines is live and highly contested.",
+        "signal_source": "CNBC Top News (OpenAI safety delay); Hacker News discussion 'It's Time to Investigate the AI Labs' (254 points) signals sustained institutional pressure on AI labs to slow."
       },
       {
-        "market_title": "Will Nvidia acquire additional AI infrastructure assets by December 31, 2026?",
+        "market_title": "Will Bitcoin exceed $70,000 by 2026-12-31?",
         "venue": "Polymarket",
-        "why_now": "Nvidia's $150B buyback authorization combined with Hugging Face acquisition signals aggressive M&A appetite; $13B HF deal establishes precedent for large AI platform consolidation.",
-        "signal_source": "CNBC (Nvidia $150B buyback, Hugging Face $13B deal)"
+        "why_now": "Goldman Sachs bringing $100B Treasury fund into crypto institutional plumbing; Franklin Templeton tokenized collateral now accepted on Bybit; institutional capital influx is measurable and ongoing.",
+        "signal_source": "CoinDesk (Goldman $100B Treasury fund); CoinDesk (Franklin Templeton collateral adoption); crypto capital markets thawing per Cointelegraph IPO report."
       },
       {
-        "market_title": "Will SpaceX Starship achieve orbital refueling by September 30, 2026?",
-        "venue": "Manifold",
-        "why_now": "Historic Starship orbit test flight creates clear technical milestone path; Musk-led execution track record supports near-term probability revision upward.",
-        "signal_source": "CNBC (SpaceX Starship orbital launch confirmation)"
-      },
-      {
-        "market_title": "Will the Philadelphia 76ers' revenue increase by 15%+ YoY in 2026 vs 2025?",
+        "market_title": "Will the S&P 500 close above 5800 on 2026-12-31?",
         "venue": "Kalshi",
-        "why_now": "LeBron James trade impact on ticket/merchandise demand and sponsorships is measurable and early data shows material lift; NBA franchise valuations are liquid comps.",
-        "signal_source": "CNBC (LeBron James economic impact on 76ers ticket, merchandise, sponsorships)"
+        "why_now": "Trump steel plant announcement signals infrastructure spending; Samsung $1B AI infra investment and Nvidia backing show private capex accelerating; macro sentiment diverges on rate path vs. growth.",
+        "signal_source": "CNBC (Trump $15B Mesabi steel plant); CNBC (Samsung $1B into KKR Helix); CoinDesk (AI infrastructure momentum)."
       },
       {
-        "market_title": "Will a major U.S. data center project be scrapped due to regulatory pushback by June 30, 2026?",
-        "venue": "Manifold",
-        "why_now": "Sydney Project Mars cancellation due to policy/regulatory environment signals rising data center friction; NYC subway/AI safety investigations (Musk subpoena) indicate U.S. regulatory mood shift.",
-        "signal_source": "BBC (Sydney Project Mars scrapped), CNBC (Musk/SpaceXAI NYC subpoena on AI safety)"
+        "market_title": "Will Chainlink (LINK) trade above $25 by 2026-09-30?",
+        "venue": "Polymarket",
+        "why_now": "Chainlink launched CCIP bridge v2 with enhanced security control just now; institutional adoption (Franklin Templeton, Bybit) validates oracle/bridge layer as critical infrastructure.",
+        "signal_source": "CoinDesk (Chainlink CCIP launch); CoinDesk (Franklin Templeton institutional collateral); Crypto Trending (LINK in top 7)."
+      },
+      {
+        "market_title": "Will the Fed cut rates by at least 75bps cumulatively by 2026-12-31?",
+        "venue": "Kalshi",
+        "why_now": "CoinDesk warning on AI agents draining bank deposits signals deposit flight risk; inflation persistence vs. growth slowdown creates macro uncertainty favoring rate-cut positioning.",
+        "signal_source": "CoinDesk (Apollo's Torsten Slok on AI agent deposit drain); Trump infrastructure spending raises nominal growth; crypto institutional capital formation signals risk-off sentiment hedging."
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Ethereum close above $4,000 on September 30, 2026?",
+        "question": "Will Blockchain.com complete a $500M+ IPO before 2026-12-31?",
+        "deadline": "2026-12-31",
+        "resolution_source": "SEC EDGAR filings + public IPO announcements; Blockchain.com official investor relations disclosures",
+        "why_underpriced": "Cointelegraph reports Blockchain.com eyeing $500M IPO as 'crypto capital markets thaw'; this is directly quoted but no prediction market has priced binary IPO-by-year-end; institutional appetite from Franklin Templeton/KKR activity suggests runway.",
+        "trigger_signal": "Cointelegraph IPO report; Franklin Templeton and Bybit institutional momentum validates public-market appetite for crypto infrastructure."
+      },
+      {
+        "question": "Will Tesla stock (TSLA) outperform the S&P 500 by >10% between 2026-05-05 and 2026-12-31?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Yahoo Finance, Bloomberg terminal, CNBC closing prices",
+        "why_underpriced": "No SpaceX earnings data yet post-Starship success, but Starship orbital test success (2026-05-05) validates Musk execution; Trump administration infrastructure spending benefits Tesla supply chain; market may underweight Musk-Trump political alignment on capex.",
+        "trigger_signal": "SpaceX Starship historic test flight success (CNBC); Trump $15B steel plant announcement; AI infrastructure capex surge favors Musk ventures."
+      },
+      {
+        "question": "Will Tether's stablecoin reserve audits show >95% backing by 2026-09-30?",
         "deadline": "2026-09-30",
-        "resolution_source": "CoinGecko / CoinMarketCap historical close price at 23:59 UTC",
-        "why_underpriced": "Franklin Templeton tokenized collateral integration with Bybit and broader institutional on-ramp (Goldman Sachs) creates utility tail-wind; current market prices in regulatory friction rather than adoption acceleration.",
-        "trigger_signal": "Franklin Templeton / Bybit collateral move, Goldman Sachs institutional crypto plumbing"
+        "resolution_source": "Tether public attestation reports; third-party auditor (e.g., Moore Cayman Islands) filings",
+        "why_underpriced": "Senate Dems report calls Tether a 'lifeline' for Iranian regime; regulatory scrutiny is high but reserve-backing compliance is a binary, transparent metric; market lacks clear position on USDT solvency by Q3 2026.",
+        "trigger_signal": "CoinDesk Senate Dems Tether-Iran report signals regulatory attention; Goldman Sachs Treasury fund entry raises institutional due-diligence pressure on USDT backing."
       },
       {
-        "question": "Will the U.S. SEC formally approve a spot Ethereum ETF with net inflows > $5B in its first 30 days by December 31, 2026?",
+        "question": "Will NVDA stock price exceed $200 by 2026-10-31?",
+        "deadline": "2026-10-31",
+        "resolution_source": "Yahoo Finance, Nasdaq closing price",
+        "why_underpriced": "Samsung $1B into KKR Helix AI infrastructure; Chainlink CCIP and institutional collateral adoption signal sustained capex on AI chips; NVIDIA is indirect beneficiary but market sentiment may underweight institutional capex cycle visibility.",
+        "trigger_signal": "Samsung $1B Helix investment (CNBC); Franklin Templeton tokenized asset infrastructure rollout; AI agent bank-deposit risk signals AI compute capex acceleration."
+      },
+      {
+        "question": "Will the DXY (U.S. Dollar Index) remain below 110 through 2026-12-31?",
         "deadline": "2026-12-31",
-        "resolution_source": "SEC.gov press releases, ETF provider filings, SEC filing databases (EDGAR)",
-        "why_underpriced": "SEC following CFTC staff guidance on crypto signals softening regulatory stance; Bitcoin ETF precedent and institutional demand (Goldman, Franklin Templeton) make approval and adoption highly probable but current odds underweight binary approval event.",
-        "trigger_signal": "SEC staff crypto guidance, CoinDesk (SEC follows CFTC guidance)"
-      },
-      {
-        "question": "Will Trump's $15 billion steel plant project break ground by July 31, 2026?",
-        "deadline": "2026-07-31",
-        "resolution_source": "Trump/Mesabi Metallics official announcement, state/federal permits recorded on public records, news confirmation from CNBC/Reuters/Bloomberg",
-        "why_underpriced": "Market may discount execution risk; Trump administration's explicit naming of largest U.S. steel plant and Mesabi partnership signals serious intent. Tied to midterm economic narrative and materials inflation trade.",
-        "trigger_signal": "CNBC (Trump $15B steel plant announcement with Mesabi Metallics)"
-      },
-      {
-        "question": "Will Anthropic's valuation exceed $50 billion by December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "PitchBook / Crunchbase Series funding rounds, private market data providers, news reports from TechCrunch/Bloomberg",
-        "why_underpriced": "Sonnet 5.5 release (cheaper, better coding) signals market-share consolidation strategy; CEO's slowdown call reduced competitive narrative but product velocity remains high. OpenAI/Hugging Face precedent ($13B) sets valuation anchor.",
-        "trigger_signal": "CNBC (Anthropic Sonnet 5.5 launch, CEO slowdown call)"
-      },
-      {
-        "question": "Will Hedera (HBAR) close above $0.50 on November 30, 2026?",
-        "deadline": "2026-11-30",
-        "resolution_source": "CoinGecko / CoinMarketCap historical close price at 23:59 UTC",
-        "why_underpriced": "HBAR trending on major crypto feeds without major catalysts suggests nascent momentum; restaking protocols cooling (CoinDesk) creates opening for alternative consensus/settlement plays. Enterprise adoption (Franklin Templeton tokenization) narrative supports upside.",
-        "trigger_signal": "Hedera in crypto trending list, Franklin Templeton tokenization ecosystem expansion"
+        "resolution_source": "Federal Reserve Economic Data (FRED) DXY series; ICE Dow Jones USD Index",
+        "why_underpriced": "Trump infrastructure spending ($15B Mesabi + implied broader capex) is inflationary; crypto institutional inflows (Goldman, Franklin Templeton) suggest portfolio rebalancing away from dollar strength; Fed rate path uncertain.",
+        "trigger_signal": "Trump $15B steel capex announcement; Goldman Sachs $100B Treasury fund into crypto (dollar carry unwind signal); CoinDesk AI agent deposit risk may force Fed to hold rates steady despite inflation."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Institutional inflows via Goldman Sachs Treasury crypto product and Franklin Templeton tokenized collateral will drive sustained BTC/ETH re-rating through H2 2026, despite cooling near-term sentiment.",
-        "horizon": "3-6 months (May 2026 – November 2026)",
+        "thesis": "Institutional crypto adoption (Goldman $100B, Franklin Templeton, Samsung/Helix) is durable capex, not sentiment; overweight ETH/BTC vs. broader equities into 2026 year-end.",
+        "horizon": "180 days (May 2026 – November 2026)",
         "supporting_signals": [
-          "CoinDesk: Goldman Sachs $100B Treasury fund into crypto institutional plumbing",
-          "CoinDesk: Franklin Templeton tokenized collateral service to Bybit",
-          "CoinDesk: Traders aren't panicking despite cooling sentiment (suggests dumb money capitulation ahead of smart money entry)"
+          "Goldman Sachs $100B Treasury fund into crypto infrastructure (CoinDesk)",
+          "Franklin Templeton tokenized collateral now live on Bybit (CoinDesk, Cointelegraph)",
+          "Samsung $1B into KKR Helix AI infrastructure (CNBC)",
+          "Chainlink CCIP v2 launch validates oracle-layer criticality (CoinDesk)",
+          "Bitcoin trending as top institutional hedge (CoinDesk traders not panicking despite cooling sentiment)"
         ],
-        "counter_view": "Regulatory crackdown (NYC AI safety subpoena, MiCA supervision shift) could trigger institutional retreat; stablecoin scrutiny (Tether/Iran reports) may slow on-ramps.",
-        "expression": "Long BTC perps (3-6 month) or BTC spot + ETH/BTC ratio long (neutral BTC, long relative ETH); alternatively, $150B SPY allocation to crypto-sensitive mega-cap tech (NVDA, broad semis via SMH) as proxy"
+        "counter_view": "Regulatory crackdown (SEC crypto guidance, Senate Tether report) could trigger institutional withdrawal; USDT backing scrutiny may force stablecoin redemptions.",
+        "expression": "Long BTC/USD perpetual (Bybit/Binance) or Grayscale BTC Trust (GBTC); hedge with short DXY or short SPY calls; ETH/BTC ratio long (institutional adoption favors protocol layer)."
       },
       {
-        "thesis": "Materials and industrial equities (steel, rare earths, manufacturing inputs) will re-rate upward as Trump's $15B steel plant and midterm economy messaging drive inflationary expectations and relative outperformance vs. bonds.",
-        "horizon": "2-4 months (May 2026 – September 2026)",
+        "thesis": "Trump infrastructure capex ($15B Mesabi steel + implied broader spending) is stagflationary; overweight commodity/energy, underweight duration bonds; gold outperforms.",
+        "horizon": "60–120 days (May 2026 – August 2026)",
         "supporting_signals": [
-          "CNBC: Trump announces $15B steel plant (largest in U.S. history) with Mesabi Metallics",
-          "CNBC: Americans' souring economy views driving midterm election narrative (suggesting policy pivot toward stimulus/capex)"
+          "Trump Mesabi Metallics $15B steel plant announcement (CNBC); largest U.S. steel plant in history signals capex cycle",
+          "CoinDesk AI agent deposit drain warning suggests inflation/deflation uncertainty",
+          "Crypto inflows hedge against real rates (Goldman/Franklin buying crypto as inflation insurance)"
         ],
-        "counter_view": "Steel capex dilution and high execution risk; China export competition and commodity price collapse if Fed cuts rates aggressively.",
-        "expression": "Long CLF (Cleveland-Cliffs), U.S. Steel (X), or broad cyclical ETF (XLY); short bonds (TLT call spreads or DBC commodity upside vs. TLT downside ratio trade)"
+        "counter_view": "Steel overcapacity in U.S.; tariffs may choke demand or spark trade war; Fed tightens in response to capex inflation, killing equity rally.",
+        "expression": "Long GLD (gold ETF) or COMEX gold futures; long USO (energy); short TLT (long-duration Treasuries); overweight XLE (energy) vs. tech."
       },
       {
-        "thesis": "SpaceX/Starship orbital success and Musk's broader infrastructure/AI push will sustain TSLA premium despite NYC subpoena friction; space/launch services narrative supports TSLA's longer-term valuation anchor.",
-        "horizon": "1-3 months (May 2026 – August 2026)",
+        "thesis": "OpenAI safety delay + AI labs slowdown (Hacker News 254 points consensus) will benefit smaller, more efficient models (NEAR, PYTH, local inference); underweight Nvidia's monopoly, rotate into decentralized compute.",
+        "horizon": "90–180 days (May 2026 – November 2026)",
         "supporting_signals": [
-          "CNBC: SpaceX launches Starship into orbit for first time (historic milestone)",
-          "CNBC: Elon Musk, SpaceXAI subpoenaed by NYC on AI safety (regulatory overhang, but not disqualifying)"
+          "OpenAI abandons model release citing safety (CNBC)",
+          "Hacker News 'Investigate AI Labs' (254 points) + MicroLLM discussion (114 points) suggest market preference for distributed, smaller LLMs",
+          "Jeff 0.8B decision models trainable at home (~30ms) signals edge compute not central labs",
+          "Chainlink CCIP + institutional infrastructure adoption validates decentralized oracle/bridge layers"
         ],
-        "counter_view": "Musk regulatory overhang + competitive EV/autonomous pressure from legacy OEMs; SpaceX success is divorced from TSLA cash flow.",
-        "expression": "TSLA call spread (long 180-day calls, short 90-day calls) to capture volatility upside while hedging regulatory tail risk"
+        "counter_view": "Scaling laws still favor centralized frontier models; OpenAI/Anthropic safety rebranding doesn't delay capex, just messaging.",
+        "expression": "Long NEAR Protocol (NEAR token) or Pyth Network (PYTH); short NVDA calls or reduce NVDA allocation; long GPU rental platforms (Crusoe Energy, Lambda Labs if public)."
       },
       {
-        "thesis": "AI-powered coding/knowledge-work tools (Anthropic Sonnet 5.5, Chainlink CCIP improvements) will drive enterprise adoption and deflationary pressure on developer costs, creating margin expansion for software/SaaS platforms; Nvidia's buyback + capex signals sustained AI chip demand.",
-        "horizon": "6-12 months (May 2026 – May 2027)",
+        "thesis": "Stablecoin regulation (Senate Tether report, SEC/CFTC guidance) will consolidate market around USDC (Circle) and tokenized Treasury funds (Franklin Templeton); USDT risks regulatory discount.",
+        "horizon": "120–180 days (May 2026 – November 2026)",
+        "resolution_source": "Tether market cap vs. Circle USDC market cap (CoinMarketCap); Tether attestation audits (public disclosures)",
         "supporting_signals": [
-          "CNBC: Anthropic launches cheaper Sonnet 5.5, better coding performance",
-          "CNBC: Nvidia $150B buyback authorization (signal of confidence in sustained demand)",
-          "CoinDesk: Chainlink launches CCIP v2 (stronger security control for cross-chain apps)"
+          "Senate Dems Tether-Iran report (CoinDesk) signals regulatory targeting of USDT",
+          "Franklin Templeton tokenized Treasury now institutional collateral (CoinDesk, Cointelegraph); USDC ecosystem validation",
+          "SEC/CFTC staff guidance on crypto (Cointelegraph) will tighten stablecoin issuance standards"
         ],
-        "counter_view": "AI model commoditization / open-source competition (e.g., Meta/Hugging Face) may cap licensing premiums; NVDA execution risk on next-gen chips.",
-        "expression": "Long NVDA (calls or spot) or NVDA/SPY ratio spread; alternatively, CRWD (Crowdstrike) or SNOW (Snowflake) for SaaS margin expansion narrative tied to AI adoption"
+        "counter_view": "USDT network effects too strong; Tether has 18+ months lead time; regulatory risk is priced in.",
+        "expression": "Long USDC yield (Aave/Compound lending) vs. short USDT yield spread; overweight Circle ecosystem tokens if available; neutral to short USDT spot holdings."
       },
       {
-        "thesis": "Tether regulatory scrutiny (Iran 'lifeline' Senate report) combined with institutional on-ramps via USDC-native platforms (Franklin Templeton, Bybit) will shift stablecoin preference from USDT → USDC/PYUSD; short USDT dominance, long USDC yield/collateral premium.",
-        "horizon": "2-6 months (May 2026 – November 2026)",
+        "thesis": "SpaceX Starship success (orbital test 2026-05-05) validates Musk execution; combined with Trump capex signals, Musk ventures (Tesla, xAI, Starlink satellite internet) outperform macro hedges; overweight TSLA into mid-2026.",
+        "horizon": "60–120 days (May 2026 – August 2026)",
         "supporting_signals": [
-          "CoinDesk: Tether is 'lifeline' for Iranian regime, Senate Dems report (regulatory pressure)",
-          "CoinDesk: Franklin Templeton brings tokenized collateral service to Bybit (USDC-native narrative)",
-          "CoinDesk: Bybit accepts Franklin Templeton tokenized funds as trading collateral"
+          "SpaceX Starship historic orbital test flight success (CNBC, BBC)",
+          "Trump $15B Mesabi steel deal signals Musk-Trump alignment on capex",
+          "Satellite internet capex (Starlink) benefits from infrastructure bill expansion",
+          "Tesla supply chain benefits from domestic steel/AI capex surge"
         ],
-        "counter_view": "Tether has proven regulatory resilience; USDT liquidity and on-ramps remain superior; USDC adoption lag in emerging markets.",
-        "expression": "Long USDC yield (e.g., Curve USDC/USDT LP or USDC lending protocols) vs. short USDT synthetics; or USDC-denominated perps (inverse USDT dominance ratio)"
+        "counter_view": "TSLA already priced in Musk optimism; Starship doesn't generate revenue near-term; macro recession kills capex.",
+        "expression": "Long TSLA stock or call spread (May 2026 $180 / Nov 2026 $200 calls); long aerospace sector (ITA, XAI if Tesla-adjacent); hedge with short SPY or long SPY puts for tail risk."
       }
     ]
   }
