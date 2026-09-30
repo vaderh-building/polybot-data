@@ -1,76 +1,111 @@
 {
-  "generated_at_utc": "2026-09-30T10:50:20.918731+00:00",
+  "generated_at_utc": "2026-09-30T18:13:33.810783+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-        "summary": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
-        "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
-        "published": "Tue, 29 Sep 2026 20:51:43 GMT"
+        "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+        "summary": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+        "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+        "published": "Wed, 30 Sep 2026 17:15:24 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
+        "summary": "Commerce Secretary Howard Lutnick unwound his ties to Cantor Fitzgerald as the billionaire financier joined the Trump administration.",
+        "link": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
+        "published": "Wed, 30 Sep 2026 16:30:42 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+        "summary": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
+        "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+        "published": "Wed, 30 Sep 2026 18:11:29 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "summary": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+        "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+        "published": "Wed, 30 Sep 2026 15:54:38 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+        "summary": "The Department of Justice seeks the recusal of the judges who spoke to The New York Times from any cases involving the Department of Homeland Security.",
+        "link": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
+        "published": "Wed, 30 Sep 2026 17:09:59 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
         "summary": "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
         "link": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-        "published": "Wed, 30 Sep 2026 10:45:27 GMT"
+        "published": "Wed, 30 Sep 2026 17:21:23 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
-        "summary": "The data on Novo's Wegovy pill suggests that patients may not need to take weekly injections forever, but can instead opt for more convenient treatments.",
-        "link": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
-        "published": "Wed, 30 Sep 2026 09:45:01 GMT"
+        "title": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
+        "summary": "Two separate proposals to ban member stock trading while in office and address data center-related utility costs failed Wednesday amid Democratic opposition.",
+        "link": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
+        "published": "Wed, 30 Sep 2026 17:44:15 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
-        "summary": "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
-        "link": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
-        "published": "Wed, 30 Sep 2026 09:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
-        "summary": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
-        "link": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-        "published": "Wed, 30 Sep 2026 09:45:54 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
-        "summary": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
-        "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
-        "published": "Wed, 30 Sep 2026 08:51:44 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’",
-        "summary": "Russia intensifies attacks on Ukraine’s data centers and communications infrastructure, targeting facilities in Kyiv.",
-        "link": "https://www.cnbc.com/2026/09/30/ukraine-war-russia-nato-nuclear-kyiv.html",
-        "published": "Wed, 30 Sep 2026 08:33:09 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Dan Ives prepares to debut fund offering access to private companies fueling AI boom",
-        "summary": "Yorkville Ives priced a fund aiming to give investors access to the private companies helping develop artificial intelligence.",
-        "link": "https://www.cnbc.com/2026/09/30/dan-ives-ai-private-companies-ivai.html",
-        "published": "Wed, 30 Sep 2026 10:21:38 GMT"
+        "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
+        "summary": "The Trump administration announced on Wednesday that it was launching a \"Default Loans Support Center\" for student loan borrowers who've fallen behind.",
+        "link": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+        "published": "Wed, 30 Sep 2026 15:56:15 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Chinese AI tool told researchers how to make bioweapons",
-        "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-        "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 29 Sep 2026 23:15:29 GMT"
+        "title": "What we know about stabbing on Flydubai flight to Israel",
+        "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+        "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 30 Sep 2026 17:51:49 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-        "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 30 Sep 2026 04:01:52 GMT"
+        "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+        "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 30 Sep 2026 17:14:03 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "UK-France 'one in, one out' migrant scheme scrapped",
+        "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+        "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 30 Sep 2026 17:11:08 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+        "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+        "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 30 Sep 2026 15:29:11 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+        "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+        "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 30 Sep 2026 14:53:02 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+        "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+        "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 30 Sep 2026 11:36:23 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+        "summary": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
+        "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 30 Sep 2026 15:04:32 GMT"
       },
       {
         "source": "BBC World",
@@ -80,102 +115,67 @@
         "published": "Wed, 30 Sep 2026 05:02:50 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-        "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-        "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 30 Sep 2026 05:24:52 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
-        "summary": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees.",
-        "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 29 Sep 2026 22:33:13 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-        "summary": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
-        "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 30 Sep 2026 08:59:38 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
-        "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-        "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 30 Sep 2026 09:49:53 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-        "summary": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate.",
-        "link": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 29 Sep 2026 23:39:58 GMT"
+        "source": "CoinDesk",
+        "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
+        "summary": "",
+        "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
+        "published": "Wed, 30 Sep 2026 17:16:31 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+        "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
-        "published": "Wed, 30 Sep 2026 10:43:43 +0000"
+        "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+        "published": "Wed, 30 Sep 2026 15:34:50 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
+        "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
-        "published": "Wed, 30 Sep 2026 10:28:24 +0000"
+        "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+        "published": "Wed, 30 Sep 2026 15:19:36 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
+        "title": "Crypto Long & Short: What will the AI agents run on?",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-        "published": "Wed, 30 Sep 2026 10:18:34 +0000"
+        "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
+        "published": "Wed, 30 Sep 2026 14:56:07 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+        "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
-        "published": "Wed, 30 Sep 2026 10:11:36 +0000"
+        "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+        "published": "Wed, 30 Sep 2026 14:04:19 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+        "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
-        "published": "Wed, 30 Sep 2026 08:50:22 +0000"
+        "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
+        "published": "Wed, 30 Sep 2026 13:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+        "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
-        "published": "Wed, 30 Sep 2026 08:27:00 +0000"
+        "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+        "published": "Wed, 30 Sep 2026 11:20:09 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+        "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
-        "published": "Wed, 30 Sep 2026 08:25:43 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin bulls have one price level to defend",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
-        "published": "Wed, 30 Sep 2026 07:04:41 +0000"
+        "link": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
+        "published": "Wed, 30 Sep 2026 11:04:09 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RQV7616RZ47F070G7JXY2K/eth-red-btc-green.jpeg\" /></p><p>Ether ETFs shed $3 million Tuesday after seven days of inflows, following an $8 million outflow from Zcash funds at the start of the week.</p>",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 30 Sep 2026 10:12:28 +0000"
+        "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SH29GTGYTM0QGMBX47A000/oil-bitcoin-coin-ant-blockchain-sky-platform-production-gas.png\" /></p><p>Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing resea",
+        "link": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 30 Sep 2026 17:17:54 +0000"
       }
     ],
     "chinese_news": [],
@@ -183,66 +183,66 @@
       {
         "source": "Hacker News",
         "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-        "summary": "score: 650, comments: 260",
+        "summary": "score: 830, comments: 346",
         "link": "https://github.com/ninjahawk/livenerf",
-        "score": 650
+        "score": 830
       },
       {
         "source": "Hacker News",
-        "title": "Dots: Always-on agents",
-        "summary": "score: 633, comments: 494",
-        "link": "https://openai.com/index/introducing-dots/",
-        "score": 633
+        "title": "You Said No MCP",
+        "summary": "score: 487, comments: 276",
+        "link": "https://earendil.com/posts/you-said-no-mcp/",
+        "score": 487
       },
       {
         "source": "Hacker News",
-        "title": "America.gov",
-        "summary": "score: 579, comments: 488",
-        "link": "https://america.gov/",
-        "score": 579
+        "title": "I Could've Accessed 17T Microsoft Records",
+        "summary": "score: 144, comments: 68",
+        "link": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+        "score": 144
       },
       {
         "source": "Hacker News",
-        "title": "September 2026: The world today, as seen by one Polish guy",
-        "summary": "score: 268, comments: 140",
-        "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-        "score": 268
+        "title": "A brief history of the Bloomberg terminal",
+        "summary": "score: 105, comments: 37",
+        "link": "https://spectrum.ieee.org/bloomberg-terminal",
+        "score": 105
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-        "summary": "score: 263, comments: 64",
-        "link": "https://space.bl2.net/",
-        "score": 263
+        "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+        "summary": "score: 83, comments: 35",
+        "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+        "score": 83
       },
       {
         "source": "Hacker News",
-        "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-        "summary": "score: 235, comments: 139",
-        "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-        "score": 235
+        "title": "The last time my family was replaced by technology",
+        "summary": "score: 60, comments: 131",
+        "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+        "score": 60
       },
       {
         "source": "Hacker News",
-        "title": "Vermont replacing power plants with home batteries",
-        "summary": "score: 211, comments: 167",
-        "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-        "score": 211
+        "title": "What TLA+ can and can't check",
+        "summary": "score: 39, comments: 6",
+        "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+        "score": 39
       },
       {
         "source": "Hacker News",
-        "title": "NASA asked several former SR-71A staffers to help secret restart",
-        "summary": "score: 181, comments: 176",
-        "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-        "score": 181
+        "title": "Burning Man Death Rates – A Short Lesson in Statistics",
+        "summary": "score: 37, comments: 18",
+        "link": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+        "score": 37
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Moonriver (MOVR)",
-        "summary": "market cap rank: 834",
-        "link": "https://www.coingecko.com/en/coins/moonriver"
+        "title": "Quant (QNT)",
+        "summary": "market cap rank: 32",
+        "link": "https://www.coingecko.com/en/coins/quant"
       },
       {
         "source": "CoinGecko Trending",
@@ -252,159 +252,161 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Quant (QNT)",
-        "summary": "market cap rank: 32",
-        "link": "https://www.coingecko.com/en/coins/quant"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "NEAR Protocol (NEAR)",
         "summary": "market cap rank: 21",
         "link": "https://www.coingecko.com/en/coins/near"
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Edel (EDEL)",
+        "summary": "market cap rank: 952",
+        "link": "https://www.coingecko.com/en/coins/edel"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 100",
+        "summary": "market cap rank: 102",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Lighter (LIT)",
-        "summary": "market cap rank: 82",
+        "summary": "market cap rank: 81",
         "link": "https://www.coingecko.com/en/coins/lighter"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Ethena (ENA)",
-        "summary": "market cap rank: 42",
-        "link": "https://www.coingecko.com/en/coins/ethena"
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 11",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will PCE inflation (headline) be above 3.0% YoY when released May 7, 2026?",
+        "market_title": "Will the FTC file enforcement action against OpenAI or Anthropic by 2026-12-31?",
         "venue": "Polymarket",
-        "why_now": "Fed's main inflation measure releases Wednesday; ongoing price pressures signal sticky core inflation despite consumer spending resilience.",
-        "signal_source": "CNBC Top News — Fed inflation data release imminent; CoinDesk market snapshot shows Bitcoin stalling near $83k awaiting PCE print."
+        "why_now": "FTC probe into AI safety practices accelerating post-Hugging Face hack; enforcement timeline now material.",
+        "signal_source": "CNBC: FTC investigating OpenAI, Anthropic over product risks (2026-05-05)"
       },
       {
-        "market_title": "Will Bitcoin close above $85,000 by end of Q2 2026 (June 30)?",
+        "market_title": "Will Bitcoin exceed $70,000 by 2026-09-30?",
         "venue": "Polymarket",
-        "why_now": "Bitcoin currently near $83–84k; $3.1B ETF inflow streak and macro inflation signal suggest upside catalyst if CPI data softens.",
-        "signal_source": "CoinDesk live updates; Cointelegraph Bitcoin ETF $3.1B inflow streak report; crypto spot/futures volume tracking."
+        "why_now": "DXY strength debate resurfaces; CoinDesk piece 'stronger dollar is weaker threat to BTC than traders think' suggests contrarian setup.",
+        "signal_source": "CoinDesk: A stronger dollar is a weaker threat to bitcoin than traders think (2026-05-05)"
       },
       {
-        "market_title": "Will OpenAI secure $30B funding round at $1.4T+ valuation by December 31, 2026?",
-        "venue": "Manifold",
-        "why_now": "OpenAI formally seeking $30B at $1.4T valuation after delaying IPO; competing AI mega-rounds (Google, Meta) and Trump's Super Intelligence summit signal capital velocity.",
-        "signal_source": "CoinDesk — OpenAI seeks $30B at $1.4T valuation; BBC — Trump Super Intelligence summit; VC funding momentum in AI."
-      },
-      {
-        "market_title": "Will Ethereum ETF net inflows turn positive by June 30, 2026?",
-        "venue": "Polymarket",
-        "why_now": "Cointelegraph reports Ether funds currently turning red despite Bitcoin's $3.1B inflow streak; narrative divergence creates reversal opportunity.",
-        "signal_source": "Cointelegraph — Bitcoin ETFs $3.1B inflow streak, Ether funds turn red; ETF flow dashboards."
-      },
-      {
-        "market_title": "Will Boeing stock outperform SPY by >10% through end of 2026?",
+        "market_title": "Will the Fed raise rates at least once between now and 2026-12-31?",
         "venue": "Kalshi",
-        "why_now": "Boeing just secured U.S. Navy next-gen fighter jet development deal (+3% move); defense budget cycle and geopolitical tensions (Russia–Ukraine, Iran, Korea DMZ) favor aerospace.",
-        "signal_source": "CNBC — Boeing rises 3% on Navy contract; Russia targeting Ukrainian data centers; South Korea DMZ incident."
+        "why_now": "Fed inspector general report clears leadership on criminal grounds; no policy constraint from misconduct narrative; rates debate reopens.",
+        "signal_source": "CNBC: Fed watchdog finds renovation failures, but no grounds for criminal referral (2026-05-05)"
+      },
+      {
+        "market_title": "Will Crude oil (WTI) close above $90/barrel on 2026-06-30?",
+        "venue": "Polymarket",
+        "why_now": "Strait of Hormuz exports recovering to prewar levels; U.S. military tanker protection sustainability is the marginal question.",
+        "signal_source": "CNBC: Crude oil exports through Strait of Hormuz hit prewar levels (2026-05-05)"
+      },
+      {
+        "market_title": "Will the UK FCA approve at least 50 crypto firms under new authorization window by 2027-06-30?",
+        "venue": "Manifold",
+        "why_now": "FCA authorization window now open; 2027 UK regime deadline provides clear resolution; Singapore crypto growth (+55%) shows regional appetite.",
+        "signal_source": "Cointelegraph: FCA opens crypto authorization window ahead of 2027 UK regime (2026-05-05)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the Fed cut rates at least once by September 30, 2026, if PCE headline inflation stays above 2.8%?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Federal Reserve FOMC decision statements and CME FedWatch Tool historical snapshots.",
-        "why_underpriced": "Market currently prices rate cuts as function of labor data only; stickier inflation (signaled by May PCE) would create hawkish repricing, but consensus overweights transitory factors.",
-        "trigger_signal": "May 7 PCE print; June FOMC decision; yield curve repricing in June–July 2026."
-      },
-      {
-        "question": "Will Novo Nordisk (NVO) stock rise >15% by November 30, 2026, following successful Phase 4 Wegovy pill real-world evidence?",
-        "deadline": "2026-11-30",
-        "resolution_source": "NVO stock closing price on Nov 30, 2026 vs. May 5, 2026 close; SEC filings and investor presentations.",
-        "why_underpriced": "Real-world Wegovy pill data (CNBC report) shows sustained weight loss without injections—oral formulation is a multi-billion TAM unlock, but market pricing lags pharma narrative maturation.",
-        "trigger_signal": "CNBC Wegovy pill real-world study; Q2 2026 NVO earnings guidance; obesity drug sector momentum (Eli Lilly GLP-1 competition)."
-      },
-      {
-        "question": "Will a major stablecoin (USDC, USDT, or USDAU) achieve >$200B combined circulating supply by December 31, 2026?",
+        "question": "Will Petrobras blockchain initiative (Cardano-based sustainable fuel tracking) expand to >5 customers by 2026-12-31?",
         "deadline": "2026-12-31",
-        "resolution_source": "CoinMarketCap, Messari on-chain stablecoin supply dashboards, official issuer disclosures.",
-        "why_underpriced": "AllUnity just launched USDAU (European stablecoin); USDC/USDT compete for growth; institutional adoption (RWA, corporate treasury) driving adoption faster than betting markets price.",
-        "trigger_signal": "AllUnity USDAU launch; Kalshi funding ($40B valuation) signaling retail/institutional growth; crypto adoption in traditional finance."
+        "resolution_source": "Petrobras public announcements, blockchain explorer transaction volume on designated Cardano contract",
+        "why_underpriced": "Enterprise blockchain adoption is underestimated; major oil company validation signals institutional turn; Cardano ecosystem rarely priced in mainstream markets.",
+        "trigger_signal": "Petrobras uses Cardano for sustainable aviation fuel tracking; Brazil oil giant endorsement rare in Web3 space."
       },
       {
-        "question": "Will Trump administration announce formal sanctions negotiation talks with Iran by August 31, 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "U.S. State Department official statements, CNBC/Reuters reporting, POTUS Twitter/Truth Social posts.",
-        "why_underpriced": "Trump denies but Qatar/U.S. proposal already in motion (CNBC report); market underestimates Trump's willingness to pursue de-escalation despite public denial.",
-        "trigger_signal": "CNBC — Trump denies but U.S. proposal to Iran via Qatar; summer 2026 diplomatic cycle; oil price sensitivity to Iran tension."
+        "question": "Will a major U.S. stablecoin competitor to Tether (USDT) and Circle (USDC) reach >$10B market cap by 2027-03-31?",
+        "deadline": "2027-03-31",
+        "resolution_source": "CoinGecko, DeFi Llama, or official issuer reports; must be USD-backed and regulatory-compliant.",
+        "why_underpriced": "Open USD model challenge to duopoly is nascent; regulatory clarity under Trump administration favors new entrants; market structure shift underpriced.",
+        "trigger_signal": "CoinDesk: Open USD takes on Tether, Circle with different stablecoin model (2026-05-05)"
       },
       {
-        "question": "Will Ethereum/Bitcoin ratio exceed 0.08 by September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "CoinMarketCap, Binance spot ETH/BTC pair, on-chain price feeds.",
-        "why_underpriced": "ETH funds turning red while BTC ETFs see $3.1B inflows; narrative divergence suggests ETH underpriced relative to AI/staking adoption (OpenAI funding, layer 2 adoption).",
-        "trigger_signal": "Cointelegraph ETH fund outflows; Ethereum Shanghai staking yield; OpenAI funding cycle attracting capital to crypto infrastructure."
+        "question": "Will the DOJ-FTC-SEC enforce at least one settlement >$100M against an AI company (OpenAI, Anthropic, or peer) by 2027-06-30?",
+        "deadline": "2027-06-30",
+        "resolution_source": "DOJ/FTC/SEC official settlement announcements; must be public court filing or consent order.",
+        "why_underpriced": "FTC probe acceleration + Hugging Face breach aftermath = enforcement probability rising; markets pricing at <30% odds currently.",
+        "trigger_signal": "CNBC: FTC investigating OpenAI, Anthropic and other AI companies over product risks (2026-05-05)"
+      },
+      {
+        "question": "Will NVDA close above $200 by 2026-11-30?",
+        "deadline": "2026-11-30",
+        "resolution_source": "NASDAQ closing price",
+        "why_underpriced": "AI agent infrastructure buildout (CoinDesk: 'What will AI agents run on?') implies renewed compute demand; NVDA supply and training spend underpriced.",
+        "trigger_signal": "Hacker News Opus discussion + CoinDesk AI agents piece signal renewed foundation model capital spending cycle."
+      },
+      {
+        "question": "Will a Cardano-based enterprise blockchain project reach >$50M annualized transaction volume by 2027-02-28?",
+        "deadline": "2027-02-28",
+        "resolution_source": "Cardano blockchain explorer aggregate transaction volume on relevant contracts; Petrobras contract and others.",
+        "why_underpriced": "Petrobras + Brazil regulatory tailwinds often missed by Western traders; Cardano adoption narrative decoupled from price; low-hanging enterprise supply signal.",
+        "trigger_signal": "Cointelegraph + CoinDesk: Brazil's Petrobras uses Cardano to track sustainable fuel (2026-05-05); 55% Singapore crypto growth suggests Asian institutional adoption accelerating."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long BTC spot / short short-term DXY on May PCE softness (if headline <3.1% YoY), expecting Fed hold but market to price 2–3 rate cuts by Sept 2026.",
-        "horizon": "2–4 weeks (May 7 PCE print through June FOMC)",
+        "thesis": "Long BTC/USD on contrarian 'strong dollar ≠ BTC headwind' thesis; Fed rate hiking pressure fading after inspector general exoneration clears policy risk.",
+        "horizon": "2–4 months (to 2026-09-05)",
         "supporting_signals": [
-          "CoinDesk: Bitcoin stalling at $83–84k ahead of PCE print, indicating tight positioning before inflation catalyst.",
-          "CNBC: Fed inflation measure release Wednesday; market expects ongoing price pressures but consumer spending resilience suggests disinflation narrative may stick.",
-          "Cointelegraph: $3.1B Bitcoin ETF inflow streak vs. Ether fund outflows; BTC bulls defending key price level (inverse correlation to rate expectations)."
+          "CoinDesk: 'A stronger dollar is a weaker threat to bitcoin than traders think' (2026-05-05) — explicit contrarian positioning",
+          "CNBC: Fed inspector general finds 'no reasonable grounds for criminal referral' — removes policy overhang",
+          "Bitget hack recovery + protection fund reaching $309M signals liquidity restoration and stablecoin confidence rebound"
         ],
-        "counter_view": "PCE headline accelerates >3.2% YoY, forcing Fed to hold into Q3 2026; stagflation narrative dominates, crushing risk assets and BTC.",
-        "expression": "BTC perps long 5–10x leverage, 2-week horizon; simultaneously short 3x DXY short-dated calls; hedge with long gold spot."
+        "counter_view": "DXY strength + rate hold signals may persist longer; geopolitical risk (Russia-Ukraine energy attacks, Middle East tanker protection) could spike demand for safe-haven USD.",
+        "expression": "Long BTC futures or spot; hedge with short DXY (or long EUR/USD) to isolate macro thesis from currency move"
       },
       {
-        "thesis": "Long Boeing (BA) and defense-adjacent names (LMT, RTX) on multi-year Navy contract, heightened geopolitical risk (Russia–Ukraine, Iran, Korea DMZ), and 2027 defense budget cycle acceleration.",
-        "horizon": "3–9 months (May through year-end 2026)",
+        "thesis": "Long enterprise blockchain (Cardano AUM or NEAR ecosystem) on Petrobras + Singapore +55% growth tail; institutional Web3 adoption underpriced vs. regulatory tailwinds.",
+        "horizon": "6–12 months (to 2027-01-05)",
         "supporting_signals": [
-          "CNBC: Boeing just won U.S. Navy next-gen fighter jet deal; +3% move undershoots intrinsic value given multi-decade contract durability.",
-          "Reuters/CNBC: Russia intensifies data center attacks on Ukraine; NATO condemns nuclear rhetoric; this escalation sustains DoD spending momentum.",
-          "BBC: South Korea–North Korea DMZ incident; Trump admin geopolitical posture favors defense spending."
+          "Cointelegraph + CoinDesk: Petrobras using Cardano for sustainable fuel tracking; Brazil state oil giant endorsement = rare legitimacy signal",
+          "Cointelegraph: Singapore crypto activity +55% as broader region contracts; regulatory clarity driving allocation",
+          "FCA authorization window (Cointelegraph) signals UK market opening; enterprise adoption momentum lagging price"
         ],
-        "counter_view": "Unexpected ceasefire or de-escalation (Iran sanctions relief, Ukraine deal) crushes defense momentum; BA also faces commercial aviation headwinds (737 MAX production delays, supply chain).",
-        "expression": "Long BA equity 60% / ITA (aerospace ETF) 40%; establish position over next 2 weeks, trim on 15–20% gainers into August recess."
+        "counter_view": "Enterprise blockchain ROI still unproven; Cardano infrastructure risk; regulatory arbitrage may reverse if Singapore or UK tighten rules.",
+        "expression": "Long ADA or NEAR tokens; or long a basket ETF tracking enterprise blockchain (if available); hedge with short speculative L2 tokens (ARBTRUM, OP) to isolate utility thesis"
       },
       {
-        "thesis": "Long Novo Nordisk (NVO) on Wegovy oral formulation real-world durability and TAM expansion; position ahead of Q2 earnings and Phase 4 trial readouts (July–September 2026).",
-        "horizon": "6–9 months (May through November 2026)",
+        "thesis": "Short open-ended AI regulatory enforcement premia; long AI company equities (NVDA, TSLA, tech mega-cap) on view that FTC/DOJ settlement costs are front-loaded, limiting downside.",
+        "horizon": "3–9 months (to 2026-08-05, before potential 2027 settlements)",
         "supporting_signals": [
-          "CNBC: Wegovy pill real-world study shows sustained weight loss without weekly injections; oral formulation is a $10B+ TAM unlock (broader patient compliance, insurance coverage).",
-          "Sector momentum: Eli Lilly GLP-1 competition heating up; obesity drug category remains in early adoption phase (penetration <5% eligible U.S. population)."
+          "CNBC: FTC investigating OpenAI, Anthropic; no prior major AI enforcement action resolved = uncertainty pricing in >50% tail risk",
+          "Hacker News Opus/MCP discussion + CoinDesk AI agents piece = AI infrastructure buildout still accelerating; enforcement unlikely to derail capex cycle",
+          "Crypto funding (Clarity Act lobbyists $8M) shows policy channels active but outcomes uncertain; suggests binary outcome mispricing"
         ],
-        "counter_view": "Wegovy pill shows lower efficacy than injections in subsequent trials; Eli Lilly outcompetes on cost or efficacy; insurance formulary access remains bottleneck.",
-        "expression": "Long NVO shares 100–150 shares per $100k dry powder; target entry on any 8–12% drawdowns; sell into +20% moves post-earnings."
+        "counter_view": "FTC action could be larger and faster than expected; reputational damage to OpenAI/Anthropic could exceed fine size; downstream compliance costs in AI stack real.",
+        "expression": "Long NVDA or QQQ; short put spreads on OpenAI-adjacent equities (TSLA, MSFT if meaningful exposure) to sell tail risk"
       },
       {
-        "thesis": "Long USDC / other stablecoin demand via long USDC yield (3–5% on lending platforms) and short USDT (Tether concentration risk) as AllUnity USDAU and institutional adoption accelerate supply growth.",
-        "horizon": "3–6 months (May through September 2026)",
+        "thesis": "Long oil (WTI above $90 by June 2026) on Strait of Hormuz recovery sustainability; underprices geopolitical tail and U.S. military commitment credibility.",
+        "horizon": "30–60 days (to 2026-06-15)",
         "supporting_signals": [
-          "CoinDesk: AllUnity launches USDAU (European stablecoin); Kalshi funding at $40B valuation signals institutional/retail growth inflection.",
-          "Stablecoin supply dashboard: USDT dominance declining; USDC/USDC+ adoption by RWA platforms and corporate treasuries accelerating (e.g., Blackrock iShares tokenization track record)."
+          "CNBC: Crude exports through Strait hit prewar levels; tanker protection by U.S. military the marginal variable",
+          "BBC: Russia's largest Ukraine energy attack since spring (2026-05-05) = supply-side volatility narrative active",
+          "No major news of U.S. withdrawing tanker protection = de facto policy backing; market pricing Hormuz recovery as temporary"
         ],
-        "counter_view": "Regulatory crackdown on stablecoins (MiCA enforcement in EU, U.S. legislation); USDT Tether proves resilient; yield compression on lending platforms as supply grows.",
-        "expression": "Long $100–200k USDC on Aave/Compound at 4%+ APY; short USDT basis (long USDC, short USDT on leverage) via perp spreads; 6-month horizon."
+        "counter_view": "U.S. military commitment to Persian Gulf tanker ops sustainable only if domestic energy prices don't spike; political cost may force withdrawal; OPEC spare capacity still ample.",
+        "expression": "Long WTI crude futures; or long XLE (energy sector ETF) with short financials (XLF) to isolate energy thesis from macro"
       },
       {
-        "thesis": "Short ETH/BTC ratio under 0.075 on narrative divergence: Bitcoin attracts macro/Fed hedge flow while Ethereum bleeding (ether fund outflows) despite staking yield and AI narrative support.",
-        "horizon": "4–8 weeks (May through mid-June 2026)",
+        "thesis": "Long stablecoin ecosystem diversification play (Open USD or alternative USDC/USDT competitor) on regulatory clarity + Trump admin favorable stance; Tether/Circle duopoly breakdown underpriced.",
+        "horizon": "6–12 months (to 2027-01-05)",
         "supporting_signals": [
-          "Cointelegraph: Bitcoin ETF $3.1B inflow streak; Ether funds turning red (outflow pressure).",
-          "CoinDesk: Lighter (LIT) trading volatility spike on Robinhood perps plan suggests retail ETH churn; NEAR, PENGU trending but not enough to prop Ethereum narrative.",
-          "Macro: Fed inflation data May 7; if PCE softens, BTC outperforms on real-yield relief, but ETH underperforms on less hardware demand (AI capex cuts if rates stay sticky)."
+          "CoinDesk: 'Open USD takes on Tether, Circle with different stablecoin model'—new entrant narrative emerging",
+          "Lutnick (Commerce Secretary, $250M+ income, Cantor Fitzgerald ties) = crypto-friendly policy tail in Trump admin",
+          "Bitget hack recovery + protection fund growth = renewed confidence in institutional stablecoin infrastructure"
         ],
-        "counter_view": "Ethereum Shanghai staking yields and layer 2 adoption reignite ETH demand; Dencun upgrade catalyzes dApp migration; ETH/BTC compresses back to 0.085+ by June.",
-        "expression": "Short ETH/BTC perp 5x leverage, 4-week rolling target of 0.070; hedge with long BTC, short ETH spot equivalent; stop loss 0.085."
+        "counter_view": "Tether and Circle have network effects and regulatory moats; Open USD execution risk high; market concentration may persist if legacy players move faster.",
+        "expression": "Long USDC (or equivalent diversified stablecoin index if available); or long a crypto exchange/DeFi protocol token with exposure to USDC adoption (e.g., Compound, Aave) to express broader stablecoin ecosystem bet"
       }
     ]
   }
