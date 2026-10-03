@@ -1,13 +1,34 @@
 {
-  "generated_at_utc": "2026-10-03T00:05:01.685570+00:00",
+  "generated_at_utc": "2026-10-03T10:09:08.538266+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+        "summary": "America’s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.",
+        "link": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+        "published": "Sat, 03 Oct 2026 05:00:01 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
         "summary": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
         "link": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
         "published": "Fri, 02 Oct 2026 17:20:33 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+        "summary": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
+        "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+        "published": "Fri, 02 Oct 2026 19:25:36 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+        "summary": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement.",
+        "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+        "published": "Fri, 02 Oct 2026 20:04:42 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -32,45 +53,31 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
-        "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.",
-        "link": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
-        "published": "Fri, 02 Oct 2026 22:01:17 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-        "summary": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
-        "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-        "published": "Fri, 02 Oct 2026 19:25:36 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Anthropic to invest $100 million to train AI engineer talent",
-        "summary": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
-        "link": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-        "published": "Fri, 02 Oct 2026 21:03:06 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-        "summary": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
-        "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
-        "published": "Fri, 02 Oct 2026 13:45:58 GMT"
+        "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
+        "summary": "The IRS and Treasury issued a warning this week on an ETF strategy wealthy investors have been using to shield capital gains income from taxes.",
+        "link": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
+        "published": "Fri, 02 Oct 2026 13:48:40 GMT"
       },
       {
         "source": "BBC World",
-        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-        "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+        "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+        "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 03 Oct 2026 10:00:04 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Russia strikes second major bridge in Kyiv, mayor says",
+        "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 03 Oct 2026 09:53:16 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+        "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
         "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 02 Oct 2026 20:25:19 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Riot police clash with students as education protests rage in France",
-        "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-        "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 02 Oct 2026 21:13:27 GMT"
+        "published": "Sat, 03 Oct 2026 04:38:31 GMT"
       },
       {
         "source": "BBC World",
@@ -81,24 +88,24 @@
       },
       {
         "source": "BBC World",
-        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-        "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 02 Oct 2026 17:44:08 GMT"
+        "title": "Riot police clash with students as education protests rage in France",
+        "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+        "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 02 Oct 2026 21:13:27 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-        "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 02 Oct 2026 15:26:37 GMT"
+        "title": "Women given shorts at Oktoberfest to prevent upskirting",
+        "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+        "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 02 Oct 2026 23:16:03 GMT"
       },
       {
         "source": "BBC World",
-        "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-        "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-        "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 02 Oct 2026 09:08:06 GMT"
+        "title": "Kim wins Asian Games gold to secure military exemption",
+        "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 03 Oct 2026 08:51:14 GMT"
       },
       {
         "source": "BBC World",
@@ -106,13 +113,6 @@
         "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
         "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
         "published": "Fri, 02 Oct 2026 15:30:12 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-        "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
-        "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 02 Oct 2026 21:00:41 GMT"
       },
       {
         "source": "CoinDesk",
@@ -172,10 +172,10 @@
       },
       {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 02 Oct 2026 20:46:58 +0000"
+        "title": "Community banks sue OCC over trust bank charters of crypto firms",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Community banks sue OCC over trust bank charters of crypto firms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png\" /></p><p>Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.</p>",
+        "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 03 Oct 2026 09:25:01 +0000"
       }
     ],
     "chinese_news": [],
@@ -183,83 +183,89 @@
       {
         "source": "Hacker News",
         "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-        "summary": "score: 456, comments: 205",
+        "summary": "score: 636, comments: 287",
         "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-        "score": 456
-      },
-      {
-        "source": "Hacker News",
-        "title": "Apple Pass Designer",
-        "summary": "score: 284, comments: 192",
-        "link": "https://developer.apple.com/pass-designer/",
-        "score": 284
+        "score": 636
       },
       {
         "source": "Hacker News",
         "title": "Mike Tomlin spent 12 years building a Minecraft city",
-        "summary": "score: 208, comments: 56",
+        "summary": "score: 461, comments: 107",
         "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-        "score": 208
+        "score": 461
       },
       {
         "source": "Hacker News",
-        "title": "Zig v0.17.0",
-        "summary": "score: 190, comments: 99",
-        "link": "https://ziglang.org/download/0.17.0/release-notes.html",
-        "score": 190
+        "title": "Apple Pass Designer",
+        "summary": "score: 426, comments: 264",
+        "link": "https://developer.apple.com/pass-designer/",
+        "score": 426
+      },
+      {
+        "source": "Hacker News",
+        "title": "FLUX 3 Image",
+        "summary": "score: 345, comments: 75",
+        "link": "https://bfl.ai/models/flux-3-image",
+        "score": 345
+      },
+      {
+        "source": "Hacker News",
+        "title": "Extra Big Ass Intelligence",
+        "summary": "score: 298, comments: 62",
+        "link": "https://www.extrabigassintelligence.com/",
+        "score": 298
       },
       {
         "source": "Hacker News",
         "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-        "summary": "score: 169, comments: 34",
+        "summary": "score: 283, comments: 56",
         "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-        "score": 169
-      },
-      {
-        "source": "Hacker News",
-        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-        "summary": "score: 159, comments: 32",
-        "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-        "score": 159
-      },
-      {
-        "source": "Hacker News",
-        "title": "With most information hidden, the game Stratego had stumped AI until now",
-        "summary": "score: 158, comments: 74",
-        "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-        "score": 158
+        "score": 283
       },
       {
         "source": "Hacker News",
         "title": "Loss of cell identity drives human aging: Two new papers",
-        "summary": "score: 158, comments: 40",
+        "summary": "score: 260, comments: 81",
         "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-        "score": 158
+        "score": 260
+      },
+      {
+        "source": "Hacker News",
+        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+        "summary": "score: 241, comments: 75",
+        "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "score": 241
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Official Trump (TRUMP)",
-        "summary": "market cap rank: 105",
-        "link": "https://www.coingecko.com/en/coins/official-trump"
+        "title": "Quant (QNT)",
+        "summary": "market cap rank: 34",
+        "link": "https://www.coingecko.com/en/coins/quant"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Super Cat (SC)",
-        "summary": "market cap rank: 890",
-        "link": "https://www.coingecko.com/en/coins/super-cat"
+        "title": "The Sandbox (SAND)",
+        "summary": "market cap rank: 178",
+        "link": "https://www.coingecko.com/en/coins/the-sandbox"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Edel (EDEL)",
-        "summary": "market cap rank: 729",
-        "link": "https://www.coingecko.com/en/coins/edel"
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 42",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 84",
+        "link": "https://www.coingecko.com/en/coins/lighter"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Backpack (BP)",
-        "summary": "market cap rank: 155",
+        "summary": "market cap rank: 142",
         "link": "https://www.coingecko.com/en/coins/backpack"
       },
       {
@@ -270,143 +276,137 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 152",
-        "link": "https://www.coingecko.com/en/coins/pons"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 22",
-        "link": "https://www.coingecko.com/en/coins/near"
+        "title": "Grass (GRASS)",
+        "summary": "market cap rank: 113",
+        "link": "https://www.coingecko.com/en/coins/grass"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $70,000 on December 31, 2026?",
+        "market_title": "Will Bitcoin close above $65,000 on December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Soft jobs data (29K September payrolls) signals potential Fed rate cuts; Bitcoin reversal post-data release shows macro sensitivity; Trump TRUMP token trending suggests retail conviction on pro-crypto policies.",
-        "signal_source": "CoinDesk live updates on BTC reaction to jobs data; BLS employment report; TRUMP token volume on DEXs"
+        "why_now": "Soft September jobs data (29k added, 4.2% unemployment) signals potential Fed rate cuts through 2026, historically bullish for BTC; G7 coordinated oil releases indicate inflation management, reducing tail-risk scenarios.",
+        "signal_source": "CoinDesk live updates on BTC reversal post-jobs data; CNBC jobs and Treasury tax-policy signals suggest macro easing"
       },
       {
-        "market_title": "Will the Fed cut rates below 3.5% by June 30, 2026?",
+        "market_title": "Will the Fed cut rates below 4% by Q2 2026?",
         "venue": "Kalshi",
-        "why_now": "September unemployment rose to 4.2% with only 29K job additions; G7 coordinated diesel stock releases signal inflationary pressure; Powell criminal probe closure removes a downside political risk factor.",
-        "signal_source": "BLS jobs report; CNBC Fed coverage; DOJ confirmation on Powell"
+        "why_now": "Labor market deterioration (women outnumbering men for 8 months, weak jobs print) plus G7 coordinated stimulus signal recession hedging; Treasury/IRS tax crackdowns suggest demand-side pressure.",
+        "signal_source": "CNBC labor market analysis; CoinDesk macroeconomic signals tied to 29k jobs added in September"
       },
       {
-        "market_title": "Will Ethereum outperform Bitcoin (ETH/BTC ratio >0.08) on December 31, 2026?",
+        "market_title": "Will Nvidia close 2026 with a market cap above $3 trillion?",
         "venue": "Polymarket",
-        "why_now": "Anthropic's $100M AI engineer training program signals bullish enterprise-grade smart contract demand; Blast L2 shutdown shows consolidation risk for competing chains, favoring Ethereum's liquidity moat.",
-        "signal_source": "Anthropic investment announcement; CoinDesk Blast shutdown coverage; ETH/BTC ratio charting"
+        "why_now": "Data center buildout competing with community resistance globally (Europe, Asia pushback on costs); Cerebras' post-IPO collapse (-20% weekly) due to NVDA pressure confirms dominance but signals near-term volatility and valuation reset risk.",
+        "signal_source": "CNBC data center infrastructure story; CoinDesk Cerebras selloff narrative"
       },
       {
-        "market_title": "Will NVIDIA close above $150 per share on November 30, 2026?",
+        "market_title": "Will Donald Trump appoint Jay Clayton to a formal AI or crypto regulatory role by June 30, 2026?",
+        "venue": "Manifold",
+        "why_now": "Multiple sources (CoinDesk, Cointelegraph) report Trump expected to name Clayton as AI czar; Clayton pioneered SEC crypto crackdown, creating binary outcome: regulatory clarity or crypto friction.",
+        "signal_source": "CoinDesk and Cointelegraph reporting on Clayton AI czar appointment"
+      },
+      {
+        "market_title": "Will Ethereum close above $3,500 on December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Cerebras stock tanked 20% on Nvidia competitive pressure and lockup expiration; jobs slowdown may pressure mega-cap growth; but AI engineer talent spend (Anthropic) suggests sustained AI capex cycles.",
-        "signal_source": "CNBC Cerebras reporting; Anthropic $100M talent initiative; NVDA technicals"
-      },
-      {
-        "market_title": "Will the VIX close above 25 on any single day in November 2026?",
-        "venue": "Kalshi",
-        "why_now": "Labor market faltering (4.2% unemployment, low job growth) typically precedes volatility spikes; Cboe's push to extend VIX trading products indicates institutional hedging demand; geopolitical tensions (Russia-Ukraine, Middle East) remain tail-risk catalysts.",
-        "signal_source": "BLS employment data; Cboe VIX product expansion; BBC geopolitics coverage"
+        "why_now": "Blast L2 shutdown ($2B asset collapse) signals consolidation risk for Ethereum ecosystem; MiCA regulation in Europe (Bitpanda commentary) is shifting retail confidence to regulated, established platforms; ETH/BTC ratio under pressure.",
+        "signal_source": "CoinDesk Blast shutdown; Cointelegraph MiCA sentiment; Blast cost-revenue mismatch"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Anthropic raise a Series D funding round at a valuation exceeding $20 billion by December 31, 2026?",
+        "question": "Will the U.S. unemployment rate exceed 4.5% by December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Anthropic official press release or SEC filings (Form D); reputable VC database (PitchBook, Crunchbase) confirmation",
-        "why_underpriced": "Anthropic's $100M talent commitment signals confidence in scaling; OpenAI's valuation trajectory (>$80B) and Claude's market share gains create a natural baseline; but enterprise AI monetization risk is under-priced.",
-        "trigger_signal": "Anthropic $100M AI engineer training announcement suggests aggressive growth bet; timing aligns with 2026-2027 Series D windows for unicorns."
+        "resolution_source": "U.S. Bureau of Labor Statistics monthly jobs report (public data feed)",
+        "why_underpriced": "Recent 4.2% unemployment and weak 29k jobs added signal fragile labor market; markets are pricing only gradual deterioration, not tail-risk recession scenarios that FX, equity, and crypto volatility could trigger.",
+        "trigger_signal": "CNBC analysis of men losing labor ground + gender workforce crossover; macro weakness under-priced relative to crypto leverage exposure"
       },
       {
-        "question": "Will the U.S. unemployment rate fall below 3.8% by September 30, 2026?",
+        "question": "Will Brent crude oil average above $85/bbl in Q3 2026 (July–September)?",
         "deadline": "2026-09-30",
-        "resolution_source": "U.S. Bureau of Labor Statistics monthly employment report, seasonally adjusted rate",
-        "why_underpriced": "Current 4.2% (September data) + weak 29K job growth suggests structural labor slack; Fed rate-cut cycle typically lags job recovery by 2-3 quarters; but women's labor force gains (8+ months outnumbering men) indicate untapped supply.",
-        "trigger_signal": "BLS September payroll miss (29K vs 84K forecast) + rising unemployment signal softening, but seasonal patterns in 2026 H1 could compress jobless rates artificially."
+        "resolution_source": "EIA weekly crude oil price data (public API), quarterly average calculation",
+        "why_underpriced": "G7 diesel reserve releases are temporary (100M bbl over 4 months); Russia bridge strikes in Kyiv + Middle East/Houthi tension suggest supply tail-risk not fully reflected in crude futures curve; Trump admin may reinstate export restrictions.",
+        "trigger_signal": "G7 coordinated reserves release + CNBC diesel/Middle East escalation coverage; geopolitical premium lagging spot prices"
       },
       {
-        "question": "Will Bitcoin's dominance (BTC.D) fall below 40% of total crypto market cap by October 31, 2026?",
-        "deadline": "2026-10-31",
-        "resolution_source": "CoinMarketCap or CoinGecko BTC dominance chart; snapshot on market-close UTC on deadline date",
-        "why_underpriced": "Ethereum smart contract ecosystem expansion (Anthropic AI capex) + Layer-2 consolidation (Blast shutdown favors winners) creates alt-season pressure; but TRUMP token volatility and retail hype are cyclical, not structural.",
-        "trigger_signal": "Blast L2 failure (-98% assets) signals user consolidation to Ethereum; NEAR, BP, PENGU trending tokens show retail rotation away from BTC; Anthropic enterprise spend favors ETH ecosystem."
+        "question": "Will the OCC grant more than 5 new crypto trust bank charters by June 30, 2026?",
+        "deadline": "2026-06-30",
+        "resolution_source": "OCC official charter application database and press releases (public record)",
+        "why_underpriced": "Community banks and regulators actively suing OCC over current charters (CoinDesk, Cointelegraph); Jay Clayton appointment signals regulatory crackdown; markets pricing too much permissiveness—expect slower approval velocity.",
+        "trigger_signal": "CoinDesk and Cointelegraph simultaneous reporting of OCC litigation; Clayton crypto-hawk narrative"
       },
       {
-        "question": "Will the Fed's target federal funds rate be at 3.25% or lower by May 31, 2026?",
-        "deadline": "2026-05-31",
-        "resolution_source": "Federal Reserve official policy rate announcement (FOMC decision); Federal Reserve website published rate target",
-        "why_underpriced": "September jobs data (29K, well below estimates) + rising unemployment (4.2%) typically warrant 1-2 cuts in a 6-month window; G7 diesel stock releases + Europe inflation fears create policy divergence, but Fed may move pre-emptively.",
-        "trigger_signal": "BLS jobs miss + Powell criminal probe closure remove political friction for easing cycle; Kalshi betting currently prices ~70% odds of one cut by June 2026; market may be too complacent on magnitude/timing."
+        "question": "Will Bitcoin's share of total crypto market cap drop below 48% by August 31, 2026?",
+        "deadline": "2026-08-31",
+        "resolution_source": "CoinMarketCap and CoinGecko market cap dominance index (publicly tracked hourly)",
+        "why_underpriced": "Blast L2 failure, Anchorage Digital layoffs (17%), and MiCA regulatory clarity driving consolidation into Ethereum L1 and Bitcoin; altseason narratives underestimate macro dominance reversion in tightening regimes.",
+        "trigger_signal": "CoinDesk Blast shutdown + Cointelegraph Anchorage cuts + Bitpanda MiCA confidence signal; L2 fragmentation collapsing"
       },
       {
-        "question": "Will a major U.S. automaker (Ford, GM, Stellantis) announce plant closure or >10% workforce reduction by December 31, 2026?",
+        "question": "Will Ford's U.S. light-duty vehicle market share fall below 13% by Q4 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Company press release; SEC 8-K filing; major news outlet (CNBC, Reuters, Bloomberg) confirmation of official announcement",
-        "why_underpriced": "Ford down 6.6% YoY sales in Q3; labor market softening (women now outnumber men in workforce, skill mismatches) + EV transition capital pressure create restructuring conditions; but UAW contracts (recently settled) may delay cuts into 2027.",
-        "trigger_signal": "Ford Q3 sales decline + labor market weakness (29K Sept jobs) suggest volume/margin pressure; Cerebras/chip supply tightness doesn't directly affect auto, but demand destruction from rate-cut cycle could trigger restructuring announcements."
+        "resolution_source": "CNBC, Automotive News, Cox Automotive market share reports (quarterly auto industry data)",
+        "why_underpriced": "Ford down 6.6% YoY in Q3, losing ground to Hyundai; EV transition and supply-chain disruption (Russia bridge attacks affecting logistics) will accelerate. Macro weakness + labor cost pressure (women workforce shift) under-priced vs. auto equity valuations.",
+        "trigger_signal": "CNBC Ford Q3 sales miss vs. Hyundai; gender wage/cost dynamics in manufacturing"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long DXY (U.S. Dollar Index) on Fed rate-cut cycle extension risk and geopolitical safe-haven demand amid Ukraine/Middle East escalation.",
-        "horizon": "3-6 months",
+        "thesis": "Long UST/DXY (US dollar strength) through Q3 2026; macro deterioration (weak labor data, geopolitical escalation) drives safe-haven demand despite G7 temporary oil releases.",
+        "horizon": "3–6 months",
         "supporting_signals": [
-          "G7 coordinated diesel stock release signals energy crisis concerns, typically strong-dollar tailwind",
-          "Russia intensifying strikes on Kyiv (BBC reporting) increases NATO edge case; capital flight to USD",
-          "Powell criminal probe closure removes downside tail on USD (eliminates Fed credibility risk)"
+          "September jobs print (29k added, 4.2% unemployment) is worst data of cycle, signaling Fed cuts but initial dollar floor holds",
+          "G7 diesel reserves are tactical, temporary; Russia bridge strikes + Houthi escalation create supply tail-risk that raises real rates",
+          "Cboe VIX initiatives and bond volatility suggest institutional de-risking into cash and Treasuries"
         ],
-        "counter_view": "Jobs data (29K) accelerates Fed rate-cut cycle narrative; lower real rates compress DXY; commodity super-cycle (oil releases now, but tensions persist) inflates emerging-market currencies.",
-        "expression": "Long DXY via PowerShares DB USD Index Bullish (UUP) or DXY futures; pairs with short emerging-market FX (e.g., BRL, TRY, INR)"
+        "counter_view": "Fed forced to cut faster than priced; fiscal spending (Trump admin stimulus) reignites inflation and weakens DXY despite near-term labor softness.",
+        "expression": "Long DXY (ICE Dollar Index ETF), short EUR/USD 1.08 short-term calls; or long USDC yield strategies (e.g., Aave USDC deposit rate vs. 3-month T-bills)"
       },
       {
-        "thesis": "Long Ethereum / Short Bitcoin (long ETH/BTC ratio to 0.085+ by October 2026) on institutional AI smart-contract adoption and Anthropic capex cycle.",
-        "horizon": "4-6 months",
+        "thesis": "Short small-cap growth and cyclicals; long large-cap defensive (NVDA, BRK.B equivalent exposure); Cerebras crash foreshadows AI capex revaluation as data center ROI deteriorates.",
+        "horizon": "2–4 months",
         "supporting_signals": [
-          "Anthropic $100M AI engineer training signals enterprise-grade infrastructure demand; ETH Layer 2 consolidation (Blast failure) favors Ethereum network effects",
-          "MiCA regulation in EU (Bitpanda confidence) creates compliance moat for Ethereum; tokenization adoption (71% of UK finance leaders per Lloyds survey) tilts toward smart-contract platforms",
-          "TRUMP token and retail memes (PENGU, BP) create BTC-heavy retail flows, but institutional flows (Anthropic, BNY-Kraken partnership) favor ETH"
+          "Cerebras -20% weekly on NVDA pressure + lockup expiration; signals investor realization of AI infrastructure margin compression",
+          "Global data center pushback (Europe, Asia community resistance) will slow deployment and cap capex multiples",
+          "Weak labor market (29k jobs) reduces near-term demand for discretionary tech; mega-cap NVDA has pricing power and sovereign/institutional demand"
         ],
-        "counter_view": "Bitcoin's inflation hedge (macro recession, dollar weakness) remains superior in deflationary scenarios; ETH staking yields compressed; Ethereum Shanghai/Dencun upgrades priced in.",
-        "expression": "Long ETH/USD spot or perpetuals; short BTC/USD or long ETH/BTC ratio derivatives on Deribit"
+        "counter_view": "AI capex cycle is structurally durable; NVDA already digested valuation headwinds; Fed cuts re-accelerate growth and multiple expansion.",
+        "expression": "Short QQQ or SMH (semiconductor ETF small-cap tilt); long NVDA calls (Jan 2027 ATM); or long SPY puts vs. NVDA outperformance"
       },
       {
-        "thesis": "Short growth mega-caps (NVDA, MU) on earnings downside risk from weakening labor market and AI capex consolidation; rotate into cyclicals and energy.",
-        "horizon": "2-4 months",
+        "thesis": "Ethereum outperforms Bitcoin (higher ETH/BTC ratio) through 2026 as MiCA drives institutional adoption in Europe and L1 consolidation replaces failed L2 solutions.",
+        "horizon": "6–9 months",
         "supporting_signals": [
-          "Cerebras stock tanked 20% on Nvidia competitive pressure + lockup expiration; suggests chip capex cycle peaking",
-          "September jobs data (29K) signals consumer demand weakening; NVIDIA's end-market (data centers, consumer AI) faces margin pressure if customers defer capex",
-          "G7 diesel releases + Russia-Ukraine escalation point to energy re-rating; oil/energy stocks cheap on geopolitical vol"
+          "Blast L2 shutdown ($2B to near-$0 AUM) signals L2 cost model broken; capital flowing to proven Ethereum L1",
+          "Bitpanda CEO statement on MiCA increasing user confidence in regulated platforms; institutions allocating to staking and DeFi on L1",
+          "Anchorage Digital layoffs (17%) indicate consolidation of custody/infrastructure around Ethereum-native solutions"
         ],
-        "counter_view": "AI capex secular tailwind (Anthropic $100M spend) offsets cyclical weakness; NVIDIA margin resilience on foundry ASPs; rate cuts support multiple expansion for growth names.",
-        "expression": "Short NVDA via puts (Nov 2026 $130 puts) or QQQ put spreads; long XLE (Energy Select Sector SPDR) or DBC (commodities)"
+        "counter_view": "Bitcoin dominance resumes on macro slowdown (flight-to-quality); L2 consolidation takes time; regulatory clarity (Jay Clayton) may tighten Ethereum staking/DeFi.",
+        "expression": "Long ETH/BTC perpetual perp (e.g., Bybit or FTX equivalent), target 0.065; or long ETH June 2026 calls vs. short BTC June 2026 calls (call spread)"
       },
       {
-        "thesis": "Long U.S. Treasuries (TLT, IEF) and duration exposure; 10Y-2Y curve steepens on Fed rate-cut acceleration and recession soft-landing narrative.",
-        "horizon": "2-3 months",
+        "thesis": "Short energy/oil equities and defensives; crude structurally lower through Q4 2026 as G7 reserve releases + economic weakness offset geopolitical premium.",
+        "horizon": "1–3 months",
         "supporting_signals": [
-          "BLS jobs miss (29K vs 84K) + 4.2% unemployment creates 'insurance cut' setup; Kalshi odds imply 1+ cuts by June 2026",
-          "Powell criminal probe closure removes political friction; Fed can ease without credibility concerns",
-          "Geopolitical escalation (Russia, Middle East, Spain/France unrest) typically compresses long-term real rates as investors flee risk"
+          "G7 coordinated 100M barrel release over 4 months is explicit demand-destruction signal",
+          "U.S. jobs data (29k) signals recession risk, lowering long-term oil demand expectations",
+          "Trump admin may reinstate diesel export restrictions if prices spike, creating oversupply; market pricing upside tail-risk too high"
         ],
-        "counter_view": "Fed data-dependent; if inflation remains sticky (energy prices up on geopolitical supply shock), real yields may rise; duration losses if cuts are priced-out mid-cycle.",
-        "expression": "Long 10Y Treasury futures (ZN) or long iShares 20+ Year Treasury Bond ETF (TLT); pair with flattener hedge (short 2Y via TBT or short SOFR futures)"
+        "counter_view": "Russia bridge strikes and Houthi escalation trigger supply shock; geopolitical premium re-rates sharply if escalation widens; Trump protectionism supports oil prices.",
+        "expression": "Long USO or XLE short-dated puts (July 2026); or short oil futures (WTI Sep 2026 contract) with stop at $92/bbl"
       },
       {
-        "thesis": "Long Bitcoin volatility (VIX-like crypto vol products) and BTC put spreads; labor market deterioration + geopolitical tensions create tail-risk demand for hedges.",
-        "horizon": "1-3 months",
+        "thesis": "Long Polymarket and binary prediction market adoption; Jay Clayton appointment + regulatory litigation (OCC crypto charters) will drive demand for hedging/speculation on regulatory outcomes.",
+        "horizon": "6–12 months",
         "supporting_signals": [
-          "Cboe pushing VIX-as-perpetual-trade (never-ending contract) signals institutional hedging appetite",
-          "Russia intensifying Kyiv strikes + Spain/France labor unrest suggest binary geopolitical events ahead; Black Swan season",
-          "Soft jobs data (4.2% unemployment) typically precedes vol spikes in equities; crypto vol lagging, mean-reversion signal"
+          "Multiple CoinDesk, Cointelegraph stories on OCC litigation + Clayton crypto-hawk narrative signal high uncertainty requiring price discovery",
+          "Cboe VIX initiatives and macro volatility boost prediction market participation",
+          "Crypto regulatory clarity will be binary (approved or banned); concentrated bets attract hedge fund and retail capital"
         ],
-        "counter_view": "BTC reversal post-jobs data (CoinDesk) suggests near-term risk-on narrative intact; volatility term structure may be inverted (contango), making long-vol carry-negative.",
-        "expression": "Long BTC realized volatility via Deribit 1M-3M vol spreads; or long BTC put spreads (Nov 2026 $55K/$50K) for tail protection"
+        "counter_view": "Prediction market liquidity remains thin; regulatory bans (Clayton effect) suppress crypto-adjacent platforms; Polymarket faces U.S. legal pressure.",
+        "expression": "Accumulate USDC on Polymarket for high-conviction bets on Trump regulatory appointments (Clayton, Hester Peirce cabinet roles) and Fed rate cuts; directional leverage via prediction market order-flow analysis"
       }
     ]
   }
