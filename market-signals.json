@@ -1,13 +1,55 @@
 {
-  "generated_at_utc": "2026-10-03T10:09:08.538266+00:00",
+  "generated_at_utc": "2026-10-03T16:54:07.593900+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+        "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+        "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+        "published": "Sat, 03 Oct 2026 11:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+        "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+        "link": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+        "published": "Sat, 03 Oct 2026 11:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+        "summary": "The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.",
+        "link": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+        "published": "Sat, 03 Oct 2026 12:34:59 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+        "summary": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
+        "link": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+        "published": "Sat, 03 Oct 2026 12:55:31 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
+        "summary": "Novig's \"Just Sports\" campaign drew backlash from some female athletes but also brought in a rush of trading volume.",
+        "link": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+        "published": "Sat, 03 Oct 2026 13:30:48 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "America’s data center fight is a preview of what's to come for the rest of the world",
         "summary": "America’s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.",
         "link": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
-        "published": "Sat, 03 Oct 2026 05:00:01 GMT"
+        "published": "Sat, 03 Oct 2026 12:39:29 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Private capital is reshaping Hollywood moviemaking",
+        "summary": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.",
+        "link": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
+        "published": "Sat, 03 Oct 2026 12:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -17,60 +59,32 @@
         "published": "Fri, 02 Oct 2026 17:20:33 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-        "summary": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
-        "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-        "published": "Fri, 02 Oct 2026 19:25:36 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
-        "summary": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement.",
-        "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-        "published": "Fri, 02 Oct 2026 20:04:42 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
-        "summary": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
-        "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
-        "published": "Fri, 02 Oct 2026 19:19:15 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
-        "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
-        "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
-        "published": "Fri, 02 Oct 2026 22:38:49 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Men are losing ground in the labor market. Here's why",
-        "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
-        "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-        "published": "Fri, 02 Oct 2026 17:38:59 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
-        "summary": "The IRS and Treasury issued a warning this week on an ETF strategy wealthy investors have been using to shield capital gains income from taxes.",
-        "link": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
-        "published": "Fri, 02 Oct 2026 13:48:40 GMT"
+        "source": "BBC World",
+        "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+        "summary": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
+        "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 03 Oct 2026 16:50:34 GMT"
       },
       {
         "source": "BBC World",
         "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
         "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
         "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 03 Oct 2026 10:00:04 GMT"
+        "published": "Sat, 03 Oct 2026 14:27:33 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Russia strikes second major bridge in Kyiv, mayor says",
-        "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+        "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
         "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 03 Oct 2026 09:53:16 GMT"
+        "published": "Sat, 03 Oct 2026 16:16:49 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+        "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 03 Oct 2026 13:34:11 GMT"
       },
       {
         "source": "BBC World",
@@ -81,17 +95,10 @@
       },
       {
         "source": "BBC World",
-        "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-        "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-        "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 02 Oct 2026 20:32:07 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Riot police clash with students as education protests rage in France",
-        "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-        "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 02 Oct 2026 21:13:27 GMT"
+        "title": "Medical plane with 6 on board missing off Massachusetts coast",
+        "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+        "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 03 Oct 2026 15:56:14 GMT"
       },
       {
         "source": "BBC World",
@@ -102,17 +109,45 @@
       },
       {
         "source": "BBC World",
-        "title": "Kim wins Asian Games gold to secure military exemption",
-        "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 03 Oct 2026 08:51:14 GMT"
+        "title": "Why has Brazil accused the US of election interference?",
+        "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+        "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 03 Oct 2026 13:52:13 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-        "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-        "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 02 Oct 2026 15:30:12 GMT"
+        "source": "CoinDesk",
+        "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+        "published": "Sat, 03 Oct 2026 16:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+        "published": "Sat, 03 Oct 2026 16:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+        "published": "Sat, 03 Oct 2026 15:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto's Sisyphean struggle",
+        "summary": "",
+        "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+        "published": "Sat, 03 Oct 2026 13:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+        "published": "Sat, 03 Oct 2026 13:00:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -136,46 +171,11 @@
         "published": "Fri, 02 Oct 2026 17:15:35 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
-        "summary": "",
-        "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-        "published": "Fri, 02 Oct 2026 17:12:48 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
-        "published": "Fri, 02 Oct 2026 13:22:19 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
-        "published": "Fri, 02 Oct 2026 12:31:53 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Cboe wants to turn VIX into a never-ending trade",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-        "published": "Fri, 02 Oct 2026 11:30:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-        "published": "Fri, 02 Oct 2026 11:22:40 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Community banks sue OCC over trust bank charters of crypto firms",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Community banks sue OCC over trust bank charters of crypto firms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png\" /></p><p>Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.</p>",
-        "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 03 Oct 2026 09:25:01 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 03 Oct 2026 12:20:00 +0000"
       }
     ],
     "chinese_news": [],
@@ -183,61 +183,91 @@
       {
         "source": "Hacker News",
         "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-        "summary": "score: 636, comments: 287",
+        "summary": "score: 721, comments: 357",
         "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-        "score": 636
+        "score": 721
       },
       {
         "source": "Hacker News",
         "title": "Mike Tomlin spent 12 years building a Minecraft city",
-        "summary": "score: 461, comments: 107",
+        "summary": "score: 595, comments: 129",
         "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-        "score": 461
+        "score": 595
       },
       {
         "source": "Hacker News",
         "title": "Apple Pass Designer",
-        "summary": "score: 426, comments: 264",
+        "summary": "score: 511, comments: 308",
         "link": "https://developer.apple.com/pass-designer/",
-        "score": 426
+        "score": 511
       },
       {
         "source": "Hacker News",
-        "title": "FLUX 3 Image",
-        "summary": "score: 345, comments: 75",
-        "link": "https://bfl.ai/models/flux-3-image",
-        "score": 345
-      },
-      {
-        "source": "Hacker News",
-        "title": "Extra Big Ass Intelligence",
-        "summary": "score: 298, comments: 62",
-        "link": "https://www.extrabigassintelligence.com/",
-        "score": 298
+        "title": "Newgrounds.com – A community of games, music, and art",
+        "summary": "score: 374, comments: 107",
+        "link": "https://www.newgrounds.com/",
+        "score": 374
       },
       {
         "source": "Hacker News",
         "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-        "summary": "score: 283, comments: 56",
+        "summary": "score: 351, comments: 63",
         "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-        "score": 283
+        "score": 351
       },
       {
         "source": "Hacker News",
-        "title": "Loss of cell identity drives human aging: Two new papers",
-        "summary": "score: 260, comments: 81",
-        "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-        "score": 260
+        "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+        "summary": "score: 330, comments: 131",
+        "link": "https://tej.as/blog/aleph-alpha-kolibri",
+        "score": 330
       },
       {
         "source": "Hacker News",
-        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-        "summary": "score: 241, comments: 75",
-        "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-        "score": 241
+        "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "summary": "score: 218, comments: 35",
+        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "score": 218
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cloudflare OHTTP gateway",
+        "summary": "score: 153, comments: 68",
+        "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+        "score": 153
       }
     ],
     "crypto_trending": [
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pons (PONS)",
+        "summary": "market cap rank: 161",
+        "link": "https://www.coingecko.com/en/coins/pons"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "NEAR Protocol (NEAR)",
+        "summary": "market cap rank: 22",
+        "link": "https://www.coingecko.com/en/coins/near"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "LayerZero (ZRO)",
+        "summary": "market cap rank: 93",
+        "link": "https://www.coingecko.com/en/coins/layerzero"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 107",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
       {
         "source": "CoinGecko Trending",
         "title": "Quant (QNT)",
@@ -246,167 +276,140 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "The Sandbox (SAND)",
-        "summary": "market cap rank: 178",
-        "link": "https://www.coingecko.com/en/coins/the-sandbox"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pump.fun (PUMP)",
-        "summary": "market cap rank: 42",
-        "link": "https://www.coingecko.com/en/coins/pump-fun"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 84",
-        "link": "https://www.coingecko.com/en/coins/lighter"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Backpack (BP)",
-        "summary": "market cap rank: 142",
-        "link": "https://www.coingecko.com/en/coins/backpack"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 109",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Grass (GRASS)",
-        "summary": "market cap rank: 113",
-        "link": "https://www.coingecko.com/en/coins/grass"
+        "title": "Morpho (MORPHO)",
+        "summary": "market cap rank: 56",
+        "link": "https://www.coingecko.com/en/coins/morpho"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $65,000 on December 31, 2026?",
+        "market_title": "Will Tesla's Cybercab achieve 10,000+ monthly active units in Austin by end of 2026?",
         "venue": "Polymarket",
-        "why_now": "Soft September jobs data (29k added, 4.2% unemployment) signals potential Fed rate cuts through 2026, historically bullish for BTC; G7 coordinated oil releases indicate inflation management, reducing tail-risk scenarios.",
-        "signal_source": "CoinDesk live updates on BTC reversal post-jobs data; CNBC jobs and Treasury tax-policy signals suggest macro easing"
+        "why_now": "Tesla's Cybercab completed rocky first month in Austin (May 2026); expansion feasibility and scaling capacity are now immediate focal points for robotaxi viability.",
+        "signal_source": "CNBC reporting on Cybercab's troubled launch and Musk's pivot-away-from-auto-sales strategy"
       },
       {
-        "market_title": "Will the Fed cut rates below 4% by Q2 2026?",
+        "market_title": "Will Bitcoin trade above $65,000 USD on December 31, 2026?",
+        "venue": "Polymarket",
+        "why_now": "Trump's expected AI czar appointment (Jay Clayton) signals pro-crypto regulatory stance; crypto job postings tripled but applications fell, indicating talent supply stress amid bull positioning.",
+        "signal_source": "Cointelegraph (Jay Clayton AI czar report), CoinDesk (job posting surge), macro backdrop of G7 coordinated oil releases and USD pressure"
+      },
+      {
+        "market_title": "Will SEC approve a Bitcoin spot ETF futures product by September 30, 2026?",
         "venue": "Kalshi",
-        "why_now": "Labor market deterioration (women outnumbering men for 8 months, weak jobs print) plus G7 coordinated stimulus signal recession hedging; Treasury/IRS tax crackdowns suggest demand-side pressure.",
-        "signal_source": "CNBC labor market analysis; CoinDesk macroeconomic signals tied to 29k jobs added in September"
+        "why_now": "BNY Mellon in talks with Kraken parent Payward on infrastructure; BlackRock and tokenization signals suggest institutional crypto on-ramp acceleration; Trump appointment of pro-crypto Jay Clayton strengthens approval odds.",
+        "signal_source": "CoinDesk (BNY/Payward, BlackRock tokenization, community banks crypto trust charter lawsuit)"
       },
       {
-        "market_title": "Will Nvidia close 2026 with a market cap above $3 trillion?",
-        "venue": "Polymarket",
-        "why_now": "Data center buildout competing with community resistance globally (Europe, Asia pushback on costs); Cerebras' post-IPO collapse (-20% weekly) due to NVDA pressure confirms dominance but signals near-term volatility and valuation reset risk.",
-        "signal_source": "CNBC data center infrastructure story; CoinDesk Cerebras selloff narrative"
-      },
-      {
-        "market_title": "Will Donald Trump appoint Jay Clayton to a formal AI or crypto regulatory role by June 30, 2026?",
+        "market_title": "Will Skydance's Ellison-Kreiz merger close by June 30, 2026?",
         "venue": "Manifold",
-        "why_now": "Multiple sources (CoinDesk, Cointelegraph) report Trump expected to name Clayton as AI czar; Clayton pioneered SEC crypto crackdown, creating binary outcome: regulatory clarity or crypto friction.",
-        "signal_source": "CoinDesk and Cointelegraph reporting on Clayton AI czar appointment"
+        "why_now": "Ynon Kreiz's co-CEO appointment just resolved key governance question; merger is imminent and signals clarity on combined entity leadership structure.",
+        "signal_source": "CNBC report on Kreiz's appointment as co-CEO of Skydance"
       },
       {
-        "market_title": "Will Ethereum close above $3,500 on December 31, 2026?",
+        "market_title": "Will Berkshire Hathaway stake in Lennar exceed 12% by December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Blast L2 shutdown ($2B asset collapse) signals consolidation risk for Ethereum ecosystem; MiCA regulation in Europe (Bitpanda commentary) is shifting retail confidence to regulated, established platforms; ETH/BTC ratio under pressure.",
-        "signal_source": "CoinDesk Blast shutdown; Cointelegraph MiCA sentiment; Blast cost-revenue mismatch"
+        "why_now": "Berkshire raised stake to 11.2% this week but pace of purchases is slowing; market pricing in continued builder demand amid housing crisis (Spain protests, US rate backdrop).",
+        "signal_source": "CNBC (Berkshire adding to Lennar, slowing pace), BBC (Spain housing protests)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the U.S. unemployment rate exceed 4.5% by December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "U.S. Bureau of Labor Statistics monthly jobs report (public data feed)",
-        "why_underpriced": "Recent 4.2% unemployment and weak 29k jobs added signal fragile labor market; markets are pricing only gradual deterioration, not tail-risk recession scenarios that FX, equity, and crypto volatility could trigger.",
-        "trigger_signal": "CNBC analysis of men losing labor ground + gender workforce crossover; macro weakness under-priced relative to crypto leverage exposure"
-      },
-      {
-        "question": "Will Brent crude oil average above $85/bbl in Q3 2026 (July–September)?",
+        "question": "Will Ethereum trade above $3,500 USD on September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "EIA weekly crude oil price data (public API), quarterly average calculation",
-        "why_underpriced": "G7 diesel reserve releases are temporary (100M bbl over 4 months); Russia bridge strikes in Kyiv + Middle East/Houthi tension suggest supply tail-risk not fully reflected in crude futures curve; Trump admin may reinstate export restrictions.",
-        "trigger_signal": "G7 coordinated reserves release + CNBC diesel/Middle East escalation coverage; geopolitical premium lagging spot prices"
+        "resolution_source": "CoinGecko ETH/USD spot price at 2359 UTC on resolution date",
+        "why_underpriced": "NEAR Protocol's $3.8M recovery post-exploit signals resilience of L2/intent ecosystem; Cathie Wood highlighting AI agent spending as emerging macro theme; tokenization mainstream adoption (BlackRock, BNY) underpins ETH utility.",
+        "trigger_signal": "NEAR Intents $3.8M recovery, Cathie Wood AI agent thesis, BlackRock tokenization framework announcements"
       },
       {
-        "question": "Will the OCC grant more than 5 new crypto trust bank charters by June 30, 2026?",
-        "deadline": "2026-06-30",
-        "resolution_source": "OCC official charter application database and press releases (public record)",
-        "why_underpriced": "Community banks and regulators actively suing OCC over current charters (CoinDesk, Cointelegraph); Jay Clayton appointment signals regulatory crackdown; markets pricing too much permissiveness—expect slower approval velocity.",
-        "trigger_signal": "CoinDesk and Cointelegraph simultaneous reporting of OCC litigation; Clayton crypto-hawk narrative"
-      },
-      {
-        "question": "Will Bitcoin's share of total crypto market cap drop below 48% by August 31, 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "CoinMarketCap and CoinGecko market cap dominance index (publicly tracked hourly)",
-        "why_underpriced": "Blast L2 failure, Anchorage Digital layoffs (17%), and MiCA regulatory clarity driving consolidation into Ethereum L1 and Bitcoin; altseason narratives underestimate macro dominance reversion in tightening regimes.",
-        "trigger_signal": "CoinDesk Blast shutdown + Cointelegraph Anchorage cuts + Bitpanda MiCA confidence signal; L2 fragmentation collapsing"
-      },
-      {
-        "question": "Will Ford's U.S. light-duty vehicle market share fall below 13% by Q4 2026?",
+        "question": "Will the Fed funds rate be cut to 2.5% or lower by December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "CNBC, Automotive News, Cox Automotive market share reports (quarterly auto industry data)",
-        "why_underpriced": "Ford down 6.6% YoY in Q3, losing ground to Hyundai; EV transition and supply-chain disruption (Russia bridge attacks affecting logistics) will accelerate. Macro weakness + labor cost pressure (women workforce shift) under-priced vs. auto equity valuations.",
-        "trigger_signal": "CNBC Ford Q3 sales miss vs. Hyundai; gender wage/cost dynamics in manufacturing"
+        "resolution_source": "Federal Reserve FOMC official announcements and CME FedWatch tool terminal rate read",
+        "why_underpriced": "G7 coordinated oil release to suppress inflation (per BBC) signals central bank coordinated easing bias; Trump administration's pro-growth fiscal stance and AI czar appointment (Jay Clayton) imply dovish tilt by mid-2026.",
+        "trigger_signal": "G7 coordinated oil release, Trump AI czar appointment, crypto job posting surge despite application weakness"
+      },
+      {
+        "question": "Will NVIDIA stock outperform the Nasdaq-100 by >15% between May 5, 2026 and May 5, 2027?",
+        "deadline": "2027-05-05",
+        "resolution_source": "Yahoo Finance NVDA vs QQQ price total return from 2026-05-05 to 2027-05-05",
+        "why_underpriced": "Data center buildout globally accelerating (CNBC: America's data center fight going global); European/Asian pushback on costs signals structural demand, not bubble; private capital reshaping infrastructure financing (e.g., Skydance merger complexity driving M&A advisory demand).",
+        "trigger_signal": "CNBC America's data center fight is global, private capital reshaping Hollywood/infrastructure financing"
+      },
+      {
+        "question": "Will BTC/ETH ratio exceed 25 on August 31, 2026?",
+        "deadline": "2026-08-31",
+        "resolution_source": "CoinGecko BTC/ETH price ratio at 2359 UTC on resolution date",
+        "why_underpriced": "Crypto trust charter lawsuit (community banks suing OCC) delays institutional ETH on-ramps; BTC regulatory clarity (SEC spot ETF approval odds rising) drives BTC outperformance relative to L2-dependent ETH utility.",
+        "trigger_signal": "Community bank crypto trust charter lawsuit, Jay Clayton pro-crypto appointment, CoinDesk BNY/Payward infrastructure talks"
+      },
+      {
+        "question": "Will DXY (US Dollar Index) trade below 95 on November 30, 2026?",
+        "deadline": "2026-11-30",
+        "resolution_source": "ICE DXY official end-of-day quote on 2026-11-30",
+        "why_underpriced": "G7 coordinated energy release and Trump fiscal expansion signal weakening dollar via inflation + growth narrative; Brazil's election (Lula vs Bolsonaro) adds EM volatility premium; Trump AI czar appointment implies deficit-friendly policy stance.",
+        "trigger_signal": "G7 coordinated oil release, Brazil election uncertainty, Trump fiscal/AI-friendly appointments"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long UST/DXY (US dollar strength) through Q3 2026; macro deterioration (weak labor data, geopolitical escalation) drives safe-haven demand despite G7 temporary oil releases.",
-        "horizon": "3–6 months",
+        "thesis": "Long Bitcoin (BTC) and short DXY into year-end 2026 on Trump pro-crypto appointments (Jay Clayton AI czar), G7 coordinated inflation response, and institutional tokenization adoption (BNY/Kraken, BlackRock).",
+        "horizon": "6-8 months (May 2026 → Dec 2026)",
         "supporting_signals": [
-          "September jobs print (29k added, 4.2% unemployment) is worst data of cycle, signaling Fed cuts but initial dollar floor holds",
-          "G7 diesel reserves are tactical, temporary; Russia bridge strikes + Houthi escalation create supply tail-risk that raises real rates",
-          "Cboe VIX initiatives and bond volatility suggest institutional de-risking into cash and Treasuries"
+          "Cointelegraph: Trump appointing Jay Clayton as AI czar signals pro-crypto regulatory stance",
+          "BBC: G7 coordinated oil/diesel release signals dovish central bank coordination",
+          "CoinDesk: BNY in talks with Kraken parent Payward for infrastructure; BlackRock tokenization framework",
+          "Crypto job postings tripled in September (CoinDesk) — talent reallocation to crypto"
         ],
-        "counter_view": "Fed forced to cut faster than priced; fiscal spending (Trump admin stimulus) reignites inflation and weakens DXY despite near-term labor softness.",
-        "expression": "Long DXY (ICE Dollar Index ETF), short EUR/USD 1.08 short-term calls; or long USDC yield strategies (e.g., Aave USDC deposit rate vs. 3-month T-bills)"
+        "counter_view": "SEC delays Bitcoin futures ETF approval; crypto regulatory backlash from community banks (trust charter lawsuit) stalls institutional on-ramps; Fed holds rates higher for longer despite G7 signals.",
+        "expression": "Buy BTC perps (2x or 3x) on Bybit/Deribit; Short DXY via DBC inverse ETF or FX forwards; hedge with long USDC 4-5% yield (Aave/Compound) if risk-averse"
       },
       {
-        "thesis": "Short small-cap growth and cyclicals; long large-cap defensive (NVDA, BRK.B equivalent exposure); Cerebras crash foreshadows AI capex revaluation as data center ROI deteriorates.",
-        "horizon": "2–4 months",
+        "thesis": "Long Nvidia and semiconductor capex plays (MU, AMD) through Q3 2026 on accelerating global data center buildout (CNBC: US data center fight going global) and private capital driving M&A velocity.",
+        "horizon": "3-5 months (May 2026 → Aug 2026)",
         "supporting_signals": [
-          "Cerebras -20% weekly on NVDA pressure + lockup expiration; signals investor realization of AI infrastructure margin compression",
-          "Global data center pushback (Europe, Asia community resistance) will slow deployment and cap capex multiples",
-          "Weak labor market (29k jobs) reduces near-term demand for discretionary tech; mega-cap NVDA has pricing power and sovereign/institutional demand"
+          "CNBC: America's data center fight is a preview for Europe/Asia; communities pushing back on rising AI infrastructure costs",
+          "Skydance merger (Ellison + Kreiz co-CEO) signals M&A complexity driving advisory/capex cycles",
+          "Private capital reshaping Hollywood and infrastructure financing (CNBC)"
         ],
-        "counter_view": "AI capex cycle is structurally durable; NVDA already digested valuation headwinds; Fed cuts re-accelerate growth and multiple expansion.",
-        "expression": "Short QQQ or SMH (semiconductor ETF small-cap tilt); long NVDA calls (Jan 2027 ATM); or long SPY puts vs. NVDA outperformance"
+        "counter_view": "Regulatory pushback in Europe/Asia delays data center deployment; NVIDIA valuation premium already prices in capex cycle; energy costs spiral faster than expected.",
+        "expression": "Long NVDA (equity or call spread) at 50 delta; Long MU (Micron) leveraged to DRAM capex cycle; hedge with short SPY 2% position to isolate semiconductor beta"
       },
       {
-        "thesis": "Ethereum outperforms Bitcoin (higher ETH/BTC ratio) through 2026 as MiCA drives institutional adoption in Europe and L1 consolidation replaces failed L2 solutions.",
-        "horizon": "6–9 months",
+        "thesis": "Long Ethereum (ETH) and Layer-2 tokens (NEAR, Morpho, Quant) selectively as tokenization infrastructure adoption ramps and Blast's failure (assets down 98%) clears weak-hand L2s from competition.",
+        "horizon": "4-6 months (May 2026 → Nov 2026)",
         "supporting_signals": [
-          "Blast L2 shutdown ($2B to near-$0 AUM) signals L2 cost model broken; capital flowing to proven Ethereum L1",
-          "Bitpanda CEO statement on MiCA increasing user confidence in regulated platforms; institutions allocating to staking and DeFi on L1",
-          "Anchorage Digital layoffs (17%) indicate consolidation of custody/infrastructure around Ethereum-native solutions"
+          "NEAR Protocol recovered entire $3.8M exploit (Cointelegraph) — demonstrates resilience and community trust",
+          "CoinDesk: BlackRock spotlights tokenization as investment portfolio transformation theme",
+          "Blast shutdown ($2B L2 → near-zero) signals consolidation and re-rating of surviving L2s (NEAR, Morpho, Quant)",
+          "BNY Mellon infrastructure talks with Kraken parent imply institutional L2 integrations incoming"
         ],
-        "counter_view": "Bitcoin dominance resumes on macro slowdown (flight-to-quality); L2 consolidation takes time; regulatory clarity (Jay Clayton) may tighten Ethereum staking/DeFi.",
-        "expression": "Long ETH/BTC perpetual perp (e.g., Bybit or FTX equivalent), target 0.065; or long ETH June 2026 calls vs. short BTC June 2026 calls (call spread)"
+        "counter_view": "Ethereum's Shanghai upgrade risks overhang 2026; community banks' crypto trust charter lawsuit stalls institutional custody on-ramps; NEAR/Morpho tokens remain illiquid relative to risk.",
+        "expression": "Long ETH/BTC ratio via ETH spot + short BTC perp (2:1 notional); add 20% allocation to NEAR token (spot or Binance Futures); hedge with 3% DXY short"
       },
       {
-        "thesis": "Short energy/oil equities and defensives; crude structurally lower through Q4 2026 as G7 reserve releases + economic weakness offset geopolitical premium.",
-        "horizon": "1–3 months",
+        "thesis": "Short auto sector and Ford (equity or puts) as Tesla's Cybercab expansion stalls post-rocky Austin launch; Ford/Hyundai's declining sales (Ford down 6.6% YoY) signal accelerating EV cannibalization.",
+        "horizon": "2-4 months (May 2026 → Aug 2026)",
         "supporting_signals": [
-          "G7 coordinated 100M barrel release over 4 months is explicit demand-destruction signal",
-          "U.S. jobs data (29k) signals recession risk, lowering long-term oil demand expectations",
-          "Trump admin may reinstate diesel export restrictions if prices spike, creating oversupply; market pricing upside tail-risk too high"
+          "CNBC: Tesla Cybercab had 'rocky first month' in Austin; expansion is the hard part",
+          "CNBC: Ford fends off Hyundai to retain #3 US sales; both declining YoY",
+          "Tesla's pivot away from auto sales revenue toward Cybercab/robotaxi model suggests cannibalization risk to legacy OEM mix"
         ],
-        "counter_view": "Russia bridge strikes and Houthi escalation trigger supply shock; geopolitical premium re-rates sharply if escalation widens; Trump protectionism supports oil prices.",
-        "expression": "Long USO or XLE short-dated puts (July 2026); or short oil futures (WTI Sep 2026 contract) with stop at $92/bbl"
+        "counter_view": "Ford stabilizes with F-150 Lightning EV demand; Cybercab success in Austin de-risks Musk's expansion timeline; auto sector valuation already discounts EV transition.",
+        "expression": "Short F (Ford) equity 3% position; Buy F Put spreads (Sep 2026 expiry, 7 delta short) for duration hedges; Long Tesla calls (TSLA) call spreads (bull call spread 5-8 delta long) to express Cybercab recovery optionality"
       },
       {
-        "thesis": "Long Polymarket and binary prediction market adoption; Jay Clayton appointment + regulatory litigation (OCC crypto charters) will drive demand for hedging/speculation on regulatory outcomes.",
-        "horizon": "6–12 months",
+        "thesis": "Long Berkshire Hathaway (BRK) and homebuilder spreads (Lennar over SPY) on Berkshire's 11.2% Lennar stake and persistent housing supply crisis (Spain 50+ protests, US data center displacement).",
+        "horizon": "4-6 months (May 2026 → Nov 2026)",
         "supporting_signals": [
-          "Multiple CoinDesk, Cointelegraph stories on OCC litigation + Clayton crypto-hawk narrative signal high uncertainty requiring price discovery",
-          "Cboe VIX initiatives and macro volatility boost prediction market participation",
-          "Crypto regulatory clarity will be binary (approved or banned); concentrated bets attract hedge fund and retail capital"
+          "CNBC: Berkshire raised Lennar stake to 11.2% this week; suggests conviction in homebuilder fundamentals",
+          "BBC: Spain housing crisis: 50+ protests; tens of thousands in streets over failed emergency legislation",
+          "CNBC: Data center expansion displacing residential zoning — labor/supply constraints support housing demand",
+          "Lennar still trades below historical multiples despite supply tailwinds"
         ],
-        "counter_view": "Prediction market liquidity remains thin; regulatory bans (Clayton effect) suppress crypto-adjacent platforms; Polymarket faces U.S. legal pressure.",
-        "expression": "Accumulate USDC on Polymarket for high-conviction bets on Trump regulatory appointments (Clayton, Hester Peirce cabinet roles) and Fed rate cuts; directional leverage via prediction market order-flow analysis"
+        "counter_view": "Berkshire's buying pace slowing (CNBC) signals Buffett de-risking; recession fears drive housing demand destruction; Lennar valuation multiple compression if rates stay high.",
+        "expression": "Long LEN (Lennar) equity 2% position; Long BRK.B 1.5% position; Pair trade: Long LEN/Short SPY (neutral beta expression of homebuilder outperformance)"
       }
     ]
   }
