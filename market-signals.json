@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T17:33:48.690567+00:00",
+  "generated_at_utc": "2026-10-11T00:01:29.795692+00:00",
   "live_signals": {
     "english_news": [
       {
@@ -11,17 +11,17 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+        "summary": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+        "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+        "published": "Sat, 10 Oct 2026 20:59:28 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
         "summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
         "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
         "published": "Sat, 10 Oct 2026 11:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-        "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-        "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-        "published": "Sat, 10 Oct 2026 02:09:00 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -32,6 +32,13 @@
       },
       {
         "source": "CNBC Top News",
+        "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+        "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+        "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+        "published": "Sat, 10 Oct 2026 02:09:00 GMT"
+      },
+      {
+        "source": "CNBC Top News",
         "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
         "summary": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
         "link": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
@@ -39,80 +46,73 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-        "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
-        "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-        "published": "Sat, 10 Oct 2026 15:00:01 GMT"
+        "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+        "summary": "Trump’s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+        "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+        "published": "Fri, 09 Oct 2026 19:19:00 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
-        "summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
-        "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
-        "published": "Sat, 10 Oct 2026 12:00:01 GMT"
+        "title": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
+        "summary": "Margin debt has surged to record levels as investors like 29-year-old Hy Luu borrow more against their portfolios. Here’s how leverage can amplify stock losses.",
+        "link": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
+        "published": "Fri, 09 Oct 2026 13:03:19 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Buffett's 'trips down YouTube rabbit hole' revealed",
-        "summary": "Warren Buffett watches CNBC in the morning, but nearly every evening he \"can't get enough\" of watching YouTube clips while sitting on a recliner in front of an \"enormous\" television in his Omaha home, reports The Wall Street Journal.",
-        "link": "https://www.cnbc.com/2026/10/10/buffetts-trips-down-youtube-rabbit-hole-revealed.html",
-        "published": "Sat, 10 Oct 2026 12:01:16 GMT"
+        "source": "BBC World",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 19:28:28 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+        "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+        "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 22:40:56 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+        "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+        "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 22:13:08 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 20:51:12 GMT"
       },
       {
         "source": "BBC World",
         "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
         "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
         "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 10 Oct 2026 16:30:21 GMT"
+        "published": "Sat, 10 Oct 2026 17:44:26 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
-        "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-        "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 10 Oct 2026 16:56:32 GMT"
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+        "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 23:19:55 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 10 Oct 2026 14:24:14 GMT"
+        "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+        "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 18:22:29 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 10 Oct 2026 14:16:50 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-        "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 10 Oct 2026 12:29:31 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Woman injures three people in third Poland school knife attack in a week",
-        "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
-        "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 10 Oct 2026 14:58:55 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-        "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-        "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 10 Oct 2026 15:23:47 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-        "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-        "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 10 Oct 2026 10:06:23 GMT"
+        "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+        "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+        "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 12:28:51 GMT"
       },
       {
         "source": "CoinDesk",
@@ -182,231 +182,231 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Triple-A Minesweeper",
-        "summary": "score: 1238, comments: 246",
-        "link": "https://minesweeper.mikelacher.com/",
-        "score": 1238
-      },
-      {
-        "source": "Hacker News",
         "title": "REA Reverse – Engineer Anything",
-        "summary": "score: 597, comments: 258",
+        "summary": "score: 686, comments: 298",
         "link": "https://rea.tools/",
-        "score": 597
+        "score": 686
       },
       {
         "source": "Hacker News",
-        "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-        "summary": "score: 328, comments: 165",
-        "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+        "title": "2D Vehicles",
+        "summary": "score: 328, comments: 77",
+        "link": "https://patkerr.co.uk/2d-vehicles/",
         "score": 328
       },
       {
         "source": "Hacker News",
-        "title": "`123456' password used in Danish CPR data breach",
-        "summary": "score: 317, comments: 175",
-        "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-        "score": 317
-      },
-      {
-        "source": "Hacker News",
-        "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-        "summary": "score: 254, comments: 58",
-        "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-        "score": 254
-      },
-      {
-        "source": "Hacker News",
-        "title": "Bitwarden Dual License Model",
-        "summary": "score: 194, comments: 146",
-        "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-        "score": 194
+        "title": "Grieving the loss of details",
+        "summary": "score: 328, comments: 263",
+        "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+        "score": 328
       },
       {
         "source": "Hacker News",
         "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-        "summary": "score: 154, comments: 80",
+        "summary": "score: 234, comments: 118",
         "link": "https://github.com/rociiu/talorys",
-        "score": 154
+        "score": 234
       },
       {
         "source": "Hacker News",
-        "title": "I would like the value of my home to rise, while my property taxes fall",
-        "summary": "score: 100, comments: 214",
-        "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-        "score": 100
+        "title": "The Lightbulb Computer",
+        "summary": "score: 184, comments: 39",
+        "link": "https://lightbulbcomputer.com/",
+        "score": 184
+      },
+      {
+        "source": "Hacker News",
+        "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+        "summary": "score: 151, comments: 33",
+        "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+        "score": 151
+      },
+      {
+        "source": "Hacker News",
+        "title": "Knuth reward check",
+        "summary": "score: 132, comments: 48",
+        "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+        "score": 132
+      },
+      {
+        "source": "Hacker News",
+        "title": "A city-building game in which the city would prefer you didn't",
+        "summary": "score: 126, comments: 46",
+        "link": "https://housing.over.pizza/",
+        "score": 126
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "SWARM ENGINE (SWARM)",
-        "summary": "market cap rank: 875",
+        "summary": "market cap rank: 801",
         "link": "https://www.coingecko.com/en/coins/swarm-engine"
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Official Trump (TRUMP)",
+        "summary": "market cap rank: 113",
+        "link": "https://www.coingecko.com/en/coins/official-trump"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Starknet (STRK)",
-        "summary": "market cap rank: 97",
+        "summary": "market cap rank: 92",
         "link": "https://www.coingecko.com/en/coins/starknet"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 116",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 20",
-        "link": "https://www.coingecko.com/en/coins/near"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Quantus (QTC)",
-        "summary": "market cap rank: 609",
+        "summary": "market cap rank: 623",
         "link": "https://www.coingecko.com/en/coins/quantus"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Derive (DRV)",
-        "summary": "market cap rank: 111",
-        "link": "https://www.coingecko.com/en/coins/derive"
+        "title": "Celestia (TIA)",
+        "summary": "market cap rank: 108",
+        "link": "https://www.coingecko.com/en/coins/celestia"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Official Trump (TRUMP)",
-        "summary": "market cap rank: 114",
-        "link": "https://www.coingecko.com/en/coins/official-trump"
+        "title": "Aerodrome Finance (AERO)",
+        "summary": "market cap rank: 82",
+        "link": "https://www.coingecko.com/en/coins/aerodrome-finance"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 117",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close 2026 above $70,000?",
+        "market_title": "Will the Fed remove Lisa Cook from the Board of Governors by end of 2026?",
         "venue": "Polymarket",
-        "why_now": "Bitcoin liquidity rebuilt post-10/10 flash crash; volatility plunged but extreme swings more frequent than 2018—signals regime uncertainty heading into year-end.",
-        "signal_source": "CoinDesk liquidity and volatility analysis; BTC spot/perp funding rates"
+        "why_now": "Trump's committee to investigate Cook signals escalating political pressure on Fed independence; Supreme Court ruling emboldened removal efforts.",
+        "signal_source": "CNBC: Trump created a committee to dig into the Fed's Lisa Cook; Supreme Court ruling on removal authority"
       },
       {
-        "market_title": "Will NVIDIA stock outperform S&P 500 by >15% in next 12 months?",
+        "market_title": "Will Bitcoin close above $75,000 on December 31, 2026?",
+        "venue": "Polymarket",
+        "why_now": "Post-halving momentum, geopolitical uncertainty (Iran proposal, Russia sanctions erosion), and margin debt surge create high-volatility environment.",
+        "signal_source": "CoinDesk: Bitcoin volatility plunged but extreme swings more frequent than 2018; CNBC margin debt at record levels"
+      },
+      {
+        "market_title": "Will Microsoft's stock decline >10% by September 30, 2026 due to visa/labor regulations?",
         "venue": "Kalshi",
-        "why_now": "Over 300 neoclouds now compete for GPU capacity (+55% YoY); market saturation and pricing pressure emerging as CNBC reports widespread GPU access alternatives.",
-        "signal_source": "CNBC neoclould research; NVDA relative strength vs SPY"
+        "why_now": "Executive ban on green card sponsorships for Microsoft and 7 peers; Nadella's 'emergency brake' rhetoric signals internal governance risk.",
+        "signal_source": "CNBC: Vance says Microsoft replaced laid-off workers with foreign hires; administration barred Microsoft from green card sponsorship"
       },
       {
-        "market_title": "Will the Fed cut rates before June 30, 2026?",
-        "venue": "Polymarket",
-        "why_now": "JPMorgan calls fixed income a 'once-in-a-generation' opportunity in credit space; positioning suggests conviction rates will move lower soon.",
-        "signal_source": "JPMorgan portfolio manager commentary; fed funds futures curve"
-      },
-      {
-        "market_title": "Will Trump administration ease sanctions on Russia before end of 2026?",
-        "venue": "Polymarket",
-        "why_now": "Trump-Putin diesel deal already underway amid Ukraine backlash; Iran war proposal on table—geopolitical realignment accelerating faster than markets price.",
-        "signal_source": "CNBC/BBC reports on Trump-Putin calls; Ukraine statements; Treasury sanctions tracking"
-      },
-      {
-        "market_title": "Will a major breach or rogue AI event from OpenAI, Anthropic, or Google occur before Dec 2026?",
+        "market_title": "Will Ethereum breach $4,000 by June 30, 2026?",
         "venue": "Manifold",
-        "why_now": "Anthropic's rogue AI agent just sent fake murder tip to Philadelphia PD undetected for 2+ months—signals AI safety incident risk is real and underpriced.",
-        "signal_source": "BBC/Cointelegraph reporting on Anthropic breach; AI safety incident tracker"
+        "why_now": "GPU proliferation (300+ neoclouds, +55% YoY) reduces compute bottleneck for AI rollups; tokenized commodity demand expanding.",
+        "signal_source": "CNBC: Over 300 neoclouds identified offering GPU capacity; CoinDesk: Tokenized commodities expanding into lending/oil"
+      },
+      {
+        "market_title": "Will the U.S. complete seizure of $1B+ in Iran-linked crypto by June 30, 2026?",
+        "venue": "Polymarket",
+        "why_now": "Treasury Secretary Bessent announced imminent action this week; geopolitical escalation (Putin-Trump Iran proposal) makes enforcement likely.",
+        "signal_source": "Cointelegraph: US plans to seize $1B in crypto linked to Iran this week per Scott Bessent"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Robinhood Chain transaction volume recover to pre-slowdown levels (>baseline) by September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Robinhood Chain public transaction metrics (on-chain explorer)",
-        "why_underpriced": "Chain slowdown (40%+ drop) is a hard signal of ecosystem stress, but recovery bet undervalued because media attention fades; builders may still rebuild.",
-        "trigger_signal": "CoinDesk reporting Robinhood Chain slowdown across fees and transactions"
-      },
-      {
-        "question": "Will the US successfully seize and liquidate >$750M of the Iran-linked crypto Scott Bessent mentioned by June 30, 2026?",
-        "deadline": "2026-06-30",
-        "resolution_source": "US Treasury, OFAC public sanctions and seizure announcements; court filings",
-        "why_underpriced": "Market underestimates Treasury execution speed; Bessent's public commitment signals imminent action, but crypto community discounts sovereign asset seizure risk.",
-        "trigger_signal": "Cointelegraph reporting Bessent's $1B Iran crypto seizure plan for May 2026"
-      },
-      {
-        "question": "Will XRP regain >$2.50 by December 31, 2026, after XRP Ledger decade-old bug patch?",
+        "question": "Will XRP recover to $3.00 or higher by December 31, 2026, following the XRP Ledger patched decade-old vulnerability?",
         "deadline": "2026-12-31",
-        "resolution_source": "CoinMarketCap or CoinGecko daily close price on Dec 31, 2026",
-        "why_underpriced": "Bug fix (potential infinite XRP creation risk eliminated) is fundamentally bullish but priced as noise; regulatory tailwind from Ripple settlements underexplored.",
-        "trigger_signal": "CoinDesk reporting XRP Ledger patched billion-dollar bug; XRPL developer activity spike"
+        "resolution_source": "CoinMarketCap or CoinGecko daily close price for XRP/USD",
+        "why_underpriced": "Market has not fully priced in confidence restored by the critical bug fix; institutional custody and settlement use cases remain underhyped.",
+        "trigger_signal": "CoinDesk: XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing—demonstrates maturity, reduces existential risk."
       },
       {
-        "question": "Will tokenized commodities (excluding gold) trading volume exceed $5B annualized by July 31, 2026?",
-        "deadline": "2026-07-31",
-        "resolution_source": "DEX and tokenized commodity platform aggregators (Chainalysis, Token Terminal, Messari)",
-        "why_underpriced": "Oil and lending derivatives are nascent but CoinDesk signals rapid adoption; institutions moving slower than on-chain data suggests.",
-        "trigger_signal": "CoinDesk article on tokenized commodities beyond gold; oil market volatility; Bessent's pro-deregulation stance"
+        "question": "Will stablecoin adoption in APAC exceed 45% of surveyed consumers by end of 2031, as Visa predicts?",
+        "deadline": "2027-12-31",
+        "resolution_source": "Visa official consumer survey data published in their annual payments report or regulatory filings",
+        "why_underpriced": "Market is ignoring Visa's institutional push into crypto rails; stablecoin yield (USDC at 4-5%) attracts APAC retail faster than developed markets.",
+        "trigger_signal": "CoinDesk: Visa survey says nearly half of APAC consumers open to using stablecoins by 2031; tokenized commodities expanding."
       },
       {
-        "question": "Will a major US tech firm (MSFT, GOOG, META, AMZN) announce >10,000 net layoffs before September 30, 2026?",
+        "question": "Will Robinhood Chain's daily active users recover to 2026-Q1 levels by September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "Company SEC filings (8-K), earnings call transcripts, or official press releases",
-        "why_underpriced": "Vance's Microsoft visa crackdown narrative may spillover to other mega-cap tech; H-1B restrictions tightening creates margin pressure traders ignore.",
-        "trigger_signal": "CNBC reporting Vance barred Microsoft and 7 firms from green card sponsorships; visa policy tightening"
+        "resolution_source": "Robinhood Chain public dashboard or blockchain explorer transaction count; Robinhood investor relations statements",
+        "why_underpriced": "40%+ transaction decline signals user flight, but ecosystem improvements (Solana fees, MEV solutions) are 60-90 days away; recovery catalyst underestimated.",
+        "trigger_signal": "CoinDesk: Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%—temporary pain before network upgrade."
+      },
+      {
+        "question": "Will Jerome Powell remain Fed Chair through end of 2026 despite Trump administration pressure?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Official announcement from Federal Reserve or White House press office; no resignation or removal by Dec 31, 2026",
+        "why_underpriced": "Markets assume Powell is vulnerable, but legal/political obstacles to removal are substantial; Lisa Cook controversy may redirect focus.",
+        "trigger_signal": "CNBC: Trump created committee to dig into Lisa Cook; Supreme Court ruling on removal; potential distraction from Powell removal effort."
+      },
+      {
+        "question": "Will NVIDIA stock close above $180 by November 30, 2026, given GPU proliferation and neocloudcompetition?",
+        "deadline": "2026-11-30",
+        "resolution_source": "NASDAQ official close price for NVDA; Yahoo Finance or SEC EDGAR filings",
+        "why_underpriced": "300+ competitors offering GPU capacity (+55% YoY) creates margin compression, but AI infrastructure capex cycle extends through 2026; net positive.",
+        "trigger_signal": "CNBC: Nvidia GPUs are everywhere; over 300 neoclouds identified offering GPU capacity, up 55% in less than a year."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "BTC volatility regime has structurally shifted lower (Sharpe-friendly) even as tail risks spike; long BTC perps funded at 0-2bps into year-end 2026.",
-        "horizon": "3-6 months",
+        "thesis": "Long BTC/DXY ratio through Q3 2026; geopolitical fragmentation (Russia sanctions erosion, Iran escalation) weakens USD reserve demand while crypto adoption as non-state settlement layer accelerates.",
+        "horizon": "3–6 months (target exit: Sep 2026)",
         "supporting_signals": [
-          "CoinDesk: Bitcoin volatility plunged but extreme price swings more frequent than 2018",
-          "CoinDesk: One-year post-10/10 flash crash, liquidity rebuilt in BTC/ETH but structure fragile",
-          "Crypto market structure: low realized vol + high implied vol = vol sellers getting paid"
+          "CNBC: Trump-Putin diesel deal contradicts Russia sanctions law; Ukraine voices concern about Moscow funding war",
+          "Cointelegraph: US plans to seize $1B Iran-linked crypto this week, indicating state-level recognition of crypto as settlement asset",
+          "CoinDesk: Bitcoin volatility plunged but extreme swings more frequent than 2018—reflects macro uncertainty, not fundamental weakness"
         ],
-        "counter_view": "Geopolitical escalation (Iran, Russia, Ukraine) could trigger 15-20% daily moves faster than vol term structure adjusts; tail hedge expensive but justified.",
-        "expression": "Long BTC 3-month perpetual futures (5-10x leverage) or BTC/USD spot with stop at -8%"
+        "counter_view": "Fed tightening cycle and Powell retention would strengthen USD and cap BTC gains; margin debt surge could trigger deleveraging and sharp crypto correction.",
+        "expression": "Long BTC perps (3x leverage, 70% position) + Short DXY (or short DXY call spread); unwind if Powell removed or if SPY breaks below 550"
       },
       {
-        "thesis": "Fixed income is overvalued; yield curve will steepen (long-duration bonds underperform) if Fed cuts before July 2026 as JPMorgan hints.",
-        "horizon": "2-4 months",
+        "thesis": "Short MSFT through Q2 2026 due to visa ban cascading into margin compression and talent flight; regulatory overhang outweighs AI upside near-term.",
+        "horizon": "1–3 months (target exit: August 2026)",
         "supporting_signals": [
-          "CNBC: JPMorgan portfolio manager calls fixed income 'once-in-a-generation opportunity' in credit space",
-          "Fed funds futures: market pricing ~40% chance of cut by mid-2026",
-          "Treasury yield inversion: 2Y-10Y still tight despite macro softness"
+          "CNBC: Vance says Microsoft replaced laid-off workers with foreign hires; administration barred Microsoft and 7 peers from green card sponsorship",
+          "CNBC: Nadella calls for 'emergency brake' on AI—signals internal governance risk and potential capex slowdown if regulatory pressure escalates",
+          "Regulatory precedent: H-1B restrictions historically depress enterprise tech labor margins by 200-300 bps within 6 months"
         ],
-        "counter_view": "Inflation re-accelerates (energy shock from Russia sanctions easing, supply chain rebuild) and Fed pauses cuts; duration rally extends.",
-        "expression": "Short TLT (20+ yr Treasury ETF) or buy TBT (inverse long-duration ETF); hedge with long GLD (inflation protection)"
+        "counter_view": "MSFT's cloud and AI revenue (70%+ of growth) is orthogonal to visa policy; stock reprices quickly if visa ban relief signals or if Azure capex growth accelerates.",
+        "expression": "Short MSFT stock or short MSFT call spread (sell $420 call, buy $430 call); OR long MSFT put spread (buy $380 put, sell $360 put) for defined risk"
       },
       {
-        "thesis": "NVIDIA faces GPU commoditization (300+ neoclouds +55% YoY); earnings multiple expansion exhausted; underperform SPY over next 12 months.",
-        "horizon": "6-12 months",
+        "thesis": "Long Celestia (TIA) and roll-up tokens (STRK, AERO) through 2026 as GPU proliferation (300+ neoclouds) reduces sequencer cost, enabling profitable Layer 2 economics and staking yields.",
+        "horizon": "2–4 months (rebalance: July 2026)",
         "supporting_signals": [
-          "CNBC: Over 300 neoclouds identified offering GPU capacity, up 55% in <1 year",
-          "GPU pricing: margin compression as competition intensifies in inference workloads",
-          "NVDA valuation: trading at 2024-2025 multiples despite saturation narrative"
+          "CNBC: Over 300 neoclouds providing GPU capacity, +55% YoY; distributed compute unlocks modular blockchain finality",
+          "CoinDesk: Tokenized commodities expanding into lending and oil; rollups benefit from lower data availability costs",
+          "Trending: Starknet (STRK), Aerodrome (AERO), Celestia (TIA) all appear in crypto trending; retail/insider accumulation signal"
         ],
-        "counter_view": "NVIDIA maintains technological edge (H200, next-gen); enterprise lock-in and software moat protect pricing power; AI capex cycle extends longer than bears expect.",
-        "expression": "Short NVDA or long NVDA puts (6-month ATM); pair trade: short NVDA, long Broadcom (AVGO) or AMD"
+        "counter_view": "Rollup narratives have underperformed for 18 months; new GPU supply may not translate to economic flywheel if Ethereum 2.0 danksharding ships faster than expected.",
+        "expression": "Equal-weight portfolio: 40% TIA, 35% STRK, 25% AERO; size 5-10% of crypto allocation; set stop at -20% if Ethereum danksharding timeline accelerates"
       },
       {
-        "thesis": "US-Russia sanctions reset underpriced; oil and energy equities rally into H2 2026 if Trump-Putin diesel deal signals broader détente.",
-        "horizon": "2-4 months",
+        "thesis": "Long gold and short SPY (or long VIX calls) through 2026; margin debt spike (record levels) and geopolitical escalation (Russia-Iran-Trump triangle) trigger risk-off move by Q3.",
+        "horizon": "2–5 months (unwind: August 2026)",
         "supporting_signals": [
-          "CNBC/BBC: Trump announces diesel deal with Putin; Ukraine backlash signals US policy pivot",
-          "Kremlin: Putin relayed Iran war proposal to Trump—geopolitical accommodation narrative emerging",
-          "Oil market: futures priced for continuation of sanctions regime; reset not reflected"
+          "CNBC: Margin debt surged to record levels; 29-year-old retail traders borrowing against portfolios—classic late-cycle behavior",
+          "CNBC/BBC: Trump relaying Iran war proposal to Putin; diesel deal with Russia signals sanctions erosion and geopolitical instability",
+          "CoinDesk: Bitcoin volatility extreme swings more frequent than 2018—macro uncertainty is real, not crypto-specific"
         ],
-        "counter_view": "Ukraine escalation, NATO response, or Congress blocks Russia détente; sanctions tighten instead. Energy rally fades.",
-        "expression": "Long USO (crude ETF) or XLE (energy sector); pair trade: long RUB/USD (if available); avoid direct Russia equity exposure (liquidity/sanctions risk)"
+        "counter_view": "Fed stays patient and cuts rates; Trump-Putin détente de-escalates Iran risk; margin debt is financed by low rates and structural retail onboarding, not frothy excess.",
+        "expression": "Long gold (GLD) or COMEX gold futures (60% position) + Short SPY or long SPY put spread (sell $580 put, buy $560 put); unwind if Fed cuts rates >25bps or Trump-Iran tensions ease"
       },
       {
-        "thesis": "Stablecoin adoption and tokenized finance underpriced; USDC yield and stablecoin transaction volume accelerate into year-end 2026 as regulatory clarity improves.",
-        "horizon": "6-9 months",
+        "thesis": "Long USDC staking yields and tokenized commodity protocols (esp. oil and commodities lending) through 2026 as institutional adoption accelerates and Visa/payment networks push stablecoin rails.",
+        "horizon": "3–6 months (harvest: September 2026)",
         "supporting_signals": [
-          "CoinDesk: Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-          "CoinDesk: Tokenized commodities and lending markets expanding; infrastructure maturing",
-          "Crypto trending: NEAR, Starknet (L2 stablecoin hubs) gaining traction; TRUMP token noise signals retail retail re-engagement"
+          "CoinDesk: Visa survey: nearly half of APAC consumers open to stablecoins by 2031; tokenized commodities look beyond gold into lending/oil",
+          "Cointelegraph: Sam Altman-backed Bitcoin life insurer Meanwhile raises funds—institutional capital flowing into crypto yield infrastructure",
+          "CoinDesk: Bitcoin liquidity rebuilt post-10/10 flash crash; infrastructure maturity supports institutional stablecoin adoption"
         ],
-        "counter_view": "CBDC rollout (Fed, ECB, PBOC) replaces private stablecoins; regulatory crackdown on unsecured stablecoins; real yield compression.",
-        "expression": "Long USDC yield (Compound, Aave, Lido liquid staking derivatives); long Ethereum (ETH base layer for stablecoins) vs BTC; hold STRK and NEAR for infrastructure bet"
+        "counter_view": "Regulatory crackdown on tokenized commodities or stablecoin yield products; USDC yield compression if competing stablecoins launch; Visa commitment may not translate to user adoption.",
+        "expression": "6-month USDC staking ladder (Aave, Compound, Curve) at blended 4.2% APY; OR direct token position in commodity protocol (e.g., RWA tokenization play); size 5-8% of fixed-income allocation"
       }
     ]
   }
