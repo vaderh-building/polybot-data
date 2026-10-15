@@ -1,13 +1,34 @@
 {
-  "generated_at_utc": "2026-10-14T23:34:23.240895+00:00",
+  "generated_at_utc": "2026-10-15T09:32:18.663228+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "How high inflation became a 'fact of life' in the U.S.",
-        "summary": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
-        "link": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
-        "published": "Wed, 14 Oct 2026 17:20:23 GMT"
+        "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+        "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+        "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+        "published": "Thu, 15 Oct 2026 08:18:14 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+        "summary": "\"Any limits on speed or usage are decided by the US military and ultimately POTUS,\" Musk wrote.",
+        "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+        "published": "Thu, 15 Oct 2026 07:51:22 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
+        "summary": "Ukraine will now resume attacks on Russian energy targets after Moscow hasn't held up its end of the proposed deal brokered by Trump.",
+        "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+        "published": "Thu, 15 Oct 2026 07:46:30 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+        "summary": "Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO.",
+        "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+        "published": "Thu, 15 Oct 2026 03:48:58 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -18,52 +39,31 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
-        "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
-        "link": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-        "published": "Wed, 14 Oct 2026 20:19:25 GMT"
+        "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+        "summary": "TSMC reported its third-quarter earnings on Thursday.",
+        "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+        "published": "Thu, 15 Oct 2026 08:09:37 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
-        "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
-        "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-        "published": "Wed, 14 Oct 2026 21:09:20 GMT"
+        "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+        "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+        "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+        "published": "Wed, 14 Oct 2026 20:06:28 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-        "summary": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
-        "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-        "published": "Wed, 14 Oct 2026 20:46:32 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Fannie Mae sharply raises mortgage rate forecast for 2027",
-        "summary": "Fannie Mae just put out its latest forecast for mortgage rates, and they are much higher than previous estimates.",
-        "link": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-        "published": "Wed, 14 Oct 2026 17:08:07 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
-        "summary": "As a key corner of the artificial intelligence trade takes a beating on Wednesday, traders are betting it could get even worse.",
-        "link": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
-        "published": "Wed, 14 Oct 2026 21:19:09 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Treasury says largest U.S. banks let politics influence who received banking services",
-        "summary": "New Treasury Department findings may lend weight to President Donald Trump’s long-running grievance that major banks have discriminated against conservatives.",
-        "link": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
-        "published": "Wed, 14 Oct 2026 18:51:42 GMT"
+        "title": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote'",
+        "summary": "White House spokesman Matthew Middleton said in response to Cook's lawyer that Trump \"is performing his constitutional duty.\"",
+        "link": "https://www.cnbc.com/2026/10/14/lisa-cook-trump-committee-hearing.html",
+        "published": "Wed, 14 Oct 2026 18:02:17 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
         "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
         "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 14 Oct 2026 20:55:24 GMT"
+        "published": "Thu, 15 Oct 2026 04:30:08 GMT"
       },
       {
         "source": "BBC World",
@@ -74,45 +74,80 @@
       },
       {
         "source": "BBC World",
-        "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-        "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-        "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 14 Oct 2026 15:12:46 GMT"
+        "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+        "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 15 Oct 2026 02:26:07 GMT"
       },
       {
         "source": "BBC World",
-        "title": "US inflation rises more than expected - here's what is happening with prices",
-        "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-        "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 14 Oct 2026 15:26:14 GMT"
+        "title": "White House defends new press secretary amid questions about her legal credentials",
+        "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+        "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 15 Oct 2026 08:41:04 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-        "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 14 Oct 2026 13:41:51 GMT"
+        "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+        "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+        "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 15 Oct 2026 03:26:36 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-        "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-        "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 14 Oct 2026 22:31:10 GMT"
+        "title": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
+        "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
+        "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 14 Oct 2026 22:19:13 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Kenya confirms second Ebola case - a relative of the first victim",
-        "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-        "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 14 Oct 2026 17:23:01 GMT"
+        "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+        "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
+        "link": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 14 Oct 2026 16:56:21 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-        "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 14 Oct 2026 16:47:32 GMT"
+        "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+        "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 15 Oct 2026 07:20:45 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+        "published": "Thu, 15 Oct 2026 09:20:57 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+        "published": "Thu, 15 Oct 2026 06:17:58 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+        "published": "Thu, 15 Oct 2026 04:25:15 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+        "published": "Thu, 15 Oct 2026 04:13:56 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+        "published": "Thu, 15 Oct 2026 03:57:45 +0000"
       },
       {
         "source": "CoinDesk",
@@ -136,118 +171,95 @@
         "published": "Wed, 14 Oct 2026 15:05:15 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
-        "published": "Wed, 14 Oct 2026 14:49:32 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-        "published": "Wed, 14 Oct 2026 14:31:14 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-        "published": "Wed, 14 Oct 2026 14:08:43 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
-        "published": "Wed, 14 Oct 2026 13:51:12 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-        "published": "Wed, 14 Oct 2026 13:07:45 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Organizations join forces to fight Illinois crypto tax, after 6-month pause \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y1A2P32XBWMQ5M26VG2T55/hi-a-beginners-guide-to-filing-bitcoin-taxes.jpg\" /></p><p>Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits.</p",
-        "link": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 14 Oct 2026 20:56:22 +0000"
+        "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Babylon advances native Bitcoin lending proposal on Aave V4\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z9HV8V8BEZVYHMZC3BE85M/aave-btc.png\" /></p><p>Babylon’s proposal to bring native Bitcoin collateral to Aave V4 has entered a new governance stage, but further votes and security reviews remain before launch.</p>",
+        "link": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 15 Oct 2026 09:14:28 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-        "summary": "score: 807, comments: 431",
-        "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-        "score": 807
-      },
-      {
-        "source": "Hacker News",
-        "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-        "summary": "score: 690, comments: 285",
-        "link": "https://typeof.net/Iosevka/",
-        "score": 690
-      },
-      {
-        "source": "Hacker News",
-        "title": "Things to know when you get cancer – 2026 Edition",
-        "summary": "score: 603, comments: 158",
+        "title": "Things to know when you get cancer",
+        "summary": "score: 1341, comments: 329",
         "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-        "score": 603
-      },
-      {
-        "source": "Hacker News",
-        "title": "Passkeys are not a trap",
-        "summary": "score: 416, comments: 594",
-        "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-        "score": 416
+        "score": 1341
       },
       {
         "source": "Hacker News",
         "title": "Do dentists know what they're doing?",
-        "summary": "score: 330, comments: 248",
+        "summary": "score: 686, comments: 503",
         "link": "https://mapwriting.substack.com/p/dentists",
-        "score": 330
-      },
-      {
-        "source": "Hacker News",
-        "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-        "summary": "score: 258, comments: 189",
-        "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-        "score": 258
-      },
-      {
-        "source": "Hacker News",
-        "title": "Anthropic's Scion is heavily inspired by Mononoke",
-        "summary": "score: 203, comments: 93",
-        "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-        "score": 203
+        "score": 686
       },
       {
         "source": "Hacker News",
         "title": "OpenCode 2.0",
-        "summary": "score: 201, comments: 74",
+        "summary": "score: 604, comments: 238",
         "link": "https://anoma.ly/notes/opencode-2-0/",
-        "score": 201
+        "score": 604
+      },
+      {
+        "source": "Hacker News",
+        "title": "Tiny Little Office",
+        "summary": "score: 422, comments: 67",
+        "link": "https://tinylittleoffice.com/",
+        "score": 422
+      },
+      {
+        "source": "Hacker News",
+        "title": "Americans' social activity has steeply declined in the past 30 years",
+        "summary": "score: 395, comments: 371",
+        "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+        "score": 395
+      },
+      {
+        "source": "Hacker News",
+        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "summary": "score: 208, comments: 44",
+        "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+        "score": 208
+      },
+      {
+        "source": "Hacker News",
+        "title": "Catch a Bird – I made it for my own sanity",
+        "summary": "score: 161, comments: 41",
+        "link": "https://catchabird.com",
+        "score": 161
+      },
+      {
+        "source": "Hacker News",
+        "title": "It took me nine years to hack my Xbox 360",
+        "summary": "score: 80, comments: 20",
+        "link": "https://kennedn.com/blog/posts/glitching/",
+        "score": 80
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Walrus (WAL)",
-        "summary": "market cap rank: 213",
-        "link": "https://www.coingecko.com/en/coins/walrus-2"
+        "title": "Pearl (PRL)",
+        "summary": "market cap rank: 106",
+        "link": "https://www.coingecko.com/en/coins/pearl-research"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "ZKsync (ZK)",
+        "summary": "market cap rank: 194",
+        "link": "https://www.coingecko.com/en/coins/zksync"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Quantus (QTC)",
-        "summary": "market cap rank: 629",
+        "summary": "market cap rank: 634",
         "link": "https://www.coingecko.com/en/coins/quantus"
       },
       {
@@ -258,161 +270,144 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitway (BTW)",
-        "summary": "market cap rank: 33",
-        "link": "https://www.coingecko.com/en/coins/bitway"
+        "title": "Starknet (STRK)",
+        "summary": "market cap rank: 103",
+        "link": "https://www.coingecko.com/en/coins/starknet"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Quant (QNT)",
-        "summary": "market cap rank: 38",
-        "link": "https://www.coingecko.com/en/coins/quant"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 29",
-        "link": "https://www.coingecko.com/en/coins/sui"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 90",
+        "link": "https://www.coingecko.com/en/coins/lighter"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin exceed $80,000 by December 31, 2026?",
+        "market_title": "Will NVIDIA stock close above $120 by end of Q2 2026?",
         "venue": "Polymarket",
-        "why_now": "BTC trending on crypto feeds amid macro uncertainty; elevated inflation narrative colliding with potential rate hold/cuts creates volatility.",
-        "signal_source": "CoinDesk macro coverage, BlackRock ETF surge (63%), gold-bitcoin correlation thesis gaining traction"
+        "why_now": "AI hardware selloff deepening today; NVIDIA down sharply alongside AMD and Micron—volatility spike creates mispricing opportunity on near-term technicals.",
+        "signal_source": "CNBC Top News: Nvidia, AMD, Micron fall as AI stock sell-off deepens (2026-05-05)"
       },
       {
-        "market_title": "Will the Fed cut rates below 4.0% by June 30, 2026?",
+        "market_title": "Will Anthropic IPO price above $100B valuation by 2026-07-31?",
+        "venue": "Polymarket",
+        "why_now": "Q3 2026 revenue already flagged at $16.8B; IPO timing crystallizing but investor concerns over AI infrastructure spend may depress entry valuation.",
+        "signal_source": "CNBC Top News: Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO (2026-05-05)"
+      },
+      {
+        "market_title": "Will Bitcoin drop below $38,000 by 2026-05-31?",
         "venue": "Kalshi",
-        "why_now": "Fannie Mae raised 2027 mortgage forecasts sharply; inflation stuck at 3.7%+ signals Fed may pause or reverse course sooner than expected.",
-        "signal_source": "CNBC Fed inflation coverage, Fannie Mae mortgage rate forecast revision"
+        "why_now": "Fed rate uncertainty, $1B+ crypto liquidations today, Bitcoin mining hashrate collapse (65% drop reported), and global recession fears (Fink alarm) all converging.",
+        "signal_source": "CoinDesk: Bitcoin wilts as Fed rate uncertainty weighs; Nearly $1 billion in crypto bets liquidated (2026-05-05)"
       },
       {
-        "market_title": "Will OpenAI close a new funding round at >$200B valuation by Sept 30, 2026?",
+        "market_title": "Will Ukraine resume sustained strikes on Russian refineries through 2026-06-30?",
         "venue": "Manifold",
-        "why_now": "OpenAI facing 8-state safety suits and security scrutiny; enterprise AI adoption delays (Dell/HPE downgrade) pressure growth narrative and valuation defensibility.",
-        "signal_source": "CNBC OpenAI legal/safety coverage, Barclays enterprise AI timing concern, CoreWeave bond blowout"
+        "why_now": "Energy ceasefire deal breakdown confirmed today; Trump's Starlink speed-limiting now public friction point—escalation signaling high probability of continued targeting.",
+        "signal_source": "CNBC Top News: Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire' (2026-05-05)"
       },
       {
-        "market_title": "Will Netflix subscriber count grow >5% YoY by Q2 2027?",
-        "venue": "Polymarket",
-        "why_now": "Netflix cutting 1,000 jobs (6% workforce); cost discipline may stabilize growth but signal maturation in core markets.",
-        "signal_source": "CNBC Netflix job cut announcement, streaming sector momentum tracking"
-      },
-      {
-        "market_title": "Will NVIDIA close above $150 by December 31, 2026?",
+        "market_title": "Will the Fed cut rates at least once by 2026-09-30?",
         "venue": "Kalshi",
-        "why_now": "Dell/HPE downgrade on enterprise AI timing lag threatens hyperscaler capex cycles; Barclays concern signals potential pause in AI hardware demand acceleration.",
-        "signal_source": "CNBC data center sell-off, Barclays downgrade, CoreWeave bond stress"
+        "why_now": "BlackRock's Fink just sounded recession alarm over $40T national debt; prediction market pricing of Fed hold-bias may not yet reflect debt-dynamics pressure.",
+        "signal_source": "CoinDesk: BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt (2026-05-05)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will stablecoin transaction volume exceed $500B annualized by June 30, 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "Standard Chartered quarterly stablecoin report; CoinDesk/Chainalysis on-chain volume tracking",
-        "why_underpriced": "Standard Chartered forecast pushed $2T stablecoin adoption to 2030; near-term institutional adoption (Kraken/Payward EU bank acquisition, USDC MiCA classification) not yet priced into binary markets.",
-        "trigger_signal": "Kraken parent Payward EU bank acquisition; Circle USDC classified 'significant' under MiCA; AI agents already processing 138M crypto payments"
-      },
-      {
-        "question": "Will the U.S. Federal Reserve hold rates steady (no change) through December 31, 2026?",
+        "question": "Will TSMC's stock price exceed its current level by end of 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Federal Reserve FOMC meeting decisions; CME FedWatch tool consensus rate path",
-        "why_underpriced": "Inflation 'fact of life' narrative (CNBC) + elevated mortgage forecasts (Fannie Mae) create dovish expectations, but persistent 3.7%+ inflation may anchor rates higher than market currently prices.",
-        "trigger_signal": "CNBC inflation coverage, Fannie Mae mortgage forecast upside surprise, Treasury banking discrimination findings suggest political pressure on Fed independence"
+        "resolution_source": "Yahoo Finance / TSMC closing price (TSM ticker)",
+        "why_underpriced": "Record sixth consecutive quarter of profit beats on AI boom narrative not yet fully priced into forward multiples; institutional rotation into foundries lagging semiconductors selloff.",
+        "trigger_signal": "CNBC: TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom (2026-05-05); AI capex cycle still early-cycle despite near-term pullback."
       },
       {
-        "question": "Will Ethereum ETF net inflows exceed $5B cumulatively by March 31, 2027?",
-        "deadline": "2027-03-31",
-        "resolution_source": "Grayscale, BlackRock, Fidelity, Invesco quarterly ETF filing flows; official SEC ETF database",
-        "why_underpriced": "BlackRock crypto ETF assets surged 63% but remain below 2025 peak; institutional re-entry signal underpriced relative to gold-bitcoin correlation thesis gaining credibility.",
-        "trigger_signal": "BlackRock ETF asset surge, CoinDesk gold-bitcoin portfolio thesis, AI agent crypto adoption (138M payments)"
+        "question": "Will South Korea's KOSPI index recover to above current levels by 2026-07-31?",
+        "deadline": "2026-07-31",
+        "resolution_source": "Bloomberg Terminal / KOSPI closing price",
+        "why_underpriced": "8% plunge today tied to Fed uncertainty and broader tech selloff, but South Korea cybersecurity overhaul (Cointelegraph) signals government commitment to economic stabilization; mean-reversion play.",
+        "trigger_signal": "CoinDesk: Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8% (2026-05-05); Cointelegraph: South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms."
       },
       {
-        "question": "Will EasyA successfully list on a major U.S. exchange (IPO or direct listing) by December 31, 2027?",
+        "question": "Will Bitcoin ETF net flows turn positive for two consecutive weeks by 2026-06-30?",
+        "deadline": "2026-06-30",
+        "resolution_source": "Grayscale / BlackRock Bitcoin ETF weekly flow reports (public)",
+        "why_underpriced": "Bitcoin ETFs shed $261M this week, but $1B+ liquidations create capitulation signal; institutional re-entry typically follows panic selling by 2–4 weeks.",
+        "trigger_signal": "Cointelegraph: Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend (2026-05-05); CoinDesk liquidation spike suggests washout bottom may be near."
+      },
+      {
+        "question": "Will Australia's crypto platform regulatory framework formally launch by 2027-12-31?",
         "deadline": "2027-12-31",
-        "resolution_source": "SEC EDGAR filings (S-1 registration or equivalent); major stock exchange announcements (NYSE, NASDAQ)",
-        "why_underpriced": "EasyA hit $1.1B valuation and explicitly targets 2027 public listing with tokenized shares; timeline is credible but regulatory uncertainty (tokenized shares) not fully reflected in derivative bets.",
-        "trigger_signal": "EasyA $1.1B valuation + 2027 IPO target, Former FTX Europe chief SEC tokenized stock exemption filing, Kalshi CEO state-led oversight concerns"
+        "resolution_source": "Australian Treasury / ASIC press release or formal regulation gazette",
+        "why_underpriced": "Cointelegraph flagged 2027 rollout target with feedback phase opening now; regulatory clarity typically catalyzes institutional adoption in APAC; early-mover positioning undervalued.",
+        "trigger_signal": "Cointelegraph: Australia seeks feedback on crypto platform rules ahead of 2027 rollout (2026-05-05)."
       },
       {
-        "question": "Will Bitcoin dominate >60% of total crypto market cap by September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "CoinMarketCap, CoinGecko, Messari on-chain dominance metrics",
-        "why_underpriced": "Alt season sentiment (Walrus, Quantus, Pudgy Penguins, Quant trending) masks structural BTC inflow momentum (BlackRock ETF, gold correlation); crypto Twitter overweights alts relative to macro fundamentals.",
-        "trigger_signal": "BTC trending + BlackRock ETF surge, gold-bitcoin portfolio thesis, elevated macro uncertainty driving safe-haven demand"
+        "question": "Will Bank of America's cybersecurity spending (measured by disclosed contractor headcount or capex guidance) increase by at least 25% by 2026-10-31?",
+        "deadline": "2026-10-31",
+        "resolution_source": "Bank of America earnings call transcript / 10-Q SEC filing cybersecurity spend disclosure",
+        "why_underpriced": "1,000 contractors already deployed to patch AI-exposed flaws (Anthropic Mythos); this signals systemic cost embedded in financial sector defense budgets—market hasn't priced follow-on spend cycles.",
+        "trigger_signal": "CNBC: Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos (2026-05-05); rare disclosure of AI risk remediation costs."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Sticky inflation (3.7%+) + sharp upward mortgage revisions (Fannie Mae) will keep real rates elevated through 2026, supporting gold and BTC as inflation hedge; long DXY on policy divergence risk.",
-        "horizon": "3–6 months",
+        "thesis": "Bitcoin and gold are entering a synchronized bull phase driven by recession fears and $40T debt dynamics; long BTC/short DXY is underweighted vs. macro tail risk repricing.",
+        "horizon": "60–120 days",
         "supporting_signals": [
-          "CNBC: inflation stuck at 3.7%, labeled 'fact of life'",
-          "Fannie Mae sharply raised 2027 mortgage forecasts",
-          "CoinDesk: gold-bitcoin portfolio correlation thesis gaining traction",
-          "Fed inflation expectations for 2026 remain above 2.5% target"
+          "BlackRock Fink recession alarm + $40T debt warning (CoinDesk 2026-05-05)",
+          "CoinDesk: 'Crypto Long & Short: Why gold and bitcoin belong in the same portfolio' (2026-05-05)",
+          "$1B+ liquidations suggest panic capitulation, not structural weakness",
+          "Fed rate uncertainty creating optionality premium for hard assets"
         ],
-        "counter_view": "Fed cuts sooner than expected if recession risks spike; deflationary forces from AI productivity gains and labor displacement compress price growth faster than consensus.",
-        "expression": "Long GLD (gold ETF) + Long BTC spot via iShares Bitcoin Trust; hedge with Long DXY (US Dollar Index) on geopolitical/policy divergence"
+        "counter_view": "Further equity liquidations could force institutional redemptions in alternative assets; liquidity squeeze may suppress BTC/gold for 2–4 weeks before reversal.",
+        "expression": "Long BTC perps (3–5x leverage), short DXY via USDC basis trade or FX forwards; hedge with long GLD calls 90-DTE"
       },
       {
-        "thesis": "Enterprise AI capex cycle stalling (Dell/HPE/NetApp downgrade on adoption timing lag) will depress hyperscaler hardware demand; NVDA and MU will face margin compression before 2027 AI inflection restores growth.",
-        "horizon": "2–4 months",
+        "thesis": "Semiconductor foundry stocks (TSMC, ASML) are oversold relative to AI capex cycle; record profit beat + AI boom structural runway argues for rotation into TSMC on this dip.",
+        "horizon": "90–180 days",
         "supporting_signals": [
-          "CNBC: Barclays downgraded Dell, HPE, NetApp on enterprise AI timing concerns",
-          "CoreWeave bond yields blow out to 15%; neocloud stocks plunge",
-          "Dell stock -11% on data center sell-off fears",
-          "Hacker News: 'Containment and monitoring failures to blame for AI hacking reports' (807 upvotes) signals safety/deployment friction"
+          "TSMC: sixth consecutive record profit quarter (CNBC 2026-05-05)",
+          "AI agent crypto payments at 138M transactions (CoinDesk) = sustained inference demand",
+          "Nvidia/AMD/Micron selloff likely overdone—supply-chain vendors bottleneck, not cyclical peak"
         ],
-        "counter_view": "Enterprise AI adoption timeline is lagging forecasts but will accelerate sharply once ROI becomes undeniable; NVDA margin resilience and CUDA moat protect valuation.",
-        "expression": "Short NVDA via put spreads; Short MU via downside calls; Long short-duration semiconductor ETF (SMH) to hedge sector-wide repricing"
+        "counter_view": "AI hardware oversupply cycle if capex growth disappoints; margin compression if competition from mature nodes accelerates.",
+        "expression": "Long TSM (TSMC ADR) or 60-day call spreads; pair-trade long TSM / short NVDA on divergent capex profiles"
       },
       {
-        "thesis": "Persistent crypto regulatory pressure (8 OpenAI states suits, OCC debanking findings, Illinois crypto tax fight) + SEC tokenized stock exemption friction will slow near-term institutional crypto onboarding; BTC/ETH volatility premium expansion creates dislocation.",
-        "horizon": "1–3 months",
+        "thesis": "Anthropic IPO valuation will undershoot $100B despite $16.8B Q3 revenue, because investor concerns over AI infrastructure costs and capital intensity are market-wide headwinds masking software SaaS multiples.",
+        "horizon": "60–90 days (pre-IPO window)",
         "supporting_signals": [
-          "OpenAI sued by 8 states over ChatGPT safety; separate criminal probe (bugging suspect)",
-          "OCC report links debanking to crypto activities; Treasury finds banks politicize service access",
-          "CoinDesk: Kalshi CEO warns state-led prediction market oversight will 'push them out'",
-          "Circle USDC classified 'significant' under MiCA; regulatory burden rises"
+          "CNBC flags investor concerns about amount spent on AI infrastructure (2026-05-05)",
+          "Anthropic revenue now public ($16.8B Q3) but opex not yet disclosed—likely high burn",
+          "Bank of America's $1K+ contractor spend on Mythos patch signals downstream liability expectations"
         ],
-        "counter_view": "Regulatory clarification (MiCA, SEC tokenized stock exemptions) removes uncertainty premium; Kraken/Payward EU bank acquisition signals institutional embrace despite friction.",
-        "expression": "Long BTC-ETH correlation (spot BTC + short ETH/BTC ratio via perpetual swap); use IV crush after regulatory event volatility to enter hedged stablecoin yield positions (USDC 4-5% rate floors)"
+        "counter_view": "Enterprise AI moat + $16.8B run-rate revenue could justify premium multiple if margins-to-scale narrative gains traction post-IPO.",
+        "expression": "Sell IPO at open or buy put spreads if IPO prices above $80B valuation; hold puts through first earnings (Q4 2026)"
       },
       {
-        "thesis": "Consumer inflation expectations anchoring higher (Fed concern on 'fact of life' narrative) will force a 'higher for longer' rate regime; long-duration Treasuries (7–10Y) face reset higher; real estate and credit spreads face pressure.",
-        "horizon": "2–6 months",
+        "thesis": "Starlink geopolitical friction (Musk/Trump/Ukraine speed-limiting) reduces probability of sustained commercial expansion into EU/NATO; long satellite communication bonds, short SpaceX secondary shares.",
+        "horizon": "180+ days",
         "supporting_signals": [
-          "CNBC: Fed concerned consumers expect persistently high inflation",
-          "Fannie Mae sharply raised 2027 mortgage forecasts",
-          "Mortgage market pricing reflects >4.5% baseline 2027 rates (up from prior ~3.8%)",
-          "AI wage pressure and energy cost dynamics suggest inflation persistence"
+          "BBC: Musk says US government may be behind slowdown of Ukraine drone speeds (2026-05-05)",
+          "CNBC: Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems (2026-05-05)",
+          "Ukraine energy ceasefire collapse signals escalation, triggering regulatory backlash in allied nations"
         ],
-        "counter_view": "Technology-driven deflation (AI productivity, labor displacement) will surprise to the downside; yield curve inversion signals near-term recession that forces Fed pivot and long-bond rally.",
-        "expression": "Short 10Y Treasury futures (TLT puts); Long 2Y Treasury yield (SHY); Short HYG (high-yield corporate bond ETF) on credit spread compression risk from rate shock"
+        "counter_view": "Starlink could pivot to domestic US gov contracts, offsetting commercial headwinds; Musk's political capital with Trump may insulate him from regulation.",
+        "expression": "Short Starlink secondary shares (via cap table liquidation or T-bill equivalents); go long satellite-agnostic telecom ETFs (e.g., VIA, IYZ)"
       },
       {
-        "thesis": "Stablecoin ecosystem maturation (Standard Chartered $2T 2030 forecast, Kraken EU bank acquisition, USDC MiCA 'significant' status, 138M AI agent payments) will drive institutional tokenized asset adoption faster than equity markets; USDC yield floors at 4-5% offer real positive carry.",
-        "horizon": "3–12 months",
+        "thesis": "Bitcoin mining cap-weighted index (MARA, RIOT, CLSK) is at inflection: hashrate collapse + margin pressure near trough, but network difficulty adjustment + energy cost floor create asymmetric upside on cost-basis recovery.",
+        "horizon": "30–90 days",
         "supporting_signals": [
-          "Standard Chartered pushed $2T stablecoin forecast to 2030 (strong institutional conviction)",
-          "Kraken parent Payward acquiring EU bank for deposits/lending",
-          "Circle USDC classified 'significant' under MiCA (regulatory legitimacy)",
-          "CoinDesk: 138M AI agent crypto payments; AI agents now primary payment users",
-          "EasyA $1.1B valuation + 2027 IPO targeting tokenized shares"
+          "CoinDesk: Bitcoin mining pool handling 2.3% of network shuts after hashrate falls 65% (2026-05-05)",
+          "CoinDesk: Bitcoin miners plunge up to 13% in worst selloff since July (2026-05-05)",
+          "Mining cost basis now likely near all-in break-even; capitulation sell-off pricing peak-capex scenarios"
         ],
-        "counter_view": "Regulatory crackdown (Treasury, SEC, state AG suits) delays institutional adoption; stablecoin yields compress as supply grows faster than genuine institutional demand.",
-        "expression": "Long USDC via yield-bearing account (Lido, Compound, Aave) at 4-5% real carry; Long Circle governance token speculation (if liquidity emerges); long crypto infrastructure ETFs (BLOK, IBIT basket hedging)"
+        "counter_view": "Further BTC price weakness could force miner margin compression; bankruptcy risk if BTC breaks below $35K.",
+        "expression": "Long MARA or RIOT call spreads (90-DTE, ATM / OTM), funded by short puts; or accumulate cash-flow positive miners on spot purchases"
       }
     ]
   }
