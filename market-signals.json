@@ -1,13 +1,41 @@
 {
-  "generated_at_utc": "2026-10-16T17:06:48.662502+00:00",
+  "generated_at_utc": "2026-10-16T23:10:19.891998+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+        "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
+        "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+        "published": "Fri, 16 Oct 2026 20:02:21 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Katie Zacharia out as Trump's White House press secretary",
+        "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
+        "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+        "published": "Fri, 16 Oct 2026 21:26:15 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+        "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
+        "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+        "published": "Fri, 16 Oct 2026 22:31:26 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+        "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
+        "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+        "published": "Fri, 16 Oct 2026 19:28:10 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
         "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
         "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
-        "published": "Fri, 16 Oct 2026 16:53:12 GMT"
+        "published": "Fri, 16 Oct 2026 17:55:05 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -18,45 +46,17 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-        "summary": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
-        "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-        "published": "Fri, 16 Oct 2026 16:27:44 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-        "summary": "The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower.",
-        "link": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
-        "published": "Fri, 16 Oct 2026 13:43:53 GMT"
+        "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+        "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
+        "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+        "published": "Fri, 16 Oct 2026 20:28:10 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
         "summary": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
         "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
-        "published": "Fri, 16 Oct 2026 17:02:50 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
-        "summary": "Elon Musk gave a record $158 million to the GOP’s Senate Leadership Fund, boosting its war chest as Republicans pour money into Texas to defend Ken Paxton.",
-        "link": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
-        "published": "Fri, 16 Oct 2026 12:17:29 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
-        "summary": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid faced critical questions from the New York City Council on Friday.",
-        "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-        "published": "Fri, 16 Oct 2026 15:44:51 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
-        "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
-        "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-        "published": "Fri, 16 Oct 2026 15:52:41 GMT"
+        "published": "Fri, 16 Oct 2026 19:40:00 GMT"
       },
       {
         "source": "BBC World",
@@ -74,10 +74,10 @@
       },
       {
         "source": "BBC World",
-        "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-        "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-        "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 16 Oct 2026 15:59:30 GMT"
+        "title": "Trump denies limiting Ukraine access to Starlink network",
+        "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+        "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 16 Oct 2026 19:33:48 GMT"
       },
       {
         "source": "BBC World",
@@ -95,13 +95,6 @@
       },
       {
         "source": "BBC World",
-        "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-        "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-        "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 16 Oct 2026 14:19:50 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Dad fined after son, 2, died in Cyprus hotel fall",
         "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
         "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
@@ -113,6 +106,13 @@
         "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
         "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
         "published": "Fri, 16 Oct 2026 05:00:17 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Albanian protests turn violent: What we know",
+        "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+        "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 16 Oct 2026 14:33:32 GMT"
       },
       {
         "source": "CoinDesk",
@@ -165,83 +165,83 @@
       },
       {
         "source": "CoinDesk",
-        "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
+        "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
         "summary": "",
         "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
         "published": "Fri, 16 Oct 2026 09:48:14 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N5E63563HHENSDSV1NCN7/hi-how-grayscale-brought-crypto-staking-to-wall-street-for-the-first-time.jpg\" /></p><p>Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could be",
-        "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 16 Oct 2026 15:52:28 +0000"
+        "title": "Here’s what happened in crypto today",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 16 Oct 2026 19:17:04 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-        "summary": "score: 702, comments: 222",
-        "link": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-        "score": 702
+        "title": "Tesla Roadster",
+        "summary": "score: 1057, comments: 1912",
+        "link": "https://www.tesla.com/roadster",
+        "score": 1057
       },
       {
         "source": "Hacker News",
-        "title": "Yet another way to invoke functions without parentheses",
-        "summary": "score: 208, comments: 91",
-        "link": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-        "score": 208
+        "title": "Claude reveals ECDSA curve origins",
+        "summary": "score: 548, comments: 233",
+        "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "score": 548
       },
       {
         "source": "Hacker News",
-        "title": "I Love Software Rendering",
-        "summary": "score: 199, comments: 144",
-        "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-        "score": 199
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "summary": "score: 352, comments: 304",
+        "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "score": 352
       },
       {
         "source": "Hacker News",
         "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-        "summary": "score: 118, comments: 57",
+        "summary": "score: 247, comments: 109",
         "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "score": 118
+        "score": 247
       },
       {
         "source": "Hacker News",
-        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-        "summary": "score: 82, comments: 14",
-        "link": "https://calif.io/research/big-fish",
-        "score": 82
+        "title": "Waymo in Toronto",
+        "summary": "score: 233, comments: 332",
+        "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+        "score": 233
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: Gemini 4 Argon plays StarCraft",
-        "summary": "score: 71, comments: 42",
-        "link": "https://starskirmish.com/bench/v0-2/",
-        "score": 71
+        "title": "How the Claude Code team does code review",
+        "summary": "score: 182, comments: 174",
+        "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "score": 182
       },
       {
         "source": "Hacker News",
-        "title": "What on Earth Is Dekton?",
-        "summary": "score: 64, comments: 21",
-        "link": "https://www.worksinprogress.news/p/porcelain",
-        "score": 64
+        "title": "JPEG XL vs. AVIF for web use-cases",
+        "summary": "score: 175, comments: 135",
+        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "score": 175
       },
       {
         "source": "Hacker News",
-        "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
-        "summary": "score: 49, comments: 27",
-        "link": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-        "score": 49
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "summary": "score: 144, comments: 41",
+        "link": "https://github.com/cobanov/PS5LM",
+        "score": 144
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
         "title": "Dacity Coin (DACITY)",
-        "summary": "market cap rank: 778",
+        "summary": "market cap rank: 691",
         "link": "https://www.coingecko.com/en/coins/dacity-coin"
       },
       {
@@ -253,14 +253,14 @@
       {
         "source": "CoinGecko Trending",
         "title": "Quantus (QTC)",
-        "summary": "market cap rank: 612",
+        "summary": "market cap rank: 617",
         "link": "https://www.coingecko.com/en/coins/quantus"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Injective (INJ)",
-        "summary": "market cap rank: 85",
-        "link": "https://www.coingecko.com/en/coins/injective"
+        "title": "Starknet (STRK)",
+        "summary": "market cap rank: 109",
+        "link": "https://www.coingecko.com/en/coins/starknet"
       },
       {
         "source": "CoinGecko Trending",
@@ -270,140 +270,143 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 34",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
+        "title": "Quant (QNT)",
+        "summary": "market cap rank: 37",
+        "link": "https://www.coingecko.com/en/coins/quant"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Celestia (TIA)",
-        "summary": "market cap rank: 100",
-        "link": "https://www.coingecko.com/en/coins/celestia"
+        "title": "Injective (INJ)",
+        "summary": "market cap rank: 85",
+        "link": "https://www.coingecko.com/en/coins/injective"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $85,000 on or before 2026-06-30?",
+        "market_title": "Will Bitcoin close above $85,000 by June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "Fed's Warsh signaling dovish stance; BTC stabilizing near $82K after AI selloff creates asymmetric upside if macro conditions hold.",
-        "signal_source": "Cointelegraph — Bitcoin price steadies around $82K after Fed's Warsh avoids rate-hike hints"
+        "why_now": "BTC dipped to $81K amid VIX >22 and AI stock selloff, but Fed's Warsh avoided rate-hike signals; recovery potential vs. geopolitical oil spike ($110 Brent) creates binary outcome.",
+        "signal_source": "CoinDesk live updates, Cointelegraph Fed commentary, CNBC VIX spike to 22 (4-month high)"
       },
       {
-        "market_title": "Will OpenAI's valuation exceed Anthropic's by more than 2x by 2026-12-31?",
-        "venue": "Manifold",
-        "why_now": "CoreWeave selloff widening the AI leader spread; investors tracking valuation divergence as neocloud infrastructure corrects.",
-        "signal_source": "CNBC — CoreWeave sell-off affecting OpenAI vs. Anthropic valuations"
-      },
-      {
-        "market_title": "Will Tesla deliver the Roadster before 2027-01-01?",
-        "venue": "Polymarket",
-        "why_now": "SpaceX-powered prototype unveiled; Tesla has missed every delivery target since 2017, creating high-odds bet on execution vs. hype.",
-        "signal_source": "CNBC — Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation"
-      },
-      {
-        "market_title": "Will the GOP win the 2026 midterm popular vote despite record $273M spending by Musk/Trump groups?",
+        "market_title": "Will VIX close above 25 on any single day before July 15, 2026?",
         "venue": "Kalshi",
-        "why_now": "Record Musk infusion ($158M to Senate Leadership Fund) showing minimal polling impact; efficient spending threshold likely already crossed.",
-        "signal_source": "CNBC — Trump and GOP's billion-dollar midterm blitz isn't working; Elon Musk cash infusion raises record $273M"
+        "why_now": "VIX already at 22 (4-month high) driven by AI stock rotation; traders positioning for further escalation per CNBC cluster-trade analysis; geopolitical escalation (Iran Hormuz, Ukraine) adds tail risk.",
+        "signal_source": "CNBC 'Wall Street's fear gauge is ripping' + trader positioning cluster, BBC ship-attack record near Hormuz"
       },
       {
-        "market_title": "Will Coinbase or Marathon achieve their publicly-stated 2026 targets?",
+        "market_title": "Will Apple iPhone 15 Pro average selling price (ASP) exceed $1,100 in Q3 2026?",
+        "venue": "Manifold",
+        "why_now": "Apple's $1,999 iPhone Duo launch tests premium pricing power; market will validate if foldable can sustain ASP uplift before earnings season.",
+        "signal_source": "CNBC Apple foldable analysis, historical iPhone ASP trend data"
+      },
+      {
+        "market_title": "Will Ethereum close above $2,500 by August 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "CoinDesk flagging traders can now bet on crypto company performance targets; nascent market segment with volatile underlying fundamentals.",
-        "signal_source": "CoinDesk — Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets"
+        "why_now": "AI-related crypto rotation ongoing (altcoins outpacing BTC per CoinDesk); stablecoin demand surge (Circle 40 new markets) signals growing DeFi activity; ETH derivative markets active.",
+        "signal_source": "CoinDesk altcoin outpace Bitcoin, Circle stablecoin expansion, Cointelegraph tokenized assets trend"
+      },
+      {
+        "market_title": "Will Trump's approval rating fall below 43% by November 2026 midterms?",
+        "venue": "Kalshi",
+        "why_now": "GOP billion-dollar spending blitz failing to move polls per CNBC; Starlink Ukraine controversy + press secretary turnover signal internal chaos.",
+        "signal_source": "CNBC midterm spending ineffectiveness analysis, press-secretary departure, Trump Starlink denial"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Ethereum's price close above $3,500 on or before 2026-11-30?",
+        "question": "Will the U.S. impose tariffs or sanctions on Chinese payment networks (Mastercard/Citigroup access) within 90 days of June 5, 2026?",
+        "deadline": "2026-09-05",
+        "resolution_source": "U.S. Treasury official announcements, Federal Register tariff notices, State Department press releases",
+        "why_underpriced": "Bangkok bilateral talks on Mastercard/Citigroup market access show active negotiation; tariff escalation is asymmetric upside if China retaliates, but market treats as low-probability tail risk.",
+        "trigger_signal": "CNBC Treasury official statement on market access pressure; timing aligns with mid-year policy review cycle"
+      },
+      {
+        "question": "Will SpaceX Starlink face regulatory restrictions or service limitations in Ukraine by December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "SpaceX official statements, FCC/CRTC filings, Ukrainian government reports, Reuters/Bloomberg coverage",
+        "why_underpriced": "Trump denied ordering restrictions, but BBC reports actual speed curbs happened; market conflates Trump denial with absence of future restriction risk.",
+        "trigger_signal": "BBC Starlink dual coverage (Trump denial + actual speed limits); Ukraine offensive reliance on Starlink creates political/technical vulnerability"
+      },
+      {
+        "question": "Will Brent crude close above $115/barrel on any day between June 1–August 31, 2026?",
+        "deadline": "2026-08-31",
+        "resolution_source": "ICE Brent futures settlement prices, Bloomberg terminal, CNBC energy markets",
+        "why_underpriced": "Iran Hormuz escalation (12 ships struck in one week per BBC) + Ukraine refinery offensive create genuine supply-shock scenarios; current $110 level leaves room for knee-jerk spike.",
+        "trigger_signal": "BBC record ship-attack data, CNBC Brent $110 headline, Ukraine refinery targeting strategy"
+      },
+      {
+        "question": "Will Circle (USDC) successfully launch operations in 25 or more new markets by November 30, 2026?",
         "deadline": "2026-11-30",
-        "resolution_source": "CoinMarketCap closing price (UTC midnight)",
-        "why_underpriced": "Altcoin outperformance vs. Bitcoin (Celestia +16%) signals risk-on sentiment; ETH fundamentals (Shanghai upgrade maturation, staking yield) underpriced vs. BTC momentum.",
-        "trigger_signal": "CoinDesk — Altcoins outpace bitcoin as Celestia jumps 16%"
+        "resolution_source": "Circle press releases, Crunchbase, official market-launch announcements, stablecoin volume trackers (CoinGecko, DeFiLlama)",
+        "why_underpriced": "Circle's stated 40-market expansion target is ambitious but underpriced by crypto markets focused on macro volatility; remittance-cost advantage (84% cheaper per Cointelegraph) drives adoption narrative.",
+        "trigger_signal": "CoinDesk Circle 40-market expansion, Cointelegraph 84% stablecoin remittance savings data"
       },
       {
-        "question": "Will the U.S. achieve market access concessions for Mastercard and Citigroup in China by 2026-12-31?",
-        "deadline": "2026-12-31",
-        "resolution_source": "U.S. Treasury or State Department official announcement; USTR Section 301 reports",
-        "why_underpriced": "Bilateral trade tensions volatile; Bangkok talks signal renewed negotiation momentum but success odds neglected by markets.",
-        "trigger_signal": "CNBC — U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks"
-      },
-      {
-        "question": "Will a major quantum computing breakthrough invalidate more than 10% of circulating Bitcoin before 2027-12-31?",
-        "deadline": "2027-12-31",
-        "resolution_source": "NIST or peer-reviewed cryptographic assessment; Quantum Alliance publication",
-        "why_underpriced": "Quantum Alliance forming with 6.4M BTC under threat; market underestimating timeline but overestimating near-term impact (2026-27 boundary).",
-        "trigger_signal": "CoinDesk — Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat"
-      },
-      {
-        "question": "Will Circle's stablecoin (USDC) successfully launch in 30+ new markets by 2026-12-31?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Circle official regulatory filing or CEO public statement; USDC on-chain market addresses enumerated",
-        "why_underpriced": "Global stablecoin demand momentum underestimated; Circle targeting 40 markets signals confidence but execution risk ignored.",
-        "trigger_signal": "CoinDesk — Circle targets 40 new markets as stablecoin demand grows globally"
-      },
-      {
-        "question": "Will Ukraine's Starlink restrictions remain in place (speed-limited) through 2026-09-30?",
+        "question": "Will any AI big-tech stock (NVIDIA, OpenAI if public, Anthropic if public) fall 20%+ from current levels by September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "Ukraine military or Zelensky press office confirmation; third-party battlefield comms audit",
-        "why_underpriced": "Trump friction over Ukraine strategy + Starlink operational policy creates compound geopolitical risk; betting markets underweight escalation scenario.",
-        "trigger_signal": "BBC World — US senators call for investigation into Ukraine's Starlink restrictions; BBC World — Zelensky says Ukraine has right to defend itself after Trump criticism"
+        "resolution_source": "Yahoo Finance, Bloomberg terminal, official earnings announcements",
+        "why_underpriced": "VIX spike + AI-stock selloff already underway; CoinDesk headline 'AI-related stocks pushed VIX above 22' signals rotation volatility; Hacker News 'tasks not covered by AI benchmarks' reflects real skepticism on LLM ROI.",
+        "trigger_signal": "CNBC VIX spike, CoinDesk AI-stock selloff, Hacker News AI-limitation discussion (352 upvotes)"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Bitcoin consolidation near $82K amid dovish Fed signals (Warsh) offers long entry for 2–4 month horizon before Q3 macro clarity.",
-        "horizon": "2–4 months (exit by 2026-09-05)",
+        "thesis": "Short AI mega-cap growth (QQQ, NVDA put spreads) into summer 2026 as earnings reveal margin pressure and capex ROI headwinds, with hedge via long-volatility (VIX calls or UVXY).",
+        "horizon": "60–120 days",
         "supporting_signals": [
-          "Cointelegraph — Bitcoin price steadies around $82K after Fed's Warsh avoids rate-hike hints",
-          "CoinDesk — Live updates: Crypto gives up some ground as AI selloff picks up steam (capitulation signal)"
+          "CNBC VIX spike to 22 (4-month high) driven by AI-stock selloff",
+          "Hacker News discussion: '90% of US working hours not covered by AI benchmarks' (352 upvotes) signals real skepticism on LLM ROI",
+          "CoinDesk AI auditor opacity risk + Claude/LLM scaling cost debates"
         ],
-        "counter_view": "AI infrastructure correction (CoreWeave) signals broader tech multiple compression; BTC correlated to risk assets in macro downturn.",
-        "expression": "BTC spot or 2026-09-30 call options (delta ~0.6); alternatively, long BTC/USD perps with 2:1 leverage"
+        "counter_view": "Fed's Warsh avoiding rate-hike signals could re-inflate growth multiples; enterprise AI capex budgets remain resilient despite hype cycle volatility.",
+        "expression": "Short QQQ via 3-month put spreads (105–110 strike); long VIX calls (24–26 strike) or UVXY synthetic long; hedge with 10% SPY long"
       },
       {
-        "thesis": "Altcoin outperformance (Celestia +16%, TAO, INJ, NEAR rallying) vs. Bitcoin reflects narrative shift toward L2/AI compute; ETH/BTC ratio bullish.",
-        "horizon": "3–8 weeks (peak by mid-June 2026)",
+        "thesis": "Long energy (USO, CL=F crude futures) into June 2026 on Iran Hormuz escalation + Ukraine refinery offensive creating sustained supply shock, despite macro headwinds.",
+        "horizon": "30–90 days",
         "supporting_signals": [
-          "CoinDesk — Altcoins outpace bitcoin as Celestia jumps 16%, Warsh silent on interest-rate plans",
-          "Crypto trending: Celestia (TIA), Bittensor (TAO), Injective (INJ), NEAR Protocol in top movers"
+          "BBC: 12 vessels struck near Hormuz in one week (record); Brent already at $110 per CNBC",
+          "Ukraine vows to hit Russian refineries (CNBC headline)",
+          "Geopolitical event cluster (Iran + Ukraine) has low discount in commodity markets vs. equities"
         ],
-        "counter_view": "Risk-on rotation often leads risk-off capitulation; altcoin volatility unsustainable if macro turns; correlation to Nasdaq-100 tech (NVIDIA, MU) compression risk.",
-        "expression": "Long ETH/BTC ratio (target 0.060–0.065 from ~0.052) via spot or perps; alternatively, long Celestia (TIA) with 30-day exit discipline"
+        "counter_view": "Global demand destruction from recession fears (VIX spike) could overwhelm supply concerns; Trump administration may pressure de-escalation via direct talks.",
+        "expression": "Long USO (energy ETF) or CL=F (WTI crude front-month futures); pair-trade: long USO / short SPY (energy alpha + macro hedge)"
       },
       {
-        "thesis": "Tokenized equity protocols (Tesla, Coinbase, Marathon on-chain pricing) signal emerging 24/7 capital markets; volume and pricing premium vs. traditional close justify infrastructure ETF positioning.",
-        "horizon": "1–3 months (build through 2026-08-05)",
+        "thesis": "Long stablecoin infrastructure plays (tokenized USDC yield, Circle ecosystem bets) as remittance adoption surge (84% cost advantage) drives volume into emerging-market corridors by Q3 2026.",
+        "horizon": "90–180 days",
         "supporting_signals": [
-          "CoinDesk — Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-          "Cointelegraph — Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-          "CoinDesk — Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype"
+          "Cointelegraph: stablecoin remittances 84% cheaper than traditional transfers",
+          "CoinDesk: Circle targets 40 new markets, stablecoin demand growing globally",
+          "Tokenized assets (Tesla, stocks) gaining traction; DeFi yield normalized"
         ],
-        "counter_view": "Regulatory pushback (SEC, CFTC) could halt tokenized equity launches; liquidity fragmentation and slippage exceed benefits vs. standard equity trading.",
-        "expression": "Long MicroStrategy (MSTR), Coinbase (COIN), Marathon (MARA) common equity as proxy for tokenization upside; monitor regulatory filings for tokenized offering announcements"
+        "counter_view": "Regulatory crackdown on remittance use (AML/KYC tightening) could stall adoption; traditional fintech (Wise, Remitly) may co-opt stablecoin rails.",
+        "expression": "Long USDC-denominated yield (Compound, Aave); buy emerging-market crypto exchange tokens (Binance, Kraken) as proxy; or spot USDC with intent to lend"
       },
       {
-        "thesis": "Stablecoin adoption tailwind (Circle 40-market expansion, USDC yield demand) and Deutsche Bank custody launch signal institutional on-ramp; hold longer-duration USDC yield positions.",
-        "horizon": "6–12 months (through Q4 2026)",
+        "thesis": "Long BTC volatility decay into late June 2026 as Fed's dovish Warsh comments stabilize sentiment and geopolitical risk premium normalizes post-Hormuz escalation.",
+        "horizon": "30–60 days",
         "supporting_signals": [
-          "CoinDesk — Circle targets 40 new markets as stablecoin demand grows globally",
-          "Cointelegraph — Deutsche Bank prepares German crypto custody launch, eyes Asia: Report"
+          "Cointelegraph: Bitcoin steadies around $82K after Fed's Warsh avoids rate-hike hints",
+          "BTC dipped to $81K but recovered on dovish signal",
+          "Altcoins outpacing BTC (rotation into risk-on, not panic selling)"
         ],
-        "counter_view": "U.S. regulatory tightening (stablecoin reserve rules, Fed CBDC competition) could cap USDC yield expansion; bank custody offerings may cannibalize retail on-ramp demand.",
-        "expression": "Long USDC on Aave/Compound at ~3–5% APY; alternatively, long Circle (CIRC) common equity if IPO occurs before 2027-Q1"
+        "counter_view": "Further VIX spike (traders positioning for >25) could push BTC down to $75K support; geopolitical escalation may create flights to safe-haven fiat.",
+        "expression": "Long BTC spot with 2–3% stop below $79K; short BTC 3-month volatility (sell straddles) betting on $80–90K range by August 2026"
       },
       {
-        "thesis": "USD strength and geopolitical uncertainty (Trump-Ukraine friction, China trade talks) support safe-haven demand; DXY above 105 likely through 2026-Q3.",
-        "horizon": "4–6 months (through 2026-11-05)",
+        "thesis": "Fade Trump 2026 midterm odds via contrarian short on GOP-aligned PACs and political betting as billion-dollar spending blitz fails to move polls, signaling information inefficiency.",
+        "horizon": "60–150 days (into November 2026 midterms)",
         "supporting_signals": [
-          "BBC World — Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-          "CNBC — U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks",
-          "CoinDesk — Bitcoin price steadies around $82K after Fed's Warsh avoids rate-hike hints (DXY stable, rate cut priced in)"
+          "CNBC: 'Trump and GOP's billion-dollar midterm blitz isn't working'; spending surge barely moved polls",
+          "Press-secretary turnover + Starlink Ukraine controversy signal internal chaos damaging approval",
+          "Crypto PACs escalating spend against Sherrod Brown (Ohio) despite no visible polling lift"
         ],
-        "counter_view": "Trade deal breakthrough (U.S.-China) could weaken DXY; Fed cuts larger than expected would trigger USD capitulation; emerging market policy shifts (India 'cockroach' party, geopolitical instability) unpredictable.",
-        "expression": "Long DXY (dollar index) via UUP ETF or DXY futures; alternatively, short EUR/USD or long USD/CNH to express China trade friction thesis"
+        "counter_view": "Polling lag may not reflect ground-game effectiveness; late-cycle ad buys and turnout engineering could surprise.",
+        "expression": "Sell GOP/Trump political outcome contracts on Kalshi or Manifold (if available); long Democratic-aligned outcome tokens; or hedge via long USD (less partisan cycle volatility)"
       }
     ]
   }
