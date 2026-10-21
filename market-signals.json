@@ -1,83 +1,76 @@
 {
-  "generated_at_utc": "2026-10-21T09:45:57.563599+00:00",
+  "generated_at_utc": "2026-10-21T17:48:06.668781+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
+        "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
+        "summary": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
+        "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+        "published": "Wed, 21 Oct 2026 17:27:34 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+        "summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
+        "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+        "published": "Wed, 21 Oct 2026 17:45:23 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
         "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
         "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-        "published": "Wed, 21 Oct 2026 08:52:33 GMT"
+        "published": "Wed, 21 Oct 2026 16:08:50 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
-        "summary": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees.",
-        "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-        "published": "Wed, 21 Oct 2026 09:29:42 GMT"
+        "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+        "summary": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
+        "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+        "published": "Wed, 21 Oct 2026 17:34:00 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-        "summary": "",
-        "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
-        "published": "Wed, 21 Oct 2026 09:34:05 GMT"
+        "title": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
+        "summary": "Intel has installed the first major structural truss at its delayed Ohio chip fab, but the company has yet to announce a major outside customer.",
+        "link": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
+        "published": "Wed, 21 Oct 2026 16:55:51 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
-        "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.",
-        "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-        "published": "Wed, 21 Oct 2026 07:49:48 GMT"
+        "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+        "summary": "A day after Elon Musk's SpaceX reported third-quarter results, Tesla is scheduled to update investors.",
+        "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+        "published": "Wed, 21 Oct 2026 16:01:25 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
-        "summary": "Trump says data centers should consider community \"dividends\" as AI financing worries grow.",
-        "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
-        "published": "Wed, 21 Oct 2026 08:53:53 GMT"
+        "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
+        "summary": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market.",
+        "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
+        "published": "Wed, 21 Oct 2026 13:13:48 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-        "summary": "The 737 Max 10, the largest model in the family, was set to start flying in 2020, but increased scrutiny and other safety issues delayed its certification.",
-        "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-        "published": "Tue, 20 Oct 2026 22:01:11 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
-        "summary": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
-        "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
-        "published": "Tue, 20 Oct 2026 18:06:13 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
-        "summary": "The key level traders are watching on the S&amp;P 500 that could mean an even bigger decline is ahead.",
-        "link": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
-        "published": "Tue, 20 Oct 2026 12:52:29 GMT"
+        "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+        "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+        "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+        "published": "Wed, 21 Oct 2026 11:20:58 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Russia frees US citizen Stephen Hubbard, state media reports",
-        "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.",
-        "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 21 Oct 2026 09:22:23 GMT"
+        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 21 Oct 2026 17:42:34 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Trump and Zelensky appear at loggerheads despite new optimism",
-        "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-        "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 20 Oct 2026 20:00:57 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-        "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-        "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 21 Oct 2026 06:50:40 GMT"
+        "title": "Macron accuses foreign leaders of exploiting French riots",
+        "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+        "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 21 Oct 2026 14:04:28 GMT"
       },
       {
         "source": "BBC World",
@@ -102,147 +95,166 @@
       },
       {
         "source": "BBC World",
-        "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-        "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-        "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 20 Oct 2026 17:30:15 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
         "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
         "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
         "published": "Wed, 21 Oct 2026 08:31:48 GMT"
       },
       {
-        "source": "CoinDesk",
-        "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
-        "published": "Wed, 21 Oct 2026 09:23:00 +0000"
+        "source": "BBC World",
+        "title": "Family of prison officer killed by IRA receives state apology",
+        "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+        "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 21 Oct 2026 16:58:16 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Nigeria confirms Ebola case linked to East Africa",
+        "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 21 Oct 2026 12:39:34 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "Monero futures are again heating with leverage, raising volatility risks",
+        "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks",
-        "published": "Wed, 21 Oct 2026 08:57:29 +0000"
+        "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+        "published": "Wed, 21 Oct 2026 16:23:44 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+        "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-        "published": "Wed, 21 Oct 2026 08:47:11 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+        "published": "Wed, 21 Oct 2026 15:22:46 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Zcash developers confirm November date for upgrade that triples payment speed",
+        "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
-        "published": "Wed, 21 Oct 2026 08:10:12 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+        "published": "Wed, 21 Oct 2026 15:09:22 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+        "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-        "published": "Wed, 21 Oct 2026 05:25:57 +0000"
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+        "published": "Wed, 21 Oct 2026 15:00:53 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+        "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-        "published": "Wed, 21 Oct 2026 04:35:52 +0000"
+        "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
+        "published": "Wed, 21 Oct 2026 12:12:36 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+        "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-        "published": "Wed, 21 Oct 2026 04:11:58 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+        "published": "Wed, 21 Oct 2026 12:10:39 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+        "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-        "published": "Wed, 21 Oct 2026 04:07:07 +0000"
+        "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+        "published": "Wed, 21 Oct 2026 12:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+        "summary": "",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+        "published": "Wed, 21 Oct 2026 11:15:00 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Ether ETF outflows continue, pass $1B in October so far",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether ETF outflows continue, pass $1B in October so far\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ENVP95CYXDBRWRRSVDGA2V/cointelegraph-eth-etf.png\" /></p><p>US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike.</p>",
-        "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 21 Oct 2026 08:11:50 +0000"
+        "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK financial watchdog opens consultations for DeFi guidance, crypto laws\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FMCZNK1JKRGRB78Y7WZ0DR/hi-fca-uk.jpg\" /></p><p>The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.</p>",
+        "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 21 Oct 2026 17:25:00 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "eMudhra intermediate CA compromise",
-        "summary": "score: 944, comments: 397",
-        "link": "https://emudhra.we-have-a-problem.com/",
-        "score": 944
+        "title": "PHP 8.2.35",
+        "summary": "score: 754, comments: 436",
+        "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+        "score": 754
       },
       {
         "source": "Hacker News",
-        "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-        "summary": "score: 823, comments: 325",
-        "link": "https://news-web.php.net/php.announce/509",
-        "score": 823
+        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "summary": "score: 648, comments: 291",
+        "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "score": 648
       },
       {
         "source": "Hacker News",
-        "title": "Show HN: SimCity, but with Permits",
-        "summary": "score: 793, comments: 375",
-        "link": "https://permit.petercai.com/",
-        "score": 793
+        "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+        "summary": "score: 231, comments: 27",
+        "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+        "score": 231
       },
       {
         "source": "Hacker News",
-        "title": "Voxtral 3",
-        "summary": "score: 671, comments: 167",
-        "link": "https://mistral.ai/news/voxtral-3/",
-        "score": 671
+        "title": "Today's PHP security release, and how we're strengthening security",
+        "summary": "score: 211, comments: 109",
+        "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "score": 211
       },
       {
         "source": "Hacker News",
-        "title": "The Future of CSS",
-        "summary": "score: 371, comments: 146",
-        "link": "https://www.joshwcomeau.com/css/interop-2027/",
-        "score": 371
+        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "summary": "score: 176, comments: 72",
+        "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+        "score": 176
       },
       {
         "source": "Hacker News",
-        "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-        "summary": "score: 202, comments: 94",
-        "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-        "score": 202
+        "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+        "summary": "score: 153, comments: 89",
+        "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+        "score": 153
       },
       {
         "source": "Hacker News",
-        "title": "The Other Epidemic: Trying to get off benzodiazepines",
-        "summary": "score: 197, comments: 146",
-        "link": "https://www.thebeliever.net/the-other-epidemic/",
-        "score": 197
+        "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+        "summary": "score: 86, comments: 50",
+        "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+        "score": 86
       },
       {
         "source": "Hacker News",
-        "title": "Muse exposes users' personal and business secrets when they share conversations",
-        "summary": "score: 173, comments: 70",
-        "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-        "score": 173
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "summary": "score: 71, comments: 23",
+        "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+        "score": 71
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Pearl (PEARL)",
-        "summary": "market cap rank: 90",
-        "link": "https://www.coingecko.com/en/coins/pearl-research"
+        "title": "Universal High Income (UHI)",
+        "summary": "market cap rank: 763",
+        "link": "https://www.coingecko.com/en/coins/universal-high-income-2"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Aerodrome Finance (AERO)",
+        "summary": "market cap rank: 85",
+        "link": "https://www.coingecko.com/en/coins/aerodrome-finance"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Axis Robotics (AXIS)",
+        "summary": "market cap rank: 539",
+        "link": "https://www.coingecko.com/en/coins/axis-robotics"
       },
       {
         "source": "CoinGecko Trending",
@@ -252,161 +264,150 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Quantus (QTC)",
-        "summary": "market cap rank: 719",
-        "link": "https://www.coingecko.com/en/coins/quantus"
+        "title": "Pearl (PEARL)",
+        "summary": "market cap rank: 90",
+        "link": "https://www.coingecko.com/en/coins/pearl-research"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Collector Crypt (CARDS)",
-        "summary": "market cap rank: 140",
-        "link": "https://www.coingecko.com/en/coins/collector-crypt"
+        "title": "Pons (PONS)",
+        "summary": "market cap rank: 191",
+        "link": "https://www.coingecko.com/en/coins/pons"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 11",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 19",
-        "link": "https://www.coingecko.com/en/coins/near"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Quant (QNT)",
-        "summary": "market cap rank: 39",
-        "link": "https://www.coingecko.com/en/coins/quant"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will SpaceX and Tesla complete a merger by December 31, 2026?",
+        "market_title": "Will Bitcoin close above $90,000 by December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Musk publicly confirmed special committees formed to explore merger; CoinDesk flags >30k BTC across both entities as collateral narrative.",
-        "signal_source": "BBC World, CNBC, CoinDesk (2026-05-05)"
+        "why_now": "BTC at $84.6K with risk-on sentiment from SpaceX earnings; macro backdrop (Trump admin, crypto-friendly Treasury Bessent) supports momentum into year-end.",
+        "signal_source": "Cointelegraph: Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat; Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform"
       },
       {
-        "market_title": "Will Bitcoin exceed $100,000 USD by June 30, 2026?",
-        "venue": "Polymarket",
-        "why_now": "BTC hovers ~$83k amid AI earnings revival and tech sector recovery; SpaceX/Tesla merger narrative adds liquidity tailwind.",
-        "signal_source": "CoinDesk (2026-05-05)"
-      },
-      {
-        "market_title": "Will the S&P 500 close above 6,000 on December 31, 2026?",
+        "market_title": "Will the Fed cut rates at least once more by June 30, 2026?",
         "venue": "Kalshi",
-        "why_now": "CNBC reports key technical levels under pressure; investors await earnings reset; geopolitical uncertainty (Ukraine, trade tariffs) creates volatility premium.",
-        "signal_source": "CNBC, BBC World (2026-05-05)"
+        "why_now": "Housing data deteriorating, mortgage demand falling despite rate drops; Fed faces conflicting signals heading into Q2 2026 decision cycle.",
+        "signal_source": "CNBC: Housing is flashing warning signs just as the Fed weighs more interest rate hikes; Mortgage rates drop for the first time in 2 months, but demand still falls further"
       },
       {
-        "market_title": "Will OpenAI release a new GPT model with certified safety guarantees by September 30, 2026?",
+        "market_title": "Will Elon Musk announce a formal Tesla-SpaceX merger agreement by September 30, 2026?",
         "venue": "Manifold",
-        "why_now": "CNBC reports safety monitoring disabled in current models and one model lied; regulatory pressure mounting; resolution tied to OpenAI press announcements.",
-        "signal_source": "CNBC (2026-05-05)"
+        "why_now": "Musk has confirmed special committees formed in both companies; SpaceX Q3 earnings beat generates momentum; market pricing uncertainty on execution timeline.",
+        "signal_source": "BBC World: Elon Musk confirms he is considering merging Tesla and SpaceX; CNBC: SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up"
       },
       {
-        "market_title": "Will Ethereum ETF net inflows turn positive by August 31, 2026?",
+        "market_title": "Will the UK FCA publish final DeFi regulatory guidance by March 31, 2027?",
+        "venue": "Manifold",
+        "why_now": "UK financial watchdog just opened consultations for DeFi guidance and crypto laws; typical consultation-to-final rule cycle is 12–18 months.",
+        "signal_source": "Cointelegraph: UK financial watchdog opens consultations for DeFi guidance, crypto laws"
+      },
+      {
+        "market_title": "Will Ethereum close above $3,500 by December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Cointelegraph reports cumulative outflows >$1B; Solana Alpenglow launch and competing L1s creating pressure; recovery would signal institutional confidence reset.",
-        "signal_source": "Cointelegraph (2026-05-05)"
+        "why_now": "Chainlink, Cardano, and other groups pushing SEC for clearer rules; regulatory clarity could unlock institutional inflows; BTC strength setting tone for alts.",
+        "signal_source": "Cointelegraph: Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules; Bitcoin price tags $84.6K as US stocks head higher"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the French 10-year government bond yield fall below 4% by December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "ECB official yield data or Bloomberg terminal (publicly available)",
-        "why_underpriced": "Current spike to 5% (highest since 2002) reflects acute unrest; market pricing may overcorrect; reversion to mean historically strong in eurozone bonds.",
-        "trigger_signal": "CNBC reports French 10Y at 5% amid unrest; geopolitical normalization would create mean-reversion trade."
-      },
-      {
-        "question": "Will Boeing's 737 Max 10 deliver more than 200 aircraft by December 31, 2027?",
+        "question": "Will Intel's Ohio chip fab ship its first customer product by December 31, 2027?",
         "deadline": "2027-12-31",
-        "resolution_source": "Boeing quarterly earnings reports or FAA delivery logs",
-        "why_underpriced": "FAA just approved after years of delays; supply chain recovery underway; airline order books strong but market undervalues post-certification ramp.",
-        "trigger_signal": "CNBC reports 737 Max 10 FAA approval achieved; Wall Street unlikely priced full recovery trajectory."
+        "resolution_source": "Intel official press release or SEC 10-K filing confirming customer shipments from Ohio facility",
+        "why_underpriced": "Market underestimates geopolitical push for onshore semiconductor capacity; Intel's delay is being priced as permanent failure rather than schedule slip.",
+        "trigger_signal": "CNBC: Intel hits construction milestone at Ohio chip fab that's at least 5 years behind schedule; company has yet to announce a major outside customer—but structural completion is progress."
       },
       {
-        "question": "Will Solana's network upgrade (Alpenglow) increase daily transaction throughput to exceed 200k TPS by June 30, 2026?",
+        "question": "Will Solana's average block finality drop below 400ms by June 30, 2026?",
         "deadline": "2026-06-30",
-        "resolution_source": "Solana Labs official metrics (chain.solanalabs.com) or validated third-party indexer",
-        "why_underpriced": "Alpenglow goes live 2026-05-05; crypto community pricing may lag technical delivery; institutional interest in high-throughput chains rising.",
-        "trigger_signal": "CoinDesk reports Alpenglow network overhaul live; performance data sparse in early adoption phase; arbitrage opportunity exists."
+        "resolution_source": "Solana Foundation official metrics dashboard or peer-reviewed network telemetry report confirming sustained sub-400ms finality",
+        "why_underpriced": "Alpenglow mainnet launch targeting 99% faster finality is concrete; Solana ecosystem momentum (ecosystem funding, app growth) underappreciated by risk markets.",
+        "trigger_signal": "Cointelegraph: Solana's Alpenglow launches on mainnet, targets 99% faster finality—technical upgrade is shipping now, not vaporware."
       },
       {
-        "question": "Will US-Russia direct military conflict escalate to include NATO territory by June 30, 2026?",
-        "deadline": "2026-06-30",
-        "resolution_source": "NATO official statements, UN Security Council records, major news wire reports (Reuters, AP)",
-        "why_underpriced": "Witkoff-Putin talks and US hostage release signal near-term de-escalation narrative; market underpricing tail risk of Ukraine settlement collapse.",
-        "trigger_signal": "BBC reports Zelenskyy-Trump tensions despite Witkoff optimism; fragile negotiation window creates vol premium."
+        "question": "Will Dogecoin transaction volume exceed $10 billion per week by December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Dogecoin blockchain analytics (Glassnode, Nansen, or Dune) reporting weekly on-chain transfer volume in USD",
+        "why_underpriced": "DOGE wallet and app teams actively uniting to drive everyday utility; Trump admin crypto-friendliness (overseas crypto abuse crackdown suggests domestic clarity incoming) benefits DOGE adoption narratives.",
+        "trigger_signal": "CoinDesk: Dogecoin wallet, app teams unite in push to give DOGE more everyday uses; CoinDesk: Trump to throw spotlight on overseas crypto abuses at White House event"
       },
       {
-        "question": "Will Zcash (ZEC) maintain a market cap above $5 billion by November 30, 2026?",
-        "deadline": "2026-11-30",
-        "resolution_source": "CoinGecko or CoinMarketCap official market cap feed",
-        "why_underpriced": "Zcash developers confirm November upgrade tripling payment speed; 11% jump already priced in; upgrade execution risk and regulatory clarity on privacy coins undervalued.",
-        "trigger_signal": "CoinDesk reports ZEC jumped 11% on upgrade confirmation; payment speed improvements could attract institutional stablecoin infrastructure interest."
+        "question": "Will a major US centralized exchange (Kraken, Coinbase, or Bybit US) list a legacy crypto token (pre-2017) without explicit SEC immunity by July 31, 2026?",
+        "deadline": "2026-07-31",
+        "resolution_source": "Official exchange announcement or SEC enforcement action confirming listing decision",
+        "why_underpriced": "CoinDesk report on 'centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity' signals regulatory bottleneck; clarity from Treasury (Bessent) or new SEC chair could unlock listings faster than market expects.",
+        "trigger_signal": "CoinDesk: Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity; Cointelegraph: Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform"
+      },
+      {
+        "question": "Will JPMorgan Chase's cryptocurrency trading desk report sequential revenue growth from digital assets for Q3 2026?",
+        "deadline": "2026-10-15",
+        "resolution_source": "JPMorgan Q3 2026 earnings call transcript or investor presentation disclosing digital asset trading revenue",
+        "why_underpriced": "Bitcoin risk management and fixed-rate DeFi loans gaining traction; institutional adoption (Bybit's broker partnerships, Shinhan-SBI yen stablecoin pact) signals mainstream banking adoption wave.",
+        "trigger_signal": "CoinDesk: Bitcoin risk management grows more popular as the 'just bet on price' era fades; Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long BTC with delta-hedged long Tesla/SpaceX exposure via leveraged ETF or equity call spread; merger arbitrage and crypto correlation play.",
-        "horizon": "90-180 days (through Q3 2026)",
+        "thesis": "Long BTC and crypto risk-on assets; Trump admin crypto clarity, fiscal deficit, and geopolitical energy shocks (Ukraine diesel, Russia talks) sustain macro bid.",
+        "horizon": "3–6 months (May–November 2026)",
         "supporting_signals": [
-          "Musk confirmed special committees; >30k BTC across both entities (CoinDesk)",
-          "SpaceX earnings beat + Tesla AI revenue jump ninefold (CNBC, Cointelegraph)",
-          "BTC hovering $83k with tech sector recovery tailwind"
+          "Bitcoin already at $84.6K on SpaceX earnings risk-on sentiment",
+          "Treasury Secretary Bessent framing GENIUS Act as Lincoln-era banking reform—signals pro-crypto institutional framework incoming",
+          "Trump special envoy Steve Witkoff in Russia for peace talks; diesel supply shock reduces stagflation tail risk",
+          "UK FCA and SEC pushing clarity (not bans); Chainlink/Cardano consortium lobbying for rules"
         ],
-        "counter_view": "Regulatory friction on SpaceX-Tesla merger could stall; FCC/DoD involvement may derail due diligence on national security grounds.",
-        "expression": "BTC perps (long 3-5x) + TSLA call spread (2026 Jun $280/$320) or TSLA 3x leveraged ETF (TSLQ)"
+        "counter_view": "Fed may surprise with additional rate hikes if housing data stabilizes; Trump-Putin talks could ease energy/inflation, reducing fiscal-stimulus-driven inflation bet that underpins crypto.",
+        "expression": "Long BTC/USD spot or June 2026 BTC perps; hedge with short duration bonds (TLT short) to capture curve steepening"
       },
       {
-        "thesis": "Tactical short EUR/USD or long DXY as French 10Y yield shock persists; capital flight from Eurozone on unrest + ECB rate pressure.",
-        "horizon": "30-90 days (through Q2 2026)",
+        "thesis": "Long Solana (SOL) and app-layer tokens (AERO, PENGU ecosystem); Alpenglow finality upgrade and DOGE/ecosystem utility push drive narrative rotation to execution.",
+        "horizon": "2–4 months (May–August 2026)",
         "supporting_signals": [
-          "French 10Y at 5% (highest since 2002) amid riots (CNBC)",
-          "Katya Adler analysis of deep French political fracture (BBC)",
-          "Ripple 24/7 stock bets and FX volatility picking up"
+          "Solana Alpenglow mainnet live, targeting 99% faster finality—technical moat vs. Ethereum L2s narrows",
+          "DOGE wallet/app teams uniting for everyday payments; Shinhan-SBI pact proves stablecoin real-world adoption is accelerating",
+          "Aerodrome Finance (AERO) trending; Pudgy Penguins (PENGU) in top movers—suggests retail reallocation to layer-1 and consumer-facing apps"
         ],
-        "counter_view": "ECB may intervene directly or announce support; EU fiscal response could stabilize sentiment faster than market expects.",
-        "expression": "DXY long via futures or ETF (UUP); EUR/USD short 1.05-1.08 target or FX carry trade on EUR weakness"
+        "counter_view": "Ethereum Shanghai/Dencun roadmap (post-2026) may reassert scalability lead; SOL network stability questions linger if finality claims are unvalidated.",
+        "expression": "Long SOL/USD; construct small-cap basket (AERO, PENGU, UHI) weighted by ecosystem TVL and user growth; hedge with short ETH/SOL ratio if Eth L2 adoption accelerates"
       },
       {
-        "thesis": "Long AI infrastructure plays (NVDA, MU) hedged against Ethereum; AI capex cycle intact but crypto ETF outflows signal potential ETH/BTC ratio compression.",
-        "horizon": "60-120 days (through Q3 2026)",
+        "thesis": "Short housing and mortgage REITs; Fed faces conflicting signals (falling demand, deteriorating data) but may delay rate cuts into 2027, compressing valuations further.",
+        "horizon": "2–3 months (May–August 2026)",
         "supporting_signals": [
-          "OpenAI models disabled own safety monitoring; cyberattacks ramping (CNBC)",
-          "Trump calls for data center 'dividends' (CNBC) — regulatory cost passed to equity",
-          "Ether ETF outflows >$1B (Cointelegraph); AI revenue jumps ninefold for SpaceX"
+          "CNBC: Mortgage rates drop for the first time in 2 months, but demand still falls further",
+          "CNBC: Housing is flashing warning signs just as the Fed weighs more interest rate hikes—stagflation risk (demand collapse + potential rate hold) is acute",
+          "Intel Ohio fab delay signals capex burden in structurally higher rate environment; housing credit quality deterioration may follow"
         ],
-        "counter_view": "AI regulation could crush capex outlook; Ethereum 2.0 liquid staking may reverse ETF outflows if yield improves.",
-        "expression": "Long NVDA or MU with 3-month call debit spreads; short ETH/BTC ratio via BTC long + ETH short perps"
+        "counter_view": "Fed may accelerate cuts if unemployment ticks up; housing supply crunch (Intel delays, geopolitical capex shocks) could support prices.",
+        "expression": "Short IYR (iShares US Real Estate ETF) or REIT-heavy financials (XLF short tilt); long TLT (20+ year Treasuries) as hedge for deflationary scenario"
       },
       {
-        "thesis": "Long Zcash (ZEC) on November 2026 upgrade execution; privacy-coin regulatory clarity and stablecoin bridge opportunity underpriced.",
-        "horizon": "120-180 days (through November 2026)",
+        "thesis": "Long semiconductor supply-chain geopolitical premium (MU, Taiwan equity upside call spreads); Intel Ohio delay validates onshore capex thesis, lifting foundry competitors.",
+        "horizon": "4–6 months (May–November 2026)",
         "supporting_signals": [
-          "Zcash developers confirm November upgrade tripling payment speed (CoinDesk)",
-          "Already up 11% on confirmation; Malaysia launches DLT platform for tokenized bonds (Cointelegraph) — institutional pipeline opening",
-          "Monero futures leverage heating up (CoinDesk) — privacy-coin demand signal"
+          "Intel Ohio fab structural completion milestone suggests capex commitments are real; lack of customer announcements raises competitive threat (TSMC, Samsung, Micron gain share)",
+          "Trump geopolitical posture (Russia talks, China tech containment) supports long-term subsidies for onshore capacity",
+          "Solana/crypto finality upgrades, AI inference chiplets trending—demand for custom silicon and memory is rising"
         ],
-        "counter_view": "Regulatory clampdown on privacy coins could accelerate; upgrade execution delays or technical issues could reverse gains.",
-        "expression": "ZEC spot or 2-3x leverage via Hyperliquid perpetuals; upside to $250-300 by Nov 2026 if upgrade successful"
+        "counter_view": "Intel's delays may persist; customers may wait for 2028+ production, depressing near-term capex cycles. China memory makers (if sanctions ease) could undercut Western players.",
+        "expression": "Long MU (Micron Technology) calls for September 2026 expiry, strike 20% OTM; pair with short INTC calls to capture relative foundry narrative"
       },
       {
-        "thesis": "Short SPY/long QQQ ratio bet; large-cap tech (NVDA, TSLA, OpenAI adjacents) outperforming as bond yields stabilize, small-cap lagging.",
-        "horizon": "45-90 days (through Q2/Q3 2026)",
+        "thesis": "Long DXY (US Dollar Index) and short duration bonds if Ukraine peace talks stall; Russia's willingness to negotiate is priced as dovish, but geopolitical risk premium may re-inflate if talks collapse.",
+        "horizon": "1–2 months (May–July 2026)",
         "supporting_signals": [
-          "CNBC reports key S&P 500 levels under pressure but tech earnings beating (SpaceX +10%, OpenAI safety narrative bullish for regulation)",
-          "Boeing FAA approval removes single-name downside; defense/aerospace benefiting",
-          "Trade tariff lawsuits (CNBC) create small-cap drag; large multinationals better positioned"
+          "BBC: Russia says it is ready to resume talks with Ukraine and US to end war—market pricing peace rally too early",
+          "CNBC: Trump blames Ukraine for surging diesel prices—signals domestic political pressure on Trump to end war, but Ukraine may resist; cease-fire agreement uncertainty is high",
+          "Energy shocks (Ukraine drone strikes crippling Russian diesel) remain volatile; if talks fail, commodity spike returns"
         ],
-        "counter_view": "Earnings recession fears could reverse tech premium; small caps benefiting from tariff relief or rate cuts.",
-        "expression": "QQQ 3x leveraged ETF (TQQQ) long vs SPY short or inverse (SH) short; or QQQ call spreads vs SPY put spreads"
+        "counter_view": "Trump-Witkoff direct engagement proves serious diplomatic effort; peace premium in risk-off assets (bonds, USD) may persist longer than expected.",
+        "expression": "Long DXY (6-month horizon) or long USD/EUR (1.08+ target); short TLT outright to capture curve bear-steepening if geopolitical risk resurfaces"
       }
     ]
   }
