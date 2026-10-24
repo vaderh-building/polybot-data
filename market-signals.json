@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-10-24T09:14:11.730394+00:00",
+  "generated_at_utc": "2026-10-24T16:23:26.459947+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-        "summary": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
-        "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-        "published": "Fri, 23 Oct 2026 21:26:59 GMT"
+        "title": "Why popular airplanes are getting scrapped years early",
+        "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+        "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+        "published": "Sat, 24 Oct 2026 15:18:30 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-        "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
-        "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-        "published": "Sat, 24 Oct 2026 06:41:14 GMT"
+        "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+        "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
+        "link": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
+        "published": "Sat, 24 Oct 2026 14:30:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+        "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
+        "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+        "published": "Sat, 24 Oct 2026 10:59:16 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -25,87 +32,80 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "What a day in customer service looks like — as AI changes everything",
-        "summary": "Customer service can be a \"really, really difficult job.\" Will AI make it easier — or cause even more headaches?",
-        "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
-        "published": "Sat, 24 Oct 2026 05:00:01 GMT"
+        "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
+        "summary": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds.",
+        "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
+        "published": "Sat, 24 Oct 2026 15:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-        "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
-        "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-        "published": "Fri, 23 Oct 2026 16:55:37 GMT"
+        "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+        "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+        "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+        "published": "Sat, 24 Oct 2026 11:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
-        "summary": "The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.",
-        "link": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
-        "published": "Fri, 23 Oct 2026 15:35:36 GMT"
+        "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+        "summary": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
+        "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+        "published": "Sat, 24 Oct 2026 15:44:53 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
-        "summary": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
-        "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
-        "published": "Fri, 23 Oct 2026 22:27:06 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-        "summary": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
-        "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-        "published": "Fri, 23 Oct 2026 22:49:42 GMT"
+        "title": "Berkshire shares shake the Buffett blues with new all-time highs",
+        "summary": "After almost 18 months, Berkshire Hathaway shares have entirely erased all the ground they lost in the wake of Warren Buffett's surprise announcement at the 2025 shareholders meeting that he would step down as CEO.",
+        "link": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
+        "published": "Sat, 24 Oct 2026 12:48:32 GMT"
       },
       {
         "source": "BBC World",
-        "title": "France prepares for day of protest a week after nationwide riots",
-        "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
-        "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 24 Oct 2026 06:19:46 GMT"
+        "title": "Ukraine says Starlink connection 'now stable' after network limits",
+        "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+        "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 24 Oct 2026 12:12:40 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-        "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+        "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
         "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 24 Oct 2026 09:03:15 GMT"
+        "published": "Sat, 24 Oct 2026 15:21:44 GMT"
       },
       {
         "source": "BBC World",
         "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-        "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+        "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
         "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
         "published": "Fri, 23 Oct 2026 22:47:07 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Trump administration sues to block certification of upcoming Alaska election",
-        "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
-        "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 23 Oct 2026 18:49:14 GMT"
+        "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+        "summary": "The children were subsequently rescued from the water, police say.",
+        "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 24 Oct 2026 09:45:47 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-        "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 23 Oct 2026 23:08:23 GMT"
+        "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+        "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 24 Oct 2026 14:45:30 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Three released without charge after fatal arson attack in Ireland",
+        "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+        "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 24 Oct 2026 09:38:28 GMT"
       },
       {
         "source": "BBC World",
         "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
         "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
         "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 24 Oct 2026 00:05:43 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-        "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-        "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 24 Oct 2026 00:36:47 GMT"
+        "published": "Sat, 24 Oct 2026 09:46:53 GMT"
       },
       {
         "source": "BBC World",
@@ -116,59 +116,59 @@
       },
       {
         "source": "CoinDesk",
-        "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+        "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-        "published": "Sat, 24 Oct 2026 04:45:43 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+        "published": "Sat, 24 Oct 2026 16:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+        "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-        "published": "Fri, 23 Oct 2026 13:58:56 +0000"
+        "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+        "published": "Sat, 24 Oct 2026 15:21:06 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+        "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-        "published": "Fri, 23 Oct 2026 12:03:53 +0000"
+        "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+        "published": "Sat, 24 Oct 2026 15:11:24 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+        "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
         "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-        "published": "Fri, 23 Oct 2026 11:22:33 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+        "published": "Sat, 24 Oct 2026 15:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+        "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-        "published": "Fri, 23 Oct 2026 11:13:01 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+        "published": "Sat, 24 Oct 2026 14:38:47 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+        "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-        "published": "Fri, 23 Oct 2026 10:54:41 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+        "published": "Sat, 24 Oct 2026 14:06:24 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+        "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-        "published": "Fri, 23 Oct 2026 10:53:09 +0000"
+        "link": "https://www.coindesk.com/",
+        "published": "Sat, 24 Oct 2026 14:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+        "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-        "published": "Fri, 23 Oct 2026 10:22:56 +0000"
+        "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+        "published": "Sat, 24 Oct 2026 12:00:00 +0000"
       },
       {
         "source": "Cointelegraph",
@@ -183,235 +183,232 @@
       {
         "source": "Hacker News",
         "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-        "summary": "score: 1375, comments: 233",
+        "summary": "score: 1474, comments: 238",
         "link": "https://edjefferson.com/localwiki/",
-        "score": 1375
+        "score": 1474
       },
       {
         "source": "Hacker News",
         "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-        "summary": "score: 902, comments: 529",
+        "summary": "score: 1018, comments: 623",
         "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "score": 902
+        "score": 1018
       },
       {
         "source": "Hacker News",
         "title": "Today, we hacked what we'd set out to hack: the iPhone",
-        "summary": "score: 872, comments: 565",
+        "summary": "score: 1018, comments: 637",
         "link": "https://blog.calif.io/p/iphone",
-        "score": 872
+        "score": 1018
       },
       {
         "source": "Hacker News",
-        "title": "Apple Music 404 Not Found",
-        "summary": "score: 753, comments: 230",
-        "link": "https://music.apple.com/this-url-doesnt-exist",
-        "score": 753
+        "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+        "summary": "score: 449, comments: 153",
+        "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+        "score": 449
       },
       {
         "source": "Hacker News",
-        "title": "Dessa: Conversation Model trained only on speech",
-        "summary": "score: 383, comments: 137",
-        "link": "https://block.xyz/dessa",
-        "score": 383
+        "title": "OBS Studio 33",
+        "summary": "score: 342, comments: 114",
+        "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+        "score": 342
       },
       {
         "source": "Hacker News",
         "title": "Twelve years of distributed SQLite",
-        "summary": "score: 190, comments: 23",
+        "summary": "score: 303, comments: 46",
         "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-        "score": 190
+        "score": 303
       },
       {
         "source": "Hacker News",
-        "title": "CVE Tracker",
-        "summary": "score: 167, comments: 61",
-        "link": "https://cve.0xosprey.com/",
-        "score": 167
+        "title": "I Don't Understand Quantum Physics (2018)",
+        "summary": "score: 193, comments: 135",
+        "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+        "score": 193
       },
       {
         "source": "Hacker News",
-        "title": "Bringing uv and ty together",
-        "summary": "score: 146, comments: 31",
-        "link": "https://astral.sh/blog/uv-ty-integration",
-        "score": 146
+        "title": "Physicists trap a single antimatter particle for a month",
+        "summary": "score: 180, comments: 60",
+        "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+        "score": 180
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
+        "title": "Universal High Income (UHI)",
+        "summary": "market cap rank: 517",
+        "link": "https://www.coingecko.com/en/coins/universal-high-income-2"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 11",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Dacity Coin (DACITY)",
-        "summary": "market cap rank: 942",
+        "summary": "market cap rank: 858",
         "link": "https://www.coingecko.com/en/coins/dacity-coin-3"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Irys (IRYS)",
-        "summary": "market cap rank: 198",
-        "link": "https://www.coingecko.com/en/coins/irys"
+        "title": "Binance Super CZ (BSC)",
+        "summary": "market cap rank: 810",
+        "link": "https://www.coingecko.com/en/coins/binance-super-cz-2"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Moonbirds (BIRB)",
-        "summary": "market cap rank: 448",
-        "link": "https://www.coingecko.com/en/coins/moonbirds"
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Orderly (ORDER)",
-        "summary": "market cap rank: 706",
-        "link": "https://www.coingecko.com/en/coins/orderly-network"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 114",
+        "summary": "market cap rank: 116",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 20",
-        "link": "https://www.coingecko.com/en/coins/near"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Aerodrome Finance (AERO)",
-        "summary": "market cap rank: 98",
-        "link": "https://www.coingecko.com/en/coins/aerodrome-finance"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $85,000 by end of Q2 2026 (June 30)?",
+        "market_title": "Will Bitcoin close above $85,000 by end of June 2026?",
         "venue": "Polymarket",
-        "why_now": "Bitcoin holding $81K+ amid oil surge and macro uncertainty; tariff noise creating volatility but not directional conviction yet.",
-        "signal_source": "CoinDesk: Bitcoin steadies near $81,700; oil prices hit six-month high creating energy-sector correlation tailwind"
+        "why_now": "Bitcoin slipped below $80K on Middle East evacuation fears; crude oil surge and macro uncertainty create volatility clustering around $80–85K resistance into Q2 2026.",
+        "signal_source": "CoinDesk (crypto under weekend pressure, BTC slides below $80K); Cointelegraph (Brent crude hits highest since March)"
       },
       {
-        "market_title": "Will Fed cut rates at least once by September 2026?",
+        "market_title": "Will Nvidia's stock outperform S&P 500 by >10% through end of 2026?",
+        "venue": "Polymarket",
+        "why_now": "CNBC reports Nvidia's role as AI financier faces 'first big test' as neoclouds take market hits; sentiment split between growth thesis and outsized risk exposure.",
+        "signal_source": "CNBC (Nvidia's role as AI financier faces first big test; neoclouds take market hit)"
+      },
+      {
+        "market_title": "Will the Fed cut rates at least twice by December 2026?",
         "venue": "Kalshi",
-        "why_now": "French bond yields at 24-year highs signal global growth concerns; Trump tariff replacement strategy may trigger inflation fears, forcing Fed's hand.",
-        "signal_source": "CNBC: France yields spike on unrest; tariff policy shift signals economic headwinds ahead"
+        "why_now": "France's bond yields hit 24-year highs amid unrest; geopolitical risk (Iran threat warnings, Ukraine Starlink limits, Middle East evacuations) and credit stress signal recession hedging priced into rate expectations.",
+        "signal_source": "CNBC (French unrest, bond yields 24-year high); CNBC (Iran advanced stages attack planning); BBC (Starlink connection instability affecting Ukraine ops)"
       },
       {
-        "market_title": "Will Nvidia stock outperform S&P 500 by >10% through Q3 2026?",
-        "venue": "Polymarket",
-        "why_now": "Hyperscaler earnings imminent but neoclouds face credit pressure and AI capex pullback; market pricing in weakness, creating opportunity.",
-        "signal_source": "CNBC: Turmoil hits AI buildout—stock slumps, pulled IPOs, rising credit spreads on hyperscaler sector"
-      },
-      {
-        "market_title": "Will Trump's Canada tariff policy remain net-negative (tariffs on >50% of current trade) through October 2026?",
+        "market_title": "Will SEC formally designate tokenized securities as high-risk exam priority before July 2027?",
         "venue": "Manifold",
-        "why_now": "White House messaging signals replacement rather than removal—tariff wall staying intact but structure changing; market volatility suggests uncertainty.",
-        "signal_source": "CNBC & BBC: Trump dropping some tariffs but 'replacing' them; midterm elections loom, signaling political calculus shift"
+        "why_now": "SEC already flagged tokenization as high-risk for 2027 examinations; OKX-ICE plan faces major bank objections (Wells Fargo, Cisco, Marvell), setting stage for regulatory codification.",
+        "signal_source": "Cointelegraph (SEC flags tokenization as high-risk area in 2027 market examinations); CoinDesk (Wells Fargo, Cisco, Marvell objecting to OKX-ICE tokenized stock plan)"
       },
       {
-        "market_title": "Will Bitcoin volatility (realized) exceed Nasdaq-100 volatility on a 30-day rolling basis through August 2026?",
+        "market_title": "Will Trump administration's AI data center buildout face legislative blocking or state-level moratorium before November 2026 midterms?",
         "venue": "Polymarket",
-        "why_now": "CoinDesk flags Bitcoin volatility at 8x euro; AI security flaws and tariff chaos creating tail-risk hedge demand.",
-        "signal_source": "CoinDesk: Bitcoin's price is 8x more turbulent than euro; AI's Black October PHP flaws set off global scramble"
+        "why_now": "New CNBC survey shows broad voter opposition to nearby AI data centers; political risk crystallizes before midterm elections as Trump pushes massive AI buildout.",
+        "signal_source": "CNBC (Trump pushing massive AI buildout; new CNBC survey finds broad voter opposition to nearby AI data centers, creating political challenge ahead of midterm election)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the EUR/USD exchange rate close below 0.92 on June 30, 2026?",
-        "deadline": "2026-06-30",
-        "resolution_source": "ECB official EUR/USD fixing at 16:00 CET on June 30, 2026",
-        "why_underpriced": "French sovereign crisis narrative (Moody's holds rating but yields spike) is real but political consensus-building may cap downside; market underpricing policy response risk.",
-        "trigger_signal": "Moody's holds France Aa3 but yields hit 24-year highs; 70k+ police deployed for protests suggests escalation risk priced in only partially"
-      },
-      {
-        "question": "Will TikTok U.S. secure >2 gigawatts of committed computing capacity by December 31, 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "TikTok U.S. operator public filings, press releases, or credible third-party infrastructure reports documenting capacity commitments",
-        "why_underpriced": "Market assumes forced sale or exit; but if Trump administration tolerates TikTok via capacity/partnership deals, capex commitment signals long-term viability and bullish for chip/cloud stocks.",
-        "trigger_signal": "CNBC: TikTok U.S. sounding out opportunities for gigawatts of capacity over coming years—signals continuity planning, not liquidation"
-      },
-      {
-        "question": "Will the IRS implement lower tax disclosure penalties for crypto by June 30, 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "Official IRS guidance (Revenue Ruling or Notice) or Congressional law signed into effect lowering crypto-specific tax penalties",
-        "why_underpriced": "Regulatory relief narrative under-priced; crypto sector sees this as de facto legitimization, but traditional finance sees it as compliance erosion.",
-        "trigger_signal": "CoinTelegraph & Forbes: IRS plans lower tax disclosure penalties including for crypto—signals regulatory softening ahead of 2026 midterms"
-      },
-      {
-        "question": "Will Bitcoin/Ethereum ratio close above 35 on September 30, 2026?",
+        "question": "Will major U.S. airline (United, Delta, American) report capacity constraint from parts scarcity affecting >5% of fleet by end of Q3 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "CoinGecko or CoinMarketCap official BTC/ETH price ratio at 23:59 UTC on September 30, 2026",
-        "why_underpriced": "ETH faces Layer 2 competition and lower capex demand; BTC benefits from macro uncertainty and gold-like positioning; ratio likely to widen but market sentiment still favors ETH narrative.",
-        "trigger_signal": "CoinDesk: Bitcoin decoupled from midterm cycle; PHP security flaws boost demand for immutable ledgers (BTC advantage); hyperscaler capex pressure hits Ethereum demand"
+        "resolution_source": "Public earnings calls, SEC filings, and airline investor presentations disclosing fleet availability metrics.",
+        "why_underpriced": "Parts scarcity is systemic (engines, components) and accelerating early scraps; few markets capture airline supply-chain risk as discrete binary event.",
+        "trigger_signal": "CNBC reports airplanes dismantled for parts years ahead of schedule due to engine and component shortages; supply-demand imbalance not yet priced into airline valuations."
       },
       {
-        "question": "Will HSBC's stablecoin user base exceed 5 million active monthly users by March 31, 2027?",
-        "deadline": "2027-03-31",
-        "resolution_source": "HSBC official press release, quarterly earnings call, or regulatory filing disclosing active stablecoin user metrics",
-        "why_underpriced": "Legacy finance entering stablecoin space signals mainstream adoption inflection; market underprices likelihood of rapid TradFi ramp given 3M+ day-one users.",
-        "trigger_signal": "CNBC: HSBC rolls out first stablecoin to over 3 million everyday app users—TradFi adoption accelerating; tokenization flagged by SEC as high-risk 2027 area (implies regulatory spotlight = market growth)"
+        "question": "Will Amgen's lung-cancer combination drug (with AstraZeneca immunotherapy) achieve FDA breakthrough designation or accelerated approval by November 2026?",
+        "deadline": "2026-11-30",
+        "resolution_source": "FDA press releases, Amgen investor relations, ClinicalTrials.gov status updates.",
+        "why_underpriced": "58% risk-of-death reduction in aggressive lung cancer is massive efficacy signal; binary FDA milestone has not been securitized as standalone market.",
+        "trigger_signal": "CNBC reports Amgen drug combo cuts risk of death by 58% in aggressive lung cancer patients; clinical efficacy suggests expedited regulatory path."
+      },
+      {
+        "question": "Will Tether (USDT) face formal regulatory enforcement action or operational sanction from U.S. regulators before June 2027?",
+        "deadline": "2027-06-30",
+        "resolution_source": "U.S. Department of Justice, CFTC, FinCEN press releases, or SEC orders.",
+        "why_underpriced": "Cointelegraph reports U.S. senator probes Tether after deal with ex-Trump crypto adviser; regulatory scrutiny intensifying but stablecoin market pricing remains complacent.",
+        "trigger_signal": "Cointelegraph (US senator probes Tether after reported deal with ex-Trump crypto adviser); growing political and regulatory interest in USDT structure."
+      },
+      {
+        "question": "Will Starlink military/commercial service availability in Ukraine exceed 95% uptime for consecutive 30-day period by September 2026?",
+        "deadline": "2026-09-30",
+        "resolution_source": "SpaceX public statements, Ukrainian military operational reports, third-party satellite monitoring services.",
+        "why_underpriced": "Recent Starlink limits degraded Ukraine drone ops; binary uptime recovery milestone is material to SpaceX/Ukraine defensibility but underexplored as market.",
+        "trigger_signal": "BBC reports Starlink connection 'now stable' after network limits affecting Ukraine military and drone ops for one week; infrastructure resilience is live operational risk."
+      },
+      {
+        "question": "Will Bitcoin-denominated corporate treasury holdings by S&P 500 companies exceed $50B by December 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "SEC filings (10-K, 10-Q), company investor relations disclosures, Bloomberg aggregate corporate holdings data.",
+        "why_underpriced": "Berkshire Hathaway erased losses and hit all-time highs; Buffett narrative shift combined with mature investor behaviors (loans, yield strategies) suggest institutional adoption accelerating but not yet baked into corporate treasury-allocation markets.",
+        "trigger_signal": "CNBC (Berkshire shares hit new all-time highs after 18-month drawdown); CoinDesk (Bitcoin's wealthy holders turning to loans and yield as investment habits mature)."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long BTC, short EUR: Bitcoin benefits from tariff-induced USD strength and geopolitical uncertainty; France crisis forces capital reallocation to USD-denominated hard assets.",
-        "horizon": "60–120 days",
+        "thesis": "Geopolitical risk premium in crude oil and macro uncertainty will compress crypto valuations vs. equities through Q2 2026, creating tactical BTC/gold upside as safe-haven rotation.",
+        "horizon": "60–90 days",
         "supporting_signals": [
-          "Oil prices at 6-month high (inflationary backdrop favors BTC hedges)",
-          "France yields at 24-year highs (capital flight narrative)",
-          "Trump tariff replacement strategy (USD support from trade uncertainty)",
-          "Bitcoin holding $81K+ despite macro chop (constructive risk appetite)"
+          "CoinDesk: Crypto under weekend pressure, Bitcoin slides below $80K on U.S. Middle East evacuations.",
+          "CNBC: Iran threat warnings intensify ahead of midterms; American embassies tighten security.",
+          "Cointelegraph: Brent crude hits highest level since March; Bitcoin seeks support above $81K.",
+          "CNBC: French unrest and 24-year bond yield highs signal systemic credit stress."
         ],
-        "counter_view": "ECB tightens or France consensus-builds quickly, stabilizing EUR; Fed cuts rates earlier than expected, reducing USD carry premium.",
-        "expression": "Long BTC/USD spot or perps + Short EUR/USD (FX swap or currency-hedged foreign bond short)"
+        "counter_view": "Safe-haven flows may preferentially favor U.S. Treasuries and dollar strength (DXY rally), crowding out BTC as geopolitical hedge if U.S. is seen as safest harbor.",
+        "expression": "Long BTC/USD spot or June 2026 BTC perps; pair trade BTC vs. DXY (short DXY). Alt: Gold vs. BTC ratio (short GLD/BTC)."
       },
       {
-        "thesis": "Long NVDA, short semiconductor cap-equities ex-NVDA: Hyperscaler earnings disappointment will widen the Mag 7 divide; NVDA's Blackwell traction insulates from neomcloud capex pullback, but smaller-cap chip suppliers face inventory shock.",
-        "horizon": "45–90 days",
-        "supporting_signals": [
-          "CNBC: AI buildout turmoil, stock slumps, pulled IPOs, rising credit spreads point to capex cycle compression",
-          "Solidigm IPO pull (SSD capex weakness signal)",
-          "Hyperscaler earnings imminent (watch for guidance cuts)",
-          "NVDA historically resilient during consolidation phases"
-        ],
-        "counter_view": "Broader tech rout pulls NVDA down; rates spike on inflation fears, hitting all semiconductors indiscriminately.",
-        "expression": "Long NVDA call spreads (JUN 2026) + Short SMH (Semiconductor ETF) or short MU outright"
-      },
-      {
-        "thesis": "Long BTC volatility, short equity volatility (VIX): PHP security flaws + tariff chop + French unrest create idiosyncratic tail risks that compress equity vol but spike crypto vol as flight-to-safety hedge demand.",
-        "horizon": "30–60 days",
-        "supporting_signals": [
-          "CoinDesk: Bitcoin volatility 8x euro; AI Black October PHP flaws create binary tail risk",
-          "Robinhood surge in BTC/gold prediction markets (retail hedging)",
-          "Tariff replacement policy uncertainty driving directional ambiguity in stocks",
-          "France riots signal rising political risk premium in FX/bonds, not equities"
-        ],
-        "counter_view": "Equity vol spikes on rate surprise or crash risk; crypto vol compresses if adoption narrative gains (HSBC stablecoin, TikTok capex).",
-        "expression": "Long BTC put skew (buy 3M ATM-OTM puts) + Short VIX calls or go short VIX futures (CBOE futures market)"
-      },
-      {
-        "thesis": "Long gold and long BTC: Dual flight-to-safety hedge as France unrest, tariff uncertainty, and PHP security flaws create macro and tech tail risks; Fed policy ambiguity supports real-asset demand.",
+        "thesis": "Aerospace/aviation supply-chain stress (early aircraft scrapping, engine/parts scarcity) will drive outperformance in specialized parts OEMs and aftermarket suppliers through 2026–27.",
         "horizon": "90–180 days",
         "supporting_signals": [
-          "France bond yields spiking despite Moody's hold (policy panic signal)",
-          "Oil at 6-month highs (stagflation narrative building)",
-          "Robinhood reports gold prediction market surge alongside BTC (retail demand for hard assets)",
-          "Trump tariff policy creates inflation expectations; Fed faces dilemma"
+          "CNBC: Airplanes dismantled for parts years ahead of schedule because engines and components in short supply.",
+          "Implicit sector tailwind: Airlines forced into scarcity premium purchasing, supporting margin for Tier-1 and Tier-2 suppliers."
         ],
-        "counter_view": "Tariff fears recede post-midterms; Fed stays hawkish; risk-on sentiment crushes gold/BTC as growth concerns ease.",
-        "expression": "Long GLD (SPDR Gold ETF) + Long BTC spot or 3-month BTC/USD perpetual futures (leverage ~2-3x)"
+        "counter_view": "Supply chains normalize faster than expected; geopolitical easing reduces demand uncertainty; major OEMs (Rolls-Royce, Safran) expand output and compress pricing.",
+        "expression": "Long aerospace/defense ETF (ITA); tactical overweight Rolls-Royce or Safran ADR if European exposure desired. Alt: Long airline puts (sector hedges) if pair-trading into supply-chain plays."
       },
       {
-        "thesis": "Long USDC yield (staking or lending), short duration UST exposure: HSBC and legacy finance entering stablecoin ecosystem signals mainstream institutional adoption; yield competition will drive USDC spreads higher vs. short-term Treasuries as TradFi players capture basis.",
-        "horizon": "120–180 days",
+        "thesis": "SEC and regulatory push against tokenized securities (flagged as 2027 high-risk exam area; major bank objections to OKX-ICE) will compress near-term sentiment for crypto-finance infrastructure but create longer-dated regulatory clarity premium.",
+        "horizon": "90–180 days (tactical); 180–365 days (strategic)",
         "supporting_signals": [
-          "HSBC rolls out stablecoin to 3M+ users (TradFi entry signal)",
-          "SEC flags tokenization as high-risk 2027 examination area (implies regulatory framework emerging, legitimizing stablecoin yield)",
-          "Crypto tariff penalty reduction signals regulatory thaw",
-          "Franklin Templeton adds $150M XRP Ledger (institutional tokenized asset adoption)"
+          "Cointelegraph: SEC flags tokenization as high-risk area in 2027 market examinations.",
+          "CoinDesk & Cointelegraph: Wells Fargo, Cisco, Marvell objecting to OKX-ICE tokenized stock plan.",
+          "CoinDesk: U.S. Clarity Act failure gives Asia and Middle East competitive edge.",
+          "Cointelegraph: IRS plans lower tax disclosure penalties for crypto (regulatory softening signal)."
         ],
-        "counter_view": "Regulatory crackdown on stablecoin yields; USDC/USDT spreads compress as supply floods in; Fed raises short rates, crushing UST carry.",
-        "expression": "Long USDC via lending protocol (e.g., Aave, Compound) or staking pools; Short 3-6M US Treasury yields (TLT short or TBT long)"
+        "counter_view": "Regulatory crackdown accelerates and becomes punitive rather than clarifying; tokenization stalls entirely in U.S. market; offshore venues capture all flow.",
+        "expression": "Tactical short crypto infrastructure tokens (exchanges, settlement platforms); strategic long Ethereum ETF or Solana (beneficiary of offshore adoption). Alt: Long Hong Kong or Singapore crypto-friendly ETFs."
+      },
+      {
+        "thesis": "Biotech equity upside driven by Amgen lung-cancer drug efficacy (58% risk-of-death reduction) and Vanessa Trump cancer-free narrative will compress valuations in overleveraged neo-cloud infrastructure plays, creating sector rotation into healthcare.",
+        "horizon": "60–120 days",
+        "supporting_signals": [
+          "CNBC: Amgen drug combo cuts risk of death by 58% in aggressive lung cancer; breakthrough efficacy.",
+          "BBC: Vanessa Trump announces cancer-free status 6 months post-diagnosis; positive sentiment for oncology-adjacent narratives.",
+          "CNBC: Nvidia's role as AI financier faces first big test as neoclouds take market hit.",
+          "Implicit: Healthcare outperformance relative to mega-cap AI infrastructure."
+        ],
+        "counter_view": "Amgen drug approval timelines slip; neoclouds rebound on strong unit economics and continued capex cycles; sector rotation reverses.",
+        "expression": "Long XBI (Biotech ETF) or XLV (Healthcare) vs. short NVDA or Magnificent 7 tech. Alt: Long Amgen calls; pair vs. short Palantir or other AI infrastructure plays."
+      },
+      {
+        "thesis": "Mature bitcoin holder behavior (loans, yield strategies) and Berkshire narrative reset (all-time highs post-Buffett transition) will drive institutional adoption of BTC treasury strategies, creating sustained bid under $80K through mid-2026.",
+        "horizon": "90–180 days",
+        "supporting_signals": [
+          "CoinDesk: Bitcoin's wealthy holders turning to loans and yield as investment habits mature—Xapo CEO.",
+          "CNBC: Berkshire shares hit new all-time highs after 18-month drawdown; Buffett narrative narrative shift.",
+          "Implicit institutional acceptance of BTC as collateral and yield-generating asset class."
+        ],
+        "counter_view": "Yield-seeking BTC strategies compress as rates stay higher for longer; institutional adoption stalls if macro uncertainty persists; retail outflows dominate.",
+        "expression": "Long BTC spot or perpetual futures (June/July 2026 expiry); long MicroStrategy or GBTC as proxy for institutional BTC treasury adoption. Alt: Long USDC yield (lending) or staking derivatives to express mature holder thesis."
       }
     ]
   }
