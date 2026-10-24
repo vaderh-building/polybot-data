@@ -1,14 +1,7 @@
 {
-  "generated_at_utc": "2026-10-24T16:23:26.459947+00:00",
+  "generated_at_utc": "2026-10-24T22:48:30.760927+00:00",
   "live_signals": {
     "english_news": [
-      {
-        "source": "CNBC Top News",
-        "title": "Why popular airplanes are getting scrapped years early",
-        "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
-        "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-        "published": "Sat, 24 Oct 2026 15:18:30 GMT"
-      },
       {
         "source": "CNBC Top News",
         "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
@@ -18,10 +11,17 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-        "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
-        "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-        "published": "Sat, 24 Oct 2026 10:59:16 GMT"
+        "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+        "summary": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
+        "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+        "published": "Sat, 24 Oct 2026 19:57:24 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Why popular airplanes are getting scrapped years early",
+        "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+        "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+        "published": "Sat, 24 Oct 2026 15:18:30 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -32,10 +32,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-        "summary": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds.",
-        "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-        "published": "Sat, 24 Oct 2026 15:00:01 GMT"
+        "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+        "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+        "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+        "published": "Sat, 24 Oct 2026 20:38:30 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -46,17 +46,24 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-        "summary": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
-        "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-        "published": "Sat, 24 Oct 2026 15:44:53 GMT"
+        "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+        "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
+        "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+        "published": "Sat, 24 Oct 2026 10:59:16 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Berkshire shares shake the Buffett blues with new all-time highs",
-        "summary": "After almost 18 months, Berkshire Hathaway shares have entirely erased all the ground they lost in the wake of Warren Buffett's surprise announcement at the 2025 shareholders meeting that he would step down as CEO.",
-        "link": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
-        "published": "Sat, 24 Oct 2026 12:48:32 GMT"
+        "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
+        "summary": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds.",
+        "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
+        "published": "Sat, 24 Oct 2026 15:00:01 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 24 Oct 2026 21:09:27 GMT"
       },
       {
         "source": "BBC World",
@@ -64,6 +71,13 @@
         "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
         "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
         "published": "Sat, 24 Oct 2026 12:12:40 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+        "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+        "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 24 Oct 2026 17:21:42 GMT"
       },
       {
         "source": "BBC World",
@@ -82,16 +96,16 @@
       {
         "source": "BBC World",
         "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-        "summary": "The children were subsequently rescued from the water, police say.",
+        "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
         "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 24 Oct 2026 09:45:47 GMT"
+        "published": "Sat, 24 Oct 2026 17:11:56 GMT"
       },
       {
         "source": "BBC World",
         "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
         "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
         "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 24 Oct 2026 14:45:30 GMT"
+        "published": "Sat, 24 Oct 2026 19:12:51 GMT"
       },
       {
         "source": "BBC World",
@@ -99,20 +113,6 @@
         "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
         "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
         "published": "Sat, 24 Oct 2026 09:38:28 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-        "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 24 Oct 2026 09:46:53 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Australian MP's condition improves after alleged car attack",
-        "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-        "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 24 Oct 2026 01:55:15 GMT"
       },
       {
         "source": "CoinDesk",
@@ -160,7 +160,7 @@
         "source": "CoinDesk",
         "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
         "summary": "",
-        "link": "https://www.coindesk.com/",
+        "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
         "published": "Sat, 24 Oct 2026 14:00:00 +0000"
       },
       {
@@ -182,68 +182,62 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-        "summary": "score: 1474, comments: 238",
-        "link": "https://edjefferson.com/localwiki/",
-        "score": 1474
+        "title": "No signs of AI payoff outside the tech sector",
+        "summary": "score: 394, comments: 362",
+        "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "score": 394
       },
       {
         "source": "Hacker News",
-        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-        "summary": "score: 1018, comments: 623",
-        "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "score": 1018
+        "title": "Show HN: Steal My Bitcoin",
+        "summary": "score: 267, comments: 124",
+        "link": "https://stealmybitcoin.com/",
+        "score": 267
       },
       {
         "source": "Hacker News",
-        "title": "Today, we hacked what we'd set out to hack: the iPhone",
-        "summary": "score: 1018, comments: 637",
-        "link": "https://blog.calif.io/p/iphone",
-        "score": 1018
+        "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+        "summary": "score: 259, comments: 128",
+        "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+        "score": 259
       },
       {
         "source": "Hacker News",
-        "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-        "summary": "score: 449, comments: 153",
-        "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-        "score": 449
-      },
-      {
-        "source": "Hacker News",
-        "title": "OBS Studio 33",
-        "summary": "score: 342, comments: 114",
-        "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-        "score": 342
-      },
-      {
-        "source": "Hacker News",
-        "title": "Twelve years of distributed SQLite",
-        "summary": "score: 303, comments: 46",
-        "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-        "score": 303
-      },
-      {
-        "source": "Hacker News",
-        "title": "I Don't Understand Quantum Physics (2018)",
-        "summary": "score: 193, comments: 135",
+        "title": "I don't understand quantum physics (2018)",
+        "summary": "score: 256, comments: 188",
         "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-        "score": 193
+        "score": 256
       },
       {
         "source": "Hacker News",
-        "title": "Physicists trap a single antimatter particle for a month",
-        "summary": "score: 180, comments: 60",
-        "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-        "score": 180
+        "title": "Roku developer repositories moved from GitHub to GitLab",
+        "summary": "score: 227, comments: 151",
+        "link": "https://blog.roku.com/developer/gitlab-move",
+        "score": 227
+      },
+      {
+        "source": "Hacker News",
+        "title": "FreeDNS",
+        "summary": "score: 222, comments: 57",
+        "link": "https://freedns.afraid.org/",
+        "score": 222
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Goose Programming Language",
+        "summary": "score: 144, comments: 119",
+        "link": "https://aardappel.github.io/goose/",
+        "score": 144
+      },
+      {
+        "source": "Hacker News",
+        "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+        "summary": "score: 80, comments: 40",
+        "link": "https://missileer.watch",
+        "score": 80
       }
     ],
     "crypto_trending": [
-      {
-        "source": "CoinGecko Trending",
-        "title": "Universal High Income (UHI)",
-        "summary": "market cap rank: 517",
-        "link": "https://www.coingecko.com/en/coins/universal-high-income-2"
-      },
       {
         "source": "CoinGecko Trending",
         "title": "Hyperliquid (HYPE)",
@@ -252,21 +246,27 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Dacity Coin (DACITY)",
-        "summary": "market cap rank: 858",
-        "link": "https://www.coingecko.com/en/coins/dacity-coin-3"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Binance Super CZ (BSC)",
-        "summary": "market cap rank: 810",
+        "summary": "market cap rank: 770",
         "link": "https://www.coingecko.com/en/coins/binance-super-cz-2"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
+        "title": "Pearl (PEARL)",
+        "summary": "market cap rank: 91",
+        "link": "https://www.coingecko.com/en/coins/pearl-research"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Quantus (QTC)",
+        "summary": "market cap rank: 760",
+        "link": "https://www.coingecko.com/en/coins/quantus"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 115",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
@@ -276,9 +276,9 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 116",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Pump.fun (PUMP)",
+        "summary": "market cap rank: 50",
+        "link": "https://www.coingecko.com/en/coins/pump-fun"
       }
     ]
   },
@@ -287,128 +287,126 @@
       {
         "market_title": "Will Bitcoin close above $85,000 by end of June 2026?",
         "venue": "Polymarket",
-        "why_now": "Bitcoin slipped below $80K on Middle East evacuation fears; crude oil surge and macro uncertainty create volatility clustering around $80–85K resistance into Q2 2026.",
-        "signal_source": "CoinDesk (crypto under weekend pressure, BTC slides below $80K); Cointelegraph (Brent crude hits highest since March)"
+        "why_now": "BTC sliding below $80K on Middle East evacuation fears; oil hitting 2026 highs signals macro volatility risk that could trigger either flight-to-safety or geopolitical premium.",
+        "signal_source": "CoinDesk (Bitcoin slides below $80K on U.S. Middle East evacuations); Cointelegraph (Brent crude oil hits highest level since March)"
       },
       {
-        "market_title": "Will Nvidia's stock outperform S&P 500 by >10% through end of 2026?",
-        "venue": "Polymarket",
-        "why_now": "CNBC reports Nvidia's role as AI financier faces 'first big test' as neoclouds take market hits; sentiment split between growth thesis and outsized risk exposure.",
-        "signal_source": "CNBC (Nvidia's role as AI financier faces first big test; neoclouds take market hit)"
-      },
-      {
-        "market_title": "Will the Fed cut rates at least twice by December 2026?",
+        "market_title": "Will Powell cut Fed rates by 50+ basis points by December 2026?",
         "venue": "Kalshi",
-        "why_now": "France's bond yields hit 24-year highs amid unrest; geopolitical risk (Iran threat warnings, Ukraine Starlink limits, Middle East evacuations) and credit stress signal recession hedging priced into rate expectations.",
-        "signal_source": "CNBC (French unrest, bond yields 24-year high); CNBC (Iran advanced stages attack planning); BBC (Starlink connection instability affecting Ukraine ops)"
+        "why_now": "French bond yields at 24-year highs and broad unrest signaling eurozone fragility; US inflation and growth divergence creating conditions for easing debate.",
+        "signal_source": "CNBC (French unrest pushed bond yields to 24-year high)"
       },
       {
-        "market_title": "Will SEC formally designate tokenized securities as high-risk exam priority before July 2027?",
-        "venue": "Manifold",
-        "why_now": "SEC already flagged tokenization as high-risk for 2027 examinations; OKX-ICE plan faces major bank objections (Wells Fargo, Cisco, Marvell), setting stage for regulatory codification.",
-        "signal_source": "Cointelegraph (SEC flags tokenization as high-risk area in 2027 market examinations); CoinDesk (Wells Fargo, Cisco, Marvell objecting to OKX-ICE tokenized stock plan)"
-      },
-      {
-        "market_title": "Will Trump administration's AI data center buildout face legislative blocking or state-level moratorium before November 2026 midterms?",
+        "market_title": "Will Trump secure Democratic Senate seat in Alaska by January 2027?",
         "venue": "Polymarket",
-        "why_now": "New CNBC survey shows broad voter opposition to nearby AI data centers; political risk crystallizes before midterm elections as Trump pushes massive AI buildout.",
-        "signal_source": "CNBC (Trump pushing massive AI buildout; new CNBC survey finds broad voter opposition to nearby AI data centers, creating political challenge ahead of midterm election)"
+        "why_now": "Active lawsuits challenging Trump's certification efforts; narrow political window before year-end creates high information flow and liquidity.",
+        "signal_source": "CNBC (Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification)"
+      },
+      {
+        "market_title": "Will Nvidia stock outperform S&P 500 by >10% through December 2026?",
+        "venue": "Polymarket",
+        "why_now": "Nvidia taking on outsized AI financier risk as neoclouds take market hit; Trump AI buildout facing voter resistance creating downside scenario.",
+        "signal_source": "CNBC (Nvidia's role as AI financier faces first big test; Trump is pushing massive AI buildout, voters wary)"
+      },
+      {
+        "market_title": "Will SEC issue formal guidance on tokenized stocks by June 30, 2027?",
+        "venue": "Manifold",
+        "why_now": "SEC flagged tokenization as high-risk examination area for 2027; multiple major firms (Wells Fargo, Cisco, Marvell) objecting to OKX-ICE listings signals regulatory pressure building.",
+        "signal_source": "Cointelegraph (SEC flags tokenization as high-risk area in 2027 market examinations; Wells Fargo and five others object to OKX-ICE)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will major U.S. airline (United, Delta, American) report capacity constraint from parts scarcity affecting >5% of fleet by end of Q3 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Public earnings calls, SEC filings, and airline investor presentations disclosing fleet availability metrics.",
-        "why_underpriced": "Parts scarcity is systemic (engines, components) and accelerating early scraps; few markets capture airline supply-chain risk as discrete binary event.",
-        "trigger_signal": "CNBC reports airplanes dismantled for parts years ahead of schedule due to engine and component shortages; supply-demand imbalance not yet priced into airline valuations."
-      },
-      {
-        "question": "Will Amgen's lung-cancer combination drug (with AstraZeneca immunotherapy) achieve FDA breakthrough designation or accelerated approval by November 2026?",
-        "deadline": "2026-11-30",
-        "resolution_source": "FDA press releases, Amgen investor relations, ClinicalTrials.gov status updates.",
-        "why_underpriced": "58% risk-of-death reduction in aggressive lung cancer is massive efficacy signal; binary FDA milestone has not been securitized as standalone market.",
-        "trigger_signal": "CNBC reports Amgen drug combo cuts risk of death by 58% in aggressive lung cancer patients; clinical efficacy suggests expedited regulatory path."
-      },
-      {
-        "question": "Will Tether (USDT) face formal regulatory enforcement action or operational sanction from U.S. regulators before June 2027?",
-        "deadline": "2027-06-30",
-        "resolution_source": "U.S. Department of Justice, CFTC, FinCEN press releases, or SEC orders.",
-        "why_underpriced": "Cointelegraph reports U.S. senator probes Tether after deal with ex-Trump crypto adviser; regulatory scrutiny intensifying but stablecoin market pricing remains complacent.",
-        "trigger_signal": "Cointelegraph (US senator probes Tether after reported deal with ex-Trump crypto adviser); growing political and regulatory interest in USDT structure."
-      },
-      {
-        "question": "Will Starlink military/commercial service availability in Ukraine exceed 95% uptime for consecutive 30-day period by September 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "SpaceX public statements, Ukrainian military operational reports, third-party satellite monitoring services.",
-        "why_underpriced": "Recent Starlink limits degraded Ukraine drone ops; binary uptime recovery milestone is material to SpaceX/Ukraine defensibility but underexplored as market.",
-        "trigger_signal": "BBC reports Starlink connection 'now stable' after network limits affecting Ukraine military and drone ops for one week; infrastructure resilience is live operational risk."
-      },
-      {
-        "question": "Will Bitcoin-denominated corporate treasury holdings by S&P 500 companies exceed $50B by December 2026?",
+        "question": "Will Amgen's new lung cancer drug combo (with AstraZeneca immunotherapy) receive FDA approval by December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "SEC filings (10-K, 10-Q), company investor relations disclosures, Bloomberg aggregate corporate holdings data.",
-        "why_underpriced": "Berkshire Hathaway erased losses and hit all-time highs; Buffett narrative shift combined with mature investor behaviors (loans, yield strategies) suggest institutional adoption accelerating but not yet baked into corporate treasury-allocation markets.",
-        "trigger_signal": "CNBC (Berkshire shares hit new all-time highs after 18-month drawdown); CoinDesk (Bitcoin's wealthy holders turning to loans and yield as investment habits mature)."
+        "resolution_source": "FDA.gov approval announcements or official Amgen/AstraZeneca press release",
+        "why_underpriced": "Biotech markets often underprice binary efficacy news when phase data is positive (58% death risk reduction is significant); institutional investors may wait for full approval timeline while retail speculates early.",
+        "trigger_signal": "CNBC report on 58% mortality benefit creates initial momentum; resolution clarity by year-end is high confidence."
+      },
+      {
+        "question": "Will Starlink restore unrestricted military connectivity to Ukraine throughout 2026 without new Musk-imposed restrictions?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Official Ukraine Ministry of Defense statement or Starlink/SpaceX public statements on continued unrestricted service",
+        "why_underpriced": "Political risk around Musk's changing stance on Ukraine aid is directional but hard to price; market underestimates reputational cost of future restrictions.",
+        "trigger_signal": "Recent restoration followed by Trump's reported pressure on Musk creates binary fork in 2H 2026 trajectory; crypto/defense communities are tracking closely."
+      },
+      {
+        "question": "Will airframe component scarcity force retirement of 500+ commercial aircraft before 2030 (vs. historical 15-year depreciation)?",
+        "deadline": "2027-06-30",
+        "resolution_source": "International Air Transport Association (IATA) fleet reports or FAA/EASA retirement databases",
+        "why_underpriced": "Supply-chain fragility in aerospace is real but long-dated; materials/MU investors may not be pricing 2-3 year acceleration in single-aisle retirements.",
+        "trigger_signal": "CNBC reporting early airframe scrapping due to engine/component shortage signals structural shift, not cyclical disruption."
+      },
+      {
+        "question": "Will IRS lower crypto tax reporting penalties below current levels by October 31, 2026?",
+        "deadline": "2026-10-31",
+        "resolution_source": "IRS.gov official guidance or formal Treasury Department notice",
+        "why_underpriced": "Crypto community overweights regulatory risk; Forbes report on IRS penalty reduction is bullish signal but often missed by on-chain markets.",
+        "trigger_signal": "Cointelegraph (IRS plans lower tax disclosure penalties, including for crypto) + crypto compliance firms already positioning for 2026 softening."
+      },
+      {
+        "question": "Will Trump's proposed AI data center buildout face state/local rejection in >50% of announced locations by September 2026?",
+        "deadline": "2026-09-30",
+        "resolution_source": "State public utility commission filings, county zoning board minutes, or aggregated news reports from construction project trackers",
+        "why_underpriced": "CNBC survey shows broad voter opposition; local politics move slow but 2026 midterms create anti-incumbent window; semi/AI cap-ex investors not pricing execution risk.",
+        "trigger_signal": "CNBC voter survey + Trump's own political vulnerability before midterms = high likelihood of grassroots opposition materializing in filings."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Geopolitical risk premium in crude oil and macro uncertainty will compress crypto valuations vs. equities through Q2 2026, creating tactical BTC/gold upside as safe-haven rotation.",
-        "horizon": "60–90 days",
+        "thesis": "Oil and crypto are decoupling as flight-to-safety and geopolitical risk diverge; buy BTC on Middle East escalation narrative while shorting energy stocks.",
+        "horizon": "30-60 days",
         "supporting_signals": [
-          "CoinDesk: Crypto under weekend pressure, Bitcoin slides below $80K on U.S. Middle East evacuations.",
-          "CNBC: Iran threat warnings intensify ahead of midterms; American embassies tighten security.",
-          "Cointelegraph: Brent crude hits highest level since March; Bitcoin seeks support above $81K.",
-          "CNBC: French unrest and 24-year bond yield highs signal systemic credit stress."
+          "CoinDesk: Bitcoin slides below $80K on U.S. Middle East evacuations",
+          "Cointelegraph: Brent crude oil hits highest level since March (2026)",
+          "BTC weakness despite oil strength suggests macro deleveraging, not risk-on commodity play"
         ],
-        "counter_view": "Safe-haven flows may preferentially favor U.S. Treasuries and dollar strength (DXY rally), crowding out BTC as geopolitical hedge if U.S. is seen as safest harbor.",
-        "expression": "Long BTC/USD spot or June 2026 BTC perps; pair trade BTC vs. DXY (short DXY). Alt: Gold vs. BTC ratio (short GLD/BTC)."
+        "counter_view": "Traditional risk-off correlation reasserts if Fed signals sustained hawkishness; oil supply shocks could trigger BTC margin liquidations.",
+        "expression": "Long BTC perps 50x, short XLE (Energy ETF) 2:1 ratio"
       },
       {
-        "thesis": "Aerospace/aviation supply-chain stress (early aircraft scrapping, engine/parts scarcity) will drive outperformance in specialized parts OEMs and aftermarket suppliers through 2026–27.",
-        "horizon": "90–180 days",
+        "thesis": "Nvidia faces margin compression as AI capex reallocates away from mega-cloud buildout toward open-source and edge; trim NVDA, overweight MU (memory oligopoly survives longer).",
+        "horizon": "60-120 days",
         "supporting_signals": [
-          "CNBC: Airplanes dismantled for parts years ahead of schedule because engines and components in short supply.",
-          "Implicit sector tailwind: Airlines forced into scarcity premium purchasing, supporting margin for Tier-1 and Tier-2 suppliers."
+          "CNBC: Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+          "CNBC: Trump's AI buildout faces voter resistance, creating execution risk",
+          "Hacker News top discussion: No signs of AI payoff outside tech sector (362 comments)"
         ],
-        "counter_view": "Supply chains normalize faster than expected; geopolitical easing reduces demand uncertainty; major OEMs (Rolls-Royce, Safran) expand output and compress pricing.",
-        "expression": "Long aerospace/defense ETF (ITA); tactical overweight Rolls-Royce or Safran ADR if European exposure desired. Alt: Long airline puts (sector hedges) if pair-trading into supply-chain plays."
+        "counter_view": "Nvidia's financing arm absorbs margin pressure; H200 supercycle still intact; neocloud weakness is temporary consolidation.",
+        "expression": "Short NVDA calls (6mo, 150 strike), long MU calls (6mo, 140 strike)"
       },
       {
-        "thesis": "SEC and regulatory push against tokenized securities (flagged as 2027 high-risk exam area; major bank objections to OKX-ICE) will compress near-term sentiment for crypto-finance infrastructure but create longer-dated regulatory clarity premium.",
-        "horizon": "90–180 days (tactical); 180–365 days (strategic)",
+        "thesis": "SEC's 2027 tokenization enforcement pivot creates short-term headwind for tokenized stock platforms but long-term legitimacy; accumulate USDC yield and wait for 2027 guidance clarity.",
+        "horizon": "90-180 days",
         "supporting_signals": [
-          "Cointelegraph: SEC flags tokenization as high-risk area in 2027 market examinations.",
-          "CoinDesk & Cointelegraph: Wells Fargo, Cisco, Marvell objecting to OKX-ICE tokenized stock plan.",
-          "CoinDesk: U.S. Clarity Act failure gives Asia and Middle East competitive edge.",
-          "Cointelegraph: IRS plans lower tax disclosure penalties for crypto (regulatory softening signal)."
+          "Cointelegraph: SEC flags tokenization as high-risk area in 2027 market examinations",
+          "Cointelegraph: Wells Fargo and five others object to OKX-ICE tokenized stock listings (regulatory capture signal)",
+          "CoinDesk: McDonald's, Microsoft and Google saying no to tokenized stocks (adoption barrier, not terminal)"
         ],
-        "counter_view": "Regulatory crackdown accelerates and becomes punitive rather than clarifying; tokenization stalls entirely in U.S. market; offshore venues capture all flow.",
-        "expression": "Tactical short crypto infrastructure tokens (exchanges, settlement platforms); strategic long Ethereum ETF or Solana (beneficiary of offshore adoption). Alt: Long Hong Kong or Singapore crypto-friendly ETFs."
+        "counter_view": "SEC enforcement kills tokenized stock thesis entirely; traditional finance incumbents win by regulatory stalling.",
+        "expression": "USDC yield vaults (Aave/Compound), long 2027 crypto/fintech ETF (HASH or similar)"
       },
       {
-        "thesis": "Biotech equity upside driven by Amgen lung-cancer drug efficacy (58% risk-of-death reduction) and Vanessa Trump cancer-free narrative will compress valuations in overleveraged neo-cloud infrastructure plays, creating sector rotation into healthcare.",
-        "horizon": "60–120 days",
+        "thesis": "French fiscal unrest and eurozone fragility will force ECB rate cuts before Fed; buy EUR weakness now, front-run 50bps cut by Q3 2026.",
+        "horizon": "45-90 days",
         "supporting_signals": [
-          "CNBC: Amgen drug combo cuts risk of death by 58% in aggressive lung cancer; breakthrough efficacy.",
-          "BBC: Vanessa Trump announces cancer-free status 6 months post-diagnosis; positive sentiment for oncology-adjacent narratives.",
-          "CNBC: Nvidia's role as AI financier faces first big test as neoclouds take market hit.",
-          "Implicit: Healthcare outperformance relative to mega-cap AI infrastructure."
+          "CNBC: French unrest pushed bond yields to 24-year high; investors weigh budget, growth and sector risks",
+          "BBC: Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "Bond yield spike at 24-year high signals fiscal crisis, not cyclical tightening"
         ],
-        "counter_view": "Amgen drug approval timelines slip; neoclouds rebound on strong unit economics and continued capex cycles; sector rotation reverses.",
-        "expression": "Long XBI (Biotech ETF) or XLV (Healthcare) vs. short NVDA or Magnificent 7 tech. Alt: Long Amgen calls; pair vs. short Palantir or other AI infrastructure plays."
+        "counter_view": "ECB holds firm on inflation concerns; France finds political compromise without policy shift; EUR stabilizes.",
+        "expression": "Long DXY (inverse EUR), short EUO (EUR calls) 3-month expiry"
       },
       {
-        "thesis": "Mature bitcoin holder behavior (loans, yield strategies) and Berkshire narrative reset (all-time highs post-Buffett transition) will drive institutional adoption of BTC treasury strategies, creating sustained bid under $80K through mid-2026.",
-        "horizon": "90–180 days",
+        "thesis": "Bitcoin whales are maturing into yield-seeking behavior (loans/interest) while retail chases memecoins; BTC/altcoin ratio compresses, favoring PENGU, HYPE, and blue-chip alts over BTC spot.",
+        "horizon": "30-90 days",
         "supporting_signals": [
-          "CoinDesk: Bitcoin's wealthy holders turning to loans and yield as investment habits mature—Xapo CEO.",
-          "CNBC: Berkshire shares hit new all-time highs after 18-month drawdown; Buffett narrative narrative shift.",
-          "Implicit institutional acceptance of BTC as collateral and yield-generating asset class."
+          "CoinDesk: Bitcoin's wealthy holders turning to loans and yield as investment habits mature (Xapo CEO quote)",
+          "Crypto trending: PENGU, HYPE, BSC leading; retail momentum into Pump.fun",
+          "Sentiment: Retail rotation into riskier tokens as macro volatility subsides"
         ],
-        "counter_view": "Yield-seeking BTC strategies compress as rates stay higher for longer; institutional adoption stalls if macro uncertainty persists; retail outflows dominate.",
-        "expression": "Long BTC spot or perpetual futures (June/July 2026 expiry); long MicroStrategy or GBTC as proxy for institutional BTC treasury adoption. Alt: Long USDC yield (lending) or staking derivatives to express mature holder thesis."
+        "counter_view": "BTC dominance reasserts on geopolitical risk; whales de-risk into BTC, not yield vehicles; memecoins face regulatory crackdown.",
+        "expression": "Long ETH/BTC ratio, long PENGU and HYPE spot, short BTC spot (or reduce BTC core allocation)"
       }
     ]
   }
