@@ -1,20 +1,34 @@
 {
-  "generated_at_utc": "2026-10-25T22:57:30.991170+00:00",
+  "generated_at_utc": "2026-10-26T10:40:25.257106+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-        "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
-        "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
-        "published": "Sun, 25 Oct 2026 20:28:55 GMT"
+        "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+        "summary": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
+        "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+        "published": "Mon, 26 Oct 2026 10:13:01 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-        "summary": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
-        "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-        "published": "Sun, 25 Oct 2026 18:18:49 GMT"
+        "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+        "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+        "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+        "published": "Mon, 26 Oct 2026 08:05:28 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
+        "summary": "GOP Rep. Brian Fitzpatrick has consistently won his Pennsylvania swing seat, but Democrats say this election is an opportunity to oust the veteran lawmaker.",
+        "link": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
+        "published": "Mon, 26 Oct 2026 10:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+        "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
+        "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+        "published": "Mon, 26 Oct 2026 05:18:01 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -25,31 +39,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-        "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
-        "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-        "published": "Sat, 24 Oct 2026 11:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-        "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
-        "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-        "published": "Sun, 25 Oct 2026 14:14:23 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "Why popular airplanes are getting scrapped years early",
         "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
         "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
         "published": "Sat, 24 Oct 2026 15:18:30 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "America by the numbers: How voters feel about the economy, inflation, AI and Trump",
-        "summary": "With the U.S. midterm elections looming, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic.",
-        "link": "https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html",
-        "published": "Sat, 24 Oct 2026 10:58:30 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -59,11 +52,53 @@
         "published": "Sun, 25 Oct 2026 12:00:01 GMT"
       },
       {
+        "source": "CNBC Top News",
+        "title": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
+        "summary": "Jim Cramer remembers Cliff Mason, the head writer of \"Mad Money,\" who died last week at age 41.",
+        "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
+        "published": "Mon, 26 Oct 2026 00:28:36 GMT"
+      },
+      {
         "source": "BBC World",
-        "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+        "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
         "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
         "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 25 Oct 2026 22:54:57 GMT"
+        "published": "Mon, 26 Oct 2026 09:04:47 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 26 Oct 2026 05:20:19 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Australian murderer loses bid to eat Vegemite in prison",
+        "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+        "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 26 Oct 2026 04:05:28 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+        "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+        "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 26 Oct 2026 06:16:15 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+        "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+        "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 25 Oct 2026 23:33:19 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+        "summary": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
+        "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 26 Oct 2026 08:18:22 GMT"
       },
       {
         "source": "BBC World",
@@ -74,45 +109,59 @@
       },
       {
         "source": "BBC World",
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 25 Oct 2026 18:29:00 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-        "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 25 Oct 2026 09:00:00 GMT"
-      },
-      {
-        "source": "BBC World",
         "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
         "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
         "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
         "published": "Sun, 25 Oct 2026 15:32:51 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-        "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-        "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 25 Oct 2026 05:15:52 GMT"
+        "source": "CoinDesk",
+        "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+        "published": "Mon, 26 Oct 2026 10:33:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Gabon says access to social media restored after eight-month ban",
-        "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 25 Oct 2026 14:39:47 GMT"
+        "source": "CoinDesk",
+        "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+        "published": "Mon, 26 Oct 2026 09:14:47 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-        "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-        "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 25 Oct 2026 10:55:33 GMT"
+        "source": "CoinDesk",
+        "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+        "published": "Mon, 26 Oct 2026 07:18:24 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+        "published": "Mon, 26 Oct 2026 05:39:17 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+        "published": "Mon, 26 Oct 2026 05:15:20 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+        "published": "Mon, 26 Oct 2026 04:37:02 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+        "published": "Mon, 26 Oct 2026 03:11:39 +0000"
       },
       {
         "source": "CoinDesk",
@@ -122,294 +171,247 @@
         "published": "Sun, 25 Oct 2026 15:00:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
-        "published": "Sun, 25 Oct 2026 13:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-        "published": "Sat, 24 Oct 2026 16:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-        "published": "Sat, 24 Oct 2026 15:21:06 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-        "published": "Sat, 24 Oct 2026 15:11:24 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-        "published": "Sat, 24 Oct 2026 15:00:00 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-        "published": "Sat, 24 Oct 2026 14:38:47 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-        "published": "Sat, 24 Oct 2026 14:06:24 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png\" /></p><p>Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.</p>",
-        "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 25 Oct 2026 22:48:40 +0000"
+        "title": "Securitize’s tokenized stock value halves as Circle widens lead",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize’s tokenized stock value halves as Circle widens lead\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg\" /></p><p>SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equiti",
+        "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 26 Oct 2026 10:25:01 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "We should be more ambitious with the software we build",
-        "summary": "score: 731, comments: 672",
-        "link": "https://danluu.com/ambitious/",
-        "score": 731
-      },
-      {
-        "source": "Hacker News",
-        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-        "summary": "score: 354, comments: 179",
-        "link": "https://lynchlab.net/llm-skin-cancer",
-        "score": 354
-      },
-      {
-        "source": "Hacker News",
-        "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-        "summary": "score: 333, comments: 170",
-        "link": "https://talkweb.eu/openweb/4558/",
-        "score": 333
-      },
-      {
-        "source": "Hacker News",
-        "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-        "summary": "score: 317, comments: 81",
-        "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-        "score": 317
-      },
-      {
-        "source": "Hacker News",
         "title": "Dolly Parton's Imagination Library",
-        "summary": "score: 281, comments: 51",
+        "summary": "score: 551, comments: 95",
         "link": "https://imaginationlibrary.com/",
-        "score": 281
-      },
-      {
-        "source": "Hacker News",
-        "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-        "summary": "score: 125, comments: 50",
-        "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-        "score": 125
-      },
-      {
-        "source": "Hacker News",
-        "title": "Why I Am a Programmer",
-        "summary": "score: 82, comments: 14",
-        "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-        "score": 82
+        "score": 551
       },
       {
         "source": "Hacker News",
         "title": "Overgrown, when plants invade your abandoned tabs",
-        "summary": "score: 63, comments: 14",
+        "summary": "score: 285, comments: 100",
         "link": "https://charliegerard.dev/blog/overgrown-extension/",
-        "score": 63
+        "score": 285
+      },
+      {
+        "source": "Hacker News",
+        "title": "IBM CEO says open weight models are now good and cheap on-prem",
+        "summary": "score: 264, comments: 158",
+        "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "score": 264
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: TitleArt – Make text like it's 1997",
+        "summary": "score: 245, comments: 39",
+        "link": "https://titleart.dvy.io/",
+        "score": 245
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why I Am a Programmer",
+        "summary": "score: 237, comments: 73",
+        "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+        "score": 237
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: A Truly Modular Keyboard",
+        "summary": "score: 172, comments: 52",
+        "link": "https://github.com/notaroomba/keybytes",
+        "score": 172
+      },
+      {
+        "source": "Hacker News",
+        "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+        "summary": "score: 146, comments: 38",
+        "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+        "score": 146
+      },
+      {
+        "source": "Hacker News",
+        "title": "Behind the scenes at the NeXT Computer office",
+        "summary": "score: 126, comments: 60",
+        "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+        "score": 126
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "evmzone (EVMZONE)",
-        "summary": "market cap rank: 765",
-        "link": "https://www.coingecko.com/en/coins/evmzone"
+        "title": "Pudgy Penguins (PENGU)",
+        "summary": "market cap rank: 115",
+        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pepina (PEPINA)",
-        "summary": "market cap rank: 756",
-        "link": "https://www.coingecko.com/en/coins/pepina-2"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Dacity Coin (DACITY)",
-        "summary": "market cap rank: 965",
-        "link": "https://www.coingecko.com/en/coins/dacity-coin-3"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Quant (QNT)",
-        "summary": "market cap rank: 39",
-        "link": "https://www.coingecko.com/en/coins/quant"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "XRP (XRP)",
-        "summary": "market cap rank: 5",
-        "link": "https://www.coingecko.com/en/coins/xrp"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Ethena (ENA)",
-        "summary": "market cap rank: 38",
-        "link": "https://www.coingecko.com/en/coins/ethena"
+        "title": "Axis Robotics (AXIS)",
+        "summary": "market cap rank: 492",
+        "link": "https://www.coingecko.com/en/coins/axis-robotics"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pearl (PEARL)",
-        "summary": "market cap rank: 91",
+        "summary": "market cap rank: 94",
         "link": "https://www.coingecko.com/en/coins/pearl-research"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Quant (QNT)",
+        "summary": "market cap rank: 35",
+        "link": "https://www.coingecko.com/en/coins/quant"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Big Titty Coin (BTC)",
+        "summary": "market cap rank: 804",
+        "link": "https://www.coingecko.com/en/coins/big-titty-coin"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $85,000 by end of May 2026?",
+        "market_title": "Will Bitcoin close above $85,000 on June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "BTC slid below $80k on Middle East evacuation concerns; sharp recovery or continued weakness will clarify risk-off vs. macro resilience.",
-        "signal_source": "CoinDesk crypto market report, 2026-05-05"
+        "why_now": "Bitcoin slipped under $80k ahead of Fed meeting; Fed/ECB/BOJ decisions this week will set tone for Q2 macro risk-off/risk-on, and $85k is key resistance for institutional re-entry.",
+        "signal_source": "CoinDesk: Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting; Bitcoin ETFs broke 2-week outflow streak with $301M inflow"
       },
       {
-        "market_title": "Will Trump be convicted in any criminal trial before January 2027?",
-        "venue": "Polymarket",
-        "why_now": "Blanche defends Trump-ordered lawsuit over Alaska Senate election; legal proceedings remain in flux with high polling relevance for 2026 midterms.",
-        "signal_source": "CNBC Top News, 2026-05-05"
-      },
-      {
-        "market_title": "Will the ECB launch a digital euro pilot by end of 2026?",
-        "venue": "Manifold",
-        "why_now": "ECB official signals digital euro as sovereignty tool; EU regulatory momentum accelerating amid geopolitical fragmentation.",
-        "signal_source": "Cointelegraph, ECB digital euro sovereignty narrative"
-      },
-      {
-        "market_title": "Will Nvidia stock outperform the Nasdaq 100 through end of 2026?",
+        "market_title": "Will the S&P 500 fall more than 10% by September 30, 2026 if neocloud sector downturns accelerate?",
         "venue": "Kalshi",
-        "why_now": "Nvidia's role as AI financier faces first big test as neoclouds take market hit; risk of margin compression or customer defaults.",
-        "signal_source": "CNBC Top News, 2026-05-05"
+        "why_now": "Elon Musk's 'guppy-level death' warning for 200+ neoclouds, plus Calpers pulling back from big tech as AI jitters deepen; institutional capitulation signals are multiplying.",
+        "signal_source": "CNBC: Neocloud stocks fall as Elon Musk says more than 200 face 'guppy-level death'; CoinDesk: Calpers pulls back from big tech as AI jitters deepen neocloud sell-off"
       },
       {
-        "market_title": "Will U.S. unemployment exceed 4.5% by November 2026 midterm elections?",
+        "market_title": "Will Ethereum close above $3,500 by August 31, 2026?",
+        "venue": "Manifold",
+        "why_now": "Circle's tokenized dollar gains (Securitize halving means USDC dominance) and Solana's Hong Kong strategic enterprise designation signal emerging real-world blockchain adoption; macro Fed easing by summer could re-fuel ETH.",
+        "signal_source": "Cointelegraph: Securitize's tokenized stock value halves as Circle widens lead; Hong Kong names Nasdaq-listed Solana Company a strategic enterprise"
+      },
+      {
+        "market_title": "Will NVDA underperform SPY by more than 15% through December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Americans nearly as gloomy about economy as during pandemic emergence; recession fears tied to tariff uncertainty and regional instability.",
-        "signal_source": "CNBC America by the numbers survey, 2026-05-05"
+        "why_now": "Neocloud overcapacity warnings and SpaceX's $40B chip financing suggest capex cycles peak soon; NVDA is priced for perpetual AI growth despite slowing AI infrastructure ROI signals.",
+        "signal_source": "CoinDesk: Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips; CNBC: Investors questioning whether large AI infrastructure build-out will generate long-term returns"
+      },
+      {
+        "market_title": "Will the Fed cut rates by at least 50 bps by December 31, 2026?",
+        "venue": "Kalshi",
+        "why_now": "Oil sliding 2%+ on demand destruction fears, Brazil election uncertainty, and geopolitical risk (Saudi attacks, Israel, Serbia, Uganda/DR Congo) signal stagflation concerns; rate cuts likely by Q3.",
+        "signal_source": "CNBC: Oil slides over 2% as traders weigh Saudi attack risks, demand destruction; Oil prices fell as investors weighed threats against demand erosion"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the U.S. implement tariffs >15% on German auto imports by September 2026?",
-        "deadline": "2026-09-15",
-        "resolution_source": "U.S. Trade Representative official tariff schedule; USTR.gov published rates",
-        "why_underpriced": "Audi/VW defending $4B Georgia plant suggests tariff escalation priced in weakly; auto sector volatility high but binary outcome clear.",
-        "trigger_signal": "Audi CEO statement defending tariff-reduction strategy; ongoing Trump tariff rhetoric"
-      },
-      {
-        "question": "Will Starlink's commercial terms of service exclude military drone use by end of 2026?",
+        "question": "Will at least one major AI neocloud operator (valued >$1B) declare bankruptcy or seek emergency funding by December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Starlink published Terms of Service; SpaceX official communications",
-        "why_underpriced": "Musk-Ukraine dispute over drone operations is live; explicit policy change would signal major geopolitical shift in private infrastructure roles.",
-        "trigger_signal": "Musk says SpaceX restricted Ukraine's Starlink connection; Ukraine disputes military-use restrictions"
+        "resolution_source": "SEC filings, TechCrunch, Bloomberg terminal, Reuters; CEO public statements on bankruptcy proceedings or emergency capital raises",
+        "why_underpriced": "Musk's 'guppy-level death' comment for 200+ neoclouds is a public, measurable warning; market is pricing tail risk too low given CapEx debt overhang.",
+        "trigger_signal": "CoinDesk / CNBC: Neocloud stocks collapsing; investor doubts on ROI; Calpers de-risking; SpaceX $40B chip financing signals margin pressure industry-wide"
       },
       {
-        "question": "Will tokenized stock trading volume on regulated U.S. exchanges exceed $100M daily by June 2027?",
+        "question": "Will Circle's USDC stablecoin market cap exceed $50 billion by June 30, 2027?",
         "deadline": "2027-06-30",
-        "resolution_source": "SEC/FINRA trade data aggregators; ICE official reporting; Cboe volume statistics",
-        "why_underpriced": "Wells Fargo, Cisco, Marvell objections signal institutional friction, but regulatory path opening (Latvia 2027 tokenization rules); early-mover advantage real.",
-        "trigger_signal": "OKX-ICE tokenized stock objections; McDonald's, Microsoft, Google rejecting tokenization; Latvia targets 2027 tokenization rules"
+        "resolution_source": "CoinMarketCap, Messari on-chain data, Circle's official reports, blockchain explorers (Ethereum, Solana, Polygon USDC supply)",
+        "why_underpriced": "Securitize tokenized stock collapse signals USDC is winning in institutional tokenization; Hong Kong's Solana strategic designation + Latvia tokenization rules (2027) point to ecosystem expansion.",
+        "trigger_signal": "Cointelegraph: Securitize's tokenized stock value halves as Circle widens lead; Latvia targets tokenization rules in 2027"
       },
       {
-        "question": "Will the Federal Reserve cut rates below 4.0% by end of 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Federal Reserve FOMC published federal funds effective rate; Fed.gov historical rates",
-        "why_underpriced": "Economy gloomy but tariffs/geopolitical risk keep inflation narrative alive; Powell hawkish bias underappreciated in current betting.",
-        "trigger_signal": "CNBC survey shows voters as gloomy as post-pandemic; France protests over inequality/living costs; airplane scrapping signals supply-chain strain"
-      },
-      {
-        "question": "Will Ethereum's price exceed $3,500 by August 2026?",
+        "question": "Will Solana (SOL) close above $200 by August 31, 2026?",
         "deadline": "2026-08-31",
-        "resolution_source": "CoinMarketCap, Coinbase spot price feed; multiple exchange aggregates",
-        "why_underpriced": "Crypto under weekend pressure with BTC below $80k, but EU digital euro momentum and AI agent adoption (Hodler's Digest) could drive ETH recovery; ratio compression unlikely to persist.",
-        "trigger_signal": "BTC slides below $80k on Middle East evacuations; ECB digital euro narrative; AI agents rescuing blockchain projects"
+        "resolution_source": "CoinMarketCap, Binance, Kraken, official SOL price feeds",
+        "why_underpriced": "Hong Kong strategic enterprise designation is a major tailwind for adoption and institutional flows; market has not yet priced in regulatory legitimacy in Asia's top fintech hub.",
+        "trigger_signal": "Cointelegraph: Hong Kong names Nasdaq-listed Solana Company a strategic enterprise; Pudgy Penguins and other SOL tokens trending; SOL ecosystem momentum"
+      },
+      {
+        "question": "Will the U.S. 10-year Treasury yield fall below 3.5% by October 31, 2026?",
+        "deadline": "2026-10-31",
+        "resolution_source": "U.S. Treasury official data, CNBC, Bloomberg, Federal Reserve",
+        "why_underpriced": "Oil demand destruction + geopolitical uncertainty (Saudi, Israel, Serbia, Brazil unrest) should trigger flight-to-safety and yield compression; consensus is too hawkish.",
+        "trigger_signal": "CNBC: Oil slides 2%+ on demand destruction; geopolitical events (Brazil, Serbia, Israel, Uganda); de-risking across equities and crypto"
+      },
+      {
+        "question": "Will GPU/chip shortage indicators (spot prices for H100, A100) show >20% YoY decline by May 31, 2027?",
+        "deadline": "2027-05-31",
+        "resolution_source": "Lambda Labs GPU price index, TechPowerUp, CoreWeave pricing, Nvidia supply-chain commentary",
+        "why_underpriced": "Neocloud overcapacity and Musk's $40B SpaceX chip borrow suggests capex cycle peak; chip glut risk is underpriced in semiconductor stocks.",
+        "trigger_signal": "CoinDesk: Elon Musk warning on neocloud 'guppy-level death'; SpaceX $40B financing suggests capex finally peaking; CNBC: Investors doubting AI infrastructure ROI"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "U.S. Treasury yields will re-test 2024 lows (sub-3.5%) by Q3 2026 as midterm election recession fears and geopolitical fragmentation drive safe-haven demand.",
-        "horizon": "90-180 days",
+        "thesis": "Short NVDA / long SPY (or buy SPY puts vs NVDA calls) as AI capex cycle peaks and neocloud oversupply destroys chip demand growth by Q3 2026.",
+        "horizon": "3–6 months (peak by August 2026)",
         "supporting_signals": [
-          "CNBC survey: Americans nearly as gloomy about economy as post-pandemic emergence",
-          "Geopolitical escalation: Serbia election upset, Israel pivotal election, Venezuela opposition return, Middle East evacuations triggering crypto selloff",
-          "Airplanes scrapped years early—supply-chain stress signaling demand weakness",
-          "France protests over inequality/living costs across 410k participants—social pressure for fiscal stimulus, deflationary optics"
+          "Elon Musk warns 200+ neoclouds face 'guppy-level death' (CoinDesk, CNBC)",
+          "Calpers pulls back from big tech as AI jitters deepen (CoinDesk)",
+          "SpaceX borrows $40B for chips, suggesting capex finally peaking (CoinDesk)",
+          "Investors already questioning long-term ROI of AI infrastructure build-out (CNBC)"
         ],
-        "counter_view": "Tariff escalation (Audi defending $4B Georgia plant; Trump tariff rhetoric) reignites inflation fears, keeping yields elevated; Fed stays restrictive through midterms.",
-        "expression": "Long TLT (iShares 20+ Year Treasury ETF) or short 10Y yield via TYX futures; hedge with long USD (DXY) on concurrent safe-haven bid."
+        "counter_view": "AI capex may sustain longer than expected if OpenAI, Anthropic, or new labs announce megascale projects; enterprise adoption could accelerate faster than feared.",
+        "expression": "Short NVDA Jan 2027 calls vs. long SPY Jan 2027 calls (synthetic short bias); or outright NVDA underweight in a concentrated tech portfolio"
       },
       {
-        "thesis": "Nvidia's outperformance vs. Nasdaq 100 will reverse through end-2026 as neoclouds face margin compression and Nvidia's financier role exposes it to customer default risk.",
-        "horizon": "120-180 days",
+        "thesis": "Bitcoin and crypto assets rally into August 2026 as Fed cuts rates 50+ bps amid oil demand destruction and geopolitical de-risking, triggering institutional re-entry after neocloud capitulation.",
+        "horizon": "2–4 months (peak inflow by July–August 2026)",
         "supporting_signals": [
-          "CNBC: 'Nvidia's role as AI financier faces first big test as neoclouds take market hit'—explicit margin warning",
-          "Initia blockchain halt after $2.6M exploit—AI/infra project failures rippling upstream to chip capex assumptions",
-          "Wells Fargo, Cisco, Marvell objecting to tokenized stocks—enterprise software/chip ecosystem tension on cost visibility"
+          "Bitcoin ETFs broke 2-week outflow streak with $301M inflow (Cointelegraph)",
+          "Oil sliding 2%+ on demand destruction, signaling macro easing (CNBC)",
+          "Brazil, Serbia, Israel, Uganda crises suggest flight-to-safety and alternative asset rotation (BBC, CNBC)",
+          "Fed/ECB/BOJ decisions this week will set Q2 tone; rate cuts likely by summer (CoinDesk)"
         ],
-        "counter_view": "AI capex cycle structurally intact; Nvidia's financier role actually locks in demand; neoclould stumbles temporary, not systemic.",
-        "expression": "Short NVDA relative to QQQ (NVDA underweight in 3x levered inverse QQQ or synthetic long QQQ / short NVDA pair); or QQQ call spreads capped above current levels."
+        "counter_view": "Fed holds rates through 2026; neocloud crash triggers broader tech selloff and crypto correlation risk remains high; no institutional re-entry until 2027.",
+        "expression": "Long BTC (spot or June 2026 futures), long ETH, long SOL; or buy BTC ETF (IBIT, FBTC) as proxy for institutional inflow"
       },
       {
-        "thesis": "Bitcoin will stabilize above $82k and rebound toward $87k by end of May 2026 as Middle East evacuation panic reverses and U.S. midterm election tariff/stimulus expectations reset higher.",
-        "horizon": "7-30 days",
+        "thesis": "USDC (via Circle) outperforms competing stablecoins as enterprise tokenization accelerates; position via long Circle equity (if available) or via SOL/blockchain ecosystem plays tied to USDC adoption.",
+        "horizon": "12–18 months (through end of 2027)",
         "supporting_signals": [
-          "CoinDesk: BTC slid below $80k on evacuation fears—overshooting technical support",
-          "CNBC tariff stories (Audi, Trump-ordered lawsuits)—policy uncertainty priced into crypto risk premium; clarity bullish",
-          "ECB digital euro narrative—macro central bank blockchain adoption reducing regulatory tail risk"
+          "Securitize's tokenized stock value halves; Circle widens lead (Cointelegraph)",
+          "Hong Kong designates Solana Company as strategic enterprise (Cointelegraph)",
+          "Latvia targets tokenization rules in 2027, favoring established stablecoins (CoinDesk)",
+          "Institutional tokenization of bonds, equities, real estate expected to accelerate post-2026"
         ],
-        "counter_view": "Geopolitical risks (Israel election, Venezuela, Serbia power transitions) persist; risk-off capital flight to UST/USD accelerates.",
-        "expression": "Long BTC spot or BTC perpetual futures (long 10-30 day expiry); ladder entries on dip to $79k; or long BTC call spread (strike $83k / $88k, May 2026 expiry)."
+        "counter_view": "Regulatory crackdown on stablecoins in EU or US; competing CBDCs or Tether's market dominance persist; tokenization adoption remains niche.",
+        "expression": "Long SOL (benefits from USDC ecosystem adoption); long tokenized asset ETF if available; or long Circle preferred equity / secondary market positions"
       },
       {
-        "thesis": "U.S. Dollar Index (DXY) will trend toward 108+ by end-2026 as geopolitical fragmentation, Trump tariff escalation, and Fed hawkishness extend USD safe-haven premium despite domestic recession signals.",
-        "horizon": "120-180 days",
+        "thesis": "Rotation from mega-cap tech into commodity, energy, and defensive equities as neocloud capex cycle peaks and supply chain disruptions (aircraft dismantling for parts, chip glut) ripple through economy.",
+        "horizon": "2–6 months (peak by Q3 2026)",
         "supporting_signals": [
-          "Geopolitical upheaval: Serbia concedes to opposition, Israel pivotal election, Venezuela opposition returns, Middle East evacuations—capital flight to USD",
-          "Trump tariff defense (Audi $4B plant, Alaska lawsuit)—policy risk asymmetry favors USD on outcomes",
-          "ECB digital euro sovereignty pivot—EU capital controls/fragmentation optics support DXY near-term",
-          "Middle East evacuations trigger crypto liquidations—proxy for risk-off USD bid"
+          "Aircraft dismantled years early as engines, components in short supply (CNBC) — signals supply-chain stress, not growth",
+          "Oil demand destruction (CNBC) — stagflation risk rising",
+          "Neocloud sector capitulation (CNBC, CoinDesk) — capex cycle peaking",
+          "Audi defending $4B Georgia plant amid tariffs (CNBC) — industrial capex at risk"
         ],
-        "counter_view": "Tariff escalation sparks U.S. recession, forcing Fed easing and hurting USD real rates; DXY cycles lower to 104-106.",
-        "expression": "Long DXY (Invesco DB USD Index Bullish ETF or DXY futures); or long USD/EUR crosses via FXE inverse position; hedge with long gold (GLD) for inflation tail."
+        "counter_view": "Supply-chain tightness persists; aircraft shortage drives inflation; commodity upside limited by China slowdown; energy upside capped by renewable transition.",
+        "expression": "Long DBC (commodities ETF), XLE (energy), long gold or GLD; short QQQ or reduce NVDA / TSLA; rotate SPY into XLV (healthcare), XLU (utilities)"
       },
       {
-        "thesis": "Crypto regulatory arbitrage will favor EU-listed tokenized assets over U.S. equivalents through end-2026 as Latvia's 2027 tokenization rules signal regulatory clarity while U.S. objections (Wells Fargo, Cisco, Marvell) delay institutional adoption.",
-        "horizon": "180-240 days",
+        "thesis": "DXY (U.S. Dollar Index) weakens 5–8% by end of Q3 2026 as Fed cuts rates and geopolitical unrest (Brazil, Serbia, Israel, Middle East) triggers capital flight into USD alternatives and emerging market assets.",
+        "horizon": "3–5 months (bottom by August–September 2026)",
         "supporting_signals": [
-          "CoinDesk: Latvia targets tokenization rules in 2027 with commercial property focus—explicit regulatory pathway",
-          "CoinDesk/Cointelegraph: Multiple U.S. firms objecting to OKXICE tokenized stocks (Wells Fargo, Cisco, Marvell, McDonald's, Microsoft, Google)—institutional headwinds",
-          "Cointelegraph: ECB official sees digital euro as sovereignty key—EU regulatory momentum accelerating",
-          "UK banks facing 10k complaints over crypto restrictions—regulatory friction in major English-speaking market"
+          "Brazil, Serbia, Israel, Uganda crises creating geopolitical volatility (BBC, CNBC)",
+          "Oil demand destruction suggests Fed rate cuts imminent (CNBC)",
+          "Emerging market currencies (Brazil Real, Serbian Dinar) may see relief as political transitions stabilize",
+          "Oil prices falling despite Saudi attack risk = demand destruction narrative winning"
         ],
-        "counter_view": "U.S. SEC/CFTC resolve objections quickly; tokenization explodes on Nasdaq/NYSE; EU regulation lags in execution.",
-        "expression": "Overweight crypto/blockchain ETFs with EU exposure (e.g., EU-listed crypto indices); short U.S. tokenized stock adoption bets via short OKX stock or selective NVDA/MU short on chip-for-tokenization capex doubts."
+        "counter_view": "Fed holds rates; USD strength persists as safe haven; geopolitical shocks drive USD bid; emerging markets remain high-risk.",
+        "expression": "Short DXY (via EUO or direct FX shorts); long emerging market currencies (BRL, ZAR, INR) or emerging market equities (EEM); long gold as DXY hedge"
       }
     ]
   }
