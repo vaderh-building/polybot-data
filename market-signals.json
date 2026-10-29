@@ -1,83 +1,76 @@
 {
-  "generated_at_utc": "2026-10-29T00:32:44.468809+00:00",
+  "generated_at_utc": "2026-10-29T11:12:27.559037+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-        "summary": "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.",
-        "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-        "published": "Wed, 28 Oct 2026 22:07:17 GMT"
+        "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+        "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+        "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+        "published": "Thu, 29 Oct 2026 11:00:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Eli Lilly blows past estimates, hikes sales outlook on resilient Zepbound and Mounjaro demand",
+        "summary": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
+        "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+        "published": "Thu, 29 Oct 2026 10:56:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
+        "summary": "Burger King's U.S. restaurants outperformed, while Popeyes disappointed.",
+        "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+        "published": "Thu, 29 Oct 2026 10:33:14 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+        "summary": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
+        "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
+        "published": "Thu, 29 Oct 2026 07:35:45 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "It's a 'socialist' bank — and North Dakota Republicans love it",
+        "summary": "Democratic socialist candidates have held up North Dakota's state-owned bank as a model to emulate.",
+        "link": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+        "published": "Thu, 29 Oct 2026 10:00:01 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
+        "summary": "Merck's immunotherapy Keytruda, including a newer injectable form of the drug, showed stronger-than-expected sales.",
+        "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
+        "published": "Thu, 29 Oct 2026 11:08:18 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
+        "summary": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
+        "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+        "published": "Thu, 29 Oct 2026 11:04:27 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
         "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
         "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-        "published": "Wed, 28 Oct 2026 22:34:56 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-        "summary": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
-        "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-        "published": "Wed, 28 Oct 2026 21:31:46 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
-        "summary": "Any button that can be clicked can also be touched.",
-        "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
-        "published": "Wed, 28 Oct 2026 22:38:41 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-        "summary": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady.",
-        "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-        "published": "Wed, 28 Oct 2026 19:53:50 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-        "summary": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-        "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-        "published": "Wed, 28 Oct 2026 23:17:17 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-        "summary": "For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said.",
-        "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-        "published": "Wed, 28 Oct 2026 22:12:28 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-        "summary": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
-        "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
-        "published": "Wed, 28 Oct 2026 20:17:19 GMT"
+        "published": "Thu, 29 Oct 2026 06:03:35 GMT"
       },
       {
         "source": "BBC World",
-        "title": "High-speed train crash kills at least 68 people in Spain",
-        "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-        "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 28 Oct 2026 21:38:54 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-        "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-        "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 28 Oct 2026 21:24:41 GMT"
+        "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+        "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+        "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 29 Oct 2026 11:07:35 GMT"
       },
       {
         "source": "BBC World",
         "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
         "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
         "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 28 Oct 2026 23:21:48 GMT"
+        "published": "Thu, 29 Oct 2026 01:14:01 GMT"
       },
       {
         "source": "BBC World",
@@ -88,24 +81,17 @@
       },
       {
         "source": "BBC World",
-        "title": "How could Israel break election deadlock? Here are four scenarios",
-        "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-        "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 28 Oct 2026 14:30:31 GMT"
+        "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+        "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 29 Oct 2026 09:51:06 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Girl seriously injured in wolf attack at German wildlife park",
-        "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-        "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 28 Oct 2026 22:08:52 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-        "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-        "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 28 Oct 2026 10:31:22 GMT"
+        "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+        "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+        "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 28 Oct 2026 23:11:59 GMT"
       },
       {
         "source": "BBC World",
@@ -115,298 +101,310 @@
         "published": "Wed, 28 Oct 2026 21:16:30 GMT"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-        "published": "Wed, 28 Oct 2026 21:13:44 +0000"
+        "source": "BBC World",
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+        "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 29 Oct 2026 01:30:43 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 28 Oct 2026 19:15:58 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+        "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
-        "published": "Wed, 28 Oct 2026 19:01:53 +0000"
+        "link": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
+        "published": "Thu, 29 Oct 2026 11:11:25 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto isn’t a partisan fight, proven by data",
+        "title": "Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
         "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
-        "published": "Wed, 28 Oct 2026 18:11:31 +0000"
+        "link": "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
+        "published": "Thu, 29 Oct 2026 10:51:10 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Fed leaves interest rates unchanged, as expected",
+        "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
-        "published": "Wed, 28 Oct 2026 18:00:42 +0000"
+        "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
+        "published": "Thu, 29 Oct 2026 10:44:48 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+        "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
-        "published": "Wed, 28 Oct 2026 17:02:57 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+        "published": "Thu, 29 Oct 2026 10:41:39 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+        "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
         "summary": "",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
-        "published": "Wed, 28 Oct 2026 16:01:36 +0000"
+        "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+        "published": "Thu, 29 Oct 2026 10:04:36 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+        "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-        "published": "Wed, 28 Oct 2026 13:14:37 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
+        "published": "Thu, 29 Oct 2026 10:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
+        "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
-        "published": "Wed, 28 Oct 2026 12:59:36 +0000"
+        "link": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+        "published": "Thu, 29 Oct 2026 09:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "The chart bitcoin traders should be paying attention to",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+        "published": "Thu, 29 Oct 2026 07:44:44 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canadian ‘crypto king’ case to go to jury as criminal trial winds down \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canada.jpg\" /></p><p>Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.</p>",
-        "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 28 Oct 2026 21:35:52 +0000"
+        "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin long-term resistance in focus as analysis sees selling risk above $85K \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63M426NN1C8PGWZD4S269RJ/hi-how-bitcoin-empowers-the-unbanked-and-combats-injustice.jpg\" /></p><p>BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.</p>",
+        "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 29 Oct 2026 10:46:43 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Gemini 4 Carbon",
-        "summary": "score: 777, comments: 636",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-        "score": 777
-      },
-      {
-        "source": "Hacker News",
         "title": "Why is this fingerprinting script creating bioweapons?",
-        "summary": "score: 770, comments: 176",
+        "summary": "score: 1275, comments: 241",
         "link": "https://nullpt.rs/fingerprinting-bioweapons",
-        "score": 770
-      },
-      {
-        "source": "Hacker News",
-        "title": "Start Doing Graph Theory",
-        "summary": "score: 569, comments: 124",
-        "link": "https://vertex.degree/",
-        "score": 569
-      },
-      {
-        "source": "Hacker News",
-        "title": "MacBook Pro with PROLED XDR Display and Touch",
-        "summary": "score: 485, comments: 834",
-        "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-        "score": 485
+        "score": 1275
       },
       {
         "source": "Hacker News",
         "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-        "summary": "score: 402, comments: 195",
+        "summary": "score: 511, comments: 231",
         "link": "https://www.circuithub.com/post/unveiling-the-grid",
-        "score": 402
+        "score": 511
+      },
+      {
+        "source": "Hacker News",
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "summary": "score: 502, comments: 104",
+        "link": "https://divagr.com/blog/qwenputer",
+        "score": 502
+      },
+      {
+        "source": "Hacker News",
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "summary": "score: 494, comments: 414",
+        "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "score": 494
       },
       {
         "source": "Hacker News",
         "title": "CNC Stone Carving",
-        "summary": "score: 392, comments: 115",
+        "summary": "score: 478, comments: 131",
         "link": "https://carmelitegothic.com/cnc-stone-carving/",
-        "score": 392
+        "score": 478
       },
       {
         "source": "Hacker News",
-        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-        "summary": "score: 192, comments: 118",
-        "link": "https://surgehq.ai/blog/dayjob-tax",
-        "score": 192
+        "title": "Claude Code regularly sends each background agent’s transcript to its model",
+        "summary": "score: 406, comments: 149",
+        "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "score": 406
       },
       {
         "source": "Hacker News",
-        "title": "Formlabs Studio 1 $699 Resin Printer",
-        "summary": "score: 95, comments: 76",
-        "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-        "score": 95
+        "title": "A Health Update",
+        "summary": "score: 275, comments: 43",
+        "link": "https://furbo.org/2026/10/28/a-health-update/",
+        "score": 275
+      },
+      {
+        "source": "Hacker News",
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "summary": "score: 186, comments: 89",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "score": 186
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Pepe (PEPE)",
-        "summary": "market cap rank: 48",
-        "link": "https://www.coingecko.com/en/coins/pepe"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 110",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Hyperliquid (HYPE)",
+        "summary": "market cap rank: 11",
+        "link": "https://www.coingecko.com/en/coins/hyperliquid"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pearl (PEARL)",
-        "summary": "market cap rank: 94",
+        "summary": "market cap rank: 95",
         "link": "https://www.coingecko.com/en/coins/pearl-research"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 183",
-        "link": "https://www.coingecko.com/en/coins/pons"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Quantus (QTC)",
-        "summary": "market cap rank: 765",
-        "link": "https://www.coingecko.com/en/coins/quantus"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pump.fun (PUMP)",
+        "title": "Pepe (PEPE)",
         "summary": "market cap rank: 49",
-        "link": "https://www.coingecko.com/en/coins/pump-fun"
+        "link": "https://www.coingecko.com/en/coins/pepe"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 11",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
+        "title": "Axis Robotics (AXIS)",
+        "summary": "market cap rank: 797",
+        "link": "https://www.coingecko.com/en/coins/axis-robotics"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "BNB (BNB)",
+        "summary": "market cap rank: 4",
+        "link": "https://www.coingecko.com/en/coins/bnb"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "NEAR Protocol (NEAR)",
+        "summary": "market cap rank: 20",
+        "link": "https://www.coingecko.com/en/coins/near"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ethereum (ETH)",
+        "summary": "market cap rank: 2",
+        "link": "https://www.coingecko.com/en/coins/ethereum"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Microsoft Azure revenue growth exceed 45% in Q2 2026?",
+        "market_title": "Will Alphabet's stock outperform S&P 500 by >10% by end of 2026?",
         "venue": "Polymarket",
-        "why_now": "Microsoft just posted 48% Azure YoY growth; market pricing whether this can sustain or faces deceleration headwinds by mid-2026.",
-        "signal_source": "CNBC earnings beat; Azure momentum vs. Alphabet's capex miss signals divergence in AI investment ROI narratives"
+        "why_now": "Earnings miss on core search revenue signals AI disruption risk; market repricing Alphabet's moat could persist through 2026 if search resilience proves durable.",
+        "signal_source": "CNBC earnings report showing weaker-than-expected search revenue despite AI investments"
       },
       {
-        "market_title": "Will Alphabet announce increased 2026 capex guidance by July 2026?",
+        "market_title": "Will Bitcoin exceed $90,000 USD before 2026-12-31?",
+        "venue": "Polymarket",
+        "why_now": "BTC clinging to $80K with technical resistance cited above $85K; ETF inflows remain positive; macro backdrop (Fed policy, geopolitical risk) creating binary upside trigger.",
+        "signal_source": "CoinDesk technical analysis flagging $85K resistance; Bitcoin ETF flows tracking positive through May 2026"
+      },
+      {
+        "market_title": "Will ECB name Christine Lagarde's successor before 2027-02-01?",
         "venue": "Kalshi",
-        "why_now": "Alphabet held 2026 capex flat after missing earnings; market now pricing probability of guidance reversal as competitive AI pressure mounts.",
-        "signal_source": "CNBC Alphabet earnings miss; contrasts with Microsoft beat—signals capex race tightening in 2026"
+        "why_now": "Lagarde's departure confirmed for February 2027; markets will price EUR, EUR/USD, and eurozone yields on succession clarity; naming likely 6–9 months ahead.",
+        "signal_source": "Cointelegraph / Eurozone policy: ECB President Christine Lagarde to step down February 2027"
       },
       {
-        "market_title": "Will the Fed cut rates at least once by December 2026?",
-        "venue": "Polymarket",
-        "why_now": "Fed just held steady but bond trader Jeff Gundlach publicly questioned 'What are you waiting for?'; 10-year yields rising despite pause signals market confusion on policy path.",
-        "signal_source": "CNBC Fed decision coverage; Gundlach commentary on Closing Bell; 10-year yield movement despite unchanged rates"
-      },
-      {
-        "market_title": "Will DoorDash-Instacart deal close at $17B+ valuation by Q3 2026?",
+        "market_title": "Will Eli Lilly's stock price exceed 2026-05-01 close by >15% on 2026-12-31?",
         "venue": "Manifold",
-        "why_now": "Deal announcement expected imminently (May 2026); regulatory uncertainty and deal structure pricing create active debate around final valuation.",
-        "signal_source": "CNBC exclusive reporting; M&A activity in consumer delivery sector; regulatory scrutiny on DoorDash"
+        "why_now": "Zepbound and Mounjaro demand surge continues to beat estimates; obesity/diabetes narrative remains structurally bullish; stock repricing on revenue durability risk.",
+        "signal_source": "CNBC earnings: Eli Lilly hikes sales outlook driven by obesity and diabetes drug strength"
       },
       {
-        "market_title": "Will Bitcoin break above $70,000 by end of Q2 2026?",
-        "venue": "Polymarket",
-        "why_now": "CoinDesk reports price bounce rejected at 50-day trendline pre-FOMC; Fed pause decision now in rearview creates clarity for directional bets.",
-        "signal_source": "CoinDesk technical analysis; Fed rate decision clarity; blockchain infrastructure news (DTCC tokenization push)"
+        "market_title": "Will Microsoft Azure exceed 50% YoY growth through 2026 Q2?",
+        "venue": "Manifold",
+        "why_now": "48% growth in Azure already beat Q1 2026; AI workloads accelerating; market needs confirmation that growth sustains as competition from Alphabet/AWS tightens.",
+        "signal_source": "CNBC: Microsoft stock jumps 4% on 48% Azure revenue growth beating expectations"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Chipotle same-store sales growth rate increase YoY in Q2 2026?",
-        "deadline": "2026-07-31",
-        "resolution_source": "Chipotle quarterly earnings report filed with SEC",
-        "why_underpriced": "CEO Boatwright's statement that low-income cohort outperformed high-income for first time this year signals demand resilience not yet priced into consensus; consumer health indicator for macro traders.",
-        "trigger_signal": "Chipotle +7% pop on earnings; low-income consumer outperformance is contra-recession signal rarely highlighted in prediction markets"
-      },
-      {
-        "question": "Will the DTCC successfully settle $1T+ in tokenized securities on blockchain by end of Q3 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "DTCC public announcement and settlement volume reports; major bank participation confirmations",
-        "why_underpriced": "CoinDesk reports major banks working with DTCC to bring $30T securities closer to blockchain; this infrastructure inflection is under-bet despite immense systemic importance.",
-        "trigger_signal": "JPMorgan, Coca-Cola, Dell public rejections of OKX-ICE plan signal schism—real adoption likely follows DTCC path, not alt platforms"
-      },
-      {
-        "question": "Will Bitcoin back any mortgage product in Canada reach $500M+ in originations by June 2026?",
-        "deadline": "2026-06-30",
-        "resolution_source": "Canadian financial regulator OSFI filings; lender disclosure; CoinDesk tracking",
-        "why_underpriced": "CoinDesk flags Bitcoin-backed mortgages coming to Canada with borrower cost opacity; novel financial product with immense upside if adoption accelerates.",
-        "trigger_signal": "CoinDesk article signals lenders entering market; unaware borrowers + rising BTC price = explosive origination growth likely before year-end"
-      },
-      {
-        "question": "Will Ethereum outperform Bitcoin (ETH/BTC ratio) by more than 15% by December 2026?",
+        "question": "Will Hyperliquid (HYPE) perpetual futures receive regulatory approval to trade on a U.S. exchange by 2026-12-31?",
         "deadline": "2026-12-31",
-        "resolution_source": "CoinGecko or CMC spot price feeds; verified via Gemini or Kraken APIs",
-        "why_underpriced": "Microsoft Azure growth beat vs. Alphabet capex miss suggests AI narrative favors Ethereum layer-2 scaling + DeFi over pure BTC store-of-value; ratio play captures this shift.",
-        "trigger_signal": "Tech earnings divergence (MSFT +4%, GOOG -10%); Gemini 4 Carbon AI hype on HN; blockchain infrastructure buildout accelerating per DTCC news"
+        "resolution_source": "SEC/CFTC official approval notices; NYSE, CME, or Cboe product launch announcement",
+        "why_underpriced": "NYSE owner (ICE) is actively moving to bring Hyperliquid perps to U.S.; regulatory pathways for spot and futures are clearing; market hasn't priced full approval odds.",
+        "trigger_signal": "CoinDesk: NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S."
       },
       {
-        "question": "Will U.S. 10-year Treasury yield exceed 4.5% by August 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "U.S. Department of Treasury official daily yield data; TradingView confirmation",
-        "why_underpriced": "CNBC reports yields creeping higher despite Fed hold; Gundlach's public hawkishness on rates suggests bond market pricing further tightening than consensus.",
-        "trigger_signal": "Divergence between Fed inaction and rising yields; inflation narrative + capex spending (Alphabet, Microsoft) supports upside on rates"
+        "question": "Will the ECB's new president (post-Lagarde) signal a net dovish pivot (rate cut or QE restart) within 90 days of taking office on 2027-03-01?",
+        "deadline": "2027-06-01",
+        "resolution_source": "ECB press releases, monetary policy decisions, and inaugural press conference transcripts",
+        "why_underpriced": "Lagarde's exit opens door for policy regime shift; successor unknown; markets currently pricing in higher-for-longer in EU; dovish signal would trigger EUR repricing and risk-on equities.",
+        "trigger_signal": "Confirmed February 2027 departure creates vacuum; market timing uncertainty on successor identity and stance"
+      },
+      {
+        "question": "Will Bitcoin's market cap exceed Ethereum's by >3x by 2026-12-31?",
+        "deadline": "2026-12-31",
+        "resolution_source": "CoinMarketCap, CoinGecko official market-cap data (closing prices 2026-12-31 16:00 UTC)",
+        "why_underpriced": "BTC/ETH ratio and market-cap ratio are cyclical; current macro backdrop (deflationary risk, DeFi/AI narrative split) creates basis for BTC dominance; Ethereum base fee burns reduce supply-side edge.",
+        "trigger_signal": "ETH staking, Solana competition, and AI hype rotation toward BTC as macro hedge"
+      },
+      {
+        "question": "Will S&P 500 (SPY) close above 5,500 on 2026-12-31?",
+        "deadline": "2026-12-31",
+        "resolution_source": "CME SPY futures settlement or official closing price from NYSE",
+        "why_underpriced": "Alphabet miss signals AI margin compression risk; Microsoft Azure beat shows cloud resilience; macro uncertainty (Fed pivot timing, geopolitical) creates wide confidence interval that markets aren't fully pricing.",
+        "trigger_signal": "Mixed megacap earnings (GOOG miss, MSFT beat, Merck/Eli Lilly strength) suggest sector rotation volatility through H2 2026"
+      },
+      {
+        "question": "Will Robinhood (HOOD) close the year 2026 at a >20% premium to 2026-05-05 close following Cathie Wood ARK's largest purchase in 6 months?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Official closing price from NASDAQ on 2026-12-31",
+        "why_underpriced": "ARK large accumulation signals conviction; retail trading volume tailwinds (crypto, memecoins, fractional shares); valuation multiple expansion if profitability compounds; downside: regulatory scrutiny on PFOF model.",
+        "trigger_signal": "CoinDesk: Cathie Wood ARK buys the dip on Robinhood (HOOD) in largest purchase in 6 months after 23% slump"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long Microsoft (MSFT) / Short Alphabet (GOOG) on AI capex ROI divergence and cloud growth momentum gap widening through Q3 2026.",
-        "horizon": "60–90 days",
+        "thesis": "Long Azure/cloud growth (MSFT) into H2 2026; short Alphabet search (GOOG) on margin compression; pair trade hedges AI capex winner-vs.-loser narrative.",
+        "horizon": "3-6 months",
         "supporting_signals": [
-          "CNBC: MSFT beats with 48% Azure growth vs. GOOG's first multi-year miss",
-          "GOOG holds 2026 capex flat, signals confidence erosion; MSFT signals capex acceleration into cloud",
-          "Alphabet-specific miss on earnings and revenue after four-year dry spell = sentiment inflection"
+          "CNBC: Microsoft 48% Azure growth beats estimates; stock jumps 4%",
+          "CNBC: Alphabet earnings miss reflects AI taking bite out of search revenue"
         ],
-        "counter_view": "Alphabet's flat 2026 capex could be disciplined capital allocation; 2027 capex surge may prove more accretive than market prices; GOOG's AI moat (Gemini, search dominance) remains intact.",
-        "expression": "Long 100 MSFT shares / Short 100 GOOG shares (or ratio call spread: buy MSFT call, sell GOOG call, same strike, same expiry Aug 2026)"
+        "counter_view": "Alphabet's AI moat (Gemini, search integration) may re-accelerate by H2 2026; regulatory risk on Microsoft cloud dominance could cap upside.",
+        "expression": "Long XLK (tech sector ETF) or MSFT call spreads; short GOOG or buy put spread; or MSFT/GOOG ratio pairs trade"
       },
       {
-        "thesis": "Long U.S. duration (10-year Treasury) as Fed hawkish surprise risk and capex cycle signal retreat in aggregate demand by Q3 2026.",
-        "horizon": "30–120 days",
+        "thesis": "Long Bitcoin as macro hedge into FX volatility (EUR downside on Lagarde exit, USD strength) and geopolitical tail risk (Putin-Musk Starlink talks); BTC spot or futures outperform risk assets.",
+        "horizon": "2-4 months",
         "supporting_signals": [
-          "CNBC: 10-year yield rising *despite* Fed hold steady; bond market pricing tightening cycle",
-          "Gundlach (DoubleLine) publicly questions Fed's pause—major fixed-income voice signaling inflection",
-          "Alphabet capex miss + GOOG earnings miss = macro demand warning; duration rally likely"
+          "CoinDesk: Bitcoin clings to $80K; technical resistance at $85K signals volume & volatility clustering",
+          "English & CNBC: Putin praises Musk, Russia develops Starlink alternative (geopolitical bifurcation narrative)",
+          "Cointelegraph: ECB President Lagarde stepping down February 2027 (FX regime uncertainty)"
         ],
-        "counter_view": "Capex spending by MSFT, NVDA, and hyperscalers will sustain inflation; Fed eventually forced to hike; rates stay sticky higher into 2027.",
-        "expression": "Long TLT (20+ year Treasury ETF) or sell 10Y TY futures; target 30–50 bps duration rally by July 2026"
+        "counter_view": "BTC correlation to equity risk-off may weaken if Fed cuts rates faster than expected; regulatory crackdown (U.S. stablecoin rules) could suppress adoption tailwinds.",
+        "expression": "Long BTC spot or BTC/USD perpetuals on Bybit/Binance; or long BTC vs. short SPY pairs trade; or long GBTC/grayscale if spot premium exists"
       },
       {
-        "thesis": "Long Bitcoin as hedge against Fed pause cycle and geopolitical uncertainty (Israel election deadlock, Brazil political chaos) driving flight-to-scarcity asset demand.",
-        "horizon": "45–120 days",
+        "thesis": "Long obesity/diabetes pharma sector (LLY, others) through 2026; GLP-1 agonist demand remains structurally bullish despite near-term valuation; Eli Lilly sales momentum persists.",
+        "horizon": "6-12 months",
         "supporting_signals": [
-          "CoinDesk: BTC price bounce tested 50-day trendline; Fed clarity now removes policy shock risk",
-          "CBC: Bitcoin-backed mortgages entering Canada—institutional adoption inflection signal",
-          "Geopolitical fragmentation (Israel election impasse, Brazil political uncertainty per BBC) = macro risk asset re-pricing upward"
+          "CNBC: Eli Lilly blows past estimates, hikes sales outlook on Zepbound/Mounjaro resilience",
+          "Merck Keytruda injectable form shows strength; immunotherapy adoption accelerating"
         ],
-        "counter_view": "BTC rejection at 50-day trendline suggests supply resistance; capex cycle slowdown (Alphabet miss) could deflate inflation hedging narrative; regulatory headwinds remain.",
-        "expression": "Long BTC spot via Coinbase Prime or Long IBIT (iShares Bitcoin ETF) with 6-month horizon; target $72K–$75K by August 2026"
+        "counter_view": "Eli Lilly stock may be fully priced on GLP-1 tailwinds; generic competition (semaglutide copies) pressures margins post-2027; insurance reimbursement capping patient access.",
+        "expression": "Long LLY stock or calls; or long healthcare ETF (XLV) with LLY overweight; or pairs trade long LLY vs. short defensive healthcare (UnitedHealth, CVS) if sector rotation risk"
       },
       {
-        "thesis": "Long consumer discretionary (XLY, Chipotle CMG specifically) as low-income cohort outperformance signals demand resilience and disinflationary wage dynamics into H2 2026.",
-        "horizon": "60–180 days",
+        "thesis": "Long Solana (SOL) and memecoin ecosystem (PEPE, NEAR) into second half 2026 on validator/network resilience (Solflare incident contained) and DeFi protocol composability emerging as Ethereum alternative; ETH/SOL ratio downside.",
+        "horizon": "1-3 months",
         "supporting_signals": [
-          "CNBC: Chipotle CEO reports low-income consumers outperformed high-income cohort for first time this year",
-          "CMG +7% pop on earnings = market re-pricing consumer health upward",
-          "Fed pause signals no shock hikes; wage growth likely sustains low-income demand"
+          "CoinDesk: Solflare pledges to pay missed staking rewards; validator incident resolved, confidence restored",
+          "Hacker News: RISC-V CPU, PCB factory automation highlight on-chain compute narrative; Solana ecosystem infrastructure improving",
+          "Crypto trending: SOL, NEAR, PEPE all in top movers; retail attention concentrated"
         ],
-        "counter_view": "Low-income outperformance is cyclical bounce, not structural; high-income consumer retrenchment (wealth effect from equity pullback) will dominate; recessionary risk remains.",
-        "expression": "Long CMG calls (3–6 month, ATM or slightly OTM) or Long XLY (Consumer Discretionary ETF); pair with short XLF (Financials) to hedge rate risk"
+        "counter_view": "Solana network stability remains perception risk vs. Ethereum's proven uptime; memecoin bubble burst could cascade into SOL downside; regulatory scrutiny on decentralized validators.",
+        "expression": "Long SOL/USDC or SOL/USDT spot; long NEAR; or long SOL vs. short ETH pairs trade; or SOL leverage on Hyperliquid (once U.S. approval likely)"
       },
       {
-        "thesis": "Long Ethereum (ETH) / Short memecoin exposure (PEPE, PENGU trending on Crypto) as institutional adoption (DTCC, blockchain infrastructure) drives flight to quality in crypto asset class by Q2–Q3 2026.",
-        "horizon": "30–90 days",
+        "thesis": "Short DXY (U.S. Dollar Index) into Q3 2026 on ECB regime uncertainty (Lagarde exit, potential dovish successor) and Trump geopolitical volatility (Iran peace talk downplay, military restructuring); USD weakness supports commodity and EM FX.",
+        "horizon": "3-6 months",
         "supporting_signals": [
-          "CoinDesk: DTCC bringing $30T securities closer to blockchain; JPMorgan, Coca-Cola, Dell backing real infrastructure",
-          "Hacker News: Gemini 4 Carbon (AI-on-chain) narrative gaining traction; AI agents entering blockchain ecosystem",
-          "Memecoin volatility spiking (PEPE, PENGU, PONS, QTC trending) = retail euphoria signal before institutional flight-to-quality"
+          "CNBC: Hegseth fires U.S. military strategist; Trump downplays Iran peace talks (geopolitical uncertainty)",
+          "Cointelegraph: ECB Lagarde stepping down February 2027 (EUR vol setup)",
+          "BBC: Netanyahu election results signal regional instability; Flávio Bolsonaro fleeing Brazil (EM political risk)"
         ],
-        "counter_view": "Memecoin rallies often precede broader crypto bull runs; PEPE/PENGU strength signals sustained retail demand; ETH may consolidate vs. outperform.",
-        "expression": "Long ETH spot via Kraken/Gemini + Sell 3-month PEPE call spreads; or Long ETHPERP on Hyperliquid (HYPE is trending) with 2–3x leverage; target ETH $2,800–$3,100 by August 2026"
+        "counter_view": "Fed tightening bias could resurface if inflation re-accelerates; safe-haven flows into USD on geopolitical escalation (Iran, Middle East); DXY technical support could hold.",
+        "expression": "Short DXY futures (ICE/NYBOT); long EUR/USD; or long gold/GLD as USD hedge; or long EM FX basket (EEM or FXI)"
       }
     ]
   }
