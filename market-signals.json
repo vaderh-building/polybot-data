@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T00:17:08.908818+00:00",
+  "generated_at_utc": "2026-10-31T10:40:54.270464+00:00",
   "live_signals": {
     "english_news": [
       {
@@ -25,20 +25,6 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-        "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
-        "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-        "published": "Fri, 30 Oct 2026 16:55:41 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
-        "summary": "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.",
-        "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
-        "published": "Fri, 30 Oct 2026 18:32:17 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
         "summary": "Meta has been given a negative outlook by S&amp;P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow.",
         "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
@@ -46,24 +32,38 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
-        "summary": "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.",
-        "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
-        "published": "Fri, 30 Oct 2026 21:45:52 GMT"
+        "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+        "summary": "CNBC examines unusual price spikes in election prediction markets and how low-volume contracts can be moved by relatively small trades.",
+        "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+        "published": "Fri, 30 Oct 2026 22:00:53 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
-        "summary": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples.",
-        "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
-        "published": "Fri, 30 Oct 2026 22:52:04 GMT"
+        "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+        "summary": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
+        "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+        "published": "Sat, 31 Oct 2026 06:00:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+        "summary": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
+        "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+        "published": "Fri, 30 Oct 2026 19:27:03 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+        "summary": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
+        "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+        "published": "Fri, 30 Oct 2026 20:02:45 GMT"
       },
       {
         "source": "BBC World",
         "title": "US approves sale of 500 Patriot missiles to Ukraine",
         "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
         "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 30 Oct 2026 22:20:52 GMT"
+        "published": "Sat, 31 Oct 2026 00:40:43 GMT"
       },
       {
         "source": "BBC World",
@@ -74,45 +74,59 @@
       },
       {
         "source": "BBC World",
-        "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-        "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-        "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 30 Oct 2026 17:07:19 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-        "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-        "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 30 Oct 2026 16:26:11 GMT"
+        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+        "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 31 Oct 2026 02:12:19 GMT"
       },
       {
         "source": "BBC World",
         "title": "Police deployed during stand-off over control of top Poland court",
         "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
         "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 30 Oct 2026 20:52:01 GMT"
+        "published": "Sat, 31 Oct 2026 01:11:43 GMT"
       },
       {
         "source": "BBC World",
-        "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-        "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-        "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 30 Oct 2026 20:41:51 GMT"
+        "title": "Spain train disaster clouds Sánchez chances of re-election",
+        "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+        "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 31 Oct 2026 05:44:21 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-        "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 30 Oct 2026 15:03:39 GMT"
+        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+        "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 30 Oct 2026 22:11:52 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-        "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-        "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 30 Oct 2026 14:48:22 GMT"
+        "title": "Global nature talks reach deal but money remains an issue",
+        "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+        "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 31 Oct 2026 01:27:05 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 31 Oct 2026 08:49:35 GMT"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+        "published": "Sat, 31 Oct 2026 05:01:32 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+        "published": "Sat, 31 Oct 2026 00:48:56 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,97 +171,83 @@
         "published": "Fri, 30 Oct 2026 11:35:16 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-        "published": "Fri, 30 Oct 2026 11:09:24 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-        "published": "Fri, 30 Oct 2026 09:41:07 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Binance hackers raced to move billions before it could be frozen",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hackers raced to move billions before it could be frozen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crime-dragon.jpg\" /></p><p>Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.</p>",
-        "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 30 Oct 2026 22:00:00 +0000"
+        "title": "Binance $6.3B record hack sparks pre-election political chatter",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance $6.3B record hack sparks pre-election political chatter  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg\" /></p><p>Some political and administration figures tried to make hay of the biggest-ever crypto heist. </p>",
+        "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 31 Oct 2026 09:58:50 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "summary": "score: 742, comments: 463",
-        "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "score": 742
+        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+        "summary": "score: 458, comments: 312",
+        "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+        "score": 458
       },
       {
         "source": "Hacker News",
         "title": "Northflank Breached",
-        "summary": "score: 345, comments: 264",
+        "summary": "score: 437, comments: 316",
         "link": "https://status.northflank.com",
-        "score": 345
+        "score": 437
       },
       {
         "source": "Hacker News",
         "title": "My favourite PowerMac is a Nintendo Wii",
-        "summary": "score: 223, comments: 57",
+        "summary": "score: 311, comments: 89",
         "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-        "score": 223
-      },
-      {
-        "source": "Hacker News",
-        "title": "The federated code forge",
-        "summary": "score: 218, comments: 71",
-        "link": "https://tangled.org/blog/forge/",
-        "score": 218
-      },
-      {
-        "source": "Hacker News",
-        "title": "Florilegium: Procedural Flowers in LaTeX",
-        "summary": "score: 206, comments: 35",
-        "link": "https://github.com/kevinraymond/florilegium",
-        "score": 206
-      },
-      {
-        "source": "Hacker News",
-        "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-        "summary": "score: 176, comments: 108",
-        "link": "https://github.com/dbreunig/nesformer",
-        "score": 176
+        "score": 311
       },
       {
         "source": "Hacker News",
         "title": "Breaking the open web won't stop the bad bots",
-        "summary": "score: 174, comments: 74",
+        "summary": "score: 265, comments: 114",
         "link": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-        "score": 174
+        "score": 265
       },
       {
         "source": "Hacker News",
-        "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-        "summary": "score: 168, comments: 90",
-        "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-        "score": 168
+        "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+        "summary": "score: 255, comments: 122",
+        "link": "https://github.com/dbreunig/nesformer",
+        "score": 255
+      },
+      {
+        "source": "Hacker News",
+        "title": "Tell HN: Scribd Breached",
+        "summary": "score: 215, comments: 89",
+        "link": "https://news.ycombinator.com/item?id=50312756",
+        "score": 215
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cloudflare Turnstile solver library (no headless browser required)",
+        "summary": "score: 213, comments: 62",
+        "link": "https://github.com/chris124567/cfsolve",
+        "score": 213
+      },
+      {
+        "source": "Hacker News",
+        "title": "The oldest ice disappears and the Stone Age emerges from it",
+        "summary": "score: 154, comments: 59",
+        "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+        "score": 154
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Super Pepe (SP)",
-        "summary": "market cap rank: 825",
-        "link": "https://www.coingecko.com/en/coins/super-pepe"
+        "title": "Aerodrome Finance (AERO)",
+        "summary": "market cap rank: 105",
+        "link": "https://www.coingecko.com/en/coins/aerodrome-finance"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 111",
+        "summary": "market cap rank: 113",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
@@ -258,161 +258,155 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "BNB (BNB)",
-        "summary": "market cap rank: 4",
-        "link": "https://www.coingecko.com/en/coins/bnb"
+        "title": "Sui (SUI)",
+        "summary": "market cap rank: 30",
+        "link": "https://www.coingecko.com/en/coins/sui"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Quantus (QTC)",
-        "summary": "market cap rank: 773",
-        "link": "https://www.coingecko.com/en/coins/quantus"
+        "title": "Infinity Ground (AIN)",
+        "summary": "market cap rank: 441",
+        "link": "https://www.coingecko.com/en/coins/infinity-ground"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
+        "title": "Ethereum (ETH)",
+        "summary": "market cap rank: 2",
+        "link": "https://www.coingecko.com/en/coins/ethereum"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 21",
-        "link": "https://www.coingecko.com/en/coins/near"
+        "title": "Aave (AAVE)",
+        "summary": "market cap rank: 47",
+        "link": "https://www.coingecko.com/en/coins/aave"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $65,000 on December 31, 2026?",
+        "market_title": "Will Intel stock close above $20 by end of 2026?",
         "venue": "Polymarket",
-        "why_now": "Binance $6.3B hack triggers crypto liquidations and exchange risk premia; macro backdrop of I-bonds at 5.51% and tech capex concerns creates BTC volatility anchor.",
-        "signal_source": "CoinDesk liquidations jump $1.57B; Tether reserves +$8B signal stablecoin demand resilience; crypto stock selloff (Coinbase, MSTR proxies) reflects near-term sentiment but long-term institutional adoption narratives intact."
+        "why_now": "Intel's worst day since 1970s ($12B market cap wipe) amid AI capex skepticism creates binary sentiment reversal opportunity with 7+ months for recovery narrative.",
+        "signal_source": "CNBC: Intel stock worst day since 1970s; investor concern re: AI spending ROI payoff"
       },
       {
-        "market_title": "Will Intel stock trade above $25 by June 30, 2026?",
+        "market_title": "Will Meta's S&P outlook be revised back to Stable before 2027-01-01?",
+        "venue": "Polymarket",
+        "why_now": "S&P negative outlook on capex/free cash flow concerns is recent and market-priced; recovery depends on Q2-Q3 2026 earnings beats proving capex discipline.",
+        "signal_source": "CNBC: Meta downward outlook by S&P Global on capex and free cash flow"
+      },
+      {
+        "market_title": "Will Alaska Senate seat flip to Democrat before 2026-11-15?",
         "venue": "Kalshi",
-        "why_now": "Intel's worst day since 1970s ($12B hit to government stake) amid AI spending ROI skepticism; Jim Cramer rotation away from tech creates near-term headwind but government CHIPS Act support and foundry revival narrative offer floor.",
-        "signal_source": "CNBC reports investor nervousness on AI capex payoff; Meta's negative S&P outlook on capex concerns suggests sector-wide reassessment; competing with NVIDIA on TSMC capacity remains structural question."
+        "why_now": "DOJ ballot segregation motion on Sullivan candidate creates genuine uncertainty; result determines Senate majority control—high leverage event.",
+        "signal_source": "CNBC: Alaska Senate election; DOJ segregation motion; Republican majority at risk"
       },
       {
-        "market_title": "Will the Fed funds rate remain at or below 4.75% through September 30, 2026?",
-        "venue": "Manifold",
-        "why_now": "I-bond rate of 5.51% signals Treasury confidence in sticky inflation; Meta capex and tech spending cycle imply demand resilience that could delay Fed pivot.",
-        "signal_source": "Treasury Series I bond announcement (5.51% through April 2027); CPI proxies in candy/cocoa inflation; Meta's negative S&P outlook tied to cash flow, not recession fears."
-      },
-      {
-        "market_title": "Will Republicans retain Senate majority after Alaska 2026 election?",
+        "market_title": "Will Bitcoin exceed $150,000 by 2026-12-31?",
         "venue": "Polymarket",
-        "why_now": "DOJ ballot segregation in Alaska Senate race signals competitive race; Reid Hoffman's $8M late spend to Wisconsin Democrats indicates narrow margins; outcome determines Senate control.",
-        "signal_source": "CNBC reports Alaska outcome could flip Senate control; Hoffman spending surge and Epstein/Tiffany attacks signal high-stakes, close race; DOJ ballot logistics suggest legal/procedural uncertainty."
+        "why_now": "Binance $6.3B hack injects volatility; asset freeze/recovery narrative and regulatory scrutiny may suppress near-term price but long-term institutional conviction remains; clean technical threshold.",
+        "signal_source": "CoinDesk: Binance hack, Wall Street analysts urge buy crypto stocks; Bitcoin holdings stolen top Tesla reserves"
       },
       {
-        "market_title": "Will Binance resume full operations globally by June 15, 2026?",
-        "venue": "Polymarket",
-        "why_now": "Record $6.3B hack and $6.34B recovery arrangement announced; Binance targets Sunday withdrawal restart; regulatory scrutiny on exchange solvency intensifies post-hack.",
-        "signal_source": "CoinDesk coverage: Binance arranges $6.34B cover, targets Sunday restart, wider breach uncovered; Cointelegraph: hackers raced to move billions, recovery is 'another matter'; crypto liquidations $1.57B spike."
+        "market_title": "Will the Fed cut rates by a cumulative 100+ basis points by 2027-06-30?",
+        "venue": "Kalshi",
+        "why_now": "Series I bond rate at 5.51% (through April 2027) signals sticky inflation; market is pricing in rate path—this binary tests dovish surprise scenario.",
+        "signal_source": "CNBC: Treasury announces Series I bond rate 5.51% through April 2027"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Ethereum close above $3,500 on August 31, 2026?",
-        "deadline": "2026-08-31",
-        "resolution_source": "CoinGecko or CME ETH futures settlement price",
-        "why_underpriced": "Ethereum upgrade helped drain part of Binance hack losses (per CoinDesk), indicating layer-2 /scaling narrative remains intact; stablecoin demand (Tether +$8B reserves) signals ETH ecosystem strength, but hack liquidation cascade may suppress near-term price discovery.",
-        "trigger_signal": "Binance hack liquidations $1.57B; Tether excess reserves now $8B (profit $1.5B Q3); crypto stock selloff creates buying opportunity signal for long-dated ETH calls."
-      },
-      {
-        "question": "Will BNB (Binance Coin) trade above $600 on December 15, 2026?",
-        "deadline": "2026-12-15",
-        "resolution_source": "CoinMarketCap or major exchange spot price",
-        "why_underpriced": "BNB trending crypto (top 5 crypto signals); Binance hack and recovery narrative is binary — either exchange emerges stronger (BNB upside) or confidence collapses (downside). Market currently repricing hack as existential but Binance's $6.34B recovery fund signals operational resilience.",
-        "trigger_signal": "Binance trending; $6.34B recovery fund arrangement; exchange restarts Sunday withdrawal; regulatory clarity on hack liability and insurance model will reset BNB risk-on narrative."
-      },
-      {
-        "question": "Will NVIDIA close above $140 on September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "NASDAQ official closing price",
-        "why_underpriced": "Intel's catastrophic day ($12B hit) and S&P downgrade of Meta's capex cycle create short-term NVIDIA downside risk (AI ROI skepticism), but Cramer's pivot to consumer staples is contrarian signal; NVIDIA remains AI infrastructure core if big-tech capex continues or pivots to efficiency gains.",
-        "trigger_signal": "Intel vs. NVIDIA divergence; Meta negative outlook tied to capex, not demand collapse; analyst coverage on AI spending payback period likely to reset by Q3 2026; TSMC capacity constraints remain structural bid for NVIDIA."
-      },
-      {
-        "question": "Will the S&P 500 close above 5,800 on July 31, 2026?",
-        "deadline": "2026-07-31",
-        "resolution_source": "Yahoo Finance or Bloomberg official closing price",
-        "why_underpriced": "Tech capex concerns (Intel, Meta, Cramer rotation) weigh on broad index, but consumer staples rerating (chocolate inflation, I-bond 5.51% yield floor) and Ukraine defense spending ($500M Patriot sale) suggest non-tech sectors gaining support; Cramer rotation narrative is early-stage misprice.",
-        "trigger_signal": "Cramer consumer staples call; cocoa/sugar inflation in chocolate; I-bond yield at 5.51%; Meta negative S&P outlook; tech sector underperformance vs. defensives likely through mid-2026."
-      },
-      {
-        "question": "Will a major cryptocurrency exchange (not Binance) suffer a hack exceeding $1 billion before December 31, 2026?",
+        "question": "Will Binance recover at least $4 billion of the $6.3 billion stolen in the 2026 hack by 2026-12-31?",
         "deadline": "2026-12-31",
-        "resolution_source": "CoinDesk, Cointelegraph, or official exchange announcement",
-        "why_underpriced": "Binance $6.3B hack sets new record and signals sophistication of state-actor/hacker tools; copycat attacks and contagion risk are underpriced; Coinbase stock selloff suggests market fears systemic exchange risk post-Binance; Tether's $8B reserve buffer may attract attacker focus to smaller exchanges with weaker custody.",
-        "trigger_signal": "Binance hack attributed to North Korea (per BBC); Coinbase stock selloff; CoinDesk warns 'recovery is another matter'; analyst commentary on 'wider breach' uncovered suggests exploit class not yet patched industry-wide."
+        "resolution_source": "Binance official statements, regulatory disclosures (SEC/CFTC), blockchain asset tracking (Chainalysis, Elliptic public reports)",
+        "why_underpriced": "Recovery narrative is complex and opaque; market conflates asset freeze difficulty with actual recovery impossibility; jurisdictional arbitrage (North Korea nexus) makes partial recovery underestimated.",
+        "trigger_signal": "CoinDesk: Experts divided over asset freezes; Binance targets Sunday withdrawal restart; CNN coverage of actual fund repatriation milestones"
+      },
+      {
+        "question": "Will OpenAI raise Series D at a valuation below $80 billion by 2026-09-30?",
+        "deadline": "2026-09-30",
+        "resolution_source": "OpenAI official press release, TechCrunch/Bloomberg funding announcements, SEC filings (if SPV structure disclosed)",
+        "why_underpriced": "CoinDesk reports OpenAI cutting fundraising targets amid AI jitters; market assumes high watermark ($157B), but margin compression (capex vs. revenue growth) may force downward repricing.",
+        "trigger_signal": "CoinDesk: OpenAI reportedly cuts fundraising and valuation targets; parallel Meta capex pressure validates thesis"
+      },
+      {
+        "question": "Will the Binance hack-linked cryptocurrency theft exceed recovery before 2026-06-30 (i.e., laundering outpaces seizures)?",
+        "deadline": "2026-06-30",
+        "resolution_source": "FBI/DOJ public statements, Chainalysis Reactor public blockchain analytics, Elliptic threat reports, Treasury OFAC enforcement actions",
+        "why_underpriced": "North Korea attribution creates binary: either rapid international coordination recovers assets, or sophisticated laundering wins—current betting ignores speed-of-laundering logistics.",
+        "trigger_signal": "BBC: North Korean 'elite' hackers prime suspect; CNBC: cat and mouse game to recover funds before laundering; Cointelegraph: hackers raced to move billions"
+      },
+      {
+        "question": "Will crude oil prices (WTI) average above $85/barrel in Q3 2026 (Jul-Sep)?",
+        "deadline": "2026-09-30",
+        "resolution_source": "U.S. Energy Information Administration (EIA) weekly reports, CME WTI futures settlement data, BP/Shell earnings guidance",
+        "why_underpriced": "Trump's criticism of Big Oil profits + refining earnings surge narrative suggests political price cap risk; geopolitical tail (Ukraine, G20 Russian rift) underweights upside.",
+        "trigger_signal": "CNBC: Trump criticized Big Oil for excess profits; refining earnings surge post-supply tightening; BBC: G20 canceled photo over Russian minister presence (geopolitical fracture)"
+      },
+      {
+        "question": "Will Ethereum's price exceed Bitcoin's price (in USD terms) by 2027-02-28?",
+        "deadline": "2027-02-28",
+        "resolution_source": "CoinMarketCap, CoinGecko, Kraken/Coinbase spot price feeds (simple daily close comparison)",
+        "why_underpriced": "Cointelegraph notes Ethereum upgrade drained Binance loss; Aave trending signal = DeFi yield focus; ETH/BTC ratio compression from capex skepticism (Meta, Intel) may reverse on regulatory clarity or real yield cycles.",
+        "trigger_signal": "Trending: Aave (AAVE), Ethereum (ETH); Cointelegraph: Ethereum upgrade helped drain Binance loss; macro rotation from cloud capex skepticism into DeFi yield"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "I-bond yield at 5.51% creates tactical float into USDC/stablecoin yields (30-90 day horizon); crowded tech capex cycle creates rotation into consumer staples and defensives (chocolate, candy inflation play).",
-        "horizon": "30-90 days",
+        "thesis": "Crypto equities (Coinbase, MicroStrategy, Marathon) are oversold post-Binance hack; regulatory clarity and institutional bid-ask tightening should compress risk premia 15-25% over 60 days.",
+        "horizon": "60 days (to 2026-07-04)",
         "supporting_signals": [
-          "Treasury announces I-bond rate 5.51% through April 2027 (new floor for risk-free yield)",
-          "CNBC: Cramer pivots to consumer staples, away from AI tech",
-          "CNBC: Cocoa and sugar inflation fueling candy price hikes (Hershey pinch)",
-          "Meta given negative S&P outlook on capex concerns, signaling tech spending cycle peak"
+          "CoinDesk: Wall Street analysts urge investors to buy crypto stocks after $6.3B hack",
+          "Cointelegraph: Coinbase leads crypto stock selloff (panic capitulation indicator)",
+          "Tether excess reserves near $8B, Q3 profit $1.5B (capital available for stabilization buys)"
         ],
-        "counter_view": "Inflation expectations may rise and push I-bond yields even higher, making 5.51% a temporary floor, not anchor; consumer staples are crowded rotation trade and likely priced in by options market.",
-        "expression": "Long USDC yield farming at 12-18 mo. duration; long consumer staples ETF (XLP) vs. short Nasdaq-100 (QQQ); long cocoa futures (ICE) or Hershey (HSY) calls; short Meta (META) equity or long META put spreads."
+        "counter_view": "If laundering accelerates faster than seizures, regulatory backlash + exchange delisting risk could extend selloff; binance market share loss to Kraken/Bybit may be permanent.",
+        "expression": "Long equal-weight basket: COIN (Coinbase), MSTR (MicroStrategy), MARA (Marathon Digital); or long SQ (Square/Block leverages crypto adoption without direct platform risk)"
       },
       {
-        "thesis": "Binance $6.3B hack triggers exchange risk premium collapse if recovery succeeds; BNB and crypto stock recovery likely as contagion fears subside (60-120 day window); Tether's $8B reserves provide liquidity backstop.",
-        "horizon": "60-120 days",
+        "thesis": "Intel's valuation reset creates V-shaped rebound opportunity; AI capex ROI anxiety is cyclical, not structural; competitors (NVDA, AMD) have embedded multiples that will compress if Intel stabilizes 2026 H2 guidance.",
+        "horizon": "90-120 days (to 2026-08-04)",
         "supporting_signals": [
-          "Binance arranges $6.34B to cover losses, targets Sunday withdrawal restart",
-          "Tether excess reserves nearly doubled to $8B, Q3 profit $1.5B (stablecoin demand resilient)",
-          "Crypto liquidations spike $1.57B but then stabilize; no secondary exchange breaches reported",
-          "Wall Street analysts urge investors to buy crypto stocks post-hack (capitulation/reversal signal)",
-          "CoinDesk: hackers raced to move billions, but Binance recovery fund limits contagion"
+          "CNBC: Intel worst day since 1970s ($12B cap wipe) = sentiment floor for institutional accumulation",
+          "Market pricing zero upside; historical P/E multiples on 2027E earnings suggest 40%+ upside if execution restores confidence",
+          "Semiconductor sector strength (NVDA near ATH) paradoxically creates Intel rescue bid from portfolio rebalancing"
         ],
-        "counter_view": "Binance hack reveals exchange custody/operational risks that persist; regulatory crackdown on exchanges could force prolonged withdrawals; North Korea link suggests state-sponsored repeat attacks possible.",
-        "expression": "Long BNB and Solana (SOL) vs. short Ethereum (ETH) in ratio trade; long Coinbase (COIN) and MicroStrategy (MSTR) equity; long USDC stablecoin yield at 18-24 mo. duration; long crypto volatility (BTC/ETH IV skew plays)."
+        "counter_view": "Intel's process node roadmap slippage is structural; AI demand may shift further to NVIDIA custom ASICs + AMD; Chinese competitors (SMIC) eroding legacy moat.",
+        "expression": "Long INTC calls (2026-08 or 2026-09 expiry, strike $22-25); or pair trade: long INTC, short NVDA 5% hedge (captures relative mean reversion while managing mega-cap tech risk)"
       },
       {
-        "thesis": "Intel stock at multiyear lows following $12B government stake hit offers asymmetric value play; CHIPS Act support + foundry capex cycle + AI demand for non-GPU inference creates near-term floor and 6-12 month recovery path.",
-        "horizon": "90-180 days",
+        "thesis": "Meta's capex cycle will inflect positive in Q3-Q4 2026 as AI infrastructure ROI becomes visible (LLM serving, recommendation system efficiency); S&P downgrade creates entry point before upside revision.",
+        "horizon": "120-150 days (to 2026-09-02)",
         "supporting_signals": [
-          "CNBC: Intel worst day since 1970s, $12B hit to U.S. government stake",
-          "Market repricing AI spending ROI (Meta negative S&P, Cramer rotation away from tech)",
-          "CHIPS Act government commitments remain intact; foundry revival (TSMC capacity bottleneck) benefits Intel",
-          "JPMorgan and other analysts likely to revise Intel up once AI capex ROI clarity returns"
+          "CNBC: Meta negative outlook from S&P on capex/free cash flow = temporary; Q2-Q3 2026 earnings will likely show margin stabilization post-infrastructure buildout",
+          "Tether $8B reserves signal available dry powder for Meta debt refinancing; capex cycles historically recover 2-3 quarters post-trough",
+          "Parallel Intel narrative: tech giants' capex skepticism is cyclical mood, not fundamental"
         ],
-        "counter_view": "Intel's competitive position vs. TSMC/Samsung weakening structurally; AI capex skepticism may persist longer than expected; government could divest stake further if stock slides.",
-        "expression": "Long Intel (INTC) stock; long INTC Jan 2027 $28 calls; long INTC vs. short AMD (AMD) sector play; or buy INTC + short Nasdaq to hedge broad tech downside."
+        "counter_view": "Meta's $30B+ annual capex may not generate sufficient AI ROI; ad market headwinds (iOS privacy, antitrust) persist; free cash flow compression could last into 2027.",
+        "expression": "Long META calls (2026-09 expiry, strike $320-330); or long META bonds/credit if yields exceed 4.5% (debt upside as default risk recedes)"
       },
       {
-        "thesis": "BTC remains resilient despite Binance hack ($6.3B loss) because Tether reserves ($8B) and stablecoin ecosystem absorb liquidity shocks; macro backdrop (I-bonds 5.51%, Powell pivot risks) supports BTC as macro hedge into H2 2026.",
-        "horizon": "60-180 days",
+        "thesis": "DeFi yield premium expansion play: Aave (AAVE) and Ethereum (ETH) upside as institutional capex skepticism (Meta, Intel) rotates from cloud opex into on-chain real yield; Tether's $8B excess reserves support stablecoin supply for yield farming.",
+        "horizon": "90-180 days (to 2026-09-02 / 2026-11-02)",
         "supporting_signals": [
-          "Tether excess reserves +$8B (doubled), Q3 profit $1.5B — stablecoin demand and exit liquidity robust",
-          "I-bond yield 5.51% creates nominal headwind for BTC, but also signals inflation persistence and real rate repression",
-          "Binance hack liquidations ($1.57B) temporary; big bitcoin traders' positioning data shows accumulation post-hack",
-          "Patriot missile sales to Ukraine ($500M) and military escalation risk support macro hedge demand"
+          "Trending: Aave (AAVE), Ethereum (ETH); Cointelegraph reports Tether excess reserves doubled to $8B",
+          "ETH/BTC ratio weakness from macro capex skepticism is mean-reverting; Ethereum upgrade efficiency gains (Dencun, Pectra) improve tokenomics",
+          "Series I bond rate at 5.51% creates USDC/Tether yield parity opportunity; DeFi rates (Aave, Curve) now compete for capital"
         ],
-        "counter_view": "Fed tightening cycle not yet ended; real yields may rise if recession fears ease; Binance hack contagion could spread to other exchanges, freezing BTC liquidity.",
-        "expression": "Long BTC spot or BTC/USD perps (Hyperliquid, dYdX) with 60-120 day horizon; long BTC vs. short DXY (dollar index) macro trade; long BTC call spreads (Jun/Aug 2026 expiry, strike $62-68K)."
+        "counter_view": "DeFi yield is ephemeral (incentive-driven, not sustainable); regulatory crackdown on staking/yield products could accelerate; macro rates may stay sticky, compressing crypto yield spreads.",
+        "expression": "Long ETH/BTC ratio via ETH spot + short BTC perps (1:1 delta-neutral, theta-positive); or long AAVE tokens + borrow USDC at 3-4%, farm Aave yield (5-8%+ APY on lenders)"
       },
       {
-        "thesis": "Alaska Senate race outcome will hinge on Hoffman/Epstein narrative and ballot segregation legal mechanics; if Republicans hold (status quo), risk-off/regulatory clarity for crypto; if Democrats flip, rate-cut expectations and pro-crypto policy signals could support risk-on crypto, BTC, equities.",
-        "horizon": "60-120 days",
+        "thesis": "USD strength trade unwind: Alaska Senate flip or Ukraine ceasefire signaling may trigger DXY compression and commodity reflation; BTC/gold trades should outperform vs. DXY if geopolitical fracturing accelerates (G20 Russian rift, Spain/Poland crises).",
+        "horizon": "30-90 days (to 2026-06-05 / 2026-08-04)",
         "supporting_signals": [
-          "CNBC: Alaska outcome determines Senate control",
-          "Reid Hoffman $8M late spend to Wisconsin Democrats signals close race and high stakes",
-          "DOJ ballot segregation request suggests legal/procedural uncertainty and delayed result",
-          "Tiffany attacks on Hoffman/Epstein ties indicate negative ad cycle will intensify"
+          "BBC: G20 'family photo' canceled over Russian minister presence—deglobalization tail unfolds",
+          "BBC: Ukraine ceasefire evacuations + Alaska Senate uncertainty inject geopolitical risk premium into safe-haven assets",
+          "CNBC: Binance hack North Korea attribution amplifies sanctions/secondary effects on FX flows; traditional flight-to-safety (USD) may reverse if resolution narrative emerges"
         ],
-        "counter_view": "Senate outcome already priced into polls and betting markets; Hoffman spending is noise relative to ground game; crypto policy orthogonal to Senate control (regulatory capture both ways).",
-        "expression": "If Dems favored: long BTC, ETH, risk-on sectors; long Polymarket 'Dems win Senate' contract and hedge with short gold. If GOP favored: short crypto, long DXY, long defensives. Pair trade: long 'Dems Senate' prediction market against short crypto sector ETF (COIN, MSTR) if GOP polling tightens."
+        "counter_view": "Geopolitical tail risks are priced in; DXY has structural support from U.S. fiscal/rate differentials; Alaska flip odds are low (GOP retains Senate probable). BTC correlation to USD remains negative but may weaken.",
+        "expression": "Long DXY short duration hedge (3-month USD index futures, 2-3% position); or long BTC + long GLD (gold ETF) vs. short USDJPY (unwind carry trade); or long emerging market FX (EEMV volatility play)"
       }
     ]
   }
