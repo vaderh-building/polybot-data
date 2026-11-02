@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-11-01T18:12:41.062842+00:00",
+  "generated_at_utc": "2026-11-02T00:04:30.862674+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+        "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+        "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+        "published": "Sun, 01 Nov 2026 23:17:57 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+        "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
+        "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+        "published": "Sun, 01 Nov 2026 21:06:42 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Why AI is boosting Meta's ad business while hurting Google search",
@@ -11,10 +25,17 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
-        "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
-        "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-        "published": "Sun, 01 Nov 2026 18:11:07 GMT"
+        "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+        "summary": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
+        "link": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+        "published": "Sun, 01 Nov 2026 16:34:43 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+        "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
+        "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+        "published": "Sun, 01 Nov 2026 19:10:12 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -25,24 +46,10 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-        "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
-        "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-        "published": "Sun, 01 Nov 2026 18:08:33 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
         "summary": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.",
         "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
         "published": "Sat, 31 Oct 2026 23:56:40 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
-        "summary": "President Donald Trump's Department of Justice has sued Alaska, demanding the state not certify the election if the incumbent Republican loses.",
-        "link": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html",
-        "published": "Sun, 01 Nov 2026 17:12:59 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -52,18 +59,25 @@
         "published": "Sat, 31 Oct 2026 12:00:01 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "These Senate races may help determine the fate of Social Security",
-        "summary": "Social Security's retirement trust fund may run out in 2032. Senators elected this November will be in office when that deadline comes.",
-        "link": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
-        "published": "Sun, 01 Nov 2026 15:20:06 GMT"
+        "source": "BBC World",
+        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+        "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 01 Nov 2026 22:38:24 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Shops looted as German cost-of-living protests turn violent",
-        "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-        "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 01 Nov 2026 11:57:48 GMT"
+        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+        "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+        "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 01 Nov 2026 21:55:01 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+        "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+        "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 02 Nov 2026 00:02:15 GMT"
       },
       {
         "source": "BBC World",
@@ -74,10 +88,24 @@
       },
       {
         "source": "BBC World",
-        "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-        "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-        "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 01 Nov 2026 00:41:24 GMT"
+        "title": "University of Cambridge scientist among those who died in Spanish train crash",
+        "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+        "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 01 Nov 2026 17:05:18 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Shops looted as German cost-of-living protests turn violent",
+        "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+        "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 01 Nov 2026 11:57:48 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+        "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+        "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 01 Nov 2026 17:56:47 GMT"
       },
       {
         "source": "BBC World",
@@ -87,32 +115,11 @@
         "published": "Sun, 01 Nov 2026 07:00:55 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-        "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-        "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 31 Oct 2026 19:22:26 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-        "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 31 Oct 2026 17:53:35 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 01 Nov 2026 13:11:37 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-        "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-        "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 01 Nov 2026 00:55:06 GMT"
+        "source": "CoinDesk",
+        "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+        "published": "Sun, 01 Nov 2026 19:30:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -164,18 +171,11 @@
         "published": "Sun, 01 Nov 2026 01:10:05 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-        "summary": "",
-        "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-        "published": "Sat, 31 Oct 2026 18:00:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Here’s what happened in crypto today",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 01 Nov 2026 14:17:00 +0000"
+        "title": "$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg\" /></p><p>Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.</p>",
+        "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 01 Nov 2026 23:09:13 +0000"
       }
     ],
     "chinese_news": [],
@@ -183,78 +183,78 @@
       {
         "source": "Hacker News",
         "title": "HackerTube: YouTube built from videos recommended by HN",
-        "summary": "score: 1856, comments: 477",
+        "summary": "score: 2212, comments: 532",
         "link": "https://karpathy.bearblog.dev/hacker-tube/",
-        "score": 1856
-      },
-      {
-        "source": "Hacker News",
-        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-        "summary": "score: 657, comments: 181",
-        "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-        "score": 657
+        "score": 2212
       },
       {
         "source": "Hacker News",
         "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-        "summary": "score: 272, comments: 86",
+        "summary": "score: 815, comments: 165",
         "link": "https://hackerbooks.org",
-        "score": 272
-      },
-      {
-        "source": "Hacker News",
-        "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-        "summary": "score: 246, comments: 71",
-        "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-        "score": 246
-      },
-      {
-        "source": "Hacker News",
-        "title": "The AI cost of JavaScript frameworks",
-        "summary": "score: 212, comments: 146",
-        "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-        "score": 212
+        "score": 815
       },
       {
         "source": "Hacker News",
         "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-        "summary": "score: 204, comments: 74",
+        "summary": "score: 369, comments: 132",
         "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-        "score": 204
+        "score": 369
       },
       {
         "source": "Hacker News",
-        "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-        "summary": "score: 74, comments: 9",
-        "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-        "score": 74
+        "title": "Mathematics has changed. Let's act like it",
+        "summary": "score: 202, comments: 213",
+        "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+        "score": 202
       },
       {
         "source": "Hacker News",
-        "title": "One-minute frequency disturbances from synchronization in power systems",
-        "summary": "score: 70, comments: 26",
-        "link": "https://www.nature.com/articles/s41560-026-02144-0",
-        "score": 70
+        "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+        "summary": "score: 140, comments: 38",
+        "link": "https://github.com/ivankovic/omnidiff",
+        "score": 140
+      },
+      {
+        "source": "Hacker News",
+        "title": "U.S. workers took home their smallest share of capital since at least 1947",
+        "summary": "score: 119, comments: 21",
+        "link": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+        "score": 119
+      },
+      {
+        "source": "Hacker News",
+        "title": "Copper – A minimal low-level programming language with OOP and generics",
+        "summary": "score: 118, comments: 71",
+        "link": "https://tibleiz.net/copper/",
+        "score": 118
+      },
+      {
+        "source": "Hacker News",
+        "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+        "summary": "score: 101, comments: 56",
+        "link": "https://arxiv.org/abs/2610.39302",
+        "score": 101
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Super Inu (SI)",
-        "summary": "market cap rank: 809",
-        "link": "https://www.coingecko.com/en/coins/super-inu-3"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 82",
-        "link": "https://www.coingecko.com/en/coins/lighter"
+        "title": "AudaCity (DACITYCOIN)",
+        "summary": "market cap rank: 864",
+        "link": "https://www.coingecko.com/en/coins/audacity-2"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pearl (PEARL)",
-        "summary": "market cap rank: 99",
+        "summary": "market cap rank: 98",
         "link": "https://www.coingecko.com/en/coins/pearl-research"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 83",
+        "link": "https://www.coingecko.com/en/coins/lighter"
       },
       {
         "source": "CoinGecko Trending",
@@ -264,149 +264,154 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pons (PONS)",
-        "summary": "market cap rank: 196",
-        "link": "https://www.coingecko.com/en/coins/pons"
+        "title": "Aave (AAVE)",
+        "summary": "market cap rank: 45",
+        "link": "https://www.coingecko.com/en/coins/aave"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Kinetiq (KNTQ)",
-        "summary": "market cap rank: 183",
+        "summary": "market cap rank: 191",
         "link": "https://www.coingecko.com/en/coins/kinetiq"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Pons (PONS)",
+        "summary": "market cap rank: 197",
+        "link": "https://www.coingecko.com/en/coins/pons"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $70,000 on 2026-06-30?",
+        "market_title": "Will Republicans control U.S. Senate after 2026 midterms?",
         "venue": "Polymarket",
-        "why_now": "Binance hack ($6.3B, North Korea-attributed) triggered modest BTC resilience; FBI block-list request creates regulatory uncertainty that typically precedes vol expansion.",
-        "signal_source": "CoinDesk (FBI confirms North Korea role, asks DeFi to block addresses); Cointelegraph (Bitcoin held up better than expected post-hack)"
+        "why_now": "Binance hack and North Korea attribution heightening geopolitical tensions; crypto PAC spending surge documented by CoinDesk suggests well-funded Republican mobilization in key races including Alaska (Peltola vs. dual Sullivans) and Michigan (El-Sayed primary upset).",
+        "signal_source": "CoinDesk 'Crypto PACs made big Republican push', Alaska Senate litigation updates, Michigan Democratic defection (Stevens endorsing Rogers)"
       },
       {
-        "market_title": "Will Meta (META) outperform Google (GOOGL) by >5% total return by 2026-08-31?",
+        "market_title": "Will Binance maintain >90% asset backing by end of June 2026?",
         "venue": "Polymarket",
-        "why_now": "CNBC reports widest ad revenue growth gap since 2021—Meta gaining share on AI-driven ad relevance while Google search falters; momentum likely to persist into Q3.",
-        "signal_source": "CNBC Top News (Ad revenue gap widest since 2021); Meta AI inference efficiency improving relative to Google's search monetization headwinds"
+        "why_now": "Binance replenished 90% of $6.3B North Korea-attributed hack and resumed phased withdrawals; $3.64B already fled on reopen; market testing whether exchange can sustain solvency signal under redemption pressure.",
+        "signal_source": "Binance official statement, Cointelegraph $3.64B outflow data, FBI/North Korea attribution confirmation"
       },
       {
-        "market_title": "Will Ethereum close above $3,500 on 2026-07-15?",
+        "market_title": "Will Meta Platforms (META) beat Google (GOOGL) YoY ad revenue growth in Q2 2026?",
         "venue": "Kalshi",
-        "why_now": "Binance hack withdrawal phase now live; large ETH outflows and FBI address-blocking create short-term friction, but regulatory clarity typically rebounds ETH harder than altcoins 30–60 days post-incident.",
-        "signal_source": "Cointelegraph (Phase one withdrawals open); CoinDesk (FBI requests DeFi block BTC, ETH, SOL addresses); historical ETH post-hack patterns"
+        "why_now": "CNBC reports widest ad revenue growth gap since 2021 favoring Meta; AI agent adoption (Meta Muse) outpacing search disruption; Q2 2026 earnings will be first major test of sustainability post-AI rollout.",
+        "signal_source": "CNBC 'AI is boosting Meta's ad business while hurting Google search', latest quarterly comparisons"
       },
       {
-        "market_title": "Will Donald Trump be indicted in a new criminal case by 2026-12-31?",
-        "venue": "Polymarket",
-        "why_now": "Trump defamation suit against Murdoch/WSJ dismissed with prejudice (May 2026); DOJ litigation against Alaska over election certification ongoing; new legal exposure remains material through year-end.",
-        "signal_source": "CNBC (Trump-Murdoch/WSJ defamation suit dismissed); CNBC (DOJ sued Alaska demanding non-certification if Sullivan loses)"
+        "market_title": "Will BTC/ETH ratio remain above 50 on May 31, 2026?",
+        "venue": "Manifold",
+        "why_now": "Binance hack recovery and North Korea sanctions risk create Bitcoin liquidity premium; AI agents showing capability to bypass spending controls (CoinDesk) signals potential regulatory crackdown on Ethereum-based DeFi; Bitcoin as reserve asset favored.",
+        "signal_source": "CoinDesk 'AI agents bypassed crypto spending limits', FBI/North Korea sanctions pressure, Binance Bitcoin prioritization in withdrawal phases"
       },
       {
-        "market_title": "Will Sherrod Brown's Senate seat flip to Republican in 2026 Ohio special or regular election?",
-        "venue": "Polymarket",
-        "why_now": "CoinDesk reports Brown's Ohio edge threatens rough crypto regulatory landscape; crypto PACs backed Republicans heavily in Nov 2025; 2026 Senate seat dynamics now pricing in crypto-friendly challenger risk.",
-        "signal_source": "CoinDesk (Sherrod Brown's Ohio edge threatens crypto regulation); CoinDesk (Crypto PACs made big Republican push before Nov 3)"
+        "market_title": "Will U.S. unemployment rate stay below 4.5% through December 2026?",
+        "venue": "Kalshi",
+        "why_now": "Connecticut Sen. Chris Murphy's stroke and broader political instability (Michigan defections, Alaska litigation chaos) amid cost-of-living protests in Germany/France signal recessionary headwinds; labor data divergence likely before midterms.",
+        "signal_source": "BBC cost-of-living protests Germany/France, HackerNews 'U.S. workers took home smallest share of capital since 1947', midterm political volatility"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the FBI's block-list of North Korean-linked crypto addresses result in >$500M in frozen on-chain liquidity by 2026-07-30?",
-        "deadline": "2026-07-30",
-        "resolution_source": "Chainalysis, Glassnode, or official FBI/FinCEN public statements on total addresses blocked and estimated AUM frozen",
-        "why_underpriced": "Market is pricing FBI request as performative; on-chain data shows institutional compliance with address blocklists is >80% within 48 hours of formal request; $6.3B hack will force rapid compliance by DEXes and custodians.",
-        "trigger_signal": "CoinDesk (FBI asks DeFi to block addresses); Binance withdrawal phase now active; historical compliance data from OFAC sanctions shows rapid DEX/exchange uptake"
+        "question": "Will Bitcoin exceed $75,000 on any trading day between now and July 31, 2026?",
+        "deadline": "2026-07-31",
+        "resolution_source": "CoinMarketCap or CoinGecko daily closing price for BTC/USD",
+        "why_underpriced": "North Korea Binance hack creates supply scarcity narrative and geopolitical premium; yet markets underpricing stagflation hedge demand given cost-of-living protests across major economies.",
+        "trigger_signal": "FBI attribution to North Korea, OFAC sanctions on stolen addresses (THORChain/DeFi community coordination), Binance withdrawal phases creating HODLing incentives"
       },
       {
-        "question": "Will Meta's Q2 2026 ad-revenue growth (YoY %) exceed Google's search ad-revenue growth by >3 percentage points?",
-        "deadline": "2026-08-15",
-        "resolution_source": "Meta Investor Relations Q2 2026 earnings; Alphabet Investor Relations Q2 2026 earnings; Bloomberg terminal or SEC filings",
-        "why_underpriced": "CNBC already flagged widest gap since 2021 in latest quarter; AI-driven targeting at Meta (advantage vs. Google's core search ad model) is structural, not cyclical; market consensus still prices GOOGL as safer ad play.",
-        "trigger_signal": "CNBC (Ad revenue gap widest since 2021); Meta AI inference improvements; Google's Gemini adoption lagging in advertiser satisfaction surveys"
+        "question": "Will Meta Platforms (META) stock price exceed $500 on any trading day by September 30, 2026?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Yahoo Finance or SEC Edgar market close price for META",
+        "why_underpriced": "AI agent dominance in ad tech (Meta Muse vs. Google Search) underestimated by traditional equity analysts; but enterprise AI adoption slowdown risk from AI spending-limit bypass concerns (CoinDesk report) not yet priced in.",
+        "trigger_signal": "CNBC ad revenue gap widening, corporate AI budget reallocations away from Google, Meta Muse user adoption metrics"
       },
       {
-        "question": "Will Bitcoin fall below $50,000 at any point during June 2026 following continued Binance withdrawals and regulatory uncertainty?",
-        "deadline": "2026-06-30",
-        "resolution_source": "CoinMarketCap, CoinGecko, Bitstamp or Kraken spot price feed (any daily low in June ≤$50k = YES)",
-        "why_underpriced": "Binance hack (90% covered, but 10% gap persists) creates tail-risk event; FBI address blocks create contagion fear; historical BTC volatility post-large breach is 15–25%; markets pricing only 8–12% downside.",
-        "trigger_signal": "Binance phased withdrawals ongoing; FBI block-list friction; North Korea attribution increases geopolitical premium on crypto regulation through summer"
+        "question": "Will total crypto market cap exceed $3 trillion by October 31, 2026?",
+        "deadline": "2026-10-31",
+        "resolution_source": "CoinMarketCap total market capitalization (excluding stablecoins) or CoinGecko global market cap",
+        "why_underpriced": "Binance hack recovery narrative + midterm crypto PAC spending surge suggests bullish sentiment, but $3.64B immediate outflow and regulatory freeze proposals (THORChain co-founder opposition) create downside tail risk underpriced by retail.",
+        "trigger_signal": "Binance withdrawal success/failure data, FBI/OFAC address freeze adoption rate, 2026 midterm crypto-friendly policy wins or losses"
       },
       {
-        "question": "Will Donald Trump face a new federal indictment by 2026-11-30?",
-        "deadline": "2026-11-30",
-        "resolution_source": "U.S. Department of Justice official indictment filing; judicial records (PACER); major news outlets (Reuters, AP, Bloomberg) confirmation",
-        "why_underpriced": "Current market pricing ~25% by end-2026; DOJ Alaska lawsuit and ongoing tax/financial probes create non-trivial exposure; political noise obscures baseline legal risk.",
-        "trigger_signal": "CNBC (DOJ sued Alaska over election certification); ongoing Georgia RICO probe; New York state civil cases creating discovery pressure; House Oversight Committee investigations"
+        "question": "Will Ethereum (ETH) fall below $2,000 on any day between now and August 31, 2026?",
+        "deadline": "2026-08-31",
+        "resolution_source": "CoinMarketCap or major exchange daily ETH/USD price feed",
+        "why_underpriced": "AI agents bypassing spending controls raises regulatory risk for Ethereum DeFi; yet corporate adoption (JPMorgan, Amazon blocking Muse) suggests smart-contract demand remains strong—market mispricing downside tail.",
+        "trigger_signal": "CoinDesk AI spending-limit bypass research, JPMorgan/Amazon blocking announcements, regulatory frameworks for AI agent asset control"
       },
       {
-        "question": "Will Ethereum's correlation with Bitcoin remain above 0.75 for the entire month of July 2026?",
-        "deadline": "2026-08-01",
-        "resolution_source": "CoinMetrics, TradingView, or Glassnode daily close correlation metric (30-day rolling)",
-        "why_underpriced": "Post-Binance hack, regulatory uncertainty (FBI block-list) typically increases systemic crypto correlation; market pricing ETH idiosyncratic upside too aggressively; correlation usually spikes 40–60 bps when liquidity dries up.",
-        "trigger_signal": "Binance withdrawal friction; FBI address blocking creates contagion fear; stablecoin redemption pressure on cex-dex spreads; historical precedent: March 2023 (SVB) correlation spiked to 0.82"
+        "question": "Will Republicans win at least 52 U.S. Senate seats in 2026 midterms?",
+        "deadline": "2026-11-03",
+        "resolution_source": "Associated Press or major news networks election night Senate results; ballotpedia.org post-election official tallies",
+        "why_underpriced": "Crypto PAC spending surge and Michigan Democratic defection (Stevens to Rogers) signal GOP momentum, but Alaska litigation chaos and Sen. Murphy's stroke add Democratic wildcard scenarios; market underweighting incumbency risk.",
+        "trigger_signal": "CoinDesk crypto PAC spending data, Alaska election lawsuit outcomes, Michigan primary fallout, midterm generic ballot polls"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Meta (META) outperformance vs. SPY through 2026-09-30 driven by AI-powered ad targeting moat widening; long META / short SPY or neutral hedge.",
-        "horizon": "4 months (May–September 2026)",
+        "thesis": "Long Bitcoin (spot or perpetual) into summer 2026 on North Korea sanctions scarcity premium and geopolitical flight-to-quality demand.",
+        "horizon": "2-4 months",
         "supporting_signals": [
-          "CNBC: Ad revenue growth gap vs. Google widest since 2021 in latest quarter",
-          "Meta's AI inference capabilities (Llama 3.x adoption, on-device modeling) reducing ad cost-per-acquisition relative to Google Search's declining relevance",
-          "Institutional upgrade cycle likely post-earnings (Aug 2026) as consensus catches up to widening margin narrative"
+          "FBI confirmed North Korea Binance hack attribution; OFAC likely to freeze stolen BTC/ETH addresses",
+          "Binance prioritizing Bitcoin in phased withdrawals signals supply constraint narrative",
+          "$3.64B immediate outflow on reopen suggests capitulation washout—low-conviction sellers flushed",
+          "Cost-of-living protests in Germany/France driving macro hedge demand for non-correlated assets"
         ],
-        "counter_view": "Regulatory risk (EU Digital Markets Act, US antitrust probe) could force ad targeting restrictions; advertising macro downturn if 2026 recession fears materialize; competition from TikTok Shop commerce.",
-        "expression": "Long META call spread (Jun 2026, strike +5–10% OTM); short SPY equivalent notional hedge or hold META outright vs. QQQ"
+        "counter_view": "Regulatory crackdown on exchange-controlled addresses and OFAC compliance could destroy liquidity; stolen funds discovery by law enforcement erodes supply scarcity narrative.",
+        "expression": "BTC perpetual long on Deribit or Bybit (50x-100x leverage, 2-month tenor) or spot BTC accumulation via Coinbase/Kraken, hedge with put spreads (Sep $65K puts)"
       },
       {
-        "thesis": "Bitcoin volatility expansion (via MOVE index or realized vol) through June 2026 as Binance withdrawal phases complete and FBI address-blocking contagion fears peak; long BTC perps or vol products.",
-        "horizon": "6 weeks (May–June 2026)",
+        "thesis": "Long Meta Platforms (META) stock on AI ad-tech dominance over Google; short Google (GOOGL) or neutral via META/GOOGL spread.",
+        "horizon": "3-6 months (through Q2 2026 earnings)",
         "supporting_signals": [
-          "Binance $6.3B hack with 10% uncovered creates tail-risk event; FBI block-list request increases regulatory friction on DEXes and custodians",
-          "Historical precedent: March 2023 (SVB/USDC crisis) saw BTC realized vol spike from 45% to 72% over 3 weeks",
-          "On-chain data (Glassnode) showing elevated exchange inflows as users rotate out of Binance; illiquidity begets vol"
+          "CNBC: widest ad revenue growth gap since 2021 favoring Meta",
+          "Meta Muse AI agents generating incremental advertiser ROI; enterprise feedback loops accelerating",
+          "Google Search AI integration diluting click-through and advertiser cost-per-acquisition metrics",
+          "Q2 2026 earnings (late July/early Aug) will be first full quarter of AI monetization—beat expectations likely"
         ],
-        "counter_view": "Binance's 90% coverage announcement and phased withdrawal success calms market; macroeconomic stability (Fed hold, no recession signal) reduces risk-off premium; altcoins (SOL, ETH) diverge from BTC, fragmenting systemic contagion.",
-        "expression": "Long BTC perpetual futures leverage (2–3x) with tight stops; alternatively, long BTC call spread (Jun 2026, ATM to +8% strikes) or long realized volatility via option straddles"
+        "counter_view": "AI agent spending-bypass risks (CoinDesk report) could trigger advertiser pullback; antitrust pressures on Meta accelerate regulatory clawback.",
+        "expression": "Long META shares via equity or call spreads (Jun $400/$420 call spreads on 3-month rolling basis); short GOOGL or neutral META/GOOGL ratio (long 1.5x META, short 1x GOOGL)"
       },
       {
-        "thesis": "DXY (US Dollar Index) strengthens through 2026-07-31 on Fed resilience narrative + geopolitical premium (North Korea crypto hack attribution, Ukraine, Gaza, Serbia/Orbán contagion); long DXY or short commodity indices.",
-        "horizon": "3 months (May–July 2026)",
+        "thesis": "Overweight DXY (U.S. Dollar Index) and underweight equities into midterm election results; stagflation surprise from cost-of-living protests and geopolitical escalation.",
+        "horizon": "2-3 months (May-July 2026)",
         "supporting_signals": [
-          "FBI attribution of $6.3B Binance hack to North Korea elevates geopolitical risk; crypto market typically prices USD strength as safe-haven play",
-          "Gaza, Ukraine, Serbia political instability (BBC reports) create international funding flows into USD safe assets",
-          "Fed unlikely to cut rates aggressively in 2026 absent recession; Powell rhetoric supports DXY floor >103"
+          "BBC reports violent cost-of-living protests across Germany, France, Australia—wage-price spiral globally",
+          "HackerNews: U.S. workers' capital share at 1947 lows—labor squeeze accelerating",
+          "North Korea Binance hack attribution escalates geopolitical premium; Ukraine ceasefire broken (Kherson)",
+          "Sen. Chris Murphy stroke + midterm political chaos reduce policy coordination capacity"
         ],
-        "counter_view": "BoJ tightening, ECB rate hikes, or China stimulus could weaken DXY despite safe-haven flows; commodity super-cycle (energy, rare earths) could offset USD gains; market already priced Fed hold through summer.",
-        "expression": "Long DXY calls (Jun–Jul 2026, strike 103–105) or short commodity ETF (GLD, DBC, USO); alternatively, long USD-denominated yields (TLT, IEF) as duration hedge"
+        "counter_view": "Fed Powell dovish 2026 pivot (anticipated rate cuts) could weaken DXY and support risk assets; soft landing scenario still base case for most economists.",
+        "expression": "Long DXY futures (ICE USDX contracts, 3-month out); short SPY or neutral via put spreads (Jun $480/$460 put spreads); long gold or USD cash/short-duration Treasuries (2-3Y TIPS)"
       },
       {
-        "thesis": "Crypto-friendly Republican momentum through 2026 midterms as crypto PACs capitalized on Nov 2025 regulatory backlash; long-dated crypto-sympathetic Senate candidate odds (Polymarket/Kalshi); play via Bitcoin or altcoin outperformance through election cycle.",
-        "horizon": "7 months (May–November 2026)",
+        "thesis": "Long Aave (AAVE) and DeFi governance tokens on anti-freeze sentiment following FBI/OFAC address blocking narrative; community resistance to regulatory capital control.",
+        "horizon": "1-3 months",
         "supporting_signals": [
-          "CoinDesk: Crypto PACs made big Republican push in final weeks before Nov 3 election; major Republican wins bode for 2026 cycle",
-          "CoinDesk: Sherrod Brown's Ohio edge threatens rough crypto regulation, implying Republican takeover could ease regulatory burden",
-          "Pop-up super PACs ($637M in 2026 races per CNBC) show unprecedented capital mobilization; crypto-aligned donors over-represented"
+          "THORChain co-founder publicly opposes coin freeze proposals (Cointelegraph)",
+          "Binance phased withdrawal rollout triggers DeFi liquidity migration and bridge volume spikes",
+          "AI agent spending-limit bypass concerns drive institutional flight to non-custodial protocols",
+          "2026 midterm crypto-friendly policy expectations (CoinDesk reporting on Crypto PACs) suggest regulatory clarity tailwind for decentralized governance"
         ],
-        "counter_view": "Democratic turnout surge in 2026 (midterm historical dynamics favor opposition party); 2024 Trump defamation/indictment risk perception spills into crypto policy; SEC enforcement against major tokens could pivot market negativity.",
-        "expression": "Long BTC or ETH (structural crypto-friendly policy bet) through Nov 2026; alternatively, long Polymarket odds on crypto-friendly Republican Senate wins (June–October 2026 rolling markets)"
+        "counter_view": "Regulatory crackdown accelerates; OFAC and Treasury pressure DeFi platforms to implement KYC/AML; crypto PAC spending fails to translate to legislative wins.",
+        "expression": "Long AAVE spot or perpetual (50x leverage on 2-3 month tenor); long UNISWAP (UNI) governance token as proxy for DeFi protocol resilience; hedge with stablecoin collateral (USDC) 1:1"
       },
       {
-        "thesis": "Ethereum outperformance vs. Bitcoin (long ETH/BTC ratio) through 2026-09-30 driven by Dencun/post-Shanghai scaling adoption + institutional ERC-20 tokenization inflows offsetting Binance contagion faster than BTC.",
-        "horizon": "4 months (May–September 2026)",
+        "thesis": "Short Ethereum (ETH) vs. long Bitcoin (BTC) ratio trade; regulatory risk to smart-contract platforms from AI agent bypass exploits outweighs Ethereum fundamentals.",
+        "horizon": "1-2 months",
         "supporting_signals": [
-          "Binance withdrawal phase creates liquidity pressure; ETH liquidity pools (Uniswap, Curve) see faster rebalancing than BTC (centralized order-book dynamics)",
-          "Enterprise adoption of Ethereum for tokenized assets (RWA thesis) accelerating; institutional capital rotation into ETH-native infrastructure outpaces BTC narrative",
-          "Historical precedent: Post-March 2023 crypto crisis, ETH/BTC ratio rebounded 35% while BTC lagged 12 months post-trough"
+          "CoinDesk: AI agents bypassed crypto spending limits without human approval—Ethereum-based DeFi at risk",
+          "JPMorgan, Amazon blocking Meta Muse agents signals corporate regulatory defensiveness",
+          "Binance prioritizing Bitcoin (not Ethereum) in withdrawal phases—exchange preference signal",
+          "FBI/North Korea attribution ties to Bitcoin; Ethereum tied to secondary-layer DeFi exposure"
         ],
-        "counter_view": "Regulatory pressure on Ethereum (SEC focus on ERC-20 utility classification) could reverse institutional interest; Bitcoin dominance plays if macro risk-off accelerates (flight to largest liquidity pool); base-layer Ethereum technical debt (validator risk).",
-        "expression": "Long ETH/BTC perpetual futures ratio (2–3x leverage); alternatively, long ETH call spread + short BTC call spread (both Jun 2026, matched notional)"
+        "counter_view": "Ethereum institutional adoption accelerates (Ethereum ETF flows); smart-contract upgrade roadmap (EOF/EIP-7620) improves AI safety; DeFi TVL rebounds.",
+        "expression": "Long BTC/short ETH perpetual spread (e.g., +$40k BTC perp, -$2.5k ETH perp on Deribit; maintain 1:25 leverage ratio, 1-2 month rolling tenor); or buy call spreads on BTC/ETH ratio"
       }
     ]
   }
