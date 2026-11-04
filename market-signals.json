@@ -1,90 +1,104 @@
 {
-  "generated_at_utc": "2026-11-04T12:42:01.376360+00:00",
+  "generated_at_utc": "2026-11-04T20:11:06.339141+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "What Republicans' huge loss means for Trump",
+        "summary": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
+        "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+        "published": "Wed, 04 Nov 2026 19:46:27 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+        "summary": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
+        "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+        "published": "Wed, 04 Nov 2026 17:32:26 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+        "summary": "Apple, Amazon, Google, Meta and Microsoft stock was up after the midterms, while stocks tied to Trump advisor Elon Musk and data centers fell on Wednesday.",
+        "link": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+        "published": "Wed, 04 Nov 2026 19:37:43 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+        "summary": "In control of Congress, Democrats are preparing to pursue legislation to address affordability, while also trying to rein-in President Donald Trump",
+        "link": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+        "published": "Wed, 04 Nov 2026 19:00:52 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+        "summary": "Analysts say that after a roughly two-year turnaround the company's retail pharmacy business and other units may be strong enough to stand on their own.",
+        "link": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
+        "published": "Wed, 04 Nov 2026 19:58:41 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+        "summary": "Voters in the states at the heart of the AI data center boom pushed back on the buildout on Election Night.",
+        "link": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+        "published": "Wed, 04 Nov 2026 19:51:18 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
         "summary": "Elon Musk's spending may have become a liability as voters in exit polls raised concerns about government corruption and the growing influence of billionaires.",
         "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-        "published": "Wed, 04 Nov 2026 08:56:45 GMT"
+        "published": "Wed, 04 Nov 2026 12:51:00 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "CVS to split off drugstore business in major breakup of healthcare giant",
-        "summary": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
-        "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-        "published": "Wed, 04 Nov 2026 12:35:05 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
-        "summary": "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.",
-        "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-        "published": "Wed, 04 Nov 2026 12:24:23 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-        "summary": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic.",
-        "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-        "published": "Wed, 04 Nov 2026 12:08:15 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Mortgage rates drop for the third straight week, but homebuyers are still leaving the market",
-        "summary": "Mortgage rates came down again last week, but mortgage demand from homebuyers continued to decline, as high home prices and inflation stretch affordability.",
-        "link": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html",
-        "published": "Wed, 04 Nov 2026 12:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
-        "summary": "AI fortunes were mixed as premarket trading opened on Wednesday.",
-        "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-        "published": "Wed, 04 Nov 2026 11:35:52 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
-        "summary": "Nancy Bass Wyden, whose grandfather founded the New York City bookstore, had signed off on the PPP, which was off-limits because she is a senator's wife.",
-        "link": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
-        "published": "Tue, 03 Nov 2026 23:28:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
-        "summary": "Ghalibaf said that \"Conscience or the cost of living, Americans said NO TO WAR, and we endorse this message.\"",
-        "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
-        "published": "Wed, 04 Nov 2026 06:45:36 GMT"
+        "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
+        "summary": "Blue wave gives Democrats control of Congress. Here's how their agenda could affect your money, from health care and taxes to student loans and Social Security.",
+        "link": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+        "published": "Wed, 04 Nov 2026 19:53:55 GMT"
       },
       {
         "source": "BBC World",
-        "title": "South Carolina elects Democratic senator for first time in almost three decades",
-        "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-        "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 04 Nov 2026 07:32:02 GMT"
+        "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+        "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 13:33:30 GMT"
       },
       {
         "source": "BBC World",
-        "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-        "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-        "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 04 Nov 2026 05:39:36 GMT"
+        "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+        "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+        "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 18:01:31 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Florida Republicans fend off Democrats as state elects first black governor",
-        "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-        "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 04 Nov 2026 07:12:21 GMT"
+        "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+        "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+        "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 17:45:58 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Iran's chief negotiator says Americans voted 'no to war'",
-        "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 04 Nov 2026 12:21:21 GMT"
+        "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+        "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 16:26:15 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "'Most difficult days of my life' for keeper Owono",
+        "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 16:40:38 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Israel's president begins consultations with parties after election deadlock",
+        "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+        "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 16:18:21 GMT"
       },
       {
         "source": "BBC World",
@@ -95,160 +109,164 @@
       },
       {
         "source": "BBC World",
-        "title": "ANC under pressure to reverse South Africa decline",
-        "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-        "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 04 Nov 2026 11:47:44 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-        "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-        "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 04 Nov 2026 11:46:09 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
-        "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
-        "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 04 Nov 2026 02:11:40 GMT"
+        "title": "Secret police files released in Hungary, 37 years after fall of communism",
+        "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+        "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 15:28:18 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "Circle beats earnings and revenue estimates on soaring USDC transaction volume",
+        "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+        "published": "Wed, 04 Nov 2026 16:11:29 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+        "published": "Wed, 04 Nov 2026 16:08:14 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+        "summary": "",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+        "published": "Wed, 04 Nov 2026 15:27:20 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "The election changes Washington. The work on crypto continues",
+        "summary": "",
+        "link": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+        "published": "Wed, 04 Nov 2026 14:25:12 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+        "published": "Wed, 04 Nov 2026 14:00:53 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+        "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+        "published": "Wed, 04 Nov 2026 12:49:56 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
         "summary": "",
         "link": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
         "published": "Wed, 04 Nov 2026 12:33:54 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Here's how analysts are reacting to the new blue Congress",
-        "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
-        "published": "Wed, 04 Nov 2026 12:14:11 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
-        "published": "Wed, 04 Nov 2026 10:38:58 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
-        "summary": "",
-        "link": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
-        "published": "Wed, 04 Nov 2026 10:18:50 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
-        "published": "Wed, 04 Nov 2026 10:03:33 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
-        "published": "Wed, 04 Nov 2026 09:22:58 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
-        "published": "Wed, 04 Nov 2026 08:04:04 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-        "published": "Wed, 04 Nov 2026 06:16:40 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K35HFSNDXKSZPYH2YBQQTR/hi-interest-in-crypto-derivatives-rising-on-the-back-of-a-bullish-crypto-rally.jpg\" /></p><p>SEC staff’s no-action letter covers CC earned by running infrastructure and applications, but is not a binding ruling on its legal status.</p>",
-        "link": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 04 Nov 2026 12:12:15 +0000"
+        "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTGBVFHWKW3CZF0886CX5A/trumpcoinelections.png\" /></p><p>The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday even as Bitcoin and Ether rallied.</p>",
+        "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 04 Nov 2026 19:15:39 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Jailbreaking my car's navigation system just so I can change the time",
-        "summary": "score: 866, comments: 327",
-        "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
-        "score": 866
-      },
-      {
-        "source": "Hacker News",
-        "title": "Stringman, an $800 open-source room scale gripper robot",
-        "summary": "score: 645, comments: 208",
-        "link": "https://neufangled.com/",
-        "score": 645
-      },
-      {
-        "source": "Hacker News",
-        "title": "C++26 Disapproved",
-        "summary": "score: 335, comments: 228",
-        "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-        "score": 335
-      },
-      {
-        "source": "Hacker News",
-        "title": "The Internals of PostgreSQL",
-        "summary": "score: 305, comments: 24",
-        "link": "https://www.interdb.jp/pg/index.html",
-        "score": 305
-      },
-      {
-        "source": "Hacker News",
-        "title": "Jelly Sheet",
-        "summary": "score: 295, comments: 76",
-        "link": "https://mrdoob.github.io/codevember-2026/01/",
-        "score": 295
-      },
-      {
-        "source": "Hacker News",
-        "title": "Kitty 0.50",
-        "summary": "score: 202, comments: 119",
-        "link": "https://sw.kovidgoyal.net/kitty/changelog/#",
-        "score": 202
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "summary": "score: 868, comments: 518",
+        "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "score": 868
       },
       {
         "source": "Hacker News",
         "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-        "summary": "score: 174, comments: 92",
+        "summary": "score: 525, comments: 235",
         "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-        "score": 174
+        "score": 525
       },
       {
         "source": "Hacker News",
-        "title": "AI is forcing us to pay off 40 years of technical debt",
-        "summary": "score: 114, comments: 31",
-        "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "score": 114
+        "title": "North Korean fake job interview led to $6.3B Binance heist",
+        "summary": "score: 456, comments: 269",
+        "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+        "score": 456
+      },
+      {
+        "source": "Hacker News",
+        "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+        "summary": "score: 323, comments: 101",
+        "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+        "score": 323
+      },
+      {
+        "source": "Hacker News",
+        "title": "Verification Is Not Knowledge: Science needs more than answers",
+        "summary": "score: 197, comments: 113",
+        "link": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+        "score": 197
+      },
+      {
+        "source": "Hacker News",
+        "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+        "summary": "score: 194, comments: 129",
+        "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+        "score": 194
+      },
+      {
+        "source": "Hacker News",
+        "title": "Progress on provable inference for large language models",
+        "summary": "score: 122, comments: 53",
+        "link": "https://www.anthropic.com/research/provable-inference",
+        "score": 122
+      },
+      {
+        "source": "Hacker News",
+        "title": "Tencent Hy4",
+        "summary": "score: 106, comments: 33",
+        "link": "https://hy.tencent.ai/research/hy4",
+        "score": 106
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
+        "title": "FOCO (FOCO)",
+        "summary": "market cap rank: 831",
+        "link": "https://www.coingecko.com/en/coins/foco-2"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "AudaCity (DACITYCOIN)",
-        "summary": "market cap rank: 839",
+        "summary": "market cap rank: 778",
         "link": "https://www.coingecko.com/en/coins/audacity-2"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Official Trump (TRUMP)",
-        "summary": "market cap rank: 116",
-        "link": "https://www.coingecko.com/en/coins/official-trump"
+        "title": "Ethereum (ETH)",
+        "summary": "market cap rank: 2",
+        "link": "https://www.coingecko.com/en/coins/ethereum"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pearl (PEARL)",
+        "summary": "market cap rank: 97",
+        "link": "https://www.coingecko.com/en/coins/pearl-research"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       },
       {
         "source": "CoinGecko Trending",
@@ -258,157 +276,139 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "summary": "market cap rank: 21",
-        "link": "https://www.coingecko.com/en/coins/near"
-      },
-      {
-        "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 111",
+        "summary": "market cap rank: 112",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 79",
-        "link": "https://www.coingecko.com/en/coins/lighter"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 29",
-        "link": "https://www.coingecko.com/en/coins/sui"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $80,000 by end of June 2026?",
+        "market_title": "Will Bitcoin close above $85,000 by end of June 2026?",
         "venue": "Polymarket",
-        "why_now": "BTC rebounded to $78,300 post-midterm; Democratic sweep reduces regulatory tail-risk but geopolitical tensions (Iran rhetoric) create volatility; technical breakout or retest likely within 30 days.",
-        "signal_source": "CoinDesk: Bitcoin rises to $78,300 in V-shaped comeback; CNBC: SpaceX/Tesla down 4% on Democrat win signals policy uncertainty ahead"
+        "why_now": "Democratic sweep removes regulatory headwinds for crypto; BTC at $80.5K post-election with momentum, but debt-ceiling showdown could trigger volatility.",
+        "signal_source": "CoinDesk live updates (Bitcoin posts big gains on Blue Wave); CNBC analysis on debt-ceiling confrontation risk; CoinDesk reporting crypto regulatory clarity under Democratic Congress."
       },
       {
-        "market_title": "Will the Fed cut rates by 50+ bps before end of Q3 2026?",
+        "market_title": "Will the US reach a debt-ceiling deal without triggering a market correction >5% in S&P 500 by December 2026?",
         "venue": "Kalshi",
-        "why_now": "Mortgage rates dropped for third straight week; homebuyer demand still weak despite price relief; inflation narrative softening into midterm recovery; Powell likely to signal dovishness.",
-        "signal_source": "CNBC: Mortgage rates drop for third straight week; McDonald's, Wayfair earnings suggest consumer resilience but budget sensitivity"
+        "why_now": "CNBC highlights next debt-ceiling confrontation as pivotal; Democrats now control Congress and may extract spending concessions, creating binary outcome for equities.",
+        "signal_source": "CNBC Analysis: 'The Democrats have one chance to extract concessions from Trump. Markets will hate it'; debt ceiling traditionally raises vol."
       },
       {
-        "market_title": "Will Elon Musk's net worth fall below $150B by December 2026?",
-        "venue": "Manifold",
-        "why_now": "Tesla and SpaceX down 4% on Democrat sweep; CNBC reports voters concerned about billionaire influence; midterm loss signals political headwinds for Musk's regulatory agenda.",
-        "signal_source": "CNBC: Elon Musk's spending became liability; exit polls show voter concern on government corruption and billionaire influence"
-      },
-      {
-        "market_title": "Will CVS complete its drugstore spin-off by June 2027?",
-        "venue": "Manifold",
-        "why_now": "Major announced breakup reverting $78B Aetna deal; unwinding vertical integration is 18+ month process; market skeptical on execution risk and regulatory approval timeline.",
-        "signal_source": "CNBC: CVS to split off drugstore business, reversing 2018 integration strategy"
-      },
-      {
-        "market_title": "Will Circle's USDC transaction volume exceed $500B annualized by September 2026?",
+        "market_title": "Will Nvidia close above $250 by end of August 2026?",
         "venue": "Polymarket",
-        "why_now": "Circle beat earnings and revenue on soaring USDC volume; Democrats control Congress, likely pro-stablecoin; Morgan Stanley tokenization move validates institutional RWA/stablecoin narrative.",
-        "signal_source": "CoinDesk: Circle beats earnings on soaring USDC volume; Morgan Stanley tokenizes RWA"
+        "why_now": "Hyperscalers (Apple, Amazon, Google, Meta, Microsoft) surged post-election on removal of investor uncertainty; but Texas/voter rejection of data center buildout creates headwind.",
+        "signal_source": "CNBC 'Hyperscalers and Apple surge after election results'; CoinDesk 'Wall Street rethinks AI data center boom as Texas election raises new risks'; Hacker News AMD outsell Intel story signals chip sector bifurcation."
+      },
+      {
+        "market_title": "Will Trump-linked MAGA/TRUTH tokens fall below $5 combined market dominance % by September 2026?",
+        "venue": "Manifold",
+        "why_now": "Cointelegraph reports Trump-linked tokens led crypto losses after Democratic sweep; Elon Musk spending became a liability per CNBC ('concerns about government corruption and billionaire influence').",
+        "signal_source": "Cointelegraph 'Trump-linked tokens lead crypto losses after Democrats sweep'; CNBC '5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans'."
+      },
+      {
+        "market_title": "Will the US-Canada tariff deal be finalized by October 2026?",
+        "venue": "Polymarket",
+        "why_now": "BBC reports Democratic wave puts pressure on White House to strike tariff deal; Trump's tariff handling faces 'sudden pushback from newly empowered Democrats.'",
+        "signal_source": "BBC 'US midterm results a 'victory' for Canadians hopeful of tariff relief'; CNBC 'Trump's handling of tariffs...are sure to face sudden pushback from newly empowered Democrats'."
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will the S&P 500 close above 6,000 on 2026-12-31?",
+        "question": "Will the Federal Reserve cut rates by a cumulative 100+ basis points between June 2026 and December 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Yahoo Finance / S&P 500 closing price",
-        "why_underpriced": "Democrat sweep reduces policy uncertainty and regulatory drag on tech; consumer resilience (Wayfair +10%, McDonald's beat) and rate-cut expectations provide tailwind, but homebuyer weakness suggests credit stress ahead—binary on soft-landing narrative.",
-        "trigger_signal": "CNBC earnings flow: McDonald's beats but traffic weak; Wayfair sales +10% signals consumer rotation; mortgage demand collapse despite rate cuts suggests affordability crisis"
+        "resolution_source": "Federal Reserve funds rate announcements (FOMC press releases); CME FedWatch tool historical record.",
+        "why_underpriced": "Democratic control of Congress + debt-ceiling showdown risk could force Fed pivot; market currently pricing in sticky inflation narrative but fiscal pressure may flip macro.",
+        "trigger_signal": "CNBC debt-ceiling analysis; no major Chinese inflation signals yet, but dovish Democratic agenda on affordability suggests demand destruction."
       },
       {
-        "question": "Will Bitcoin volatility (30-day realized vol) exceed 60% annualized on 2026-07-15?",
-        "deadline": "2026-07-15",
-        "resolution_source": "CoinGecko or Binance 30-day realized volatility metric",
-        "why_underpriced": "Geopolitical tail-risk (Iran rhetoric post-midterm) + midterm shock aftermath + DeFi contagion (Binance hack moved 81% stolen SOL via THORChain); Bitcoin ETF outflows ($1.16B) suggest capitulation, but volatility regimes often retest lows before compression.",
-        "trigger_signal": "CoinDesk: Bitcoin ETFs lose $1.16B; Binance hack routing funds via THORChain; Iran's Ghalibaf: Americans voted 'no to war'"
+        "question": "Will CVS Health trade above $80 per share on or before September 2026 following announced breakup plan?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Yahoo Finance / Bloomberg terminal (CVS closing price); company breakup announcement official date.",
+        "why_underpriced": "CNBC reports CVS breakup plan after two-year turnaround; retail pharmacy and other units 'may be strong enough to stand on their own'—typically undervalued conglomerate discount play.",
+        "trigger_signal": "CNBC 'CVS Health plans to split itself up. Here's why a breakup could make sense now'; traditional M&A playbook rewarding."
       },
       {
-        "question": "Will Ethereum close above $3,000 USD on 2026-10-31?",
-        "deadline": "2026-10-31",
-        "resolution_source": "CoinMarketCap or Kraken ETH/USD spot price at UTC midnight",
-        "why_underpriced": "Morgan Stanley tokenization narrative + USDC volume surge + Democratic control (pro-stablecoin/pro-DeFi tilt); but AI trade headwinds (Musk floats space data centers, NVIDIA RTX firmware slowdown) create downside risk if AI euphoria deflates.",
-        "trigger_signal": "CoinDesk: Morgan Stanley tokenizes RWA, Circle beats on USDC; CoinDesk: Elon floats space data centers as AI trade pressured; Hacker News: NVIDIA RTX encrypted firmware cuts inference to 35% on Linux"
+        "question": "Will Ethereum close above $3,500 by end of July 2026?",
+        "deadline": "2026-07-31",
+        "resolution_source": "CoinGecko / CoinMarketCap (ETH-USD daily close).",
+        "why_underpriced": "ETH underperforming BTC in post-election rally; Democratic control could green-light stablecoin regulation (Circle/Schroders asset manager moves signal institutional appetite). Solana (trending) and emerging market bond fund on Solana (CoinDesk report) suggest layer-1 bifurcation in price.",
+        "trigger_signal": "CoinDesk 'Global asset manager Schroders brings emerging market bond fund to Solana'; Circle earnings beat and ARC token sale lift institutional confidence; no negative regulatory signal yet."
       },
       {
-        "question": "Will the USD Index close below 95 on 2026-12-15?",
-        "deadline": "2026-12-15",
-        "resolution_source": "Federal Reserve or ICE DXY closing quote",
-        "why_underpriced": "Rate-cut cycle signaled by mortgage-demand collapse + Democratic fiscal tilt; but Iran geopolitical risk and trade uncertainty (Musk regulatory pressure) could drive dollar safe-haven bid—market pricing is too symmetric.",
-        "trigger_signal": "CNBC: Mortgage demand drops despite rate relief; Iranian rhetoric on 'no war' reduces geopolitical premium; SpaceX/Tesla decline signals regulatory drag on US tech"
+        "question": "Will US data center construction permits in Texas, Arizona, and Virginia decline by >20% in H2 2026 vs. H1 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "US Census Bureau (Building Permits Survey by state); commercial construction data (Dodge Analytics).",
+        "why_underpriced": "CNBC 'Voters rebuff data centers in every ballot measure except one during 2026 midterms'; CoinDesk 'Wall Street rethinks AI data center boom as Texas election raises new risks.' Regulatory/zoning friction is real but underestimated by Bull case.",
+        "trigger_signal": "CNBC and CoinDesk reporting voter backlash on energy, infrastructure, environmental grounds; Hacker News 'AI is forcing us to pay off 40 years of technical debt' signals capex fatigue."
       },
       {
-        "question": "Will MicroStrategy's Bitcoin holdings exceed 100,000 BTC (market value) by 2027-06-30?",
-        "deadline": "2027-06-30",
-        "resolution_source": "MicroStrategy SEC filings (10-Q/10-K) or investor presentations",
-        "why_underpriced": "Bitcoin rebound to $78.3K post-midterm + institutional tailwind from Circle/Morgan Stanley tokenization moves; but corporate buyback appetite depends on BTC sustaining $75K+ and equity market volatility remaining contained.",
-        "trigger_signal": "CoinDesk: Bitcoin rebounds to $78.3K; Circle beats earnings; Morgan Stanley enters tokenization; but Bitcoin ETF outflows signal institutional caution"
+        "question": "Will Circle's USDC market cap exceed $50 billion by March 2027?",
+        "deadline": "2027-03-31",
+        "resolution_source": "CoinGecko / CoinMarketCap (USDC total market cap); Circle investor updates.",
+        "why_underpriced": "Circle beat earnings expectations; ARC token sale and asset manager partnerships (Schroders) signal institutional adoption. Democratic control reduces regulatory risk for stablecoins. Currently underpriced relative to yield-on-reserves tailwinds.",
+        "trigger_signal": "CoinDesk 'Circle beats earnings expectations on strong revenue'; CoinTelegraph 'Circle's ARC token sale lifts earnings as lower yields weigh on USDC income'; Democratic sweep removes clarity-act legislative threat."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long BTC/USD spot or BTC perps into 2026 Q3; Democratic sweep and geopolitical 'no war' rhetoric de-risk regulatory tail, while mortgage weakness signals Fed cutting 50+ bps by Q3.",
-        "horizon": "60–120 days",
+        "thesis": "Long BTC/short DXY (dollar index): Democratic sweep + debt-ceiling brinkmanship forces Fed pause; crypto benefits from perceived fiscal recklessness and falling USD.",
+        "horizon": "60-120 days (through August 2026)",
         "supporting_signals": [
-          "CoinDesk: BTC rebounds to $78,300 in V-shaped comeback post-midterm",
-          "CNBC: Mortgage rates drop third straight week; demand collapsing signals Fed pivot imminent",
-          "BBC/CoinDesk: Iran's Ghalibaf endorses 'no war' message, reducing geopolitical premium on oil/safe-haven USD",
-          "CoinDesk: Circle beats earnings on soaring USDC, validates institutional on-ramp narrative"
+          "CoinDesk: 'Bitcoin hits $80.5K as US stocks rally on midterm election results'",
+          "CNBC: 'The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility'",
+          "CoinDesk: 'The election changes Washington. The work on crypto continues' + Clarity Act likely dead under Democratic Congress"
         ],
-        "counter_view": "Bitcoin ETF outflows ($1.16B) and Binance hack (81% SOL stolen, routed via THORChain) signal contagion risk and retail capitulation; if credit cycle breaks faster than expected, BTC could retest $60K.",
-        "expression": "Long Bitcoin spot (2-5% portfolio) or 3x leveraged BTC perps with stop below $74K; hedge with long gold or long DXY 1% position if geopolitical risk spikes"
+        "counter_view": "If debt-ceiling stalemate triggers real default risk or liquidity crunch, BTC could crash harder than DXY due to risk-off flight to safety; Democrats may surprise with fiscal restraint.",
+        "expression": "BTC perpetuals (long) + short DXY (or short USDJPY if rates fall) via CME E-mini Yen futures; ratio trade BTC/DXY synthetic."
       },
       {
-        "thesis": "Long USD/JPY or short JPY via FX forwards; Democratic sweep + rate-cut cycle narrows US-Japan carry gap, but political dysfunction and billionaire-influence narrative may trigger safe-haven flows into yen—timing is tight.",
-        "horizon": "30–60 days",
+        "thesis": "Long hyperscaler mega-caps (NVDA, META, MSFT, GOOGL, AMZN) / short AI infrastructure plays (HUT, RIOT, MARA): voter backlash on data center buildout caps cap-ex; efficiency consolidates to established players with scale and brand.",
+        "horizon": "90-180 days (through November 2026)",
         "supporting_signals": [
-          "CNBC: Exit polls show voter concern about government corruption and billionaire influence, reducing risk-on appetite",
-          "CNBC: Mortgage rates drop but demand falls; credit stress signals coming rate cuts",
-          "BBC: Iran's 'no war' rhetoric reduces geopolitical tail-risk to yen safe-haven bid"
+          "CNBC: 'Hyperscalers and Apple surge after election results remove investor uncertainty'; Stocks tied to Musk and data centers fell",
+          "CNBC: 'Voters rebuff data centers in every ballot measure except one during the 2026 midterms'",
+          "CoinDesk: 'Wall Street rethinks AI data center boom as Texas election raises new risks'",
+          "Cointelegraph: 'Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss' (bifurcation signal)"
         ],
-        "counter_view": "Bank of Japan may remain hawkish on rate hikes through 2026; US Treasury yields could stay elevated if Democrats enact fiscal stimulus; carry trade unwind risk is still elevated.",
-        "expression": "Short 3–5% of portfolio in JPY-hedged foreign equity (e.g., SPY or EAFE via FX forwards); or directly short USD/JPY 1–2% position; take profit if pair hits 145 or stops if breaks below 138"
+        "counter_view": "Pure-play infrastructure (Hut 8, Riot, Marathon) may rebound if permitted capacity offsets voter restrictions; AI capex cycle still in early innings and hyperscalers cannot absorb all demand.",
+        "expression": "QQQ (Nasdaq-100 tech-heavy) long + short IYT (iShares Global Tech ETF tilted AI infra) or direct short positions in RIOT, HUT, MARA."
       },
       {
-        "thesis": "Short Tesla (TSLA) or short leveraged auto sector via bearish call spreads; Musk political liability confirmed by Democrat midterm sweep, and regulatory headwinds (space data centers as desperation move) suggest multiple compression ahead.",
-        "horizon": "45–90 days",
+        "thesis": "Long ETH / short BTC ratio over next 60 days: stablecoin regulatory clarity under Democrats benefits Ethereum ecosystem (Circle on Solana + layer-2 adoption); BTC benefiting solely from macro liquidity narrative.",
+        "horizon": "30-90 days (through June 2026)",
         "supporting_signals": [
-          "CNBC: SpaceX and Tesla down 4% on Democrats' big win; voters cited billionaire-influence concerns",
-          "CoinDesk: Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
-          "CNBC: McDonald's earnings beat but US traffic falls; consumer budget fatigue evident"
+          "CoinDesk: 'Global asset manager Schroders brings emerging market bond fund to Solana'",
+          "CoinDesk: 'Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce'",
+          "CoinDesk: 'U.S. Democratic sweep could be the final nail in the Clarity Act's coffin' (removes anti-Ethereum regulatory risk)",
+          "Ethereum trending crypto token (fundamental demand signal)"
         ],
-        "counter_view": "Tesla beat Q2 deliveries expectations; FSD adoption accelerating; Giga Berlin/Austin production ramps may offset political headwinds. Valuation already repriced post-midterm 4% drop.",
-        "expression": "Sell 1–2% TSLA outright (stop +8%) or buy TSLA 2026-09 $180/$160 put spreads if spot >$190; ratio-hedge against long NVDA/semiconductor exposure"
+        "counter_view": "BTC macro tailwinds from DXY weakness and Fed pause dominate; Ethereum faces technical debt (Hacker News top story 'AI is forcing us to pay off 40 years of technical debt') and scalability competition.",
+        "expression": "Long ETH / short BTC perps on Binance, dYdX, or Bybit; or long ETH-USD call spread + short BTC-USD call spread (calendar vol play)."
       },
       {
-        "thesis": "Long ETH/BTC ratio on Morgan Stanley's RWA tokenization move and USDC volume surge; Ethereum's DeFi/stablecoin dominance de-risks with institutional capital flows, while Bitcoin's macro macro hedge status may compress as rate-cut cycle unfolds.",
-        "horizon": "60–150 days",
+        "thesis": "Long CVS post-breakup play: conglomerate discount unwind + pharmacy core business stabilized; expect 15–25% re-rating on sum-of-parts valuation by September 2026.",
+        "horizon": "120 days (through September 2026)",
         "supporting_signals": [
-          "CoinDesk: Morgan Stanley says it is among first banks to tokenize real world assets",
-          "CoinDesk: Circle beats earnings and revenue on soaring USDC transaction volume",
-          "CoinDesk: Elon floats space data centers (shift from Bitcoin narrative to compute-layer thesis favoring ETH)",
-          "Cointelegraph: DeFi leads gains as Bitcoin rebounds"
+          "CNBC: 'CVS Health plans to split itself up. Here's why a breakup could make sense now'; 'Analysts say that after a roughly two-year turnaround the company's retail pharmacy business and other units may be strong enough to stand on their own'",
+          "Democratic agenda focused on affordability + healthcare accessibility (CVS retail footprint advantage)",
+          "Typical post-breakup re-rating plays (PG/JNJ historical comps)"
         ],
-        "counter_view": "Bitcoin's store-of-value narrative could strengthen if geopolitical risk resurges (Taiwan, Iran); Ethereum network growth is slowing relative to new L2s; ETH/BTC ratio has structural headwinds from miner selling.",
-        "expression": "Long 2–3% ETH/BTC ratio via spot trade (buy ETH, short BTC) or use Dydx/GMX to go long ETH perps + short BTC perps with 2:1 ratio hedge; target ratio 0.065–0.075, stop 0.050"
+        "counter_view": "Breakup execution risk; pharmacy margin compression from generic competition; reimbursement pressure persists under Democratic push for drug price controls.",
+        "expression": "Long CVS calls (Sep or Dec 2026 $80 strike) + synthetics; or direct long CVS shares with stop at $65."
       },
       {
-        "thesis": "Short home-builder stocks (e.g., DHI, LEN) and long mortgage servicer shorts (e.g., RKT); CNBC reports mortgage rates dropping but homebuyer demand collapsing—affordability crisis is worsening, not improving, suggesting housing recession ahead by Q4 2026.",
-        "horizon": "90–180 days",
+        "thesis": "Long AMD / short Intel: Hacker News signals AMD to outsell Intel in Q4 for first time; Democratic control removes Trump tariff headwind on chip supply chains; data center voter backlash actually favors efficient RISC architectures over x86 legacy.",
+        "horizon": "90-180 days (through November 2026)",
         "supporting_signals": [
-          "CNBC: Mortgage rates drop for third straight week, but homebuyers continue to leave market",
-          "CNBC: High home prices and inflation stretch affordability—demand collapse despite rate relief",
-          "CNBC: McDonald's US restaurant traffic falls; Wayfair sales +10% but consumer is rotated to value, not discretionary spend"
+          "Hacker News top story: 'AMD expects to outsell Intel in Q4 for the first time in history'",
+          "Hacker News: 'Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux' (signals efficiency + open-source bias)",
+          "CNBC data center voter backlash favors lean, efficient compute (AMD RISC advantage)"
         ],
-        "counter_view": "Rate cuts may eventually unlock demand as affordability improves; builder pricing power remains elevated; new construction inventory is tight. Recession call may be early.",
-        "expression": "Short 1–2% allocation to homebuilder sector via IYM or DHI puts (2026-09 $70 puts); long puts on mortgage REITs (NRZ, AGNC) or short RKT outright; hedge with long XLV (healthcare) or XLY (discretionary) if macro breaks badly"
+        "counter_view": "Intel's process node roadmap (Intel 20A, 18A) could inflect; AMD execution risk on server platform stability; Nvidia dominance in AI training insulates Intel from near-term margin pressure.",
+        "expression": "Long AMD (call spread Sep/Dec 2026 $180/$200) + short Intel (put spread $25/$20) or direct equity ratio AMD/INTC long."
       }
     ]
   }
