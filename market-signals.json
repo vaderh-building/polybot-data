@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2026-11-05T20:25:29.057960+00:00",
+  "generated_at_utc": "2026-11-06T01:17:10.598334+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+        "summary": "Here are the most breathtaking statistics from the major stock sell-off on Thursday.",
+        "link": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+        "published": "Thu, 05 Nov 2026 23:39:32 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
@@ -11,52 +18,66 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025",
-        "summary": "Companies tied to the AI buildout are all selling off as concerns mount about a slowdown following the midterm elections.",
-        "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-        "published": "Thu, 05 Nov 2026 20:08:49 GMT"
+        "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+        "summary": "The Mississippi Senate election could be determined by the mail-in ballots received after Election Day, whose legality was upheld by the Supreme Court.",
+        "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+        "published": "Thu, 05 Nov 2026 23:40:00 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
-        "summary": "From its intraday low to high Thursday, VIX moved more than 11 points, the biggest one-day move since April 9.",
-        "link": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
-        "published": "Thu, 05 Nov 2026 19:20:21 GMT"
+        "title": "The October jobs report is out Friday. Here's everything to expect",
+        "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
+        "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+        "published": "Thu, 05 Nov 2026 21:32:52 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
-        "summary": "Democrats are certain to scrutinize the U.S. intervention in Venezuela, administration mineral deals and the cancellation of previously funded energy projects.",
-        "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-        "published": "Thu, 05 Nov 2026 19:13:06 GMT"
+        "title": "IRS unveils higher capital gains tax brackets for 2027",
+        "summary": "The IRS has announced higher long-term capital gains brackets for 2027. Here's what investors need to know.",
+        "link": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+        "published": "Fri, 06 Nov 2026 01:00:10 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-        "summary": "The biggest forces shaping the economy aren't going to change just because the party in power did.",
-        "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
-        "published": "Thu, 05 Nov 2026 14:33:32 GMT"
+        "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
+        "summary": "President Donald Trump was briefed about a year ago about those intelligence findings, The New York Times reported.",
+        "link": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+        "published": "Thu, 05 Nov 2026 22:21:29 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
-        "summary": "JPMorgan kept Jeffrey Epstein as a client for years after top executive Mary Erdoes hearing claims he paid to have underage girls brought to his home.",
-        "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-        "published": "Thu, 05 Nov 2026 17:42:29 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy",
-        "summary": "The likely defeat of the California billionaire tax may energize Democrats in Congress to propose federal tax hikes on high earners, according to tax experts.",
-        "link": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-        "published": "Thu, 05 Nov 2026 16:19:21 GMT"
+        "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+        "summary": "Following a dramatic plunge in its stock price, IREN said some revenue is being delayed from 2026 until early next year.",
+        "link": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+        "published": "Thu, 05 Nov 2026 23:25:02 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "IRS announces bigger estate and gift tax exemption for 2027",
-        "summary": "The IRS has announced bigger estate and gift tax exemptions for 2027. Here's what investors need to know.",
+        "summary": "The IRS has announced a bigger estate and gift tax exemption for 2027. Here's what investors need to know.",
         "link": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
-        "published": "Thu, 05 Nov 2026 19:54:26 GMT"
+        "published": "Thu, 05 Nov 2026 20:51:57 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 06 Nov 2026 01:02:17 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+        "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+        "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 05 Nov 2026 23:31:35 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+        "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+        "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 06 Nov 2026 00:02:57 GMT"
       },
       {
         "source": "BBC World",
@@ -67,17 +88,10 @@
       },
       {
         "source": "BBC World",
-        "title": "Who could be behind hoax bomb threats to European air travel?",
-        "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-        "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 05 Nov 2026 19:58:40 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "California governor commutes death sentences for all 548 people on death row",
-        "summary": "California has historically had the largest population of death row inmates in the US.",
+        "title": "California governor commutes sentences for state's 548 death row inmates",
+        "summary": "California has historically had the largest population of people on death row in the US.",
         "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 05 Nov 2026 20:12:03 GMT"
+        "published": "Thu, 05 Nov 2026 23:09:33 GMT"
       },
       {
         "source": "BBC World",
@@ -101,20 +115,6 @@
         "published": "Thu, 05 Nov 2026 19:32:54 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-        "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 05 Nov 2026 17:57:57 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-        "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-        "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 05 Nov 2026 19:08:08 GMT"
-      },
-      {
         "source": "CoinDesk",
         "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
         "summary": "",
@@ -123,14 +123,14 @@
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
+        "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
         "summary": "",
         "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
         "published": "Thu, 05 Nov 2026 18:48:40 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+        "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
         "summary": "",
         "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
         "published": "Thu, 05 Nov 2026 16:58:21 +0000"
@@ -172,10 +172,10 @@
       },
       {
         "source": "Cointelegraph",
-        "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PE57WMSNEKDPGAVGB8MBPQ/password-fraud-hacker-scam.png\" /></p><p>SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full.</p>",
-        "link": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 05 Nov 2026 19:02:19 +0000"
+        "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core Scientific to quit Bitcoin mining by year-end as AI business surges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg\" /></p><p>The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.</p>",
+        "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 06 Nov 2026 00:19:49 +0000"
       }
     ],
     "chinese_news": [],
@@ -183,58 +183,58 @@
       {
         "source": "Hacker News",
         "title": "sshole",
-        "summary": "score: 1904, comments: 497",
+        "summary": "score: 2296, comments: 569",
         "link": "https://sshhole.com",
-        "score": 1904
+        "score": 2296
       },
       {
         "source": "Hacker News",
         "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-        "summary": "score: 448, comments: 80",
+        "summary": "score: 577, comments: 123",
         "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-        "score": 448
+        "score": 577
+      },
+      {
+        "source": "Hacker News",
+        "title": "Search for everyone",
+        "summary": "score: 496, comments: 243",
+        "link": "https://kagi.com/changelog#11820",
+        "score": 496
+      },
+      {
+        "source": "Hacker News",
+        "title": "Claude Code sends your email address to websites",
+        "summary": "score: 445, comments: 157",
+        "link": "https://github.com/anthropics/claude-code/issues/107757",
+        "score": 445
+      },
+      {
+        "source": "Hacker News",
+        "title": "Goodbye from Salon",
+        "summary": "score: 407, comments: 148",
+        "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+        "score": 407
       },
       {
         "source": "Hacker News",
         "title": "Motorola Signature 27 with GrapheneOS support",
-        "summary": "score: 277, comments: 185",
+        "summary": "score: 397, comments: 296",
         "link": "https://motorolanews.com/motorola-signature-27-2/",
-        "score": 277
+        "score": 397
       },
       {
         "source": "Hacker News",
-        "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-        "summary": "score: 210, comments: 10",
-        "link": "https://www.openssh.org/releasenotes.html#10.6p2",
-        "score": 210
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "summary": "score: 297, comments: 96",
+        "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "score": 297
       },
       {
         "source": "Hacker News",
-        "title": "Download your favourite YouTube videos",
-        "summary": "score: 206, comments: 94",
-        "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-        "score": 206
-      },
-      {
-        "source": "Hacker News",
-        "title": "I wish tech companies knew more about me",
-        "summary": "score: 189, comments: 176",
-        "link": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-        "score": 189
-      },
-      {
-        "source": "Hacker News",
-        "title": "The Lisp curse, now coming to your ecosystem",
-        "summary": "score: 157, comments: 103",
-        "link": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
-        "score": 157
-      },
-      {
-        "source": "Hacker News",
-        "title": "September in Servo: <progress>, rounded rectangles, and more",
-        "summary": "score: 142, comments: 30",
-        "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
-        "score": 142
+        "title": "Window Sweaters",
+        "summary": "score: 238, comments: 79",
+        "link": "https://github.com/saragordic/window-sweaters",
+        "score": 238
       }
     ],
     "crypto_trending": [
@@ -246,171 +246,167 @@
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Lighter (LIT)",
+        "summary": "market cap rank: 77",
+        "link": "https://www.coingecko.com/en/coins/lighter"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "NEAR Protocol (NEAR)",
+        "summary": "market cap rank: 21",
+        "link": "https://www.coingecko.com/en/coins/near"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Ethena (ENA)",
+        "summary": "market cap rank: 43",
+        "link": "https://www.coingecko.com/en/coins/ethena"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Zcash (ZEC)",
         "summary": "market cap rank: 10",
         "link": "https://www.coingecko.com/en/coins/zcash"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Hyperliquid (HYPE)",
-        "summary": "market cap rank: 11",
-        "link": "https://www.coingecko.com/en/coins/hyperliquid"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Official Trump (TRUMP)",
-        "summary": "market cap rank: 122",
-        "link": "https://www.coingecko.com/en/coins/official-trump"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
+        "title": "Ethereum (ETH)",
+        "summary": "market cap rank: 2",
+        "link": "https://www.coingecko.com/en/coins/ethereum"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 113",
+        "summary": "market cap rank: 112",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Injective (INJ)",
-        "summary": "market cap rank: 82",
-        "link": "https://www.coingecko.com/en/coins/injective"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will the U.S. implement a federal data center moratorium by end of 2026?",
+        "market_title": "Will Bitcoin close above $80,000 by December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Democratic midterm sweep has triggered immediate calls for AI buildout restrictions; regulatory risk is now priced into chip and cloud stocks but prediction markets lag consensus shift.",
-        "signal_source": "CNBC Top News: 'Top Democrats call to rein in AI buildout after midterms sweep: National data center moratorium now'"
+        "why_now": "BTC tumbled to $76K amid tech selloff and AI trade collapse; midterm regulatory fears are creating directional uncertainty that may persist through year-end.",
+        "signal_source": "CoinDesk (Bitcoin tumbles to $76,000); CNBC (Magnificent 7 loses $1 trillion, Democrats call AI moratorium)"
       },
       {
-        "market_title": "Will NVIDIA close below $700 on or before June 30, 2026?",
-        "venue": "Polymarket",
-        "why_now": "Chip stocks cratered on midterm AI-skepticism fears; nearest support levels suggest 15–20% downside from current levels if regulatory pressure accelerates.",
-        "signal_source": "CNBC Top News: 'AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025'"
-      },
-      {
-        "market_title": "Will the VIX exceed 40 by end of May 2026?",
+        "market_title": "Will the Fed cut rates below 3.5% by June 30, 2026?",
         "venue": "Kalshi",
-        "why_now": "VIX surged 11 points in one day (largest move since April 9); Wall Street fear gauge climbing; geopolitical risks (Trump energy probes, Ukraine, European hoax threats) layered on top of AI selloff.",
-        "signal_source": "CNBC Top News: 'Wall Street's fear gauge surges the most since April. Why traders think it should be even higher'"
+        "why_now": "Tech stocks collapsing and jobs data in focus; rate trajectory now critical to equity and crypto risk appetite in next 8 months.",
+        "signal_source": "CNBC (October jobs report Friday; Fed policy uncertainty tied to market volatility)"
       },
       {
-        "market_title": "Will JPMorgan's stock price fall more than 5% by August 31, 2026, following Senate probes?",
+        "market_title": "Will Nvidia stock outperform the S&P 500 by >10% through December 31, 2026?",
         "venue": "Polymarket",
-        "why_now": "Democrats poised to take Senate control and launch investigations into JPMorgan's Epstein relationship; reputational and potential litigation risks now concrete legislative threat.",
-        "signal_source": "CNBC Top News: 'Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control'"
+        "why_now": "Magnificent 7 collapse and congressional scrutiny of AI (Huang briefing demand); market pricing severe AI capex slowdown; contrarian longs on recovery thesis.",
+        "signal_source": "CNBC (Magnificent 7 loses $1T; Huang briefed by Trump on Chinese spy allegations); BBC (tech stocks plunge on AI slowdown fears)"
       },
       {
-        "market_title": "Will Binance's regulatory fines in the U.S. exceed $2 billion by end of 2026 following the $6.3B hacking incident?",
+        "market_title": "Will the IRS increase long-term capital gains tax rates for 2027 beyond announced brackets?",
         "venue": "Manifold",
-        "why_now": "TraderTraitor $6.3B Binance heist has triggered Fed/OCC bank security reviews and heightened exchange custody/compliance scrutiny; enforcement cycle historically accelerates post-major breach.",
-        "signal_source": "CoinDesk: 'Fed, OCC check US banks after Binance hack as experts flag security risks'; CoinDesk: 'What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist'"
+        "why_now": "IRS announced higher brackets for 2027; Democratic sweep in midterms signals appetite for higher taxes; estate/gift exemptions also rising—creates arbitrage on actual implementation.",
+        "signal_source": "CNBC (IRS unveils higher capital gains tax brackets for 2027; bigger estate/gift exemption for 2027)"
+      },
+      {
+        "market_title": "Will a U.S. national AI data center moratorium be enacted by December 31, 2026?",
+        "venue": "Manifold",
+        "why_now": "Top Democrats explicitly calling for moratorium post-midterms; market hasn't priced binary regulatory shock; infrastructure and energy stocks are exposed.",
+        "signal_source": "CNBC (Top Democrats call to rein in AI buildout after midterms: 'National data center moratorium now'); BBC (Democratic socialists win NYC and LA)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Bitcoin trade above $65,000 USD on or before July 15, 2026?",
-        "deadline": "2026-07-15",
-        "resolution_source": "CoinMarketCap or Coinbase official spot price at 4 PM UTC",
-        "why_underpriced": "Current bear pressure from AI slowdown + midterm regulatory fears is masking medium-term institutional adoption (Standard Chartered/SBI backing Soter crypto insurance, Amundi tokenization on Ethereum) and macro backdrop (USD weakness if Fed cuts rates post-summer inflation data).",
-        "trigger_signal": "CoinDesk: 'Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees glass half full'; crypto traded in sympathy with tech selloff despite orthogonal fundamentals."
-      },
-      {
-        "question": "Will the U.S. federal estate and gift tax exemption increase above $15 million per individual by January 1, 2027?",
-        "deadline": "2026-12-15",
-        "resolution_source": "IRS official tax announcements or U.S. Treasury guidance published before Dec 31, 2026",
-        "why_underpriced": "IRS just announced bigger exemptions for 2027, but Democrats plan higher taxes on wealthy; tension between sunset provisions and legislative push creates binary outcome that affects HNW crypto/asset allocation decisions.",
-        "trigger_signal": "CNBC Top News: 'IRS announces bigger estate and gift tax exemption for 2027'; CNBC: 'California's billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy'"
-      },
-      {
-        "question": "Will Tesla's stock price close above $280 on or before September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Yahoo Finance or Nasdaq official closing price",
-        "why_underpriced": "SpaceX share liquidation and Musk asset pressure (Ukraine ceasefire involvement, Trump administration energy deal investigations, AI regulation headwinds) create downside tail risk; market underprices concentration and political leverage erosion.",
-        "trigger_signal": "BBC World: 'Shares in Musk's SpaceX plunge as tech and AI stocks fall'; CNBC: 'Trump's energy deals are about to face a wave of investigations by Democrats'"
-      },
-      {
-        "question": "Will Ethereum (ETH) close above $3,000 USD on or before December 31, 2026?",
+        "question": "Will Bitcoin mining hash rate drop below 600 EH/s by December 31, 2026, as miners pivot to AI infrastructure?",
         "deadline": "2026-12-31",
-        "resolution_source": "CoinMarketCap or Coinbase official spot price at 4 PM UTC",
-        "why_underpriced": "Amundi (Europe's largest asset manager) tokenizing equity index funds on Ethereum signals institutional momentum and DeFi maturation; this use-case expansion is uncorrelated to U.S. AI regulation and provides secular tailwind independent of Fed/midterm cycles.",
-        "trigger_signal": "Cointelegraph: 'Europe's largest asset manager Amundi tokenizes equity index fund on Ethereum'; Kraken/Payward AAVE investment push signals coordinated DeFi capital deployment."
+        "resolution_source": "blockchain.com mining metrics or Glassnode on-chain data",
+        "why_underpriced": "Core Scientific exit from mining and rival capex shifts to AI are visible; market hasn't fully priced hash decline or its impact on mining economics.",
+        "trigger_signal": "Cointelegraph (Core Scientific to quit Bitcoin mining by year-end as AI business surges; American Bitcoin $126M profit masks mining pressure)"
       },
       {
-        "question": "Will the Nasdaq-100 (QQQ) fall below 15,500 by June 30, 2026?",
+        "question": "Will Ethereum spot ETF cumulative trading volume exceed $500 billion by June 30, 2026?",
         "deadline": "2026-06-30",
-        "resolution_source": "Nasdaq official index closing price or Invesco QQQ ETF",
-        "why_underpriced": "Worst Nasdaq day since April 2025 + AI meltdown + VIX spike have compressed valuations but midterm regulatory uncertainty (data center moratorium, tech investigation threats) creates 6-month overhang; consensus has not fully repriced downside in forward guidance.",
-        "trigger_signal": "CNBC: 'AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025'; CNBC: 'Wall Street's fear gauge surges the most since April'"
+        "resolution_source": "SEC EDGAR filings; ETF provider cumulative volume reports",
+        "why_underpriced": "Spot Ethereum ETF launched in mid-2024; adoption curve mirrors Bitcoin ETF trajectory but is underestimated in sentiment markets.",
+        "trigger_signal": "Crypto market focus on institutional adoption; ETH trending; Kraken/Payward DeFi push signals institutional interest"
+      },
+      {
+        "question": "Will a U.S. exchange (Kraken, Coinbase, or equivalent) suffer a reported hack or security breach draining >$100M by December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "CoinDesk, official company disclosure, SEC filing, or law enforcement public statement",
+        "why_underpriced": "Recent Binance $6.3B heist and TraderTraitor activity; Asian exchanges 'battening down'; Gate CEO quote on proving hack-survival; security risk is rising but not yet reflected in exchange token valuations.",
+        "trigger_signal": "CoinDesk (Binance heist $6.3B; Gate CEO: exchanges must prove hack survival; Asian exchanges surge in hacks)"
+      },
+      {
+        "question": "Will Google acquire or announce stake >10% in TeraWulf or equivalent AI-powered Bitcoin mining venture by October 31, 2026?",
+        "deadline": "2026-10-31",
+        "resolution_source": "SEC Form 8-K, company press release, or SEC filing (13D/13G)",
+        "why_underpriced": "Google AI/anthropic default scenario floated in coverage; AI capex and renewable energy bundling is live thesis; market underestimates Big Tech consolidation in crypto/energy.",
+        "trigger_signal": "CoinDesk (Google could take stake in TeraWulf's $19B AI project if Anthropic defaults); crypto mining capex surge"
+      },
+      {
+        "question": "Will Ethena (ENA) token maintain >$2 billion market cap through December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "CoinGecko, Messari, or major CEX spot price × circulating supply",
+        "why_underpriced": "ENA trending; stablecoin yield and USDe adoption are underestimated in a high-rate environment; but regulatory risk and Tether competition create tail risk.",
+        "trigger_signal": "Ethena trending on crypto feeds; stablecoin competition and 2027 capital gains tax changes may drive synthetic dollar demand"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Short AI/chip exposure (NVDA, SOXX) and long VIX/tail-risk hedges as Democratic regulatory push on data center buildout creates 6–12 month headwind for semiconductor demand.",
-        "horizon": "2–6 months (May–November 2026)",
+        "thesis": "Bitcoin rebounds to $90K+ by Q4 2026 as midterm regulatory fears fade and macro eases, but spot ETF adoption caps upside; long BTC spot via Grayscale Bitcoin Mini Trust (BTC) with 5-month horizon.",
+        "horizon": "5 months (to end 2026)",
         "supporting_signals": [
-          "CNBC: 'Top Democrats call to rein in AI buildout after midterms sweep: National data center moratorium now'",
-          "CNBC: 'AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025'",
-          "Midterm elections confirmed Democratic gains; regulatory calendar will shift into enforcement mode by Q3 2026"
+          "CNBC: BTC at $76K is oversold on tech-driven selloff, not fundamental shift",
+          "CoinDesk: Bitcoin tumble tied to collapsing AI trade, not crypto-specific catalyst",
+          "BBC: Democratic socialists win LA/NYC but have no explicit crypto policy; moratorium calls are broad, not Bitcoin-specific"
         ],
-        "counter_view": "Moratoria rarely pass at federal level; lobbying from tech giants (OpenAI, Anthropic, Google) and chip manufacturers will delay or water down restrictions; AI capex momentum may prove sticky if alternative geographies (Singapore, UAE, Mexico) absorb U.S. overflow.",
-        "expression": "Short NVDA 100 shares + long VIX call spreads (buy June 2026 35 call, sell 45 call) + long SOXX put ETF (3–6 month horizon)"
+        "counter_view": "National AI data center moratorium could trigger cascading energy/power concerns, prolonging crypto bearishness; Fed keeps rates higher-for-longer, crushing leverage.",
+        "expression": "Long BTC spot via Grayscale Bitcoin Mini Trust or Polymarket long-BTC-$90K contract; hedge with short 3x BTC perps on Deribit if moratorium chatter accelerates"
       },
       {
-        "thesis": "Long Bitcoin and Ethereum as crypto insurer/custody infrastructure (Soter, Amundi tokenization) and institutional adoption accelerate despite near-term macro headwinds; regulatory clarity (post-Binance hack) paradoxically strengthens moat for compliant players.",
-        "horizon": "3–9 months (May 2026–February 2027)",
+        "thesis": "Ethereum underperforms Bitcoin through 2026 due to crypto miner capex rotation to AI and renewed regulatory focus on DeFi after midterms, but outperforms if L2 adoption and staking yield hold; neutral ETH/BTC ratio, short ETH vs. long BTC.",
+        "horizon": "6 months (to November 2026)",
         "supporting_signals": [
-          "CoinDesk: 'Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million'",
-          "Cointelegraph: 'Europe's largest asset manager Amundi tokenizes equity index fund on Ethereum'",
-          "Kraken Payward AAVE investment signals DeFi capital deployment by tier-1 institutions",
-          "Fed/OCC bank security reviews post-Binance will create compliance tailwind for custody solutions"
+          "Cointelegraph: Core Scientific, American Bitcoin pivot away from mining; AI capex surge absorbs PoW energy",
+          "CNBC: Top Dems call AI moratorium post-midterms; regulatory overhang on data centers will spill into DeFi scrutiny",
+          "CoinDesk: Kraken/Payward AAVE push and crypto insurance funding (Soter $23.5M) show DeFi builders hedging regulatory risk"
         ],
-        "counter_view": "Binance $6.3B hack and ongoing TraderTraitor threat may trigger restrictive custody rules that undercut DeFi yield; U.S. regulatory crackdown (already evident in JPMorgan probes) could pressure cryptocurrency valuations regardless of institutional adoption.",
-        "expression": "Long BTC/USDC perps (3–4x leverage) + long ETH (spot or call spreads, Jun 2026 $2,800 strike) + accumulate AAVE on dips; hedge with short Binance perpetual or restrictive crypto regulation binary on Manifold"
+        "counter_view": "Ethereum spots strong institutional demand; staking rewards and L2 Dencun upgrades drive adoption; ETH/BTC could actually outperform if macro eases.",
+        "expression": "Short ETH/BTC ratio via dYdX perpetual or Deribit futures; or short 2x ETH, long 1x BTC on FTX/Kraken spot margin"
       },
       {
-        "thesis": "Long U.S. dollar (DXY) and short risk assets (SPY, QQQ) as geopolitical tensions (Ukraine, Turkey shootings, European hoax bomb threats, Trump energy investigations) combine with AI regulatory headwinds to trigger flight-to-safety bid.",
-        "horizon": "1–3 months (May–August 2026)",
+        "thesis": "Tech mega-cap (NVDA, MSFT, TSLA) underweight or short through Q3 2026 as AI capex moratorium chatter and midterm regulatory pressure squeeze margins; long defensive value (XLV, utilities) and gold as flight-to-safety.",
+        "horizon": "3–6 months (through Q3 2026)",
         "supporting_signals": [
-          "BBC World: 'Hoax bomb threats target European airlines and airports for second time in a week'",
-          "BBC World: 'Eight killed in series of shootings in western Turkey'",
-          "VIX surged 11 points in one day; traders believe fear gauge should be even higher",
-          "CNBC: 'Trump's energy deals are about to face a wave of investigations by Democrats'",
-          "Melania Trump's Ukraine ceasefire hosting signals elevated geopolitical stakes"
+          "CNBC: Magnificent 7 loses $1T; tech plunge is day 1 of repricing",
+          "BBC: Democratic socialists in LA/NYC + unions protesting high cost of living signal pro-labor, anti-tech-billionaire mood",
+          "CNBC: Democrats call AI moratorium post-midterms; Nvidia Huang congressional briefing on Chinese spy concerns adds geopolitical tail risk"
         ],
-        "counter_view": "Trump administration energy leverage and Ukraine ceasefire momentum could de-escalate geopolitical risks and trigger short-squeeze in risk assets; Fed rate-cut cycle may overpower safe-haven demand if inflation data underwhelms in coming months.",
-        "expression": "Long DXY (buy 107.5 call, sell 110 call, Sep 2026 expiry) + short SPY/QQQ via put spreads (3-month, 10–15 delta) + long GLD (gold) as inflation hedge and geopolitical tail-risk play"
+        "counter_view": "AI capex is structural, not cyclical; moratorium calls are political theater; earnings season will restore confidence; NVDA dominates AI chip supply.",
+        "expression": "Short QQQ or SPY via puts (3–6 month expiry); long GLD or IAU; long XLV (healthcare ETF); or short NVDA calls against long BTC (macro hedge)"
       },
       {
-        "thesis": "Short JPMorgan (JPM) and financials sector (XLF) as Democratic Senate takeover ensures multi-year investigation cycle into Epstein-era compliance failures; litigation tail risk and reputational damage will weigh on stock multiple.",
-        "horizon": "3–12 months (May 2026–May 2027)",
+        "thesis": "U.S. Dollar strength extends into H2 2026 on Fed holdout and geopolitical uncertainty (Paraguay bank collapse, Turkish shootings, European protests signal instability), supporting DXY above 105; long DXY, short EM equities and BTC.",
+        "horizon": "3–6 months (through Q3 2026)",
         "supporting_signals": [
-          "CNBC: 'Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control'",
-          "Historical precedent: Wells Fargo (WFCS) compliance probes dragged out over 3+ years and suppressed valuation multiple",
-          "Incoming Senate Democratic control creates political will for banking system scrutiny"
+          "BBC: Paraguay President resigns after bank collapse; France sees 600K+ protesters over cost of living; Turkey violence escalates—EM stability risk rising",
+          "CNBC: October jobs report Friday will inform Fed hold/cut trajectory; any resilience keeps dollar bid",
+          "CoinDesk: Bitcoin tumble to $76K tied partly to dollar strength on risk-off sentiment"
         ],
-        "counter_view": "JPM's earnings power and dividend will support stock in near term; settlement amounts already partially priced in; alternative financial institutions face similar legacy issues, so sector rotation may limit downside.",
-        "expression": "Short JPM 100 shares or sell 1-month call spreads (June 2026, $180 strike, short 185 call) + rotate long into regional banks or credit unions; consider long TLT (long-duration Treasuries) as litigation fears boost safe-haven duration demand"
+        "counter_view": "Fed eventually pivots dovish; EM credit stress is priced; dollar weakness could accelerate sharply if inflation cools faster than expected.",
+        "expression": "Long DXY via perps on Bybit/Deribit; short BTC/USDT to capture DXY strength; or long USD/CNY forwards if PBOC continues easing"
       },
       {
-        "thesis": "Long Zcash (ZEC) and privacy-focused crypto as Binance hack ($6.3B) and ongoing security breaches (TraderTraitor, SignalPlus API attacks) drive institutional demand for non-custodial, privacy-preserving settlement layers and cross-chain bridges.",
-        "horizon": "3–6 months (May–November 2026)",
+        "thesis": "Crypto exchange and custody tokens (Kraken parent Payward, FTX-adjacent plays if recovery occurs) outperform BTC/ETH through 2026 as institutional capital seeks regulated venues post-Binance hack and post-regulatory clarity; long AAVE (if it proxies DeFi insurance/compliance) vs. short altcoin exposure.",
+        "horizon": "6–12 months (through H1 2027)",
         "supporting_signals": [
-          "CoinDesk: 'What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist'",
-          "Cointelegraph: 'Fed, OCC check US banks after Binance hack as experts flag security risks'",
-          "CoinDesk: 'Gate CEO says crypto exchanges must prove they can survive a hack like Binance's'",
-          "Privacy coin utilities rising as enterprises prioritize non-custodial settlement"
+          "CoinDesk: Binance $6.3B heist + TraderTraitor; Gate CEO warns exchanges must prove hack survival; Kraken/Payward backing Soter crypto insurance (Standard Chartered, SBI backing)",
+          "CoinDesk: Asian exchanges battening down; API key revocations (SignalPlus fake Teams invite) = heightened security posture",
+          "Cointelegraph: Crypto ally French Hill loses House chair but stays in Congress; regulatory environment stabilizing under divided government"
         ],
-        "counter_view": "U.S. regulators intensifying enforcement against privacy coins (FinCEN, OCC); Monero delisting momentum and Zcash regulatory scrutiny may crimp upside; macro headwinds from AI selloff and VIX spike could overwhelm niche crypto tailwinds.",
-        "expression": "Long ZEC/USDC spot (2–3x leverage on perpetuals) + long Monero (XMR) if accessible; hedge with short regulatory binary ('Will U.S. ban privacy coins by 2027?') on Manifold at 20–30% implied probability if available"
+        "counter_view": "Kraken/Payward still face idiosyncratic regulatory risk; exchange consolidation could reduce pricing power; AAVE is a governance token, not a pure exchange play.",
+        "expression": "Long AAVE as DeFi-compliance proxy; or directional long on Kraken staking/custody products if retail sentiment shifts; avoid single-exchange tokens—use DeFi aggregator plays instead"
       }
     ]
   }
