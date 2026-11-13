@@ -1,69 +1,111 @@
 {
-  "generated_at_utc": "2026-11-12T13:28:38.661858+00:00",
+  "generated_at_utc": "2026-11-13T01:35:44.061752+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+        "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
+        "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+        "published": "Thu, 12 Nov 2026 22:47:28 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+        "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+        "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "published": "Thu, 12 Nov 2026 22:24:12 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
+        "summary": "The IRS has announced higher 401(k) contribution limits for 2027. Here’s what retirement savers need to know.",
+        "link": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
+        "published": "Thu, 12 Nov 2026 17:23:14 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Trump says ‘we don’t need a deal with Iran’",
         "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
         "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-        "published": "Thu, 12 Nov 2026 13:21:19 GMT"
+        "published": "Thu, 12 Nov 2026 20:34:31 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "‘A dark day for Nvidia’: Here’s what analysts are saying as markets brace for news on Huang's fate",
-        "summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
-        "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-        "published": "Thu, 12 Nov 2026 13:08:28 GMT"
+        "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+        "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+        "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+        "published": "Thu, 12 Nov 2026 22:48:26 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Nebius falls 10% as company expects increased 2026 capex spend, issues weak outlook",
-        "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
-        "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-        "published": "Thu, 12 Nov 2026 13:06:08 GMT"
+        "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+        "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
+        "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+        "published": "Thu, 12 Nov 2026 21:20:35 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Unions helped Democrats win big in 2026. Now they want action",
-        "summary": "Unions spent millions of dollars and mobilized thousands of members to get out the vote for Democrats in the midterm election. Now they want to see action.",
-        "link": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
-        "published": "Thu, 12 Nov 2026 13:09:33 GMT"
+        "title": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
+        "summary": "Nvidia stock fell 5% on Thursday following the departure of CEO Jensen Huang. Some see it as a signal to sell, others an opportunity to buy.",
+        "link": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+        "published": "Thu, 12 Nov 2026 20:01:29 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-        "summary": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
-        "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-        "published": "Thu, 12 Nov 2026 11:30:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-        "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
-        "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-        "published": "Wed, 11 Nov 2026 22:58:11 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
-        "summary": "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
-        "link": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
-        "published": "Thu, 12 Nov 2026 12:56:27 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
-        "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
-        "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-        "published": "Thu, 12 Nov 2026 06:11:16 GMT"
+        "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+        "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
+        "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+        "published": "Thu, 12 Nov 2026 19:58:11 GMT"
       },
       {
         "source": "BBC World",
-        "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-        "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-        "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 12 Nov 2026 07:59:33 GMT"
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 23:34:05 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 21:00:42 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+        "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+        "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 13 Nov 2026 00:20:24 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+        "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 20:09:16 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+        "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+        "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 19:23:02 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Australian footballers will not be charged after hotel incident, police say",
+        "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+        "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 13 Nov 2026 01:03:59 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+        "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 18:47:35 GMT"
       },
       {
         "source": "BBC World",
@@ -73,176 +115,140 @@
         "published": "Thu, 12 Nov 2026 12:56:55 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-        "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-        "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 12 Nov 2026 13:02:37 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-        "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 12 Nov 2026 12:26:01 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-        "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 12 Nov 2026 12:14:51 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-        "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-        "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 12 Nov 2026 07:45:52 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "British woman missing from cruise ship in Atlantic",
-        "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 12 Nov 2026 10:13:35 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-        "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-        "published": "Wed, 11 Nov 2026 22:07:37 GMT"
+        "source": "CoinDesk",
+        "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+        "summary": "",
+        "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+        "published": "Thu, 12 Nov 2026 22:55:52 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin weakness erases September's bullish signal",
+        "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
         "summary": "",
-        "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
-        "published": "Thu, 12 Nov 2026 12:15:00 +0000"
+        "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+        "published": "Thu, 12 Nov 2026 22:47:41 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+        "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-        "published": "Thu, 12 Nov 2026 12:04:42 +0000"
+        "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+        "published": "Thu, 12 Nov 2026 21:07:49 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+        "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-        "published": "Thu, 12 Nov 2026 11:43:41 +0000"
+        "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+        "published": "Thu, 12 Nov 2026 16:45:52 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+        "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
-        "published": "Thu, 12 Nov 2026 11:30:00 +0000"
+        "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+        "published": "Thu, 12 Nov 2026 15:45:48 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+        "title": "Crypto for Advisors: The blockchain built to run financial markets",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
-        "published": "Thu, 12 Nov 2026 10:42:06 +0000"
+        "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+        "published": "Thu, 12 Nov 2026 15:34:29 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+        "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
-        "published": "Thu, 12 Nov 2026 10:32:35 +0000"
+        "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+        "published": "Thu, 12 Nov 2026 14:45:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+        "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
-        "published": "Thu, 12 Nov 2026 10:10:48 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-        "published": "Thu, 12 Nov 2026 09:15:04 +0000"
+        "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+        "published": "Thu, 12 Nov 2026 14:24:51 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU DeFi proposals could push users to riskier platforms, says Coinbase exec\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg\" /></p><p>Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.</p>",
-        "link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 12 Nov 2026 12:21:43 +0000"
+        "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Nvidia CEO Huang had third alleged affair: Reuters\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg\" /></p><p>Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO.</p>",
+        "link": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 13 Nov 2026 01:26:27 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Tim Peters has died",
-        "summary": "score: 1286, comments: 151",
-        "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-        "score": 1286
+        "title": "Jensen Huang resigns",
+        "summary": "score: 2930, comments: 2779",
+        "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+        "score": 2930
       },
       {
         "source": "Hacker News",
-        "title": "Nvidia is preparing to oust Jensen Huang",
-        "summary": "score: 1130, comments: 1513",
-        "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-        "score": 1130
+        "title": "Service degradation on Microsoft 365",
+        "summary": "score: 493, comments: 458",
+        "link": "https://status.cloud.microsoft/",
+        "score": 493
       },
       {
         "source": "Hacker News",
-        "title": "AWS emulator",
-        "summary": "score: 888, comments: 247",
-        "link": "https://github.com/aws/aws-emulator",
-        "score": 888
+        "title": "Gemini 4 Hydrogen",
+        "summary": "score: 460, comments: 296",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "score": 460
       },
       {
         "source": "Hacker News",
-        "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-        "summary": "score: 520, comments: 252",
-        "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-        "score": 520
+        "title": "Rust 1.100",
+        "summary": "score: 415, comments: 171",
+        "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+        "score": 415
       },
       {
         "source": "Hacker News",
-        "title": "93% of paint splatters are valid Perl programs (2019)",
-        "summary": "score: 488, comments: 62",
-        "link": "https://www.mcmillen.dev/sigbovik/",
-        "score": 488
+        "title": "Writing correct software is hard and math alone won’t help us (2016)",
+        "summary": "score: 357, comments: 167",
+        "link": "https://pron.github.io/posts/correctness-and-complexity",
+        "score": 357
       },
       {
         "source": "Hacker News",
-        "title": "Gemini Decisions API",
-        "summary": "score: 471, comments: 145",
-        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-        "score": 471
+        "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+        "summary": "score: 330, comments: 135",
+        "link": "https://github.com/simpsoka/zigzag",
+        "score": 330
       },
       {
         "source": "Hacker News",
-        "title": "Jane Street: Socratic Tutor",
-        "summary": "score: 374, comments: 90",
-        "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-        "score": 374
+        "title": "Gemini 4 Hydrogen and Orchestrator",
+        "summary": "score: 298, comments: 72",
+        "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+        "score": 298
       },
       {
         "source": "Hacker News",
-        "title": "Lock Your GitHub Actions",
-        "summary": "score: 283, comments: 58",
-        "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-        "score": 283
+        "title": "I'm making LLMs work on small and old devices",
+        "summary": "score: 278, comments: 94",
+        "link": "https://github.com/hyperionaidev/smolmaxxing/",
+        "score": 278
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "ZIG Finance (ZIG)",
-        "summary": "market cap rank: 415",
-        "link": "https://www.coingecko.com/en/coins/zigchain"
+        "title": "ni hao cat (MIHAO)",
+        "summary": "market cap rank: 961",
+        "link": "https://www.coingecko.com/en/coins/ni-hao-cat-2"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "AudaCity (DACITYCOIN)",
+        "summary": "market cap rank: 987",
+        "link": "https://www.coingecko.com/en/coins/audacity-4"
       },
       {
         "source": "CoinGecko Trending",
@@ -252,161 +258,155 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Zcash (ZEC)",
-        "summary": "market cap rank: 11",
-        "link": "https://www.coingecko.com/en/coins/zcash"
+        "title": "Pearl (PEARL)",
+        "summary": "market cap rank: 100",
+        "link": "https://www.coingecko.com/en/coins/pearl-research"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Rocco (ROCCO)",
-        "summary": "market cap rank: 871",
-        "link": "https://www.coingecko.com/en/coins/rocco"
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 117",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "title": "Pepe (PEPE)",
+        "summary": "market cap rank: 45",
+        "link": "https://www.coingecko.com/en/coins/pepe"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Seppuku (SEPPUKU)",
-        "summary": "market cap rank: 841",
-        "link": "https://www.coingecko.com/en/coins/seppuku"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 29",
-        "link": "https://www.coingecko.com/en/coins/sui"
+        "title": "XRP (XRP)",
+        "summary": "market cap rank: 6",
+        "link": "https://www.coingecko.com/en/coins/xrp"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Jensen Huang remain as Nvidia CEO through end of 2026?",
+        "market_title": "Will Nvidia stock close above $120 by end of Q2 2026?",
         "venue": "Polymarket",
-        "why_now": "Board meeting Wednesday evening to decide Huang's fate after admitted affair with alleged Chinese intelligence asset; massive implications for AI sector leadership and Nvidia's $3T valuation.",
-        "signal_source": "CNBC breaking news on board convening; Hacker News #2 trending (1130 score, 1513 comments)"
+        "why_now": "Jensen Huang's sudden departure and scandal creates a leadership vacuum; institutional confidence shock requires resolution clarity within 60 days.",
+        "signal_source": "CNBC/BBC report of Huang exit + 5% single-day drop; Wachtell Lipton probe underway"
       },
       {
-        "market_title": "Will Bitcoin close above $75,000 by end of May 2026?",
-        "venue": "Polymarket",
-        "why_now": "BTC currently slumping below $73k amid Nvidia chaos and five-day ETF outflows; BlackRock Bitcoin ETF saw $2B outflows; technical breakdown needs reversal confirmation.",
-        "signal_source": "CoinDesk live updates; Cointelegraph ETF outflow tracking; real-time price action"
-      },
-      {
-        "market_title": "Will Ethereum successfully deploy quantum-resistant upgrades before December 2027?",
-        "venue": "Manifold",
-        "why_now": "CoinDesk reports Ethereum researchers dropping faster blocks to race toward quantum defenses in 2027; this is a credible technical milestone that markets have not yet priced in.",
-        "signal_source": "CoinDesk technical reporting; Ethlabs Hegotá slot proposal (dropped but signals 2027 push)"
-      },
-      {
-        "market_title": "Will Democrats maintain Senate control after 2026 midterms end?",
+        "market_title": "Will the Fed cut rates at least once before November 2026?",
         "venue": "Kalshi",
-        "why_now": "Scott Colom's Mississippi Senate win (first Democrat since 1982) extends Democratic wins in a state Trump won by 22 points; unions mobilized millions; control of Senate now pivotal for 2027 legislative agenda.",
-        "signal_source": "BBC/CNBC coverage of Mississippi Senate flip; Union activism reporting"
+        "why_now": "IRS 2027 401(k) limit announcement signals confidence in stable macro; betting markets currently price low probability despite inflation plateau signals.",
+        "signal_source": "CNBC IRS announcement; Powell's recent communications on rate path"
       },
       {
-        "market_title": "Will stablecoin supply recover above $150B by end of Q3 2026?",
+        "market_title": "Will Cerebras (CBRS) stock outperform Nvidia (NVDA) YTD by >20% through December 2026?",
         "venue": "Polymarket",
-        "why_now": "Cointelegraph reports $14.2B stablecoin supply drop in biggest 30-day decline since June 2022; signals liquidity contraction and de-risking amid macro uncertainty.",
-        "signal_source": "Cointelegraph stablecoin supply tracker; on-chain USDC/USDT metrics"
+        "why_now": "Cerebras beat earnings and announced major Microsoft deal same day Nvidia implodes; momentum shift measurable in relative performance over 7 months.",
+        "signal_source": "CNBC Cerebras +17% surge report; Microsoft partnership confirmation"
+      },
+      {
+        "market_title": "Will Trump administration impose new sanctions on China AI/chip exports by September 30, 2026?",
+        "venue": "Kalshi",
+        "why_now": "Huang scandal involves Huawei ties; Trump's Iran rhetoric ('we don't need a deal') signals hawkish posture; China tech policy is live debate.",
+        "signal_source": "CNBC Trump Iran quote; BBC/CNBC Huawei/Nvidia competitive tension angle"
+      },
+      {
+        "market_title": "Will Microsoft resolve its outage incident without material SLA penalties to enterprise customers by May 31, 2026?",
+        "venue": "Manifold",
+        "why_now": "Widespread Outlook/365 outage Thursday creates contractual liability exposure; enterprise customers demanding SLA remediation is immediate risk.",
+        "signal_source": "CNBC report of Outlook/Teams/365 service disruption"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Scout Motors deliver more than 50,000 units of Terra/Traveler by end of 2026?",
+        "question": "Will Solana (SOL) daily active developers exceed Ethereum by transaction count on Solana network by December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Scout Motors public delivery reports or SEC filings; confirmed vehicle handover counts",
-        "why_underpriced": "Scout has 212k reservations with $2B South Carolina plant nearing completion; market underestimates ramp speed of EV startups with capital and production capacity.",
-        "trigger_signal": "CNBC confirmation of plant near completion; CEO's public reservation numbers suggest demand signal"
+        "resolution_source": "Solana Labs official RPC metrics or DuneAnalytics public dashboard (transaction count, daily active contracts)",
+        "why_underpriced": "DTCC's Solana tokenization 2027 rollout + Jupiter lending platform growth signals institutional inflows; retail sentiment lags technical adoption.",
+        "trigger_signal": "CoinDesk reports DTCC Solana 2027 target + Jupiter/USDGO integration; Solana outperforming in trending tokens list"
       },
       {
-        "question": "Will Nvidia's stock price close above $200 by June 30, 2026, assuming Huang remains CEO?",
-        "deadline": "2026-06-30",
-        "resolution_source": "Nasdaq official closing price; contingent on Huang retaining role (resolve N/A if removed)",
-        "why_underpriced": "Current turmoil reflects near-term governance shock; if Huang survives, AI/datacenter momentum resumes; market may have overcorrected on personal scandal vs. operational strength.",
-        "trigger_signal": "Board decision expected within days; AI capex spending by Nebius, CoreWeave, IREN still robust despite Nvidia headlines"
+        "question": "Will XRP close above $2.50 by July 15, 2026, following SEC settlement clarity?",
+        "deadline": "2026-07-15",
+        "resolution_source": "CoinMarketCap or CoinGecko daily closing price (USDT pair)",
+        "why_underpriced": "Regulatory clarity on XRP status is pending; current price action suggests market underestimates upside if settlement favors Ripple; Trump admin SEC nominees (just named per CoinDesk) may shift enforcement tone.",
+        "trigger_signal": "CoinDesk report on Trump SEC/CFTC nominees; XRP regulatory overhang resolution catalyst within 70 days"
       },
       {
-        "question": "Will UK stablecoin payments framework launch before end of 2026 with at least 2 major retail banks participating?",
+        "question": "Will the DOJ successfully recover or freeze >50% of the $1.2 billion North Korea-linked Binance hack proceeds by October 31, 2026?",
+        "deadline": "2026-10-31",
+        "resolution_source": "DOJ official press release or court docket filings (public records); Treasury OFAC sanctions updates",
+        "why_underpriced": "Crypto market ignores law enforcement capability; actual asset recovery rates (historically low) are better-bet indicator than regulatory headlines.",
+        "trigger_signal": "CoinDesk DOJ crackdown announcement; active prosecutions suggest 6-month enforcement window is tight"
+      },
+      {
+        "question": "Will Gemini's quarterly retail trading volume exceed Q1 2026 levels by Q4 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "UK Financial Conduct Authority announcements; public confirmations from participating banks",
-        "why_underpriced": "Griffin Bank's $20M fundraise to expand into stablecoin payments signals imminent regulatory clarity; early-mover advantage underestimated by traditional finance.",
-        "trigger_signal": "CoinDesk report of Griffin's capital raise; UK historically faster on crypto payments regulation than US/EU"
+        "resolution_source": "Gemini/Winklevoss public quarterly reports or Coin Metrics exchange volume data (audited)",
+        "why_underpriced": "Cointelegraph reports volume at 3-year low; market assumes continued decline, but bull case: new Trump-era retail adoption + SOL tokenization catalyst.",
+        "trigger_signal": "Cointelegraph volume collapse + crypto trending surge suggests contrarian reversal opportunity if sentiment shifts by midyear"
       },
       {
-        "question": "Will BTC/ETH ratio exceed 0.035 by September 30, 2026?",
+        "question": "Will Cisco's AI infrastructure revenue reach double its pre-announcement run rate by end of FY2026 (September 30, 2026)?",
         "deadline": "2026-09-30",
-        "resolution_source": "CoinGecko or Binance official BTC/ETH price feeds",
-        "why_underpriced": "Ethereum's quantum resistance push and layer-2 scaling momentum vs. Bitcoin's current weakness due to Nvidia/macro selloff; altcoin narratives recovering faster than priced.",
-        "trigger_signal": "CoinDesk quantum defense reporting; ETH developer momentum contrasts with BTC ETF outflows"
-      },
-      {
-        "question": "Will India's RBI take formal enforcement action against at least 3 major crypto exchanges before end of 2026?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Official RBI/FATF press releases or Indian court filings; named enforcement actions against named exchanges",
-        "why_underpriced": "CoinDesk reports raids on CoinDCX and Delta over alleged illegal cross-border trades; India's crypto crackdown accelerating and market has underpriced regulatory risk.",
-        "trigger_signal": "Financial crimes watchdog raids already underway; pattern signals sustained enforcement escalation"
+        "resolution_source": "Cisco Q4 FY2026 earnings report (10-Q filing) or investor guidance confirming AI revenue segment doubling",
+        "why_underpriced": "CNBC reports Cisco claiming 2x AI infrastructure revenue this fiscal year; market pricing assumes competitive headwinds from Nvidia/Cerebras; Cisco's track record in infrastructure shifts late but decisively.",
+        "trigger_signal": "CNBC Cisco earnings beat + AI infrastructure guidance; Huang chaos creates opening for Cisco market-share gains"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Bitcoin weakness amid AI-sector contagion (Nvidia board crisis + ETF outflows) creates a 3-6 week accumulation opportunity before macro risk-on resumes.",
-        "horizon": "45 days",
+        "thesis": "Solana (SOL) outperforms Ethereum (ETH) over next 6 months as institutional tokenization inflows via DTCC 2027 rollout begin pricing in early.",
+        "horizon": "6 months (through November 2026)",
         "supporting_signals": [
-          "BTC below $73k; five consecutive days of Bitcoin ETF outflows tied to Nvidia headlines, not fundamental BTC weakness",
-          "BlackRock Bitcoin ETF $2B outflows are flow-driven, not conviction-driven selling",
-          "CoinDesk: Ethereum researchers advancing quantum roadmap independently; suggests investor bifurcation, not systemic crypto crisis"
+          "CoinDesk: DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+          "CoinDesk: Jupiter adds Anchorage-backed USDGO to $1B Solana lending platform",
+          "Solana in crypto trending top 5; institutional TradFi lock-in narrative gaining traction"
         ],
-        "counter_view": "Huang's removal could trigger deeper AI capex pause, cascading into broader tech selloff and risk-off flows that drag Bitcoin lower for 2-3 months.",
-        "expression": "Long BTC spot or June 2026 BTC call spreads (strike 75k/80k); hedge with short NVDA if conviction high"
+        "counter_view": "Ethereum's first-mover moat in DeFi and L2s (Base, Arbitrum) remains structurally stronger; DTCC rollout timing slips, or Ethereum gets tokenization priority instead.",
+        "expression": "Long SOL/ETH ratio via perpetual swap (Bybit/Deribit); or outright long SOL spot with 3-6 month horizon, hedge with short ETH"
       },
       {
-        "thesis": "Stablecoin supply contraction ($14.2B drop, biggest since June 2022) signals liquidity panic; counterintuitive long USDC yield will spike as demand for stable collateral intensifies.",
-        "horizon": "60 days",
+        "thesis": "Nvidia stock rebounds 8-15% within 60 days post-Huang scandal as new leadership team (Wachtell Lipton investigation clean, operational continuity assured) restores institutional confidence.",
+        "horizon": "60 days (through early July 2026)",
         "supporting_signals": [
-          "Cointelegraph: $14.2B stablecoin supply drop in 30 days",
-          "CoinDesk: Griffin Bank raising $20M for stablecoin payments signals institutional demand rebound",
-          "On-chain USDC utilization rates remain elevated despite headline supply shrinkage; suggests hoarding, not abandonment"
+          "CNBC: Nvidia stock fell 5% on Thursday; market pros debate buying dips vs. selling",
+          "Wachtell Lipton retention signal: professional governance + NBA Clippers precedent shows competent investigation/remedy framework",
+          "Huang's operational role unclear—if COO or other executive assumes helm without major disruption, forward guidance likely intact"
         ],
-        "counter_view": "Stablecoin supply contraction reflects genuine crypto market cooling; no rebound in demand until Bitcoin stabilizes above $75k.",
-        "expression": "Long Lido/Curve USDC liquidity mining yields; buy 3M USDC lending rates via Aave/Compound if available"
+        "counter_view": "Huang scandal deepens (e.g., criminal charges, national security fallout); Pentagon or CFIUS restricts Nvidia exports; institutional fund redemptions accelerate; stock re-tests lows.",
+        "expression": "Long NVDA call spread (110/125 strike, 60-day expiry on major options exchange); or accumulate spot on dips, trim on any +10% bounce"
       },
       {
-        "thesis": "Democratic Senate control (confirmed by Mississippi Colom win, unions mobilized) will push pro-labor and pro-green energy policies; long renewable energy and union-adjacent infrastructure plays.",
-        "horizon": "120-150 days",
+        "thesis": "US dollar weakens (DXY down 2-3%) into Q3 2026 as Trump rate-cut expectations price in via CFTC/SEC nominees signaling lighter-touch crypto/fintech regulation.",
+        "horizon": "90 days (through August 2026)",
         "supporting_signals": [
-          "CNBC: Unions spent millions mobilizing for 2026 midterms; Democrats won big; unions now demanding action",
-          "BBC/CNBC: Scott Colom (D) flipped Mississippi Senate seat in state Trump won by 22 points",
-          "Union push for labor/housing/cost-of-living reforms in upcoming 2026 legislative sessions"
+          "CoinDesk: Trump names CFTC, SEC nominees for first time in a year—regulatory clarity incoming",
+          "CoinDesk: Kalshi/Polymarket governance disputes (Kalshi ends Trump Jr. advisory role) signal market maturation, not crackdown",
+          "IRS 2027 401(k) limit raises suggest confidence in lower future tax environment (pro-growth policy)"
         ],
-        "counter_view": "Senate Democratic margin is slim; Republican filibuster will block most pro-labor and green energy legislation in 2026-2027.",
-        "expression": "Long IVV (iShares S&P 500 ETF) and TAN (Invesco Solar ETF) equally weighted; or specific plays: PLUG (hydrogen), NEE (NextEra, renewables), BX (Blackstone infrastructure bet)"
+        "counter_view": "Fed holds rates steady longer than expected; geopolitical shock (Ukraine, Taiwan) triggers safe-haven USD bid; Trump trade war escalation pushes inflation, prompting Fed hawkishness.",
+        "expression": "Short DXY index (via DBC or direct index futures); long BTC/USD and ETH/USD (DXY weakness historically bullish for crypto); gold ETF (GLD) as hedge"
       },
       {
-        "thesis": "Nvidia CEO crisis creates a short-duration arbitrage: near-term capitulation in AI/GPU sector valuations before operational continuity is confirmed; tactical short NVDA into board decision, cover on clarity.",
-        "horizon": "7-14 days",
+        "thesis": "AI chipmaker ecosystem (non-Nvidia: Cerebras, Cisco AI, potentially custom in-house ASIC suppliers) captures 5-8% market share from Nvidia by end of 2026 as enterprise customers diversify post-scandal.",
+        "horizon": "6-8 months (through December 2026)",
         "supporting_signals": [
-          "CNBC: Board meeting stretched into evening Wednesday; Huang admitted to affair with alleged Chinese spy",
-          "Hacker News #2 trending (1130 score) signals high information density among sophisticated investors",
-          "Nvidia currently trading on headline risk, not fundamentals; GPU demand (Nebius, CoreWeave, IREN capex) unchanged"
+          "CNBC: Cerebras beat on quarterly revenue, +17% surge on Microsoft deal",
+          "CNBC: Cisco AI infrastructure revenue expected to double FY2026; Cisco 'trying to become bigger player in AI'",
+          "Huang departure creates 6-12 month uncertainty window; CIOs favor proven alternatives (Cerebras, Cisco) vs. leadership risk"
         ],
-        "counter_view": "Market has already repriced Nvidia downward; board will retain Huang or name competent successor; upside repricing happens fast post-announcement.",
-        "expression": "Short NVDA outright into board decision; or buy June 2026 puts (strike $130-135) and sell calls (strike $145) for defined-risk bear call spread"
+        "counter_view": "Nvidia appoints marquee replacement (e.g., industry veteran); scandal resolves cleanly; enterprise inertia favors incumbent; Cerebras/Cisco fail to scale manufacturing or software.",
+        "expression": "Long CBRS (if public) outright or via sector rotation; long Cisco networking/infrastructure segment; or construct basket of AI chipmakers (non-NVDA) via equal-weight approach"
       },
       {
-        "thesis": "Ethereum's quantum-resistant roadmap (2027 target) is a multi-year structural narrative that isolates ETH as the 'security-upgrade' narrative; long ETH/BTC ratio into summer 2026 as institutional developers crowd in.",
-        "horizon": "90-120 days",
+        "thesis": "Bitcoin (BTC) rallies 8-12% by August 2026 as North Korea sanctions crackdown (DOJ $1.2B Binance hack recovery) creates supply shock and institutional de-risking narrative resolves.",
+        "horizon": "3 months (through August 2026)",
         "supporting_signals": [
-          "CoinDesk: Ethereum researchers dropping faster blocks to race toward quantum defenses in 2027",
-          "Ethlabs formally signaling 2027 quantum readiness push; developer mindshare shifting to Ethereum security primitives",
-          "BTC currently correcting; ETH developers active and building; narrative divergence underpriced"
+          "CoinDesk: DOJ targets $1.2B North Korea-linked stolen crypto—enforcement action creates positive supply shock (fewer coins in criminal hands, regulatory clarity)",
+          "Trump CFTC/SEC nominees suggest regulatory stabilization; crypto market has repriced downside risk into price",
+          "Historical pattern: major regulatory/enforcement announcements followed by 4-8 week upside as FUD clears"
         ],
-        "counter_view": "Quantum threat is 5-10 year horizon; Ethereum's 2027 'readiness' is premature marketing; ratio compression likely as BTC recovers on macro stabilization.",
-        "expression": "Long ETH/BTC ratio via spot pairs or perpetual futures (buy ETH, short BTC synthetically); target ratio 0.035-0.040 by Sept 2026"
+        "counter_view": "Sanctions crackdown succeeds, freezing major exchange liquidity; retail capitulation on Gemini volume decline accelerates; macro shock (Fed policy pivot reversed) triggers risk-off asset sale.",
+        "expression": "Long BTC spot (hold 3-6 months) or BTC perpetual futures (5-10x leverage, tight stop-loss at -5%); BTC call spread (50k/60k strike, 90-day expiry)"
       }
     ]
   }
