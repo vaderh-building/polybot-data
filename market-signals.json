@@ -1,20 +1,41 @@
 {
-  "generated_at_utc": "2026-11-14T01:08:47.079796+00:00",
+  "generated_at_utc": "2026-11-14T11:53:03.002663+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
-        "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
-        "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-        "published": "Sat, 14 Nov 2026 00:51:11 GMT"
+        "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+        "summary": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+        "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+        "published": "Sat, 14 Nov 2026 11:34:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
+        "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+        "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+        "published": "Thu, 12 Nov 2026 12:03:39 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "SpaceX launches Starship in key test flight of massive rocket",
+        "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+        "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+        "published": "Sat, 14 Nov 2026 01:18:51 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
         "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
         "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-        "published": "Sat, 14 Nov 2026 01:04:32 GMT"
+        "published": "Sat, 14 Nov 2026 01:34:11 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+        "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
+        "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+        "published": "Sat, 14 Nov 2026 07:08:45 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -28,28 +49,7 @@
         "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
         "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
         "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-        "published": "Fri, 13 Nov 2026 18:18:28 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "SpaceX launches Starship in key test flight of massive rocket",
-        "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
-        "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-        "published": "Sat, 14 Nov 2026 00:36:29 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-        "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
-        "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-        "published": "Fri, 13 Nov 2026 22:18:43 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-        "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-        "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-        "published": "Fri, 13 Nov 2026 21:18:30 GMT"
+        "published": "Sat, 14 Nov 2026 08:11:28 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -60,31 +60,31 @@
       },
       {
         "source": "BBC World",
+        "title": "What we know about the ground stop and what to do if you're affected",
+        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 14 Nov 2026 07:42:11 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 14 Nov 2026 11:41:20 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 14 Nov 2026 05:52:31 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
         "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
         "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
         "published": "Fri, 13 Nov 2026 23:40:45 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 13 Nov 2026 21:14:22 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 13 Nov 2026 18:36:57 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-        "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-        "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 13 Nov 2026 11:43:27 GMT"
       },
       {
         "source": "BBC World",
@@ -95,24 +95,31 @@
       },
       {
         "source": "BBC World",
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 14 Nov 2026 06:42:27 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+        "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+        "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 14 Nov 2026 10:42:20 GMT"
+      },
+      {
+        "source": "BBC World",
         "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
         "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
         "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
         "published": "Fri, 13 Nov 2026 16:40:31 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-        "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 13 Nov 2026 19:53:57 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-        "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-        "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 13 Nov 2026 18:34:45 GMT"
+        "source": "CoinDesk",
+        "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+        "published": "Sat, 14 Nov 2026 04:30:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -164,86 +171,73 @@
         "published": "Fri, 13 Nov 2026 11:52:25 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-        "published": "Fri, 13 Nov 2026 09:16:58 +0000"
-      },
-      {
         "source": "Cointelegraph",
         "title": "Here’s what happened in crypto today",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 13 Nov 2026 22:08:37 +0000"
+        "published": "Sat, 14 Nov 2026 11:28:12 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "FAA issues national ground stop",
-        "summary": "score: 1266, comments: 761",
+        "title": "FAA issues national ground stop – lifted 4.5 hours later",
+        "summary": "score: 1562, comments: 1186",
         "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-        "score": 1266
+        "score": 1562
       },
       {
         "source": "Hacker News",
-        "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-        "summary": "score: 670, comments: 198",
-        "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-        "score": 670
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "summary": "score: 648, comments: 382",
+        "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "score": 648
       },
       {
         "source": "Hacker News",
-        "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-        "summary": "score: 443, comments: 306",
-        "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-        "score": 443
+        "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+        "summary": "score: 316, comments: 413",
+        "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+        "score": 316
       },
       {
         "source": "Hacker News",
-        "title": "After 600 experiments, here's what I discovered about JEPA world models",
-        "summary": "score: 210, comments: 35",
-        "link": "https://haddyalchaer.com/jepa",
-        "score": 210
+        "title": "Ggml v1.0.0",
+        "summary": "score: 290, comments: 46",
+        "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+        "score": 290
       },
       {
         "source": "Hacker News",
-        "title": "FM-1 Workbench",
-        "summary": "score: 179, comments: 102",
-        "link": "https://open.m-vave.com/fm1-workbench",
-        "score": 179
+        "title": "Terminal borders that don't cost a cell",
+        "summary": "score: 285, comments: 122",
+        "link": "https://www.joshka.net/cell-borders/",
+        "score": 285
       },
       {
         "source": "Hacker News",
         "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-        "summary": "score: 175, comments: 42",
+        "summary": "score: 269, comments: 62",
         "link": "https://orcasairband.com/",
-        "score": 175
+        "score": 269
+      },
+      {
+        "source": "Hacker News",
+        "title": "FM-1 Workbench",
+        "summary": "score: 239, comments: 159",
+        "link": "https://open.m-vave.com/fm1-workbench",
+        "score": 239
       },
       {
         "source": "Hacker News",
         "title": "Found: A protein that drives ageing without unleashing inflammation",
-        "summary": "score: 122, comments: 18",
+        "summary": "score: 208, comments: 42",
         "link": "https://www.nature.com/articles/d41586-026-03638-3",
-        "score": 122
-      },
-      {
-        "source": "Hacker News",
-        "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-        "summary": "score: 94, comments: 19",
-        "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-        "score": 94
+        "score": 208
       }
     ],
     "crypto_trending": [
-      {
-        "source": "CoinGecko Trending",
-        "title": "ni hao cat (MIHAO)",
-        "summary": "market cap rank: 952",
-        "link": "https://www.coingecko.com/en/coins/ni-hao-cat-2"
-      },
       {
         "source": "CoinGecko Trending",
         "title": "Bitcoin (BTC)",
@@ -253,8 +247,14 @@
       {
         "source": "CoinGecko Trending",
         "title": "Akedo (AKE)",
-        "summary": "market cap rank: 136",
+        "summary": "market cap rank: 134",
         "link": "https://www.coingecko.com/en/coins/akedo"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Kava (KAVA)",
+        "summary": "market cap rank: 488",
+        "link": "https://www.coingecko.com/en/coins/kava"
       },
       {
         "source": "CoinGecko Trending",
@@ -264,149 +264,150 @@
       },
       {
         "source": "CoinGecko Trending",
+        "title": "XRP (XRP)",
+        "summary": "market cap rank: 6",
+        "link": "https://www.coingecko.com/en/coins/xrp"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Quant (QNT)",
+        "summary": "market cap rank: 41",
+        "link": "https://www.coingecko.com/en/coins/quant"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Solana (SOL)",
         "summary": "market cap rank: 7",
         "link": "https://www.coingecko.com/en/coins/solana"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 114",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Ethereum (ETH)",
-        "summary": "market cap rank: 2",
-        "link": "https://www.coingecko.com/en/coins/ethereum"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Nvidia stock close above $120 by end of 2026?",
+        "market_title": "Will Bitcoin close above $70,000 by end of May 2026?",
         "venue": "Polymarket",
-        "why_now": "Jensen Huang resignation + $1.7T market cap loss + longest weekly losing streak since 2012 creates asymmetric risk; Washington scrutiny and Lutnick conflict-of-interest narrative adds regulatory tail risk.",
-        "signal_source": "CNBC: Nvidia stock losing streak, CEO resignation, Commerce Secretary ties; BBC: Bessent blames Lutnick for chip export enforcement failures"
+        "why_now": "BTC plunged to $68k amid Anthropic IPO liquidations and DXY strength; 12-week lows signal capitulation setup.",
+        "signal_source": "CoinDesk: Bitcoin hits 12-week low as dollar rallies, liquidations top $1.6B; Bitcoin heads for sixth weekly loss"
       },
       {
-        "market_title": "Will Bitcoin close above $75,000 on 2026-06-30?",
+        "market_title": "Will Nvidia stock outperform S&P 500 by >10% in next 90 days after Jensen Huang resignation?",
         "venue": "Polymarket",
-        "why_now": "Bitcoin at 12-week lows (~$68k), 6-week losing streak, $1.6B liquidations, DXY strength on rate-hold expectations; Anthropic IPO capital rotation away from crypto creating technical bearish setup.",
-        "signal_source": "CoinDesk: Bitcoin hits 12-week low, sixth weekly loss, momentum gauge turning red; bearish technicals cited for sub-$60k risk"
+        "why_now": "Huang's exit removes governance-of-founder risk and clears path for succession clarity; Washington fallout is priced but fundamentals (AI chip demand, China export clarity) may decouple upward.",
+        "signal_source": "CNBC: Jensen Huang resignation after affairs scandal; Analysis: Companies love a rockstar CEO until they depend on one"
       },
       {
-        "market_title": "Will Microsoft (MSFT) stock outperform S&P 500 by >5% over next 90 days?",
+        "market_title": "Will Federal Reserve cut rates at least once before December 31, 2026?",
         "venue": "Kalshi",
-        "why_now": "Massive Outlook/Teams/365 outage (24+ hours, global impact) and BBC narrative of concentration risk in big tech; market may punish reliability-critical infrastructure providers; offsetting: services restored, minimal financial damage disclosed.",
-        "signal_source": "CNBC & BBC: Microsoft apologizes for outage affecting Outlook, Teams, Copilot; BBC experts cite systemic concentration risk in small number of providers"
+        "why_now": "DXY strength and Bitcoin volatility suggest USD tightness; FAA/Microsoft outages hinting at infrastructure stress; rate path now hinges on growth data through summer.",
+        "signal_source": "CoinDesk: Bitcoin momentum gauge turning red as dollar rallies on interest-rate outlook"
       },
       {
-        "market_title": "Will SpaceX achieve successful dual booster+stage catch before 2026-12-31?",
+        "market_title": "Will SpaceX successfully catch both booster and upper stage on next Starship attempt by June 30, 2026?",
         "venue": "Manifold",
-        "why_now": "Latest Starship test aborted; booster fell to ocean instead of catch; this was billed as key test flight, creating high volatility in SpaceX milestone bets.",
-        "signal_source": "BBC & CNBC: SpaceX aborted catch attempt, booster came down in ocean; framed as setback for double-catch test"
+        "why_now": "Today's abort of double-catch test (booster fell in ocean) sets high bar; Elon's credibility on execution timeline is under pressure; market assigns <40% odds likely.",
+        "signal_source": "BBC World: SpaceX Starship double-catch test aborted; booster landed in ocean instead of catching"
       },
       {
-        "market_title": "Will Anthropic IPO price exceed $100B valuation on first day of trading?",
-        "venue": "Manifold",
-        "why_now": "Described as 'blockbuster IPO' driving Bitcoin/crypto market rotation; timing imminent (May 2026); AI narrative remains hot despite Bitcoin weakness.",
-        "signal_source": "CoinDesk: Bitcoin plunges to $68k amid Anthropic IPO frenzy; Anthropic's listing cited as liquidity/sentiment driver"
+        "market_title": "Will Anthropic's post-IPO stock price exceed $200B valuation by Q3 2026?",
+        "venue": "Polymarket",
+        "why_now": "IPO-driven outflows from BTC/crypto creating liquidation cascade; Anthropic positioning as AI alternative to OpenAI but valuation density unclear post-float.",
+        "signal_source": "CoinDesk: Bitcoin plunges to $68k as Anthropic IPO frenzy adds to market jitters; Bitcoin heads for sixth weekly loss as IPO looms"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Nvidia's share price recover to above $130 by 2026-09-30, or will the CEO scandal create lasting structural headwinds?",
-        "deadline": "2026-09-30",
-        "resolution_source": "Nasdaq official closing price for NVDA on 2026-09-30",
-        "why_underpriced": "Market is pricing in full default (binary pessimism) but new leadership announcement and cyclical AI recovery could surprise upside; Huang scandal is acute but not necessarily terminal to chip architecture roadmap.",
-        "trigger_signal": "Huang resignation + Congressional hearings + Lutnick conflict-of-interest story + Bessent export-control blame creates multi-layered governance risk; successor announcement timing will be critical"
-      },
-      {
-        "question": "Will the DXY (U.S. Dollar Index) close above 108 on 2026-06-30, sustaining the rally cited in Bitcoin weakness?",
+        "question": "Will NVIDIA stock price close above $180 on June 30, 2026?",
         "deadline": "2026-06-30",
-        "resolution_source": "ICE DXY futures settle price or Bloomberg DXY closing quote on 2026-06-30",
-        "why_underpriced": "Current rate-hold narrative + Bitcoin liquidation cascade suggests 'strong dollar' trade is crowded; mean reversion and Fed easing bets could reverse this within 8 weeks.",
-        "trigger_signal": "CoinDesk reports Bitcoin hits 12-week low as DXY rallies on interest-rate outlook; if Fed signals rate cuts or inflation moderates, DXY reversal becomes high-conviction short"
+        "resolution_source": "NASDAQ official closing price for NVDA",
+        "why_underpriced": "Post-Huang resignation clarity and succession transition typically re-rate semiconductor leaders; China export policy under Trump-Putin-Xi talks may resolve favorably for NVDA despite Huang's exit.",
+        "trigger_signal": "CNBC reports Huang resignation clears governance overhang; Trump not raising Nvidia spy issue during China trip signals political de-escalation"
       },
       {
-        "question": "Will Microsoft complete a comprehensive service reliability audit and announce binding SLA improvements before 2026-12-31?",
+        "question": "Will Bitcoin trading volume on Kraken increase by >20% YoY in Q2 2026 vs Q2 2025?",
+        "deadline": "2026-07-15",
+        "resolution_source": "Kraken official API volume data or audited quarterly report",
+        "why_underpriced": "Payward (Kraken parent) expanding non-crypto revenue cushions; network effects from retail re-entry on capitulation lows; market underestimates intra-cycle rebound volume.",
+        "trigger_signal": "CoinDesk: Kraken parent Payward says expansion outside crypto helps cushion revenue decline; BTC at 12-week lows = forced liquidations creating turnover"
+      },
+      {
+        "question": "Will the DXY (US Dollar Index) close below 104 by September 30, 2026?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Federal Reserve DXY official index closing price",
+        "why_underpriced": "Trump-Putin-Xi summit signals potential geopolitical de-escalation; if Ukraine cession talks progress, risk-off dollar tailwind reverses; Fed rate path becomes dovish.",
+        "trigger_signal": "BBC: Trump, Putin, Xi plan historic joint meeting next week to discuss nuclear weapon reduction; Ukraine ceding Donbas for NATO membership floated"
+      },
+      {
+        "question": "Will Solana (SOL) outperform Bitcoin (BTC) by >15% through August 31, 2026?",
+        "deadline": "2026-08-31",
+        "resolution_source": "CoinGecko or CoinMarketCap historical price data for BTC vs SOL",
+        "why_underpriced": "Solana in top 7 trending tokens; AI infrastructure on Solana (compute layers) accelerating; Bitcoin ETF outflows suggest rotation into alt-L1s with real throughput adoption.",
+        "trigger_signal": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock's losing streak hits 11; Solana appears in crypto trending while BTC heads for sixth weekly loss"
+      },
+      {
+        "question": "Will Howard Lutnick remain as US Commerce Secretary through December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Official Microsoft press release or SEC 8-K filing announcing new SLA commitments or infrastructure redundancy investments",
-        "why_underpriced": "BBC narrative of systemic concentration risk + enterprise CTO scrutiny post-outage could force MSFT to materially upgrade resilience commitments; currently underestimated as market has already priced in forgiveness.",
-        "trigger_signal": "24-hour global Outlook/Teams outage + expert commentary on concentration risk + customer pressure will force competitive response (AWS, Google Cloud gaining share if MSFT seen as less reliable)"
-      },
-      {
-        "question": "Will Bitcoin mining industry in Paraguay shrink by >20% (measured by installed hashrate) by 2026-12-31 due to AI data center displacement?",
-        "deadline": "2026-12-31",
-        "resolution_source": "Cambridge Centre for Alternative Finance Bitcoin hashrate tracker, Paraguay-specific deployment reports, or major mining pool announcements of Paraguay facility closures",
-        "why_underpriced": "CoinDesk reports miners pay Paraguay $350M/year but AI is pushing them out; this structural shift (electricity reallocation to AI) is underappreciated as BTC narrative remains miner-friendly.",
-        "trigger_signal": "Paraguay electric utility capacity constraints + AI data center buildout announcements + mining farm operator comments on power access friction"
-      },
-      {
-        "question": "Will FAA restore normal flight operations nationwide by 2026-05-06 18:00 UTC, or will the ground stop extend beyond 24 hours?",
-        "deadline": "2026-05-06",
-        "resolution_source": "Official FAA statement on ground stop lift, confirmed by NOTAM database and major U.S. airline operational resumption announcements",
-        "why_underpriced": "Current (May 5) outage is acute; market pricing extended disruption but infrastructure restoration is typically faster than 24h; airline stocks may gap up on quick recovery.",
-        "trigger_signal": "FAA cites air traffic communication system outage; live airband frequencies at Victoria, CA also ground stopped suggests geographic/system-level issue; Hacker News HN1266 score + 761 comments indicates retail attention; if resolved <12h, market reprices favorably"
+        "resolution_source": "Official US Department of Commerce leadership roster or White House announcement",
+        "why_underpriced": "Nvidia scandal and family firm ties to NVDA create political liability; Republican Congress scrutiny heightens if chip export policy reversal expected.",
+        "trigger_signal": "CNBC: Lutnick faces questions over Nvidia spy scandal; His sons' firm has deep ties to chipmaker—renewal of inspector general probes likely"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "NVDA undergoing forced management transition + governance crisis; rotate NVDA longs into broader semiconductor index (SMH ETF) to capture cycle recovery without single-name scandal risk.",
-        "horizon": "4–8 weeks",
+        "thesis": "Bitcoin capitulation washout at 12-week lows (sub-$69k) sets up 6-12 week rebound to $75k-85k as liquidations clear and macro tailwind (Trump-Putin-Xi detente) reduces geopolitical risk premium.",
+        "horizon": "60-120 days",
         "supporting_signals": [
-          "CNBC: Jensen Huang resignation, $1.7T market cap loss, longest losing streak since 2012",
-          "BBC: Treasury Secretary Bessent blames Commerce Secretary Lutnick for Nvidia export enforcement failure, widening scandal to Cabinet-level conflict",
-          "CNBC: Republican Congress demands Huang testimony before January transition"
+          "Bitcoin momentum gauge turning red signals exhaustion, not crash continuation (CoinDesk)",
+          "Liquidations hit $1.6B—capitulation signature (CoinDesk)",
+          "Trump, Putin, Xi summit removes tail risk of escalation; nuclear reduction talks de-risk USD (BBC)",
+          "Bitcoin ETF outflows suggest long-term holders shaken but not holders forced to sell at any price"
         ],
-        "counter_view": "New NVDA CEO announcement + product roadmap confidence could reverse downside; chip cycle upside (AI demand) untouched by Huang's personal conduct; governance discount may be temporary.",
-        "expression": "Short NVDA call spreads (sell 120c, buy 130c, 2026-06-30 expiry) OR long SMH (semiconductor ETF) / short NVDA pairs trade to isolate governance risk"
+        "counter_view": "Fed holds rates elevated; DXY continues to rally on safe-haven demand if Ukraine talks collapse or geopolitical shock emerges before summit.",
+        "expression": "BTC spot or June 2026 BTC futures; alternatively long XRP (trending, beneficiary of macro clarity) against short BTC volatility (CBOE VIX or IV expansion)"
       },
       {
-        "thesis": "Bitcoin technicals + macro headwinds (strong DXY, rate-hold narrative, $1.6B liquidations) suggest BTC retest of $60k is material; liquidation cascades create short-term long opportunity after capitulation flush.",
-        "horizon": "2–6 weeks",
+        "thesis": "NVIDIA stock rallies 10-15% post-Huang as succession clarity and removal of governance-of-founder risk is re-rated; China export policy path becomes clearer under Trump administration.",
+        "horizon": "90 days",
         "supporting_signals": [
-          "CoinDesk: Bitcoin hits 12-week low as DXY rallies on interest-rate outlook; momentum gauge turning red; liquidations top $1.6B",
-          "CoinDesk: Sixth weekly loss, bear market lows possible; Anthropic IPO creating rotation headwind",
-          "Crypto sentiment: BTC trending but prices soft; retail fear evident"
+          "CNBC analysis: Companies love rockstar CEOs until they depend on them—Huang's exit eliminates single-point-of-failure (governance risk premium discount)",
+          "Trump explicitly not raising Nvidia espionage issue during China trip signals political de-escalation (CNBC)",
+          "Semiconductor sector fundamentals (AI chip demand) remain intact; only sentiment/governance noise removed"
         ],
-        "counter_view": "If DXY sustains >108 and real rates remain positive, BTC can retest $55k–$58k without reversal catalyst; Anthropic IPO may extend capital rotation for weeks.",
-        "expression": "BTC spot entry at $64k–$65k (limit orders) or BTC/USDC perps long at 4–6x leverage, stop at $62k; or accumulate BTC dip with 30-60 day horizon for recovery to $72k–$75k"
+        "counter_view": "Congressional hearings and regulatory scrutiny intensify; China trade war expectations rise if Trump pivots back to hardline post-summit; Huang's replacement underperforms market expectations.",
+        "expression": "Long NVDA outright or NVDA call spreads (June/July); long semiconductor ETF (SMH) as hedge against single-name idiosyncratic risk"
       },
       {
-        "thesis": "Microsoft's global Outlook/Teams/365 outage + BBC/expert narrative of systemic big-tech concentration risk creates near-term repricing opportunity; AWS and Google Cloud gain enterprise conversation share, but MSFT's moat (Windows, Office install base) is unshaken; stock overshoots downside.",
-        "horizon": "1–4 weeks",
+        "thesis": "US Dollar (DXY) rolls over from current rally as Trump-Putin-Xi detente reduces geopolitical risk premium and Fed signaling eventual rate cuts; risk assets (BTC, equities) outperform.",
+        "horizon": "90-180 days",
         "supporting_signals": [
-          "BBC: 24-hour global outage affecting Outlook, Teams, Copilot; experts say 'stark reminder' of world's reliance on small group of big-tech providers",
-          "BBC: Questions on email loss, service restoration timeline; high visibility damage to brand reliability narrative",
-          "CNBC: Microsoft apologizes; implies material reputational cost"
+          "Trump-Putin-Xi summit with nuclear reduction agenda = de-escalation narrative (BBC)",
+          "Ukraine cession path floated by US envoys = resolution optionality pricing in (BBC)",
+          "Bitcoin 12-week lows coincide with DXY spike—causal link evident in CoinDesk reporting"
         ],
-        "counter_view": "Outage severity and customer liability exposure could be larger than disclosed; enterprise SLA breach payouts + churn could offset quick recovery narrative; AWS inroads permanent.",
-        "expression": "MSFT calls (140c, 2026-06-30) or MSFT vs. XLK (tech ETF) outperformance long; or cloud infrastructure short-duration pairs: long AWS (via Amazon AMZN) vs. short MSFT to isolate enterprise migration risk"
+        "counter_view": "Geopolitical talks fail; escalation resumes; safe-haven demand keeps DXY elevated. Fed holds terminal rate higher for longer due to inflation persistence.",
+        "expression": "Long gold (DXY inverse); long emerging market currencies vs USD (short DXY); long BTC as DXY hedge"
       },
       {
-        "thesis": "Anthropic IPO capital rotation + Powell/Fed's dovish pivot likelihood (rate-hold narrative masking underlying inflation concerns) suggest tech giants (NVDA, MSFT, META) face multiple compression; rotate long into uncorrelated defensive yield (bond ETFs, DXY shorts, gold) ahead of June 2026 rate signal.",
-        "horizon": "4–12 weeks",
+        "thesis": "Anthropic IPO locks in AI bubble valuation; post-float lockup expirations and secondary selling pressure combined with macro uncertainty create 20-30% downside by Q3 2026; crypto beneficiary of capital rotation out of mega-cap AI.",
+        "horizon": "60-150 days",
         "supporting_signals": [
-          "CoinDesk: Anthropic blockbuster IPO cited as driver of crypto rotation; Bitcoin losing streak during IPO frenzy window",
-          "CoinDesk: DXY rally on rate-hold outlook tightens liquidity; $1.6B liquidations signal leverage unwind",
-          "CNBC: Fed survey cites AI systemic risk as top threat to financial system; suggests regulatory scrutiny will cool AI hyperscaler multiple expansion"
+          "Anthropic IPO frenzy caused BTC liquidations (CoinDesk)—IPO supply hitting market triggers volatility",
+          "Bitcoin ETFs shedding $2.35B in 2 weeks during IPO surge—institutional capital rotating out of crypto into IPO allocations",
+          "OpenAI payment integration signal suggests competitive pressure on Anthropic valuation narrative"
         ],
-        "counter_view": "Anthropic IPO could be modest (sub-$100B) or delayed; Fed likely to hold rates stable through Q3 2026; AI narrative earnings growth could offset multiple compression.",
-        "expression": "Short QQQ (tech-heavy Nasdaq) / long SHY (short-term Treasuries) OR long TLT (long-term bonds) / short NVDA; or DXY short (long EUR/USD) betting on Fed pivot; or long gold (GLD) as hedge against systemic AI risk scenario"
+        "counter_view": "Anthropic continues to outcompete on safety/enterprise narrative; IPO demand sustains at premium; AI mega-cap valuations hold.",
+        "expression": "Bearish Anthropic private secondary market warrants or post-lockup short; long QQQ or AI ETF hedge if locking in downside; long BTC/ETH as beneficiary of capital rotation away from mega-cap AI"
       },
       {
-        "thesis": "FAA airspace outage + Microsoft global services failure in same week signal elevated systemic infrastructure risk; concentrated cloud/critical systems vulnerability creates market turbulence; defensive positioning warranted, but outages typically resolve within 24–48h, creating fade opportunity on panic selling.",
-        "horizon": "1–3 weeks",
+        "thesis": "SpaceX Starship double-catch failure signals execution risk; next 30-60 days critical to restore credibility; broader theme: Elon credibility priced in at too-high multiple for near-term delivery expectations.",
+        "horizon": "30-90 days",
         "supporting_signals": [
-          "CNBC & BBC: FAA nationwide ground stop Friday afternoon; live airband reports from Victoria, CA also ground stopped",
-          "BBC: Microsoft 24-hour+ outage affecting Outlook, Teams, global users",
-          "Hacker News: FAA outage #1 trending (1,266 score, 761 comments); high retail visibility and panic signal"
+          "Today's booster catch abort (landed in ocean) = first major public failure of flagship Starship test (BBC)",
+          "Market had priced in ~70% success odds; abort resets narrative",
+          "Starship profitability case hinges on rapid reusability—catch failure delays commercialization timeline"
         ],
-        "counter_view": "If outages extend beyond 48 hours or reveal systemic architectural fragility (not just software bugs), broader financial infrastructure confidence may deteriorate; systemic risk premium could persist.",
-        "expression": "Long SPY (or QQQ fade shorts) if FAA/MSFT resolve within 24h; or long airline stocks (UAL, AAL) on pent-up demand release post-resolution; or short VIX (sell volatility) betting mean reversion post-panic"
+        "counter_view": "Elon historically over-commits and under-delivers but ultimately delivers; next attempt succeeds; Mars narrative persists; no valuation impact.",
+        "expression": "Consider shorting aerospace/space ETFs (IJR, IVV components with SpaceX exposure) if liquid; avoid long Tesla if viewing as proxy for Elon execution premium; neutral positioning pending next Starship attempt"
       }
     ]
   }
