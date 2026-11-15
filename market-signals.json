@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-15T00:34:13.394796+00:00",
+  "generated_at_utc": "2026-11-15T12:23:31.663754+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+        "summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+        "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+        "published": "Sun, 15 Nov 2026 08:34:46 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+        "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+        "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+        "published": "Sun, 15 Nov 2026 12:00:01 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
         "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
         "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-        "published": "Sat, 14 Nov 2026 23:21:21 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-        "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
-        "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-        "published": "Sat, 14 Nov 2026 17:46:06 GMT"
+        "published": "Sun, 15 Nov 2026 02:53:59 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -32,38 +39,24 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
-        "summary": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
-        "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-        "published": "Sat, 14 Nov 2026 14:54:22 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-        "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-        "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-        "published": "Fri, 13 Nov 2026 23:42:18 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-        "summary": "Berkshire Hathaway's red-hot shares are ending a strong week with four consecutive fresh record high closes.",
-        "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
-        "published": "Sat, 14 Nov 2026 14:02:39 GMT"
-      },
-      {
-        "source": "CNBC Top News",
         "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
         "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
         "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
         "published": "Sat, 14 Nov 2026 15:50:43 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-        "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 14 Nov 2026 19:12:25 GMT"
+        "source": "CNBC Top News",
+        "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
+        "summary": "Routers and networking equipment may be involved in the problems that led to the ground stop, but a definitive cause has not been established, officials said.",
+        "link": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html",
+        "published": "Sat, 14 Nov 2026 22:54:47 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+        "summary": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
+        "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+        "published": "Sat, 14 Nov 2026 14:54:22 GMT"
       },
       {
         "source": "BBC World",
@@ -74,17 +67,45 @@
       },
       {
         "source": "BBC World",
-        "title": "Italy fines Meta €805m over accessing users' photos",
-        "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-        "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 14 Nov 2026 18:28:06 GMT"
+        "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+        "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+        "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 15 Nov 2026 11:06:32 GMT"
       },
       {
         "source": "BBC World",
-        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-        "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-        "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 14 Nov 2026 22:09:40 GMT"
+        "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+        "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+        "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 15 Nov 2026 08:17:41 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+        "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+        "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 15 Nov 2026 09:26:37 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+        "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 15 Nov 2026 07:10:31 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+        "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+        "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 15 Nov 2026 03:21:04 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+        "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+        "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 15 Nov 2026 09:57:25 GMT"
       },
       {
         "source": "BBC World",
@@ -94,29 +115,15 @@
         "published": "Sat, 14 Nov 2026 18:17:58 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-        "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-        "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 14 Nov 2026 18:00:10 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-        "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-        "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 14 Nov 2026 15:53:55 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-        "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-        "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 14 Nov 2026 00:03:52 GMT"
+        "source": "CoinDesk",
+        "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+        "published": "Sun, 15 Nov 2026 02:50:57 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+        "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
         "summary": "",
         "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
         "published": "Sat, 14 Nov 2026 16:33:29 +0000"
@@ -164,91 +171,78 @@
         "published": "Sat, 14 Nov 2026 04:30:00 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-        "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-        "published": "Fri, 13 Nov 2026 23:30:00 +0000"
-      },
-      {
         "source": "Cointelegraph",
         "title": "Here’s what happened in crypto today",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 14 Nov 2026 11:28:12 +0000"
+        "published": "Sun, 15 Nov 2026 11:18:48 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Lovable apps expose passport details and more than 200K private messages",
-        "summary": "score: 599, comments: 250",
-        "link": "https://www.crissyfield.de/research/lovable-en/",
-        "score": 599
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "summary": "score: 1305, comments: 873",
+        "link": "https://www.spacex.com/launches/starship-flight-15",
+        "score": 1305
       },
       {
         "source": "Hacker News",
-        "title": "SpaceX catches the Starship to end Flight 15",
-        "summary": "score: 579, comments: 376",
-        "link": "https://www.spacex.com/launches/starship-flight-15",
-        "score": 579
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "summary": "score: 858, comments: 332",
+        "link": "https://www.crissyfield.de/research/lovable-en/",
+        "score": 858
       },
       {
         "source": "Hacker News",
         "title": "Why get an expensive Pi when I have an old phone?",
-        "summary": "score: 494, comments: 278",
+        "summary": "score: 567, comments: 308",
         "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-        "score": 494
+        "score": 567
       },
       {
         "source": "Hacker News",
         "title": "KDE: The documentary [video]",
-        "summary": "score: 365, comments: 78",
+        "summary": "score: 501, comments: 111",
         "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "score": 365
-      },
-      {
-        "source": "Hacker News",
-        "title": "PyPI's redesigned project pages with clearer security signals are now live",
-        "summary": "score: 197, comments: 89",
-        "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-        "score": 197
+        "score": 501
       },
       {
         "source": "Hacker News",
         "title": "A family tree of software job titles",
-        "summary": "score: 187, comments: 91",
+        "summary": "score: 343, comments: 171",
         "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-        "score": 187
+        "score": 343
       },
       {
         "source": "Hacker News",
-        "title": "Generative AI uses more energy on non-English text",
-        "summary": "score: 171, comments: 95",
-        "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-        "score": 171
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "summary": "score: 235, comments: 119",
+        "link": "https://retrocomputing.stackexchange.com/questions/17957",
+        "score": 235
       },
       {
         "source": "Hacker News",
-        "title": "Advancing science and engineering with Antigravity's /teamwork",
-        "summary": "score: 157, comments: 36",
-        "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-        "score": 157
+        "title": "Court denies motion to dismiss DRAM price fixing case",
+        "summary": "score: 228, comments: 84",
+        "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "score": 228
+      },
+      {
+        "source": "Hacker News",
+        "title": "My favourite modern NES games",
+        "summary": "score: 114, comments: 11",
+        "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+        "score": 114
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Solana (SOL)",
-        "summary": "market cap rank: 7",
-        "link": "https://www.coingecko.com/en/coins/solana"
+        "title": "Identity.md (IMD)",
+        "summary": "market cap rank: 873",
+        "link": "https://www.coingecko.com/en/coins/identity-md"
       },
       {
         "source": "CoinGecko Trending",
@@ -258,15 +252,15 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "XRP (XRP)",
-        "summary": "market cap rank: 6",
-        "link": "https://www.coingecko.com/en/coins/xrp"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Uniswap (UNI)",
-        "summary": "market cap rank: 30",
-        "link": "https://www.coingecko.com/en/coins/uniswap"
+        "title": "Kava (KAVA)",
+        "summary": "market cap rank: 471",
+        "link": "https://www.coingecko.com/en/coins/kava"
       },
       {
         "source": "CoinGecko Trending",
@@ -276,148 +270,144 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 81",
-        "link": "https://www.coingecko.com/en/coins/lighter"
+        "title": "Monad (MON)",
+        "summary": "market cap rank: 161",
+        "link": "https://www.coingecko.com/en/coins/monad"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       }
     ]
   },
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin close above $70,000 by end of June 2026?",
+        "market_title": "Will Anthropic's IPO close above $100B valuation by 2026-06-30?",
         "venue": "Polymarket",
-        "why_now": "BTC crashed to 3-month low below $64k; capitulation signals suggest reversal setup with major ETF outflows ($2.35B in 2 weeks) creating contrarian long opportunity.",
-        "signal_source": "CoinDesk, Cointelegraph Bitcoin ETF flows"
+        "why_now": "Anthropic IPO just landed as marquee AI positive signal; market pricing its post-IPO momentum and AI sentiment recovery.",
+        "signal_source": "CNBC: Anthropic IPO coverage; AI trade momentum fragile after Nvidia turmoil."
       },
       {
-        "market_title": "Will Nvidia appoint a new permanent CEO by December 31, 2026?",
+        "market_title": "Will Bitcoin reach $75,000 by 2026-08-31?",
         "venue": "Polymarket",
-        "why_now": "Jensen Huang resigned; two major investors ($2.13B in holdings) are actively pushing for deliberate leadership search—concrete pressure from capital driving resolution timeline.",
-        "signal_source": "CNBC investor disclosure, Nvidia shareholder activism"
+        "why_now": "BTC crashed to 3-month low below $63k; fourth capitulation wave flagged by analysts; contrarian bounce narrative building.",
+        "signal_source": "CoinDesk: Bitcoin capitulation wave; Cointelegraph: four-month low near $62k."
       },
       {
-        "market_title": "Will GTA VI launch reach 15+ million copies sold by end of 2026?",
-        "venue": "Manifold",
-        "why_now": "GTA VI launches Nov 19, 2026; CNBC notes 'huge expectations' and massive downstream impact on streaming, gaming, workplace culture—cultural zeitgeist moment with measurable sales data.",
-        "signal_source": "CNBC GTA VI feature, Rockstar Games official launch date"
-      },
-      {
-        "market_title": "Will the FAA ground stop related to L3Harris system reoccur before August 2026?",
+        "market_title": "Will Nvidia's stock outperform SPY by >10% through 2026-12-31?",
         "venue": "Kalshi",
-        "why_now": "L3Harris telecom upgrade caused nationwide disruption; DOT is investigating whether 'incompetence' or faulty equipment caused chaos—systemic risk in critical infrastructure not yet fully resolved.",
-        "signal_source": "CNBC, BBC World FAA ground stop reporting"
+        "why_now": "ETF experts explicitly flagging Nvidia turmoil + Democratic Congress could shift AI demand *away* from Nvidia to rivals; contrarian hedge opportunity.",
+        "signal_source": "CNBC: Nvidia turmoil and Democratic Congress reshape AI trade; rival chipmakers gaining interest."
       },
       {
-        "market_title": "Will Berkshire Hathaway break $1 trillion market cap by June 30, 2026?",
+        "market_title": "Will FAA resolve root cause of nationwide ground stop within 30 days (by 2026-06-04)?",
+        "venue": "Manifold",
+        "why_now": "L3Harris telecom system upgrade triggered ground stop; root cause still unknown; infrastructure scrutiny intensifying.",
+        "signal_source": "CNBC / BBC: FAA ground stop caused by L3Harris upgrade; root cause still unestablished."
+      },
+      {
+        "market_title": "Will Grand Theft Auto VI launch on-time 2026-11-19?",
         "venue": "Polymarket",
-        "why_now": "BRK hit record highs with 19% Q4 rally and four consecutive fresh records; macro tailwinds (AI turmoil redirecting capital to diversified mega-caps) and Buffett's dry powder positioning.",
-        "signal_source": "CNBC Berkshire record highs reporting"
+        "why_now": "Massive cultural/economic spillover event; gaming, streaming, workplace disruption baked in; any delay is high-signal macro event.",
+        "signal_source": "CNBC: GTA VI reshaping gaming, streaming, paid time off; Nov 19 launch date confirmed."
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Ethereum close above $3,500 on or before September 30, 2026?",
-        "deadline": "2026-09-30",
-        "resolution_source": "CoinGecko daily OHLC (Ethereum USD)",
-        "why_underpriced": "ETH scaling narrative (MegaETH restructuring despite 20% cuts shows ecosystem still building) combined with stablecoin momentum (UK/Singapore/Thailand FX tests) underprice medium-term Layer 2 adoption.",
-        "trigger_signal": "Stablecoin cross-border settlement live pilots (UK, Singapore, Thailand); ETH scaling not priced despite MegaETH burn"
-      },
-      {
-        "question": "Will Bitcoin mining in Paraguay exceed 5% of global hashrate by March 31, 2027?",
-        "deadline": "2027-03-31",
-        "resolution_source": "Cambridge Bitcoin Electricity Consumption Index; mining pool published data (Foundry, AntPool geolocation reports)",
-        "why_underpriced": "CoinDesk reports Paraguay miners pay $350M/year but AI is displacing them—this creates binary: either Paraguay loses share (AI wins) or becomes refuge for clean energy arbitrage. Underpriced because market underestimates geopolitical energy-arbitrage durability.",
-        "trigger_signal": "Paraguay government $350M miner revenues; AI energy competition; upcoming Paraguay infrastructure policy announcements"
-      },
-      {
-        "question": "Will OpenAI's in-app payment volume exceed $500M annualized run rate by November 30, 2026?",
-        "deadline": "2026-11-30",
-        "resolution_source": "OpenAI official public statements, third-party fintech research (Insider Intelligence, Statista); Visa/Mastercard/Amex processed volume reports if disclosed",
-        "why_underpriced": "OpenAI just launched payments (Visa, Mastercard, Amex); ChatGPT's 200M+ user base hasn't been monetized at scale yet. GTA VI launch (Nov 2026) creates watershed moment for creator payments and micropayments ecosystem.",
-        "trigger_signal": "OpenAI payments launch confirmed; Visa/Mastercard partnership live; GTA VI Nov launch aligning with fintech narrative"
-      },
-      {
-        "question": "Will the DXY (US Dollar Index) close below 100 by July 31, 2026?",
+        "question": "Will Ethereum close above $3,500 on 2026-07-31?",
         "deadline": "2026-07-31",
-        "resolution_source": "Federal Reserve H.15 DXY official daily close",
-        "why_underpriced": "Trump-Putin-Xi trilateral meeting (mentioned as next week in BBC, likely May 2026) could trigger geopolitical realignment reducing USD reserve premium. Stablecoin momentum (tokenized bonds, cross-border settlement) competes with dollar dominance.",
-        "trigger_signal": "Trump-Putin-Xi summit output on trade/currency; Fed policy divergence signals; stablecoin adoption metrics"
+        "resolution_source": "CoinGecko / Kraken historical closing price",
+        "why_underpriced": "ETH volatility amplified by macro forces; scaling narratives (MegaETH pivot) and stablecoin adoption (UK/SG/Thailand FX tests) underpriced; current weakness creates asymmetric entry.",
+        "trigger_signal": "MegaETH staff cuts signal reallocation to AI; UK/SG/Thailand CBDC FX tests show institutional stablecoin momentum."
       },
       {
-        "question": "Will Solana (SOL) outperform Bitcoin (BTC) by >15% from now through December 31, 2026?",
+        "question": "Will Solana's SOL token trade above $200 by 2026-09-15?",
+        "deadline": "2026-09-15",
+        "resolution_source": "Coingecko / Binance historical price feed",
+        "why_underpriced": "SOL trending despite broader crypto selloff; Solana ecosystem resilience in down market; conviction play on developer retention.",
+        "trigger_signal": "SOL in crypto trending list; Hacker News + CoinDesk narrative vacuum on Solana despite turmoil; relative strength signal."
+      },
+      {
+        "question": "Will XRP recover to above $2.50 by 2026-08-15?",
+        "deadline": "2026-08-15",
+        "resolution_source": "CoinMarketCap / Kraken historical closing price",
+        "why_underpriced": "XRP crashed to 11-month lows; tokenized bonds (Kazakhstan) + cross-border FX settlement narratives (UK/SG/Thailand) provide regulatory/adoption tailwinds; crash may have overshot.",
+        "trigger_signal": "Kazakhstan tokenized bonds; UK/SG/Thailand CBDC settlement testing; XRP positioning as bridge asset underappreciated."
+      },
+      {
+        "question": "Will Bitcoin's realized volatility exceed 60% annualized over Q3 2026 (Jul-Sep)?",
+        "deadline": "2026-10-01",
+        "resolution_source": "Glassnode / Deribit volatility index historical data",
+        "why_underpriced": "CoinDesk flags behind-the-scenes force amplifying BTC/ETH volatility; Satoshi-era wallet movement ($260B lawsuit) adds tail risk; macro Fed uncertainty + crypto selloff = volatility regime shift.",
+        "trigger_signal": "CoinDesk: behind-the-scenes force amplifying volatility; Satoshi wallet movement; fourth capitulation wave signals ongoing friction."
+      },
+      {
+        "question": "Will Hyperliquid (HYPE) close 2026 in top 50 cryptos by market cap?",
         "deadline": "2026-12-31",
-        "resolution_source": "CoinGecko price data; calculate (SOL return % - BTC return %) from 2026-05-05 baseline",
-        "why_underpriced": "SOL trending on crypto feeds while BTC in capitulation; Hyperliquid (SOL-aligned L1 ecosystem) in top trending tokens suggests narrative momentum underestimated. Solana ecosystem shipping faster than Bitcoin L2s despite infrastructure perception gap.",
-        "trigger_signal": "SOL trending; Hyperliquid momentum; MegaETH retrenchment (not Solana ecosystem); BTC capitulation indicators"
+        "resolution_source": "CoinGecko / CoinMarketCap top 50 ranking",
+        "why_underpriced": "HYPE trending despite zero English media coverage; liquid perp protocol momentum; undervalued relative to hype cycle if retail re-enters.",
+        "trigger_signal": "HYPE in crypto trending; Hyperliquid ecosystem growth + dex narrative; institutional perp volume migration."
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long Bitcoin via spot ETF or perpetual futures on capitulation signal (BTC below $64k) as institutional dry powder repositions amid Nvidia leadership chaos redircing mega-cap rotation.",
-        "horizon": "30-90 days (target: June 2026)",
+        "thesis": "Crypto capitulation wave (BTC $62k, XRP 11-month lows) sets up tactical bounce to $68-72k BTC by 2026-07-31 as macro fear abates and Anthropic IPO sentiment flows down-stack.",
+        "horizon": "60-90 days",
         "supporting_signals": [
-          "BTC crashed to 3-month low <$64k (CoinDesk capitulation wave alert)",
-          "Bitcoin ETFs shed $2.35B in 2 weeks but this forces institutional rebalancing into underweight positions",
-          "Nvidia turmoil ($2.13B investor pressure for leadership search) redirects AI trade capital to diversified mega-caps, reducing growth-only rotation pressure on macro assets",
-          "BlackRock iShares Bitcoin ETF in 11-day losing streak suggests capitulation climax near"
+          "CoinDesk: fourth capitulation wave flagged; Bitcoin at 3-month low.",
+          "Cointelegraph: BTC near 4-month low; money leaving crypto en masse suggests capitulation exhaustion.",
+          "CNBC: Anthropic IPO lands as AI trade seeks bright spot; positive momentum spill-over into risk assets."
         ],
-        "counter_view": "Bitcoin could spiral lower if macro recession fears intensify or Fed keeps rates higher-for-longer; $60k support could crack if real yields spike.",
-        "expression": "BTC spot ETF (IBIT/FBTC) or BTC/USD perpetual 2-5x leverage on Bybit/OKX; risk limit at $58k"
+        "counter_view": "Fed tightening persists; macroeconomic headwinds (deflationary concerns) keep crypto depressed through 2026-Q3.",
+        "expression": "Long BTC 3-month perps (2x leverage max); target $68,000 exit; stop loss $59,000."
       },
       {
-        "thesis": "Long SPY or QQQ; rotate out of mega-cap AI names (NVDA weakness) into diversified large-cap dividend and Berkshire-like value—macro tailwinds (Trump summit could ease trade tensions, reduce systemic risk premium) plus Nvidia overhang removal.",
-        "horizon": "60-120 days (target: August 2026)",
+        "thesis": "Stablecoin + CBDC adoption narrative (UK/SG/Thailand FX settlement + Kazakhstan tokenized bonds) favors ETH gas consumption and XRP bridge liquidity; ETH/BTC ratio compression play.",
+        "horizon": "120-180 days",
         "supporting_signals": [
-          "Berkshire Hathaway hit record highs with 19% Q4 rally—signaling rotation into Buffett-style diversified value ahead of macro reset",
-          "Nvidia leadership vacuum ($2.13B activist push) reduces AI concentration risk narrative; ETF experts predict capital rotates to rival chipmakers and non-AI Big Tech",
-          "Trump-Putin-Xi summit (early May per BBC) could unlock trade détente, reducing tariff premium baked into equities",
-          "Democratic Congress (per CNBC ETF analysis) reduces antitrust pressure on tech mega-caps, reverses previous concentration fear"
+          "CoinDesk: UK, Singapore, Thailand central banks test cross-border FX settlement as stablecoins gain ground.",
+          "CoinDesk: Kazakhstan plans tokenized government bonds; $22M note sale signals institutional adoption.",
+          "XRP down-move creates asymmetric entry for regulatory tailwind positioning."
         ],
-        "counter_view": "If Nvidia stabilizes quickly under new leadership and AI spending reaccelerates, QQQ outperforms and mega-cap concentration re-inverts; trade talks could fail and tariff fears return.",
-        "expression": "Long SPY vs. short NVDA pair trade (2:1 notional ratio); or straight long IVV/VOO with 20% hedge via short NVDA calls"
+        "counter_view": "Tokenized bond rollout delays; CBDC adoption slower than hyped; regulatory friction resurfaces.",
+        "expression": "Long ETH, short BTC (2% size); ETH/BTC ratio long at 0.045 target; rebalance if macro hawkishness resurfaces."
       },
       {
-        "thesis": "Long Ethereum and ETH/BTC ratio on stablecoin adoption and cross-border settlement traction (UK, Singapore, Thailand live pilots) as institutional plumbing for tokenized finance materializes faster than expected.",
-        "horizon": "90-180 days (target: November 2026)",
+        "thesis": "Nvidia relative underperformance vs. broader Tech due to leadership turmoil + Democratic Congress shift; rotate from NVDA into AMD, QCOM, or semiconductor ETF (SOXX) through 2026-Q3.",
+        "horizon": "90-150 days",
         "supporting_signals": [
-          "UK, Singapore, Thailand central banks testing cross-border FX settlement on stablecoins (CoinDesk)—institutional guardrails forming",
-          "Kazakhstan announces tokenized government bonds (Q1 2026 after $22M note sale)—sovereign debt issuance on blockchain imminent",
-          "Britain explores converting 'wasted' Scottish wind into Bitcoin mining to offset $1.3B grid costs—energy-to-hash monetization removes regulatory friction",
-          "OpenAI payments (Visa, Mastercard, Amex) live—micropayment infrastructure normalizing stablecoin use cases"
+          "CNBC: Nvidia turmoil and Democratic Congress could reshape AI demand to benefit rival chipmakers.",
+          "CNBC: ETF experts positioning for broader AI beneficiaries, not just Nvidia.",
+          "Megaspeed/Nvidia leadership scrutiny adds reputational friction."
         ],
-        "counter_view": "ETH scaling projects (MegaETH) burning capital despite AI pivot signals demand destruction; regulatory crackdown could freeze stablecoin adoption momentum mid-cycle.",
-        "expression": "Long ETH/USD spot or 3-5x leverage perpetual; pair against short BTC to express ETH relative strength (ETH/BTC long via ETH perp + BTC short perp equal notional)"
+        "counter_view": "Nvidia dominance in H100/H200 supply is insurmountable; rivals cannot gain meaningful share in 12 months.",
+        "expression": "Long SOXX (semiconductor ETF) vs. Short NVDA (50/50 weighted pairs trade); target SOXX outperformance by 8-12% by 2026-09-30."
       },
       {
-        "thesis": "Short NVDA stock or short NVDA call spreads through Q3 2026 as leadership vacuum, activist pressure, and Huang-dependent narrative compound; risk: stabilization announcement kills short thesis in days.",
-        "horizon": "30-60 days (decisive by June 2026 earnings or CEO appointment)",
+        "thesis": "Solana ecosystem resilience in a down crypto market (SOL trending despite XRP/BTC crashes) signals developer/user stickiness; SOL outperforms other L1s through 2026-Q3.",
+        "horizon": "90-120 days",
         "supporting_signals": [
-          "Two Nvidia investors ($2.13B holdings) publicly demanding 'deliberate leadership search'—activist agenda forcing board action on timeline",
-          "Lutnick-Nvidia family ties scrutiny (Commerce Secretary conflict-of-interest angle) adds headline risk for semiconductor policy",
-          "Huang's resignation is unprecedented at NVDA; no clear internal successor signals long search process (12-18 months possible) depressing stock multiple",
-          "ETF experts flagged Nvidia turmoil could reshape AI demand in favor of rivals—capital already rotating out pre-announcement"
+          "SOL in crypto trending list; sustained relative strength despite broad crypto selloff.",
+          "Hacker News engagement (Lovable, dev tools) shows Solana dev ecosystem momentum.",
+          "MegaETH pivot to AI shows broader L2 uncertainty; Solana's Firedancer + ecosystem maturity differentiate."
         ],
-        "counter_view": "Board appoints strong external CEO (e.g., from AMD, Intel, or tech industry) within 60 days, stability premium re-rates NVDA higher; AI capex boom re-ignites and NVDA benefits as sole supply winner.",
-        "expression": "Put spread: buy NVDA $120 puts, sell NVDA $110 puts, 60-90 DTE; or outright short 2-3% portfolio weight with trailing stop at +8%"
+        "counter_view": "Solana network instability returns; developers migrate to more stable chains; SOL correlation with BTC reasserts.",
+        "expression": "Long SOL vs. Short NEAR (weighted pair); target SOL outperformance by 15-20% by 2026-08-15."
       },
       {
-        "thesis": "Long gold (GLD) and long DXY into Trump-Putin-Xi summit; if summit triggers geopolitical détente, unwind into weaker DXY and neutral gold, but headline risk and reserve-currency skepticism keep real rates in gold's favor through 2026.",
-        "horizon": "30-180 days (pivot point: early May summit, sustained through Q3)",
+        "thesis": "Bitcoin infrastructure vulnerability (FAA ground stop from telecom upgrade, Satoshi wallet movement, behind-the-scenes volatility amplification) creates tactical hedging opportunity; long VIX proxy + long gold through 2026-06-30.",
+        "horizon": "30-60 days",
         "supporting_signals": [
-          "Trump-Putin-Xi trilateral meeting next week per BBC—historically unprecedented; outcome will reset geopolitical risk premium",
-          "Stablecoin adoption (cross-border FX, tokenized bonds) undermines dollar reserve premium narrative; central banks testing alternatives",
-          "Bitcoin capitulation and ETF outflows suggest macro risk-off, which typically lifts gold as safe haven",
-          "Real yields remain elevated but could compress if Fed cuts rates post-summit if trade tensions ease"
+          "CoinDesk: behind-the-scenes force amplifying Bitcoin volatility.",
+          "CoinDesk: Satoshi-era wallet moved 75 BTC in $260B lawsuit context; tail risk event.",
+          "FAA ground stop / L3Harris telecom failure signals infrastructure fragility spillover into broader financial systems."
         ],
-        "counter_view": "Summit produces no concrete outcomes or strengthens Trump-Putin alignment without easing trade war—dollar reprices higher and gold underperforms real assets; DXY breaks above 105.",
-        "expression": "Long GLD (gold ETF) + long UUP (strong-dollar hedge via long volatility) as barbell; or long GLD futures contracts; unwind DXY long if summit produces trade détente signal"
+        "counter_view": "Tail risks are priced; gold depressed by USD strength; macro calm returns.",
+        "expression": "Long gold (GLD) + Long UVXY (VIX proxy) at 3% portfolio weight; exit when BTC rebounds 10% or VIX normalizes below 18."
       }
-    ],
-    "flags": {
-      "no_chinese_news_unique_scoops": "No stories from Caixin, Yicai, or 36Kr detected in feed. Chinese tech/fintech sources should be monitored for early signals on AI policy (Nvidia ban implications), stablecoin regulation (tokenized bonds), and Trump summit prep.",
-      "critical_infrastructure_risk": "L3Harris FAA ground stop is systemic; if root cause not resolved, expect recurrence risk pricing into aviation/telecom vulnerability trades. Monitor DOT and FAA public disclosures through June 2026.",
-      "nvidia_leadership_vacuum_timeline": "Activist investors have concrete ownership stake ($2.13B); board pressure is real. CEO appointment decision likely within 60-120 days (by July-August 2026). Track quarterly earnings and investor day signals."
-    }
+    ]
   }
 }
