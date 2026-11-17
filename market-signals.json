@@ -1,20 +1,55 @@
 {
-  "generated_at_utc": "2026-11-17T03:19:32.266231+00:00",
+  "generated_at_utc": "2026-11-17T14:01:08.669747+00:00",
   "live_signals": {
     "english_news": [
+      {
+        "source": "CNBC Top News",
+        "title": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
+        "summary": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
+        "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
+        "published": "Tue, 17 Nov 2026 13:53:04 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+        "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
+        "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+        "published": "Tue, 17 Nov 2026 07:07:35 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
+        "summary": "Trump threatens Iran and responds to a tax leak report as his Asia trip begins.",
+        "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+        "published": "Tue, 17 Nov 2026 13:44:02 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+        "summary": "The forecast represents one of the most hawkish views among policymakers.",
+        "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+        "published": "Tue, 17 Nov 2026 13:40:54 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+        "summary": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
+        "link": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+        "published": "Tue, 17 Nov 2026 06:59:42 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
+        "summary": "How the market set-up is more favorable for the Anthropic IPO than the lead-up to SpaceX's debut.",
+        "link": "https://www.cnbc.com/2026/11/17/nvidia-earnings-anthropic-ipo-tech-rally.html",
+        "published": "Tue, 17 Nov 2026 13:11:40 GMT"
+      },
       {
         "source": "CNBC Top News",
         "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
         "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
         "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-        "published": "Mon, 16 Nov 2026 22:37:45 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-        "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
-        "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-        "published": "Tue, 17 Nov 2026 00:42:33 GMT"
+        "published": "Tue, 17 Nov 2026 10:08:32 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -24,158 +59,123 @@
         "published": "Mon, 16 Nov 2026 23:05:12 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-        "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-        "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-        "published": "Mon, 16 Nov 2026 22:14:47 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-        "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
-        "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
-        "published": "Mon, 16 Nov 2026 23:00:01 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-        "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-        "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-        "published": "Mon, 16 Nov 2026 23:01:19 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "United Airlines resolves system outage that affected departing flights",
-        "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
-        "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-        "published": "Tue, 17 Nov 2026 00:00:49 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Kalshi plans to launch stock trading soon",
-        "summary": "Kalshi's interest in offering stock trading shows the platform's push into traditional financial markets.",
-        "link": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
-        "published": "Mon, 16 Nov 2026 21:23:34 GMT"
+        "source": "BBC World",
+        "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+        "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 17 Nov 2026 13:01:11 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Five EU countries announce migrant deportation centre in Rwanda",
-        "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-        "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 16 Nov 2026 23:20:45 GMT"
+        "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+        "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+        "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 17 Nov 2026 05:59:01 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-        "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-        "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 16 Nov 2026 21:40:07 GMT"
+        "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+        "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+        "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 17 Nov 2026 13:02:17 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-        "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-        "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 17 Nov 2026 02:37:53 GMT"
+        "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+        "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 17 Nov 2026 11:17:32 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-        "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-        "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 16 Nov 2026 14:58:12 GMT"
+        "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+        "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+        "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 17 Nov 2026 09:27:44 GMT"
       },
       {
         "source": "BBC World",
-        "title": "When will we see Robert Pattinson as Bond in cinemas?",
-        "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-        "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 16 Nov 2026 17:18:54 GMT"
+        "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+        "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+        "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 17 Nov 2026 01:26:01 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-        "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-        "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 16 Nov 2026 20:33:57 GMT"
+        "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+        "summary": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 17 Nov 2026 11:58:16 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-        "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-        "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 16 Nov 2026 19:30:30 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Two mass shootings in South Africa leave 17 dead",
-        "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-        "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-        "published": "Mon, 16 Nov 2026 10:57:48 GMT"
+        "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+        "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 17 Nov 2026 07:01:00 GMT"
       },
       {
         "source": "CoinDesk",
-        "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+        "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-        "published": "Mon, 16 Nov 2026 21:51:04 +0000"
+        "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+        "published": "Tue, 17 Nov 2026 13:02:56 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+        "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-        "published": "Mon, 16 Nov 2026 20:35:21 +0000"
+        "link": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+        "published": "Tue, 17 Nov 2026 13:00:00 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+        "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-        "published": "Mon, 16 Nov 2026 18:54:19 +0000"
+        "link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+        "published": "Tue, 17 Nov 2026 12:16:53 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+        "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-        "published": "Mon, 16 Nov 2026 16:41:42 +0000"
+        "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+        "published": "Tue, 17 Nov 2026 12:00:55 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+        "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
         "summary": "",
-        "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-        "published": "Mon, 16 Nov 2026 15:54:11 +0000"
+        "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+        "published": "Tue, 17 Nov 2026 11:36:07 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "German parliament proposes crypto seizures without criminal charges",
+        "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
         "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-        "published": "Mon, 16 Nov 2026 15:44:59 +0000"
+        "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+        "published": "Tue, 17 Nov 2026 11:29:51 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Solana drops ‘beta’ label after more than six years",
+        "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
         "summary": "",
-        "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-        "published": "Mon, 16 Nov 2026 13:03:16 +0000"
+        "link": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+        "published": "Tue, 17 Nov 2026 11:25:58 +0000"
       },
       {
         "source": "CoinDesk",
-        "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+        "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
         "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-        "published": "Mon, 16 Nov 2026 12:55:46 +0000"
+        "link": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+        "published": "Tue, 17 Nov 2026 10:48:12 +0000"
       },
       {
         "source": "Cointelegraph",
-        "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hackers inject credit card, crypto-stealing malware into 178 major websites\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg\" /></p><p>Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to se",
-        "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 17 Nov 2026 01:02:05 +0000"
+        "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J814ZJF0ZT28MQSMZXMK36/haseeb-qureshi-trade-secrets.png\" /></p><p>Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weighing on crypto.</p>",
+        "link": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 17 Nov 2026 13:30:00 +0000"
       }
     ],
     "chinese_news": [],
@@ -183,96 +183,96 @@
       {
         "source": "Hacker News",
         "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-        "summary": "score: 855, comments: 140",
+        "summary": "score: 1831, comments: 246",
         "link": "https://www.cs.cmu.edu/learn/",
-        "score": 855
+        "score": 1831
       },
       {
         "source": "Hacker News",
         "title": "BugMeNot has closed",
-        "summary": "score: 360, comments: 179",
+        "summary": "score: 620, comments: 278",
         "link": "https://www.bugmenot.com/",
-        "score": 360
+        "score": 620
       },
       {
         "source": "Hacker News",
-        "title": "Frame – 31.5\" color ePaper display",
-        "summary": "score: 325, comments: 227",
-        "link": "https://trmnl.com/blog/introducing-frame",
-        "score": 325
-      },
-      {
-        "source": "Hacker News",
-        "title": "Jiff 1.0: A datetime library for Rust",
-        "summary": "score: 325, comments: 76",
-        "link": "https://burntsushi.net/jiff/",
-        "score": 325
-      },
-      {
-        "source": "Hacker News",
-        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-        "summary": "score: 309, comments: 176",
-        "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-        "score": 309
-      },
-      {
-        "source": "Hacker News",
-        "title": "Grazing sheep in fields with solar arrays",
-        "summary": "score: 231, comments: 232",
-        "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-        "score": 231
-      },
-      {
-        "source": "Hacker News",
-        "title": "OpenCode Browse",
-        "summary": "score: 146, comments: 63",
-        "link": "https://opencode.ai/product/browse",
-        "score": 146
-      },
-      {
-        "source": "Hacker News",
-        "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
-        "summary": "score: 142, comments: 77",
+        "title": "Optimizely compromised, served malware on Zoom, GitLab",
+        "summary": "score: 463, comments: 193",
         "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-        "score": 142
+        "score": 463
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chemistry is Actually Geometry",
+        "summary": "score: 267, comments: 120",
+        "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+        "score": 267
+      },
+      {
+        "source": "Hacker News",
+        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "summary": "score: 235, comments: 123",
+        "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "score": 235
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why 3dfx 1 cards had such a washed out color output?",
+        "summary": "score: 197, comments: 63",
+        "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+        "score": 197
+      },
+      {
+        "source": "Hacker News",
+        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+        "summary": "score: 164, comments: 95",
+        "link": "https://support.apple.com/en-us/149699",
+        "score": 164
+      },
+      {
+        "source": "Hacker News",
+        "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+        "summary": "score: 113, comments: 41",
+        "link": "https://visualbasic.world/",
+        "score": 113
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
+        "title": "Gato The Cat (GATO)",
+        "summary": "market cap rank: 856",
+        "link": "https://www.coingecko.com/en/coins/gato-the-cat"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Backpack (BP)",
-        "summary": "market cap rank: 141",
+        "summary": "market cap rank: 135",
         "link": "https://www.coingecko.com/en/coins/backpack"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bless (BLESS)",
-        "summary": "market cap rank: 545",
-        "link": "https://www.coingecko.com/en/coins/bless"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 40",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "summary": "market cap rank: 80",
-        "link": "https://www.coingecko.com/en/coins/lighter"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 124",
-        "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Bitcoin (BTC)",
         "summary": "market cap rank: 1",
         "link": "https://www.coingecko.com/en/coins/bitcoin"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Pearl (PEARL)",
+        "summary": "market cap rank: 89",
+        "link": "https://www.coingecko.com/en/coins/pearl-research"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Injective (INJ)",
+        "summary": "market cap rank: 80",
+        "link": "https://www.coingecko.com/en/coins/injective"
       },
       {
         "source": "CoinGecko Trending",
@@ -285,133 +285,127 @@
   "analysis": {
     "prediction_markets_to_watch": [
       {
-        "market_title": "Will Bitcoin trade below $60,000 by June 30, 2026?",
+        "market_title": "Will Nvidia stock close above $140 by end of Q2 2026?",
         "venue": "Polymarket",
-        "why_now": "CoinDesk reports Bitcoin risks falling below $60,000 as Nvidia earnings threaten crypto sell-off; current price action and equity volatility create immediate betting signal.",
-        "signal_source": "CoinDesk; real-time BTC spot price"
+        "why_now": "ARK selling $85M ahead of Q3 earnings, Trump accounts divested $1M post-Huang briefing, and Eisman warns neocloud stocks face 'big trouble'—sentiment inflection point.",
+        "signal_source": "Cointelegraph (ARK sale), CNBC (Trump divestment, Eisman warning)"
       },
       {
-        "market_title": "Will Nvidia's stock price be higher on May 31, 2026 than May 5, 2026?",
+        "market_title": "Will the Fed cut rates by more than 25bps total in H2 2026?",
         "venue": "Kalshi",
-        "why_now": "Trump sold up to $1M NVDA after Huang briefing, Nvidia board ruled out Huang return (4% drop), and Fed chair Warsh sees AI turning point—conflicting signals create actionable spread.",
-        "signal_source": "CNBC, Cointelegraph, Nvidia investor relations"
+        "why_now": "St. Louis Fed's Musalem just signaled four more *hikes* may be needed—most hawkish policymaker in months; market pricing is still dovish relative to this tail risk.",
+        "signal_source": "CNBC (Musalem statement)"
       },
       {
-        "market_title": "Will the U.S. Fed cut interest rates at least once by December 31, 2026?",
-        "venue": "Kalshi",
-        "why_now": "Kevin Warsh (top AI/macro voice) explicitly flagged AI job impact and rate implications; this is core macro uncertainty feeding crypto/equity volatility.",
-        "signal_source": "CNBC analysis on Fed chairman Warsh"
-      },
-      {
-        "market_title": "Will Kalshi successfully launch stock trading before August 1, 2026?",
+        "market_title": "Will Anthropic IPO price above $20B valuation in 2026?",
         "venue": "Manifold",
-        "why_now": "Kalshi announced plans to offer stock trading; regulatory approval and launch timing are live bets for prediction market infrastructure expansion.",
-        "signal_source": "CNBC; Kalshi official announcements"
+        "why_now": "CNBC reports investors view Anthropic IPO market setup as more favorable than SpaceX was; timing and sentiment conditions align for a focal question on valuation.",
+        "signal_source": "CNBC (IPO setup analysis)"
       },
       {
-        "market_title": "Will Solana (SOL) outperform Ethereum (ETH) in price return over the next 90 days (May 5 – August 5, 2026)?",
+        "market_title": "Will Bitcoin remain below $70,000 on July 1, 2026?",
         "venue": "Polymarket",
-        "why_now": "Solana dropped 'beta' label signaling maturity milestone; trending strength (TAO, BP on-chain) and differentiation from ETH create relative value bet.",
-        "signal_source": "CoinDesk; crypto trending tokens; on-chain metrics"
+        "why_now": "BTC penned near $64k despite ETF outflow streak ending; BlackRock ETF snapped $2.35B outflow streak but realized losses beat June highs—capitulation bottom forming but not yet confirmed.",
+        "signal_source": "CoinDesk (price, outflows, realized losses)"
+      },
+      {
+        "market_title": "Will U.S. initiate formal trade sanctions against China AI chips by September 2026?",
+        "venue": "Kalshi",
+        "why_now": "Commerce Department tightening export controls, Nvidia warning buyers of legal risks, Megaspeed investigation announced—regulatory escalation trajectory is live.",
+        "signal_source": "CNBC (Commerce tightening, Nvidia warning, Megaspeed investigation)"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will Jensen Huang's total compensation package (salary + stock) for 2026 exceed $100 million as reported by Nvidia in proxy statement?",
-        "deadline": "2027-04-30",
-        "resolution_source": "Nvidia SEC DEF 14A proxy filing for 2026 fiscal year",
-        "why_underpriced": "Trump publicly backed 'Bring Jensen Back' campaign; market underestimates either Huang reinstatement risk or accelerated equity grants if he stays—creates optionality bet.",
-        "trigger_signal": "CNBC, BBC reports on Trump-Huang pressure and Nvidia board response"
-      },
-      {
-        "question": "Will U.S. Senate vote to overturn or formally reject the CFTC's ban on prediction market trading by December 31, 2026?",
+        "question": "Will Ethereum close above $3,000 on December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Congress.gov legislative record and Senate voting record",
-        "why_underpriced": "CoinDesk reports Democrats already told CFTC to 'back off'—momentum is building but market hasn't priced likelihood of formal legislative action.",
-        "trigger_signal": "CoinDesk Senate Democrats vs. CFTC; crypto Twitter sentiment"
+        "resolution_source": "CoinGecko (via Solana Foundation's majority stake acquisition) or CoinMarketCap closing price",
+        "why_underpriced": "Glamsterdam upgrade risks breaking 15,000 apps—creates near-term volatility uncertainty, but long-term ETH fundamentals (Shanghai, Dencun narrative continuation) are under-priced into year-end.",
+        "trigger_signal": "CoinDesk report on Glamsterdam risk; lack of market hedging suggests complacency"
       },
       {
-        "question": "Will the Federal Reserve's benchmark interest rate (federal funds rate) be lower on December 15, 2026 than it is on May 5, 2026?",
-        "deadline": "2026-12-20",
-        "resolution_source": "Federal Reserve official announcement and FOMC statement",
-        "why_underpriced": "Kevin Warsh (incoming top Fed voice) flagged AI-induced job displacement as rate-relevant; market is pricing limited cuts despite dovish signals from leadership.",
-        "trigger_signal": "CNBC Warsh analysis; Fed communications; labor data flow through H2 2026"
+        "question": "Will the DXY (US Dollar Index) close above 108 on June 30, 2026?",
+        "deadline": "2026-06-30",
+        "resolution_source": "Federal Reserve's official DXY feed or CME futures settlement",
+        "why_underpriced": "St. Louis Fed signaling four more rate hikes contradicts market's dovish pricing; Trump's tariff rhetoric (Iran threats, Asia trip) supports greenback strength into mid-2026.",
+        "trigger_signal": "Musalem's hawkish four-hike signal; Trump's escalatory geopolitical posture"
       },
       {
-        "question": "Will Bitcoin's price reach $100,000 or higher at any point before September 30, 2026?",
-        "deadline": "2026-10-01",
-        "resolution_source": "Bitcoin spot price on major exchanges (Coinbase, Kraken, Binance; resolution via CoinMarketCap historical data)",
-        "why_underpriced": "Current sell pressure from Nvidia/crypto liquidations and macro uncertainty mask structural bull thesis (prediction market legalization, Fed cuts, inflation hedge); upside optionality undervalued.",
-        "trigger_signal": "CoinDesk BTC below $60K warning; contrarian Senate crypto support; BTC dominance trending"
+        "question": "Will Solana (SOL) outperform Bitcoin (BTC) by >15% cumulatively between May 5 and November 5, 2026?",
+        "deadline": "2026-11-05",
+        "resolution_source": "CoinGecko price feed; calculation: (SOL_final / SOL_initial) / (BTC_final / BTC_initial) > 1.15",
+        "why_underpriced": "Solana Foundation's CoinGecko majority stake signals protocol confidence; DeFi yield-generation products (scam-bank alternative) concentrating TVL on Solana. Market doesn't yet price this ecosystem shift.",
+        "trigger_signal": "CoinDesk (Solana Foundation CoinGecko, DeFi yield targeting 'scam banks')"
       },
       {
-        "question": "Will JPMorgan Chase's stock price be higher on July 31, 2026 than on May 5, 2026?",
-        "deadline": "2026-08-05",
-        "resolution_source": "JPMorgan Chase (ticker: JPM) closing price on NYSE; Yahoo Finance or Bloomberg",
-        "why_underpriced": "JPM software bug narrative is noise; Berkshire Hathaway trimmed Bank of America but macro credit picture remains solid—bank sector volatility creates mispricing opportunity.",
-        "trigger_signal": "CNBC banking coverage; Berkshire Hathaway portfolio moves; credit spread data"
+        "question": "Will OpenAI's valuation exceed $200B in its next funding round announced by December 31, 2026?",
+        "deadline": "2026-12-31",
+        "resolution_source": "Official OpenAI press release or credible VC reporting (PitchBook, Crunchbase)",
+        "why_underpriced": "Aschenbrenner's fund bought AI stocks before October rout (signaling insider conviction); Anthropic IPO catalyst will reset AI valuations upward; OpenAI's proprietary moat (GPT-5 rumors, enterprise contracts) commands premium.",
+        "trigger_signal": "CoinDesk (Aschenbrenner repositioning); CNBC (Anthropic IPO timing)"
+      },
+      {
+        "question": "Will the Fed Governor Michael Barr's AI-bank-run warning trigger a formal regulatory proposal for digital asset custody rules by September 30, 2026?",
+        "deadline": "2026-09-30",
+        "resolution_source": "Federal Register or Federal Reserve official announcements of proposed rulemaking (NPRM)",
+        "why_underpriced": "Barr's public warning signals internal concern; crypto custody ETF inflows + stablecoin integration into TradFi accelerate; regulators historically lag market 6–9 months on guardrails.",
+        "trigger_signal": "CoinDesk (Barr warning on AI agents, bank runs); broader stablecoin adoption"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Bitcoin declines 15–25% in near term (May–June 2026) as Nvidia earnings volatility spills into crypto via forced liquidations and macro tightening fears, then recovers sharply in Q3–Q4 on prediction market legalization tailwinds.",
-        "horizon": "6 months",
+        "thesis": "Long Bitcoin vs. short Nvidia on relative-strength basis; AI hype deflating while macro tightening rewrites risk-off narratives favoring hard assets.",
+        "horizon": "60–120 days",
         "supporting_signals": [
-          "CoinDesk: 'Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off'",
-          "CNBC: Trump sold $1M NVDA post-Huang briefing; equity volatility rising",
-          "CoinDesk: Senate Democrats backing off CFTC ban; legislative momentum building",
-          "Crypto trending: BTC volatility correlated with tech sector; TAO, HYPE weakness"
+          "Eisman warns neocloud stocks in 'big trouble'; ARK dumping $85M NVDA before earnings",
+          "Musalem (St. Louis Fed) signals four more hikes—dollar upside, risk-off mood",
+          "Bitcoin ETF outflow streak broken; realized losses capitulation signal"
         ],
-        "counter_view": "Federal Reserve cuts rates faster than expected (Warsh signal), which re-inflates risk assets; prediction markets already legal in forward contracts (Kalshi) so legalization event is priced.",
-        "expression": "Long BTC June 2026 out-of-the-money puts (hedge near-term downside); long BTC September–December 2026 calls (capture post-Q2 recovery); or use BTC/SPY correlation inverse and short SPY via leveraged ETF (PSQ) for 2–4 weeks, then flip."
+        "counter_view": "Nvidia earnings beat expectations and Jensen Huang's supply clarity re-ignites AI capex cycle, pulling risk appetite back into mega-cap semis.",
+        "expression": "BTC/NVDA ratio hedge: Long 1 BTC perp, short 50 NVDA shares on 2x leverage; unwind if BTC breaks $72k or NVDA breaks $155"
       },
       {
-        "thesis": "Nvidia stock outperforms broader tech sector through 2026 despite Trump pressure on Jensen Huang because board discipline, enterprise AI ROI acceleration, and competitive moat justify 50+ multiples—political noise is temporary.",
-        "horizon": "3–6 months",
+        "thesis": "Long US Dollar (DXY) into mid-2026; St. Louis Fed hawkish guidance + Trump tariff/Iran escalation diverge from market pricing of immediate rate cuts.",
+        "horizon": "90–180 days",
         "supporting_signals": [
-          "CNBC: Trump trading activity ($97.5M in NVDA accounts, then $1M sale) is signaling uncertainty, not conviction short",
-          "BBC: Nvidia board 'ruled out Huang return'—board discipline is signal of stability",
-          "CNBC Warsh: 'AI at a turning point'—enterprise CapEx cycle accelerating",
-          "Cointelegraph: Nvidia shares fell 4% on Huang return denial, recoverable on Q2 earnings"
+          "Musalem: four more hikes may be needed (most hawkish policymaker signal in months)",
+          "Trump threatens Iran, navigates Asia tariff dynamics—supports dollar-safe-haven flow",
+          "Market still pricing Fed pivot by Q3 2026; policy guidance gap is real"
         ],
-        "counter_view": "Trump political pressure escalates to executive action (tariffs, export controls on chips); Huang reinstatement campaign gains traction and creates corporate governance crisis.",
-        "expression": "Long NVDA vs. short SPY (beta-adjusted hedge); or long NVDA June/September 2026 calls; or use QQQ call spread (long $450c / short $500c June expiry) to capture upside with lower cost."
+        "counter_view": "Musalem is an outlier; Powell and core Fed messaging remains accommodative if inflation softens Q2–Q3.",
+        "expression": "Long DXY via UUP ETF or long USD/JPY and USD/EUR futures; target 108–109 by June 30; stop below 105"
       },
       {
-        "thesis": "U.S. interest rates decline 50–75 bps by end of 2026 as labor market softness from AI acceleration emerges; Fed chair Warsh pivots dovish; this lifts Bitcoin and growth equity multiples, compressing DXY.",
-        "horizon": "6–9 months",
+        "thesis": "Rotate from mega-cap AI (NVDA, TSLA) into Solana ecosystem assets (SOL, DEX/yield tokens on Solana chain); DeFi yield aggregation and institutional custody removing friction.",
+        "horizon": "120–180 days",
         "supporting_signals": [
-          "CNBC: Kevin Warsh explicitly raises 'tough questions on jobs' in context of AI turning point",
-          "Fed communication pattern: Warsh is macro hawk-turned-pragmatist; likely to embrace data-dependent cuts if unemployment ticks up",
-          "Crypto macro: Prediction market legalization removes tail risk of CFTC clamps; reduces USD carry trades liquidation risk",
-          "CoinDesk: Senate Democratic pressure on CFTC suggests crypto-friendly policy regime emerging"
+          "Solana Foundation takes majority stake in CoinGecko—ecosystem confidence, data layer consolidation",
+          "CoinDesk: DeFi yield targeting 'scam-like' bank accounts (11%+ USDC on Solana vs. 3% TradFi)",
+          "Revolut launching blockchain funds for private markets—Solana likely beneficiary for staking/yield"
         ],
-        "counter_view": "Inflation re-accelerates (energy shock, fiscal spending); Fed holds rates; Trump tariffs push CPI higher; DXY rallies, Bitcoin and growth assets compress.",
-        "expression": "Long DBC or USO (commodities hedge); short DXY via FXE put spreads; long TLT or IEF (Treasury long duration ETFs); long BTC and long QQQ (leveraged via TQQQ or call spreads). Or pair trade: long 10-year Treasury futures, short 2-year (curve steepener)."
+        "counter_view": "Solana ecosystem technical risk (network disruptions), regulatory uncertainty on yield products, and Ethereum Layer 2 (Arbitrum, Optimism) offer similar upside with less volatility.",
+        "expression": "Long SOL 70/30 vs. BTC; long SOL/NVDA ratio; consider Raydium (RAY) or Magic Eden (ME) if liquid; 150-day horizon"
       },
       {
-        "thesis": "Cryptocurrency sector undergoes technical correction (BTC to $55K–$58K, ETH to $2.0K–$2.3K) through May–June driven by Nvidia earnings shock and macro hawkishness, but July–September 2026 recovery is sharp as prediction market ETFs and spot Bitcoin ETF inflows resume.",
-        "horizon": "3–9 months",
+        "thesis": "Long short-duration US Treasuries or TLT puts; Musalem's four-hike signal and commercial real estate pressure extend duration curve bear case.",
+        "horizon": "90–150 days",
         "supporting_signals": [
-          "CoinDesk: Multiple reports of BTC downside risk; Aschenbrenner's AI hedge fund bought before October rout, now positions vulnerable",
-          "CNBC Warsh: Explicit job impact concerns = risk-off, temporary",
-          "Crypto trending: TAO, HYPE, LIT weakness; retail positioning extended",
-          "Kalshi launch: Stock trading feature coming; regulatory clarity accelerating; reduces tail risk"
+          "St. Louis Fed hawkish; inflation narrative shifting from disinflation back to sticky components",
+          "Trump tariff rhetoric compounds CRE stress; duration premium should compress if Fed stays hold-then-hike"
         ],
-        "counter_view": "No bounce; crypto enters bear market as macro stays tight, spot Bitcoin ETF demand exhausts, and prediction market legalization fails (new CFTC enforcement). BTC tests $40K–$50K.",
-        "expression": "Buy BTC dips below $58K via spot, hold for September (3–4 month hold). Or long BTC 3-month puts (June expiry) at $55K strike, sell September $45K puts; create profitable collar. Or via proxy: long BITO calls (Bitcoin futures ETF) June/September expiry, out-of-the-money."
+        "counter_view": "If recessionary data emerges (jobless claims spike, ISM drops), bond yields fall sharply and duration outperforms.",
+        "expression": "Short TLT ETF or long TLT puts (20 delta, 60-day); hedge with long GLD if macro uncertainty spikes"
       },
       {
-        "thesis": "Prediction market infrastructure (Polymarket, Kalshi) becomes a key alpha-generation tool for institutions in H2 2026 as regulatory tailwinds solidify; implied probability mismatches vs. fundamental odds in U.S. election, Fed policy, and crypto will create edge; Manifold volume and liquidity expand 5–10x.",
-        "horizon": "6–12 months",
+        "thesis": "Long Anthropic IPO allocation (via secondary market or SPACs) if priced below $20B; Nvidia/AI sell-side consolidation opens window for 'alternative AI labs' narrative.",
+        "horizon": "90–180 days",
         "supporting_signals": [
-          "CoinDesk: Senate Democrats explicitly backing prediction market traders vs. CFTC ban",
-          "CNBC: Kalshi launches stock trading, signaling product-market fit and institutional adoption",
-          "Hacker News: AI and software engineering culture primes educated retail for prediction markets",
-          "Crypto trending: HYPE (Hyperliquid) prominence; derivatives infrastructure maturing"
+          "CNBC: Anthropic IPO setup more favorable than SpaceX was; investor appetite confirmed",
+          "Nvidia legal/export controls tighten—Anthropic's decentralized model and open-weights positioning de-risk concentration",
+          "Trump era openness to multiple AI vendors (vs. OpenAI favoritism)"
         ],
-        "counter_view": "CFTC enforcement intensifies despite Senate noise; Kalshi stock trading launch delayed; retail participants get wiped in forced liquidations (see Lighter exploit story); prediction market volume remains niche.",
-        "expression": "Meta-bet: Accumulate small positions in Polymarket / Kalshi cap tables if available via secondary markets or VC syndicates; or long portfolios of prediction market YES shares (buy low-probability events that resolve yes mid-year, e.g., Fed cuts, BTC above $80K). Or use volatility arbitrage: long vol (VXX, UVXY) through June, then rotate to crypto vol (BTC realized vol ETPs) July–September."
+        "counter_view": "Anthropic IPO overpriced on FOMO; weak near-term revenue vs. R&D burn; better to wait for secondary-market dips.",
+        "expression": "Accumulate Anthropic IPO shares on dips below $18B implied valuation; 180-day hold; unwind if NVDA stabilizes above $160"
       }
     ]
   }
