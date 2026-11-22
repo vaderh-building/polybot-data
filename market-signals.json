@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-11-21T13:10:14.729599+00:00",
+  "generated_at_utc": "2026-11-22T00:49:10.152289+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "S&P 500 correction: Five forces behind the market sell-off",
-        "summary": "The S&amp;P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
-        "link": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
-        "published": "Sat, 21 Nov 2026 11:29:25 GMT"
+        "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+        "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+        "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+        "published": "Sat, 21 Nov 2026 16:40:05 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+        "summary": "This would make the second recent intrusion into the FBI system.",
+        "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+        "published": "Sat, 21 Nov 2026 16:57:34 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "Tech outages are fueling a new doomsday economy",
         "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
         "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-        "published": "Sat, 21 Nov 2026 13:00:01 GMT"
+        "published": "Sat, 21 Nov 2026 15:04:56 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-        "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
-        "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-        "published": "Fri, 20 Nov 2026 22:59:33 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
-        "summary": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
-        "link": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
-        "published": "Sat, 21 Nov 2026 13:01:44 GMT"
-      },
-      {
-        "source": "CNBC Top News",
-        "title": "How China is using summits to expand its global influence",
-        "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
-        "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-        "published": "Sat, 21 Nov 2026 06:00:02 GMT"
+        "title": "State and federal battle over prediction markets regulation heats up after midterms",
+        "summary": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.",
+        "link": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+        "published": "Sat, 21 Nov 2026 13:12:41 GMT"
       },
       {
         "source": "CNBC Top News",
@@ -46,52 +39,66 @@
       },
       {
         "source": "CNBC Top News",
-        "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-        "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
-        "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-        "published": "Fri, 20 Nov 2026 21:35:24 GMT"
+        "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+        "summary": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
+        "link": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+        "published": "Sat, 21 Nov 2026 13:01:44 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Trump says he still has confidence in Lutnick",
-        "summary": "President Donald Trump, when asked by CNBC's Eamon Javers, said he has not lost confidence in Commerce Secretary Howard Lutnick.",
-        "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
-        "published": "Fri, 20 Nov 2026 20:52:08 GMT"
+        "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
+        "summary": "The price of gold has sparked a modern-day gold rush in California. Small-scale miners are investing time, physical labor and money to unearth the yellow metal.",
+        "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
+        "published": "Sat, 21 Nov 2026 14:05:40 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "How China is using summits to expand its global influence",
+        "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+        "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+        "published": "Sat, 21 Nov 2026 06:00:02 GMT"
       },
       {
         "source": "BBC World",
         "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
         "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
         "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 21 Nov 2026 12:52:00 GMT"
+        "published": "Sat, 21 Nov 2026 13:17:38 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 20 Nov 2026 22:42:47 GMT"
+        "title": "Russia-bound ship attacked in Gulf of Finland",
+        "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+        "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 21 Nov 2026 19:20:22 GMT"
       },
       {
         "source": "BBC World",
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
         "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 21 Nov 2026 09:52:11 GMT"
+        "published": "Sat, 21 Nov 2026 22:19:43 GMT"
+      },
+      {
+        "source": "BBC World",
+        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+        "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+        "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 21 Nov 2026 23:31:17 GMT"
       },
       {
         "source": "BBC World",
         "title": "FBI reportedly investigating apparent hack of its criminal database",
         "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
         "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 21 Nov 2026 09:34:20 GMT"
+        "published": "Sun, 22 Nov 2026 00:10:44 GMT"
       },
       {
         "source": "BBC World",
-        "title": "French police officers sentenced for beating of music producer Michel Zecler",
-        "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-        "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 20 Nov 2026 22:37:09 GMT"
+        "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+        "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+        "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 21 Nov 2026 10:26:36 GMT"
       },
       {
         "source": "BBC World",
@@ -102,17 +109,24 @@
       },
       {
         "source": "BBC World",
-        "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-        "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-        "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-        "published": "Sat, 21 Nov 2026 09:40:55 GMT"
+        "title": "Lock of former US President George Washington's hair sells for $4,000",
+        "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+        "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 21 Nov 2026 22:01:19 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-        "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-        "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 20 Nov 2026 23:08:57 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+        "published": "Sat, 21 Nov 2026 17:50:00 +0000"
+      },
+      {
+        "source": "CoinDesk",
+        "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+        "summary": "",
+        "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+        "published": "Sat, 21 Nov 2026 16:41:00 +0000"
       },
       {
         "source": "CoinDesk",
@@ -157,20 +171,6 @@
         "published": "Fri, 20 Nov 2026 22:05:31 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-        "published": "Fri, 20 Nov 2026 18:13:52 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-        "published": "Fri, 20 Nov 2026 14:54:30 +0000"
-      },
-      {
         "source": "Cointelegraph",
         "title": "Here’s what happened in crypto today",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
@@ -182,67 +182,73 @@
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-        "summary": "score: 2713, comments: 1894",
-        "link": "https://alpo.ge/remark.pdf",
-        "score": 2713
-      },
-      {
-        "source": "Hacker News",
         "title": "Hurried Announcement: Alessandro Masullo GRH",
-        "summary": "score: 2206, comments: 1033",
+        "summary": "score: 2388, comments: 1157",
         "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-        "score": 2206
+        "score": 2388
       },
       {
         "source": "Hacker News",
-        "title": "Inkling 2 Mini",
-        "summary": "score: 1101, comments: 205",
-        "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "score": 1101
-      },
-      {
-        "source": "Hacker News",
-        "title": "We promoted developers into architects without informing them",
-        "summary": "score: 480, comments: 263",
-        "link": "https://manidoraisamy.com/developer-to-architect.html",
-        "score": 480
-      },
-      {
-        "source": "Hacker News",
-        "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-        "summary": "score: 474, comments: 199",
-        "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-        "score": 474
-      },
-      {
-        "source": "Hacker News",
-        "title": "NINLIVE: The Nine Inch Nails live archive",
-        "summary": "score: 292, comments: 76",
-        "link": "https://ninlive.com/",
-        "score": 292
-      },
-      {
-        "source": "Hacker News",
-        "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-        "summary": "score: 283, comments: 255",
-        "link": "https://news.ycombinator.com/item?id=50583761",
-        "score": 283
+        "title": "Lean verification of the Riemann Hypothesis",
+        "summary": "score: 805, comments: 643",
+        "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "score": 805
       },
       {
         "source": "Hacker News",
         "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-        "summary": "score: 125, comments: 34",
+        "summary": "score: 731, comments: 234",
         "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-        "score": 125
+        "score": 731
+      },
+      {
+        "source": "Hacker News",
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "summary": "score: 548, comments: 133",
+        "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "score": 548
+      },
+      {
+        "source": "Hacker News",
+        "title": "Detonating a pile of lead azide",
+        "summary": "score: 506, comments: 339",
+        "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "score": 506
+      },
+      {
+        "source": "Hacker News",
+        "title": "My monitor was cutting my download speed by 75%",
+        "summary": "score: 469, comments: 225",
+        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "score": 469
+      },
+      {
+        "source": "Hacker News",
+        "title": "Inkling-2-Mini in 5.4 GB Memory",
+        "summary": "score: 340, comments: 91",
+        "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "score": 340
+      },
+      {
+        "source": "Hacker News",
+        "title": "Getting the mind to steer the body to steer you",
+        "summary": "score: 139, comments: 49",
+        "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+        "score": 139
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "WASTED (WASTED)",
-        "summary": "market cap rank: 810",
-        "link": "https://www.coingecko.com/en/coins/wasted-4"
+        "title": "Cash Cat (CASHCAT)",
+        "summary": "market cap rank: 455",
+        "link": "https://www.coingecko.com/en/coins/cash-cat"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Venice Token (VVV)",
+        "summary": "market cap rank: 59",
+        "link": "https://www.coingecko.com/en/coins/venice-token"
       },
       {
         "source": "CoinGecko Trending",
@@ -258,27 +264,21 @@
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Bittensor (TAO)",
-        "summary": "market cap rank: 38",
-        "link": "https://www.coingecko.com/en/coins/bittensor"
+        "title": "Solana (SOL)",
+        "summary": "market cap rank: 7",
+        "link": "https://www.coingecko.com/en/coins/solana"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Chunkee The Manatee (CHUNKEE)",
-        "summary": "market cap rank: 981",
-        "link": "https://www.coingecko.com/en/coins/chunkee-the-manatee"
+        "title": "Derive (DRV)",
+        "summary": "market cap rank: 113",
+        "link": "https://www.coingecko.com/en/coins/derive"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Sui (SUI)",
-        "summary": "market cap rank: 32",
-        "link": "https://www.coingecko.com/en/coins/sui"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Monad (MON)",
-        "summary": "market cap rank: 180",
-        "link": "https://www.coingecko.com/en/coins/monad"
+        "title": "Pearl (PEARL)",
+        "summary": "market cap rank: 77",
+        "link": "https://www.coingecko.com/en/coins/pearl-research"
       }
     ]
   },
@@ -287,126 +287,126 @@
       {
         "market_title": "Will Bitcoin close above $60,000 on June 30, 2026?",
         "venue": "Polymarket",
-        "why_now": "BTC plunged below $57k for first time in 2 years; market testing support and near capitulation lows warrant directional binary on Q2 2026 recovery.",
-        "signal_source": "CoinDesk: 'Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play'"
+        "why_now": "BTC liquidation cascade and two-year lows signal capitulation; oversold conditions often precede relief rallies into mid-year institutional rebalancing.",
+        "signal_source": "CoinDesk: Bitcoin tanks below $57,000 for first time in two years; $1.8B liquidation wave; crypto treasury firm BTCS warns of $54M liquidation risk"
       },
       {
-        "market_title": "Will Nvidia stock outperform S&P 500 by >5% between May 5–August 5, 2026?",
+        "market_title": "Will Anthropic's stock price exceed its IPO reference price by December 31, 2026?",
         "venue": "Kalshi",
-        "why_now": "NVDA down 14%, longest losing streak since 2008; ranks 4th globally after dominating AI rally; valuation reset creates binary on relative rebound.",
-        "signal_source": "CNBC: 'Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis'"
+        "why_now": "Historic IPO timing collides with tech's worst week since 2020; market breadth weakness (Nvidia's longest losing streak since 2008) creates undervaluation opportunity if fundamentals hold.",
+        "signal_source": "CNBC: Anthropic IPO collides with tech's worst week on Wall Street since 2020; Nvidia closed longest weekly losing streak since 2008"
       },
       {
-        "market_title": "Will the S&P 500 remain below correction territory (10% drawdown) through July 31, 2026?",
-        "venue": "Polymarket",
-        "why_now": "SPX now 10% off records; multiple headwinds (tech selloff, rate uncertainty, Anthropic equity pressure) make extended correction likely thesis.",
-        "signal_source": "CNBC: 'S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records'"
-      },
-      {
-        "market_title": "Will Kalshi successfully operate in New York by September 30, 2026?",
+        "market_title": "Will the CFTC/states reach a unified prediction market regulatory framework by September 30, 2026?",
         "venue": "Manifold",
-        "why_now": "Kalshi racing to preempt regulatory shutdown order; binary on regulatory win/loss is high-volume crypto trader interest and near-term resolution.",
-        "signal_source": "CoinDesk: 'Kalshi races to get ahead of New York order that could shut down exchange'"
+        "why_now": "Kalshi facing NY shutdown order; state-federal battle escalating post-midterms; lawmakers proposing whistleblower rewards structure signals regulatory momentum is accelerating.",
+        "signal_source": "CNBC: State and federal battle over prediction markets regulation heats up after midterms; CoinDesk: Kalshi races to get ahead of New York order that could shut down exchange; Cointelegraph: US lawmakers propose up to 30% rewards for prediction market whistleblowers"
       },
       {
-        "market_title": "Will Anthropic's market cap exceed $20 billion by December 31, 2026?",
+        "market_title": "Will Ethereum close the year 2026 above $2,500?",
         "venue": "Polymarket",
-        "why_now": "Anthropic equity pressure cited in market downturn; Riemann hypothesis breakthrough surfaces major AI research validation; valuation binary ties to tech thesis.",
-        "signal_source": "BBC World: 'In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest' + tech stock selloff pressure"
+        "why_now": "ECB seeking tokenized deposits and securities experiment partners; institutional on-ramp infrastructure maturing while spot price languishes in macro downtrend; risk/reward asymmetry.",
+        "signal_source": "Cointelegraph: ECB seeks industry partners for tokenized deposits, securities experiments; CoinDesk: Cross-chain protocol exploits and treasury liquidation warnings signal weak hands capitulating"
+      },
+      {
+        "market_title": "Will the Fed cut rates below 4% by December 31, 2026?",
+        "venue": "Kalshi",
+        "why_now": "Tech equity volatility (worst week since 2020) and crypto liquidations suggest deflationary asset shock; prediction market regulation battle and doomsday-economy sentiment imply recession hedging into 2H26.",
+        "signal_source": "CNBC: Tech outages fueling doomsday economy concerns; AI cyberattack and electricity grid worries; Nvidia and broad tech selloff signals growth deceleration"
       }
     ],
     "market_questions_to_create": [
       {
-        "question": "Will XRP close above $3.00 on July 31, 2026?",
-        "deadline": "2026-07-31",
-        "resolution_source": "CoinMarketCap or CoinGecko 30-day VWAP close",
-        "why_underpriced": "XRP ETF assets just slipped below $1B; long-bet unwinding creates capitulation signal; regulatory clarity on commodity status post-SEC policy shifts could drive rebound.",
-        "trigger_signal": "CoinDesk: 'XRP falls 10% as long bets unwind and ETF assets slip below $1 billion'"
+        "question": "Will Bitcoin trade above $65,000 at any point between now and August 31, 2026?",
+        "deadline": "2026-08-31",
+        "resolution_source": "CoinMarketCap or Coinbase hourly candle data (any 1-hour close >= $65,000)",
+        "why_underpriced": "Current capitulation and $57K lows create multi-month recovery bias; historical post-cascade rallies 50-100% are common; market is pricing tail risk too heavily.",
+        "trigger_signal": "BTC liquidation cascade below $57K; $1.8B in forced liquidations signal capitulation phase; summer institutional rebalancing into 3Q typically bullish"
       },
       {
-        "question": "Will the ECB launch a live pilot of tokenized deposits or securities by November 30, 2026?",
-        "deadline": "2026-11-30",
-        "resolution_source": "Official ECB press release or regulatory filing confirming >€100M pilot deployment",
-        "why_underpriced": "ECB actively seeking industry partners now; tokenized financial infrastructure is underbid by legacy-finance prediction markets; Europe moving faster than US on digital assets.",
-        "trigger_signal": "Cointelegraph: 'ECB seeks industry partners for tokenized deposits, securities experiments'"
+        "question": "Will Anthropic's market cap exceed $50 billion USD by July 31, 2027?",
+        "deadline": "2027-07-31",
+        "resolution_source": "Yahoo Finance or Bloomberg market capitalization snapshot; official SEC filings",
+        "why_underpriced": "IPO timing during tech selloff depresses initial valuation; if AI competitive landscape remains favorable and enterprise adoption accelerates, 2-3x within 2 years is plausible; current weakness creates asymmetric entry.",
+        "trigger_signal": "CNBC: Anthropic IPO during worst tech week since 2020; market is pricing regulatory and competitive risk; ignore near-term noise if LLM adoption metrics remain strong"
       },
       {
-        "question": "Will Donald Trump's Commerce Secretary Howard Lutnick remain in office through December 31, 2026?",
+        "question": "Will the DXY (US Dollar Index) close below 100 on December 31, 2026?",
         "deadline": "2026-12-31",
-        "resolution_source": "Official White House press release or Cabinet departure announcement",
-        "why_underpriced": "Trump just publicly reaffirmed confidence despite media speculation; crypto markets underweight insider political confidence signals; Lutnick's fintech/crypto background ties to policy direction.",
-        "trigger_signal": "CNBC: 'Trump says he still has confidence in Lutnick'"
+        "resolution_source": "Federal Reserve Economic Data (FRED) ICE DXY close or CME DXY futures settlement",
+        "why_underpriced": "Tech capitulation and crypto liquidations are deflationary shocks; if Fed cuts materially below 4% by late 2026, USD weakness is inevitable; markets pricing hard landing but dollar haven bid masks structural weakness.",
+        "trigger_signal": "BTC and crypto bloodbath signals risk-off; CNBC: doomsday economy and cyberattack fears; Nvidia selloff and broad tech selloff imply growth deceleration = rate cut cycle"
       },
       {
-        "question": "Will the FBI confirm breach of its National Crime Information Center (NCIC) database by October 15, 2026?",
-        "deadline": "2026-10-15",
-        "resolution_source": "Official FBI statement, congressional testimony, or credible news publication (Reuters, AP, WSJ) confirming breach",
-        "why_underpriced": "Cybersecurity infrastructure vulnerabilities directly impact AI-era risk premiums; feeds doomsday economy narrative driving defensive asset demand.",
-        "trigger_signal": "BBC World: 'FBI reportedly investigating apparent hack of its criminal database'"
+        "question": "Will gold (XAU/USD) settle above $2,100/oz on June 30, 2026?",
+        "deadline": "2026-06-30",
+        "resolution_source": "COMEX GC futures settlement price or LBMA Gold Price fixings (PM fix)",
+        "why_underpriced": "California modern-day gold rush, geopolitical escalation (Russia-Ukraine drone attacks, FBI database hacks, election security fears), and doomsday economy all support safe-haven bid; crypto capitulation typically precedes gold rally.",
+        "trigger_signal": "CNBC: Gold price sparking modern-day gold rush; BBC: Russian assassination plots, bridge strikes, ship attacks escalate Ukraine tensions; cybersecurity fears rising"
       },
       {
-        "question": "Will Bitcoin volatility (30-day realized vol) exceed 50% annualized on September 30, 2026?",
+        "question": "Will Kalshi successfully operate in New York without material licensing restrictions by September 30, 2026?",
         "deadline": "2026-09-30",
-        "resolution_source": "Deribit or CME historical volatility index for BTC spot prices",
-        "why_underpriced": "Current cascade (BTC <$57k, NVDA capitulation, SPX correction) signals regime shift; macro uncertainty (Fed, geopolitics, AI regulation) will keep vol elevated through Q3.",
-        "trigger_signal": "CoinDesk: 'Bitcoin tanks below $57,000 for the first time in two years' + CNBC tech selloff confluence"
+        "resolution_source": "New York State Department of Financial Services (NYDFS) public order/approval or Kalshi's operational status verified via their trading platform availability in NY",
+        "why_underpriced": "Regulatory arbitrage is favoring prediction markets; whistleblower reward structures signal regulatory clarity incoming; Kalshi's race against NY order implies high legal/political stakes = complex settlement but resolution is binary and verifiable.",
+        "trigger_signal": "CoinDesk: Kalshi races to get ahead of NY order; CNBC: state-federal battle escalating post-midterms; Cointelegraph: lawmakers proposing whistleblower framework = regulatory clarity coming by 3Q26"
       }
     ],
     "investment_theses": [
       {
-        "thesis": "Long Bitcoin duration, short growth equities (BTC vs. QQQ) on the view that correction-driven cash raise flows rotate into digital reserve assets and volatility crushes tech multiples into 2026.",
-        "horizon": "60–120 days",
+        "thesis": "Bitcoin reprices higher by September 2026 as capitulation liquidations exhaust weak hands and macro stimulus fears resurface amid tech selloff and recession hedging.",
+        "horizon": "3-4 months",
         "supporting_signals": [
-          "CoinDesk: BTC below $57k, capitulation momentum",
-          "CNBC: S&P 500 10% correction, NVDA longest losing streak since 2008",
-          "CNBC: Tech outages fueling doomsday economy sentiment"
+          "CoinDesk: BTC liquidation cascade to $57K (two-year low); $1.8B in forced liquidations signal capitulation phase entry",
+          "CNBC: Tech's worst week since 2020; Nvidia's longest losing streak since 2008 implies growth scare and potential pivot to risk assets",
+          "CoinDesk: Treasury firm BTCS warns $54M liquidation risk — overhang removal is bullish signal when exhausted"
         ],
-        "counter_view": "Fed pivot to easing could reinvigorate risk assets; QQQ outperformance has structural AI productivity tailwind that outweighs near-term multiple compression.",
-        "expression": "BTC spot long + QQQ call ratio spread (long calls OTM, short ATM calls, 60-DTE)"
+        "counter_view": "Systemic credit event (e.g., bank failure, derivatives blow-up) could force continued margin calls and ramp liquidations deeper; regulatory crackdown on prediction markets or crypto custody (Kalshi NY battle) could trigger further sentiment collapse.",
+        "expression": "Long BTC spot or June 2026 BTC call options (strike $62K-$65K); hedge with long VIX or SPY put to cap downside"
       },
       {
-        "thesis": "Long US dollar (DXY) and short emerging-market FX on the view that geopolitical uncertainty (Ukraine bridge strikes, COP31 climate deadlock, China summits) and Fed hold-steady bias drive safe-haven rotation.",
-        "horizon": "30–90 days",
+        "thesis": "US Dollar weakens into 2026 year-end as Fed cuts rates and inflation expectations reset lower amid tech deflation shock and recession hedging.",
+        "horizon": "6-9 months",
         "supporting_signals": [
-          "BBC World: Zelensky-UK military coordination escalation; Crimean Bridge strikes",
-          "BBC World: COP31 climate talks deadlock leaves EM policy direction unclear",
-          "CNBC: China expanding global influence via summits (Xi coordination signal)"
+          "CNBC: Tech outages and doomsday economy fears; AI cyberattack worries on electricity grid signal deflation bias",
+          "CoinDesk: Crypto liquidation cascade and USDC yield collapse imply contraction in credit creation",
+          "CNBC: Tech selloff (Nvidia, Anthropic IPO timing) = growth deceleration narrative = rate cuts by mid-2026"
         ],
-        "counter_view": "EM central banks (Brazil, Mexico) have already raised rates; USD strength chokes EM earnings; commodity recovery could spur risk-on reversal.",
-        "expression": "Long DXY perpetual contract on Bybit; short USDMXN 30-day options strangle"
+        "counter_view": "Unexpected inflation reacceleration (commodities spike, wage pressures, supply shock) forces Fed to hold or hike; geopolitical escalation (Russia-Ukraine, Taiwan) causes flight-to-safety USD bid.",
+        "expression": "Short DXY via inverse ETF (PSQ or leveraged short DXY); long EUR/USD or gold futures (XAU/USD calls); long USD-denominated crypto (synthetic via BTC/DXY pair trade)"
       },
       {
-        "thesis": "Long cybersecurity equities (Zscaler, CrowdStrike, Palo Alto) on M&A acceleration thesis and doomsday economy tail-hedge demand post-FBI database hack disclosure.",
-        "horizon": "60–180 days",
+        "thesis": "Anthropic equity reprices higher by mid-2027 as IPO weakness is absorbed, AI competitive landscape stabilizes, and enterprise LLM adoption accelerates despite near-term tech selloff.",
+        "horizon": "12-18 months",
         "supporting_signals": [
-          "CNBC: Zscaler +18% on CrowdStrike M&A interest; 'cybersecurity companies hunting for acquisitions in AI era'",
-          "BBC World: FBI criminal database breach investigation",
-          "CNBC: Tech outages fueling doomsday economy narrative"
+          "CNBC: Anthropic IPO during worst tech week since 2020 = depressed valuation entry; IPO-week weakness is tactical, not fundamental",
+          "AI breadth remains strong (Hacker News: Inkling-2-Mini in 5.4GB memory = edge-case optimization excitement; pancreatic cancer pill breakthrough signals medical AI demand)",
+          "ECB and central banks pursuing tokenized settlement = enterprise infrastructure demand for AI-powered custody solutions (Anthropic adjacent markets)"
         ],
-        "counter_view": "Cybersecurity multiples already expanded; M&A deal risks (regulatory, valuation disagreements); macro downturn could defer enterprise IT spend.",
-        "expression": "Long CRWD and ZS spot equity or 6-month call spreads; hedge with 10-delta puts"
+        "counter_view": "OpenAI or other AI labs release superior models, fragmenting market share; regulatory crackdown on AI training data or copyright claims erodes margins; Anthropic's governance structure creates founder/investor friction post-IPO.",
+        "expression": "Long Anthropic common stock (buy within 90 days post-IPO if available via secondary); synthetic: long ARK Innovation ETF (ARKK) + overweight AI mandate through 2027"
       },
       {
-        "thesis": "Long Ethereum over Bitcoin (ETH/BTC ratio) on the view that ECB and enterprise tokenization pilots accelerate stablecoin and smart-contract adoption faster than BTC-only narratives can capture.",
-        "horizon": "90–180 days",
+        "thesis": "Prediction market regulation bifurcates by state/region through 2026, creating regulatory arbitrage opportunities; Kalshi's NY fight resolves in favor of exchanges by Q3 2026.",
+        "horizon": "3-6 months",
         "supporting_signals": [
-          "Cointelegraph: ECB seeking industry partners for tokenized deposits/securities experiments",
-          "CoinDesk: Fairmint planning tokenized stock venue on Canton/Ethereum under SEC experiment",
-          "BBC World: Anthropic AI math breakthrough (Riemann hypothesis) validates AI-driven smart contract utility"
+          "CNBC: State-federal battle escalating post-midterms; lawmakers proposing whistleblower rewards (30% claw-back) signal regulatory legitimacy is shifting",
+          "CoinDesk: Kalshi races to head off NY shutdown = high-stakes legal battle; track record suggests FinTech wins regulatory arbitrage over state AGs",
+          "Cointelegraph: Hong Kong, ECB, and global regulators pushing crypto custody/advisory licensing = international regulatory harmonization trend supports US exchanges' legality argument"
         ],
-        "counter_view": "BTC as macro hedge will outperform if recession deepens; Ethereum regulatory risk in US remains higher; stablecoin adoption slower than predicted.",
-        "expression": "Long ETH/BTC ratio via perpetual swap on Hyperliquid or dYdX; size 60-90 days"
+        "counter_view": "New York or SEC wins the NY case; exchanges forced to exit or heavily restrict prediction market offerings; retail prediction market volume collapses due to regulatory uncertainty.",
+        "expression": "Kalshi equity (if secondary or private placement available); short Manifold's token valuation via private market shorts (if accessible); long Polymarket's USDC revenue via options or revenue-share contracts"
       },
       {
-        "thesis": "Long prediction market tokens (Kalshi, Manifold ecosystem) on the view that US Congressional whistleblower incentives and New York regulatory clarity create volume inflection and retail adoption surge.",
-        "horizon": "30–120 days",
+        "thesis": "Gold rallies into year-end 2026 as geopolitical risk premium (Russia-Ukraine escalation, US-China tensions via Xi summitry) and deflationary asset shock (tech selloff, crypto liquidations) drive safe-haven demand.",
+        "horizon": "6-12 months",
         "supporting_signals": [
-          "Cointelegraph: 'US lawmakers propose up to 30% rewards for prediction market whistleblowers'",
-          "CoinDesk: Kalshi racing to preempt New York shutdown order (high-stakes binary event)",
-          "Meta signal: Crypto trending (TAO, HYPE, SUI, MON) show appetite for utility/governance tokens"
+          "BBC: Russia-Ukraine attacks escalate (Crimean Bridge strikes, Gulf of Finland ship attack, assassination plot allegations); Finland defense involvement signals NATO Article 5 risk perception rising",
+          "CNBC: Gold price already sparking California gold rush; retail/small-scale interest is trailing indicator of macro momentum shift",
+          "CoinDesk: Crypto liquidation cascade = flight from risk assets; gold historically benefits from simultaneous equity and crypto selloffs"
         ],
-        "counter_view": "Regulatory crackdown could accelerate despite legislative support; prediction market adoption remains niche vs. traditional gambling; Kalshi may lose New York fight.",
-        "expression": "Accumulate KALSHI and emerging prediction market indexes if available; otherwise long small-cap crypto infrastructure plays (HYPE Hyperliquid on decentralized venue)"
+        "counter_view": "Fed pivot to hawkish stance (inflation surprise) leads to USD strength and gold weakness; geopolitical tensions de-escalate (Ukraine peace talks); deflationary recession crushes commodities demand.",
+        "expression": "Long gold futures (GC) or gold ETF (GLD, IAU); long $2,100 XAU/USD call spread (June 2026 or Dec 2026 expiry); hedge position via short EUR/USD if USD strength materializes"
       }
     ]
   }
