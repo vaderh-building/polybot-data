@@ -1,62 +1,90 @@
 {
-  "generated_at_utc": "2026-11-26T14:37:10.727016+00:00",
+  "generated_at_utc": "2026-11-27T03:23:08.803889+00:00",
   "live_signals": {
     "english_news": [
       {
         "source": "CNBC Top News",
-        "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-        "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-        "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-        "published": "Wed, 25 Nov 2026 16:17:13 GMT"
+        "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+        "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+        "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+        "published": "Thu, 26 Nov 2026 21:13:17 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+        "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+        "link": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+        "published": "Fri, 27 Nov 2026 00:22:29 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+        "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+        "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+        "published": "Thu, 26 Nov 2026 12:46:55 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+        "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
+        "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+        "published": "Fri, 27 Nov 2026 02:04:09 GMT"
+      },
+      {
+        "source": "CNBC Top News",
+        "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+        "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
+        "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+        "published": "Thu, 26 Nov 2026 17:04:54 GMT"
       },
       {
         "source": "CNBC Top News",
         "title": "Semiconductor chips are the new oil. Here's why",
         "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
         "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-        "published": "Thu, 26 Nov 2026 13:19:25 GMT"
+        "published": "Thu, 26 Nov 2026 17:52:15 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-        "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-        "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-        "published": "Thu, 26 Nov 2026 14:20:44 GMT"
+        "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+        "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's  sharp losses and latest comeback.",
+        "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+        "published": "Thu, 26 Nov 2026 16:00:01 GMT"
       },
       {
         "source": "CNBC Top News",
-        "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-        "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
-        "link": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-        "published": "Thu, 26 Nov 2026 06:39:34 GMT"
+        "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+        "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+        "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+        "published": "Thu, 26 Nov 2026 04:12:18 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-        "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-        "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-        "published": "Thu, 26 Nov 2026 12:22:25 GMT"
+        "source": "BBC World",
+        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+        "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 26 Nov 2026 22:49:27 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-        "summary": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
-        "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-        "published": "Thu, 26 Nov 2026 10:45:45 GMT"
+        "source": "BBC World",
+        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+        "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+        "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 27 Nov 2026 00:52:11 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
-        "summary": "Texture-maxxing is the latest food trend taking social media by storm as consumers, driven by aesthetics and taste, are now looking for a sensory experience too.",
-        "link": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
-        "published": "Thu, 26 Nov 2026 13:34:51 GMT"
+        "source": "BBC World",
+        "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+        "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+        "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 26 Nov 2026 19:26:16 GMT"
       },
       {
-        "source": "CNBC Top News",
-        "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-        "summary": "Swiss regulator FINMA said UBS can execute its preferred crisis-resolution strategy, even as the bank faces a separate parliamentary fight over tougher capital requirements.",
-        "link": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
-        "published": "Thu, 26 Nov 2026 11:17:39 GMT"
+        "source": "BBC World",
+        "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+        "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+        "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 27 Nov 2026 02:55:31 GMT"
       },
       {
         "source": "BBC World",
@@ -74,45 +102,38 @@
       },
       {
         "source": "BBC World",
-        "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-        "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
-        "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 26 Nov 2026 10:25:51 GMT"
+        "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+        "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+        "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 26 Nov 2026 14:44:26 GMT"
       },
       {
         "source": "BBC World",
-        "title": "Desperate appeals from women on death row in Iran after protests",
-        "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
-        "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 26 Nov 2026 06:01:58 GMT"
-      },
-      {
-        "source": "BBC World",
-        "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+        "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
         "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
         "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 26 Nov 2026 14:00:42 GMT"
+        "published": "Thu, 26 Nov 2026 22:01:22 GMT"
       },
       {
-        "source": "BBC World",
-        "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-        "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-        "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 26 Nov 2026 11:00:39 GMT"
+        "source": "CoinDesk",
+        "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+        "summary": "",
+        "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+        "published": "Thu, 26 Nov 2026 17:30:00 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-        "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 26 Nov 2026 12:33:23 GMT"
+        "source": "CoinDesk",
+        "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+        "summary": "",
+        "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+        "published": "Thu, 26 Nov 2026 16:50:23 +0000"
       },
       {
-        "source": "BBC World",
-        "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-        "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-        "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 26 Nov 2026 11:21:50 GMT"
+        "source": "CoinDesk",
+        "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+        "summary": "",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+        "published": "Thu, 26 Nov 2026 15:42:43 +0000"
       },
       {
         "source": "CoinDesk",
@@ -150,135 +171,114 @@
         "published": "Thu, 26 Nov 2026 11:17:22 +0000"
       },
       {
-        "source": "CoinDesk",
-        "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
-        "published": "Thu, 26 Nov 2026 10:56:08 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
-        "summary": "",
-        "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-        "published": "Thu, 26 Nov 2026 10:40:33 +0000"
-      },
-      {
-        "source": "CoinDesk",
-        "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-        "summary": "",
-        "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
-        "published": "Thu, 26 Nov 2026 08:01:33 +0000"
-      },
-      {
         "source": "Cointelegraph",
-        "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nasdaq exec pushes for common EU rules on tokenized securities\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C09F24P5KHBWTW0KT3PDYS/hi-ericx-launches-spot-market2.jpg\" /></p><p>Nasdaq’s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license.</p>",
-        "link": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 26 Nov 2026 13:47:56 +0000"
+        "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI is driving a flood of crypto bug reports. Now it’s helping sort them\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DAK96980JS6A0KGTGC3X0A/hi-can-chatgpt-really-predict-the-next-crypto-market-crash.jpg\" /></p><p>Bug bounty platform HackerOne said it’s increasing its triage throughput with AI agents after a record quarter of reports in the third quarter.</p>",
+        "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 27 Nov 2026 01:47:38 +0000"
       }
     ],
     "chinese_news": [],
     "hacker_news": [
       {
         "source": "Hacker News",
-        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-        "summary": "score: 1745, comments: 1591",
-        "link": "https://scottaaronson.blog/?p=10379",
-        "score": 1745
-      },
-      {
-        "source": "Hacker News",
-        "title": "1Password Security Incident",
-        "summary": "score: 1537, comments: 661",
-        "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-        "score": 1537
-      },
-      {
-        "source": "Hacker News",
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "summary": "score: 488, comments: 408",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "score": 488
-      },
-      {
-        "source": "Hacker News",
-        "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-        "summary": "score: 417, comments: 118",
-        "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-        "score": 417
-      },
-      {
-        "source": "Hacker News",
-        "title": "Slow Ubuntu security response times",
-        "summary": "score: 346, comments: 191",
-        "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-        "score": 346
-      },
-      {
-        "source": "Hacker News",
-        "title": "Tell HN: Lots of Ask HNs again",
-        "summary": "score: 328, comments: 129",
-        "link": "https://news.ycombinator.com/item?id=50649864",
-        "score": 328
-      },
-      {
-        "source": "Hacker News",
-        "title": "Collection of preserved UI style guides",
-        "summary": "score: 296, comments: 50",
-        "link": "https://aresluna.org/ui-style-guides/",
-        "score": 296
-      },
-      {
-        "source": "Hacker News",
-        "title": "Intel One Mono font",
-        "summary": "score: 227, comments: 137",
+        "title": "Intel One Mono font (2023)",
+        "summary": "score: 480, comments: 242",
         "link": "https://github.com/intel/intel-one-mono",
-        "score": 227
+        "score": 480
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI made self-hosting fun again",
+        "summary": "score: 384, comments: 211",
+        "link": "https://janlukas.blog/posts/ai-self-hosting",
+        "score": 384
+      },
+      {
+        "source": "Hacker News",
+        "title": "AMD-specific fork of llama.cpp",
+        "summary": "score: 299, comments: 73",
+        "link": "https://devnull.land/amd-specific-llama-cpp",
+        "score": 299
+      },
+      {
+        "source": "Hacker News",
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "summary": "score: 290, comments: 374",
+        "link": "https://github.com/antonpictures/youtube-punisher",
+        "score": 290
+      },
+      {
+        "source": "Hacker News",
+        "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+        "summary": "score: 274, comments: 52",
+        "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+        "score": 274
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+        "summary": "score: 265, comments: 221",
+        "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+        "score": 265
+      },
+      {
+        "source": "Hacker News",
+        "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+        "summary": "score: 225, comments: 99",
+        "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+        "score": 225
+      },
+      {
+        "source": "Hacker News",
+        "title": "Company Culture = Slack Emoji ÷ √Headcount",
+        "summary": "score: 144, comments: 50",
+        "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+        "score": 144
       }
     ],
     "crypto_trending": [
       {
         "source": "CoinGecko Trending",
-        "title": "Pepe Wojak (PEJAK)",
-        "summary": "market cap rank: 935",
-        "link": "https://www.coingecko.com/en/coins/pepe-wojak"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Zylo Ecosystem (ZYLO)",
-        "summary": "market cap rank: 730",
-        "link": "https://www.coingecko.com/en/coins/zylo-ecosystem"
+        "title": "Bitcoin (BTC)",
+        "summary": "market cap rank: 1",
+        "link": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "source": "CoinGecko Trending",
         "title": "Pudgy Penguins (PENGU)",
-        "summary": "market cap rank: 127",
+        "summary": "market cap rank: 128",
         "link": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "source": "CoinGecko Trending",
+        "title": "Pepe Wojak (PEJAK)",
+        "summary": "market cap rank: 957",
+        "link": "https://www.coingecko.com/en/coins/pepe-wojak"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Monero (XMR)",
+        "summary": "market cap rank: 13",
+        "link": "https://www.coingecko.com/en/coins/monero"
+      },
+      {
+        "source": "CoinGecko Trending",
+        "title": "Internet Computer (ICP)",
+        "summary": "market cap rank: 64",
+        "link": "https://www.coingecko.com/en/coins/internet-computer"
+      },
+      {
+        "source": "CoinGecko Trending",
         "title": "Venice Token (VVV)",
-        "summary": "market cap rank: 56",
+        "summary": "market cap rank: 57",
         "link": "https://www.coingecko.com/en/coins/venice-token"
       },
       {
         "source": "CoinGecko Trending",
-        "title": "Monad (MON)",
-        "summary": "market cap rank: 130",
-        "link": "https://www.coingecko.com/en/coins/monad"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Pepe Intelligence (PEI)",
-        "summary": "market cap rank: 844",
-        "link": "https://www.coingecko.com/en/coins/pepe-intelligence"
-      },
-      {
-        "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "summary": "market cap rank: 1",
-        "link": "https://www.coingecko.com/en/coins/bitcoin"
+        "title": "Pearl (PEARL)",
+        "summary": "market cap rank: 82",
+        "link": "https://www.coingecko.com/en/coins/pearl-research"
       }
     ]
   },
@@ -286,6 +286,6 @@
     "prediction_markets_to_watch": [],
     "market_questions_to_create": [],
     "investment_theses": [],
-    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011ChRi52hFEqy5ie7pWtCCY'}"
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011ChSiUo9L8HyiJ5vqDss2i'}"
   }
 }
